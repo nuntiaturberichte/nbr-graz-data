@@ -1,0 +1,81 @@
+import xml.etree.ElementTree as ET
+from collections import defaultdict
+import locale
+
+# Set locale to handle sorting of special characters correctly
+locale.setlocale(locale.LC_ALL, '')
+
+# Funktion zum Laden und Parsen der XML-Dateien unter Berücksichtigung des Namespaces
+def load_xml(file_path):
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+    return root
+
+# Funktion zum Mergen der Register unter Berücksichtigung des Namespaces
+def merge_registers(xml_roots, ns):
+    merged_root = ET.Element(f'{{{ns}}}list')
+    terms = defaultdict(list)
+
+    for root in xml_roots:
+        for item in root.findall('.//tei:text/tei:body/tei:list/tei:item', namespaces={'tei': ns}):
+            term = item.find('tei:term', namespaces={'tei': ns}).text
+            terms[term].append(item)
+
+    sorted_terms = sorted(terms.items(), key=lambda x: locale.strxfrm(x[0]))  # Alphabetische Sortierung der terms
+
+    for term, items in sorted_terms:
+        main_item = items[0]
+        refs_seen = set(ref.text for ref in main_item.findall('tei:ref', namespaces={'tei': ns}))
+
+        for sub_item in items[1:]:
+            for rs in sub_item.findall('tei:rs', namespaces={'tei': ns}):
+                main_item.append(rs)
+            for ref in sub_item.findall('tei:ref', namespaces={'tei': ns}):
+                if ref.text not in refs_seen:
+                    main_item.append(ref)
+                    refs_seen.add(ref.text)
+            sub_list = sub_item.find('tei:list', namespaces={'tei': ns})
+            if sub_list is not None:
+                main_list = main_item.find('tei:list', namespaces={'tei': ns})
+                if main_list is None:
+                    main_item.append(sub_list)
+                else:
+                    merge_sub_items(main_list, sub_list, ns)
+        merged_root.append(main_item)
+
+    return merged_root
+
+def merge_sub_items(main_list, sub_list, ns):
+    sub_terms = defaultdict(list)
+    for sub_sub_item in sub_list.findall('tei:item', namespaces={'tei': ns}):
+        sub_term = sub_sub_item.find('tei:term', namespaces={'tei': ns}).text
+        sub_terms[sub_term].append(sub_sub_item)
+
+    for sub_term, sub_items in sub_terms.items():
+        main_sub_item = next((item for item in main_list.findall('tei:item', namespaces={'tei': ns})
+                              if item.find('tei:term', namespaces={'tei': ns}).text == sub_term), None)
+        if main_sub_item is None:
+            main_list.append(sub_items[0])
+        else:
+            refs_seen = set(ref.text for ref in main_sub_item.findall('tei:ref', namespaces={'tei': ns}))
+            for sub_sub_item in sub_items:
+                for rs in sub_sub_item.findall('tei:rs', namespaces={'tei': ns}):
+                    main_sub_item.append(rs)
+                for ref in sub_sub_item.findall('tei:ref', namespaces={'tei': ns}):
+                    if ref.text not in refs_seen:
+                        main_sub_item.append(ref)
+                        refs_seen.add(ref.text)
+
+# Beispielaufruf
+file_paths = ['register-1.xml', 'register-2.xml', 'register-3.xml', 'register-4.xml', 'register-5.xml']  # Pfade zu den XML-Dateien
+ns = "http://www.tei-c.org/ns/1.0"  # Namespace-URL
+
+xml_roots = [load_xml(fp) for fp in file_paths]
+merged_root = merge_registers(xml_roots, ns)
+
+# Speichern der kombinierten XML-Datei
+output_file = 'merged_register.xml'
+tree = ET.ElementTree(merged_root)
+tree.write(output_file, encoding='utf-8', xml_declaration=True)
+
+print(f"Die zusammengeführte XML-Datei wurde erfolgreich als {output_file} gespeichert.")
