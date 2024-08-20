@@ -3,13 +3,42 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
+                <title level="s">Grazer Nuntiaturberichte</title>
+                <title level="a">Register</title>
+                <author>
+                    <persName>
+                        <forename>Martin</forename>
+                        <surname>Kroißenbrunner</surname>
+                    </persName>
+                </author>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">
+                        <surname>Gottsmann</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
             </titleStmt>
             <publicationStmt>
-                <p/>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The (CC BY 4.0)-License applies to this document.</p>
+                    </licence>
+                </availability>
+                <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI"/>
             </publicationStmt>
             <sourceDesc>
-                <p/>
+                <p>Born digital.</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
