@@ -44,210 +44,216 @@
     </teiHeader>
     <text>
         <body>
-            <!-- register, briefe, front -->
             <div>
-                <p>Dieses Projekt wurde in Zusammenarbeit mit dem Auftraggeber Andreas Gottsmann,
-                    den beiden ÖAW-Mitarbeitern Daniel Schopper und Stephan Kurz, der Lektorin
-                    Sabine Kofler und dem studentischen Mitarbeiter Martin Kroißenbrunner
-                    durchgeführt. Die Kontaktaufnahme erfolgte neben E-Mail und Instant Messenger
-                    durch mehrere Treffen an der ÖAW Wien. Da die Erstellung digitaler Editionen
-                    einem ständigen Wandel unterliegt, der mit häufigen Anpassungen der
-                    Arbeitsmittel einhergeht, werden immer wieder kleine Änderungen vorgenommen,
-                    ohne dass diese anders als durch die Benutzung selbst dokumentiert werden. Eine
-                    Darstellung des Arbeitsablaufs kann daher nur eine Momentaufnahme sein, auch
-                    wenn wir bemüht sind, sie aktuell zu halten und auch Veränderungen im
-                    Zeitverlauf zu dokumentieren.</p>
-            </div>
-            <div>
-                <head>Transkription</head>
-                <p>Der erste Schritt war die Umwandlung des Ausgangsmaterials (Bände 2 und 3:
-                    physische Bücher, Bände 4 und 5: PDF-Dateien) in computerlesbaren Text. Da Band
-                    1 bereits vor Beginn des offiziellen Projekts transkribiert und kontrolliert
-                    worden war, war dieser Schritt nur für die restlichen vier Bände
-                    erforderlich.</p>
-                <p>Für die Bände 2 und 3 wurde Transkribus eingesetzt. Transkribus ist eine in
-                    Innsbruck entwickelte Plattform zur automatischen Texterkennung nicht nur von
-                    gedruckten Texten, wie in diesem Fall, sondern auch von Handschriften. Nach dem
-                    Hochladen der Faksimiles wurde wie folgt vorgegangen:</p>
-                <list>
-                    <item>Layout der Seiten erfassen: Ziel dieses Schrittes war es, einerseits die
-                        Grundlinien bzw. "baselines" der Zeilen und andererseits die Seitenelemente
-                        (Seitenzahlen, Überschriften, Absätze, ...) mittels "text regions" zu
-                        erfassen. Ersteres dient als Ausgangsbasis für die automatische
-                        Texterkennung, letzteres zur Strukturierung der Transkription. Mehrere von
-                        Transkribus zur Verfügung gestellte Layout-Analyse-Engines wurden getestet
-                        und die geeignetste eingesetzt. Das Ergebnis wurde anschließend überprüft
-                        und gegebenenfalls korrigiert.</item>
-                    <item>Textbereiche annotieren: Ziel dieses Schrittes war es, die Textregionen zu
-                        benennen. Die untenstehende Tabelle zeigt, welche Bezeichnungen verwendet
-                        wurden. P2PaLA ist ein Layout-Analysewerkzeug, das Strukturtypen auf
-                        Regionsebene und Grundlinien einer Seite auf der Basis von vortrainierten
-                        Modellen erkennt und diesen Schritt erheblich erleichterte. Auch hier wurde
-                        das Ergebnis kontrolliert und gegebenenfalls korrigiert. Zur
-                        Veranschaulichung zeigt das folgende Bild einen Ausschnitt aus dem
-                        Arbeitsbereich des Transkribus Desktop-Clients, in dem sowohl die Erfassung
-                        des Layouts als auch die Annotation der Textbereiche einer Seite
-                        abgeschlossen wurde.<figure source="screenshot-transkribus.png"/></item>
-                    <item>Texterkennung: Die Erstellung einer Transkription des Faksimiles war das
-                        Ziel dieses Schrittes. Da die von Transkribus zur Verfügung gestellten
-                        Modelle nicht mit Hochstellungen umgehen konnten, wurden eigene Modelle
-                        trainiert. Dazu wurden etwa 75 Seiten eigenhändig transkribiert. Die Modelle
-                        lieferten Transkriptionen mit durchschnittlich 1-2 Fehlern pro Seite. Diese
-                        wurden dankenswerterweise von Frau <ref target="...">Sabine Kofler</ref>
-                        korrigiert.</item>
-                </list>
-                <p>Die Bände 1-3 wurden als PAGE XML Dateien exportiert. Dabei wurden pro
-                    Bandeinleitungen und dem Abschnitt der die Briefe beinhaltet, eigene Dateien
-                    generiert.</p>
-                <p>Die Bände 4 und 5 wurden vom Verlag der Österreichischen Akademie der
-                    Wissenschaften als PDF-Dateien übermittelt. Da es sich um textbasierte
-                    PDF-Dateien handelt, konnte der Text aus diesen extrahiert werden. Um den
-                    Workflow, der für die Bände 1 bis 3 vorgesehen war, zu übernehmen, entschied man
-                    sich, auch für diese Bände PAGE XML-Dateien zu erstellen. Dabei wurde ähnlich
-                    vorgegangen wie bei den Bänden 2 und 3. Nach dem Hochladen der Faksimiles wurden
-                    folgende Schritte unternommen:</p>
-                <list>
-                    <item>Layout der Seiten erfassen: siehe oben</item>
-                    <item>Textbereiche annotieren: siehe oben</item>
-                    <item>Text einfügen: Im Desktop-Client besteht die Möglichkeit, Faksimiles auf
-                        Basis von Grundlinien mit bereits vorhandenen Transkriptionen zu
-                        synchronisieren. Dazu muss für jedes Faksimile eine TXT-Datei zur Verfügung
-                        stehen. Zu diesem Zweck wurde der Text aus den PDF-Dateien extrahiert und
-                        mittels eines Python-Skripts pro Seite eine TXT-Datei erstellt. Diese
-                        TXT-Dateien dienen dann als Grundlage für die Synchronisation.</item>
-                </list>
-                <p>Anschließend wurden wieder PAGE XML-Dateien exportiert.</p>
-            </div>
-            <div>
-                <head>Konvertierung in TEI</head>
-                <p>Die zehn PAGE XML-Dateien (pro Band eine für die Einleitung und eine für den
-                    Briefteil) wurden mit Hilfe des <ref
-                        target="https://github.com/dariok/page2tei/tree/parametrize">auf GitHub
-                        gehosteten XSLT-Stylesheets page2tei-0.xsl</ref> in TEI XML-Dateien
-                    umgewandelt. Auf Basis der Strukturtypbezeichnungen wurden dabei TEI-konforme
-                    Elemente erzeugt. Die folgende Tabelle zeigt, welches Seitenelement welche
-                    Strukturtypbezeichnung in Transkribus im Schritt "Textbereiche annotieren"
-                    erhalten hat und in welche Elemente es im Zuge des XSLT-Stylesheets umgewandelt
-                    wurde.</p>
-                <table>
-                    <row>
-                        <cell cols="3">Diese Elemente sind in allen Bänden vorhanden</cell>
-                    </row>
-                    <row>
-                        <cell>Seitennummer</cell>
-                        <cell>page-number</cell>
-                        <cell>//fw[@type="page-number"]</cell>
-                    </row>
-                    <row>
-                        <cell>Briefnummer</cell>
-                        <cell>letter-number</cell>
-                        <cell>//ab[@type="letter-number"]</cell>
-                    </row>
-                    <row>
-                        <cell>Briefkopf</cell>
-                        <cell>heading</cell>
-                        <cell>//head</cell>
-                    </row>
-                    <row>
-                        <cell>Regest</cell>
-                        <cell>editors-note</cell>
-                        <cell>//ab[@type="editors-note"]</cell>
-                    </row>
-                    <row>
-                        <cell>Regest-Fortsetz.</cell>
-                        <cell>editors-note-continued</cell>
-                        <cell>//ab[@type="editors-note-continued"]</cell>
-                    </row>
-                    <row>
-                        <cell>Quellenangabe</cell>
-                        <cell>msIdentifier</cell>
-                        <cell>//ab[@type="msIdentifier"]</cell>
-                    </row>
-                    <row>
-                        <cell>Paragraph</cell>
-                        <cell>paragraph</cell>
-                        <cell>//p</cell>
-                    </row>
-                    <row>
-                        <cell>Paragraph-Fortsetz.</cell>
-                        <cell>paragraph-continued</cell>
-                        <cell>//ab[@type="paragraph-continued"]</cell>
-                    </row>
-                    <row>
-                        <cell>Fußnotenapparat</cell>
-                        <cell>footnote</cell>
-                        <cell>//note[@n="[footnote reference]"]</cell>
-                    </row>
-                    <row>
-                        <cell>Fußnotenapparat-Fortsetz.</cell>
-                        <cell>footnote-continued</cell>
-                        <cell>//note[@n="[footnote-continued reference]"]</cell>
-                    </row>
-                    <row>
-                        <cell cols="3">Diese Elemente sind zusätzlich in den Bänden 4 und 5
-                            vorhanden</cell>
-                    </row>
-                    <row>
-                        <cell>Verweis auf gedruckte Ausgaben des Briefes</cell>
-                        <cell>druck</cell>
-                        <cell>//ab[@type="druck"]</cell>
-                    </row>
-                    <row>
-                        <cell>Verweis auf Beilage</cell>
-                        <cell>beilage</cell>
-                        <cell>//ab[@type="beilage"]</cell>
-                    </row>
-                    <row>
-                        <cell cols="3">Diese Elemente sind zusätzlich im Band 5 vorhanden</cell>
-                    </row>
-                    <row>
-                        <cell>Verweis auf externen Regest</cell>
-                        <cell>regest</cell>
-                        <cell>//ab[@type="regest"]</cell>
-                    </row>
-                    <row>
-                        <cell>Textkritischer Apparat</cell>
-                        <cell>sigla-footnote</cell>
-                        <cell>//ab[@type="sigla-footnote"]</cell>
-                    </row>
-                </table>
-                <p>Die mit diesem Stylesheet konvertierten Dateien stellen jedoch noch keine
-                    adäquaten TEI-Dokumente dar. Auch wenn nun jeder Brief ein eigenes TEI-Dokument
-                    mit u.a. <code>head</code>, <code>p</code> und <code>note</code> Elementen
-                    darstellt, ist noch einiges zu tun, um korrekte TEI-Dokumente zu erhalten.
-                    Beispielsweise soll der Fußnotenapparat in ein In-Text-Zitationssystem
-                    umgewandelt werden, der TEI-Header muss mit Informationen angereichert werden,
-                    und die von einem Seitenumbruch unterbrochenen Paragraphen (resultiert in ein
-                    //p-Element für den Paragraph, ein //pb für den Seitenumbruch und ein
-                    //ab[@type="paragraph-continued"] für die Fortsetzung) zusammengesetzt
-                    werden.</p>
-            </div>
-            <div>
-                <head>Goobi</head>
-                <p>Strukturdaten werden für die Navigation sowie für den teiHeader benötigt. Diese
-                    wurden mit <ref>Goobi</ref> erstellt, einer Open Source Software-Suite, die
-                    speziell für die Digitalisierung und das Management von Kulturgut entwickelt
-                    wurde. In der Webanwendung wurde jeder Brief als eigenes Strukturelement erfasst
-                    und mit Normdaten zu den an der Korrespondenz beteiligten Personen und Orten
-                    angereichert. Das Ergebnis sind <ref
-                        target="https://github.com/nuntiaturberichte/nbr-graz-data/tree/main/mets"
-                        >METS-Dateien.</ref></p>
-            </div>
-            <div>
-                <head>Erstellung ordnungsgemäßer TEI-Dokumente</head>
-                <p>In diesem Schritt werden die nach TEI konvertierten PAGE XML-Dateien
-                    umstrukturiert und die Briefe mit den Inhalten der METS-Dateien angereichert.
-                    Dazu wurde ein Python-Skript für die Bandeinleitungen und ein Python-Skript für
-                    die Briefe erstellt...</p>
-            </div>
-            <div>
-                <head>Static Site generieren mit Cookiecutter</head>
-                <p>Nach der Erstellung der XML/TEI-Dateien, die den Inhalt dieser Website darstellen
-                    (und <ref target="https://github.com/nuntiaturberichte/nbr-graz-data">hier</ref>
-                    verfügbar sind), wurden XSLT-Dokumente erstellt, um HTML-Seiten zu generieren.
-                    Dieser Schritt basiert auf dem Static Site Generator <ref
-                        target="https://github.com/acdh-oeaw/dse-static-cookiecutter"
-                        >Cookiecutter</ref>.</p>
+                <div>
+                    <p>Dieses Projekt wurde in Zusammenarbeit mit dem Auftraggeber Andreas
+                        Gottsmann, den beiden ÖAW-Mitarbeitern Daniel Schopper und Stephan Kurz, der
+                        Lektorin Sabine Kofler und dem studentischen Mitarbeiter Martin
+                        Kroißenbrunner durchgeführt. Die Kontaktaufnahme erfolgte neben E-Mail und
+                        Instant Messenger durch mehrere Treffen an der ÖAW Wien. Da die Erstellung
+                        digitaler Editionen einem ständigen Wandel unterliegt, der mit häufigen
+                        Anpassungen der Arbeitsmittel einhergeht, werden immer wieder kleine
+                        Änderungen vorgenommen, ohne dass diese anders als durch die Benutzung
+                        selbst dokumentiert werden. Eine Darstellung des Arbeitsablaufs kann daher
+                        nur eine Momentaufnahme sein, auch wenn wir bemüht sind, sie aktuell zu
+                        halten und auch Veränderungen im Zeitverlauf zu dokumentieren.</p>
+                </div>
+                <div>
+                    <head>Transkription</head>
+                    <p>Der erste Schritt war die Umwandlung des Ausgangsmaterials (Bände 2 und 3:
+                        physische Bücher, Bände 4 und 5: PDF-Dateien) in computerlesbaren Text. Da
+                        Band 1 bereits vor Beginn des offiziellen Projekts transkribiert und
+                        kontrolliert worden war, war dieser Schritt nur für die restlichen vier
+                        Bände erforderlich.</p>
+                    <p>Für die Bände 2 und 3 wurde Transkribus eingesetzt. Transkribus ist eine in
+                        Innsbruck entwickelte Plattform zur automatischen Texterkennung nicht nur
+                        von gedruckten Texten, wie in diesem Fall, sondern auch von Handschriften.
+                        Nach dem Hochladen der Faksimiles wurde wie folgt vorgegangen:</p>
+                    <list>
+                        <item>Layout der Seiten erfassen: Ziel dieses Schrittes war es, einerseits
+                            die Grundlinien bzw. "baselines" der Zeilen und andererseits die
+                            Seitenelemente (Seitenzahlen, Überschriften, Absätze, ...) mittels "text
+                            regions" zu erfassen. Ersteres dient als Ausgangsbasis für die
+                            automatische Texterkennung, letzteres zur Strukturierung der
+                            Transkription. Mehrere von Transkribus zur Verfügung gestellte
+                            Layout-Analyse-Engines wurden getestet und die geeignetste eingesetzt.
+                            Das Ergebnis wurde anschließend überprüft und gegebenenfalls
+                            korrigiert.</item>
+                        <item>Textbereiche annotieren: Ziel dieses Schrittes war es, die
+                            Textregionen zu benennen. Die untenstehende Tabelle zeigt, welche
+                            Bezeichnungen verwendet wurden. P2PaLA ist ein Layout-Analysewerkzeug,
+                            das Strukturtypen auf Regionsebene und Grundlinien einer Seite auf der
+                            Basis von vortrainierten Modellen erkennt und diesen Schritt erheblich
+                            erleichterte. Auch hier wurde das Ergebnis kontrolliert und
+                            gegebenenfalls korrigiert.</item>
+                        <item>Texterkennung: Die Erstellung einer Transkription des Faksimiles war
+                            das Ziel dieses Schrittes. Da die von Transkribus zur Verfügung
+                            gestellten Modelle nicht mit Hochstellungen umgehen konnten, wurden
+                            eigene Modelle trainiert. Dazu wurden etwa 75 Seiten eigenhändig
+                            transkribiert. Die Modelle lieferten Transkriptionen mit
+                            durchschnittlich 1-2 Fehlern pro Seite. Diese wurden dankenswerterweise
+                            von Frau <ref target="...">Sabine Kofler</ref> korrigiert.</item>
+                    </list>
+                    <p>Die Bände 1-3 wurden als PAGE XML Dateien exportiert. Dabei wurden pro
+                        Bandeinleitungen und dem Abschnitt der die Briefe beinhaltet, eigene Dateien
+                        generiert.</p>
+                    <p>Die Bände 4 und 5 wurden vom Verlag der Österreichischen Akademie der
+                        Wissenschaften als PDF-Dateien übermittelt. Da es sich um textbasierte
+                        PDF-Dateien handelt, konnte der Text aus diesen extrahiert werden. Um den
+                        Workflow, der für die Bände 1 bis 3 vorgesehen war, zu übernehmen, entschied
+                        man sich, auch für diese Bände PAGE XML-Dateien zu erstellen. Dabei wurde
+                        ähnlich vorgegangen wie bei den Bänden 2 und 3. Nach dem Hochladen der
+                        Faksimiles wurden folgende Schritte unternommen:</p>
+                    <list>
+                        <item>Layout der Seiten erfassen: siehe oben</item>
+                        <item>Textbereiche annotieren: siehe oben</item>
+                        <item>Text einfügen: Im Desktop-Client besteht die Möglichkeit, Faksimiles
+                            auf Basis von Grundlinien mit bereits vorhandenen Transkriptionen zu
+                            synchronisieren. Dazu muss für jedes Faksimile eine TXT-Datei zur
+                            Verfügung stehen. Zu diesem Zweck wurde der Text aus den PDF-Dateien
+                            extrahiert und mittels eines Python-Skripts pro Seite eine TXT-Datei
+                            erstellt. Diese TXT-Dateien dienen dann als Grundlage für die
+                            Synchronisation.</item>
+                    </list>
+                    <p>Anschließend wurden wieder PAGE XML-Dateien exportiert.</p>
+                </div>
+                <div>
+                    <head>Konvertierung in TEI</head>
+                    <p>Die zehn PAGE XML-Dateien (pro Band eine für die Einleitung und eine für den
+                        Briefteil) wurden mit Hilfe des auf GitHub gehosteten XSLT-Stylesheets <ref
+                            target="https://github.com/dariok/page2tei/tree/parametrize"
+                            >page2tei-0.xsl</ref> in TEI XML-Dateien umgewandelt. Auf Basis der
+                        Strukturtypbezeichnungen wurden dabei TEI-konforme Elemente erzeugt. Die
+                        folgende Tabelle zeigt, welches Seitenelement welche Strukturtypbezeichnung
+                        in Transkribus im Schritt "Textbereiche annotieren" erhalten hat und in
+                        welche Elemente es im Zuge des XSLT-Stylesheets umgewandelt wurde.</p>
+                    <table>
+                        <row>
+                            <cell>Seitenelement</cell>
+                            <cell>Strukturtypbezeichnung in Transkribus</cell>
+                            <cell>TEI-Element nach page2tei-0.xsl</cell>
+                        </row>
+                        <row>
+                            <cell cols="3">Diese Elemente sind in allen Bänden vorhanden</cell>
+                        </row>
+                        <row>
+                            <cell>Seitennummer</cell>
+                            <cell>page-number</cell>
+                            <cell>//fw[@type="page-number"]</cell>
+                        </row>
+                        <row>
+                            <cell>Briefnummer</cell>
+                            <cell>letter-number</cell>
+                            <cell>//ab[@type="letter-number"]</cell>
+                        </row>
+                        <row>
+                            <cell>Briefkopf</cell>
+                            <cell>heading</cell>
+                            <cell>//head</cell>
+                        </row>
+                        <row>
+                            <cell>Regest</cell>
+                            <cell>editors-note</cell>
+                            <cell>//ab[@type="editors-note"]</cell>
+                        </row>
+                        <row>
+                            <cell>Regest-Fortsetz.</cell>
+                            <cell>editors-note-continued</cell>
+                            <cell>//ab[@type="editors-note-continued"]</cell>
+                        </row>
+                        <row>
+                            <cell>Quellenangabe</cell>
+                            <cell>msIdentifier</cell>
+                            <cell>//ab[@type="msIdentifier"]</cell>
+                        </row>
+                        <row>
+                            <cell>Paragraph</cell>
+                            <cell>paragraph</cell>
+                            <cell>//p</cell>
+                        </row>
+                        <row>
+                            <cell>Paragraph-Fortsetz.</cell>
+                            <cell>paragraph-continued</cell>
+                            <cell>//ab[@type="paragraph-continued"]</cell>
+                        </row>
+                        <row>
+                            <cell>Fußnotenapparat</cell>
+                            <cell>footnote</cell>
+                            <cell>//note[@n="[footnote reference]"]</cell>
+                        </row>
+                        <row>
+                            <cell>Fußnotenapparat-Fortsetz.</cell>
+                            <cell>footnote-continued</cell>
+                            <cell>//note[@n="[footnote-continued reference]"]</cell>
+                        </row>
+                        <row>
+                            <cell cols="3">Diese Elemente sind zusätzlich in den Bänden 4 und 5
+                                vorhanden</cell>
+                        </row>
+                        <row>
+                            <cell>Verweis auf gedruckte Ausgaben des Briefes</cell>
+                            <cell>druck</cell>
+                            <cell>//ab[@type="druck"]</cell>
+                        </row>
+                        <row>
+                            <cell>Verweis auf Beilage</cell>
+                            <cell>beilage</cell>
+                            <cell>//ab[@type="beilage"]</cell>
+                        </row>
+                        <row>
+                            <cell cols="3">Diese Elemente sind zusätzlich im Band 5 vorhanden</cell>
+                        </row>
+                        <row>
+                            <cell>Verweis auf externen Regest</cell>
+                            <cell>regest</cell>
+                            <cell>//ab[@type="regest"]</cell>
+                        </row>
+                        <row>
+                            <cell>Textkritischer Apparat</cell>
+                            <cell>sigla-footnote</cell>
+                            <cell>//ab[@type="sigla-footnote"]</cell>
+                        </row>
+                    </table>
+                    <p>Die mit diesem Stylesheet konvertierten Dateien stellen jedoch noch keine
+                        adäquaten TEI-Dokumente dar. Auch wenn nun jeder Brief ein eigenes
+                        TEI-Dokument mit u.a. <code>head</code>, <code>p</code> und
+                            <code>note</code> Elementen darstellt, ist noch einiges zu tun, um
+                        korrekte TEI-Dokumente zu erhalten. Beispielsweise soll der Fußnotenapparat
+                        in ein In-Text-Zitationssystem umgewandelt werden, der TEI-Header muss mit
+                        Informationen angereichert werden, und die von einem Seitenumbruch
+                        unterbrochenen Paragraphen (resultiert in ein //p-Element für den Paragraph,
+                        ein //pb für den Seitenumbruch und ein //ab[@type="paragraph-continued"] für
+                        die Fortsetzung) zusammengesetzt werden.</p>
+                </div>
+                <div>
+                    <head>Goobi</head>
+                    <p>Strukturdaten werden für die Navigation sowie für den teiHeader benötigt.
+                        Diese wurden mit <ref target="https://goobi.io/">Goobi</ref> erstellt, einer
+                        Open Source Software-Suite, die speziell für die Digitalisierung und das
+                        Management von Kulturgut entwickelt wurde. In der Webanwendung wurde jeder
+                        Brief als eigenes Strukturelement erfasst und mit Normdaten zu den an der
+                        Korrespondenz beteiligten Personen und Orten angereichert. Das Ergebnis sind
+                            <ref
+                            target="https://github.com/nuntiaturberichte/nbr-graz-data/tree/main/mets"
+                            >METS-Dateien.</ref></p>
+                </div>
+                <div>
+                    <head>Erstellung ordnungsgemäßer TEI-Dokumente</head>
+                    <p>In diesem Schritt werden die nach TEI konvertierten PAGE XML-Dateien
+                        umstrukturiert und die Briefe mit den Inhalten der METS-Dateien
+                        angereichert. Dazu wurde ein Python-Skript für die Bandeinleitungen und ein
+                        Python-Skript für die Briefe erstellt...</p>
+                </div>
+                <div>
+                    <head>Static Site generieren mit Cookiecutter</head>
+                    <p>Nach der Erstellung der XML/TEI-Dateien, die den Inhalt dieser Website
+                        darstellen (und <ref
+                            target="https://github.com/nuntiaturberichte/nbr-graz-data">hier</ref>
+                        verfügbar sind), wurden XSLT-Dokumente erstellt, um HTML-Seiten zu
+                        generieren. Dieser Schritt basiert auf dem Static Site Generator <ref
+                            target="https://github.com/acdh-oeaw/dse-static-cookiecutter"
+                            >Cookiecutter</ref>.</p>
+                </div>
             </div>
         </body>
     </text>
