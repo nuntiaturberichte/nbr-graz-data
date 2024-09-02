@@ -207,7 +207,7 @@
                             </list>
                             <p>Dieses Element markiert den Beginn einer Seite und dient als Ziel für Verlinkungen aus dem Register. Das Attribut
                                     <code>@xml:id</code> enthält die Band- und Seitennummer, die im
-                                Format <code>"P\d_\d{7}"</code> angegeben wird. Beispiel:
+                                Format <code>"P(\d)_(\d{7})"</code> angegeben wird. Beispiel:
                                     <code>"P1_0000001"</code>. Hierbei steht <code>$1</code> für die
                                 Bandnummer und <code>$2</code> für die Seitennummer.</p>
 
