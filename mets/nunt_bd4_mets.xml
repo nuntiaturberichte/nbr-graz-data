@@ -6,7 +6,7 @@
          <mets:note>Goobi</mets:note>
       </mets:agent>
    </mets:metsHdr>
-   <mets:dmdSec ID="DMDLOG_0001">
+   <mets:dmdSec ID="DMDLOG_0000">
       <mets:mdWrap MDTYPE="MODS">
          <mets:xmlData>
             <mods:mods>
@@ -53,7 +53,7 @@
                   </mods:titleInfo>
                   <mods:part>
                      <mods:detail>
-                        <mods:number>5</mods:number>
+                        <mods:number>4</mods:number>
                      </mods:detail>
                   </mods:part>
                </mods:relatedItem>
@@ -2383,6 +2383,7 @@
          <mets:xmlData>
             <mods:mods>
                <mods:originInfo>
+                  <mods:dateCreated>1596-02-26</mods:dateCreated>
                   <mods:place>
                      <mods:placeTerm type="text" valueURI="http://www.geonames.org/2778067">Graz</mods:placeTerm>
                   </mods:place>
