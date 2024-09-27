@@ -6,7 +6,7 @@
          <mets:note>Goobi</mets:note>
       </mets:agent>
    </mets:metsHdr>
-   <mets:dmdSec ID="DMDLOG_0000">
+   <mets:dmdSec ID="DMDLOG_0001">
       <mets:mdWrap MDTYPE="MODS">
          <mets:xmlData>
             <mods:mods>
@@ -605,7 +605,7 @@
                <mods:titleInfo>
                   <mods:title>14. Minucci an Regini - Rom, 1595 Juli 15</mods:title>
                </mods:titleInfo>
-               <mods:name type="personal">
+               <mods:name authority="gnd" authorityURI="http://d-nb.info/gnd/" type="personal" valueURI="https://d-nb.info/gnd/1011736314">
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
                   </mods:role>
@@ -1797,7 +1797,7 @@
                   </mods:place>
                </mods:originInfo>
                <mods:titleInfo>
-                  <mods:title>52. Minucci an Germanico - Malaspina, Nuntius in Polen - Rom, 1596 Januar 6</mods:title>
+                  <mods:title>52. Minucci an Germanico Malaspina, Nuntius in Polen - Rom, 1596 Januar 6</mods:title>
                </mods:titleInfo>
                <mods:name authority="gnd" authorityURI="http://d-nb.info/gnd/" type="personal" valueURI="http://d-nb.info/gnd/118576658">
                   <mods:role>
@@ -12849,7 +12849,7 @@
                   </mods:place>
                </mods:originInfo>
                <mods:titleInfo>
-                  <mods:title>394. Portia an Giulio Antonio - Santorio, Eb. von S. Severina - Graz, 1598 Januar 19</mods:title>
+                  <mods:title>394. Portia an Giulio Antonio Santorio, Eb. von S. Severina - Graz, 1598 Januar 19</mods:title>
                </mods:titleInfo>
                <mods:name authority="gnd" authorityURI="http://d-nb.info/gnd/" type="personal" valueURI="http://d-nb.info/gnd/124321542">
                   <mods:role>
@@ -18252,7 +18252,7 @@
             <mets:div DMDID="DMDLOG_0054" ID="LOG_0068" LABEL="49. Minucci an General G. F. Aldobrandini - Rom, 1595 Dezember 30" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0055" ID="LOG_0069" LABEL="50. Portia an C. Aldobrandini - Graz, 1596 Januar 1" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0056" ID="LOG_0070" LABEL="51. C. Aldobrandini an Portia - Rom, 1596 Januar 6" TYPE="letter"/>
-            <mets:div DMDID="DMDLOG_0057" ID="LOG_0071" LABEL="52. Minucci an Germanico - Malaspina, Nuntius in Polen - Rom, 1596 Januar 6" TYPE="letter"/>
+            <mets:div DMDID="DMDLOG_0057" ID="LOG_0071" LABEL="52. Minucci an Germanico Malaspina, Nuntius in Polen - Rom, 1596 Januar 6" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0058" ID="LOG_0072" LABEL="53. Portia an C. Aldobrandini - Graz, 1596 Januar 8" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0059" ID="LOG_0073" LABEL="54. C. Aldobrandini an Portia - Rom, 1596 Januar 13" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0060" ID="LOG_0074" LABEL="55. Portia an C. Aldobrandini - Graz, 1596 Januar 15" TYPE="letter"/>
@@ -18597,7 +18597,7 @@
             <mets:div DMDID="DMDLOG_0400" ID="LOG_0414" LABEL="391. General G. F. Aldobrandini an P. Aldobrandini - Görz, 1598 Januar 6" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0401" ID="LOG_0415" LABEL="392. Portia an P. Aldobrandini - Graz, 1598 Januar 12" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0402" ID="LOG_0416" LABEL="393. Portia an P. Aldobrandini - Graz, 1598 Januar 12" TYPE="letter"/>
-            <mets:div DMDID="DMDLOG_0403" ID="LOG_0417" LABEL="394. Portia an Giulio Antonio - Santorio, Eb. von S. Severina - Graz, 1598 Januar 19" TYPE="letter"/>
+            <mets:div DMDID="DMDLOG_0403" ID="LOG_0417" LABEL="394. Portia an Giulio Antonio Santorio, Eb. von S. Severina - Graz, 1598 Januar 19" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0404" ID="LOG_0418" LABEL="395. Portia an P. Aldobrandini - Graz, 1598 Januar 19" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0405" ID="LOG_0419" LABEL="396. Portia an P. Aldobrandini - Graz, 1598 Januar 26" TYPE="letter"/>
             <mets:div DMDID="DMDLOG_0406" ID="LOG_0420" LABEL="397. Portia an P. Aldobrandini - Graz, 1598 Januar 26" TYPE="letter"/>
