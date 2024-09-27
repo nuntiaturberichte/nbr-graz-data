@@ -2571,6 +2571,39 @@ Oktober 1</mods:title>
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
+   <mets:dmdSec ID="DMDLOG_0171">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:originInfo>
+                  <mods:dateCreated>1581-03-20</mods:dateCreated>
+                  <mods:place>
+                     <mods:placeTerm type="text" valueURI="http://www.geonames.org/2778067">Graz</mods:placeTerm>
+                  </mods:place>
+               </mods:originInfo>
+               <mods:titleInfo>
+                  <mods:title>79A. Malaspina an Herzog Wilhelm - Graz, 1581 März 20</mods:title>
+               </mods:titleInfo>
+               <mods:name authority="gnd" authorityURI="http://d-nb.info/gnd/" type="personal" valueURI="http://d-nb.info/gnd/118771841">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Bayern, Herzog, V.</mods:namePart>
+                  <mods:namePart type="given">Wilhelm</mods:namePart>
+                  <mods:displayForm>Bayern, Herzog, V., Wilhelm</mods:displayForm>
+               </mods:name>
+               <mods:name authority="gnd" authorityURI="http://d-nb.info/gnd/" type="personal" valueURI="http://d-nb.info/gnd/118576658">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Malaspina</mods:namePart>
+                  <mods:namePart type="given">Germanico</mods:namePart>
+                  <mods:displayForm>Malaspina, Germanico</mods:displayForm>
+               </mods:name>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
    <mets:dmdSec ID="DMDLOG_0088">
       <mets:mdWrap MDTYPE="MODS">
          <mets:xmlData>
@@ -8232,6 +8265,7 @@ Oktober 1" TYPE="letter"/>
          <mets:div DMDID="DMDLOG_0085" ID="LOG_0090" LABEL="77. (Graz, 1581 März 14 oder 24)" TYPE="letter"/>
          <mets:div DMDID="DMDLOG_0086" ID="LOG_0091" LABEL="78. Gallio an Malaspina - Rom, 1581 März 18" TYPE="letter"/>
          <mets:div DMDID="DMDLOG_0087" ID="LOG_0092" LABEL="79. Orazio Malaspina an G. Malaspina - Prag, 1581 März 19" TYPE="letter"/>
+         <mets:div DMDID="DMDLOG_0171" ID="LOG_0178" LABEL="79A. Malaspina an Herzog Wilhelm - Graz, 1581 März 20" TYPE="letter"/>
          <mets:div DMDID="DMDLOG_0088" ID="LOG_0093" LABEL="80. Malaspina an Gallio - Graz, 1581 März 24" TYPE="letter"/>
          <mets:div DMDID="DMDLOG_0089" ID="LOG_0094" LABEL="81. Gallio an Malaspina - Rom, 1581 März 25" TYPE="letter"/>
          <mets:div DMDID="DMDLOG_0090" ID="LOG_0095" LABEL="82. Gallio an P. Possevino - Rom, 1581 März 27" TYPE="letter"/>
