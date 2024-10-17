@@ -1,0 +1,1746 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title level="a">Einleitung zum 4. Band</title>
+				<author ref="http://d-nb.info/gnd/118968440">Rainer Johann</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="http://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/128045272">Garms-Cornides
+								Elisabeth</persName>
+							<persName>Rainer Christian</persName>
+						</respStmt>
+						<respStmt>
+							<resp>Register</resp>
+							<persName>Bauer Oswald</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Girolamo Portia; 1595-1598</title>
+						<idno type="ISBN">978-3-7001-7139-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>2012</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Historisches Institut beim Österreichischen Kulturforum in
+									Rom</orgName>
+								<persName>Bösel Richard</persName>
+								<persName>Fillitz Hermann</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="4">4. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="558">558 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Historischen Instituts beim
+							Österreichischen Kulturforum in Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb xml:id="P4_0000VII"/>
+				<head n="1">Vorwort</head>
+				<p>Als ich Anfang 1958 als wissenschaftlicher Sekretär und Stellvertreter des in
+					Wien als Generaldirektor des Österreichischen Staatsarchivs und Vorstand des
+					Instituts für Österreichische Geschichtsforschung voll ausgelasteten
+					wissenschaftlichen Direktors des Österreichischen Kulturinstituts in Rom, Leo
+					Santifaller, meinen Dienst antrat, war mir noch nichts von einer Nuntiatur Graz
+					bekannt. Nachdem ich bereits 1954/55 als Stipendiat in Rom an den Registern
+					Papst Innozenz III. gearbeitet hatte, lag es daher zunächst nahe, die
+					Forschungen meines Vorgängers, der an eine Schweizer Universität berufen worden
+					war, an den Papsturkunden fortzusetzen. Aufgrund verschiedener Umstände kam es
+					aber nicht dazu, weshalb ich im Vatikanischen Geheimarchiv nach einer anderen
+					Forschungsarbeit suchte. Zuerst stieß ich auf den großen und – wie mir schien –
+					noch weitgehend unbearbeiteten Bestand der Informativprozesse. Als kleine Frucht
+					dieser Periode entstand die Veröffentlichung einer Liste der zum deutschen
+					Kardinalprotektorat gehörenden Servitientaxen sowie zu den Informativprozessen
+					über österreichische Konsistorialklöster. Weiter stellte ich eine größere
+					Publikation zu diesem Thema in Aussicht.</p>
+				<p>Dazu kam es aber nicht, weil ich auf die Nuntiaturberichte stieß. Dabei stellte
+					ich fest, dass in der Publikationsreihe zu den Nuntiaturberichten aus
+					Deutschland, die im Zuge der 1891 erfolgten Aufteilung der Arbeiten zwischen dem
+					Preußischen (später Deutschen) und dem Österreichischen Historischen Institut in
+					Rom sowie dem Römischen Institut der Görres-Gesellschaft entstanden war, noch
+					immer ein Band fehlte. Die dafür zuständigen Vertreter der Österreichischen
+					Akademie der Wissenschaften, Heinrich von Srbik und Leo Santifaller, hatten aber
+					schon 1939 und 1952 jeweils beim Erscheinen eines Bandes im Vorwort die
+					Vollendung der dafür vorgesehenen Reihe mitgeteilt. Ich hielt es daher für meine
+					vordringliche Aufgabe, diese Lücke zu schließen und konnte 1967 den Band II/8
+					der Nuntiaturberichte aus Deutschland publizieren. Bei der Arbeit an diesem Band
+					stieß ich auch auf die Grazer Nuntiaturberichte, in deren Veröffentlichung ich
+					die gegebene Fortsetzung sah und dabei blieb.</p>
+				<p>Mit der Herausgabe des 4. Bandes der Grazer Nuntiatur beende ich nun nach fast 50
+					Jahren meinen Beitrag dazu. Auch wenn die Arbeit nicht immer leicht war, weil
+					sie nicht überall auf uneingeschränktes Verständnis stieß und <pb
+						xml:id="P4_000VIII"/>Quellenarbeiten überdies derzeit nicht „modern“ zu sein
+					scheinen, lernte ich doch auch bei den Forschungen im Vatikanischen Archiv
+					Kollegen aus vielen Ländern – von Spanien bis Polen – kennen, in denen es einmal
+					eine Nuntiatur gegeben hatte. Sie gewährten mir bei anregenden Gesprächen in den
+					kurzen Arbeitspausen Einblicke in deren Geschichte und Probleme. Die Arbeit an
+					den Nuntiaturberichten verzögerte sich freilich auch dadurch, dass die Zahl der
+					Studierenden, Diplomanden und Dissertanten im Laufe der Jahre meiner
+					Lehrtätigkeit an den Universitäten Innsbruck, Rom und Padua stetig anwuchs,
+					sodass immer weniger Zeit für die Forschung verblieb.</p>
+				<p>Für vielfache Unterstützung habe ich bereits in den Vorworten der einzelnen Bände
+					gedankt. Besonderen Dank schulde ich dem Vatikanischen Archiv, von dem meine
+					Wünsche nach weiteren Kodizes und Faszikeln stets geduldig erfüllt wurden. Dank
+					gilt auch meinem Sohn Christian, der mich seit einigen Jahren aufgrund meiner
+					altersbedingten Schwierigkeiten tatkräftig unterstützt. Anerkennung und
+					Ermunterung habe ich immer von den Grazer Professoren Hermann Wiesflecker (†
+					2009) und Othmar Pickl († 2008) sowie in besonderer Weise von der Historischen
+					Landeskommis sion für Steiermark erhalten. Sie hat 1960 die Edition der Berichte
+					der Grazer Nuntiatur von 1580 bis 1622 in ihr Arbeitsprogramm aufgenommen. Die
+					dafür erforderlichen Forschungen hat die Historische Landeskommission finanziell
+					ebenso unterstützt wie sie Beiträge zu den Druckkosten geleistet hat. Nach
+					längeren Vorstudien konnten zwischen 1973 und 2001 die von mir bearbeiteten
+					Bände 1–3 für die Jahre 1580–1595 erscheinen. Mit Band 4 für die Zeit von 1595
+					bis 1598 schließt zugleich die Historische Landeskommission ihr Projekt „Grazer
+					Nuntiatur“ ab, unterstützt aber dankenswerter Weise die Druckkosten des bereits
+					unter dem Dach der Österreichischen Akademie der Wissenschaften entstandenen 5.
+					Bandes. Die Diözese GrazSeckau trägt ebenfalls großzügig zur Drucklegung dieses
+					(und des folgenden) Bandes bei. Dem Historischen Institut beim Österreichischen
+					Kulturforum in Rom danke ich für die Finanzierung der Arbeit am Register dieses
+					Bandes.</p>
+				<p>Vor der Drucklegung haben Dr. Oswald Bauer, a. o. Univ.-Prof. Dr. Elisabeth
+					Garms-Cornides und Mag. Elisabeth Zingerle das Manuskript nochmals durchgesehen,
+					fragliche Stellen mit den Archiva lien kollationiert und mannigfache
+					Verbesserungen anbringen können. Herr Dr. Bauer hat darüber hinaus das Register
+					angefertigt. Ass.-Prof. Mag. Dr. Hermann Kuprian überarbeitete die Einleitung.
+					Ihnen allen gilt mein Dank, insbesondere Frau Mag. Elisabeth Zingerle, die mir
+					wiederholt während der Fertigstellung dieses Bandes behilflich war. Dass sie die
+					weitere Bearbeitung der Grazer Nuntiatur übernommen hat, ist mir eine große
+					Freude und ich wünsche ihr dabei viel Erfolg.</p>
+				<p>Innsbruck, 17. Januar 2011 Johann Rainer</p>
+			</div>
+			<div>
+				<pb xml:id="P4_00000IX"/>
+				<head n="1">Einleitung</head>
+				<p>Girolamo Portia wurde ca. 1559 auf Schloss Porcia, in der heutigen Provinz
+					Pordenone gelegen, geboren. Seine Eltern waren Graf Alfonso Portia und Susanna,
+					geborene Gräfin Thurn/della Torre. Möglicherweise studierte er in Padua und
+					lernte dort Cinzio Aldobrandini kennen. Anschließend trat er in päpstliche
+					Dienste, überbrachte 1588 Erzherzogin Anna Katharina in Innsbruck die Goldene
+						Rose,<note xml:id="FN4_001">ASV, Ep. ad Principes, Registra 22, fol.
+						216r.</note> begleitete den Kardinallegaten Enrico Caetano 1589/90 nach
+					Frankreich und wurde 1591 Referendar beider Signaturen. Am 28. März und am 13.
+					April 1592 wurden seine beiden Instruktionen datiert und am 8. April sein
+					Kredential für Erzherzog Ernst, damals Regent Innerösterreichs, ausgestellt. Im
+					Mai 1592 reiste er von Rom ab, verhandelte im Juni in Innsbruck mit Erzherzog
+					Ferdinand wegen der Straßburger Wirren und hielt sich in den folgenden Monaten
+					in Passau, München, Salzburg und Altötting auf.</p>
+				<p>Erst gegen Ende des Jahres 1592 kam Portia in Graz an, reiste von dort aber bald
+					wieder weiter. Obwohl seit 1592 in Graz für Innerösterreich akkreditiert, war er
+					den größten Teil der Zeit bis 1595 in Bayern und in der Schweiz tätig. Sein
+					Hauptauftrag bestand hier in der Beilegung des Streits zwischen dem Herzog von
+					Bayern und dem Erzbischof von Salzburg um das Berchtesgadener Gebiet. Im Jahr
+					1594 nahm der Nuntius am Reichstag in Regensburg teil.<note xml:id="FN4_002"
+						>Rainer, GN III, S. XIV f.</note> Mit großem Eifer visitierte und
+					reformierte er in den ersten Monaten des Jahres 1595 in Süddeutschland und in
+					der Schweiz. So etwa im Januar/Februar 1595 den Bischof von Chur<note
+						xml:id="FN4_003">Rainer, GN III, S. 391.</note> und die Abtei Sankt
+						Gallen,<note xml:id="FN4_004">Ebenda, S. 401.</note> für deren neu gewählten
+					Abt er schon im vorangegangenen September den Informationsprozess geführt
+						hatte.<note xml:id="FN4_005">Ebenda, S. 374.</note> Seit Monaten war er
+					außerdem mit den Klöstern Wettingen und Sion in der Schweiz beschäftigt.</p>
+				<p>Portia musste derart viel reisen, dass damit sogar in Rom das Ausbleiben seiner
+					wöchentlichen Berichte entschuldigt wurde.<note xml:id="FN4_006">Ebenda, S.
+						402.</note> Inmitten dieser Aktivitäten wurde er jedoch am 4. März 1595
+					beauftragt, in Graz Residenz <pb xml:id="P4_000000X"/>zu nehmen,<note
+						xml:id="FN4_007">Ebenda, S. 397.</note> um Einflüsse von „Häretikern und
+					suspekten Leuten“ von dem jungen Landesfürsten Erzherzog Ferdinand fern zu
+						halten.<note xml:id="FN4_008">Ebenda, S. 404.</note> Vermutlich aber hatte
+					er diese Weisung noch gar nicht erhalten, als am 12. März schon die nächste
+					verfasst und abgeschickt wurde, mit Breven für Sankt Gallen und den Senat von
+					Luzern wegen des Klosters Sion.<note xml:id="FN4_009">Ebenda, S. 402. Zur
+						richtigen Identifikation von Sion (statt Sitten) siehe unten S. LI und Nr. 1
+						A 2.</note> Am 16. März berichtete Portia aus Kempten und am 24. März aus
+						Augsburg.<note xml:id="FN4_010">Ebenda, S. 404.</note> Nun musste er zurück
+					und schrieb am 12. April aus Konstanz und am 20. April aus Luzern.<note
+						xml:id="FN4_011">Siehe unten Nr. 1, 2.</note> Nach erfolgreich erledigtem
+					Auftrag in der Schweiz meldete er sich sodann am 12. Mai aus Dillingen,<note
+						xml:id="FN4_012">Siehe unten Nr. 4.</note> reiste aber nicht direkt Donau
+					abwärts weiter, denn er hielt sich anschließend in Eichstätt, Ingolstadt und
+					Anfang Juni in Nürnberg auf.<note xml:id="FN4_013">Siehe unten Nr. 7, 9.</note>
+					Im selben Monat erkrankte er anscheinend derart ernsthaft, dass aus Ingolstadt
+					ein katholischer Arzt geholt werden musste.<note xml:id="FN4_014">Siehe unten
+						Nr. 14.</note> Am 6. Juli schrieb er aus Regensburg, dass er noch schwach
+					sei und erst in der darauf folgenden Woche die Reise nach Graz antreten
+						könne.<note xml:id="FN4_015">Siehe unten Nr. 12.</note> Ende Juli kam Portia
+					dann in Graz an und meldete sofort, dass die Landstände wegen der Religionsfrage
+					Kommissare zum Kaiser geschickt hätten.<note xml:id="FN4_016">Siehe unten Nr.
+						16, 17.</note>
+				</p>
+				<p>Erzherzog Ferdinand dagegen war seit Anfang März 1595 nach fünfjährigem
+					Studienaufenthalt in Ingolstadt wieder in Graz. Da er beim Tod seines Vaters
+					Karl II. (1590) erst zwölf Jahre alt war, wurden Kaiser Rudolf II. , Erzherzog
+					Ferdinand von Tirol, Herzog Wilhelm V. von Bayern und seine Mutter Erzherzogin
+					Maria mit der Vormundschaft betraut. Für die Regierung Innerösterreichs waren
+					Erzherzog Ernst und 1593 nach dessen Abgang in die Niederlande Erzherzog
+					Maximilian als Regenten bestimmt worden. Gemäß väterlichem Testament sollte
+					Ferdinand mit vollendetem 18. Lebensjahr die Regierung übernehmen. Dazu fehlten
+					ihm aber bei seiner Ankunft in Graz noch eineinhalb Jahre. Maximilian beantragte
+					daher am 1. April 1595 nach Rücksprache mit der Mutter des jungen Erben und den
+					wichtigsten Mitgliedern der Landstände beim Kaiser, Ferdinand die Regierung zu
+					übergeben mit der Auflage, dass er in allen Justiz-, Kammerund
+					Kriegsangelegenheiten die Zustimmung des Kaisers einholen müsse.<note
+						xml:id="FN4_017">Loserth, FRA/II, 58, S. 153 f.</note>
+					<pb xml:id="P4_00000XI"/>
+					<pb xml:id="P4_00000XI"/>Maximilian, der auch Oberbefehlshaber des kaiserlichen
+					Heers in Ungarn war und schon im Oktober und November 1594 die Demission als
+					Regent angestrebt hatte, übergab am 10. Mai 1595 mit kaiserlicher Zustimmung die
+					Regierung an Ferdinand.<note xml:id="FN4_018">Hurter III, S. 199 f., 291.</note>
+					In den ersten Schreiben aus Graz, die leider nicht erhalten sind und deren
+					Inhalt nur aus der Korrespondenz Cinzio Aldobrandinis mit dem Nuntius am
+					Kaiserhof erschlossen werden kann, berichtete Portia schon über drei Probleme,
+					die ihn die folgenden Jahre hauptsächlich beschäftigen sollten:</p>
+				<p>Weitere wichtige Themen der Korrespondenz werden in den kommenden Jahren die
+					Uskokenfrage, die Auseinandersetzungen mit Aquileia, die Erbregelung in Tirol
+					und der päpstliche Heerzug nach Ferrara sein.</p>
+				<div>
+					<head n="2">1. „Villacher Handel“ und Gegenreformation</head>
+					<p>Villach mit weitem Umland bis Pontafel/Pontebba an der damaligen Grenze zu
+						Venedig, das obere Lavanttal mit Wolfsberg und kleinere Besitzungen in
+						Mittelkärnten wurden ab 1007 im Wesentlichen vom späteren Kaiser Heinrich
+						II. und seiner Gemahlin Kunigunde dem Bistum Bamberg geschenkt.<note
+							xml:id="FN4_020">Koller-Neumann, Die Lehen, S. 11–15.</note> Erst im
+						Jahr 1535 verloren diese Gebiete weitgehend ihre exterritoriale Stellung in
+						Kärnten und wurden der landesfürstlichen Hoheit unterworfen. Die Verwaltung
+						dieser reichen Besitzungen oblag dem in Wolfsberg residierenden Vizedom.
+						Unter Bischof Johann Georg I. Zobel (1577–1580) wurde der steirische
+						Freiherr und Vorkämpfer des Protestantismus, Johann Friedrich Hoffmann,
+						Bamberger Vizedom. Rom verlangte bereits 1579 vom Bischof die Absetzung
+						Hoffmanns, was dieser aber entschieden ablehnte, indem er seinen Vizedom als
+						ergebenen, tüchtigen <pb xml:id="P4_0000XII"/>Wirtschafter verteidigte, der
+						Katholiken und Protestanten gerecht und gleichrangig behandeln würde. Erst
+						im Jahre 1584 wurde Hoffmann vom Bamberger Kanoniker Johann von Rednitz
+							abgelöst.<note xml:id="FN4_021">Rainer, GN II, S. 291, 481
+							(Register).</note>
+					</p>
+					<p>Die evangelische Reformationsbewegung war in Villach schon sehr früh
+						erfolgreich. Bereits im Jahre 1526 übergab daher der damalige Patronatsherr
+						der Stadtpfarrkirche St. Jakob, Freiherr Sigismund von Dietrichstein, diese
+						der Bürgerschaft von Villach, weil hier „allein das wort gottes chlar,
+						lauter an all menschlich zusätz gebredigt werde“.<note xml:id="FN4_022"
+							>Koller-Neumann, Gegenreformation, S. 17.</note> Außer dem
+						Landesfürsten, dem Grundherrn (Bischof von Bamberg) und dem Patronatsherrn
+						(Villacher Bürgerschaft) war für die Pfarrkirche aber auch der Patriarch von
+						Aquileia als Diözesanbischof zuständig. Die zum Großteil evangelische
+						Bürgerschaft hingegen wurde von den Kärntner Landständen A. C., denen sich
+						auch jene von Steiermark und Krain gegen den katholischen Landesfürsten
+						anschlossen, kräftigst unterstützt. Der Streit um die Stadtpfarrkirche St.
+						Jakob hat in der Folge nicht nur in Kärnten, sondern weit darüber hinaus,
+						nämlich in Rom und im Reich als „Villacher Handel“ einiges Aufsehen
+							erregt.<note xml:id="FN4_023">Ebenda, S. 9, 13, 17, 51 ff.</note>
+					</p>
+					<p>Portia achtete stets auf die Bekämpfung des Religionsexerzitiums der
+						Evangelischen, die beim Adel und bei den Bürgern die große Mehrheit
+						bildeten, aber auch unter den Bauern zahlreiche Anhänger hatten. Durch
+						Reisen und Visitationen lernte er die Lage kennen und korrespondierte
+						wiederholt mit der römischen Inquisition. Gute Beziehungen unterhielt der
+						Nuntius zu den Bischöfen des Landes, zum Erzbischof von Salzburg, zum
+						Patriarchen von Aquileia und vor allem zu den Bischöfen von Gurk, Laibach
+						und Lavant, die zugleich als Statthalter von Innerösterreich fungierten.
+						Selbstverständlich war er bei der Nominierung der Bischöfe von Laibach und
+						Triest eingebunden, welche den Landesfürsten Innerösterreichs zustand; und
+						er beurkundete auf Bitten Betroffener auch mit apostolischer Vollmacht.
+						Besonders bemühte sich Portia, den Landesfürsten Ferdinand in der Abwehr
+						konfessioneller Forderungen der evangelischen Stände zu unterstützen.
+						Deswegen nahm er nicht nur bei der Huldigung der Steirer im Dezember 1596 in
+						Graz teil, sondern auch im folgenden Januar und Februar bei jener der
+						Kärntner und Krainer Landstände in Klagenfurt und Laibach. Als Ferdinand II.
+						1598 seine große Pilgerfahrt zum Papst nach Ferrara, Loreto und Rom
+						unternahm, gehörte Portia zu seiner engsten Begleitung.<note
+							xml:id="FN4_024">Siehe Nr. 427–430; Loserth, Tagebuch.</note>
+					</p>
+				</div>
+				<div>
+					<pb xml:id="P4_000XIII"/>
+					<head n="2">2. Portia und die erzherzogliche Familie</head>
+					<p>Aus der im Jahre 1571 von Erzherzog Karl II. mit Prinzessin Maria von Bayern
+						geschlossenen Ehe<note xml:id="FN4_025">Rainer, N. B. aus Deutschland II/8,
+							S. 62–69.</note> sind in 19 Jahren 15 Kinder hervorgegangen. Dies
+						bedeutete für sie einerseits große Sorgen um eine standesgemäße Vermählung
+						oder Versorgung derselben, anderseits ergaben sich dadurch aber Erfolg
+						versprechende Möglichkeiten für die habsburgische Heiratspolitik. Während
+						von den sechs Söhnen zwei bereits in jungen Jahren starben, wurde Erbprinz
+						Ferdinand mit zwölf Jahren zur Ausbildung nach Ingolstadt geschickt, kehrte
+						1595 zurück, verwaltete seine Länder – Steiermark, Kärnten, Krain, Görz,
+						Triest, Fiume und Teile von Istrien – zunächst im Einvernehmen mit seinem
+						Vetter Kaiser Rudolf II., seit Ende 1596 als regierender Landesfürst, bis er
+						1619 zum Kaiser gewählt wurde. Maximilian Ernst wurde Landkomtur des
+						Deutschen Ordens in Österreich; Leopold mit den Bistümern Passau und
+						Straßburg versorgt, 1619 auch Statthalter von Tirol und Vorderösterreich,
+						ehe er 1626 auf die beiden Bistümer verzichtete und Claudia de’ Medici
+							heiratete.<note xml:id="FN4_026">Weiß, Claudia De’ Medici; Weiß, Leopold
+							V.</note> Karl wurde 1608 mit 18 Jahren Bischof von Breslau, 1613
+						Bischof von Brixen, Anfang 1619 Hoch- und Deutschmeister und starb am 28.
+						Dezember 1624 in Madrid auf dem Weg nach Portugal, wo er als spanischer
+						Vizekönig vorgesehen war.<note xml:id="FN4_027">Noflatscher, Maximilian, S.
+							291–293, 297.</note> Von den neun Töchtern starben vier unverheiratet,
+						zwei als Kinder, Katharina mit 19 Jahren und Gregoria Maximiliana als Braut
+						Philipps III. im 17. Lebensjahr. Bei Anna, der ältesten Tochter, zogen sich
+						die Überlegungen, vorsichtigen Fühlungnahmen und schließlich Verhandlungen
+						für ihre Vermählung über Jahre hin: Bereits im Jahre 1581 legte Nuntius
+						Antonio Possevino auf seinem Weg nach Moskau Erzherzog Karl in Graz die Ehe
+						der erst acht Jahre alten Anna mit dem Prinzen Sigismund von Schweden nahe
+						und empfahl, ein Bild der Prinzessin zu schicken. In seiner Begründung
+						verwies er auf die damit verbundenen Hoffnungen auf eine Wiederherstellung
+						der katholischen Kirche in Schweden.<note xml:id="FN4_028">Rainer, GN I, S.
+							231.</note> Am 22. Juli 1585 schickte Nuntius Giovanni Andrea Caligari
+						aus Graz eine Liste der Kinder Karls und Marias mit dem Zusatz „alle schön
+						wie die Engel, und die Prinzessinnen wird man mit jedem katholischen Fürsten
+						vermählen können“.<note xml:id="FN4_029">Derselbe, GN II, S. 415.</note> Am
+						9. September meldete er, dass ein Vertrauter des Kardinals Bourbon geheim
+						mit Erzherzog Karl wegen der Verheiratung Annas gesprochen habe, wobei der
+						Name des Bräutigams <pb xml:id="P4_0000XIV"/>allerdings nicht genannt
+							wurde.<note xml:id="FN4_030">Ebenda, S. 427.</note> Diesem Bericht legte
+						er ein Blatt bei, auf dem er die Ehe Annas „poco più di 12 anni, bella come
+						un angelo e di razza di fare ogni dì un figlio“ mit König Philipp II. oder
+						mit Kaiser Rudolf II. empfahl.<note xml:id="FN4_031">Ebenda, S. 393.</note>
+						In Graz waren die Gedanken aber eher auf den Erbprinzen Heinrich von
+						Lothringen gerichtet, gefördert von Herzog Wilhelm V. von Bayern, der selbst
+						mit einer Lothringerin verheiratet war.<note xml:id="FN4_032">Hurter III, S.
+							10.</note> Von Lothringen kam jedoch weder Zustimmung noch Ablehnung,
+						weshalb Erzherzogin Maria vermutete, dass die ehemalige französische
+						Königin, Katharina von Medici – Großmutter Heinrichs – „Österreich nicht
+						hold sei“ und das Projekt hintertreiben würde.<note xml:id="FN4_033">Ebenda,
+							S. 12, 30.</note> Die bereits alt gewordene und kinderlose Königin Anna
+						von Polen wurde zur Förderin der Ehe ihres Neffen Sigismund, Erbprinz von
+						Schweden und seit 1587 gewählter König von Polen, mit Anna, obwohl die
+						Beziehungen zwischen Österreich und Polen durch Erzherzog Maximilian, der
+						die verlorene polnische Königswahl vergebens mit Waffengewalt bekämpft hatte
+						und am 14. Januar 1588 in Gefangenschaft geraten war,<note xml:id="FN4_034"
+							>Ebenda, S. 7, 12 f.; Noflatscher, Maximilian, S. 155.</note> nicht die
+						Besten waren. Dieses undiplomatische Verhalten Maximilians, der erst wieder
+						am 8. September 1589 nach Vermittlungen des Kardinallegaten Ippolito
+						Aldobrandini frei kam, verzögerte zwar die Verhandlungen, konnte aber
+						letztlich die am 1. Juni 1592 in Krakau festlich gefeierte Hochzeit
+						Sigismunds mit Anna nicht verhindern. Während Sigismund Ende 1592 nach dem
+						Tod seines Vaters Johann auch König von Schweden wurde, setzte die
+						päpstliche Diplomatie auf Königin Anna. Doch die glückliche, für die
+						römische Hoffnung auf eine Rekatholisierung Schwedens und für eine Stärkung
+						der Türkenliga verheißungsvolle Ehe dauerte nur kurze Zeit, denn Anna starb
+						am 10. Februar 1598 bei der Entbindung ihres fünften Kindes, das in der
+						Nottaufe den Namen Christoph erhielt und ebenfalls nicht überlebte.<note
+							xml:id="FN4_035">Hurter IV, 308–312, 523–534; Roth, Erzherzogin
+							Anna.</note>
+					</p>
+					<p>Weniger langwierig verliefen die Verhandlungen sowie die Vorbereitungen für
+						die Heirat der Erzherzogin Maria Christierna mit Fürst Sigismund Báthory von
+						Siebenbürgen, obwohl weder die Mutter noch die Tochter eine solche wollten.
+						Da jedoch Siebenbürgen als wichtiger strategischer Eckpfeiler in der
+						Türkenabwehr galt, bemühten sich Papst Klemens VIII. und Kaiser Rudolf II.
+						um den Beitritt Sigismunds zur Türkenliga. Dieser verlangte dafür unter
+						anderem die Vermählung mit einer Habsburger Prinzessin. Nachdem aber weder
+						der Kaiser noch seine vier Brüder und auch <pb xml:id="P4_00000XV"/>nicht
+						Erzherzog Ferdinand von Tirol Töchter im heiratsfähigen Alter hatten,
+						verblieb nur der Grazer Hof. So wurde eben die nächstälteste Tochter, Maria
+						Christierna, geboren am 10. November 1574, dazu bestimmt, und Mutter wie
+						Tochter – aber auch die Schwester Königin Anna – mussten schließlich dem
+						Drängen des Kaisers und des Papstes nachgeben. Rom vertrat dabei den
+						Standpunkt, dass nicht jede Prinzessin einen König heiraten könne, während
+						der Fürst von Siebenbürgen immerhin über ein starkes Heer mit 40.000 Pferden
+						verfüge, das für die Verteidigung der Christenheit gebraucht werde. Anfang
+						Januar 1595 erreichten die Abgeordneten Siebenbürgens den kaiserlichen Hof
+						in Prag, an dem nach schwierigen Verhandlungen am 28. Jänner das Bündnis für
+						die Türkenabwehr geschlossen wurde, in dem auch eine „Grazer Prinzessin“ für
+						Sigismund „vorgesehen“ war. Am 1. März brachte die Siebenbürgische
+						Gesandtschaft in Graz die Brautwerbung vor, und bereits am 4. März fand die
+						Verlobung statt, bei der Sigismund von seinem Onkel Stefan Bocskay vertreten
+						wurde. Wiederholt musste jedoch die Abreise von Graz wegen fiebriger
+						Erkrankung der Braut verschoben werden. Sie erfolgte erst am 15. Juni in
+						Begleitung der Brautmutter Erzherzogin Maria sowie der Bischöfe von Lavant
+						und Triest. Die Reise nach Siebenbürgen konnte allerdings wegen der
+						türkischen Besetzung großer Teile Ungarns und aufgrund der unsicheren
+						militärischen Lage nur unter starkem Geleitschutz und über weite Umwege
+						durch Niederösterreich und die Slowakei erfolgen. Am 1. August kam
+						schließlich der Brautzug in Karlsburg/Alba Julia an, am 6. August wurde
+						Hochzeit gefeiert.</p>
+					<p>Diese Verbindung Maria Christiernas mit Sigismund sollte aber in keiner Weise
+						die Hoffnungen des Kaisers und des Papstes erfüllen. Vielmehr schuf sie neue
+						Probleme, mit deren Lösung besonders der spanische Jesuit Alfonso Carrillo
+						beschäftigt war. Über Jahre hinweg reiste und vermittelte er zwischen
+						Siebenbürgen, Prag, Rom und Graz. Anfang 1598 konnte er schließlich
+						entscheidend zu einer Lösung beitragen: Sigismund sollte zu Gunsten des
+						Kaisers auf Siebenbürgen verzichten und dafür die Fürstentümer Oppeln und
+						Ratibor sowie weitere Besitzungen erhalten, die nicht vollzogene Ehe sollte
+						dagegen annulliert und Sigismund eventuell Kardinal werden, während
+						Erzherzog Maximilian als neuer Regent von Siebenbürgen mit Maria Christierna
+						verheiratet werden sollte.</p>
+					<p>Sigismund dankte sodann auch am 10. April 1598 ab und kam am 20. Juli in
+						Oppeln an, flüchtete aber bereits am 11. August von dort über Polen zurück
+						nach Siebenbürgen, wo Maximilian noch nicht angekommen war. Rasch konnte er
+						seine Herrschaft wieder festigen, verhandelte sowohl mit dem Kaiser als auch
+						mit dem Osmanischen Reich, rief seinen Vetter Kardinal Andreas Báthory ins
+						Land und dankte schließlich zu dessen Gunsten am <pb xml:id="P4_0000XVI"
+						/>24. März 1599 zum zweiten Mal ab. Siebenbürgen kam unterdessen nicht zur
+						Ruhe, denn der Kardinal wurde schon am 28. Oktober 1598 ermordet und das
+						Fürstentum in kriegerische Auseinandersetzungen um die Nachfolge verwickelt.
+						Erst mit dem Frieden von Zsitva Torok im Jahre 1606 entspannte sich die
+						Situation, nachdem Maria Christierna bereits im Mai 1599 nach vier
+						persönlich schwierigen Jahren in Siebenbürgen zu ihrer Mutter nach Graz
+						zurückgekehrt war. Sie trat 1607 gemeinsam mit ihrer Schwester Eleonore in
+						das vornehme, von den Töchtern Kaiser Ferdinands I. gegründete Damenstift in
+						Hall bei Innsbruck ein, wo sie 1621 als Priorin verstarb. Sigismund hingegen
+						beendete sein ruheloses Leben – er dankte noch zwei Mal ab – 1613 in
+							Prag.<note xml:id="FN4_036">Hurter III, S. 315–344; Reissenberger, Maria
+							Christierna, S. 27 ff.; Szilas, Carrillo, S. 126; Zingerle, Maria
+							Christierna. Dies. ausführlich in dem von ihr bearbeiteten, in Druck
+							befindlichen 5. Band der Editionsreihe Grazer Nuntiatur von Girolamo
+							Portia 1599–1602 (Zingerle, GN V).</note>
+					</p>
+					<p>Die spanische und die österreichische Linie der Habsburger versuchten
+						bekanntlich stets, durch gezielte Heiratspolitik die Einheit des Hauses zu
+						erhalten. So etwa ehelichte Maximilian II. Maria, die Tochter Karls V.
+						während sich Philipp II. mit Anna, der Tochter Maximilians II. vermählte.
+						Für Rudolf II. war eine Heirat mit Isabella, der Tochter Philipps II.,
+						vorgesehen, und für dessen 1578 geborenen Sohn Philipp III. wurde bereits im
+						Jahre 1586 an eine Vermählung mit einer Erzherzogin der
+						innerösterreichischen Linie gedacht. Im April 1593 kam der spanische
+						Botschafter am Kaiserhof nach Graz, um mit Erzherzogin Maria über eine Ehe
+						Philipps III. mit Gregoria Maximiliana und zugleich über jene von Erzherzog
+						Ernst, damals Regent Innerösterreichs, mit der Infantin Isabella zu
+						sprechen. Die langwierigen Verhandlungen verliefen durchaus positiv, bis
+						Gregoria Maximiliana schwer erkrankte und am 20. September 1597 noch als
+						Braut des späteren spanischen Königs starb. Bereits wenige Tage danach
+						meldete Nuntius Cesare Speciano vom Kaiserhof, dass noch zwei Grazer
+						Prinzessinnen altersmäßig für die spanische Hochzeit in Frage kämen. Um
+						keine Zeit zu verlieren, wurde sofort für beide um Ehedispens angesucht,
+						wobei die Wahl schließlich auf Margaretha fiel.<note xml:id="FN4_037">Über
+							diese habsburgische Doppelhochzeit: Rainer, Hochzeit, S. 16 ff.</note>
+						Die Verhandlungen und Vorbereitungen zogen sich aber in die Länge, weil
+						nicht nur Philipp III., sondern gleichzeitig auch dessen ältere Schwester
+						Isabella vermählt werden sollte. Doch Kaiser Rudolf II., als dessen Ehefrau
+						sie eigentlich vorgesehen war, zögerte die Heirat immer wieder hinaus, bis
+						sein Bruder Ernst und nach dessen Tod Erzherzog Albrecht an seine Stelle
+						traten. Als Erzbischof von Toledo und Kardinal musste Albrecht allerdings
+						zuvor von <pb xml:id="P4_000XVII"/>den kirchlichen Banden gelöst werden. Am
+						30. September 1598 brach Erzherzogin Maria mit ihrer Tochter Margaretha und
+						einem Begleitzug von ca. 650 Personen von Graz in Richtung Ferrara auf, wo
+						der Papst seit 8. Mai residierte. In Brixen trafen sie auf den aus den
+						Niederlanden kommenden und von etwa 1.500 Personen begleiteten Erzherzog,
+						und am 15. November 1598 traute Papst Klemens VIII. im Dom zu Ferrara beide
+						Paare, wobei Philipp III. von Albrecht und Isabella vom spanischen
+						Botschafter beim Heiligen Stuhl vertreten wurden. Die großen Hochzeitsfeste
+						fanden jedoch erst im April 1599 mit beiden nunmehr vereinten Paaren in
+						Valencia statt.</p>
+				</div>
+				<div>
+					<head n="2">3. Osmanische Expansion und „Türkenangst“</head>
+					<p>Die osmanische Expansion war in diesen Jahren ein besonderes Problem für
+						Innerösterreich, mit dem sich auch der Nuntius zu befassen hatte. Dies umso
+						mehr, als die mehrheitlich evangelischen Stände ihre Mitwirkung an der
+						Landesverteidigung wiederholt mit religiösen Forderungen verbanden. Da die
+						Ausgaben der vom Grazer Kriegsrat betreuten kroatischen und slawonischen
+						Militärgrenze die Kräfte Innerösterreichs aber überstiegen, wurde versucht,
+						vom Reich über die Reichstage Unterstützung zu bekommen. Das war allerdings
+						nicht immer einfach, weil einerseits nicht überall im Reich die Bedrohung
+						durch bewaffnete Einfälle der Türken als existentiell empfunden wurde, und
+						anderseits der Kaiser beim Aufteilen der Reichshilfe den besseren Zugriff
+						hatte.</p>
+					<p>Wiederholt unterstützte der Papst die Habsburger in dem Konflikt mit dem
+						Osmanischen Reich sowohl finanziell als auch durch die Entsendung eines
+						8.000 bis 10.000 Mann starken Hilfsheeres. In den Wintern 1595/96 und
+						1597/98 zog es sich allerdings nach schweren Verlusten über Innerösterreich
+						nach Italien zurück. Regierung wie Nuntius, aber auch die Bevölkerung
+						bemühten sich während dieses Rückzugs um die Versorgung der Truppen und um
+						die Betreuung der Kranken und Verwundeten.</p>
+				</div>
+				<div>
+					<head n="2">4. Weitere Themen der Nuntiaturkorrespondenz:</head>
+					<p>Zum umstrittenen militärischen Interessensbereich gehörten auch die Gebiete
+						um Clissa/Klis und Zengg/Senj in Dalmatien. Klis – nächst Split gelegen –
+						galt als das Tor nach Bosnien und war als wichtiger strategischer Vorposten
+						gegen die Türken heiß umkämpft. Zengg/Senj in Norddal<pb xml:id="P4_00XVIII"
+						/>matien diente als Hauptort der Uskoken, jener vor den Türken geflohenen
+						Serben, die zur Abwehr der Türken von Österreich angesiedelt worden waren.
+						Sie genossen einen zweifelhaften Ruf als tapfere Soldaten, aber auch als
+						gefürchtete Seeräuber, die türkische, öfter noch venezianische Schiffe
+						kaperten. Österreich und der Papst, der ihnen Geld schickte, schätzten
+						jedoch ihre Dienste im Zuge der Auseinandersetzungen mit den Türken und
+						nahmen sie deshalb vor den Venezianern in Schutz, von denen sie als
+						Seeräuber verfolgt wurden. Weil darunter aber der Seeverkehr und Seehandel
+						in der Adria schwer litt, wurden auch der Kirchenstaat und Spanien mit dem
+						Königreich Neapel in den Konflikt involviert, der schließlich 1615 zum
+						Uskokenkrieg führte und erst 1618 mit dem Frieden von Madrid beendet werden
+							konnte.<note xml:id="FN4_038">Grünfelder, S. 280–376.</note>
+					</p>
+					<p>Ein weiteres, sich über viele Jahre erstreckendes Problem zwischen Österreich
+						und Venedig entwickelte sich neben der Uskokenfrage auch um Aquileia: Der
+						Metropolitansprengel und die Diözese des Patriarchen lagen nämlich sowohl im
+						habsburgischen als auch im venezianischen Herrschaftsgebiet. Im Jahr 1238
+						hatte der Patriarch seine Residenz nach Udine verlegt und war dadurch immer
+						stärker in die Abhängigkeit von Venedig geraten. Das führte zu lange
+						andauernden Jurisdiktionsstreitigkeiten, die vor allem von den
+						österreichischen Amtsleuten in Görz und Gradisca ausgetragen wurden. In dem
+						hier behandelten Zeitraum handelte es sich in erster Linie um die Vorladung
+						österreichischer Priester ins venezianische Udine, um die Abhaltung einer
+						Diözesansynode in San Daniele sowie einer Provinzialsynode in Udine anstatt
+						in dem auf österreichischen Gebiet gelegenen Aquileia oder aber um die fast
+						ausschließliche Vergabe der Pfründen im Domkapitel von Aquileia an
+						Venezianer. Der Streit reichte bis an den Hof in Graz und nach Rom, wobei es
+						immer wieder über den Einzelfall hinaus um die Grenzen zwischen kirchlicher
+						und landesfürstlicher Jurisdiktion ging. Schon Erzherzog Karl II. hatte
+						seinen Untertanen verboten, vor dem geistlichen Gericht des Patriarchen in
+						Udine zu erscheinen, und Ferdinand erneuerte und erweiterte dieses
+							Verbot.<note xml:id="FN4_039">Paschini II, S. 398, 406.</note> Endgültig
+						beendet wurde dieser Streit erst mit der Aufhebung des Patriarchates
+						Aquileia im Jahr 1751 und mit der Errichtung der Erzbistümer Udine für den
+						venezianischen sowie Görz für den österreichischen Teil der Diözese
+							Aquileia.<note xml:id="FN4_040">Tavano, Diocesi di Gorizia, S. 45
+							f.</note>
+					</p>
+					<p>Wiederholt wird in der Nuntiaturkorrespondenz das Tiroler Erbe erwähnt, zu
+						dem nicht nur Tirol, sondern auch Vorarlberg und die habsbur<pb
+							xml:id="P4_0000XIX"/>gischen Besitzungen in Schwaben und im Elsass
+						gehörten. Damit verbunden war auch ein Einfluss auf die Bistümer Konstanz
+						und Straßburg. Als mit dem Tod Erzherzog Ferdinands von Tirol am 24. Januar
+						1595 die Nachkommen seiner verstorbenen Brüder Kaiser Maximilian II. und
+						Erzherzog Karl II. Erben seiner Herrschaften wurden, weil seine eigenen
+						beiden Söhne, Markgraf Karl von Burgau und Kardinal Andreas von Österreich,
+						aus der morganatischen Ehe mit Philippine Welser stammten, nahm sich
+						Erzherzogin Maria als Witwe Karls II. sofort der Ansprüche ihrer noch
+						minderjährigen Kinder an und verlangte für sie die Hälfte des Erbes. Kaiser
+						Rudolf II. wollte dieses jedoch zur Gänze, zumindest zur Verwaltung, wobei
+						aber auch seine Brüder Ernst, Matthias, Maximilian und Albrecht als
+						gleichberechtigte Erben zu berücksichtigen waren. Erst nach jahrelangen
+						Verhandlungen wurde Erzherzog Maximilian 1602 als Regent eingesetzt, und
+						nach seinem Tod im Jahr 1618 folgte ihm aus der Grazer Linie Leopold nach,
+						der schon die Bistümer Passau und Straßburg als Administrator innehatte. Im
+						Jahr 1626 verzichtete Leopold auf die Bistümer, heiratete Claudia de’
+							Medici<note xml:id="FN4_041">Weiß, Claudia de’ Medici.</note> und
+						begründete damit neben der spanischen und österreichischen Linie einen
+						Tiroler Zweig der Casa d’Austria.</p>
+					<p>Als Herzog Alfonso II. d’Este am 27. Oktober 1597 kinderlos starb, trat gemäß
+						testamentarischer Verfügung Cesare d’Este, dessen Vater aus einer
+						außerehelichen Beziehung von Alfonso I. stammte, die Herrschaft in den
+						Herzogtümern Reggio und Parma (kaiserliche Lehen) und in Ferrara
+						(päpstliches Lehen) an. Papst Klemens VIII. verweigerte jedoch Cesares
+						Anerkennung unter Berufung auf eine Bulle von Papst Pius V. , in der jede
+						Vergabe von Kirchenlehen an nicht legitime Nachkommen verboten wurde. Der
+						Papst war entschlossen, seinen Standpunkt auch mit Waffengewalt
+						durchzusetzen, weshalb er seinen Neffen Pietro Aldobrandini beauftragte,
+						sofort eine Armee aufzustellen. Portia musste dabei als verhältnismäßig nahe
+						amtierender Nuntius mitwirken, zumal auch Ferdinand sich auf die Seite des
+						Papstes gestellt hatte, während in Spanien und Venedig große Bedenken
+						herrschten: Zunächst waren die von der Front gegen die Türken aus Ungarn
+						zurückgerufenen päpstlichen Truppen auf dem Durchmarsch durch
+						Innerösterreich bis zur Einschiffung nach Triest und Duino zu betreuen.
+						Weiter hatte Portia für die Bewaffnung der in Aufstellung befindlichen Armee
+						zu sorgen. Seine Korrespondenz zeigt, dass von Anfang November 1597 bis März
+						1598 vor allem der Konflikt um Ferrara im Vordergrund stand. Innerhalb von
+						zwei Monaten organisierte Portia selbst gegen den Willen Kaiser Rudolfs II.
+						in Kärnten, Steiermark, Oberösterreich, <pb xml:id="P4_00000XX"/>Augsburg
+						und Nürnberg 5.500 Arkebusen und 1.500 Musketen sowie einige Fässer Pulver
+						und schickte das Kriegsmaterial von Graz und Klagenfurt über Laibach und von
+						Villach über den gefährlichen Predilpass nach Triest, Duino und Fiume, um
+						das venezianische Gebiet zu meiden. Der Transport erwies sich allerdings
+						wegen des ungewöhnlich schneereichen Winters als sehr schwierig.</p>
+					<p>Beeindruckt von der Bedrohung durch die päpstliche Armee verzichtete Cesare
+						d’Este schließlich auf Ferrara, wo der Papst am 8. Mai 1598 feierlich
+						einzog. Schon am darauffolgenden Tag empfing er den nach Loreto und Rom
+						reisenden Ferdinand, der bis 14. Mai als Gast blieb und zu dessen engster
+						Begleitung auch Nuntius Portia gehörte. Am 15. November desselben Jahres
+						segnete der Papst wie bereits erwähnt im Dom zu Ferrara die habsburgische
+						Doppelhochzeit König Philipps III. von Spanien mit Erzherzogin Margaretha
+						aus Graz sowie des früheren Kardinals, Erzherzog Albrecht, mit der Infantin
+						Isabella. Während des Aufenthalts von Klemens VIII. in Ferrara erfolgte
+						außerdem die lang ersehnte Verleihung des Bistums Passau an Erzherzog
+						Leopold, Nuntius Portia erhielt das Bistum Adria. Am 26. November trat der
+						Papst die Rückreise nach Rom an. Über die Ereignisse in Ferrara wird im
+						vorliegenden Band ausführlich berichtet.</p>
+					<p>Portia verfasste seine Berichte an den Kardinalnepoten Cinzio
+						Aldobrandini-Passeri, Kardinal San Giorgio genannt, dem die Nuntiaturen am
+						Kaiserhof, in Graz und Köln, in der Schweiz, in Polen, Florenz, Venedig und
+						in Neapel unterstellt waren. Sekretär Cinzios war der mit Deutschland eng
+						vertraute Minuccio Minucci<note xml:id="FN4_042">Jaitner,
+							Hauptinstruktionen, S. XLIII, LII–LVI.</note> und nach dessen Ernennung
+						zum Erzbischof von Zara/Zadar seit Mai 1596 Lanfranco Margotti.<note
+							xml:id="FN4_043">Ebenda, S. XLIX–LI.</note> Von Anfang an verlief die
+						Zusammenarbeit Cinzios mit seinem ehrgeizigen Vetter Pietro Aldobrandini,44
+						der für Frankreich, Spanien, Portugal, Savoyen und Avignon zuständig war,
+						nicht problemlos, weil dieser seine Kompetenzen überschritt und auch mit den
+						Nuntien korrespondierte, für deren Tätigkeitsbereich er nicht zuständig war.
+						Als der Papst von Anfang Mai bis Ende November 1598 mit dem
+						Staatssekretariat in Ferrara weilte und erst am 21. Dezember wieder nach Rom
+						zurückkehrte, ertrug Cinzio nicht mehr länger die Aktivitäten Pietros. Er
+						unternahm deshalb zuerst mehrwöchige Reisen, verließ dann am 13. Oktober
+						1598 den päpstlichen Hof und kehrte nach – zunächst ergebnislosen –
+						Versöhnungsversuchen des Papstes, Pietros und anderer Würdenträger erst im
+						Mai 1599 in sein Amt im Staatssekretariat <pb xml:id="P4_0000XXI"/>zurück.
+						Während dieser Monate korrespondierte Portia ausschließlich mit Pietro
+						Aldobrandini, der schon seit dem Frühjahr 1596 mit dem Nuntius in Graz
+						laufend brieflichen Kontakt gehalten hatte.<note xml:id="FN4_045">Das erste
+							überlieferte Schreiben Pietro Aldobrandinis an Portia vom Mai 1596 (Nr.
+							102) setzt bereits eine bestehende Korrespondenz voraus.</note> Dieser
+						intensivierte sich besonders seit Beginn der Rückgewinnung Ferraras für den
+						Kirchenstaat wegen militärischer Notwendigkeiten.<note xml:id="FN4_046"
+							>Rainer, Waffen. S. 171 ff. Siehe Nr. 352 ff.</note>
+					</p>
+					<p>Für den Editor ergibt sich darüber hinaus die Schwierigkeit, dass Portia
+						nicht nur parallele Korrespondenzen mit den beiden Kardinalnepoten führte,
+						sondern zusätzlich Pietro Aldobrandini Kopien seiner Schreiben an Cinzio
+						übersandte, die aber nicht datiert sind, sodass eine chronologische
+						Zuordnung nur aus dem Inhalt erschlossen werden kann. Sie muss daher
+						gelegentlich hypothetisch bleiben, ist aber deswegen nicht weniger wichtig,
+						weil sich auf diese Weise zumindest einige Lücken in der Korrespondenz
+						zwischen dem Grazer Nuntius und Cinzio Aldobrandini schließen lassen. Da
+						hier weniger der Kriegszug nach Ferrara als Fragen der habsburgischen
+						Politik im allgemeinen, der Türkenabwehr und der innerösterreichischen
+						Länder zur Sprache kommen, sind diese Stücke hier als sinnvolle Ergänzung
+						ebenfalls aufgenommen worden, worum sich Elisabeth GarmsCornides und
+						Elisabeth Zingerle besonders bemüht haben.</p>
+					<p>Der Großteil der hier veröffentlichten Berichte, Weisungen und für den
+						Kommentar herangezogenen Schreiben wird im Vatikanischen Geheimarchiv, in
+						der Vatikanischen Bibliothek und im Haus-, Hof- und Staatsarchiv in Wien
+						verwahrt, einzelne Stücke stammen aber auch aus Graz, Klagenfurt, Salzburg,
+						Innsbruck, Sankt Lambrecht, München, Florenz, Neapel, Mailand, Udine, Görz,
+						Laibach sowie aus dem Archiv des Jesuitengeneralats und dem
+						Inquisitionsarchiv in Rom. Die Suche im Diözesanarchiv Marburg-Lavant in
+						Marburg/Drau war leider erfolglos, obwohl der damalige Bischof, Georg III.
+						Stobäus von Palmburg, auch Statthalter von Innerösterreich war.</p>
+					<p>Ein Gutteil der Berichte ist verloren gegangen oder zumindest bis heute noch
+						nicht gefunden worden; insbesondere gibt es für das Jahr 1597 bis zum Monat
+						November keinen einzigen Bericht Portias. Von den erhaltenen, vor allem in
+						ASV, Fondo Borghese, serie III, voll. 21 B², 22 A und 92 A verwahrten
+						Originalen sind zum Teil auch kopiale Überlieferungen in der BAV, Barb. lat.
+						5860 und 5863 auf uns gekommen. Die Kopien sind äußerst korrekt, sodass es
+						bei den wenigen, den Inhalt nie verändernden Abweichungen nicht geboten war,
+						diese anzuzeigen. Im Original erhalten geblieben sind auch Schreiben Portias
+						aus Graz nach München im Bayeri<pb xml:id="P4_000XXII"/>schen
+						Hauptstaatsarchiv, an den Patriarchen von Aquileia im Erzbischöflichen
+						Archiv Udine (AAU) sowie aus Ferrara und Rom an Ferdinand und Maria im
+						Haus-, Hof- und Staatsarchiv. Von den Weisungen sind nur die Auslaufregister
+						in ASV erhalten. Diese wurden aber nicht laufend geführt, sondern erst
+						später nach den wahrscheinlich auf losen Blättern geschriebenen Minuten in
+						den Kodex übertragen. Dabei kam eine dem Inhalt nach außer Zweifel zum 8.
+						November 1597 gehörende Weisung versehentlich ins Auslaufregister zum 8.
+						November 1598.<note xml:id="FN4_047">Rainer, GN IV, Nr. 354.</note> Dagegen
+						kann nicht mit letzter Sicherheit entschieden werden, ob die Weisung vom 12.
+						Juli 1597, mit der die Ausschreibung eines „Giubileo“ aus Anlass der
+						Türkengefahr mitgeteilt wird, einen in der Literatur bislang unbekannten
+						außerordentlichen Ablass oder das Heilige Jahr von 1600 betrifft, wobei im
+						letzteren Fall ebenfalls eine irrtümliche Eintragung unter 1597 (statt 1599)
+						vorliegen würde.<note xml:id="FN4_048">ASV, Fondo Borghese, serie III, 18
+							A–P, f. 678v–679r, siehe Nr. 308 A.</note>
+					</p>
+					<p>Drei Kodizes mit weit über 100 Schreiben von den beiden Kardinalnepoten
+						Cinzio und Pietro Aldobrandini, von Portia und von österreichischen
+						Landesfürsten wurden 1890 von der Biblioteca Nazionale in Florenz erworben,
+						wo sie auch heute noch verwahrt werden und für die Forschung zugänglich
+						sind. Verkäufer oder Vermittler war die Libreria di M. A. Oliva del Torco
+						Franchi e Co. in Florenz.<note xml:id="FN4_049">So ein im Katalog der
+							Biblioteca Civica Udine verwahrter Zettel. Siehe auch Zingerle, GN V,
+							Einleitung.</note> Ebenfalls aus Portias Nachlass stammen einige
+						Schriftstücke im (bisher verloren geglaubten) Familienarchiv
+						Porcia-Ricchieri, das vor einigen Jahren im Antiquariatshandel auftauchte
+						und sich seit 2010 im Diözesanarchiv Pordenone befindet.<note
+							xml:id="FN4_050">Über diesen Bestand siehe ausführlich Zingerle, GN V,
+							Einleitung. Nach Erhebungen von E. Zingerle enthält der Fonds
+							Porcia-Ricchieri für den vorliegenden Band GN IV eine Kopie des Berichts
+							Portias über die Visitation von St. Lambrecht (siehe Nr. 310) sowie
+							Kopien von Notifikationsschreiben anlässlich der Ernennung Portias zum
+							Bischof von Adria (siehe Nr. 429). Ein ebenfalls kopial (oder als
+							Minute) überlieferter undatierter Bericht zur militärischen und
+							konfessionellen Lage Innerösterreichs dürfte zur (nicht erhaltenen)
+							Berichterstattung Portias aus dem Jahr 1597 gehören.</note>
+					</p>
+					<p>Nachdem das Preußische und das Österreichische Historische Institut und die
+						Görres-Gesellschaft mit der Arbeit an den Nuntiaturberichten aus Deutschland
+						begonnen und 1891 die Forschungsbereiche aufgeteilt hatten, begann auch der
+						Grazer Kirchenhistoriker Univ.-Prof. Dr. Anton Weiß sich dafür zu
+						interessieren und erwirkte im Jahr 1900 – wahrscheinlich von Preußen – die
+						Überlassung der in ihrem Bereich gelegenen Grazer Nuntiatur an die
+						„Kommission für steirische Landesgeschichte“.<note xml:id="FN4_051">Lutz, S.
+							277–279, 309 A 53.</note>
+					</p>
+					<pb xml:id="P4_00XXIII"/>
+					<p>Mit großem Einsatz bemühte sich Anton Weiß, die zur Grazer Nuntiatur
+						gehörende Korrespondenz zu erfassen. Dabei unterstützten ihn die jungen
+						Historiker Albert Starzer und Michael Mayer vom Österreichischen
+						Historischen Institut sowie die Kapläne der deutschen Nationalkirche in Rom,
+						Alois Hudal und Alois Lang.<note xml:id="FN4_052">Rainer, GN I, S. V A
+							1.</note> Trotz großer Bemühungen konnten von der 1580–1622 – mit
+						Unterbrechung von 1587 bis 1592 – bestehenden Grazer Nuntiatur nur für die
+						Jahre 1596 bis 1616 Berichte, Weisungen und ergänzende Aktenstücke zum
+						größten Teil erfasst werden. Die aufgefundenen Stücke wurden den damals im
+						Vatikanischen Archiv tätigen, sehr tüchtigen Kopisten übergeben, die
+						verlässliche Abschriften herstellten. Insgesamt soll Anton Weiß dafür 6.000
+						Kronen ausgegeben haben.<note xml:id="FN4_053">Schreiben des Bruders,
+							Univ.-Prof. Dr. Johann Weiß, vom 9. Oktober 1912 an Ludwig Pastor beim
+							Autor.</note> Die mehrere tausend Seiten umfassende Sammlung wurde im
+						kirchenhistorischen Seminar der Universität Graz aufbewahrt. Anton Weiß
+						konnte nichts mehr damit anfangen, er starb mit 60 Jahren am 27. August
+						1912. Sein Nachfolger an der Universität Graz, Ernst Tomek, übernahm das
+						Material und teilte dem Bruder des Verstorbenen, Johann Weiß, mit, dass er
+						sofort mit dem Studium und der Bearbeitung beginnen werde.<note
+							xml:id="FN4_054">Brief von Johann Weiß an Ludwig Pastor vom 10. Januar
+							1914 beim Autor.</note> Angeblich arbeitete er in den folgenden Jahren
+						daran, ein Ergebnis ist allerdings nie sichtbar geworden.<note
+							xml:id="FN4_055">Tomek, Geschichte der Diözese Seckau I, S. V; auf meine
+							Anfrage Mitteilung der Schwester und Haushälterin Tomeks ca.
+							1963.</note> Der zweite Nachfolger von Anton Weiß, Andreas Posch,
+						befasste sich nicht näher mit der Grazer Nuntiatur, erwarb sich aber darum
+						Verdienste, indem er 1938 anlässlich der Aufhebung der Theologischen
+						Fakultät der Universität Graz die wertvollen Kopien in die Bibliothek des
+						Priesterhauses transferierte. Als im Studienjahr 1954/55 der damalige Kaplan
+						Andreas Rauch, der zuvor fast fünf Jahre in sowjetischer
+						Kriegsgefangenschaft zugebracht hatte, von Professor Posch das
+						Dissertationsthema „Nuntius Portia“ erhielt, fand er die Abschriftenbündel
+						unbeachtet herumliegend und nirgendwo verzeichnet wieder. Einige Wochen
+						später wurde das gesamte Material dem Diözesanarchiv übergeben, wo es noch
+						heute in insgesamt 19 Schachteln verwahrt wird. Andreas Rauch arbeitete
+						eifrig daran und wurde auf Grund seiner Dissertation im Wintersemester
+						1957/58 zum Dr. theol. promoviert. Publiziert hat er allerdings nichts.<note
+							xml:id="FN4_056">Rauch, Portia, S. II–IV.</note> Da nach eigener
+						Erfahrung die Kopien äußerst korrekt sind – die damaligen Kopisten waren
+						Meister der Paläographie – wird deren Benutzung empfohlen und deren Bestand
+						im Archiv <pb xml:id="P4_000XXIV"/>der Diözese Graz-Seckau für den in diesem
+						Band behandelten Zeitraum im Folgenden mitgeteilt:<note xml:id="FN4_057">Die
+							genaue Aufschlüsselung, die vom Herausgeber diese Bandes schon einmal im
+							Jahr 1963 durchgeführt wurde, deren Überarbeitung aber wegen einer
+							völlig neuen Ordnung und neuer Signaturen notwendig geworden ist, hat
+							dankenswerter Weise Frau Mag. Elisabeth Zingerle verfasst, die bereits
+							an der Fortsetzung der Edition der Grazer Nuntiatur arbeitet. Zu
+							beachten ist, dass das Vatikanische Geheimarchiv inzwischen die
+							Signaturen einzelner Bände des Fondo Borghese verändert hat: so wird
+							heute der Band Fondo Borghese, serie III, 18o als serie III, 18 A–P
+							bezeichnet; Fondo Borghese, serie III, 48c ist heute in den Sammelband
+							serie III, 48, 48 Bis, 49, 51 E, 52 A integriert.</note>
+					</p>
+				</div>
+			</div>
+			<div>
+				<pb xml:id="P4_00XXVII"/>
+				<head n="1">Editionsgrundsätze</head>
+				<p>Bei der Edition wurde die bei den verschiedenen Reihen der „Nuntiaturberichte aus
+					Deutschland“ und bei den bereits erschienenen Bänden der Grazer Nuntiatur
+					angewandte Methode beibehalten: möglichst Druck des Volltextes, Beibehaltung der
+					Orthographie, weitgehende Modernisierung der Akzente, Groß- und Kleinschreibung,
+					Weglassung von Anrede, Schlussformel und Datumszeile. Die Interpunktion wurde
+					vorsichtig und im Interesse der Verständlichkeit des Textes modernisiert. Nur
+					ausnahmsweise, wie bei den meist langen deutschen Schreiben Portias an Maria von
+					der Romfahrt und vom Aufenthalt in Ferrara sowie den Schreiben von General Gian
+					Francesco Aldobrandini wird der Inhalt in ausführlichen Regesten mitgeteilt. Ein
+					Teil der Berichte Portias ist verloren gegangen oder bis heute nicht auffindbar,
+					der Inhalt kann jedoch aus den in Registern erhalten gebliebenen Weisungen
+					erschlossen werden. Außer allen Schreiben Portias an die Kardinalnepoten Cinzio
+					und Pietro Aldobrandini wurden auch Briefe Portias an Wilhelm V. aufgenommen,
+					sowie diejenigen, die der Nuntius im Sommer 1598 während seines Aufenthalts am
+					Papsthof in Ferrara an Ferdinand und Maria richtete. Maria führte kein stilles
+					Witwendasein, sondern regierte mit und für Ferdinand. Wiederholt wurden daher
+					Breven für Ferdinand mit demselben Inhalt auch an Maria geschickt.</p>
+				<p>Drucke werden nur angegeben, wenn es sich um eine Edition handelt. Nicht
+					berücksichtigt wurden Erwähnungen oder Teilabdrucke irgendwo im Text oder in
+					Fußnoten. Unter Zugrundelegung dieses Prinzips ist von den insgesamt 454 Nummern
+					dieses Bandes bisher nur etwa ein Fünftel, meist an schwer zugänglicher Stelle,
+					veröffentlicht. Bei den Briefen des spanischen Jesuiten Alfonso Carrillo wurde
+					im Gegensatz zu der stark normalisierenden Edition von Veress die Orthographie
+					des Originals beibehalten. Der Anmerkungsapparat wird in diesem Band erstmals
+					aus benutzerfreundlichen Überlegungen neu angeordnet.</p>
+				<p>Das große Werk Klaus Jaitners „Die Hauptinstruktionen Clemens’ VIII.“ verdient
+					volle Anerkennung, aber es darf nicht übersehen werden, dass der primäre
+					Quellenwert in den Nuntiaturberichten liegt, in denen nicht nur über
+					Konfessionenstreit, Politik und Krieg berichtet wird, sondern auch über Verkehr,
+					Wetter, Krankheiten und Alltagsgeschichte einiges zu erfahren ist.</p>
+			</div>
+			<div>
+				<pb xml:id="P4_000XXIX"/>
+				<head n="1">Verzeichnis der benützten Archive und Bibliotheken</head>
+				<p>
+					<lb/>Florenz<lb/>
+					<space quantity="1" unit="tab"/>Biblioteca Nazionale:<lb/>
+					<space quantity="2" unit="tab"/>Manoscritti II II 510.</p>
+				<p>
+					<lb/>Görz<lb/>
+					<space quantity="1" unit="tab"/>Archivio Storico della Provincia di Gorizia:<lb/>
+					<space quantity="2" unit="tab"/>Atti degli Stati Provinciali (1500–1861), 25 P
+					17; S. 9, Nr. 34.</p>
+				<p>
+					<lb/>Graz<lb/>
+					<space quantity="1" unit="tab"/>Diözesanarchiv:<lb/>
+					<space quantity="2" unit="tab"/>Urkunden XXV a 7;<lb/>
+					<space quantity="2" unit="tab"/>Ordinariatsakten, Altbestand, Nuntiatur Graz.<lb/>
+					<space quantity="1" unit="tab"/>Steiermärkisches Landesarchiv:<lb/>
+					<space quantity="2" unit="tab"/>Landschaftliches Archiv, Antiquum:<lb/>
+					<space quantity="3" unit="tab"/>Landtagsakten 448, 449, 450;<lb/>
+					<space quantity="3" unit="tab"/>Landtagshandlungen 40, 43, 44, 45;<lb/>
+					<space quantity="3" unit="tab"/>Reformation 14, 16;<lb/>
+					<space quantity="3" unit="tab"/>Militaria 80, 84;<lb/>
+					<space quantity="3" unit="tab"/>Schuber 688, 689;<lb/>
+					<space quantity="3" unit="tab"/>Urkunden;<lb/>
+					<space quantity="2" unit="tab"/>Meiller-Akten I e, XVI d;<lb/>
+					<space quantity="2" unit="tab"/>Archiv Stift Stainz.</p>
+				<p>
+					<lb/>Innsbruck<lb/>
+					<space quantity="1" unit="tab"/>Tiroler Landesarchiv:<lb/>
+					<space quantity="2" unit="tab"/>Ferdinandea Pos. 174.</p>
+				<p>
+					<lb/>Klagenfurt<lb/>
+					<space quantity="1" unit="tab"/>Archiv der Diözese Gurk:<lb/>
+					<space quantity="2" unit="tab"/>Urkunden;<lb/>
+					<space quantity="2" unit="tab"/>Handschriften;<lb/>
+					<space quantity="2" unit="tab"/>Alte Salzburger Akten, Karton 39.<lb/>
+					<space quantity="1" unit="tab"/>Kärntner Landesarchiv:<lb/>
+					<space quantity="2" unit="tab"/>Ständisches Archiv, Handschriften Nr. 2;<lb/>
+					<space quantity="2" unit="tab"/>Ständisches Archiv I, Akten, Schachtel 456,
+					Fasz. 2;<lb/>
+					<space quantity="2" unit="tab"/>Urkunden.</p>
+				<p>
+					<lb/>Laibach<lb/>
+					<space quantity="1" unit="tab"/>Arhiv Republike Slovenij:<lb/>
+					<space quantity="2" unit="tab"/>Deželni stanovi za Kranjsko, Fasz. 7 (štev. 881);<lb/>
+					<space quantity="2" unit="tab"/>Zbirka Listin 941.</p>
+				<p>
+					<lb/>Mailand<lb/>
+					<space quantity="1" unit="tab"/>Biblioteca Ambrosiana:<lb/>
+					<space quantity="2" unit="tab"/>Manoscritti D 175 inf., G 178 inf.</p>
+				<p>
+					<lb/>München<lb/>
+					<space quantity="1" unit="tab"/>Bayerisches Hauptstaatsarchiv:<lb/>
+					<space quantity="2" unit="tab"/>Fürstensachen 431;<lb/>
+					<space quantity="2" unit="tab"/>Kurbayern, Äußeres Archiv 1986;<lb/>
+					<space quantity="2" unit="tab"/>Kasten Schwarz 7360.</p>
+				<p>
+					<lb/>Neapel<lb/>
+					<space quantity="1" unit="tab"/>Biblioteca Nazionale:<lb/>
+					<space quantity="2" unit="tab"/>Manoscritti XII B 14.</p>
+				<p>
+					<lb/>Rom<lb/>
+					<space quantity="1" unit="tab"/>Archivum Romanum S. J.:<lb/>
+					<space quantity="2" unit="tab"/>Austria 1 I, 1 II, 224;<lb/>
+					<space quantity="2" unit="tab"/>Epistolae Episcoporum 15;<lb/>
+					<space quantity="2" unit="tab"/>Epistolae Nostrorum 38;<lb/>
+					<space quantity="2" unit="tab"/>Epistolae Externorum 29;<lb/>
+					<space quantity="2" unit="tab"/>Germania 121II, 122a, 175;<lb/>
+					<space quantity="2" unit="tab"/>Venezia 4 I.<lb/>
+					<space quantity="1" unit="tab"/>Archivio Doria Landi Pamphilj:<lb/>
+					<space quantity="2" unit="tab"/>Fondo Aldobrandini, busta 2, 5;<lb/>
+					<space quantity="2" unit="tab"/>L’Archiviolo, busta 213.<lb/>
+					<space quantity="1" unit="tab"/>Deutsches Historisches Institut:<lb/>
+					<space quantity="2" unit="tab"/>Minuccio Minucci, Manoscritti, vol. 3, 4, 7.</p>
+				<p>
+					<lb/>Rom, Città del Vaticano<lb/>
+					<space quantity="1" unit="tab"/>Archivio Segreto Vaticano:<lb/>
+					<space quantity="2" unit="tab"/>Archivio Concistoriale, Processus Consistoriales;<lb/>
+					<space quantity="2" unit="tab"/>Archivio della Nunziatura Vienna;<lb/>
+					<space quantity="2" unit="tab"/>Archivum Arcis I–XVIII;<lb/>
+					<space quantity="2" unit="tab"/>Armadio XLIV, 39a–42;<lb/>
+					<space quantity="2" unit="tab"/>Epistolae ad Principes, Registra 27, 28, 29,
+						30;<pb xml:id="P4_000XXXI"/>
+					<lb/>
+					<space quantity="2" unit="tab"/>Fondo Borghese, serie I, 696–699; serie III,
+					vol. 9 C, 10 D, 18 A–P,<lb/>
+					<space quantity="2" unit="tab"/>21 B², 22 A, 39, 48–48Bis–49–51E–52A (int. 48
+					C), 57 (int. b und<lb/>
+					<space quantity="2" unit="tab"/>l), 68 B, 92 A, 93 C, 96 F, 105 ABC, 107 G–H,
+					111 A–B, 124 A,<lb/>
+					<space quantity="2" unit="tab"/>124 B, 125 F–K,126 B–G; serie IV, 215 A, 242;<lb/>
+					<space quantity="2" unit="tab"/>Fondo Pio 114, 115;<lb/>
+					<space quantity="2" unit="tab"/>Instrumenta Miscellanea 6462, 7503;<lb/>
+					<space quantity="2" unit="tab"/>Segreteria dei Brevi, Registri 245, 364, 383;<lb/>
+					<space quantity="2" unit="tab"/>Segreteria di Stato, Particolari, vol. 1, 4;<lb/>
+					<space quantity="2" unit="tab"/>Segreteria di Stato, Lettere di Principi 33 A;<lb/>
+					<space quantity="2" unit="tab"/>Segreteria di Stato, Spagna 325;<lb/>
+					<space quantity="2" unit="tab"/>Segreteria di Stato, Venezia 31;<lb/>
+					<space quantity="2" unit="tab"/>Visite ad limina, Aquileia 1598.<lb/>
+					<space quantity="1" unit="tab"/>Biblioteca Apostolica Vaticana:<lb/>
+					<space quantity="2" unit="tab"/>Barb. lat. 5860, 5863;<lb/>
+					<space quantity="2" unit="tab"/>Ottob. lat. 2623;<lb/>
+					<space quantity="2" unit="tab"/>Urb. lat. 817 III, 1060, 1063;<lb/>
+					<space quantity="2" unit="tab"/>Vat. lat. 13408.<lb/>
+					<space quantity="1" unit="tab"/>Archivio della Congregazione per la per la
+					Dottrina della Fede<lb/>
+					<space quantity="2" unit="tab"/>Stanze Storiche 1a, Germania.</p>
+				<p>
+					<lb/>Salzburg<lb/>
+					<space quantity="1" unit="tab"/>Archiv der Erzdiözese Salzburg:<lb/>
+					<space quantity="2" unit="tab"/>Urkunden;<lb/>
+					<space quantity="2" unit="tab"/>4/36, Fasz. 20;<lb/>
+					<space quantity="2" unit="tab"/>11/50 RA XXI.<lb/>
+					<space quantity="1" unit="tab"/>Salzburger Landesarchiv<lb/>
+					<space quantity="2" unit="tab"/>Consistorium 1593–1599.</p>
+				<p>
+					<lb/>St. Lambrecht<lb/>
+					<space quantity="1" unit="tab"/>Stiftsarchiv:<lb/>
+					<space quantity="2" unit="tab"/>Urkundenreihe II, Tischtitel.</p>
+				<p>
+					<lb/>Simancas<lb/>
+					<space quantity="1" unit="tab"/>Archivo General:<lb/>
+					<space quantity="2" unit="tab"/>Estado Alemania 703, 704, 705.</p>
+				<p>
+					<lb/>Udine<lb/>
+					<space quantity="1" unit="tab"/>Archivio della Curia Arcivescovile:<lb/>
+					<space quantity="2" unit="tab"/>A parte Imperii, Epistolari, Sant Ufficio, Processi;<lb/>
+					<space quantity="2" unit="tab"/>Sinodo 1595,1596;<lb/>
+					<space quantity="2" unit="tab"/>Visite Pastorali.</p>
+				<p>
+					<lb/>Venedig<lb/>
+					<space quantity="1" unit="tab"/>Archivio di Stato:<lb/>
+					<space quantity="2" unit="tab"/>Dispacci Germania, Filza 23;<lb/>
+					<space quantity="2" unit="tab"/>Archivio proprio Fontanini 7.</p>
+				<p>
+					<lb/>Wien<lb/>
+					<space quantity="1" unit="tab"/>Haus-, Hof- und Staatsarchiv:<lb/>
+					<space quantity="2" unit="tab"/>Familienkorrespondenz 7, 42.</p>
+			</div>
+			<div>
+				<pb xml:id="P4_0XXXIII"/>
+				<head n="1">Gedruckte Quellen und Literatur</head>
+				<p>Albrecht, Dieter: Das konfessionelle Zeitalter, in: Handbuch der bayerischen
+					Geschichte begr.von Max Spindler II, München 21988, S. 393–457.</p>
+				<p>Amon, Karl: Die Bischöfe von Seckau 1218–1968, Graz – Wien – Köln 1969.</p>
+				<p>Amon Karl siehe Kirchengeschichte der Steiermark.</p>
+				<p>Andritsch, Johann: Landesfürstliche Berater am Grazer Hof (1564–1619), in:
+					Innerösterreich 1564–1619, hg. von Alexander Novotny (= Joannea 3), Graz 1968,
+					S. 73–117.</p>
+				<p>Antonicek, Theophil: Italienische Musikerlebnisse Ferdinands II. 1598, in:
+					Anzeiger der phil.-hist. Klasse der Österreichischen Akademie der Wissenschaften
+					1967 (= Mitteilungen der Kommission für Musikforschung 18), S. 91–111.</p>
+				<p>Antonitsch, Evelyne: Die Kärntner Landstände und der dreizehnjährige Türkenkrieg
+					1593–1606, in: Carinthia I, 167 (1977), S. 85–116.</p>
+				<p>Barbarics-Hermanik, Zsusza, Reale oder gemachte Angst? Türkengefahr und
+					Türkenpropaganda im 16. und 17. Jahrhundert, in: Harald Heppner, Zsusza
+					Barbarics-Hermanik (Hgg.), Türkenangst und Festungsbau. Wirklichkeit und Mythos
+					(= Neue Forschungen zur ostmitteleuropäischen und südosteuropäischen Geschichte
+					1), Frankfurt/M. u.a. 2009, S. 43–75.</p>
+				<p>Bartl, Peter: Der Westbalkan zwischen spanischer Monarchie und osmanischem Reich.
+					Zur Türkenproblematik an der Wende vom 16. zum 17. Jahrhundert (= Albanische
+					Forschungen 14), München – Wiesbaden 1974.</p>
+				<p>Barzazi, Antonella: Corrispondenze diplomatiche veneziane da Napoli, Dispacci
+					III, 27 mag gio 1597 – 2 novembre 1604, Roma 1991.</p>
+				<p>Bauer, Oswald, Zeitungen vor der Zeitung. Die Fuggerzeitungen (1568–1605) und das
+					frühmoderne Nachrichtensystem (= Colloquia Augustana 28), Berlin 2011.</p>
+				<p>Baum, Wilhelm: Rosazzo, in: Germania Benedictina III/3, München 2002, S.
+					152–182.</p>
+				<p>Beckmann, Johann Christoff: Historie des Fürstenthums Anhalt, Zerbst 1710.</p>
+				<p>Benedik, Metod: Instrukcija papeza Klemena VIII za obnovo katoliske vere na
+					Stajerskem, Koroskem in Kranjskem z dne 13. aprila 1592, in: Acta Ecclesiastica
+					Sloveniae 1 (1979), S. 16–41.</p>
+				<p>Benedik, Metod, Iz protokolov Ljubljanskih škofov, 1577–1597 (Protocollum
+					Ordinandorum anno Domini 1577 etc.), in: Acta ecclesiastica Sloveniae 3 (1981),
+					S. 7–46.</p>
+				<p>Benedik, Metod: Protoreformacija in katoliška prenova, in: Zgodovina Cerkve na
+					Slovenskem. Pripravil Inštitut za zgodovino Cerkve pri Teološki fakulteti v
+					Ljubljani, Celje 1991, S. 113–152.</p>
+				<p>Brancucci, Filippo: L’assedio di Kanisza (1601), Roma 1980.</p>
+				<p>Brancucci, Filippo: Der Beitrag des Hl. Stuhles zum Krieg gegen die Türken im
+					Jahre 1601, in: Innsbrucker Historische Studien 5 (1982), S. 193–203.</p>
+				<p>Bugmann, Alfons: Zürich und die Abtei Wettingen zur Zeit der Reformation und
+					Gegenreformation (1519–1656): ein Beitrag zur Geschichte des Klosters Wettingen.
+					Phil. Diss. Zürich 1949.</p>
+				<p>Bujanda, Jesus Martinez de (Hg.), Index des livres interdits, 11 Bände, Québec –
+					Genève 1985–2002. <pb xml:id="P4_00XXXIV"/>Bullarium Romanum, 25 Bände, Augustae
+					Taurinorum 1857–72.</p>
+				<p>Cavazza, Silvano: Inquisizione e libri proibiti in Friuli e a Gorizia tra
+					Cinquecento e Seicento, in: Studi Goriziani 43 (1976), S. 29–79.</p>
+				<p>Cavazza, Silvano: Primož Trubar e le origini del luteranesimo nella Contea di
+					Gorizia (1563–1565), in: Studi Goriziani 61 (1985), S. 7–25.</p>
+				<p>Cavazza, Silvano: Controriforma nella contea di Gorizia, in: Katholische Reform
+					und Gegenreformation in Innerösterreich 1564–1628, Graz – Wien – Köln 1994, S.
+					143–153.</p>
+				<p>Cavazza, Silvano: La Riforma nel Patriarcato d’Aquileia: Gruppi eterodossi e
+					comunità luterane, in: Il Patriarcato di Aquileia tra Riforma e Controriforma.
+					Atti del convegno di studio 1995, a cura di Antonio De Cillia e Giuseppe
+					Fornasir, Udine 1996, S. 9–59.</p>
+				<p>Cavazza, Silvano: Bonomo, Vergerio, Trubar: propaganda protestante per terre di
+					frontiera, in: „La gloria del Signore“. La riforma protestante nell’Italia
+					nord-orientale, a cura di Gianfranco Hofer, Mariano del Friuli 2006, S.
+					91–157.</p>
+				<p>Cerwinka, Günther: Die Eroberung der Festung Kanizsa durch die Türken im Jahre
+					1600, in: Innerösterreich 1564–1619, hg. von Alexander Novotny (= Joannea 3),
+					Graz 1964, S. 409–511.</p>
+				<p>Dedic, Paul: Verbreitung und Vernichtung evangelischen Schrifttums in
+					Innerösterreich, in: ZfKG 57 (1938), S. 433–458.</p>
+				<p>Dedic, Paul: Zur Reformation und Gegenreformation in Pöls, in: Zeitschrift des
+					Historischen Vereins für Steiermark 27 (1933), S. 14–76.</p>
+				<p>De Felip-Jaud, Elisabeth: Ein fürstlicher Brautzug durch Tirol (1598). Eine
+					Reisebeschreibung, verfasst von Giovanni Battista Clario, in: Tiroler Heimat 61
+					(1997), S. 113–145.</p>
+				<p>De Renaldis, Girolamo: Memorie storiche dei tre ultimi secoli del patriarcato
+					d’Aquileia (1411–1751), a cura di Giovanni Gropplero, Udine 1888.</p>
+				<p>Die böhmischen Landtagsverhandlungen und Landtagsbeschlüsse IX, Prag 1897.</p>
+				<p>Dimitz August, Geschichte Krains von der Ältesten Zeit bis auf das Jahr 1813.
+					Teil 1–4, Laibach 1874–1876.</p>
+				<p>Dinklage, Karl : Kurze Geschichte der Ferlacher Büchsenmacherei, in: Die Brücke.
+					Kärntner Kulturzeitschrift 2 (1976), S. 161–175.</p>
+				<p>Dolinar, France Martin: Das Jesuitenkolleg in Laibach und die Residenz Pleterje
+					1597– 1704, Ljubljana 1976.</p>
+				<p>Dolinar, France Martin: Zapisi skofa Janeza Tavcarja o stanju v ljubljanski
+					skofiji, in: Acta Ecclesiastica Sloveniae 3 (1981), S. 47–80.</p>
+				<p>Dolinar, France Martin siehe Katholische Reform und Gegenreformation in
+					Innerösterreich.</p>
+				<p>Dopsch, Heinz, Spatzenegger, Hans (Hg.): Geschichte Salzburgs II/1, Salzburg
+					1988.</p>
+				<p>Duhr, Bernhard S.J.: Geschichte der Jesuiten in den Ländern deutscher Zunge, 4
+					Bände, Freiburg 1907–1913, München – Freiburg 1921–1928.</p>
+				<p>Dumitriu-Snagov, Ion: Monumenta Romaniae Vaticana, Città del Vaticano 1996.</p>
+				<p>Edelmayer, Friedrich: Söldner und Pensionäre. Das Netz von Philipp II. im
+					Heiligen Römischen Reich, Wien – München 2002.</p>
+				<p>Eubel, Conradus: Siehe Hierarchia Catholica.</p>
+				<pb xml:id="P4_000XXXV"/>
+				<p>Europäische Stammtafeln begründet von Wilhelm Karl Prinz zu Isenburg, fortgeführt
+					von Frank Baron Freytag von Loringhoven, Neue Folge hg. von Detlev Schwennicke,
+					16 Bän de, Marburg/L. – Berlin 1980–1995.</p>
+				<p>Fasano Guarini, Elena: Aldobrandini (Passeri), Cinzio, in: DBI II, Roma 1960, S.
+					102–104.</p>
+				<p>Fasano Guarini, Elena: Aldobrandini Pietro, in: DBI II, Roma 1960, S.
+					107–114.</p>
+				<p>Feigl, Helmut: Der niederösterreichische Bauernaufstand 1596/97 (=
+					Militärhistorische Schriftenreihe 22), Wien 31988.</p>
+				<p>Fejer, Josephus: Defuncti primi saeculi Societatis Iesu 1540–1640, pars I:
+					Assistentia Italiae, Germaniae cum Gallia usque ad 1607, Roma 1982.</p>
+				<p>Feldkamp, M.F.: Studien und Texte zur Geschichte der Kölner Nuntiatur
+					(1584–1794), 2 Bände (= Collectanea Archivi Vaticani 30–31), Città del Vaticano
+					1993.</p>
+				<p>Frankl, Karl-Heinz: Die katholische Konfessionalisierung in Kärnten bis 1628, in:
+					Carinthia I 190 (2000), S. 227–238.</p>
+				<p>Frankl, Karl-Heinz: Gefährdet und bewahrt. Das Frauenkloster in St. Georgen a. L.
+					zur Zeit der Reformation und der katholischen Reform, in: Benediktinisches
+					Mönchstum und St. Georgen am Längsee. Red. von Peter G. Tropper, Klagenfurt
+					2003, S. 41– 58.</p>
+				<p>Fräss-Ehrfeld, Claudia: Geschichte Kärntens, 2 Bände, Klagenfurt 1984, 1994.</p>
+				<p>Freytag von Loringhoven: siehe Europäische Stammtafeln Gallia christiana … opera
+					et studio D. Dionysii Sammarthani …, 16 Bände, Lutetiae Parisiorum
+					1715–1865.</p>
+				<p>Gatz, Erwin (Hg.): Die Bischöfe des Heiligen Römischen Reiches 1448 bis 1648. Ein
+					biographisches Lexikon, Berlin 1996.</p>
+				<p>Gauchat, Patritius: siehe Hierarchia Catholica IV.</p>
+				<p>Giani, Arcangelo Maria, Annalium Sacri Ordinis Fratrum Servorum B. Mariae
+					Virginis a suae institutionis exordio centuriae quatuor, auctore F. Archangelo
+					Gianio Florentino, pars secunda 1433–1610, Florentiae 1622.</p>
+				<p>Goetz, Helmut: Die Nuntiaturberichte des 16. Jahrhunderts als Komplementärquelle
+					zur Geschichtsschreibung, in: QFIAB 53 (1973) S. 227–275.</p>
+				<p>Grothaus, Maximilian, Der „Erbfeindt christlichen Nahmens“. Studien zum
+					TürkenFeindbild in der Kultur der Habsburgermonarchie zwischen 16. und 18.
+					Jahrhundert. 2 Bände, phil. Diss. Graz 1986.</p>
+				<p>Grothaus, Maximilian, Vom Erbfeind zum Exoten. Kollektive Mentalitäten über die
+					Türken in der Habsburger Monarchie der frühen Neuzeit, in: Inanc Feigl (Hg.),
+					Auf den Spuren der Osmanen in der österreichischen Geschichte (= Wiener
+					Osteuropa-Studien 14), Frankfurt/M. u.a. 2002, S. 99–114.</p>
+				<p>Grünfelder (geb. Thalhammer), Annemarie: Studien zur Geschichte der Uskoken,
+					phil. Diss. Innsbruck 1974.</p>
+				<p>Gulik, Guglielmus van: siehe Hierarchia Catholica III.</p>
+				<p>Hammer-Purgstall, Joseph von: Geschichte des Osmanischen Reiches, IV, Pest 1829,
+					Photomechanischer Nachdruck Graz 1963.</p>
+				<p>Hammer-Purgstall, Joseph von: Khlesl’s, des Cardinals, Directors des geheimen
+					Cabinetes Kaisers Mathias, Leben. Mit der Sammlung von Khlesl’s Briefen,
+					Staatsschreiben, <pb xml:id="P4_00XXXVI"/>Vorträgen … beinahe tausend bis auf
+					einige wenige bisher ungedruckt. 4 Bände, Wien 1847–1851.</p>
+				<p>Hansen, Joseph: Nuntiaturberichte aus Deutschland III/1: Der Kampf um Köln
+					1576–1584, Berlin 1892.</p>
+				<p>Härtel, Reinhard: Die Rosazzer Quellen und die Grafen von Görz, in: MIÖG 111
+					(2003), S. 44–103.</p>
+				<p>Hausenblasová, Jaroslava: Der Hof Kaiser Rudolfs II, Edition der
+					Hofstaatsverzeichnisse (1576–1612) (= Fontes Historiae Artium IX), Prag
+					2002.</p>
+				<p>Hausmann, Friedrich: Ferdinand Graf zu Hardegg und der Verlust der Festung Raab,
+					in: Walter Höflechner (Hg.), DOMUS AUSTRIAE. Eine Festgabe Hermann Wiesflecker
+					zum 70. Geburtstag, Graz 1983, S. 184–209.</p>
+				<p>Heimbucher, Max: Die Orden und Kongregationen der Katholischen Kirche, Paderborn
+					1933.</p>
+				<p>Heinisch, Reinhard: Die Zeit des Absolutismus, in: Geschichte Salzburgs hg. von
+					Heinz Dopsch und Hans Spatzenegger, II/1, Salzburg 1988, S. 167–244.</p>
+				<p>Hemmerle, Josef: Die Benediktinerklöster Bayerns (= Germania Benedictina II),
+					Augsburg 1970.</p>
+				<p>Heppner, Harald: Die Steiermark und die Militärgrenze in Kroatien, in: Pickl,
+					Othmar (Hg.), 800 Jahre Steiermark und Österreich 1192–1992 (= Forschungen zur
+					geschichtlichen Landeskunde der Steiermark 35), Graz 1992, S. 213–222.</p>
+				<p>Hierarchia Catholica medii aevi III (1503–1592), inchoavit Guilelmus van Gulik,
+					absolvit Conradus Eubel, Monasterii 1910, Patavii 1960.</p>
+				<p>Hierarchia Catholica medii et recentioris aevi IV (1592–1667) per Patritium
+					Gauchat, Monasterii 1935, Patavii 1960.</p>
+				<p>Hirn, Joseph: Erzherzog Maximilian der Deutschmeister Regent von Tirol, 2 Bände,
+					Innsbruck 1915, 1936, Nachdruck hg. von Heinz Noflatscher, Bozen 1981.</p>
+				<p>Höfer, Rudolf: Bischof Martin Brenner als Gegenreformator und katholischer
+					Reformer, in: Katholische Reform und Gegenreformation in Innerösterreich
+					1564–1628, Graz – Wien – Köln 1994, S. 21–40.</p>
+				<p>Höfert, Almut, Den Feind beschreiben. «Türkengefahr» und europäisches Wissen über
+					das Osmanische Reich 1450–1600 (= Campus Historische Studien 35), Frankfurt/M.
+					u.a. 2003.</p>
+				<p>Horvat, Carolus: Monumenta historiam Uscocchorum illustrantia, pars I (=
+					Monumenta spectantia historiam Slavorum Meridionalium XXXII), Zagrabiae
+					1910.</p>
+				<p>Hrenov Simpozij v Rimu, red. Edo Škulj, Simpoziji v Rimu 15, Celje 1998.</p>
+				<p>Huber, Alfons: Geschichte Österreichs IV, Gotha 1892.</p>
+				<p>Hurter, Friedrich von: Geschichte Kaiser Ferdinands II. und seiner Eltern, 11
+					Bände, Schaffhausen 1850–1864.</p>
+				<p>Isenburg, Wilhelm Karl Prinz von: siehe Europäische Stammtafeln.</p>
+				<p>Jačov, Marko: I Balcani tra Impero Ottomano e potenze europee (sec. XVI e XVII).
+					Il ruolo della diplomazia pontificia, Cosenza 1997.</p>
+				<p>Jaitner, Klaus: Die Hauptinstruktionen Clemens’ VIII. für die Nuntien und Legaten
+					an den europäischen Fürstenhöfen 1592–1605, 2 Bände, Tübingen 1984.</p>
+				<pb xml:id="P4_0XXXVII"/>
+				<p>Jaitner, Klaus: Il nepotismo di papa Clemente VIII, in: Archivio Storico Italiano
+					146 (1988), S. 57–93.</p>
+				<p>Jaitner, Klaus: Der Hof Clemens’ VIII., in: QFIAB 84 (2004), S. 137–331.</p>
+				<p>Jaksch, August von: Die Einführung des Johanniter Ritterordens in Kärnten, in:
+					AfÖG 76 (1890), S. 349–404.</p>
+				<p>Jarmiński, Lescus (ed.): Germanico Malaspina (1592–1598). Acta Nuntiaturae
+					Polonae XV, 1, Cracoviae 2000.</p>
+				<p>Jedin, Hubert: Katholische Reform und Gegenreformation, in: Handbuch der
+					Kirchengeschichte hg. von Hubert Jedin, IV, Freiburg – Basel – Wien 1967, S.
+					449–683.</p>
+				<p>Jorga, Nicolae: Geschichte des Osmanischen Reiches III, Gotha 1910.</p>
+				<p>Kaser, Karl: Freier Bauer und Soldat. Die Militarisierung der agrarischen
+					Gesellschaft in der kroatisch-slawonischen Militärgrenze (1535–1881) (= Zur
+					Kunde Südosteuropas II/ 15), Graz 1986.</p>
+				<p>Katholische Reform und Gegenreformation in Innerösterreich 1564–1628/ Katoliška
+					prenova in protireformacija v notranjeavstriskih de želah 1564–1628/ Riforma
+					cattolica e controriforma nell’Austria interna 1564–1624, hg. von France Martin
+					Dolinar, Maximilian Liebmann, Helmut Rumpler, Luigi Tavano, Graz – Wien – Köln
+					1994.</p>
+				<p>Kerschbaumer, Anton: Cardinal Klesel Minister-Präsident unter Kaiser Mathias,
+					Wien 1865.</p>
+				<p>Khevenhiller, Frantz Christoph: Annalium Ferdinandei dritter und vierdter Theil,
+					Leipzig 1721.</p>
+				<p>Khevenhüller, Hans, Geheimes Tagebuch 1548–1605, hg. von Georg
+					Khevenhüller-Metsch und Günther Probszt-Ohstorff, Graz 1971.</p>
+				<p>Kirchengeschichte der Steiermark, hg. von Karl Amon und Maximilian Liebmann, Graz
+					1993.</p>
+				<p>Kohlbach, Rochus: Die gotischen Kirchen von Graz, Graz 1950.</p>
+				<p>Kohler, Alfred: Bayern als Vorbild für die innerösterreichische Gegenreformation,
+					in: Katholische Reform und Gegenreformation in Innerösterreich 1564–1628, Graz –
+					Wien – Köln 1994, S. 387–404.</p>
+				<p>Koller, Alexander (Hg.): Kurie und Politik. Stand und Perspektiven der
+					Nuntiaturberichtsforschung (= Bibliothek des Deutschen Historischen Instituts in
+					Rom 87), Tübingen 1998.</p>
+				<p>Koller, Fritz: Bayern-Salzburg-Berchtesgaden, in: Zeitschrift für bayerische
+					Landesgeschichte 50 (1987), S. 767–821.</p>
+				<p>Koller-Neumann, Irmtraud: Die Gegenreformation in Villach, Museum der Stadt
+					Villach, 13. Jahrbuch, Villach 1976.</p>
+				<p>Koller-Neumann, Irmtraud: Die Lehen des Bistums Bamberg in Kärnten, Klagenfurt
+					1982.</p>
+				<p>Krasenbrink, J.: Die Congregatio Germanica und die katholische Reform in
+					Deutschland nach dem Tridentinum (= Reformationsgeschichtliche Studien und Texte
+					105), Münster 1972.</p>
+				<p>Kraus, Andreas: Secretarius und Sekretariat. Der Ursprung der Institution des
+					Staatssekretariats und ihr Einfluss auf die Entwicklung moderner
+					Regierungsformen in Europa, in: RQ 55 (1960), S. 43–84.</p>
+				<pb xml:id="P4_XXXVIII"/>
+				<p>Kretschmayr, Heinrich: Geschichte von Venedig III, Stuttgart 1934.</p>
+				<p>Lang, Alois, Metnitz, Gustav Adolf von: Die Salzburger Lehen in Kärnten bis 1520,
+					FRA II/ 79, Wien 1971.</p>
+				<p>Lavrič, Ana (Hg.), Janez Gregor Dolničar, Zgodovina ljubljanske stolne cerkve,
+					Ljubljana 2003.</p>
+				<p>Leeb, Rudolf: Widerstand und leidender Ungehorsam gegen die katholische
+					Konfessionalisierung in den österreichischen Ländern, in: Rudolf Leeb, Susanne
+					C. Pils, Thomas Winkelbauer (Hg.), Staatsmacht und Seelenheil (=
+					Veröffentlichungen des Instituts für österreichische Geschichtsforschung 47),
+					Wien 2006, S. 183–203.</p>
+				<p>Liebmann, Maximilian: siehe Kirchengeschichte der Steiermark.</p>
+				<p>Liebmann, Maximilian: siehe Katholische Reform und Gegenreformation in
+					Innerösterreich.</p>
+				<p>Loserth, Johann: Eine Fälschung des Vicekanzlers Wolfgang Schranz. Kritische
+					Untersuchung über die Entstehung der Brucker Pacification von 1578, in: MIÖG 18
+					(1897), S. 341–361.</p>
+				<p>Loserth, Johann: Reformation und Gegenreformation in den innerösterreichischen
+					Ländern im 16. Jahrhundert, Stuttgart 1898.</p>
+				<p>Loserth, Johann: Das Tagebuch des Geheimsekretärs Peter Casal über die
+					italienische Reise Erzherzog Ferdinands II. vom 22. April bis 28. Juni 1598, in:
+					Mitteilungen des historischen Vereines für Steiermark 48 (1900), S. 3–93.</p>
+				<p>Loserth, Johann: Akten und Korrespondenzen zur Geschichte der Gegenreformation in
+					Innerösterreich (= FRA II, 58), Wien 1906.</p>
+				<p>Loserth, Johann : Die steirische Religionspazifikation und die Fälschung des
+					Vizekanzlers Dr. Wolfgang Schranz, in: Jahrbuch der Gesellschaft für Geschichte
+					des Protestantismus in Österreich 48 (1927), S. 1–57.</p>
+				<p>Loserth, Johann: Innerösterreich und die militärischen Maßnahmen gegen die Türken
+					im 16. Jahrhundert. Studien zur Geschichte der Landesdefension und der
+					Reichshilfe (= Forschungen zur Verfassungs- und Verwaltungsgeschichte der
+					Steiermark XI/1), Graz 1934.</p>
+				<p>Louant, Armand (Hg.): Correspondance d’Ottavio Mirto Frangipani, Premier Nonce de
+					Flandre (1596–1598), II: 1597–1598 (= Analecta vaticano-belgica, 2me série,
+					Nonciature de Fiandre II), Rome 1932.</p>
+				<p>Lukács, Ladislaus S.I. (ed.): Catalogi personarum et officiorum provinciae
+					Austriae Societatis Iesu I (1551–1600) (= Monumenta Historica Societatis Iesu
+					117), Rom 1978.</p>
+				<p>Lukács, Ladislaus S.I. (ed.): Monumenta Antiquae Hungariae IV (1593–1600) (=
+					Monumenta Historica Societatis Iesu 131), Romae 1987.</p>
+				<p>Lukács, Ladislaus S.I. (ed.): Catalogus Generalis seu Nomenclator biographicus
+					personarum provinciae Austriae Societatis Iesu (1551–1773), I–III, Romae
+					1987–1988.</p>
+				<p>Lukács, Ladislaus S.I. (ed.): Collectanea de Ratione studiorum Societatis Jesu
+					1582–1587; Collectanea de Ratione studiorum Societatis Jesu 1588–1616 (=
+					Monumenta paedagogica Societatis Jesu VI–VII, Monumenta Historica Societatis
+					Iesu 140–141), Romae 1992.</p>
+				<p>Luttenberger, Albrecht P.: Innerösterreich und das Reich im Zeitalter der
+					Gegenreformation. In: Katholische Reform und Gegenreformation in Innerösterreich
+					1564–1628, Graz – Wien – Köln 1994, S. 357–371.</p>
+				<pb xml:id="P4_00XXXIX"/>
+				<p>Lutz, Heinrich: Nuntiaturberichte aus Deutschland, Vergangenheit und Zukunft
+					einer „klassischen“ Editionsreihe, in: QFIAB 45 (1965), S. 274–324.</p>
+				<p>Mairold, Maria: Stipendiaten an der Grazer Universität im 16. Jahrhundert, in:
+					Historisches Jahrbuch der Stadt Graz 20 (1989), S. 9–34.</p>
+				<p>Malli, Rüdiger: Der „Miles Germanicus“ und „Grenzer“ im Spannungsfeld zwischen
+					Innerösterreich und Kroatien-Slavonien. In: Domus Austriae, Festgabe Hermann
+					Wiesflecker, Graz 1983, S. 273–279.</p>
+				<p>Marani, Alberto: Le guerre di Croazia e d’Ungheria (1592–1595), Relazione del
+					Gentiluomo Bresciano Ruggero Fabbarino, in: Commentari dell’Ateneo di Brescia a.
+					a. 165 (1966), S. 221–260.</p>
+				<p>Mathaus-Voltolini, L. F.: Die Beteiligung des Papstes Clemens VIII. an der
+					Bekämpfung der Türken in den Jahren 1592–1595, in: RQ 15 (1901), S. 303–326,
+					410–423.</p>
+				<p>Mayer, Johann Georg: Das Konzil von Trient und die Gegenreformation in der
+					Schweiz, 2 Bände, Stans 1901, 1903.</p>
+				<p>Mayer, Johann Georg: Geschichte des Bistums Chur II, Stans 1914.</p>
+				<p>Mecenseffy, Grete: Geschichte des Protestantismus in Österreich, Graz 1956.</p>
+				<p>Meir, Alice: Die Gegenreformation im Bistum Gurk, in: Katholische Reform und
+					Gegenreformation in Innerösterreich 1564–1628, Graz – Wien – Köln 1994, S.
+					317–329.</p>
+				<p>Metnitz, Gustav Adolf von: siehe Lang.</p>
+				<p>Meyer, Therese: Geschichte Spittals, in: Chronik 800 Jahre Spittal 1191–1991,
+					Spittal 1991, S. 7–154.</p>
+				<p>Mezler-Andelberg, Helmut J.: Graz: Mitterndorfer Pfarrunruhen zu Ende des 16.
+					Jahrhunderts, in: Veröffentlichungen des Steiermärkischen Landesarchivs 2, Graz
+					1981, S. 217–225.</p>
+				<p>Minucci, Minuccio: Historia degli Uscochi … sino all’anno MDCII e continuata dal
+					P. M. Paolo (Pietro) Sarpi sino all’anno MDCXVI, Venedig 1676.</p>
+				<p>Morelli di Schönfeld, Carlo: Istoria della contea di Gorizia, 4 Bände, Görz 1856;
+					anastatischer Nachdruck und 5. Band von Silvano Cavazza, Paolo Iancis, Donatella
+					Porcedda, Mariano del Friuli 2003.</p>
+				<p>Mosconi, Natale: La nunziatura di Praga di Cesare Speciano (1592–1598) nelle
+					carte inedite vaticane e ambrosiane, 5 Bände, Brescia 1966/67.</p>
+				<p>Mrkonjić, Tomislav, Nanni, Luigi: Epistolae ad Principes III (1585–1605) (=
+					Collectanea Archivi Vaticani 41), Città del Vaticano 1997.</p>
+				<p>Nanni, Luigi: siehe Mrkonjić.</p>
+				<p>Neumann, Wilhelm: Die Reformation in Villach, 900 Jahre Villach, Villach 1960, S.
+					411– 447.</p>
+				<p>Niederkorn, Jan Paul: Die europäischen Mächte und der „Lange Türkenkrieg“ Kaiser
+					Rudolfs II (1593–1606), AfÖG 135 (1993).</p>
+				<p>Niederstätter, Alois: Das Jahrhundert der Mitte. An der Wende vom Mittelalter zur
+					Neuzeit. (Österreichische Geschichte 1400–1522), Wien 1996.</p>
+				<p>Noflatscher, Heinz, Springer, Elisabeth: Studien und Quellen zu den Beziehungen
+					zwischen Rudolf II und den bosnischen Christen, in: Mitteilungen des
+					Österreichischen Staatsarchivs 36 (1983), S. 31–82.</p>
+				<pb xml:id="P4_00000XL"/>
+				<p>Noflatscher, Heinz: Glaube, Reich und Dynastie. Maximilian der Deutschmeister
+					(1558– 1618) (= Quellen und Studien zur Geschichte des Deutschen Ordens 11),
+					Marburg/L. 1987.</p>
+				<p>Noflatscher, Heinz: siehe Hirn.</p>
+				<p>Norton, Claire: „The Lutheran is the Turks’ luck”. Imagining religious identity,
+					alliance and conflict on the Habsburg-Ottoman marches in an account of the
+					sieges of Kanije 1600–1601, in: Das Osmanische Reich und die
+					Habsburgermonarchie. Akten des internationalen Kongresses zum 150-jährigen
+					Bestehen des Instituts für Österreichische Geschichtsforschung Wien, 22.–25.
+					September 2004, hg. v. Marlene Kurz, Martin Scheutz, Karl Vocelka und Thomas
+					Winkelbauer (= MIÖG Ergänzungsband 48), Wien-München 2005, S. 67–82.</p>
+				<p>Nuntiaturberichte siehe: Goetz, Hansen, Louant, Lutz, Mosconi, Rainer, Roberg,
+					Schellhass, Schweizer, Veress, Weiss, Welykyi.</p>
+				<p>Obersteiner, Jakob: Aus dem Tagebuch des Gurker Weihbischofs und Dompropstes Karl
+					von Griming III. in: Carinthia I 142 (1952), S. 337–345.</p>
+				<p>Obersteiner, Jakob: Beiträge zur Gurker Bistumsgeschichte aus der Zeit der
+					Reformation und Gegenreformation, in: Carinthia I 146 (1956), S. 189–228.</p>
+				<p>Obersteiner, Jakob: Die Bischöfe von Gurk (1072–1822), Klagenfurt 1969.</p>
+				<p>Ogris, Alfred: Zur politischen und kulturellen Bedeutung der Kärntner Landstände
+					während der Gegenreformation, in: Katholische Reform und Gegenreformation in
+					Innerösterreich 1564–1628, Graz – Wien – Köln 1994, S. 431–439.</p>
+				<p>Das Osmanische Reich und die Habsburgermonarchie. Akten des internationalen
+					Kongresses zum 150-jährigen Bestehen des Instituts für Österreichische
+					Geschichtsforschung Wien, 22.–25. September 2004, hg. v. Marlene Kurz, Martin
+					Scheutz, Karl Vocelka und Thomas Winkelbauer, MIÖG Ergänzungsband 48, Wien –
+					München 2005.</p>
+				<p>Paarhammer, Hans: Wolf Dietrichs Zerwürfnis mit Sebastian Cattaneo, in:
+					Fürsterzbischof Wolf Dietrich von Raitenau, Gründer des barocken Salzburg.
+					Katalog der Salzburger Landesausstellung 1987, Salzburg 1987, S. 119–122.</p>
+				<p>Padoani, Nicoletta: I problemi della restaurazione cattolica in Carinzia
+					attraverso le lettere dell’arcidiacono Andrea Tandler al patriarcato aquileiese.
+					Tesi di laurea, Università di Trieste, Facoltà di Lettere, anno accademico
+					1969–70, relatore Giovanni Miccoli.</p>
+				<p>Padoani, Nicoletta: Controriforma cattolica in Carinzia nell’epistolario
+					dell’arcidiacono di Villaco Andreas Tandler, in: Katholische Reform und
+					Gegenreformation in Innerösterreich 1564–1628, Graz – Wien – Köln 1994, S.
+					211–218.</p>
+				<p>Pagitz-Roscher, Magda: Das Augustiner Chorherrenstift in Sankt Andrä im
+					Lavantttal, in: Carinthia I 157 (1967), S. 296–319.</p>
+				<p>Pagitz-Roscher, Magda: Das Kloster der Cisterzienserinnen im Sack zu Friesach,
+					in: Carinthia I 160 (1970), S. 719–795.</p>
+				<p>Pálffy, Géza: Die Türkenabwehr in Ungarn im 16. und 17. Jahrhundert – ein
+					Forschungsdesiderat, in: Anzeiger der phil.-hist. Klasse der Österreichischen
+					Akademie der Wissenschaften 137 (2002), S. 99–131.</p>
+				<p>Paruta, Paolo: La legazione di Roma (1592–1595), 3 Bände (= Monumenti Storici
+					pubblicati dalla R. Dep. Veneta di Storia Patria, serie quarta, miscellanea vol.
+					7–9), Venezia 1887.</p>
+				<pb xml:id="P4_0000XLI"/>
+				<p>Paschini, Pio: Storia del Friuli, 2 Bände, Udine 21953–1954.</p>
+				<p>Pastor, Ludwig v.: Geschichte der Päpste seit dem Ausgang des Mittelalters, 16
+					Bände, Neuauflage, Freiburg – Rom 1955–1961.</p>
+				<p>Pazderova, Alena: La Boemia multiconfessionale e la nunziatura di Cesare Speciano
+					a Praga, in: Kaiserhof-Papsthof (16.–18. Jahrhundert), hg. Richard Bösel, Grete
+					Klingenstein, Alexander Koller (= Publikationen des Historischen Instituts beim
+					Österreichischen Kulturforum in Rom, Abhandlungen 12), Wien 2006, S. 25–32.</p>
+				<p>Peinlich, Richard: Geschichte des Gymnasiums in Graz. Programm des k.k.
+					akademischen Gymnasiums in Grätz, Graz 1864, 1866, 1869–1874.</p>
+				<p>Pfister, Rudolf: Kirchengeschichte der Schweiz, 2. Band, Zürich 1974.</p>
+				<p>Pickl, Othmar: Reformation und Gegenreformation im Bereich des Klosters Neuberg
+					(1551 bis 1600), in: Zeitschrift des Historischen Vereins für Steiermark 55
+					(1955) S. 75–103.</p>
+				<p>Pils, Susanne C. siehe Leeb.</p>
+				<p>Pirchegger, Hans: Erläuterungen zum historischen Atlas der Alpenländer I/4, Wien
+					1929.</p>
+				<p>Pirchegger, Hans: Geschichte der Steiermark 1282–1740, Graz – Wien – Leipzig
+					1931.</p>
+				<p>Popelka, Fritz: Geschichte der Stadt Graz, 2 Bände, unveränderter Nachdruck der
+					2. Auflage, Graz – Wien – Köln, 1984.</p>
+				<p>Porcedda, Donatella: Nobiltà e stati provinciali Goriziani nell’età della
+					controriforma, in: Katholische Reform und Gegenreformation in Innerösterreich
+					1564–1628, Graz – Wien – Köln 1994, S. 441–448.</p>
+				<p>Pörtner, Regina: The Counter-Reformation in Central Europe: Styria 1580–1630.
+					Oxford 2001.</p>
+				<p>Press, Volker: Die badischen Markgrafen im Reich der frühen Neuzeit, Zeitschrift
+					für die Geschichte des Oberrheins NF 103 (1994), S. 19–57.</p>
+				<p>Probszt-Ohstorff, Günther: Die Porcia. Aufstieg und Wirken eines Fürstenhauses (=
+					Aus Forschung und Kunst 14), Klagenfurt 1971.</p>
+				<p>Probszt-Ohstorff, Günther: siehe Khevenhüller.</p>
+				<p>Prodi, Paolo: Il cardinale Gabriele Paleotti (1522–1597), 2 Bände, Roma 1967.</p>
+				<p>Pühringer, Andrea: „Christen contra Heiden”? Die Darstellung von Gewalt in den
+					Türkenkriegen, in: Das Osmanische Reich und die Habsburgermonarchie. Akten des
+					internationalen Kongresses zum 150-jährigen Bestehen des Instituts für
+					Österreichische Geschichtsforschung Wien, 22.–25. September 2004, hg. v. Marlene
+					Kurz, Martin Scheutz, Karl Vocelka und Thomas Winkelbauer (= MIÖG Ergänzungsband
+					48), Wien – München 2005, S. 97–120.</p>
+				<p>Raab, Heribert: Die oberdeutschen Hochstifte zwischen Habsburg und Wittelsbach in
+					der frühen Neuzeit, in: Blätter für deutsche Landesgeschichte 109 (1973) S.
+					69–101.</p>
+				<p>Rainer, Johann: Versuche zur Errichtung neuer Bistümer in Innerösterreich unter
+					Erzherzog Karl II. und Ferdinand II., in: MIÖG 68 (1960), S. 457–469.</p>
+				<p>Rainer, Johann: Der Prozess gegen Kardinal Klesl, in: Römische Historische
+					Mitteilungen 5 (1962), S. 35–163.</p>
+				<p>Rainer, Johann: Nuntiaturberichte aus Deutschland II/8 (Nuntius G. Delfino und G.
+					F. Commendone 1571–1572), Graz – Köln 1967.</p>
+				<pb xml:id="P4_000XLII"/>
+				<p>Rainer, Johann: Zur Geschichte des Deutschordenspriorates SS.ma Trinità in
+					Venedig vornehmlich im 16. Jahrhundert, in: Quellen und Studien zur Geschichte
+					des Deutschen Ordens 1 (1967), S. 357–370.</p>
+				<p>Rainer, Johann: Die Legation des innerösterreichischen Statthalters Christoph
+					Andreas Spaur nach Rom 1581, in: Carinthia I, 161 (1971), S. 309–317.</p>
+				<p>Rainer, Johann (Hg.): Nuntiaturberichte. Sonderreihe: Grazer Nuntiatur, 1. Band:
+					Nuntiatur des Germanico Malaspina, Sendung des Antonio Possevino 1580–1582, 2.
+					Band unter Mitwirkung von Sabine Weiß: Nuntiatur des Germanico Malaspina und des
+					Giovanni Andrea Caligari 1582–1587, 3. Band unter Mitwirkung von Heinz
+					Noflatscher: Nuntiatur des Girolamo Portia und Korrespondenz des Hans Kobenzel
+					1592–1595 (= Publikationen des Historischen Instituts beim Österreichischen
+					Kulturinstitut in Rom, II. Abteilung: Quellen, II. Reihe: Nuntiaturberichte
+					1–3), Wien 1973, 1981 und 2001.</p>
+				<p>Rainer, Johann: Informativprozesse über österreichische Konsistorialklöster, in:
+					Karl Amon (Hg.), Ecclesia perigrinans. Josef Lenzenweger zum 70. Geburtstag
+					(Wien 1986), S. 341–348.</p>
+				<p>Rainer, Johann: Die Anfänge der Universität Graz, in: Grazer Universitätsreden 48
+					(1993), S. 31–50.</p>
+				<p>Rainer, Johann: Die Reise des Kardinallegaten Caetani durch Steiermark und
+					Kärnten im Jahr 1597, in: Neues aus Alt-Villach. 30. Jahrbuch des Stadtmuseums
+					(1993), S. 101–133.</p>
+				<p>Rainer, Johann: Die Entwicklung der Diözesaneinteilung in Innerösterreich, in:
+					Katholische Reform und Gegenreformation in Innerösterreich 1564–1628, Graz –
+					Wien – Köln 1994, S. 267–278.</p>
+				<p>Rainer, Johann: Päpstliche Sondergesandte in Innerösterreich. Zu den Legationen
+					von Possevino (1581), Aldobrandini (1588/89) und Caetani (1596/97), in:
+					Innsbrucker Historische Studien 14/15 (1994), S. 51–65.</p>
+				<p>Rainer, Johann: Du glückliches Österreich heirate. Die Hochzeit der
+					innerösterreichischen Prinzessin Margarethe mit König Philipp III. von Spanien
+					1598/99 (=Veröffentlichungen der Historischen Landeskommission für Steiermark,
+					Arbeiten zur Quellenkunde 38), Graz 1998.</p>
+				<p>Rainer, Johann: Die Heirat der Infantin Isabella mit Erzherzog Albrecht 1598/99,
+					in: Brennpunkt Mitteleuropa. Festschrift für Helmut Rumpler zum 65. Geburtstag,
+					Klagenfurt 2000, S. 173–184.</p>
+				<p>Rainer, Johann: Innerösterreich betreffende Quellen aus den Inquisitionsarchiven
+					in Rom und Udine (= Quellen zur geschichtlichen Landeskunde der Steiermark 19,
+					hg. von der Historischen Landeskommission für Steiermark), Graz 2004.</p>
+				<p>Rainer, Johann: Kardinal Ludovico Madruzzo und die Römische Inquisition, in:
+					Klaus Brandstätter, Julia Hörmann (Hg.), Tirol – Österreich – Italien.
+					Festschrift für Josef Riedmann zum 65. Geburtstag (Schlernschriften 330),
+					Innsbruck 2005, S. 549– 569.</p>
+				<p>Rainer, Johann: Waffen aus Österreich für Papst Clemens VIII. (1592–1605), in:
+					Carinthia I, 198 (2008), S. 171–182.</p>
+				<p>Randa, Alexander: Pro Republica Cristiana. Die Walachei im „langen“ Türkenkrieg
+					der katholischen Universalmächte (1593–1606) (= Societas Acad. Dacoromana, Acta
+					Historica 3), München 1964.</p>
+				<pb xml:id="P4_00XLIII"/>
+				<p>Rauch, Andreas: Die Tätigkeit des Grazer Nuntius Portia in den Jahren
+					1595/96–1600, theol. Diss. Graz 1956.</p>
+				<p>Redlich, Oswald: Weltmacht des Barock. Österreich in der Zeit Kaiser Leopolds I.,
+					Wien 1961.</p>
+				<p>Reingrabner, Gustav: Protestanten in Österreich, Geschichte und Dokumentation,
+					Wien – Köln – Graz 1981.</p>
+				<p>Reinhard, Wolfgang: Freunde und Kreaturen. „Verflechtung“ als Konzept zur
+					Erforschung historischer Führungsgruppen. Römische Oligarchie um 1600, Augsburg
+					1979.</p>
+				<p>Reinhard, Wolfgang: Nepotismus. Der Funktionswandel einer papstgeschichtlichen
+					Konstante, in: ZfKG 86 (1975), S. 145–185.</p>
+				<p>Reinhardt, Rudolf: Kontinuität und Diskontinuität. Zum Problem der Koadjutorie
+					mit dem Recht der Nachfolge in der neuzeitlichen Germania Sacra, in: Reich –
+					Kirche – Politik. Ausgewählte Beiträge zur Geschichte der Germania Sacra in der
+					frühen Neuzeit, hg. von Hubert Wolf (Festgabe Reinhardt zum 70. Geburtstag),
+					Ostfildern 1998, S. 119–151.</p>
+				<p>Reinhardt, Volker: Überleben in der frühneuzeitlichen Stadt. Annona und
+					Getreideversorgung in Rom 1563–1797 (= Bibliothek des Deutschen Historischen
+					Instituts in Rom 72), Tübingen 1991.</p>
+				<p>Reissenberger, Karl: Prinzessin Maria Christierna (1574–1621), in: Mitteilungen
+					des Historischen Vereins für Steiermark 30 (1882), S. 27–72.</p>
+				<p>Repgen, Konrad: Papst, Kaiser und Reich 1521–1644 (= Bibliothek des Deutschen
+					Historischen Instituts in Rom 24), Tübingen 1962.</p>
+				<p>Roberg, Burkhard: Nuntiaturberichte aus Deutschland, Die Kölner Nuntiatur.
+					Nuntius Ottavio Mirto Frangipani 1590–1596, 3 Bände, München – Paderborn – Wien
+					– Zürich 1969–1983.</p>
+				<p>Roberg, Burkhard: Türkenkrieg und Kirchenpolitik. Die Sendung Kardinal Madruzzos
+					an den Kaiserhof 1593 und zum Reichstag 1594, in: QFIAB 65 (1985), S. 192–305,
+					66 (1986), S. 192–268.</p>
+				<p>Roth, Elke: Erzherzogin Anna von Innerösterreich, Königin von Polen und Schweden.
+					Leben und Stellung in der habsburgischen Politik ihrer Zeit (1573–1598). Phil.
+					Diss. Graz 1967.</p>
+				<p>Rothenberg, Günther E.: Die österreichische Militärgrenze in Kroatien 1522 bis
+					1881, Wien-München 1970.</p>
+				<p>Rumpler, Helmut siehe Katholische Reform und Gegenreformation in
+					Innerösterreich.</p>
+				<p>Rupel, Mirko: Primus Truber, Leben und Werk des slowenischen Reformators.
+					Deutsche Übersetzung und Bearbeitung von Balduin Saria, München 1965.</p>
+				<p>Sakrausky, Oskar: Agoritschach, Geschichte einer protestantischen Gemeinde im
+					gemischtsprachigen Südkärnten (= Kärntner Museumsschriften 21), Klagenfurt
+					1960.</p>
+				<p>Sakrausky, Oskar: Theologische Strömungen in der reformatorischen Literatur der
+					Slowenen und Kroaten, in: Geschichte, Kultur und Geisteswelt der Slowenen 1
+					(1968), S. 135–151.</p>
+				<p>Salimbeni, Fulvio: La riforma tridentina nella diocesi di Trieste, in: Ricerche
+					di Storia Sociale e Religiosa, n.s. 14 (1978), S. 323–332.</p>
+				<pb xml:id="P4_000XLIV"/>
+				<p>Saria, Balduin siehe Rupel.</p>
+				<p>Sarpi, Paolo: siehe Minucci.</p>
+				<p>Schellhass, Karl: Der Dominikaner Felician Ninguarda und die Gegenreformation in
+					Süddeutschland und Österreich 1560–1583, 2 Bände (= Bibliothek des Deutschen
+					Historischen Instituts in Rom 17 und 18), Regensburg 1930 und 1939, Nachdruck
+					1971.</p>
+				<p>Schellhass, Karl: Nuntiaturberichte aus Deutschland III/3, III/4: Die süddeutsche
+					Nuntiatur des Grafen Bartholomäus von Portia, Berlin 1896 und 1903, Neudruck
+					1972.</p>
+				<p>Schellhass, Karl: Zum richtigen Verständnis der Brucker Religionspacifikation vom
+					9. Februar 1578, in: QFIAB 17 (1914/24), S. 266–277.</p>
+				<p>Scheutz, Martin: Kammergut und/oder eigener Stand? Landesfürstliche Städte/Märkte
+					und der „Zugriff“ der Gegenreformation, in: Rudolf Leeb, Susanne C. Pils, Thomas
+					Winkelbauer (Hg.), Staatsmacht und Seelenheil (= Veröffentlichungen des
+					Instituts für österreichische Geschichtsforschung 47), Wien 2006, S.
+					311–339.</p>
+				<p>Schmidt, W. A.: Die Gegenreformation in Görz-Gradiska, in: Jahrbuch der
+					Gesellschaft für Geschichte des Protestantismus in Österreich 29 (1908), S.
+					86–133.</p>
+				<p>Schöffmann, Peter: Das Bistum Gurk im konfessionellen Zeitalter, Synoden,
+					Visitationen und kirchliche Erneuerung 1521–1648, Klagenfurt 1989.</p>
+				<p>Schulze, Winfried: Landesdefension und Staatsbildung, Studien zum Kriegswesen des
+					innerösterreichischen Territorialstaates (1564–1619) (= Veröffentlichungen der
+					Kommission für Neuere Geschichte Österreichs 60), Wien – Köln – Graz 1973.</p>
+				<p>Schulze, Winfried: Reich und Türkengefahr im späten 16. Jahrhundert. Studien zu
+					den politischen u. gesellschaftlichen Auswirkungen einer äußeren Bedrohung,
+					München 1978.</p>
+				<p>Schüller-Piroli, Susanne: Die Borgia-Dynastie. Legende und Geschichte, Wien
+					1982.</p>
+				<p>Schuster, Leopold: Fürstbischof Martin Brenner. Ein Charakterbild aus der
+					steirischen Reformations-Geschichte, Graz – Leipzig 1898.</p>
+				<p>Schweizer, Josef: Nuntiaturberichte aus Deutschland hg. von der
+					Görresgesellschaft, 2. Abt.: Die Nuntiatur am Kaiserhofe, 3. Band: Die Nuntien
+					in Prag Alfonso Visconte 1589–1591, Camillo Caetano 1591–1592 (= Quellen und
+					Forschungen aus dem Gebiet der Geschichte 18), Paderborn 1919.</p>
+				<p>Schwennicke, Detlev siehe Europäische Stammtafeln.</p>
+				<p>Sittig, Wolfgang: Landstände und Landesfürstentum, für den Druck eingerichtet von
+					Franz Otto Roth (= Veröffentlichungen des Steiermärkischen Landesarchives 13),
+					Graz 1982.</p>
+				<p>Škulj Edo siehe Hrenov Simpozij v Rimu</p>
+				<p>Spatzenegger siehe Dopsch.</p>
+				<p>Speronius de Alvarottis, Arnaldus: Adriensium episcoporum series
+					historico-cronologica, monumentis illustrata, Patavii 1788.</p>
+				<p>Staatsmacht und Seelenheil siehe Leeb.</p>
+				<p>Starzer, Albert: Die Übergabe des Chorherrenstiftes Eberndorf an die Jesuiten,
+					in: Festschrift Th. von Sickel. MIÖG Ergänzungsband 6 (1901), S. 624–633.</p>
+				<p>Štefanec, Nataša: Demographic Changes and Everyday Life on the Habsburg-Ottoman
+					Border in Slavonija (ca. 1550–1650), in: Das Osmanische Reich und die
+					Habsburgermonarchie. Akten des internationalen Kongresses zum 150-jährigen
+					Bestehen des <pb xml:id="P4_0000XLV"/>Instituts für Österreichische
+					Geschichtsforschung Wien, 22.–25. September 2004, hg. v. Marlene Kurz, Martin
+					Scheutz, Karl Vocelka und Thomas Winkelbauer (= MIÖG Ergänzungsband 48), Wien –
+					München 2005, S. 551–578.</p>
+				<p>Steinhauf, Bernhard: Giovanni Ludovico Madruzzo (1532–1600) (=
+					Reformationsgeschichtliche Studien und Texte 132), Münster 1993.</p>
+				<p>Steinhuber, Andreas: Geschichte des Kollegium Germanikum Hungarikum in Rom, 2
+					Bände, Freiburg im Breisgau 21906.</p>
+				<p>Stieve, Felix: Die Politik Bayerns 1591–1607 (= Briefe und Acten zur Geschichte
+					des dreißigjährigen Krieges, Band 4 und 5), München 1878, 1883.</p>
+				<p>Stieve, Felix: Wittelsbacher Briefe aus den Jahren 1590 bis 1610, I. Abteilung.
+					Abhandlungen der Hist. Classe der Kgl. bayerischen Akademie der Wissenschaften
+					17 (1886), S. 385–497; II. und III. Abteilung ebd. 18 (1887–1889), S. 113–216
+					und S. 441–560; IV. Abteilung ebd. 19 (1889), S. 117–258; V. und VI. Abteilung
+					ebd. 20 (1892), S. 57–186 und S. 363–514.</p>
+				<p>Strnad, Alfred A.: Markus Sittich von Hohenems und Andreas von Österreich, in:
+					Die Bischöfe von Konstanz, Band 1, Geschichte, Friedrichshafen 1988, S. 376–403,
+					458–460.</p>
+				<p>Szilas, László S.J.: Der Jesuit Alfonso Carrillo in Siebenbürgen 1591–1599 (=
+					Biblioteca Instituti Historici Societatis Iesu XXVI), Roma 1966.</p>
+				<p>Tavano, Luigi: La riforma cattolica nel Goriziano attraverso i nuovi ordini
+					religiosi, in: Katholische Reform und Gegenreformation in Innerösterreich
+					1564–1628, Graz – Wien – Köln 1994, S. 155–169.</p>
+				<p>Tavano, Luigi siehe Katholische Reform und Gegenreformation in
+					Innerösterreich.</p>
+				<p>Tavano, Luigi: La diocesi di Gorizia 1754–1947, Mariano del Friuli 2004.</p>
+				<p>Thalhammer siehe Grünfelder.</p>
+				<p>Thiel, Viktor: Die innerösterreichische Zentralverwaltung 1564–1749, Teil 1: Die
+					Hof- und Zentralbehörden Innerösterreichs 1564–1625, AfÖG 105, Wien 1916.</p>
+				<p>Tomić, Jovan N.: Grad Klis u 1596 godini, Beograd 1908.</p>
+				<p>Tóth, István György: Litterae Missionariorum de Hungaria et Transilvania
+					(1572–1717), 2 Bände (= Bibliotheca Academiae Hungariae-Roma Fontes I, 4), Roma
+					– Budapest 2002–2004.</p>
+				<p>Trebbi, Giuseppe: Francesco Barbaro Patrizio Veneto e Patriarca di Aquileia (=
+					Storia della Società Friulana, Sezione studi e testi 2), Udine 1984.</p>
+				<p>Tropper, Christine: Kärntner Frauenklöster zur Zeit der Reformation und
+					Gegenreformation, in: Katholische Reform und Gegenreformation 1564–1628, Graz –
+					Wien – Köln 1994, S. 219–232.</p>
+				<p>Tropper, Peter G.: Die Erneuerung des Pfarrklerus in Salzburgisch-Kärnten zur
+					Zeit der Gegenreformation, in: Katholische Reform und Gegenreformation
+					1564–1628, Graz – Wien – Köln 1994, S. 331–344.</p>
+				<p>Tropper, Peter G.: Vom Missionsgebiet zum Landesbistum. Organisation und
+					Administration der katholischen Kirche in Kärnten von Chorbischof Modestus bis
+					zu Bischof Köstner, Klagenfurt 1996.</p>
+				<p>Turba, Gustav: Beiträge zur Geschichte der Habsburger. Aus den letzten Jahren des
+					spanischen Königs Philipp II., in: AfÖG 86 (1898), S. 309–453.</p>
+				<pb xml:id="P4_000XLVI"/>
+				<p>Uhlirz, Karl: Ein Bruchstück des Diariums der Grazer Jesuiten 1574–1589, 1596,
+					1597, in: Beiträge zur Erforschung der steirischen Geschichte 36, Graz 1908, S.
+					51–67.</p>
+				<p>Vaniček, Franz: Specialgeschichte der Militärgrenze aus Originalquellen und
+					Quellenwerken geschöpft, Wien 1875.</p>
+				<p>Veress, Endre: Epistolae et acta P. Alphonsi Carrilli S. I., 2 Bände (= Monumenta
+					Hungariae Historica 1. Diplomataria 32, 41), Budapest 1906, 1943.</p>
+				<p>Veress, Endre: Relationes nuntiorum apostolicorum in Transsylvaniam missorum a
+					Clemente VIII (= Monumenta Vaticana historiam regni Hungariae illustrantia II,
+					3) Budapest 1909.</p>
+				<p>Vigno delli Rubrichi, Renato: Il „Fondo Aldobrandini“ dell’archivio Doria Landi
+					Pamphilj, in: Archivio della Società Romana di Storia Patria, serie III 23 (anno
+					XCII, 1969), S. 15–38.</p>
+				<p>Vigno delli Rubrichi, Renato: Il fondo detto „l’Archiviolo“ dell’ archivio Doria
+					Landi Pamphilj. Miscellanea della Società Romana di Storia Patria XXII, Roma
+					1972.</p>
+				<p>Vocelka, Karl: Die politische Propaganda Kaiser Rudolfs II. (1576–1612) (=
+					Veröffentlichungen der Kommission für die Geschichte Österreichs 9), Wien
+					1981.</p>
+				<p>Vocelka, Karl: Habsburgische Hochzeiten 1550–1600. Kulturgeschichtliche Studien
+					zum manieristischen Repräsentationsfest (= Veröffentlichungen der Kommission für
+					neuere Geschichte Österreichs 65), Wien 1976.</p>
+				<p>Vocelka, Karl: Rudolf II. und seine Zeit, Wien – Köln – Graz 1985.</p>
+				<p>Wadl, Wilhelm: Kirchliche Institutionen in Friesach zwischen Reformation und
+					Gegenreformation, in: Katholische Reform und Gegenreformation 1564–1628, Graz –
+					Wien – Köln 1994, S. 345–354.</p>
+				<p>Wadl, Wilhelm: Reformation und Gegenreformation in der Propstei Kraig und die
+					Toleranzgemeinde Eggen am Kraigerberg, in: Carinthia I 172 (1982), S.
+					99–128.</p>
+				<p>Webernig, Evelyn: Der „Dreizehnjährige Türkenkrieg“ (1593–1606) und seine
+					Auswirkungen auf Kärnten, in: Katholische Reform und Gegenreformation 1564–1628,
+					Graz – Wien – Köln 1994, S. 449–458.</p>
+				<p>Wehner, Johanna: Maria von Bayern, Erzherzogin von Österreich; Ihr Leben bis zum
+					Tode ihres Gemahls (1590), phil. Diss. Graz 1965.</p>
+				<p>Weiß, Sabine: Claudia de’ Medici, Eine italienische Prinzessin als Landesfürstin
+					von Tirol (1604–1648), Wien-Innsbruck 2004.</p>
+				<p>Weiß, Sabine: Erzherzog Leopold V. – Ritter des Ordens vom Goldenen Vlies.
+					Biographische Notizen zu Karriere und Lebenswelt eines frühbarocken Tiroler
+					Landesfürsten, in: Tiroler Heimat 66 (2002), S. 29–80.</p>
+				<p>Weiß, Sabine: siehe Rainer, Nuntiaturberichte.</p>
+				<p>Welykyi, A.G.: Litterae nuntiorum apostolicorum historiam Ucrainae illustrantes
+					1600– 1900 (= Documenta Romana Ecclesiae catholicae in terris Ucrainae et
+					Bielarusjae. Epistolae metropolitarum, archiepiscoporum et episcoporum I–II),
+					Romae 1959.</p>
+				<p>Winkelbauer, Thomas: Ständefreiheit und Fürstenmacht. Länder und Untertanen des
+					Hauses Habsburg im konfessionellen Zeitalter (Österreichische Geschichte
+					1522–1699). 2 Bände, Wien 2003.</p>
+				<p>Winkelbauer, Thomas siehe Leeb.</p>
+				<pb xml:id="P4_00XLVII"/>
+				<p>Winkelmann, Erich: Zur Geschichte des Luthertums im untersteirischen Mur- und
+					Draugebiet. Die Zwischenregierung nach dem Tode Karls II., in: Jahrbuch der
+					Gesellschaft für die Geschichte des Protestantismus in Österreich 56 (1935), S.
+					88–199.</p>
+				<p>Winterfeld, Adolf von: Geschichte des ritterlichen Ordens St. Johannis vom Spital
+					zu Jerusalem, Berlin 1859.</p>
+				<p>Zahn, Joseph: Correspondenz der Päpste mit dem Hofe zu Graz 1568–1619, in:
+					Steiermärkische Geschichtsblätter 1 (1880), S. 69–97.</p>
+				<p>Zak, Alfons: Österreichisches Klosterbuch, Wien – Leipzig 1911.</p>
+				<p>Zavatto, Pietro: La Controriforma a Trieste, in: Katholische Reform und
+					Gegenreformation 1564–1628, Graz – Wien – Köln 1994, S. 171–190.</p>
+				<p>Zeeden, Walter: Das Zeitalter der Gegenreformation von 1555 bis 1648, München
+					21979.</p>
+				<p>Ziegler, Walter: Der Kampf mit der Reformation im Land des Kaisers, in: RQ 84
+					(1989), S. 210–234.</p>
+				<p>Zimmermann, Harald: Der Protestantismus in Österreich ob und unter der Enns im
+					Spiegel landesherrlicher Erlässe (1520–1610), in: Jahrbuch der Gesellschaft für
+					Geschichte des Protestantismus in Österreich 98 (1982), S. 98–210.</p>
+				<p>Zingerle, Elisabeth: Maria Christierna Principessa di Transilvania e Arciduchessa
+					di Innerösterreich – il suo matrimonio di solo quattro anni, in: Gli archivi
+					della Santa Sede e il regno d’Ungheria (secc. 15–20). In memoriam di Lajos
+					Pásztor, a cura di Gaetano Platania, Matteo Sanfilippo, Péter Tusor (=
+					Collectanea Vaticana Hungariae 4), Budapest – Roma 2008, S. 35–50.</p>
+				<p>Zingerle, Elisabeth: Graz–Florenz. Der Grazer Nuntius als Informant für den
+					Großherzog der Toskana, in: Le corti come luogo di comunicazione. Gli Asburgo e
+					l’Italia (secoli XVI-XIX)/Höfe als Orte der Kommunikation. Die Habsburger und
+					Italien (16. bis 19. Jahrhundert), a cura di/hg. von Marco Bellabarba, Jan Paul
+					Niederkorn, Fondazione Bruno Kessler (= Annali dell’Istituto storico
+					italo-germanico in Trento/Jahrbuch des italienisch-deutschen historischen
+					Instituts in Trient, Contributi/Beiträge 24), Bologna – Berlin 2010, S.
+					61–74.</p>
+				<p>Zingerle, Elisabeth (Hg.): Grazer Nuntiatur 5: Nuntiatur des Girolamo Portia
+					1599–1602 (Publikationen des Historischen Instituts beim Österreichischen
+					Kulturforum in Rom, II. Abteilung, II. Reihe: Nuntiaturberichte), in
+					Vorbereitung.</p>
+			</div>
+			<div>
+				<pb xml:id="P4_000XLIX"/>
+				<head n="1">Abkürzungen</head>
+				<p>
+					<lb/>AA.<space quantity="1" unit="tab"/>Altezze<lb/>AAU<space quantity="1"
+						unit="tab"/>Archivio Arcivescovile Udine<lb/>ACDF<space quantity="1"
+						unit="tab"/>Archivio della Congregazione per la dottrina della
+						fede<lb/>ADG<space quantity="1" unit="tab"/>Archiv der Diözese
+						Gurk<lb/>AES<space quantity="1" unit="tab"/>Archiv der Erzdiözese
+						Salzburg<lb/>AfÖG<space quantity="1" unit="tab"/>Archiv für österreichische
+						Geschichte<lb/>ARSI<space quantity="1" unit="tab"/>Archivum Romanum
+					Societatis Iesu<lb/>A.S.<space quantity="1" unit="tab"/>Altezza
+						Sua<lb/>A.V.<space quantity="1" unit="tab"/>Altezza Vostra<lb/>ASV<space
+						quantity="1" unit="tab"/>Archivio Segreto Vaticano<lb/>B.<space quantity="1"
+						unit="tab"/>Bischof<lb/>BAV<space quantity="1" unit="tab"/>Biblioteca
+					Apostolica Vaticana<lb/>B.ne S.<space quantity="1" unit="tab"/>Beatitudine
+					Sua<lb/>Cav., cav.<space quantity="1" unit="tab"/>Cavaliere<lb/>Ces.<space
+						quantity="1" unit="tab"/>Cesarea, -eo<lb/>DBI<space quantity="1" unit="tab"
+					/>Dizionario Biografico degli Italiani<lb/>Dil.<space quantity="1" unit="tab"
+					/>Diligentia<lb/>D. M.tà<space quantity="1" unit="tab"/>Divina
+						Maestà<lb/>dr.<space quantity="1" unit="tab"/>dottore<lb/>D. V. Rev.ma<space
+						quantity="1" unit="tab"/>Dominatio Vestra Reverendissima<lb/>Eb.<space
+						quantity="1" unit="tab"/>Erzbischof<lb/>Ehzg<space quantity="1" unit="tab"
+						/>Erzherzog<lb/>Ehzgin<space quantity="1" unit="tab"
+						/>Erzherzogin<lb/>ecc.mo<space quantity="1" unit="tab"
+						/>eccellentissimo<lb/>Ecc.za<space quantity="1" unit="tab"
+						/>Eccellenza<lb/>FRA<space quantity="1" unit="tab"/>Fontes Rerum
+						Austriacarum<lb/>GN<space quantity="1" unit="tab"/>Grazer Nuntiatur<lb/>H.
+						C.<space quantity="1" unit="tab"/>Hierarchia catholica<lb/>Hzg<space
+						quantity="1" unit="tab"/>Herzog<lb/>Ill.ma, Ill.mo<space quantity="1"
+						unit="tab"/>Illustrissima, -mo<lb/>KLA<space quantity="1" unit="tab"
+					/>Kärntner Landesarchiv<lb/>KN<space quantity="1" unit="tab"/>Kölner
+						Nuntiatur<lb/>M.<space quantity="1" unit="tab"/>messér oder
+						maestro<lb/>MIÖG<space quantity="1" unit="tab"/>Mitteilungen des Instituts
+					für österreichische Geschichtsforschung<lb/>mons.<space quantity="1" unit="tab"
+						/>monsignore<lb/>M.tà<space quantity="1" unit="tab"/>Maestà<lb/>M.tà
+						Div.<space quantity="1" unit="tab"/>Maestà Divina<lb/>NB<space quantity="1"
+						unit="tab"/>Nuntiaturberichte<lb/>N. S.<space quantity="1" unit="tab"
+					/>Nostro Signore<lb/>p.<space quantity="1" unit="tab"/>padre<lb/>QFIAB<space
+						quantity="1" unit="tab"/>Quellen und Forschungen aus italienischen Archiven
+					und Bibliotheken<lb/>R.ma, R.mus<space quantity="1" unit="tab"/>Reverendissima,
+						Reverendissimus<lb/>RQ<space quantity="1" unit="tab"/>Römische
+					Quartalschrift für christliche Altertumskunde und Kirchengeschichte<pb
+						xml:id="P4_000000L"/>
+					<lb/>s.<space quantity="1" unit="tab"/>san, santa, santo<lb/>S. A.<space
+						quantity="1" unit="tab"/>Sua Altezza<lb/>S. B.ne<space quantity="1"
+						unit="tab"/>Sua Beatitudine<lb/>S. D. M.tà<space quantity="1" unit="tab"
+					/>Sua Divina Maestà<lb/>S. Ecc.za<space quantity="1" unit="tab"/>Sua
+					Eccellenza<lb/>S. M.tà<space quantity="1" unit="tab"/>Sua Maestà<lb/>S. M.tà
+						Ces.<space quantity="1" unit="tab"/>Sua Maestà Cesarea<lb/>S. N.<space
+						quantity="1" unit="tab"/>Signore Nostro<lb/>S. R.ma D.<space quantity="1"
+						unit="tab"/>Sua Reverendissima Dominatio<lb/>S. S.<space quantity="1"
+						unit="tab"/>Sua Signoria<lb/>S. S. R.ma<space quantity="1" unit="tab"/>Sua
+					Signoria Reverendissima<lb/>S. Ser.ma A.<space quantity="1" unit="tab"/>Sua
+					Serenissima Altezza<lb/>S. Ser.tà<space quantity="1" unit="tab"/>Sua
+					Serenità<lb/>S. S.tà<space quantity="1" unit="tab"/>Sua Santità<lb/>S. S.tas
+					(S.tis etc.)<space quantity="1" unit="tab"/>Sua Sanctitas (Sanctitatis
+					etc.)<lb/>S. V.<space quantity="1" unit="tab"/>Signoria Vostra<lb/>Ser.ma,
+						Ser.mo<space quantity="1" unit="tab"/>Serenissima, -mo<lb/>Ser.tas<space
+						quantity="1" unit="tab"/>Serenitas<lb/>sig.<space quantity="1" unit="tab"
+					/>signor, -e<lb/>sig.ra<space quantity="1" unit="tab"/>signora<lb/>sig.ri<space
+						quantity="1" unit="tab"/>signori<lb/>S.ma, S.mo<space quantity="1"
+						unit="tab"/>Santissima, -mo<lb/>S.mus D. N.<space quantity="1" unit="tab"
+					/>Sanctissimus Dominus Noster<lb/>S.ria S.<space quantity="1" unit="tab"
+					/>Signoria Sua<lb/>S.tà S.<space quantity="1" unit="tab"/>Santità
+						Sua<lb/>S.tas<space quantity="1" unit="tab"/>Sanctitas<lb/>S.S. V.V.<space
+						quantity="1" unit="tab"/>Signorie Vostre<lb/>StLA<space quantity="1"
+						unit="tab"/>Steiermärkisches Landesarchiv<lb/>V. A.<space quantity="1"
+						unit="tab"/>Vostra Altezza<lb/>V. B.ne<space quantity="1" unit="tab"/>Vostra
+					Beatitudine<lb/>V. M.tà Ces.<space quantity="1" unit="tab"/>Vostra Maestà
+					Cesarea<lb/>V. R.tia<space quantity="1" unit="tab"/>Vostra Reverentia<lb/>V. P.
+						Rev.ma<space quantity="1" unit="tab"/>Vostra Paternità Reverendissima<lb/>V.
+						S.<space quantity="1" unit="tab"/>Vostra Signoria<lb/>V. S. R.ma<space
+						quantity="1" unit="tab"/>Vostra Signoria Reverendissima<lb/>V. S.tà<space
+						quantity="1" unit="tab"/>Vostra Santità<lb/>V. S.tas<space quantity="1"
+						unit="tab"/>Vestra Sanctitas<lb/>VV. SS.<space quantity="1" unit="tab"
+					/>Vostre Signorie<lb/>ZfKG<space quantity="1" unit="tab"/>Zeitschrift für
+					Kirchengeschichte</p>
+			</div>
+		</body>
+	</text>
+</TEI>
