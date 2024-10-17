@@ -1,0 +1,674 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title level="a">Einleitung zum 2. Band</title>
+				<author ref="https://d-nb.info/gnd/118968440">Rainer Johann</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head n="1">VORWORT</head>
+				<p>Nach einem mehrjährigen Intervall erscheint nun endlich der 2. Band der Grazer
+					Nuntiatur. Er beinhaltet die Korrespondenz Germanico Malaspinas von Juni 1582
+					bis November 1584 und daran anschließend diejenige Giovanni Andrea Caligaris bis
+					Jänner 1587. Ein nicht geringer Teil der Berichte wurde außerhalb von Graz, vor
+					allem in Augsburg, Köln und Görz, geschrieben. Da die Menge des Materials noch
+					überschaubar ist und auch in den auswärtigen Berichten immer wieder
+					innerösterreichische Betreffe behandelt werden, wurde in allen Fällen der
+					Volltext ediert.</p>
+				<p>Die steigende Inanspruchnahme an der Universität ließ mir leider nicht die für
+					große Editionsarbeiten notwendige Zeit. Der Band hätte auch jetzt nicht
+					erscheinen können, wenn ich nicht in Frau Univ. Doz. Dr. Sabine Weiß eine
+					unermüdliche Mitarbeiterin gefunden hätte, die mir einen Teil der Arbeit abnahm.
+					Ihr gilt daher mein aufrichtiger Dank. Auch mein Assistent Hermann Kuprian hat
+					sich bereitwillig an der Lesung der Korrekturfahnen und der Erstellung des
+					Registers beteiligt.</p>
+				<p>Zu besonderem Dank verpflichtet bin ich Herrn Dr. Karlheinz Frankl, der mich auf
+					einige zur Nuntiaturkorrespondenz gehörige, aber an entlegener Stelle verwahrte
+					Stücke in Rom und Udine aufmerksam machte. Auch Frau Dr. Irmtraud Koller-Neumann
+					und Frau Dr. Silvia Caramelle-Webhofer habe ich zu danken, die einige
+					vatikanische Texte kollationierten.</p>
+				<p>Ich hoffe sehr, daß die Drucklegung des nächsten Bandes der Grazer Nuntiatur, der
+					bereits in Arbeit ist, in absehbarer Zeit erfolgen kann.</p>
+				<p>Innsbruck, am 19. 3. 1981 Johann Rainer</p>
+			</div>
+			<div>
+				<head n="1">I. Die Nuntiatur Graz</head>
+				<p>Vorgeschichte und Geschichte der Grazer Nuntiatur wurden bereits im ersten Band
+					dieser Reihe eingehend dargestellt.<note xml:id="FN2_001">Siehe Rainer, Grazer
+						Nuntiatur I, S. VIII—XV.</note> Aufgaben und Wirkungsbereich blieben für den
+					im vorliegenden zweiten Band behandelten Zeitraum unverändert: territorial also
+					Innerösterreich (Steiermark, Kärnten, Krain, Görz, Küstenland, Triest und der
+					österreichische Teil Istriens), inhaltlich vor allem die Ausrottung der Häresie,
+					Wiederherstellung der katholischen Kirche und Stärkung der landesfürstlichen
+					Autorität zur Bekämpfung der protestantischen adelig-bürgerlichen Opposition
+					sowie zur Abwehr der Türken. Neu kommt hinzu, daß die Nuntien längere Zeit von
+					Graz abwesend waren; Malaspina weilte 1582 am Reichstag zu Augsburg und 1583 in
+					Köln. Caligari war von Ende 1585 bis Anfang 1587 in Görz und kehrte von dort
+					nach Rom zurück, ohne daß ein Nachfolger ernannt worden wäre. Die Nuntiatur Graz
+					blieb daraufhin für etwa sechs Jahre unbesetzt, bis 1592 Girolamo Portia
+					entsandt wurde.</p>
+			</div>
+			<div>
+				<head n="1">II. Die päpstlichen Gesandten</head>
+				<div>
+					<head n="2">Germanico Malaspina<note xml:id="FN2_002">Vgl. ebd. S. XVff.</note>
+					</head>
+					<p>Der seit 1580 in Graz tätige Nuntius erhielt im Frühjahr 1582 den Auftrag,
+						Erzherzog Karl zum Reichstag nach Augsburg zu begleiten und dort mit dem
+						Kardinallegaten Madruzzo zusammenzuarbeiten.<note xml:id="FN2_003">Ebd., S.
+							397f., 401.</note> Obwohl Madruzzo an der römischen Kurie der Fachmann
+						für deutsche <pb xml:id="P2_00000IX"/>Angelegenheiten war, wurde er in
+						seiner Instruktion wiederholt auf Malaspina verwiesen,<note xml:id="FN2_004"
+							>Hansen, Nuntiaturberichte III/2, S. 391, 394.</note> ein Zeichen dafür,
+						wie hoch man in Rom Malaspinas bisherige Tätigkeit einschätzte. Ende April
+						teilte er Gallio seine Abreise von Graz mit.<note xml:id="FN2_005">Rainer,
+							Grazer Nuntiatur I, S. 412.</note> Mitte Mai berichtete er aus
+							Admont<note xml:id="FN2_006">Ebd. S. 424f.</note> und Anfang Juni aus
+							Salzburg,<note xml:id="FN2_007">Siehe unten Nr. 1.</note> wo er wichtige
+						Verhandlungen zu führen hatte. Das Hauptproblem war der Aufbau einer
+						katholischen Front zur Verhinderung der von protestantischen Reichsständen
+						angestrebten Freistellung, d. h. Säkularisierung, der geistlichen
+						Reichsfürstentümer. In München sprach Malaspina im Auftrag des
+						Kardinallegaten Madruzzo mit Erzherzog Karl und Herzog Wilhelm von Bayern
+						über die Freistellung und über die Beilegung von Differenzen zwischen Kaiser
+						Rudolf II. und Erzherzog Ferdinand.<note xml:id="FN2_008">Nr. 3.</note>
+					</p>
+					<p>In Augsburg arbeitete Malaspina mit den beiden anderen Vertretern Roms,
+						Kardinallegat Madruzzo und Nuntius Bonomi, eng zusammen. Neben den oben
+						erwähnten Reichsangelegenheiten befaßte er sich auch hier vor allem mit
+						innerösterreichischen Problemen, insbesondere der Rekatholisierung des
+						Landes und der Türkenabwehr, die auf dem Reichstag behandelt wurde.<note
+							xml:id="FN2_009">Nr. 4, 11, 26.</note> Große Aufregung verursachte die
+						Ankunft von Vertretern der evangelischen Stände Innerösterreichs, die bei
+						den protestantischen Reichsständen und beim Kaiser Hilfe gegen die
+						Religionspolitik Erzherzog Karls suchten.<note xml:id="FN2_010">Nr. 18, 19,
+							26, 27.</note>
+					</p>
+					<p>Ende September 1582 kehrte Malaspina nach Graz zurück, wo auf Drängen des
+						dort anwesenden Herzogs Wilhelm mit der Einkerkerung evangelischer Bürger
+						erste energische Schritte im Sinne der Gegenreformation gemacht wurden.<note
+							xml:id="FN2_011">Nr. 21, Anm. 3, Nr. 31, 32, 33, 34, 35, 36, 37.</note>
+						In den folgenden Monaten wird in den Berichten immer wieder darauf
+						eingegangen, bis endlich Anfang 1583 die Bürger nachgaben und das
+						Religionsdekret akzeptierten.<note xml:id="FN2_012">Nr. 42, 43, 48, 53,
+							55.</note> Der evangelische Adel, der während dieser Zeit geschont
+						wurde, intervenierte erfolglos bei Erzherzog Karl zugunsten der Bürger.
+						Ebensowenig erreichten die Interzessionsschreiben mehrerer
+							Reichsstände.<note xml:id="FN2_013">Nr. 37, 46, 48, 60.</note>
+					</p>
+					<pb xml:id="P2_000000X"/>
+					<p>Seit dem Sommer 1582 war Malaspina auch mit der Einführung des
+						Gregorianischen Kalenders befaßt.<note xml:id="FN2_014">Nr. 6.</note> Der
+						vom Papst vorgesehene Termin, 4./15. Oktober 1582, wurde aber nicht
+							eingehalten.<note xml:id="FN2_015">Nr. 34.</note> Auch eine Mahnung
+						Gregors XIII., im Februar 1583 mit dem neuen Kalender zu beginnen, blieb
+							erfolglos.<note xml:id="FN2_016">Nr. 51, 60.</note> Erzherzog Karl
+						publizierte ihn erst im Herbst 1583.<note xml:id="FN2_017">Nr. 58, Anm. 6,
+							Nr. 124.</note> Der Kalenderstreit zog sich aber noch einige Zeit hin,
+						wobei sich die Protestanten auch um ein Gutachten an die Universität
+						Tübingen wandten.<note xml:id="FN2_018">Nr. 154.</note>
+					</p>
+					<p>Einen guten Teil des Jahres 1583 war Malaspina fern von Graz. Am 13. Jänner
+						erging an ihn die Weisung, sich umgehend nach Innsbruck zu begeben, um den
+						dort lebenden Kardinal Andreas von Österreich, der zum Legaten für die
+						Beilegung der Kölner Wirren ernannt worden war, nach Köln zu begleiten.<note
+							xml:id="FN2_019">Nr. 56; vgl. auch Hansen, Nuntiaturberichte IIII/1, S.
+							294ff.</note> Der Kardinal, dem auch Nuntius Bonomi zugeteilt war, kam
+						aber nur bis Speyer. Die Weigerung des Pfalzgrafen Johann Kasimir, ihm den
+						Durchzug durch die Pfalz zu gestatten, veranlaßten Andreas von Österreich,
+						sich nach Breisach zurückzuziehen. Malaspina nahm daraufhin den Umweg über
+						Lothringen nach Köln, wo er am 28. März/7. April 1583 ankam. Zusammen mit
+						Minutio Minucci, der schon seit Jänner in Köln war, und Bonomi, der am
+						20./30. April eintraf, blieb dann Malaspina in Köln, bis die durch den
+						Abfall des Erzbischofs Gebhard Truchseß ausgelösten Wirren mit der Wahl
+						Ernsts von Bayern zum Erzbischof von Köln beendet waren. Er nahm den Rückweg
+						durch Belgien und Lothringen und kam, über München, Salzburg, Admont und
+						Straßburg in Kärnten reisend, erst im September wieder nach Graz
+							zurück.<note xml:id="FN2_020">Nr. 102, 104, 106, 109, 111, 115.</note>
+					</p>
+					<p>Während der Abwesenheit Malaspinas hat über dessen Ersuchen der Bischof von
+						Gurk, Christoph Andreas von Spaur, nach Rom berichtet, insbesondere über den
+						im Februar/März 1583 abgehaltenen steirischen Landtag.<note xml:id="FN2_021"
+							>Nr. 65, 68, 70, 71, 73, 74, 76, 78, 80, 85.</note>
+					</p>
+					<p>Am 27. April 1583 wurde Malaspina zum Bischof von San Severo in Apulien
+						ernannt. Die Bischofsweihe empfing er auf der Rückreise von <pb
+							xml:id="P2_00000XI"/>Köln am 25. August 1583 vom Gurker Bischof in der
+						Kollegiatkirche zu Straßburg in Kärnten.<note xml:id="FN2_022">Nr. 89,
+							97.</note>
+					</p>
+					<p>Anläßlich des steirischen Landtags im Dezember 1583/Jänner 1584 bemühte sich
+						Malaspina besonders um Ausschließung der Religionsfrage von den
+						Verhandlungen, die möglichst nur der Türkenabwehr gewidmet sein sollten. Er
+						befürchtete nämlich, daß die protestantischen Stände die Bewilligung der
+						dringend notwendigen Gelder für die Türkengrenze von der Erfüllung
+						religiöser Forderungen abhängig machen könnten.<note xml:id="FN2_023">Nr.
+							133.</note> Ein weiteres Anliegen war, die Bürger von den Adeligen zu
+							trennen.<note xml:id="FN2_024">Nr. 129.</note> Beides gelang nicht ganz,
+						aber der Abschluß des Landtages ohne neue Konzessionen an die Protestanten
+						galt bereits als Erfolg.<note xml:id="FN2_025">Nr. 149, 170.</note>
+					</p>
+					<p>Im Frühjahr 1584 wurde die Durchführung des Religionsdekretes gegen
+						evangelische Bürger, die in den Augsburger Religionsfrieden eingeschlossen
+						sein wollten, wieder aufgenommen. Trotz harter Strafen konnte aber kein
+						durchschlagender Erfolg erzielt werden.<note xml:id="FN2_026">Nr. 166, 167,
+							169, 171, 172, 174, 179, 181, 189, 192, 201, 204.</note>
+					</p>
+					<p>Wiederholt versuchte die innerösterreichische Regierung, päpstliche
+						Hilfsgelder zu erhalten. Diese waren aber nicht so sehr für die
+						Türkengrenze, sondern für den Unterhalt einer Besatzung in Graz gedacht, um
+						der Rekatholisierung den nötigen Nachdruck verleihen zu können. Zusagen
+						erfolgten, Malaspina schickte Familiaren zum Abholen des Geldes nach
+						Venedig, die aber unverrichteter Dinge wieder umkehren mußten. Man fand in
+						Rom, daß die äußerste Notwendigkeit noch nicht gegeben wäre, verwies auf die
+						angespannte Finanzlage des Kirchenstaates durch die Köln und Kaiser Rudolf
+						II. gewährten Subsidien sowie die Sonderausgaben zur Banditenbekämpfung. Die
+						Kurie riet, die Unkosten der Besatzung durch die Schuldigen, nämlich die
+						evangelischen Bürger, zahlen zu lassen.<note xml:id="FN2_027">Nr. 174, 180,
+							183, 187, 190, 197.</note>
+					</p>
+					<p>Die Beziehungen Malaspinas zu den Prälaten Innerösterreichs, die am Anfang
+						seiner Nuntiatur nicht immer gut waren,<note xml:id="FN2_028">Grazer
+							Nuntiatur I, S. 316, 334.</note> besserten sich. Besonders eng war die
+						Zusammenarbeit mit dem Bischof von Gurk, <pb xml:id="P2_0000XII"/>Christoph
+						Andreas Spaur, der auch innerösterreichischer Statthalter war.<note
+							xml:id="FN2_029">Nr. 64, 65, 138, 144, 149.</note> Ausgezeichnet war das
+						Verhältnis Malaspinas zu den Jesuiten.<note xml:id="FN2_030">Nr. 140, 153,
+							159, 223.</note>
+					</p>
+					<p>Am 29. August 1584 bat Malaspina um eine andere Verwendung. Umgehend wurde
+						ihm die Erfüllung seiner Bitte in Aussicht gestellt, und am 13. Oktober
+						wurde er zum Nuntius am Kaiserhof ernannt. Er mußte nur noch die Ankunft
+						seines Nachfolgers Giovanni Andrea Caligari in Graz abwarten. Dieser kam am
+						26. November an und Malaspina reiste am 29. November nach Prag ab, wo er bis
+						zum Frühjahr 1586 als Nuntius bei Kaiser Rudolf II. tätig war.<note
+							xml:id="FN2_031">Nr. 199, 200, 207, 214, 229, 230.</note> Anschließend
+						kehrte er nach Italien zurück, war 1591/92 Nuntius in Neapel und 1592—1599
+						Nuntius in Polen. Im Jahr 1604 starb er und wurde in seiner Kathedralkirche
+						zu San Severo in Apulien beigesetzt.<note xml:id="FN2_032">Reichenberger,
+							Nuntiaturberichte II/1, S. XXXIVf. und S. 230, Anm. 1; Rainer, Grazer
+							Nuntiatur I, S. XX.</note>
+					</p>
+				</div>
+				<div>
+					<head n="2">Giovanni Andrea Caligari</head>
+					<p>Caligari wurde am 14. Oktober 1527 in Brisighella geboren, seine Eltern waren
+						Giuliano und Cornelia Gualamini.<note xml:id="FN2_033">De Caro, Giovanni
+							Andrea Caligari, Dizionario Biografico degli Italiani 16, S.
+							711ff.</note> Seit 1547 studierte er in Bologna, wo er 1554 zum Doktor
+						der Rechte promoviert wurde. Im gleichen Jahr erhielt er die erste kleine
+						Beschäftigung an der Kurie, anschließend stand er in Diensten des Kardinals
+						G. F. Commendone. 1561 empfing er die Weihen und wurde sogleich dank der
+						Protektion Commendones Vikar des Kardinals B. Scotti im Bistum Piacenza.
+						Nach drei Jahren eifrigen Dienstes in Piacenza war er kurze Zeit Vikar des
+						Kardinals Ranuccio Farnese in Bologna, dann kehrte er nach Rom zurück, wo er
+						zuerst bei Kardinal Ippolito d’Este und dann wieder bei Kardinal Commendone
+						tätig war. 1566 begleitete er Commendone zum Augsburger Reichstag. Zweimal
+						wurde er von dort wegen der schwierigen Verhandlungen nach Rom gesandt, wo
+						es ihm gelang, Papst Pius V. für die von Commendone am Reichstag verfolgte
+						Politik der stillschweigenden Anerkennung des Augsburger Religionsfriedens
+						zu gewinnen.<note xml:id="FN2_034">Vgl. Dengel, Nuntiaturberichte II/5, S.
+							LXXXVIf. und Register S. 262.</note>
+					</p>
+					<p>1570 erhielt Caligari die Pfarre San Giovanni in Octavo bei Brisighella, die
+						300 Dukaten Jahreseinkommen brachte. In diese Zeit fallen engere Kontakte
+						mit Karl Borromäus, den er wahrscheinlich schon aus <pb xml:id="P2_000XIII"
+						/>seiner Zeit in Piacenza kannte. Caligari blieb wahrscheinlich bis 1574 in
+						seiner Pfarre, ging dann wieder nach Rom und verzichtete auf die Pfarre.
+						Sein neuer Protektor in Rom war Kardinal Antonio Caraffa. Caligari wurde nun
+						definitiv in die päpstliche Bürokratie und Diplomatie aufgenommen. 1574
+						wurde er Referendar beider Signaturen und im gleichen Jahr erfolgte seine
+						Entsendung nach Siena, wo er die vom Klerus dieser Stadt an die Apostolische
+						Kammer zu zahlenden Abgaben eintreiben sollte. Nach seiner Rückkehr von
+						diesem rasch erledigten Auftrag ernannte ihn Gregor XIII. mit Breve vom 16.
+						Oktober 1574 zum apostolischen Kommissar und Kollektor in Portugal und
+						beauftragte ihn, König Sebastian von Portugal, der von einer militärischen
+						Expedition in Marokko zurückgekehrt war, den geweihten Degen und Hut zu
+							überbringen.<note xml:id="FN2_035">Arch. Vat. Nunz. Portogallo, Lett.
+							Orig. di Caligari 1574 XII 231576 XII 24, 502 Folien; vgl. auch De Caro
+							a.a.O., S. 712f.</note>
+					</p>
+					<p>Im September 1577 wurde Caligari nach Rom zurückberufen, wo seine
+						Wertschätzung inzwischen so gestiegen war, daß der Wunsch Karl Borromäus’,
+						ihn als Generalvikar nach Mailand zu bekommen, abgeschlagen und Caligari
+						Ende 1577 zum Nuntius in Polen ernannt wurde.<note xml:id="FN2_036"
+							>Boratyński, I. A. Caligarii Nuntii Apostolici in Polonia Epistolae et
+							Acta, S. XXX, LXXIV und 1ff.</note> In Polen hatte er sich außer um die
+						kirchlichen Anliegen — Durchführung der Beschlüsse des Trienter Konzils und
+						Abwehr des Protestantismus — vor allem um die Besserung der Beziehungen
+						zwischen König Stephan Bathory und Kaiser Rudolf II. sowie um die
+						Herstellung eines wenigstens zeitweiligen Friedens zwischen Polen und Moskau
+						zu bemühen; wennmöglich sollte eine Liga gegen die Türken zustandekommen.
+						Aber weder mit Moskau noch mit Habsburg konnte Caligari eine Aussöhnung
+						herbeiführen. Im September 1581 wurde er daher nach Rom zurückberufen.</p>
+					<p>Inzwischen hatte er 1579 das Bistum Bertinoro in der Romagna erhalten, wohin
+						er sich nach kurzem Aufenthalt am päpstlichen Hof begab. Drei Jahre wirkte
+						er mit Eifer in seiner Diözese, ehe er zum Nuntius in Graz ernannt
+							wurde.<note xml:id="FN2_037">De Caro a.a.O., S. 715.</note>
+					</p>
+					<p>Mit Breve vom 13. Oktober 1584 teilte Gregor XIII. Erzherzog Karl die
+						Versetzung Malaspinas an den Kaiserhof und die Entsendung von Caligari nach
+						Graz mit.<note xml:id="FN2_038">Nr. 207.</note> Am 16. Oktober brach
+						Caligari von Rom auf, um über Bertinoro, wo er sich zur Regelung
+						verschiedener Angelegen<pb xml:id="P2_0000XIV"/>heiten kurz aufhielt, sowie
+						über Bologna und Venedig an seinen Bestimmungsort zu reisen.<note
+							xml:id="FN2_039">Nr. 211, 217.</note> Am 26. November 1584 kam er in
+						Graz an, wo ihn Malaspina schon sehr erwartete und in den folgenden beiden
+						Tagen in sein neues Amt einführte.<note xml:id="FN2_040">Nr. 230,
+							232.</note>
+					</p>
+					<p>Außer Zweifel hat Caligari bereits in Rom mündliche Weisungen erhalten; die
+						ansonsten übliche schriftliche Instruktion konnte aber trotz allen Suchens
+						weder im Konzept noch im Original gefunden werden. Die Fakultäten wurden ihm
+						nachgeschickt und im Lauf der Zeit erweitert.<note xml:id="FN2_041">Nr. 210,
+							218, 251, 254, 257.</note>
+					</p>
+					<p>Die Tätigkeit Caligaris in Graz war weniger bedeutend als die Malaspinas,
+						der, schon weil er der erste Nuntius in Innerösterreich war und sich hier
+						viel länger aufhielt, mehr leisten und auffallen konnte; dazu kamen dann
+						noch seine beiden Aufträge nach Augsburg und Köln. Caligari dagegen floh
+						nach nur etwa einem Jahr Aufenthalt in Graz vor der Pest an den äußersten
+						Rand seines Nuntiaturbereiches, wo er praktisch in seiner Amtstätigkeit auf
+						die weitere Umgebung beschränkt blieb, ehe er Anfang 1587 nach Rom
+							zurückkehrte.<note xml:id="FN2_042">Nr. 328.</note>
+					</p>
+					<p>Die Aufgaben Caligaris in Graz waren meist kirchlicher Natur. Nur vereinzelt
+						erwähnt er Fragen der Reichspolitik, gelegentlich berichtet er über Probleme
+						mit den Türken sowie über Schwierigkeiten zwischen Innerösterreich und
+						Venedig, nur ganz selten geht er darüber hinaus.</p>
+					<p>Während der Nuntiatur Malaspinas wurde erreicht, daß der Protestantismus in
+						Innerösterreich sich nicht weiter ausdehnte und festigte, sondern seine
+						Position in manchem sogar verschlechterte; aber dadurch hatte die
+						katholische Kirche noch nicht gewonnen.<note xml:id="FN2_043">Loserth,
+							Reformation und Gegenreformation, S. 468.</note> Die Protestanten hatten
+						gehofft, daß nach Malaspina kein neuer Nuntius nach Graz kommen würde. Um
+						verschiedenen Gerüchten zu begegnen, gab Caligari Erzherzog Karl die
+						beruhigende Erklärung, daß er nicht gekommen sei, um Verwirrung zu stiften,
+						sondern zu beruhigen und mit apostolischer Autorität zu helfen.<note
+							xml:id="FN2_044">Nr. 232.</note> Beim Erzherzog fand er zwar guten
+						Willen, aber nicht die notwendige Tatkraft vor.<note xml:id="FN2_045">Nr.
+							233.</note> Ein Teil der Minister und Hofleute zeigte dagegen wenig
+						Interesse an der Religion oder war sogar häretisch.<note xml:id="FN2_046"
+							>Nr. 242.</note> Es fehlte aber auch nicht an Männern, die bereit waren,
+						mit dem Nuntius <pb xml:id="P2_00000XV"/>zusammenzuarbeiten. Dazu gehörten
+						Johann Tautscher, Bischof von Laibach und zugleich innerösterreichischer
+						Statthalter in Graz, P. Heinrich Blyssem, Provinzial der Jesuiten und
+						Beichtvater Erzherzog Karls, sowie der Hofkanzler Wolfgang Schranz.<note
+							xml:id="FN2_047">Nr. 233.</note>
+					</p>
+					<p>Gemäß den aus Rom erhaltenen Weisungen drängte Caligari Erzherzog Karl immer
+						wieder, die bereits früher erlassenen Religionsdekrete, die vor allem gegen
+						die protestantischen Bürger gerichtet waren,<note xml:id="FN2_048">Nr. 236,
+							237, 252, 259.</note> durchzuführen. Rücksicht auf die landesfürstlichen
+						Steuerforderungen bei den bevorstehenden Landtagen von Kärnten, Krain und
+						Steiermark, die mehrheitlich von Evangelischen beschickt waren, zwangen die
+						Regierung zu größerer Vorsicht gegenüber den Protestanten, als es Caligari
+						gewünscht hatte.<note xml:id="FN2_049">Nr. 241, 258, 260.</note> In Kärnten
+						und Krain gingen die Landtage im Jänner/Februar 1585 vorbei, ohne daß über
+						Religion geredet worden wäre.<note xml:id="FN2_050">Nr. 241, 254,
+							256.</note> Auf dem steirischen Landtag hingegen weigerten sich die
+						protestantischen Stände, in die Diskussion über die landesfürstlichen
+						Steuerforderungen einzutreten, bevor nicht ihre Beschwerden, vor allem die
+						die Religion und die evangelischen Bürger betreffenden, erledigt wären.<note
+							xml:id="FN2_051">Nr. 265.</note> Erzherzog Karl gab zwar nicht nach,
+						aber die Hoffnungen Caligaris auf energisches Vorgehen gegen die
+						Protestanten erfüllten sich nicht.<note xml:id="FN2_052">Nr. 272.</note> Es
+						blieb bei einzelnen Aktionen gegen die Bürger, während gegen den
+						evangelischen Adel, auf dessen Mitwirkung Erzherzog Karl bei der
+						Verteidigung der Türkengrenze an gewiesen war, nichts unternommen
+							wurde.<note xml:id="FN2_053">Nr. 284.</note>
+					</p>
+					<p>Zu den wichtigen Aufgaben der Nuntien gehörte auch die Sorge, geeignete
+						Kandidaten für das Bischofsamt zu finden und deren Ernennung zu betreiben.
+						Als Caligari nach Graz kam, waren die Bistümer Seckau und Lavant verwaist.
+						Unter Caligaris Mitwirkung gelang es, zwei hervorragende Oberhirten zu
+						gewinnen, Martin Brenner für Seckau<note xml:id="FN2_054">Vgl. über ihn
+							Schuster, Fürstbischof Martin Brenner, Graz—Leipzig 1898.</note> und
+						Georg Stobäus für Lavant,<note xml:id="FN2_055">Vgl. über ihn Stepischneg,
+							Georg III. Stobaeus von Palmburg, Fürstbischof von Lavant, AÖG 15
+							(1856), S. 71—132.</note> die beide zu den eifrigsten Vorkämpfern für
+						die Wiederherstellung der katholischen Kirche in Innerösterreich werden
+						sollten.</p>
+					<p>Obwohl die von Pius IV. gewährte Konzession des Laienkelches schon längst
+						wieder abgeschafft war, wurde noch an vielen Orten die Kommunion unter
+						beiderlei Gestalt gespendet. Bischof Christoph Andreas <pb
+							xml:id="P2_0000XVI"/>Spaur von Gurk wurde daher vom Papst aufgefordert,
+						diesen Zustand in seiner Diözese baldigst abzustellen. Caligari drängte den
+						Bischof, der schwere Bedenken hatte, auf genaue Beachtung des päpstlichen
+							Gebotes.<note xml:id="FN2_056">Nr. 241, 289.</note>
+					</p>
+					<p>Die Reform der Welt- und Ordensgeistlichkeit gehörte zu den wichtigsten
+						Aufgaben Caligaris. Visitationen, die er zum Teil selbst vornahm, sollten
+						ihm nicht nur die Möglichkeit bieten, lehrend aufzutreten, sondern auch den
+						kirchlichen Besitz, der nur noch würdigen Amtsträgern überlassen werden
+						sollte, zu überprüfen und das Konkubinat der Priester abzuschaffen.<note
+							xml:id="FN2_057">Nr. 320, 321, 322.</note> Die Priester sollten durch
+						Geldstrafen, die nach Caligaris Meinung bei diesem habsüchtigen Volk
+						wirksamer waren als jede andere Strafe, zur Entfernung ihrer Konkubinen
+						gezwungen werden. Bei den Ordensleuten, deren es nur noch wenige gab, waren
+						die Mißstände nicht geringer als beim Weltklerus. Nach Caligari führten
+						alle, gleich welchen Namen sie trugen, ein skandalöses Leben. Ihre
+						Verderbnis schien ihm so groß, daß er kaum Hoffnung auf Besserung sah,
+						sondern vielmehr befürchtete, durch offene Ahndung ihrer Vergehen das
+						Ärgernis beim Volke noch zu vergrößern.<note xml:id="FN2_058">Nr. 269,
+							294.</note>
+					</p>
+					<p>Das Verhältnis Caligaris zu den Jesuiten, die damals am Hofe Erzherzog Karls
+						großen Einfluß hatten und in Graz eine Universität errichteten, wurde im
+						Lauf der Zeit immer schlechter. Schließlich beschuldigte er sie sogar, gegen
+						notwendige kirchliche Neuerungen zu sein, um die von ihnen usurpierte
+						Herrschaft über den Klerus weiter ausüben zu können.<note xml:id="FN2_059"
+							>Nr. 315, 317, 327.</note>
+					</p>
+					<p>Unermüdlich war Caligari bemüht, die schwierigen Beziehungen zwischen
+						Erzherzog Karl einerseits und Venedig und dem Patriarchen von Aquileia
+						andererseits zu verbessern. Wenn auch Hauptziele wie die Zurückdrängung des
+						venetianischen Einflusses auf das Patriarchat durch die Ernennung eines
+						Koadjutors für den österreichischen Anteil der Diözese Aquileia oder noch
+						besser durch die Errichtung von zwei neuen Bischofsitzen, nämlich in Görz
+						und Völkermarkt, nicht erreicht werden konnten, so gelang ihm doch fallweise
+						eine Entspannung.<note xml:id="FN2_060">Nr. 239, 307, 311, 318.</note>
+					</p>
+					<pb xml:id="P2_000XVII"/>
+					<p>Nachdem er schon über ein Jahr nicht mehr in Graz, sondern in Görz war,
+						wiederholt um Enthebung von seinem Amt als Nuntius gebeten und auch einen
+						Nachfolger empfohlen hatte, verließ Caligari Anfang 1587 seinen
+						Nuntiaturbezirk. Sein letzter Bericht ist vom 15. Jänner 1587 datiert.<note
+							xml:id="FN2_061">Nr. 328.</note> in einer Depesche vom 2. Mai 1587 wird
+						schon seine Rückkehr nach Rom gemeldet.<note xml:id="FN2_062">Pastor,
+							Geschichte der Päpste X, S. 343, Anm. 3.</note>
+					</p>
+					<p>Seit 1. Jänner 1588 ist Caligari in Rom als Sekretär des Kardinalnepoten
+						Montalto (Alessandro Peretti) nachweisbar. Er wurde damit einer der engeren
+						Mitarbeiter Papst Sixtus V. Unter Urban VII., Gregor XIV. und Innozenz IX.
+						verblieb er an der päpstlichen Kurie und wurde 1591 Leiter einer der drei
+						Sektionen des (Staats)sekretariats.<note xml:id="FN2_063">Hansen,
+							Nuntiaturberichte III/1, S. 750, Anm. 7.</note> Von Clemens VIII.
+						zunächst in seiner Funktion belassen, zog er sich 1593 nach Bertinoro
+						zurück, wo er bis an sein Lebensende — er starb am 19. Jänner 1613 —
+						verblieb. Nur einmal noch kehrte er in die Politik zurück, nämlich als
+						Begleiter des Kardinals Aldobrandini bei der Besitzergreifung Ferraras für
+						den Kirchenstaat im Jahr 1597.<note xml:id="FN2_064">Vgl. Pastor, Geschichte
+							der Päpste XI, S. 590ff.</note>
+					</p>
+					<p>Die letzten Jahre betrieb Caligari neben seinem Bischofsamt auch historische
+						Studien, so zur Geschichte seines Heimatortes Brisighella sowie des
+						Königreiches Italien. Er war auch einer der Promotoren für Uberto Fogliettas
+						Geschichte der Expedition Stephan Bathorys.<note xml:id="FN2_065">De Caro
+							a.a.O., S. 717.</note>
+					</p>
+				</div>
+			</div>
+			<div>
+				<head n="1">III. Die Quellen</head>
+				<p>Von den insgesamt 328 Nummern dieses Bandes stammen 124 von Malaspina, 76 von
+					Caligari und 10 von Bischof Christoph Andreas Spaur von Gurk, der während der
+					Sendung Malaspinas nach Köln von diesem beauftragt worden war, laufend nach Rom
+					zu berichten. Von diesen insgesamt 210 Schreiben waren gut zwei Drittel an
+					Kardinal Gallio gerichtet, 40 an Kardinal Rusticucci und nur vereinzelte Briefe
+					ergingen an die Kardinäle Azzolino (5), Pellevé (4), Madruzzo (2), Alessandrino
+					(2) sowie an den Jesuitengeneral (2), Erzherzog Karl (1), Herzog Wilhelm von
+					Bayern (3) und den Erzbischof von Salzburg (1).</p>
+				<pb xml:id="P2_00XVIII"/>
+				<p>Aus Rom kamen 3 Schreiben von Gregor XIII., 4 vom Jesuitengeneral und 102 von
+					Kardinal Gallio. Einen Brief schrieben die steirischen Stände A. B. an
+					Malaspina, vier Schreiben stammen von Herzog Wilhelm und eines vom Prior des
+					Grazer Dominikanerklosters.</p>
+				<p>Während die Korrespondenz Malaspinas zum größten Teil erhalten geblieben ist,
+					mußten bei Caligari bedeutende Verluste festgestellt werden. Von April 1585 —
+					Beginn der Regierung Sixtus V. und Bestellung Rusticuccis zum
+					Kardinal(staats)sekretär — bis zum Ende der Nuntiatur Caligaris Anfang 1587
+					konnten nur 3 Weisungen gefunden werden, obwohl nach der Geschäftsordnung
+					angenommen werden kann, daß jede Woche eine ergehen sollte. Für 1585 konnten
+					einige aus der Empfangsbestätigung in den Berichten Caligaris erschlossen
+					werden. Da aber ab 1586 nur noch ganz wenige Berichte Caligaris erhalten
+					blieben, kann auch daraus nicht mehr festgestellt werden, ob — wie unter
+					normalen Umständen — weiterhin wöchentlich eine Weisung erfolgte. Mit großer
+					Wahrscheinlichkeit kann angenommen werden, daß bald nach der Ankunft Caligaris
+					in Görz (Ende 1586) die Korrespondenz stark nachließ, weil es fern vom Grazer
+					Hof für den Grazer Nuntius immer weniger zu berichten gab.</p>
+				<p>Die Korrespondenz wurde in folgenden Archiven und Handschriftensammlungen
+					gefunden:</p>
+				<p>Für den Kommentar wurden im Vatikanischen Archiv die Bestände der Nunziatura
+					Francia, Nunziatura Polonia, Nunziatura Portogallo, Nunziatura Spagna und
+					Nunziatura Venezia eingesehen, ferner die Berichte des Nuntius am Kaiserhof
+					benutzt. Ebenso wurden die im Wiener Haus¬, Hofund Staatsarchiv verwahrte
+					Korrespondenz des kaiserlichen Gesandten in Rom (Rom Korrespondenz 42) und die
+					im Archivio di Stato in Venedig liegende Korrespondenz des venezianischen
+					Gesandten am Kaiserhof (Dispacci Germania, filza 9, 10, 11, 12, 13)
+					herangezogen. Besonders ergiebig war natürlich das Steiermärkische Landesarchiv,
+					vor allem die Landtagsakten 427, 428, 430, 431 und 432, die Landtagshandlungen
+					33, 34, 35 und 36, Reformation 74 und 75 sowie die Militaria für die
+					betreffenden Jahre. Außer den im ersten Band dieser Reihe angeführten Archiven
+					wurden auch im Bayerischen Hauptstaatsarchiv, im Archivio di Stato in Rom und in
+					der Biblioteca Arcivescovile in Udine Nachforschungen angestellt.</p>
+			</div>
+			<div>
+				<head n="1">IV. Chiffrenschlüssel</head>
+				<p>Malaspina und Caligari benutzen nur sehr selten die Chiffre. Für den in diesem
+					Band behandelten Zeitraum ist kein einziger Chiffretext im Original erhalten
+					geblieben, sondern nur einige Chiffre-Minuten sowie bereits entzifferte
+					Schreiben. Malaspina und Caligari gebrauchten den gleichen Schlüssel, der in der
+					Sammlung des Matteo Argenti, Nipote des Chiffren-Sekretärs unter Gregor XIII.
+					Giovanni Battista Argenti, überliefert ist.<note xml:id="FN2_066">Bibl. Vat.
+						Chigi M II 50, f. 1*r.</note> Häufig vorkommende Personen, Begriffe und
+					Wörter wurden mit einer zweistelligen Zahl verdeckt Buchstaben teils mit ein-,
+					teils mit zweistelligen Zahlen. Für die Vokale standen zur Erschwerung von
+					Entzifferungsversuchen zwei Zahlen zur Verfügung.<note xml:id="FN2_067">Ebd., f.
+						6*r, 10*r; Meister, Geheimschrift, S. XXIV, 324, 328.</note>
+				</p>
+				<p>a b c d e f g h i l m n o p q r s t u z 3 5 7 9 13 23 33 43 15 25 35 45 55 65 75
+					85 95 17 27 37 01 03 05 07 09</p>
+			</div>
+			<div>
+				<head n="1">V. Editionsgrundsätze</head>
+				<p>Die im ersten Band angewandte Methode wurde beibehalten, nämlich möglichst Druck
+					des Volltextes nach der besten Überlieferung unter Belassung der Orthographie,
+					aber Anpassung der Akzentsetzung, Interpunktion sowie Groß- und Kleinschreibung
+					an den heutigen Gebrauch, Vereinheitlichung der Anrede- und Titelform und
+					schließlich Weglassung der Anfangs- und Schlußformeln samt Datum.</p>
+				<p>Drucke werden nur angegeben, wenn es sich um eine Edition handelt. Nicht
+					berücksichtigt wurden Erwähnungen oder auch Teilabdrucke irgendwo im Text oder
+					in Fußnoten. Unter Zugrundelegung dieses <pb xml:id="P2_0000XXI"/>Grundsatzes
+					waren von den insgesamt 328 Nummern dieses Bandes bisher lediglich 20
+					publiziert. Nimmt man auch die vor allem von Reichenberger in Fußnoten
+					auszugsweise mitgeteilten Berichte<note xml:id="FN2_068">Reichenberger,
+						Nuntiaturberichte II/1, S. 431ff.</note> als zum Teil bekannt an, so zeigt
+					es sich, daß rund 80%, der Korrespondenz der Nuntiatur Graz von Juni 1582 bis
+					Jänner 1587 hier erstmals veröffentlicht wird.</p>
+			</div>
+			<div>
+				<head n="1">Literaturverzeichnis (in Ergänzung zu Band 1)</head>
+				<p>Bezold, Friedrich von: Briefe des Pfalzgrafen Johann Casimir mit verwandten
+					Schriftstücken, Bd. 2 (1582—1586), München 1884.</p>
+				<p>Bibl, Viktor: Die Erhebung Herzog Cosimos von Medici zum Großherzog von Toskana
+					und die kaiserliche Anerkennung (1569 AÖG 103 (1913), S. 1—162.</p>
+				<p>Blet, Pierre: Girolamo Ragazzoni évêque de Bergame, nonce en France,
+					Correspondance de sa nonciature 1583—1586, Acta Nuntiaturae Gallicae 2,
+					Rom—Paris 1902.</p>
+				<p>Bullarium Diplomatum et Privilegiorum Sanctorum Romanorum Pontificum Taurinensis
+					Editio, Tom. 8, Augustae Taurinorum 1863.</p>
+				<p>Cerchiari, Emmanuele: Capellani papae et apostolicae sedis auditores causarum
+					sacri palatii, Bd. 2, Rom 1920.</p>
+				<p>Cerwinka, Günther: Die politischen Beziehungen der Fürstenhöfe zu Graz und
+					München im Zeitalter des konfessionellen Absolutismus 1564—1619, Diss, phil.
+					Graz 1967.</p>
+				<p>Correspondenz der Päpste mit dem Hofe zu Graz, 1568 bis 1619, Steiermärkische
+					Geschichtsblätter 1 (1880), S. 69—97.</p>
+				<p>De Caro, G.: Giovanni Andrea Caligari, Dizionario Biografico degli Italiani 16
+					(1973), S. 711—717.</p>
+				<p>Ehrlicher, Klaus Eckart: „Die Könige des Ennstales“. Die Geschichte der Hoffmann
+					Freiherren zu Gruenpüchel und Strechau und ihre Verbindungen im Adel der
+					Erbländer, Diss, phil. Innsbruck 1972.</p>
+				<p>Ehses, Stephan — Aloys Meister: Nuntiaturberichte aus Deutschland. Die Kölner
+					Nuntiatur, Bd. 1, Quellen und Forschungen aus dem Gebiete der Geschichte 4,
+					Paderborn 1895.</p>
+				<pb xml:id="P2_000XXII"/>
+				<p>Frankl, Karlheinz: Papstschisma und Frömmigkeit, Römische Quartalschrift 72
+					(1977), S. 57—124, 184—247.</p>
+				<p>Hassinger, Herbert: Die Handelsund Verkehrsstellung Villachs bis zur Mitte des
+					19. Jahrhunderts, Carinthia I 166 (1976), S. 211 bis 282.</p>
+				<p>Kaltenbrunner, Ferdinand: Die Polemik über die Gregorianische Kalenderreform,
+					Sitzungsberichte der phil.¬hist. Klasse der Kaiserlichen Akademie der
+					Wissenschaften in Wien 87 (1877), S. 485586.</p>
+				<p>Lojewski, Günther von: Bayerns Weg nach Köln, Geschichte der bayerischen
+					Bistumspolitik in der zweiten Hälfte des 16. Jahrhunderts, Bonner Historische
+					Forschungen 21, Bonn 1962.</p>
+				<p>Lossen, Max: Der Kölnische Krieg, 2 Bde., Gotha 1882—1897.</p>
+				<p>Lossen, Max: Der Magdeburger Sessionsstreit auf dem Augsburger Reichstag von
+					1582, Abhandlungen der Histor. Klasse der Kgl. bayerischen Akademie der
+					Wissenschaften 20, 3. Abt., München 1893, S. 621—660.</p>
+				<p>Pastor, Ludwig von: Geschichte der Päpste seit dem Ausgang des Mittelalters, Bd.
+					10 und 11, Freiburg 1—7 1926 und 1927.</p>
+				<p>Pfaff, Karl: Beiträge zur Geschichte der Abendmahlsbulle vom 16. bis 18.
+					Jahrhundert, Römische Quartalschrift 38 (1930), S. 23—76.</p>
+				<p>Pirenne, Henri: Histoire de Belgique, Bd. 4, Brüssel 1927.</p>
+				<p>Rainer, Johann: Die Entwicklung der Diözesaneinteilung in der Steiermark, Joannea
+					3 (Graz 1965), S. 233—259.</p>
+				<p>Rainer, Johann: Die Legation des innerösterreichischen Statthalters Christoph
+					Andreas von Spaur nach Rom 1581, Carinthia I 161 (1971), S. 309—317.</p>
+				<p>Rainer, Johann—Sabine Weiß: Die Visitation steirischer Klöster und Pfarren im
+					Jahre 1581, Forschungen zur geschichtlichen Landeskunde der Steiermark 30, Graz
+					1977.</p>
+				<p>Riedl, J.: Salzburg’s Domherren von 1514—1806, Mitteilungen der Gesellschaft für
+					Salzburger Landeskunde 7 (1867), S. 122—278.</p>
+				<p>Roth, Elke: Erzherzogin Anna von Innerösterreich, Königin von Polen und Schweden.
+					Leben und Stellung in der habsburgischen Politik ihrer Zeit (1573—1598), Diss.
+					phil. Graz 1967.</p>
+				<p>Salimbeni, Fulvio: Le Lettere di Paolo Bisanti vicario generale del Patriarca di
+					Aquileia (1577—1587), Thesaurus Ecclesiarum Italiae IV/1, Rom 1977.</p>
+				<pb xml:id="P2_00XXIII"/>
+				<p>Schulze, Winfried: Landesdefension und Staatsbildung. Studien zum Kriegswesen des
+					innerösterreichischen Territorialstaates (15641619), Veröffentlichungen der
+					Kommission für Neuere Geschichte Österreichs 60, Wien-Köln-Graz 1973.</p>
+				<p>Steinhuber, Andreas: Geschichte des Kollegium Germanikum Hungarikum, Bd. 1,
+					Freiburg 2 1906.</p>
+				<p>Stepischneg, Jakob: Georg III. Stobaeus von Palmburg, Fürstbischof von Lavant,
+					AÖG 15 (1856), S. 71—132.</p>
+				<p>Stieve, Felix: Der Kalenderstreit des sechzehnten Jahrhunderts in Deutschland,
+					Abhandlungen der Histor. Klasse der Kgl. bayerischen Akademie der Wissenschaften
+					15, 3. Abt., München 1880 S. 3—98.</p>
+				<p>Stieve, Felix: Die Verhandlungen über die Nachfolge Kaiser Rudolfs II. in den
+					Jahren 1581—1602, Abhandlungen der Histor. Klasse der Kgl. bayerischen Akademie
+					der Wissenschaften 15, 1. Abt., München 1880, S. 3—160.</p>
+				<p>Toupin, Robert: Correspondance du nonce en France Giovanni Battista Castelli
+					(1581—1583), Acta Nuntiaturae Gallicae 7, Rom-Paris 1967.</p>
+				<p>Weiß, S., siehe Rainer.</p>
+				<p>Wiesflecker, Hermann: Das Gründungsdatum der Universität Graz, Zeitschrift des
+					Historischen Vereines für Steiermark, Sonderband 16 (1968), S. 48—61.</p>
+				<p>Wiesflecker, Hermann: Kaiser Maximilian I. Das Reich, Österreich und Europa an
+					der Wende zur Neuzeit, Bd. 3, Wien 1977.</p>
+				<p>Zahn, Josef: Der Kalenderstreit in Steiermark, Mitteilungen des historischen
+					Vereines für Steiermark 13 (1864), S. 126—146.</p>
+				<p>Zedrosser, Thomas: Die Stadt Friesach in Kärnten, Klagenfurt 3 1953.</p>
+			</div>
+		</body>
+	</text>
+</TEI>
