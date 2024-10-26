@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00104">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" notAfter="1581-07-15" cert="low" n="1">vermutlich vor
+					1581-07-15</title>
+				<title level="a">104. (Malaspina an Visitatoren) - (Graz, 1581 vor Juli 15)</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Val. Nunz. Germ. 100, j. 266r—268r, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00104">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658" cert="low">Malaspina,
+						Germanico</persName>
+					<date notAfter="1581-07-15" n="1" cert="low"/>
+					<placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+				</correspAction>
+				<correspContext>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00103.xml"
+						>103. Malaspina an Santa Croce - Graz, 1581 Juli 8</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00105.xml">105.
+						Gallio an Malaspina - Rom, 1581 Juli 15</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Erörterungen über den Empfang der Kommunion unter beiderlei Gestalt.<note
+						xml:id="FN1_00104_02" type="footnote">Schon seit Jahren arbeiteten Nuntien
+						und Jesuiten gegen den Empfang der Kommunion unter beiderlei Gestalt; 1580
+						wurde in Wien eine diesbezügliche These gedruckt (Dengel, Nuntiaturberichte
+						11 /6, S. 151—154, 180 f.; Duhr, Geschichte der Jesuiten 1, S. 447 /.;
+						Tomek, Kirchcngeschichte Österreichs II, S. 408).</note>
+				</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="104">(Malaspina an Visitatoren) - (Graz, 1581 vor Juli 15)<note
+					xml:id="FN1_00104_01" type="footnote">Verfasser, Empfänger und Datum ergeben
+					sich aus dem Bericht Malaspinas vom 15. Juli 1581 (Nr. 106, S. 301).</note>
+			</head>
+			<div>
+				<p>Conditiones observandae in assumptione Eucharistiae sub utraque spetie :</p>
+				<p>Pontifex non sponte aut libenter sed ut piissimus pater, qui etiam invitus
+					interdum aegrotantium filiorum voluntati obsequitur, quasi coactus permisit
+					laicis sub utraque spetie communicandi facultatem,<note xml:id="FN1_00104_03"
+						type="footnote">Pius IV. hatte auf Drängen Kaiser Ferdinands I. und Herzog
+						Albrechts V. von Bayern für die Metropolitangebiete von Mainz, Köln, Trier,
+						Salzburg und Gran am 16. April 1564 den Laienkelch gestattet. Die
+						Kelchbewilligung für jene Teile Innerösterreichs, die zur Diözese Aquileia
+						gehörten, wurde im Juli 1564 verlangt und am 24. September 1565 bewilligt
+						(Steinherz, Nuntiaturberichte II/4, S. 166, 169 und 391; Pastor, Geschichte
+						der Päpste VII, S. 377—380; Lutz, Bayern und der Laienkelch, S. 203
+						ff.).</note>propterea quod S. S’’ a principibus harum regionum huic rei <pb
+						xml:id="P1_0000296"/>remedium postulantibus relatum fuerit plerosque ex
+					reliquiis catholicorum, cum non esset huic eorum desiderio satisfactum, se cum
+					haereticis coniunxisse. <note xml:id="FN1_00104_04" type="footnote">Die
+						Begeisterung für den Laienkelch ist bald geschwunden, und die Ansicht, daß
+						durch diese Annäherung an die Evangelischen Verwirrung und Unheil gestiftet
+						worden sei, wurde ziemlich verbreitet (Pastor, Geschichte der Päpste VII, S.
+						380—382; Dengel, Nuntiaturberichte II16, S. 14—16 und 196; Rainer,
+						Nuntiaturberichte II/8, S. 47, 68 und 206). Pius V. war ein offener Gegner
+						des Laienkelches, der 1571 in Bayern verboten wurde (Turba, Venetianische
+						Depeschen III, S. 443 f.; Duhr, Geschichte der Jesuiten I, S. 448 f.;
+						Pastor, Geschichte der Päpste VIII, S. 150 und 497). Der sonst ob seines
+						Eifers für die katholische Sache bekannte Bischof Christoph Andreas Spaur
+						von Gurk wurde wegen Duldung des Laienkelches von Gregor XIII. am 12.
+						November 1584 scharf zurechtgewiesen (Theiner, Annales eccl. III, S.
+						532).</note>
+				</p>
+				<p>Primo igitur curare debent episcopi, quibus concessio facta est, ut omnino S.
+					Stis forma brevis servetur, eiusque executio serio, sed tamen suaviter exigatur,
+					alioquin ne nec absolutiones a talibus factae valerent, nec calicis usus cum
+					absque facultate fierent, nam utrunque a sacerdotibus ab episcopo iuxta brevis
+					formam electis aut per ipsum subdelegatis fieri debet.</p>
+				<p>Ut eligant catholicos sacerdotes, qui in sua provintia utranque spetiem decenti
+					ordine servato ac omni offensione vitata, quae posset oriri inter communicantes
+					sub utraque et sub una tantum spetie, ministrare possint illam ex devotionis
+					fervore petentibus, qui cum ecclesia Romana coniunctionem habeant.</p>
+				<p>Ut curati in confessionibus et concionibus eos, qui utranque postulant, ad
+					accipiendam unam tantum spetiem ut tutiorem acceptionem sanctaeque matri
+					ecclesiae approbationem cohortentur eas rationes in medium afferrentes, quas
+					hisce adiunctae erunt, verum si qui in sua sententia persistant, eos sequentibus
+					conditionibus curent informandos.</p>
+				<p>Ut ecclesiae Romanae fidem et doctrinam sequantur ac profiteantur.</p>
+				<p>Ut credant in sanctissimo Eucharistiae sacramento tam sub una quam sub utraque
+					spetie verum ac integrum Christi corpus esse.</p>
+				<p>Illos si forte accideret, ut ab ecclesia iterum prohiberetur, sub una tantum
+					spetie communicaturos.</p>
+				<p>Ecclesiam Romanam nec errasse nec errare, quae exceptis solum sacerdotibus
+					caeteros tam clericos quam laicos sub una spetie communicantes.</p>
+				<pb xml:id="P1_0000297"/>
+				<p>Ut contriti et confessi munere sacramentalis absolutionis accepto ad ipsam sub
+					utraque sumendam accedant.</p>
+				<p>Qui fuerint haeresi contaminati absolvantur et hisce conditionibus admittantur ad
+					Eucharistiam.</p>
+				<p>Non posse eos extra missae sacrificium communicare, qui sub utraque communicant;
+					abscindant capillos superioris labri et alios omnes, qui possent aliquam
+					sacramento irreverentiam offerre.</p>
+				<p>Mandandum est autem sacerdotibus, ne iis omnino, qui sub una adhuc communicarunt,
+					utranque concedant.</p>
+				<p>Ut omnes abusus in calicis administratione tollantur, quamvis eo in genere maxima
+					insit difficultas ob multorum sacerdotum incuriam ac negligentiam, ideo in hanc
+					curam episcopis erit diligentius incumbendum.</p>
+				<p>Periculosum est reservare sanguinem ob multos enormes casus et summam
+					irreverentiam, quae sacramento irrogatur. Quare omnino curandum esset, ut nullo
+					modo servaretur, sed quando essent, qui sub utraque peterent, tunc celebrans
+					consecraret quantum pro se sacrificante et pro communicante sufficeret, sicque
+					tolleretur omnis difficultas.</p>
+				<p>Si autem agatur de infirmis, inducendi essent ad unam spetiem in tali casu
+					afferrendo causas iustas, videlicet pericula itinerum, cum ad pagos vel ad loca
+					remota esset deferendum sacramentum, nec putarem difficulter id posse
+					persuaderi, cum alioqui teneantur credere tantum sub una esse quantum sub
+					utraque.</p>
+				<p>Quod si omnino servandus esset sanguis ultra dies octo, quin renovaretur, nullo
+					modo reservari deberet; facile ne ex qualitate vini speties corrumpitur ideoque
+					magna sacramento irreverentia inutritur.<note xml:id="FN1_00104_05"
+						type="footnote">Welche Schwierigkeiten der Laienkelch mit sich bringen
+						konnte, zeigt ein Gesuch der beiden Kapläne des kaiserlichen Hofspitals in
+						Wien betreffs Abstellung desselben im Jahr 1584 (Tomek, Kirchengeschichte
+						Österreichs II, S. 408).</note>
+				</p>
+				<p>Quibus rationibus adduci possent, ut qui sub utraque spetie communicant ad unam
+					reducerentur :</p>
+				<p>Primo : Qui sua sponte communicat etiam ubi concessus est usus calicis et
+					servatis conditionibus minorem capit fructum, quia qui sub una comunicat ex
+					obedientia communicat, qui autem sub utraque ex permissione; melior autem
+					obedientia quam victima 1 Reg. cap. 15, quo in genere a domino Rechabitae 35
+					cap. Hiereni laudati fuerunt,<note xml:id="FN1_00104_06" type="footnote">1
+						Samuel 15, 22; Jeremias 35.</note>quod servarent obedientiam patris ipsorum
+					de non bibendo vino.</p>
+				<p>Secundo: Magis placet Deo si suos in sacramento unitatis con<pb
+						xml:id="P1_0000298"/>formemus filiis suis et amicis quam inimicis, qui autem
+					sub utraque communicant magis se conformant haereticis.</p>
+				<p>Tertio: Qui sub una communicant, profitentur suam fidem tantum esse sub una
+					quantum sub utraque; qui autem sub utraque communicant et si credant non tamen
+					profitentur ita aperte aut erubescunt profiteri suam fidem.</p>
+				<p>Quarto: Ritus communicandi sub utraque spetie hoc tempore introductus est ab
+					haereticis, qui contra ecclesiae obedientiam id faciunt, quare periculosus ;
+					omnia enim eorum inventa merito a fidelibus sunt fugienda, maxime si habeant
+					maiorem spetiem boni; vide Luc. c. 4 et Act. c. 16.<note xml:id="FN1_00104_07"
+						type="footnote">Lukas 4; Apostelgeschichte 16, 16—18.</note>
+				</p>
+				<p>Quinto : Periculosum est sequi morem haereticorum, experientia enim nos docet,
+					quod consuetudo facit nobis rem magis placere, hinc difficilius relinquitur,
+					immo facilius aliquis in errorem labitur.</p>
+				<p>Sexto: Qui communicat sub utraque praefert suum ecclesiae iuditio, cum illa ex
+					indulgentia calicem permittat, mallet autem filios suos sub una esse.</p>
+				<p>Septimo: Qui catholici sub una communicant, offenduntur aliorum communione, quia
+					non profitentur aperte se catholicos, dum facto fidem adversariorum profiteri
+					videntur, et si aliud mente credant et sentiant.</p>
+				<p>Octavo: Qui sub utraque communicant minus videntur amare ecclesiam, quia quos
+					magis amamus eos libentius imitamur.</p>
+				<p>Nono: Communiter tales pravo aliquo iudicio laborant aut ne credunt communionem
+					sub utraque utiliorem esse, quod est gravis error, aut ita faciunt, quia sibi
+					ita placet, et sic ostendunt spiritum dissensionis et non pacis, vel etiam quia
+					ab aliis nollent contemni vel illos non offendere et sic diligunt magis gloriam
+					hominum quam gloriam Dei et magis cupiunt placere hominibus quam Deo.</p>
+				<p>Haec maxime in confessione vel privata conversione talibus persuaderi
+					possent.</p>
+				<p>Quibus quidem conditionibus, quae superius proposui, si acquiescerent ac omni
+					animi assentirentur fiducia petentibus maioris devotionis studio sub utraque
+					spetie communionem, hanc illis licentiam negare non posse existimarem.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

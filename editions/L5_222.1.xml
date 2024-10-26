@@ -1,200 +1,205 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_222.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-05-19" n="1">1601-05-19</title>
-                    <title level="a">222.1. San Giorgio an Portia - Rom, 1601 Mai 19</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 65v–66v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_222.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-05-19" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_221.1.xml">221.1. Portia an Aldobrandini - Graz, 1601 Mai 14</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_222.2.xml">222.2. San Giorgio an Portia - Rom, 1601 Mai 19</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_220.1.xml">220.1. San Giorgio an
-                            Portia - Rom, 1601 Mai 12</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_222.2.xml">222.2. San Giorgio an
-                            Portia - Rom, 1601 Mai 19</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Clemens VIII. wurde von der Congregazione dei Regolari über die Forderung des
-						Erzherzogs informiert, die Visitation des Benediktinerinnenklosters Santa
-						Maria von Aquileia nicht ohne seine Erlaubnis und durch von ihm bestimmte
-						Personen durchzuführen. Die Kurie vermutet hinter diesem Ansinnen die Räte
-						des Erzherzogs und fordert Portia dazu auf, den Erzherzog umzustimmen,
-						sodass der mit der Visitation bereits beauftragte Bischof von Treviso
-						[Molino] daran nicht mehr gehindert wird. Sigismund von Thurn hat Rom
-						verlassen.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="222.1">San Giorgio an Portia - Rom, 1601 Mai 19</head>
-				<div>
-					<p>Si è dato conto a N. S. da questi Signori della Congregatione dei Regolari
-						della pretensione che ha il Ser.mo Arciduca Ferdinando che non si debbano
-						visitare le Monache di Aquileia<note xml:id="FN5_222.1_01" type="footnote">Das Benediktinerinnenkloster Santa Maria in Aquileia wurde 1036 von
-							Patriarch Poppo gegründet, 1782 säkularisiert und in der Folge nicht
-							mehr wiederhergestellt. Die letzte Visitation des Klosters war 1594 von
-							Patriarch Barbaro durchgeführt worden. 1596 hatte die Kurie
-							beabsichtigt, Nuntius Portia mit der Visitation der Ordensniederlassung
-							zu betrauen, der dies aber erfolgreich von sich abwenden konnte. Der
-							Grazer Nuntius Giovanni Andrea Caligari hatte sich bereits 1586 während
-							seines Aufenthaltes in Görz mit den Verstößen gegen die monastische
-							Disziplin des Klosters beschäftigt und dessen Aufhebung vorgeschlagen:
-							vgl. RAUCH, S. 67; RAINER, GN 2, S. 464–467; FRANCESCHIN, S. 215-218;
-							RAINER, GN 4, Nr. 100, 130, 164.</note> senza sua licenza et che la
-						visita si habbia da fare non dal Vescovo di Trevigi<note xml:id="FN5_222.1_02" type="footnote">Luigi Molino (gest. 1604), Bischof
-							von Zadar (1592–1596), Bischof von Treviso (1595–1604): vgl. GAMS, S.
-							426, 804; HC 4, S. 207, 329. Molino war von Clemens VIII. mit der
-							Visitation des Benediktinerinnenklosters beauftragt worden, stieß dabei
-							aber auf grundlegende Probleme, sodass diese Visitation letztendlich
-							keinen Abschluss fand: vgl. ASV, Congr. Vescovi e Regolari, Reg.
-							Regularium 3, fol. 41v– 42r, 47r, 62r. Anfang Juli 1601 gratulierte der
-							Bischof von Zadar, Minuccio Minucci, Molino zur Befreiung dal fastidio
-							delle Monache d’Aquileia: vgl. Minucci an Molino, Zadar, 1601 Juli 9,
-							DHI Rom, Minucciana 1, fol. 115r–116r.</note>, al quale S. B.ne l’ha
-						commessa, ma da uno o più Prelati delle sue Provincie et il medesimo conto
-						se le è dato<pb xml:id="P5_0000495"/> del Decreto fatto da S. A. in tal
-						materia et notificato a V. S.<note xml:id="FN5_222.1_03" type="footnote">Eh.
-							Ferdinand lehnte Bischof Molino in einem Schreiben an Kardinal
-							Paravicini als Venezianer für diese Visitation ab und forderte dafür,
-							wie schon bei früheren Visitationen, eine Person aus den
-							innerösterreichischen Ländern, wie z. B. den Bischof von Triest oder
-							Laibach: vgl. Ferdinand an Paravicini, Graz, 1601 Juli 9, ASV, Fondo
-							Borghese, serie III 15 A1, fol. 69r–v.</note> Tutto questo pare alla
-						S.tà S. di poter attribuire più tosto ai Consiglieri che al Principe, della
-						pietà del quale ha troppo gran concetto, ma, come si sia, commanda che V. S.
-						dica all’A. S. da sua parte che voglia non intromettersi in cose simili come
-						non pertinenti ad altro che alla Sede Apostolica, havendo massime deputata
-						S. B.ne persona della quale può promettersi S. A. di non ricevere se non
-						satifattione, et che però levi ogn’impedimento al Vescovo sodetto, onde
-						possa esequire la commissione della sua visita senza che vi intervenga né
-						licenza né decreto apparente che sarebbe con quel preguiditio della istessa
-						Santa Sede che a S. B.ne non converebbe per modo alcuno di tolerare. Haveva
-						ordinato N. S. che di questo negotio si parlasse qui al Conte Sigismondo per
-						rappresentare il suo senso all’Arciduca anco per questo mezo, ma essendo
-						egli partito questa mattina resta V. S. più incaricata a supplire con tanto
-						maggior affetto, la quale havrà da dar conto in un istesso tempo et a noi et
-						al Vescovo di Trevigi di quello che havrà stabilito con S. A. affinché egli
-						non stia sospeso di quello che li converrà di fare …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_222.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-05-19" n="1">1601-05-19</title>
+                <title level="a">222.1. San Giorgio an Portia - Rom, 1601 Mai 19</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 65v–66v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_222.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-05-19" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_221.1.xml"
+                        >221.1. Portia an Aldobrandini - Graz, 1601 Mai 14</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_222.2.xml">222.2.
+                        San Giorgio an Portia - Rom, 1601 Mai 19</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_220.1.xml">220.1. San Giorgio an
+                        Portia - Rom, 1601 Mai 12</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_222.2.xml">222.2. San Giorgio an
+                        Portia - Rom, 1601 Mai 19</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Clemens VIII. wurde von der Congregazione dei Regolari über die Forderung des
+                    Erzherzogs informiert, die Visitation des Benediktinerinnenklosters Santa Maria
+                    von Aquileia nicht ohne seine Erlaubnis und durch von ihm bestimmte Personen
+                    durchzuführen. Die Kurie vermutet hinter diesem Ansinnen die Räte des Erzherzogs
+                    und fordert Portia dazu auf, den Erzherzog umzustimmen, sodass der mit der
+                    Visitation bereits beauftragte Bischof von Treviso [Molino] daran nicht mehr
+                    gehindert wird. Sigismund von Thurn hat Rom verlassen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="222.1">San Giorgio an Portia - Rom, 1601 Mai 19</head>
+            <div>
+                <p>Si è dato conto a N. S. da questi Signori della Congregatione dei Regolari della
+                    pretensione che ha il Ser.mo Arciduca Ferdinando che non si debbano visitare le
+                    Monache di Aquileia<note xml:id="FN5_222.1_01" type="footnote">Das
+                        Benediktinerinnenkloster Santa Maria in Aquileia wurde 1036 von Patriarch
+                        Poppo gegründet, 1782 säkularisiert und in der Folge nicht mehr
+                        wiederhergestellt. Die letzte Visitation des Klosters war 1594 von Patriarch
+                        Barbaro durchgeführt worden. 1596 hatte die Kurie beabsichtigt, Nuntius
+                        Portia mit der Visitation der Ordensniederlassung zu betrauen, der dies aber
+                        erfolgreich von sich abwenden konnte. Der Grazer Nuntius Giovanni Andrea
+                        Caligari hatte sich bereits 1586 während seines Aufenthaltes in Görz mit den
+                        Verstößen gegen die monastische Disziplin des Klosters beschäftigt und
+                        dessen Aufhebung vorgeschlagen: vgl. RAUCH, S. 67; RAINER, GN 2, S. 464–467;
+                        FRANCESCHIN, S. 215-218; RAINER, GN 4, Nr. 100, 130, 164.</note>senza sua
+                    licenza et che la visita si habbia da fare non dal Vescovo di Trevigi <note
+                        xml:id="FN5_222.1_02" type="footnote">Luigi Molino (gest. 1604), Bischof von
+                        Zadar (1592–1596), Bischof von Treviso (1595–1604): vgl. GAMS, S. 426, 804;
+                        HC 4, S. 207, 329. Molino war von Clemens VIII. mit der Visitation des
+                        Benediktinerinnenklosters beauftragt worden, stieß dabei aber auf
+                        grundlegende Probleme, sodass diese Visitation letztendlich keinen Abschluss
+                        fand: vgl. ASV, Congr. Vescovi e Regolari, Reg. Regularium 3, fol. 41v– 42r,
+                        47r, 62r. Anfang Juli 1601 gratulierte der Bischof von Zadar, Minuccio
+                        Minucci, Molino zur Befreiung dal fastidio delle Monache d’Aquileia: vgl.
+                        Minucci an Molino, Zadar, 1601 Juli 9, DHI Rom, Minucciana 1, fol.
+                        115r–116r.</note>, al quale S. B.ne l’ha commessa, ma da uno o più Prelati
+                    delle sue Provincie et il medesimo conto se le è dato<pb xml:id="P5_0000495"/>
+                    del Decreto fatto da S. A. in tal materia et notificato a V. S. <note
+                        xml:id="FN5_222.1_03" type="footnote">Eh. Ferdinand lehnte Bischof Molino in
+                        einem Schreiben an Kardinal Paravicini als Venezianer für diese Visitation
+                        ab und forderte dafür, wie schon bei früheren Visitationen, eine Person aus
+                        den innerösterreichischen Ländern, wie z. B. den Bischof von Triest oder
+                        Laibach: vgl. Ferdinand an Paravicini, Graz, 1601 Juli 9, ASV, Fondo
+                        Borghese, serie III 15 A1, fol. 69r–v.</note>Tutto questo pare alla S.tà S.
+                    di poter attribuire più tosto ai Consiglieri che al Principe, della pietà del
+                    quale ha troppo gran concetto, ma, come si sia, commanda che V. S. dica all’A.
+                    S. da sua parte che voglia non intromettersi in cose simili come non pertinenti
+                    ad altro che alla Sede Apostolica, havendo massime deputata S. B.ne persona
+                    della quale può promettersi S. A. di non ricevere se non satifattione, et che
+                    però levi ogn’impedimento al Vescovo sodetto, onde possa esequire la commissione
+                    della sua visita senza che vi intervenga né licenza né decreto apparente che
+                    sarebbe con quel preguiditio della istessa Santa Sede che a S. B.ne non
+                    converebbe per modo alcuno di tolerare. Haveva ordinato N. S. che di questo
+                    negotio si parlasse qui al Conte Sigismondo per rappresentare il suo senso
+                    all’Arciduca anco per questo mezo, ma essendo egli partito questa mattina resta
+                    V. S. più incaricata a supplire con tanto maggior affetto, la quale havrà da dar
+                    conto in un istesso tempo et a noi et al Vescovo di Trevigi di quello che havrà
+                    stabilito con S. A. affinché egli non stia sospeso di quello che li converrà di
+                    fare …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

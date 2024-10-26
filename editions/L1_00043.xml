@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00043">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-12-03" n="2">1580-12-03</title>
+                <title level="a">43. Malaspina an Gallio - Graz, 1580 Dezember 3</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 160r—162v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00043">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-12-03" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00042.xml">42.
+                        Gallio an Malaspina - Rom, 1580 Dezember 3</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00044.xml">44.
+                        Malaspina an Gallio - Graz, 1580 Dezember 5</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00042.xml">42. Gallio an Malaspina -
+                        Rom, 1580 Dezember 3</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00044.xml">44. Malaspina an Gallio -
+                        Graz, 1580 Dezember 5</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Beilegung von Differenzen zwischen Erzherzog Karl und Prälaten. Feste Haltung der
+                    Prälaten gegen Drängen der Häretiker auf vordringliche Behandlung der
+                    Religionsbeschwerden. Drohung mit Einstellung der Leistungen für Türkengrenze,
+                    wenn nicht Religionsbeschwerden abgeschafft sowie Nuntius und Jesuiten
+                    ausgewiesen werden.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="43">Malaspina an Gallio - Graz, 1580 Dezember 3</head>
+            <div>
+                <p>È pur piacciuto al Signor Dio di consolarmi et levarmi d’una grandissima
+                    suspensione d’animo,<note xml:id="FN1_00043_01" type="footnote">Siehe Nr.
+                        39.</note>poiché il stato ecclesiastico solo, senza l’asistentia di S. A.,
+                    si è talmente opposto alli impeti delli heretici, che, come V. S. Illma
+                    intenderà, ha levata ogni occasione al principe di poter buttar conforme al
+                    solito la colpa sopra d’esso. Ma inanzi che raconti il fatto dirò a V. S. Illma
+                    che accorgendomi io che era di grandissimo impedimento per il negotio che il
+                    principe non solo dava la colpa al stato ecclesiastico per il successo delle
+                    cose passate, ma ancora mostrava di non confidarsi che per qualsivoglia urgente
+                    officio fosse per l’avenire mai per volersi alienare dal’amicitia delli nobili,
+                    presupponendo che fossero insieme grandemente conglutinati. Dal’ altra banda li
+                    ecclesiastici ancor essi pigliavano occasione di caricar sopra S. A. tutti li
+                    scandali et disordini che erano nati, et similmente chiaramente dicevano che non
+                    haverebbe mai fatto dimostratione<pb xml:id="P1_0000132"/> alcuna in fatti in
+                    favore de’ catholici et, stando le cose in questo termine, ogniuno si scusava et
+                    si giustificava, accusando l’altro et il servitio de Dio andava
+                    deteriorando.</p>
+                <p>Tolta io l’occasione della dieta, ché tutti li prelati sono presenti, mi risolsi
+                    di convocarli et monirli, esortarli et minacciarli et in effetto et con la
+                    dolcezza et con un poco di severità operai in modo che promissero di voler far
+                    quello che per altro mie ho scritto a V. S. Illma, et si contentorno che in nome
+                    loro ne assicurassi S. A. et bora con fatti l’hanno messo in esecutione.<note
+                        xml:id="FN1_00043_02" type="footnote">Auch der wegen des Landtages nach Graz
+                        gekommene Jesuitenprovinzial berichtete lobend über den geschickten mul
+                        erfolgreichen Umgang Malaspinas mit den steirischen Prälaten (Rom
+                        Generalarchiv der Jesuiten, Germania 158, f. 326rv).</note>
+                </p>
+                <p>Similmente doppo parlai al principe, et feci tanto, che giurò per il Smo
+                    Sacramento, che haveva adorato la mattina nella messa, che non haverebbe mancato
+                    di defendere la religione catholica et li prelati, quando essi havessero fatti
+                    da dovero, et lo ricercai che mi desse autorità ché, in nome suo, potessi
+                    assicurare di questo il stato ecclesiastico. Et così molto volentieri mi disse
+                    che io lo facessi, dimodo ché con questo espediente che pigliai venni ad
+                    assicurare l’una et l’altra parte, però in forma che, quando un d’essi mi
+                    havesse mancato, non però si sarebbe alienata dalla corrispondentia mia l’altro
+                    fatto. Questo è piacciuto al Signore, che la parte tenuta più debole et timida
+                    sia stata quello che habbia fatto da dovero insin’hora in questo modo.</p>
+                <p>Hoffmam doi giorni fa venne nella dieta<note xml:id="FN1_00043_03"
+                        type="footnote">Vgl. Nr. 40 und 41.</note>et, per la persuasione sua, li
+                    nobili si risolsero che non volevano rispondere alle petitioni del principe, se
+                    prima lui non toglieva li lor gravamini in materia di religione, allegando che
+                    prima debemus quaerere regnum Dei etc. et, in cambio di aiutar S. A., pensano di
+                    far un concilio. Il stato ecclesiastico, il quale era presente, ritiratosi
+                    insieme per consultare quello che doveva rispondere, animosamente si risolse di
+                    non voler perdere così opportuna occasione di levarsi quella macchia tante volte
+                    improperata da me, che per il suo tacere nascesse ogni male, cosi comminciorno a
+                    dire: „Uno parla per tutti“. Et dettero questo carico a mons. di Seccovia, huomo
+                    di autorità et eloquenza et saldo. Questo prelato prima rapresentò alli
+                    provinciali che all stato ecclesiastico doleva molto di non potere perseverare
+                    in quella unione con la nobiltà, che havevono sempre fatto con li loro padri,
+                    avi, atavi etc., et che, se havessero predicata altra fede che quella che li
+                    loro antecessori havevono così fidelmente tenuta, che si sarebbeno vergognati di
+                    parlare, <pb xml:id="P1_0000133"/>ma che, seguitando la medema, che però erano
+                    tenuti di difenderla insino alla morte, et che se erano stati tamquam canes muti
+                    per il passato, non credessero che volessero esser cosi hora, poiché havevono
+                    conosciuto li lor fini tutti intenti al’ultima perditione loro, et che S. Stà,
+                    riconosciuto da essi per vicario di Christo, li minacciava con molta ragione, et
+                    che non potevano più dissimulare né soportare che nelle prediche publicamente
+                    fossero trattati da idolatri, da antechristi et da sodomiti, che però non
+                    volevano in modo alcuno consentire, che si trattasse materia di religione, et
+                    che haverebbeno risposto lor soli alla petitione di S. A. et l’haverebbeno
+                    aiutata non solo con la robba, ma con la vita et così, levatisi in piedi, si
+                    volsero partire et falla separatione. Al’hora Hoffmam cercò di placarli con
+                    parole piene di dolce apparente, ma di veneno interiormente, et propose che
+                    questa era una materia facile di accomodare, essendo la consuetudine che per
+                    pluralità di voti si sogliono determinare le difficoltà nelle diete, et che però
+                    era necessario che si facesse il scruttinio. Alhora mons. di Secovia rispose che
+                    questo non era ragionevole, essendo li provinciali sessanta et li prelati da 14,
+                    ma che si facesse in questo modo, che si admettessero tutti li parrochi et altri
+                    preti et li regolari ancora havessero voto nella dieta, che in questa forma si
+                    sarebbeno contentati che il negotio passasse per la pluralità de voti. A questo
+                    Hoffmam non rispose altro se non questo, che se lui havesse saputo tante
+                    difficultà, non haverebbe accetato de intervenire nella dieta.</p>
+                <p>Il stato ecclesiastico si partì risolutissimo di non voler admettere che si
+                    trattasse di negotio in pregiudicio della religione catholica. Quando furno a
+                    mezza scala li provinciali, quasi pentiti, li mandorno a dire che si
+                    contentassero che il giorno doppo pranso si facesse un’altra dieta. Il stato
+                    ecclesiastico li disse che sì, ma che prima ne volevano far una tra di loro,
+                    come fu fatto, nella quale si confirmorno ancora più et si risolsero che io
+                    fossi il primo a sapere questo successo, et insieme farmi instanza che io
+                    stringessi il principe a mantener quello che mi haveva promesso et io, in nome
+                    suo, havevo detto a loro.</p>
+                <p>Si fece poi la congregatione con li provinciali et Hoffmam, con un spirito pieno
+                    di prudenza et artificio diabolico, cercò de implorare l’aiuto de’ prelati,
+                    acciò fossero mezzi con S. A. che non li volesse molestare in coscienza et cose
+                    simili. Li prelati non volsero accettare questo carico con molta ragione.</p>
+                <p>Hora costoro, vedendo le cose loro in questo termine, et che haveva potuto più
+                    l’autorità di N. S. con li prelati, che le lor minaccie, si sono risoluti di dar
+                    un memoriale a S. A. del’ infrascritto tenore, <pb xml:id="P1_0000134"/>in nome
+                    ancora delle città. <note xml:id="FN1_00043_04" type="footnote"
+                        >Religionsbeschwerde der Herren, Ritter und Städte vom 2. Dezember 1580
+                        (Loserth, FRA II/50, S. 70—75).</note>Che si accorgano che S. A. li manca
+                    della parola et non li mantiene la pacificatione tra loro stabilità, et
+                    racontano tutto quello, che ho scritto a V. S. Illma per altre mie, <note
+                        xml:id="FN1_00043_05" type="footnote">Nr. 39 und 40.</note>et concludono che
+                    se S. A. non toglie via tutti quelli gravamini et non manda via il nontio, come
+                    persona seditiosa et che sitit sanguinem ipsorum et insieme ancora li padri
+                    Gesuiti come inimici della confessione Augustana, che non vogliono contribuire
+                    alli confini. Non lascierò ancora di dire che prima havevono trattato di
+                    scacciarmi a furia di popolo. Questo memoriale si darà hoggi a S. A. — V. S.
+                    Illma ha inteso la temerità et poco rispetto di costoro. Vederemo la risposta
+                    del principe, la quale voglio sperare che sarà conforme alle promesse con
+                    giuramenti...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

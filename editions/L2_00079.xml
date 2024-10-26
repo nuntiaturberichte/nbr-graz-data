@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00079">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1583-04-12" n="1">1583-04-12</title>
+				<title level="a">79. Malaspina an Andreas von Österreich - Köln, 1583 April
+					12</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 101, f. 33r—35r Orig.; ebenda f. 69r—71r
+							Duplikat.<lb/>Druck: Hansen, Nuntiaturberichte III/1, S.
+							489—493.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00079">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1583-04-12" n="1"/>
+					<placeName ref="#http://www.geonames.org/2886242">Cologne</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119263580">von Österreich,
+						Andreas</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_019">Malaspina,
+						Germanico - von Österreich, Andreas</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00078.xml">78.
+						Spaur an Gallio - Graz, 1583 März 27/April 6</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00080.xml">80.
+						Spaur an Gallio - Graz, 1583 April 3/13</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Ankunft in Köln. Begegnung französischer Soldaten in Lothringen. Verhalten der
+					kaiserlichen Kommissare. Baldige Neuwahl des Erzbischofs notwendig. Aussichten
+					einzelner Kandidaten. Einfluß der niederländischen Entwicklung auf Köln.
+					Positive Verhandlungen mit Domkapitel.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="79">Malaspina an Andreas von Österreich - Köln, 1583 April 12</head>
+			<div>
+				<p>lo gionsi con l’ajuto del signore Dio il giovedì santo qua,<note
+						xml:id="FN2_00079_01" type="footnote">7. April.</note>doppo d’esser stato a
+					Namur un giorno da quel’Altezza, <note xml:id="FN2_00079_02" type="footnote"
+						>Margarethe von Parma, natürliche Tochter Karls V., Gemahlin von Ottavio
+						Farnese.</note>da la quale son stato assicurato che ogni volta che V. S.
+					Ill.ma si risolverà di fare la strada per li dominii di Sua Maestà cattolica,
+					che la sarà condotta insino a Colonia sicurissimamente et trattata nel resto,
+					come se conviene a legato et principe così congionto a quella maestà. Né nel
+					persuadere a V. S. Ill.ma al fare tal camino si mostrava d’haver altra
+					difficultà, che il transito di Francesi nelli luoghi del duca di Lorena, quali
+					io ho schifati con manifesto pericolo, che andavano a congiongersi col Casimiro,
+						<note xml:id="FN2_00079_03" type="footnote">Die Reise Malaspinas soll wegen
+						des Durchzuges von 25 Fähnlein französischen Fußvolkes und 3 Fähnlein
+						französischer Reiter, die für Pfalzgraf Johann Casimir für den Einsatz um
+						Köln bestimmt waren, nicht ungefährlich gewesen sein (Hansen,
+						Nuntiaturberichte III/1, S. 486, Anm. 3).</note>come per un’altra ho
+					significato a V. S. Ill.ma, <note xml:id="FN2_00079_04" type="footnote">Dieses
+						Schreiben konnte nicht gefunden werden. Da zwischen 26. März und 12. April
+						kein Bericht vorhanden ist, Malaspina aber versprach (Nr. 75), auch
+						unterwegs von Breisach über Namur nach Köln zu berichten, kann angenommen
+						werden, daß Post verlorengegangen ist.</note>
+					<pb xml:id="P2_0000113"/>et perciò consigliavano a V. S. Ill.ma a mandare dal
+					conte di Salmo <note xml:id="FN2_00079_05" type="footnote">Wahrscheinlich Graf
+						Eberhard von Solms (Hansen, Nuntiaturberichte III/1, S. 402).</note>et
+					vedere se egli vuole et può assicurarla, in forma che la possi passare, non
+					ostante qualsivoglia impedimento. Et nel ragionare in questo proposito, mi son
+					trattenuto tra quelli limiti, che da V. S. Ill.ma mi erano stati prefissi.</p>
+				<p>Doppo ch’io son qua, se ben la qualità delli giorni non ha portato seco molta
+						negociatione,<note xml:id="FN2_00079_06" type="footnote">Es waren die
+						Osterfeiertage.</note>ho nondimeno cercato (lasciato da parte mille discorsi
+					et pronostichi, che si fanno, quali più tosto confondono, che diano luce alcuna)
+					di potere scrivere a V. S. Ill.ma qualche cosa stabile et ferma, et perché il
+					negotio consiste nella dispositione (della) nova elettione, et ne l’interim ne
+					l’opponersi all’iniqui conati de l’apostata, io significarò a V. S. Ill.ma
+					quello, che ho sottratto et dalli commissarii cesarei<note xml:id="FN2_00079_07"
+						type="footnote"> Dr. Andreas Gail und Jakob Kurtz von Senfftenau (Hansen,
+						Nuntiaturberichte III/1, S. 330, Anm. 3 und S. 383, Anm. 3).</note>et da
+					alcuni capitulari et precipuamente dal vescovo di Lieggi <note
+						xml:id="FN2_00079_08" type="footnote">Herzog Ernst, Bischof von Lüttich,
+						Aspirant für das Erzbistum Köln.</note>et dal secretario Minutio <note
+						xml:id="FN2_00079_09" type="footnote">Minutio Minucci war als Sekretär
+						Madruzzos 1582 in Augsburg, kehrte nach Rom zurück und wurde, nachdem
+						Madruzzo im Konsistorium am 10. Dezember 1582 die Lage in Köln geschildert
+						hatte, eilendst nach Köln geschickt, wo er am 30. Jänner eintraf und zuerst
+						allein, dann gemeinsam mit Malaspina und Bonomi bis zu seiner Abreise am 30.
+						Juli 1583 die Interessen Roms vertrat (Hansen, Nuntiaturberichte III/1, S.
+						297).</note>et altri pii et zelosi cattolici.</p>
+				<p>Circa il primo punto, se ben’era opinione della maggior parte, che li commissarii
+					de l’imperatore cercassero prolissa mora del negotio per alcuni loro interessi,
+					giudicando che, riducendosi il capitolo a necessità estrema et destituto di
+					patrocinio et aussilio esterno, fosse per darsi in mano alla casa Austriaca<note
+						xml:id="FN2_00079_10" type="footnote">Vgl. oben Nr. 72, Anm. 1.</note>et far
+					la elettione conforme alla loro volontà, nondimeno, havendo io insinuato questo
+					rumore sparso tra capitulari et altri alli commissarii et pregatoli che quando
+					loro havessero qualche mira, la dovessero communicare meco, potendo presupponere
+					che, essendo io ministro di S. S.tà et mandato da V. S. Ill.ma non havrei
+					pretermesso di promovere l’intentione di S. M.tà dove honestamente havessi
+					potuto, persuadendomi che havrei fatto cosa grata a S. S.tà, la quale risguarda
+					l’interesse de l’imperatore et con ochi tanto paterni et quasi come proprii, et
+					sicome li commissarii<pb xml:id="P2_0000114"/> hanno et con me et con altri dato
+					d’haver ricevuto in bene l’offitio fatto seco et stimato le ragioni, che io le
+					ho significate del danno che al negotio potrebbe avvenire col fare prattiche
+					secrete et tenute occulte a S. S.tà così si sono in scritto dichiarati, che non
+					desiderano altro che presta elettione et che non hanno commissione di promovere
+					persona alcuna, ma lasciare correre il negotio per li suoi piedi, et che del
+					spirituale hanno espresso ordine di non intromettersi. Et pare che
+					s’attribuischi la voce sparsa a prattiche, che fece l’arciduca Mathias, quando
+					passò di qua. <note xml:id="FN2_00079_11" type="footnote">Wahrscheinlich im
+						Oktober 1581, als Erzherzog Matthias die Niederlande verließ.</note>
+				</p>
+				<p>Per il che, se ben il vescovo di Lieggi havrebbe occasione di non desiderare, che
+					si venisse a depositione, alla quale fosse per sucedere, come senza dubio sarà,
+					una presta elettione, se prima non ha in mano un breve di S. S.tà dispensatorio
+					della multiplicità de’ vescovati<note xml:id="FN2_00079_12" type="footnote"
+						>Herzog Ernst besaß bereits die Bistümer Freising, Hildesheim und
+						Lüttich</note>in evento che la parte poco ben affetta a lui si servisse di
+					tal pretesto per renderlo incapace, nondimeno et egli et tutti l’altri
+					concludono, che non solo non bisogna più tardare, ma che ogni poca dimora è la
+					ruvina del negotio. Onde concorrono tutti insieme a tal resolutione, o che V. S.
+					Ill.ma è già per camino o in procinto di mettersi, o che è per tardare alcuni
+					giorni, se lei si è già inviata a questa volta, o sia per venire senza fermarsi
+					molto, si giudica che non si venghi ad altra resolutione, ma s’aspetti la
+					presentia sua. <note xml:id="FN2_00079_13" type="footnote">Kardinal Andreas kam
+						nicht nach Köln, sondern kehrte um und war im 6. Mai wieder in Innsbruck
+						(Hansen, Nuntiaturberichte III/1, S. 544f.).</note>Quando ancora, per
+					diversi impedimenti, non potesse essequire conforme al desiderio che ha questo,
+					giudicano che V. S. Ill.ma, senza processo et forsi senza citatione, della
+					quale, quando si facesse, alcuni prevedono longhezze et pericoli, la possi
+					canonicamente fare una declaratoria della privatione de l’apostata, per vigore
+					della quale loro verranno a l’atto della nova elettione. Per il che io fo fare
+					diligentia per havere authenticato l’atto del putativo suo matrimonio et
+					abiuratione della fede cattolica, <note xml:id="FN2_00079_14" type="footnote"
+						>Der kalvinische Superintendent von Zweibrücken, Pantaleon Candidus, vollzog
+						am 12. Februar die Trauung (Hansen, Nuntiaturberichte III/1, S.
+					411).</note>acciò V. S. Ill.ma possi poi pigliare quel partito, che le
+					sumministrarà et la pietà et la singular prudentia sua.</p>
+				<p>Quanto alla nova elettione, si ha promesse in scritto et continuamente in viva
+					voce delli capitulari, che caderà in persona fuori d’ogni <pb
+						xml:id="P2_0000115"/>suspetto in rebus sanctae fidei, et perciò, presupposto
+					tal fundamento, pare che il Leodiense habbia più parte di tutti coloro che sono
+					del gremio del capitolo, né li commissarii de l’imperatore si possono persuadere
+					che il Saxone sia per potere spontare; anzi m’hanno espressanente detto che
+					tengono per impossibile che la elettione cada in persona sua. Et se bene il
+					fratello di Argentina si aiuta mirabilmente, <note xml:id="FN2_00079_15"
+						type="footnote">Graf Arnold von Manderscheid, Domscholaster in
+					Köln.</note>con tutto ciò, per degni rispetti et molti argumenti, lo tengono per
+					escluso, di modo che circa alla elettione pare che possi pigliare una di due
+					pieghe: o si farà tra capitolari, et sarà il Leodiense, o il fratello li
+					Argentina con altri, poco ben’affetti a lui, potranno con li loro voti
+					escluderlo; et in questo caso non tengono per impossibile che si induchino a
+					postulare uno, che non sia del corpo capitulare, il quale, se havrà li voti del
+					Leodiense, vedono essere cosa facile che possi spontare. Piaccia al Signore
+					d’assistere con il suo santissimo spirito a così importante attione et dirigere
+					tutte le tele, che si ordiscono da noi qua ad augmento della gloria sua et
+					incremento di questa deploranda chiesa.</p>
+				<p>Circa il terzo capo, quando io son passato per Namur,<note xml:id="FN2_00079_16"
+						type="footnote">Vgl. oben Nr. 75.</note>ho procurato, che si spedischi un
+					correro al signor prencipe di Parma, per il quale ho mandato la lettera di V. S.
+					Ill.ma con il breve di S. S.tà <note xml:id="FN2_00079_17" type="footnote">Breve
+						vom 12. Jänner 1583 mit der Aufforderung zur Unterstützung der päpstlichen
+						Legaten (Arch. Vat. Epist. ad Principes 18, f. 7r—15r).</note>et scritto
+					assai diffusamente al principe et supplicatolo a darmi subito risposta. Et non
+					dubito che da quella parte s’havrebbe ogni aiuto, come si vede, essendosi
+					ultimamente inteso, che il conte d’Orimberg <note xml:id="FN2_00079_18"
+						type="footnote">Graf Karl von Arenberg.</note>ha preso da cento cavalli
+					delli nemici et ammazzatone alcuni altri. Ma sono sopragionti doi accidenti, che
+					apportano al negotio grandissimo danno. Il primo è la nova pacificazione
+					stabilita tra Alansone<note xml:id="FN2_00079_19" type="footnote"> François
+						Alençon, Herzog von Anjou.</note>et li stati, per il che forse il principe
+					sarà necessitato di valerse delle forze del re altrove, del che però, come ho
+					detto, ne aspetto risposta. Il secondo è che S. M.tà Ces. ha mandato un gentil
+					huomo al principe, movendolo a ritirare le genti del re et non s’intromettere
+					nel negotio di Colonia. Et se bene li commissarii di S. M.tà dicono, che sarà
+					offitio fatto tepidamente et escusano l’imperatore, che non poteva lasciare di
+					far tal dimostratione per l’importunità delli principi protestanti, nondimeno si
+					va dubitando che l’offitio sia per essere <pb xml:id="P2_0000116"/>di poco
+					giovamente alla causa, massime che in questa forma al capitolo non sarà lecito
+					implorare l’aiuto d’un prencipe vicino, et alla parte adversa è lecito di
+					chiamare li Francesi, che sono tanto lontani. Di più il capitolo ha espedito un
+					correro a S. S.tà, domandando aiuto pecuniario per sustenere il peso della
+					guerra, et mi pare di intendere che nella lettera protestano che, senza aiuto,
+					non possono fare cosa buona, anzi che prevedeno la loro ultima ruvina. Et perché
+					a me se mi rende molto difficile a credere, che S. B.ne, inanzi di vedere la
+					elettione fatta et tale che sia canonica et buona, sia per venir a sborsare
+					danari, et quando ancora sarà lei tale, se caderà in persona di principe, al
+					hora egli potrà ben, senza l’aiuto pecuniario della Sede Apostolica, con le
+					forze sue et de’parenti non solo difendersi, ma offendere, né quando ancora S.
+					S.tà fosse disposta a dar ogni aiuto, è forse per degni rispetti per dichiararsi
+					inanzi la elettione, non si potendo prima d’essa far giuditio, che mutatione
+					habbia da pigliare il negotio, che se al novo eletto, essendo liberati li popoli
+					dal giuramento prestato a l’apostata, le sarà resa obedienza, egli havrà qualche
+					cosa in mano et, se coloro che fomentano quel’infelice del Truxes, havranno da
+					opponersi non solo al capitolo et arcivescovo, ma a principe potente per se
+					stesso, forsi che si raffredaranno et attenderanno a conservare li tetti loro.
+					Onde V. S. Ill.ma, per li allegati rispetti et per molti altri, può palpare
+					quanto sia necessario che la si compiaccia di pigliare un di quei partiti, che
+					di sopra li ho proposti, con prescito delli commissarii Cesarei et approbatione
+					di tutti li buoni. Et oltri a l’interesse, che ha la Sede Apostolica per il
+					negotio in se stesso con il tardare la nova elettione, si viene metterla in
+					qualche necessità di dovere venire al sborsare danari, cosa che, come ho detto,
+					fatta l’elettione, non sarà forse necessaria.</p>
+				<p>Mi resta hora di far sapere a V. S. Ill.ma che questi capitulari hanno et in
+					publico et ciascheduno d’essi trattato meco molto civilmente, non havendo voluto
+					permettere che io vadi a ritrovarli in capitolo, ma hanno deputato tre: il
+					vescovo di Lieggi, il conte Ernoldo et il dottore Godefrido Groppero,<note
+						xml:id="FN2_00079_20" type="footnote">Herzog Ernst, Graf Arnold von
+						Manderscheid und Dr. Gottfried Gropper.</note>quali sono venuti da me per
+					intendere quello che io li haveva da significar, a’quali io, oltre a quello che
+					viva voce le ho detto, le ho ancora lasciato un scritto, la copia del quale
+					mando a V. S. Ill.ma. <note xml:id="FN2_00079_21" type="footnote">Arch. Vat.
+						Nunz. Germ. 101, f. 27r—28v.</note>Et domani, piacendo al Signore, mi
+					daranno risposta, quale procurarò di mandar con ogni diligentia a<pb
+						xml:id="P2_0000117"/> V. S. Ill.ma, et inherendo all’instruttione di S. B.ne
+					non ho pretermesso di offerire l’opera mia al vescovo di Lieggi per componere
+					quelle male sodisfattioni, che sono tra la persona sua et il conte Ernoldo.
+						<note xml:id="FN2_00079_22" type="footnote">Vgl. oben Nr. 72, Anm.
+					9.</note>Ma il vescovo mi ha detto apertamente che si perde l’oglio et l’opera,
+					poiché l’esterno tra di loro è composto, conversando insieme familiarmente et
+					domesticamente, et tutta la mala sidisfattione si è retirata ne l’interno, la
+					quale va facendo radici tali, che il Leodiense tiene per impossibile che si
+					faccia pacificatione tale, che sia per rimovere il conte da l’antico rancore;
+					nondimeno io farò l’offitio mio con quella desterità che potrò. </p>
+			</div>
+		</body>
+	</text>
+</TEI>

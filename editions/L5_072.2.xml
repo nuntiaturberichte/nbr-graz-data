@@ -1,206 +1,213 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_072.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-09-06" n="2">1599-09-06</title>
-                    <title level="a">72.2. Portia an Aldobrandini - Graz, 1599 September 6</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 92 A, fol. 361r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_072.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-09-06" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_072.1.xml">72.1. Portia an San Giorgio - Graz, 1599 September 6</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_072.3.xml">72.3. (Portia an Aldobrandini) - (Graz, 1599 September 6)</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_071.4.xml">71.4. Aldobrandini an
-                            Portia - Rom, 1599 September 4</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_072.3.xml">72.3. (Portia an
-                            Aldobrandini) - (Graz, 1599 September 6)</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Erzherzogin Maria dankt für die päpstlichen Gnadenerweise für ihre Kinder.
-						Sie wird in Kürze auf Wunsch des polnischen Königs [Sigmund III.] nach Polen
-						reisen. Die Eheschließung Erzherzog Ferdinands mit Maria<pb xml:id="P5_0000192"/> Anna von Bayern dürfte trotz des Verdachts
-						gesundheitlicher Schäden der Prinzessin beschlossene Sache sein. In Graz
-						kursiert das Gerücht, dass der Papst Erzherzogin Maria in Ferrara von dem
-						Heiratsplan abgeraten hat, da dieser angeblich auch von der habsburgischen
-						Familie nicht für gut befunden worden sei. Dank für den Brief an den Nuntius
-						von Venedig [Offredi], den Aldobrandini in Portias persönlicher
-						Angelegenheit geschrieben hat.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="72.2">Portia an Aldobrandini - Graz, 1599 September 6</head>
-				<div>
-					<p>Io ho esposto a questa Serenissima con la lettera ch’io gl’ho reso per parte
-						di V. S. Ill.ma<note xml:id="FN5_072.2_01" type="footnote">Nicht
-							auffindbar.</note> la prontezza dell’animo et gl’effetti ch’ella ha
-						procurato a beneficio de Prencipi suoi figliuoli et de suoi stati, et l’ho
-						fatto con la più efficace et più viva maniera che m’è stato possibile, di
-						che S. A. è rimasta con grandissima consolatione et obligatione et m’ha
-						detto et replicato più volte d’amar V. S. Ill.ma et di confidar in lei
-						singolarissimamente come in carissimo et amorevolissimo figliuolo et che la
-						preghi a conservar questa benivolenza et affetto verso la sua Casa,
-						assicurandola ch’in ogni tempo ella ne potrà disporre a suo beneplacito con
-						ogni sicurezza, confidenza et auttorità, nel che io posso affermar a V. S.
-						Ill.ma ch’io ho scoperto maggior affetto et propensione di quello ch’io
-						posso con parole esprimere.</p>
-					<p>La medesima Arciduchessa partirà in breve per Polonia conform’a quello che V.
-						S. Ill.ma vedrà nella lettera publica<note xml:id="FN5_072.2_02" type="footnote">Nr. 72.3.</note> et tutto questo è procurato et
-						desiderato estremamente da quel Re credo per l’amor che porta a questo
-						sangue et ai figliuoli rimastili della Regina morta<note xml:id="FN5_072.2_03" type="footnote">Drei der fünf lebend geborenen
-							Kinder der Königin waren im Säuglingsalter verstorben. Als Halbwaisen
-							blieben Anna Maria (1593–1600) und Wladyslaw (1595– 1648), der spätere
-							König von Polen (1632–1648), zurück: vgl. SCHWENNICKE 2, T. 117. Vgl.
-							Nr. 72.1. Zur Reise Eh. Marias nach Polen: vgl. LEITSCH 3, S.
-							1588–1592.</note>.</p>
-					<p>Il parentado di Baviera<note xml:id="FN5_072.2_04" type="footnote">Dabei
-							handelt es sich um die geplante Eheschließung Eh. Ferdinands mit seiner
-							Cousine Maria Anna (1574–1616), Tochter von Herzog Wilhelm V. von Bayern
-							und Renata von Lothringen. Die Hochzeit fand am 23. April 1600 in Graz
-							statt. Anfangs gab es sowohl am Kaiserhof als auch am Hof in Graz
-							kritische Stimmen bezüglich dieser Eheschließung. So hielten sich ab
-							1597 auch hartnäckig Gerüchte über den schlechten Gesundheitszustand und
-							das unvorteilhafte Aussehen der zukünftigen Braut: vgl. HURTER, Maria,
-							S. 163–165, 338–345; CERWINKA, Beziehungen, S. 236– 238; RALL, S. 128;
-							HAMANN, S. 295.</note> seguirà con tutto c’habbi havuto delle
-						contrarietà et difficoltà per certo sospetto d’infermità, et io penso ch’in
-						breve si publicherà et con quest’occasione è stato qui detto da uno dei più
-						intimi di questo Prencipe<note xml:id="FN5_072.2_05" type="footnote">Der
-							Beichtvater Eh. Ferdinands, P. Bartholomeus Viller, hatte wiederholt
-							seine Bedenken über die geplante Eheschließung geäußert und auf diese
-							Weise den Vater der Braut, Herzog Wilhelm von Bayern, verstimmt: vgl.
-							HURTER, Maria, S. 163–165, 338– 345; DUHR, Jesuiten, S. 48–51,
-							54–56.</note> che la S.tà di N. S. ne facesse consideratione et ragio<pb xml:id="P5_0000193"/> namento con l’Arciduchessa in Ferrara
-						considerandole le conseguenze di questo parentado per esser anco poco grato
-						alla Casa d’Austria, nel che mi son dimostrato nuovo, come veramente non ne
-						ho saputo mai cos’alcuna; ho però detto di creder che se S. B.ne havrà fatto
-						qualch’offitio in questa materia, l’havrà fatto per particolare beneficio et
-						affetto che porta verso questo Serenissimo et questa Casa, desiderando anco
-						bene alla Casa di Baviera per la pietà et bontà di que’ Prencipi.</p>
-					<p>Rendo infinite gratie a V. S. Ill.ma della lettera mandatami per Monsig.
-						Nontio di Venetia a favore del negocio mio<note xml:id="FN5_072.2_06" type="footnote">Nicht auffindbar: vgl. Nr. 67.2.</note> et gle ne resto
-						con grandissima obligatione, sicuro che mi gioverà a far conoscer al sudetto
-						Monsignore et a que’ Signori con il suo mezo ch’io sia quel divoto servitore
-						ch’io devo et professo di dover esser mentr’havrò vita, et supplicando V. S.
-						Ill.ma a conservarmi nella sua benigna gratia et protettione …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_072.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-09-06" n="2">1599-09-06</title>
+                <title level="a">72.2. Portia an Aldobrandini - Graz, 1599 September 6</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 92 A, fol. 361r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_072.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-09-06" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_072.1.xml"
+                        >72.1. Portia an San Giorgio - Graz, 1599 September 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_072.3.xml">72.3.
+                        (Portia an Aldobrandini) - (Graz, 1599 September 6)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_071.4.xml">71.4. Aldobrandini an
+                        Portia - Rom, 1599 September 4</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_072.3.xml">72.3. (Portia an
+                        Aldobrandini) - (Graz, 1599 September 6)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Erzherzogin Maria dankt für die päpstlichen Gnadenerweise für ihre Kinder. Sie
+                    wird in Kürze auf Wunsch des polnischen Königs [Sigmund III.] nach Polen reisen.
+                    Die Eheschließung Erzherzog Ferdinands mit Maria <pb xml:id="P5_0000192"/>Anna
+                    von Bayern dürfte trotz des Verdachts gesundheitlicher Schäden der Prinzessin
+                    beschlossene Sache sein. In Graz kursiert das Gerücht, dass der Papst
+                    Erzherzogin Maria in Ferrara von dem Heiratsplan abgeraten hat, da dieser
+                    angeblich auch von der habsburgischen Familie nicht für gut befunden worden sei.
+                    Dank für den Brief an den Nuntius von Venedig [Offredi], den Aldobrandini in
+                    Portias persönlicher Angelegenheit geschrieben hat.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="72.2">Portia an Aldobrandini - Graz, 1599 September 6</head>
+            <div>
+                <p>Io ho esposto a questa Serenissima con la lettera ch’io gl’ho reso per parte di
+                    V. S. Ill.ma<note xml:id="FN5_072.2_01" type="footnote">Nicht
+                    auffindbar.</note>la prontezza dell’animo et gl’effetti ch’ella ha procurato a
+                    beneficio de Prencipi suoi figliuoli et de suoi stati, et l’ho fatto con la più
+                    efficace et più viva maniera che m’è stato possibile, di che S. A. è rimasta con
+                    grandissima consolatione et obligatione et m’ha detto et replicato più volte
+                    d’amar V. S. Ill.ma et di confidar in lei singolarissimamente come in carissimo
+                    et amorevolissimo figliuolo et che la preghi a conservar questa benivolenza et
+                    affetto verso la sua Casa, assicurandola ch’in ogni tempo ella ne potrà disporre
+                    a suo beneplacito con ogni sicurezza, confidenza et auttorità, nel che io posso
+                    affermar a V. S. Ill.ma ch’io ho scoperto maggior affetto et propensione di
+                    quello ch’io posso con parole esprimere.</p>
+                <p>La medesima Arciduchessa partirà in breve per Polonia conform’a quello che V. S.
+                    Ill.ma vedrà nella lettera publica<note xml:id="FN5_072.2_02" type="footnote"
+                        >Nr. 72.3.</note>et tutto questo è procurato et desiderato estremamente da
+                    quel Re credo per l’amor che porta a questo sangue et ai figliuoli rimastili
+                    della Regina morta <note xml:id="FN5_072.2_03" type="footnote">Drei der fünf
+                        lebend geborenen Kinder der Königin waren im Säuglingsalter verstorben. Als
+                        Halbwaisen blieben Anna Maria (1593–1600) und Wladyslaw (1595– 1648), der
+                        spätere König von Polen (1632–1648), zurück: vgl. SCHWENNICKE 2, T. 117.
+                        Vgl. Nr. 72.1. Zur Reise Eh. Marias nach Polen: vgl. LEITSCH 3, S.
+                        1588–1592.</note>.</p>
+                <p>Il parentado di Baviera<note xml:id="FN5_072.2_04" type="footnote">Dabei handelt
+                        es sich um die geplante Eheschließung Eh. Ferdinands mit seiner Cousine
+                        Maria Anna (1574–1616), Tochter von Herzog Wilhelm V. von Bayern und Renata
+                        von Lothringen. Die Hochzeit fand am 23. April 1600 in Graz statt. Anfangs
+                        gab es sowohl am Kaiserhof als auch am Hof in Graz kritische Stimmen
+                        bezüglich dieser Eheschließung. So hielten sich ab 1597 auch hartnäckig
+                        Gerüchte über den schlechten Gesundheitszustand und das unvorteilhafte
+                        Aussehen der zukünftigen Braut: vgl. HURTER, Maria, S. 163–165, 338–345;
+                        CERWINKA, Beziehungen, S. 236– 238; RALL, S. 128; HAMANN, S.
+                    295.</note>seguirà con tutto c’habbi havuto delle contrarietà et difficoltà per
+                    certo sospetto d’infermità, et io penso ch’in breve si publicherà et con
+                    quest’occasione è stato qui detto da uno dei più intimi di questo Prencipe<note
+                        xml:id="FN5_072.2_05" type="footnote"> Der Beichtvater Eh. Ferdinands, P.
+                        Bartholomeus Viller, hatte wiederholt seine Bedenken über die geplante
+                        Eheschließung geäußert und auf diese Weise den Vater der Braut, Herzog
+                        Wilhelm von Bayern, verstimmt: vgl. HURTER, Maria, S. 163–165, 338– 345;
+                        DUHR, Jesuiten, S. 48–51, 54–56.</note>che la S.tà di N. S. ne facesse
+                    consideratione et ragio<pb xml:id="P5_0000193"/>namento con l’Arciduchessa in
+                    Ferrara considerandole le conseguenze di questo parentado per esser anco poco
+                    grato alla Casa d’Austria, nel che mi son dimostrato nuovo, come veramente non
+                    ne ho saputo mai cos’alcuna; ho però detto di creder che se S. B.ne havrà fatto
+                    qualch’offitio in questa materia, l’havrà fatto per particolare beneficio et
+                    affetto che porta verso questo Serenissimo et questa Casa, desiderando anco bene
+                    alla Casa di Baviera per la pietà et bontà di que’ Prencipi.</p>
+                <p>Rendo infinite gratie a V. S. Ill.ma della lettera mandatami per Monsig. Nontio
+                    di Venetia a favore del negocio mio<note xml:id="FN5_072.2_06" type="footnote"
+                        >Nicht auffindbar: vgl. Nr. 67.2.</note>et gle ne resto con grandissima
+                    obligatione, sicuro che mi gioverà a far conoscer al sudetto Monsignore et a
+                    que’ Signori con il suo mezo ch’io sia quel divoto servitore ch’io devo et
+                    professo di dover esser mentr’havrò vita, et supplicando V. S. Ill.ma a
+                    conservarmi nella sua benigna gratia et protettione …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

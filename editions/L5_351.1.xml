@@ -1,161 +1,171 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_351.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1602-09-07" n="1">1602-09-07</title>
-                    <title level="a">351.1. Aldobrandini an Portia - Rom, 1602 September 7</title>
-                    <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 39, fol. 79r, Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_351.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                        <date when="1602-09-07" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_350.3.xml">350.3. (Portia an Aldobrandini) - Graz, 1602 September 2</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_352.1.xml">352.1. Portia an Aldobrandini - Graz, 1602 September 9</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_350.3.xml">350.3. (Portia an
-                            Aldobrandini) - Graz, 1602 September 2</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_352.1.xml">352.1. Portia an
-                            Aldobrandini - Graz, 1602 September 9</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Der Wunsch der Erzherzöge nach der Ernennung des Bischofs von
-						Lavant [Stobaeus] zum Kardinal ist Aldobrandini nicht bekannt. Bezüglich der
-						Ernennung Erzherzog Leopolds wird Aldobrandini die Erzherzöge unterstützen,
-						doch liegt die Entscheidung einzig beim Papst.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="351.1">Aldobrandini an Portia - Rom, 1602 September 7</head>
-				<div>
-					<p>Tengo tre lettere di V. S. delli 26 del passato<note xml:id="FN5_351.1_01" type="footnote">Nr. 348.1, 348.2, 348.3.</note>, fra quali vi è quella
-						di sua mano. Alle due prime farò la solita risposta, che è di ringratiarla
-						de soliti duplicati et rimettermi alle lettere publiche<note xml:id="FN5_351.1_02" type="footnote">Nicht auffindbar.</note> circa
-						quello che se li deve far sapere intorno alli affari che passano. Quanto al
-						particolare del Vescovo di Lavant communicatoli costà che venga desiderato
-						da cotesti Serenissimi sia promosso da N. S. al Cardinalato, per ancora non
-						solo io non so che se ne sia trattato, ma che se ne sia detto una minima
-						parola, et crederei pure quando fusse vero quello che è stato communicato a
-						V. S. di dover sapere qualche cosa.</p>
-					<p>Del Ser.mo Leopoldo (se mal non mi ricordo) significai già a V. S. quello che
-						cotesti Ser.mi Signori potevano aspettare dall’opra mia in simile ma<pb xml:id="P5_0000735"/> teria<note xml:id="FN5_351.1_03" type="footnote">Nicht auffindbar. Vgl. Nr. 311.1, 315.1, 318.1, 322.1.</note> che non
-						può essere se non offitio et intercessione con N. S., la cui S.tà è Patrona
-						et dispone a suo modo in tutte le cose, ma in queste particolarmente. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_351.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1602-09-07" n="1">1602-09-07</title>
+                <title level="a">351.1. Aldobrandini an Portia - Rom, 1602 September 7</title>
+                <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 39, fol. 79r, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_351.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <date when="1602-09-07" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_350.3.xml"
+                        >350.3. (Portia an Aldobrandini) - Graz, 1602 September 2</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_352.1.xml">352.1.
+                        Portia an Aldobrandini - Graz, 1602 September 9</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_350.3.xml">350.3. (Portia an
+                        Aldobrandini) - Graz, 1602 September 2</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_352.1.xml">352.1. Portia an
+                        Aldobrandini - Graz, 1602 September 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Der Wunsch der Erzherzöge nach der Ernennung des Bischofs von Lavant
+                    [Stobaeus] zum Kardinal ist Aldobrandini nicht bekannt. Bezüglich der Ernennung
+                    Erzherzog Leopolds wird Aldobrandini die Erzherzöge unterstützen, doch liegt die
+                    Entscheidung einzig beim Papst.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="351.1">Aldobrandini an Portia - Rom, 1602 September 7</head>
+            <div>
+                <p>Tengo tre lettere di V. S. delli 26 del passato<note xml:id="FN5_351.1_01"
+                        type="footnote">Nr. 348.1, 348.2, 348.3.</note>, fra quali vi è quella di
+                    sua mano. Alle due prime farò la solita risposta, che è di ringratiarla de
+                    soliti duplicati et rimettermi alle lettere publiche <note xml:id="FN5_351.1_02"
+                        type="footnote">Nicht auffindbar.</note>circa quello che se li deve far
+                    sapere intorno alli affari che passano. Quanto al particolare del Vescovo di
+                    Lavant communicatoli costà che venga desiderato da cotesti Serenissimi sia
+                    promosso da N. S. al Cardinalato, per ancora non solo io non so che se ne sia
+                    trattato, ma che se ne sia detto una minima parola, et crederei pure quando
+                    fusse vero quello che è stato communicato a V. S. di dover sapere qualche
+                    cosa.</p>
+                <p>Del Ser.mo Leopoldo (se mal non mi ricordo) significai già a V. S. quello che
+                    cotesti Ser.mi Signori potevano aspettare dall’opra mia in simile ma<pb
+                        xml:id="P5_0000735"/>teria <note xml:id="FN5_351.1_03" type="footnote">Nicht
+                        auffindbar. Vgl. Nr. 311.1, 315.1, 318.1, 322.1.</note>che non può essere se
+                    non offitio et intercessione con N. S., la cui S.tà è Patrona et dispone a suo
+                    modo in tutte le cose, ma in queste particolarmente. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

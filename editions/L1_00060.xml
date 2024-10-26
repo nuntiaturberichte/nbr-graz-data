@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00060">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-01-04" n="1">1581-01-04</title>
+                <title level="a">60. Malaspina an Gallio - Graz, 1581 Jänner 4</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 235r—236r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00060">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-01-04" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00059.xml">59.
+                        Malaspina an Gallio - Graz, 1581 Jänner 1</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00061.xml">61.
+                        Malaspina an Gallio - Graz, 1581 Jänner 14</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00059.xml">59. Malaspina an Gallio -
+                        Graz, 1581 Jänner 1</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00061.xml">61. Malaspina an Gallio -
+                        Graz, 1581 Jänner 14</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Fußfall der evangelischen Stände vor Erzherzog Karl. Katholische Räte für
+                    Nachgiebigkeit in religiösen Forderungen. Differenzen zwischen Erzherzog Karl
+                    und Erzbischof von Salzburg.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="60">Malaspina an Gallio - Graz, 1581 Jänner 4</head>
+            <div>
+                <p>Doppo d’haver scritta l’inclusa,<note xml:id="FN1_00060_01" type="footnote">Nr.
+                        59 vom 1. Jänner. Mehreren Quellen zufolge ist der Fußfall, von dem hier
+                        berichtet wird, nicht nach dem Schreiben dieses Briefes, sondern schon einen
+                        Tag vorher, nämlich am 31. Dezember 1580, erfolgt (Loserth, FRA II/50, S.
+                        149 f., 160 f. und 176).</note>li provinciali sono venuti da S. A. et se
+                    fossero stati così humili nella forma del lor parlare, la quale è stata altiera
+                    et temeraria, havendo improperato al principe, che è mancatore della parola, et
+                    pergiuro come si sono monstrati nel inginocchiarsi humilissimi et transfigurati
+                    in angelos lucis, la cosa passarebbe benissimo, ma non è così, poiché et in voce
+                    et in scritto hanno protestato di volere patire più tosto qual si voglia cosa,
+                    che innovatione in materia di religione.<note xml:id="FN1_00060_02"
+                        type="footnote"> Rede Hans Friedrich Hoffmanns vom 31. Dezember und die
+                        schriftliche Antwort vom selben Tag sowie vom 3. Jänner 1581 (Loserth, FRA
+                        II/50, S.143 bis 150, 152—154).</note>S. A. le ha risposto poche parole, ma
+                    sostantiali, cioè che non era Dio da essere adorato et nescitis quid petatis et
+                    perché in Alemagna, per quanto refferiscono questi signori, quando li sudditi si
+                    riducano a simili atti non è altro che un voler canonizzare la lor rebellione
+                    col mostrare d’esser stati violentati, havendo fatto prima ogni summissione era
+                    intrato tanta paura in tutti li consiglieri, <pb xml:id="P1_0000174"/>che il
+                    cancelliere) venne da me molto afflitto et pentito quasi di haver mai
+                    consigliato S. A. in negotio di religione, dubitando che avenendo qualche
+                    scandalo, egli non fosse et per perdere la gratia di S. A. et la vita istessa.
+                    Et egli insieme con altri, esagerando le poche forze del principe, che non ha
+                    più che 25 soldati in castello <note xml:id="FN1_00060_03" type="footnote">Vgl.
+                        Nr. 93.</note>et non ha danari né modo di trovarne, mi persuadevono a voler
+                    consentire che si pigliasse temperamento nel decreto in tre punti : che non se
+                    le togliesse la chiesa, che non fossero obligati a restituire li beni
+                    ecclesiastici, che potessero li lor ministri portarli li sacramenti nelle case.
+                    Parlò de’ nobili, et intendendo io che tutta la paura che di presente havevono
+                    era per il pericolo che il popolo di questa città non facesse qualche tumulto,
+                        <note xml:id="FN1_00060_04" type="footnote">Vgl. Nr. 59, S. 169, und Nr. 74,
+                        S. 200.</note>mi risolsi a pigliar un paio di hore di tempo per
+                    risponderli.</p>
+                <p>Et subito, senza domandare audienza, andai da S. A. et le significai ciò che mi
+                    havevono deto, dicendole che io non potevo se non credere tutto quelli pericoli
+                    che mi erano posti inanzi dalli suoi ministri, essendo forastiero et poco
+                    pratico del paese, ma che duvitavo che niun principe haverebbe mai potuto
+                    persuadersi, sapendosi la poca quantità di gente, che è in questa città che
+                    fosse stata atta a far mutare un decreto già publicato. Et di più esortai S. A.
+                    a non rispondere per l’avenire con scritto alli heretici, essendo io stato
+                    avisato che mandano tutte le scritture alli heretici del’ imperio. S. A. fu di
+                    parere, quanto al primo, che non ci sia pericolo alcuno et che però sia bene di
+                    persistere nella buona sua volontà et similmente approvò di non multiplicare più
+                    scritture, ma chiamarli insieme con il stato ecclesiastico et astringerli a
+                    venire alla conclusione della dieta, come ha fatto in materia del susidio che
+                    desidera da loro per guadar li confini. Insin’hora non hanno dato risposta, ma
+                    non sarà buona, perché haverano inteso che li ministri di S. A. comminciano a
+                    declinare dal fervor loro antico et ne sono state causa le lor moglie, starano
+                    ostinatissimi et inventarano novi pericoli.</p>
+                <p>S. A. mi ha fatto dire che ha presentito che il duca di Sassonia ha dato
+                        risposta<note xml:id="FN1_00060_05" type="footnote">Nicht vorhanden. Der
+                        venezianische Gesandte am Kaiserhof meldete am 31. Jänner, daß sich die
+                        steirischen Stände an Kaiser und Kurfürsten wandten (Venedig AS, Dispacci
+                        Germania, filza 7, f. 138rv).</note>alli provinciali, mandando un correro
+                    espresso, et li reprehende aspramente della inobedienza loro per il capo del
+                    stabilimento del’ imperio; hora costoro dicono che non sono membra del’ imperio.
+                    Pur questo havrà giovato assai a reprimere la superbia loro,<pb
+                        xml:id="P1_0000175"/> ma perché li provinciali rescrivono al duca et li
+                    mandano le promissioni di S. A. et fanno nove instantie di essere aiutati,
+                    subito che io sapia con fondamento la verità avisarò il nontio Cesareo, se a
+                    caso potesse operare che il duca persistesse nella prima risposta.</p>
+                <p>Quando li provinciali sono stati da S. A., hanno condotto seco li cittadini di
+                        Graz,<note xml:id="FN1_00060_06" type="footnote">Die Vertreter der Grazer
+                        Bürgerschaft seindt mit in die burg gangen, aber in das zimmer nit gelassen
+                        worden, dass sie also bei dem fussfall nit sein können (Loserth, FRA II/50,
+                        S. 151).</note>ma non ha voluto ascoltarli, anzi li commandò che subito si
+                    dovessero partire et doppo li ha fatti chiamare dalli consiglieri secreti et li
+                    ha fatti riprendere et avertirli che, essendo loro cura di procurare che la
+                    città stia in pace et quiete, che quando succedesse altrimenti, che egli si
+                    lamentarà di loro.</p>
+                <p>Dal’incluso memoriale<note xml:id="FN1_00060_07" type="footnote">Nr. 58.</note>V.
+                    S. Illma potrà vedere la risposta che ho havuto circa la differenza che è tra S.
+                    A. et l’arcivescovo di Salisburgo ...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

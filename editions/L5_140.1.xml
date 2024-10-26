@@ -1,170 +1,180 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_140.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-06-10" n="1">1600-06-10</title>
-                    <title level="a">140.1. San Giorgio an Portia - Rom, 1600 Juni 10</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 48, 48 Bis, 49, 51 E, 52 A, fol.
-								28r–v, Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_140.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1600-06-10" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_139.2.xml">139.2. Portia an (Aldobrandini) - Graz, 1600 Juni 5</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_140.2.xml">140.2. San Giorgio an Portia - Rom, 1600 Juni 10</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_138.3.xml">138.3. San Giorgio an
-                            Portia - Rom, 1600 Juni 3</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_140.2.xml">140.2. San Giorgio an
-                            Portia - Rom, 1600 Juni 10</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Lob für die Bereitschaft Portias zu einer Visitation in Krain, wobei ihm die
-						Wahl des Zeitpunktes überlassen wird. Die Bediensteten des verstor<pb xml:id="P5_0000329"/> benen Bischofs von Bamberg [Thungen]
-						[Motschenbach, Wolff] befinden sich noch immer in Gefangenschaft,
-						diesbezüglich wird ein Breve an dessen Nachfolger [Gebsattel] gerichtet. Das
-						Breve für den Bischof von Seckau [Brenner] wird beigelegt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="140.1">San Giorgio an Portia - Rom, 1600 Juni 10</head>
-				<div>
-					<p>Si lauda il negotio che V. S. haveva di trasferirsi alla Visita della
-						Carniola per servitio spirituale di quelle anime, essendo una istessa la
-						cura che ha N. S. di tutte, et però sarà in sua facoltà l’esequirlo quando
-						vorrà se al ricevere della presente non havrà già prevenuto<note xml:id="FN5_140.1_01" type="footnote">Vgl. 137.1.</note>.</p>
-					<p>La prigionia dei carcerati di Bamberga<note xml:id="FN5_140.1_02" type="footnote">Pankratius Motschenbach und Johann Wolff: vgl. Nr. 24.2.
-							Pankratius Motschenbach war bereits im März 1600 freigelassen und nach
-							Forchheim gebracht worden. Zu seinem Unterhalt wurde ihm eine Pfründe in
-							Pottenstein übertragen. Erst am 30. April 1601 teilte Bischof Gebsattel
-							dem Papst mit, dass er Motschenbach auf dessen Wunsch freigelassen
-							hätte: vgl. WEISS, Bistum, S. 312f.</note> si fa veramente più
-						scandalosa con la lunghezza, et se V. S. stando costì ha creduto che fossero
-						liberi, non è meraviglia che l’istesso si sia creduto da noi che stiamo più
-						lontani. Per la loro liberatione si scrive l’incluso Breve al Vescovo<note xml:id="FN5_140.1_03" type="footnote">Clemens VIII. an Gebsattel, Rom,
-							1600 Juni 10: NANNIIMRKONJIé 3, Nr. 13520.</note> del tenore che V. S.
-						vedrà dalla copia et, quando non sia di quel frutto che pur se ne spera, si
-						penserà all’hora di provedere alla misera conditione di quei poveri huomini
-						in altro modo. Sarà qui aggiunto il Breve anco per il Vescovo di Seccovia
-						che non si mandò per l’ordinario antecedente<note xml:id="FN5_140.1_04" type="footnote">Vgl. Nr. 138.3. Clemens VIII. an Brenner, Rom, 1600 Juni
-							3: NANNIIMRKONJIé 3, Nr. 13509.</note> et ci sarà similmente la sua
-						copia. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_140.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-06-10" n="1">1600-06-10</title>
+                <title level="a">140.1. San Giorgio an Portia - Rom, 1600 Juni 10</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 48, 48 Bis, 49, 51 E, 52 A, fol.
+                            28r–v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_140.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1600-06-10" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_139.2.xml"
+                        >139.2. Portia an (Aldobrandini) - Graz, 1600 Juni 5</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_140.2.xml">140.2.
+                        San Giorgio an Portia - Rom, 1600 Juni 10</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_138.3.xml">138.3. San Giorgio an
+                        Portia - Rom, 1600 Juni 3</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_140.2.xml">140.2. San Giorgio an
+                        Portia - Rom, 1600 Juni 10</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Lob für die Bereitschaft Portias zu einer Visitation in Krain, wobei ihm die Wahl
+                    des Zeitpunktes überlassen wird. Die Bediensteten des verstor <pb
+                        xml:id="P5_0000329"/>benen Bischofs von Bamberg [Thungen] [Motschenbach,
+                    Wolff] befinden sich noch immer in Gefangenschaft, diesbezüglich wird ein Breve
+                    an dessen Nachfolger [Gebsattel] gerichtet. Das Breve für den Bischof von Seckau
+                    [Brenner] wird beigelegt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="140.1">San Giorgio an Portia - Rom, 1600 Juni 10</head>
+            <div>
+                <p>Si lauda il negotio che V. S. haveva di trasferirsi alla Visita della Carniola
+                    per servitio spirituale di quelle anime, essendo una istessa la cura che ha N.
+                    S. di tutte, et però sarà in sua facoltà l’esequirlo quando vorrà se al ricevere
+                    della presente non havrà già prevenuto<note xml:id="FN5_140.1_01"
+                        type="footnote">Vgl. 137.1.</note>.</p>
+                <p>La prigionia dei carcerati di Bamberga<note xml:id="FN5_140.1_02" type="footnote"
+                        >Pankratius Motschenbach und Johann Wolff: vgl. Nr. 24.2. Pankratius
+                        Motschenbach war bereits im März 1600 freigelassen und nach Forchheim
+                        gebracht worden. Zu seinem Unterhalt wurde ihm eine Pfründe in Pottenstein
+                        übertragen. Erst am 30. April 1601 teilte Bischof Gebsattel dem Papst mit,
+                        dass er Motschenbach auf dessen Wunsch freigelassen hätte: vgl. WEISS,
+                        Bistum, S. 312f.</note>si fa veramente più scandalosa con la lunghezza, et
+                    se V. S. stando costì ha creduto che fossero liberi, non è meraviglia che
+                    l’istesso si sia creduto da noi che stiamo più lontani. Per la loro liberatione
+                    si scrive l’incluso Breve al Vescovo <note xml:id="FN5_140.1_03" type="footnote"
+                        >Clemens VIII. an Gebsattel, Rom, 1600 Juni 10: NANNIIMRKONJIé 3, Nr.
+                        13520.</note>del tenore che V. S. vedrà dalla copia et, quando non sia di
+                    quel frutto che pur se ne spera, si penserà all’hora di provedere alla misera
+                    conditione di quei poveri huomini in altro modo. Sarà qui aggiunto il Breve anco
+                    per il Vescovo di Seccovia che non si mandò per l’ordinario antecedente <note
+                        xml:id="FN5_140.1_04" type="footnote">Vgl. Nr. 138.3. Clemens VIII. an
+                        Brenner, Rom, 1600 Juni 3: NANNIIMRKONJIé 3, Nr. 13509.</note>et ci sarà
+                    similmente la sua copia. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

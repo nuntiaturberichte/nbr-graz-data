@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00317">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1586-01-17" n="1">1586-01-17</title>
+                <title level="a">317. Aquaviva an Caligari - Rom, 1586 Jänner 17</title>
+                <author ref="#http://d-nb.info/gnd/11917894X">Acquaviva, Claudio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Rom, Jesuitenarchiv Austria 1 I, p. 255f., Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00317">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/11917894X">Acquaviva, Claudio</persName>
+                    <date when="1586-01-17" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                        Andrea</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_026">Acquaviva,
+                        Claudio - Caligari, Giovanni Andrea</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00316.xml"
+                        >316. Caligari an Rusticucci - Görz, 1586 Jänner 9</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00318.xml">318.
+                        Caligari an Azzolino - Görz, 1586 März 13</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_026" target="L2_00285.xml">285. Aquaviva an Caligari
+                        - Rom, 1585 Juli 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Nach Gespräch mit Papst über gemeldete unpassende Reden P. Forslers strenge
+                    Untersuchung des Falles angeordnet.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="317">Aquaviva an Caligari - Rom, 1586 Jänner 17</head>
+            <div>
+                <p>L’altro giorno essendo io per certi negocii andato da N. S. mi narrò S. B.ne
+                    alcune parole che l’erano state riferite del P. Rettore nostro di cossì,<note
+                        xml:id="FN2_00317_01" type="footnote">P. Emmerich Forsler, Rektor des
+                        Jesuitenkollegs in Graz.</note>tanto inconvenienti et fuori di termino che
+                    io restai stupito, né posso agevolmente indurmi a credere che quel buon Padre
+                    così sconciamente parlasse come le parole riferite suonano, ch’erano, che quando
+                    S. S.tà si risolvesse di astringerci al coro et cantar l’officio, egli piutosto
+                    si sarebbe eletto di apostatare etiandio dalla religione cattolica.<note
+                        xml:id="FN2_00317_02" type="footnote"> Vgl. oben Nr. 314.</note>Può pensare
+                    V. S. R.ma che sentimento ragionassero in me queste parole desiderando tutta la
+                    compagnia per misericordia divina, come ha fatto et farà sempre, che l’occasione
+                    lo persi di spargere ’l sangue et per la santa fede et per l’ubidienza et
+                    autorità di questa S. Sede. A dir non solo ci obliga l’evangelo come cristiani,
+                    ma la parti<pb xml:id="P2_0000455"/>colare professione nostra et di religione et
+                    di tale religione, nella quale per questo effetto si fa voto particolare. Onde
+                    perché la cosa è in materia tanto grave (benché forse fosse detta con passione
+                    et inconsideratione più che con animo cattivo) risposi a S. B.ne che ne darei
+                    fatta diligente inquisitione et dimostratione, et che se in qualche modo egli si
+                    trovava colpevole, ancorché non di tanto lo farei venire a Roma, perché così
+                    purgasse parte della sua inconsideratione, et insieme desse sodisfattione di se
+                    stesso.</p>
+                <p>Ora se bene io ne scrivo caldamente et al P. Provinciale et a lui medesimo,<note
+                        xml:id="FN2_00317_03" type="footnote">Schreiben Aquavivas an Blyssem und
+                        Forsler vom 18. Jänner 1586 (Rom, Jesuiten Generalarchiv, Austria 1 I, p.
+                        253—255).</note>nondimeno essendo così V. S. R.ma non solo tanto signor mio
+                    et amorevole della compagnia ma ministro di N. S., mi è parso anco bene
+                    scriverne a lei due parole, supplicandola che se le sarà venuta all’ orecchie
+                    qualche cosa o le verrà, mi facerà gratia d’avisarmi della colpa che le pare che
+                    questo Padre habbia havuta et quanta et se egli o ’l P. Provinciale ne dessero
+                    cossì a lei qualche discolpa o giustificatione, se le pare che habbino
+                    sodisfatto abastanza o che non si risponda bastantemente, perché io mi risolvo
+                    di non lasciar passare questa imprudenza (che a malitia non posso attribuirla)
+                    senza la dovuta correttione. Ben la supplico che se intesa ogni cosa troverà che
+                    non habbi colpa o non tanta sia servita per farmi gratia et per la verità non
+                    solo darmene avviso per mia consolatione, ma informarne anco S. B.ne, <note
+                        xml:id="FN2_00317_04" type="footnote">Keine weiteren Berichte Caligaris zum
+                        Fall Forsler bekannt. Caligari scheint auf die Jesuiten in Graz während der
+                        letzten Zeit seines dortigen Aufenthaltes nicht immer gut zu sprechen
+                        gewesen zu sein (Nr. 313).</note>ma quando altro fosse egli verrà qua da noi
+                    et darà conto di se stesso. <note xml:id="FN2_00317_05" type="footnote">Am 18.
+                        Jänner schrieb Aquaviva auch an Forsler (Rom, Jesuiten Generalarchiv,
+                        Austria 1 I, p. 253f.).</note>
+                </p>
+                <p>Desidero bene che dovendo venire si tratti la cosa in modo ch’l Principe non
+                    s’interponga ad impedir la venuta. Perché oltre il danno che la compagnia riceve
+                    quando l’obedienza de’ superiore viene impedita, io dissi anche a N. S. che lo
+                    facci venire se si trovasse in qualunchemodo colpevole et così sarebbe anco
+                    maggiore l’inconveniente ch’egli non venisse, tanto più che S. B.ne mostrò di
+                    approvare et havere molto grato questo mio pensiero, perché con questo atto di
+                    penitenza con la fatica del camino, di humiltà et obedienza nel presentarsi
+                    purgasse quel atto di passione et disubidienza o havesse fatta o desse ragione
+                    et sodisfattione di se nel resto.</p>
+                <pb xml:id="P2_0000456"/>
+                <p>Ora io rimetto ’l tutto nella prudenza et amore di V. S. R.ma assicurandola che
+                    quanto io et tutto ’l corpo della compagnia siamo pronti a spargere ’l sangue
+                    per servitio di S. Chiesa et di questa S. Sede, tanto ho sentito intimo dolore
+                    che di qualunche membro di questa religione possa venire un minimo disgusto,
+                    particolamente in materia tale, benché spero nella prudenza et bontà di S. B.ne
+                    et nel giuditio et valore di V. S. R.ma, che né attribuiranno a malignità
+                    (essendo per altro assai conosciuta la integrità di quel Padre) quel che
+                    scioccamente fosse stato da lui detto, né al corpo della compagnia, cuius fides
+                    satis spectata est, ciò che di male non solo detto ma fatto fosse da un
+                    particolare, il quale al sommo ciò che l’habbi detto, non ha potuto parlare se
+                    non di suo senso, io scrivo al Provinciale che comunichi il tutto con V. S. R.ma
+                    cui facendo riverenza le prego dal Signore ogni acrescimento di gratia.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,230 +1,237 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_153.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-07-29" n="1">1600-07-29</title>
-                    <title level="a">153.1. San Giorgio an Portia - Rom, 1600 Juli 29</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 48, 48 Bis, 49, 51 E, 52 A, fol.
-								40v–42r, Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_153.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1600-07-29" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_152.2.xml">152.2. Portia an Aldobrandini - Graz, 1600 Juli 24</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_153.2.xml">153.2. San Giorgio an Portia - Rom, 1600 Juli 29</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_151.1.xml">151.1. San Giorgio an
-                            Portia - Rom, 1600 Juli 22</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_153.2.xml">153.2. San Giorgio an
-                            Portia - Rom, 1600 Juli 29</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Die Idee Erzherzog Ferdinands, in Graz ein Wohnhaus für Studenten zu
-						errichten und es mit den Einnahmen der Propstei Griffen zu erhalten, ist
-						lobenswert, wird aber von Clemens VIII. in Hinblick auf die von Portia
-						genannten Gründe abgelehnt. Der Plan dürfte von den Jesuiten stammen, die
-						sich aber mit den Einkünften der Propstei Millstatt zufrieden geben sollten.
-						Im Fall der Auflosung mussten die Einnahmen dem Bischof von Bamberg
-						[Gebsattel] zugute kommen. Grundsätzlich würde Rom aber eine Reform der
-						Propstei begrüßen. Hoffnung, dass in der Frage des veräußerten Kirchenguts
-						eine Lösung im Sinn der päpstlichen Breven gefunden werden kann, womit sich
-						auch das Sant’Officio beschäftigt. Freude darüber, dass durch Portia bzw.
-						den Bischof von Triest [Bertis] die Errichtung eines Inquisitionstribunals
-						in Triest vorangetrieben wird. Posteingang.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="153.1">San Giorgio an Portia - Rom, 1600 Juli 29</head>
-				<div>
-					<pb xml:id="P5_0000371"/>
-					<p>Non si dubita che il pensiero del Ser.mo Arciduca di erigere in Gratz una
-						casa per li studenti et mantenerla con l’entrata della Prepositura Griffense
-						non sia pieno di pietà, ma N. S. è così alieno dal venire alla soppressione
-						di quel Titolo in pregiuditio d’altri et attribuisce tanto alle
-						considerationi mosse da V. S. in contrario, ch’ella potrà et devrà cercare
-						di levarlo dall’animo di S. A.<note xml:id="FN5_153.1_01" type="footnote">Der Bericht Portias, auf den Bezug genommen wird ist nicht
-							auffindbar.</note> Il quietarla devrà esser tanto men difficile quanto
-						ci è maggior causa di credere che il motivo derivi dai Padri Giesuiti, i
-						quali, havendo già havuta la Prepositura di Millestadio per Gratz con altre
-						commodità perpetue<note xml:id="FN5_153.1_02" type="footnote">Vgl. Clemens
-							VIII. an Ferdinand, Rom, 1600 Januar 28, ASV, Secr. Brev, Reg. 291, fol.
-							439r–445v.</note>, potriano chiamarsi contenti et considerare che la via
-						che tiene S. S.tà<note xml:id="SN153.1_a" type="siglum">Ersetzt für
-							della.</note> di propagare<ref target="#SN153.1_a">*a)</ref> la
-						religione Cattolica si estende anco all’altre parti, di maniera che quando
-						la Prepositura Griffen si havesse pure da levare dall’Ordine Premostratense
-						converia forsi più l’offerirla o concederla al Vescovo di Bamberga per
-						erigerne un Collegio come a quello che si trova nelle spirituali necessità
-						purtroppo note. Ma sì come il meglio saria forsi che con la esecotione dei
-						Decreti fatti da V. S. nella sua Visita si mostrassero degni li
-						Premostratensi di esser mantenuti et favoriti<note xml:id="FN5_153.1_03" type="footnote">Portia hatte das Prämonstratenserkloster Griffen im März
-							1600 auf Anordnung der Kurie visitiert und im Anschluss daran am 9. März
-							1600 entsprechende Konstitutionen erlassen: HHStA, Österr. Akten,
-							Kärnten. 24.</note>, così si rimette al giuditio<pb xml:id="P5_0000372"/> suo il far loro venire in notitia il pericolo che corrono non corregendo
-						le relassationi passate.</p>
-					<p>Si è inteso con molto piacere che li Brevi che già si inviorno a V. S. nel
-						particolare delle locationi et alienationi dei beni Ecclesiastici promettino
-						quel frutto ch’ella rappresenta<note xml:id="FN5_153.1_04" type="footnote">Clemens VIII. an Ferdinand, Rom, 1600 Juli 1: NANNIIMRKONJIE 3, Nr.
-							13538 sowie Nr. 146.1. Portia teilte Bischof Brenner von Seckau diesen
-							päpstlichen Beschluss mit einem Schreiben vom 20. Juli 1600 mit und bat
-							ihn, die gesamte Geistlichkeit seiner Diözese darüber in Kenntnis zu
-							setzen. Dieses Schreiben ist im Volltext abgedruckt in: LOSERTH,
-							Kirchengut, S. 163.</note>. Et benché si desideri di prestar di qua ogni
-						nuovo aiuto al negotio, si hanno nondimeno quelle difficoltà nel punto della
-						ricuperatione dei beni alienati connesso con questo che le rappresentai con
-						le penultime mie<note xml:id="FN5_153.1_05" type="footnote">Nr.
-							149.1.</note>, dalle quali havrà anco veduto che la materia si era
-						proposta nella Congregatione del Santo Offitio, d’onde ne uscirà più
-						precisamente la risposta ch’ella ne aspetta.</p>
-					<p>Fu di non poca sodisfattione che per opera sua si superassero le difficoltà
-						che havevano in erigere il Tribunale del Santo Offitio a Trieste<note xml:id="FN5_153.1_06" type="footnote">Schon im November 1595 hatte
-							Sigismund von Thurn den Kardinälen des Sant’Officio nahegelegt, auf
-							innerösterreichischem Gebiet südlich der Alpen ein Inquisitionstribunal
-							einzurichten. Ebenso hatte Portia Kardinal Santa Severina bereits 1597
-							die Errichtung eines Inquisitionstribunals in Triest vorgeschlagen und
-							ein entsprechendes Memorial übermittelt: vgl. RAINER, Inquisition, S.
-							77, 80–82. Am 8. Januar 1600 ließ Kardinal Santa Severina Portia die
-							Kopie eines bislang unbeantworteten Schreibens vom 7. August 1599
-							übermitteln, in dem er ihn dazu aufgefordert hatte, mit Eh. Ferdinand
-							bezüglich der Errichtung eines Inquisitionstribunals in Triest zu
-							verhandeln: vgl. Santa Severina an Portia, Rom, 1600 Januar 8, BNCF,
-							Fondo nazionale II.II.511, fol. 6r. Portia antwortete daraufhin bereits
-							im Februar, dass er dem Auftrag nachgekommen sei, der Erzherzog dem
-							zustimme, sich jedoch um die wirtschaftliche Basis der Einrichtung
-							sorge: vgl. RAINER, Inquisition, S. 121f. Im Archiv des Sant’Officio
-							findet man Hinweise, dass mit Hilfe des Ordensgenerals der Minoriten im
-							August 1600 Magister Felix de Montefalco zum Inquisitor von Triest
-							ernannt wurde: vgl. ACDF, S. O., Decreta S. O. 1600/1601, fol. 108v
-							(Dekret vom 2. August 1600).</note> et promettesse quel Vescovo di
-						provedere alla sostentatione dell’Inquisitore con qualche benefitio<note xml:id="FN5_153.1_07" type="footnote">Bischof Bertis beklagte sich in
-							einem Schreiben an Kardinal Santa Severina vom 2. Juli 1600, dass
-							Erzherzog Ferdinand trotz seiner Zugeständnisse für die Errichtung des
-							Inquisitionstribunals in Triest einen Rückzieher gemacht und Bertis um
-							die Durchführung von Rekatholisierungsmaßnahmen gebeten habe: vgl.
-							Bertis an Santa Severina, Triest, 1600 Juli 2, ACDF, St. St. 1a,
-							Germania, fol. 200r–v.</note>. Che hora la causa sia sentita bene o no
-						dai Consiglieri Thedeschi, a V. S. conviene di avvertire che non si guasti
-						quello che si è fatto per dar’orecchie ad altre loro prepositioni per
-						aventura vane. Ch’essendo quel che mi occorre di rispondere qui alle lettere
-						sue di 17<note xml:id="FN5_153.1_08" type="footnote">Vom 17. Juli 1600 sind
-							nur zwei Berichte Portias an Aldobrandini vorhanden: Nr. 150.1,
-							150.2.</note> …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_153.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-07-29" n="1">1600-07-29</title>
+                <title level="a">153.1. San Giorgio an Portia - Rom, 1600 Juli 29</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 48, 48 Bis, 49, 51 E, 52 A, fol.
+                            40v–42r, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_153.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1600-07-29" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_152.2.xml"
+                        >152.2. Portia an Aldobrandini - Graz, 1600 Juli 24</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_153.2.xml">153.2.
+                        San Giorgio an Portia - Rom, 1600 Juli 29</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_151.1.xml">151.1. San Giorgio an
+                        Portia - Rom, 1600 Juli 22</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_153.2.xml">153.2. San Giorgio an
+                        Portia - Rom, 1600 Juli 29</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Die Idee Erzherzog Ferdinands, in Graz ein Wohnhaus für Studenten zu errichten
+                    und es mit den Einnahmen der Propstei Griffen zu erhalten, ist lobenswert, wird
+                    aber von Clemens VIII. in Hinblick auf die von Portia genannten Gründe
+                    abgelehnt. Der Plan dürfte von den Jesuiten stammen, die sich aber mit den
+                    Einkünften der Propstei Millstatt zufrieden geben sollten. Im Fall der Auflosung
+                    mussten die Einnahmen dem Bischof von Bamberg [Gebsattel] zugute kommen.
+                    Grundsätzlich würde Rom aber eine Reform der Propstei begrüßen. Hoffnung, dass
+                    in der Frage des veräußerten Kirchenguts eine Lösung im Sinn der päpstlichen
+                    Breven gefunden werden kann, womit sich auch das Sant’Officio beschäftigt.
+                    Freude darüber, dass durch Portia bzw. den Bischof von Triest [Bertis] die
+                    Errichtung eines Inquisitionstribunals in Triest vorangetrieben wird.
+                    Posteingang.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="153.1">San Giorgio an Portia - Rom, 1600 Juli 29</head>
+            <div>
+                <pb xml:id="P5_0000371"/>
+                <p>Non si dubita che il pensiero del Ser.mo Arciduca di erigere in Gratz una casa
+                    per li studenti et mantenerla con l’entrata della Prepositura Griffense non sia
+                    pieno di pietà, ma N. S. è così alieno dal venire alla soppressione di quel
+                    Titolo in pregiuditio d’altri et attribuisce tanto alle considerationi mosse da
+                    V. S. in contrario, ch’ella potrà et devrà cercare di levarlo dall’animo di S.
+                        A.<note xml:id="FN5_153.1_01" type="footnote">Der Bericht Portias, auf den
+                        Bezug genommen wird ist nicht auffindbar.</note>Il quietarla devrà esser
+                    tanto men difficile quanto ci è maggior causa di credere che il motivo derivi
+                    dai Padri Giesuiti, i quali, havendo già havuta la Prepositura di Millestadio
+                    per Gratz con altre commodità perpetue<note xml:id="FN5_153.1_02"
+                        type="footnote"> Vgl. Clemens VIII. an Ferdinand, Rom, 1600 Januar 28, ASV,
+                        Secr. Brev, Reg. 291, fol. 439r–445v.</note>, potriano chiamarsi contenti et
+                    considerare che la via che tiene S. S.tà<note xml:id="SN5_153.1_a" type="siglum"
+                        > Ersetzt für della.</note>di propagare<ref target="#SN5_153.1_a"/> la
+                    religione Cattolica si estende anco all’altre parti, di maniera che quando la
+                    Prepositura Griffen si havesse pure da levare dall’Ordine Premostratense
+                    converia forsi più l’offerirla o concederla al Vescovo di Bamberga per erigerne
+                    un Collegio come a quello che si trova nelle spirituali necessità purtroppo
+                    note. Ma sì come il meglio saria forsi che con la esecotione dei Decreti fatti
+                    da V. S. nella sua Visita si mostrassero degni li Premostratensi di esser
+                    mantenuti et favoriti <note xml:id="FN5_153.1_03" type="footnote">Portia hatte
+                        das Prämonstratenserkloster Griffen im März 1600 auf Anordnung der Kurie
+                        visitiert und im Anschluss daran am 9. März 1600 entsprechende
+                        Konstitutionen erlassen: HHStA, Österr. Akten, Kärnten. 24.</note>, così si
+                    rimette al giuditio <pb xml:id="P5_0000372"/>suo il far loro venire in notitia
+                    il pericolo che corrono non corregendo le relassationi passate.</p>
+                <p>Si è inteso con molto piacere che li Brevi che già si inviorno a V. S. nel
+                    particolare delle locationi et alienationi dei beni Ecclesiastici promettino
+                    quel frutto ch’ella rappresenta<note xml:id="FN5_153.1_04" type="footnote"
+                        >Clemens VIII. an Ferdinand, Rom, 1600 Juli 1: NANNIIMRKONJIE 3, Nr. 13538
+                        sowie Nr. 146.1. Portia teilte Bischof Brenner von Seckau diesen päpstlichen
+                        Beschluss mit einem Schreiben vom 20. Juli 1600 mit und bat ihn, die gesamte
+                        Geistlichkeit seiner Diözese darüber in Kenntnis zu setzen. Dieses Schreiben
+                        ist im Volltext abgedruckt in: LOSERTH, Kirchengut, S. 163.</note>. Et
+                    benché si desideri di prestar di qua ogni nuovo aiuto al negotio, si hanno
+                    nondimeno quelle difficoltà nel punto della ricuperatione dei beni alienati
+                    connesso con questo che le rappresentai con le penultime mie<note
+                        xml:id="FN5_153.1_05" type="footnote"> Nr. 149.1.</note>, dalle quali havrà
+                    anco veduto che la materia si era proposta nella Congregatione del Santo
+                    Offitio, d’onde ne uscirà più precisamente la risposta ch’ella ne aspetta.</p>
+                <p>Fu di non poca sodisfattione che per opera sua si superassero le difficoltà che
+                    havevano in erigere il Tribunale del Santo Offitio a Trieste<note
+                        xml:id="FN5_153.1_06" type="footnote">Schon im November 1595 hatte Sigismund
+                        von Thurn den Kardinälen des Sant’Officio nahegelegt, auf
+                        innerösterreichischem Gebiet südlich der Alpen ein Inquisitionstribunal
+                        einzurichten. Ebenso hatte Portia Kardinal Santa Severina bereits 1597 die
+                        Errichtung eines Inquisitionstribunals in Triest vorgeschlagen und ein
+                        entsprechendes Memorial übermittelt: vgl. RAINER, Inquisition, S. 77, 80–82.
+                        Am 8. Januar 1600 ließ Kardinal Santa Severina Portia die Kopie eines
+                        bislang unbeantworteten Schreibens vom 7. August 1599 übermitteln, in dem er
+                        ihn dazu aufgefordert hatte, mit Eh. Ferdinand bezüglich der Errichtung
+                        eines Inquisitionstribunals in Triest zu verhandeln: vgl. Santa Severina an
+                        Portia, Rom, 1600 Januar 8, BNCF, Fondo nazionale II.II.511, fol. 6r. Portia
+                        antwortete daraufhin bereits im Februar, dass er dem Auftrag nachgekommen
+                        sei, der Erzherzog dem zustimme, sich jedoch um die wirtschaftliche Basis
+                        der Einrichtung sorge: vgl. RAINER, Inquisition, S. 121f. Im Archiv des
+                        Sant’Officio findet man Hinweise, dass mit Hilfe des Ordensgenerals der
+                        Minoriten im August 1600 Magister Felix de Montefalco zum Inquisitor von
+                        Triest ernannt wurde: vgl. ACDF, S. O., Decreta S. O. 1600/1601, fol. 108v
+                        (Dekret vom 2. August 1600).</note>et promettesse quel Vescovo di provedere
+                    alla sostentatione dell’Inquisitore con qualche benefitio <note
+                        xml:id="FN5_153.1_07" type="footnote">Bischof Bertis beklagte sich in einem
+                        Schreiben an Kardinal Santa Severina vom 2. Juli 1600, dass Erzherzog
+                        Ferdinand trotz seiner Zugeständnisse für die Errichtung des
+                        Inquisitionstribunals in Triest einen Rückzieher gemacht und Bertis um die
+                        Durchführung von Rekatholisierungsmaßnahmen gebeten habe: vgl. Bertis an
+                        Santa Severina, Triest, 1600 Juli 2, ACDF, St. St. 1a, Germania, fol.
+                        200r–v.</note>. Che hora la causa sia sentita bene o no dai Consiglieri
+                    Thedeschi, a V. S. conviene di avvertire che non si guasti quello che si è fatto
+                    per dar’orecchie ad altre loro prepositioni per aventura vane. Ch’essendo quel
+                    che mi occorre di rispondere qui alle lettere sue di 17<note
+                        xml:id="FN5_153.1_08" type="footnote"> Vom 17. Juli 1600 sind nur zwei
+                        Berichte Portias an Aldobrandini vorhanden: Nr. 150.1, 150.2.</note>…</p>
+            </div>
+        </body>
+    </text>
+</TEI>

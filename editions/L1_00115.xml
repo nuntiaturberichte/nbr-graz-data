@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00115">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" notAfter="1581-09-03" cert="low" n="1">vermutlich vor
+					1581-09-03</title>
+				<title level="a">115. (Seckau, 1581 vor September 3)</title>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 210r—218r, gleichzeitige
+							Kop.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00115">
+				<correspAction type="sent">
+					<date notAfter="1581-09-03" n="1" cert="low"/>
+					<placeName ref="#http://www.geonames.org/2765335" cert="low">Seckau</placeName>
+				</correspAction>
+				<correspContext>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00114.xml"
+						>114. Malaspina an Gallio - Seckau, 1581 August 31</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00116.xml">116.
+						Gallio an Malaspina - Rom, 1581 September 9</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>In Gegenwart Malaspinas erfolgte feierliche Absage des Propstes von Seckau von
+					bisherigem konkubinarischem Leben; ihm auf erlegte Buße sowie Regeln für
+					künftige persönliche Lebensführung und Leitung der Propstei.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="115">(Seckau, 1581 vor September 3)<note xml:id="FN1_00115_01" type="footnote"
+					>Das Datum ergibt sich aus dem Bericht Malaspinas vom 31. August 1581 aus
+					Seckau, in dem es heißt: fra tre giorni partirò di qua (Nr. 114, S. 317).</note>
+			</head>
+			<div>
+				<pb xml:id="P1_0000318"/>
+				<p>Dominus praepositus<note xml:id="FN1_00115_02" type="footnote">Daß es sich um den
+						Propst von Seckau handelt, ist aus der Seckau betreffenden Stelle im
+						summarischen Bericht über die Visitation (Nr. 117, S.323) zu
+						entnehmen.</note>ante discessum domini nuntii convocet capitulum et
+					praesentia S. Domnis et commissariorum et quatuor parochorum suorum fateatur se
+					per multos annos insorduisse in peccato concubinatus, se vero tali nunc vitio
+					omnino renunciasse et constanter animum induxisse Deo adiuvante inposterum vitam
+					acturum caelibentem ac castam ; et proinde cohortari suos conventuales,
+					praesertim concubinarios, <note xml:id="FN1_00115_03" type="footnote">Die
+						Kanoniker Peter Stridich und Nikolaus Rinstler verloren als Konkubinarier
+						ihre Pfarren und wurden zu je zwei Monaten Haft in ihrer Zelle verurteilt
+						(Salzburg Konsistorialarchiv, Seckau 4/20, f. 14r).</note>ut et ipsi ad
+					meliorem frugem redeant, caeteri vero a tali peccato in perpetuum abstineant et
+					secundum regulam vivant, in hoc se facturos Deo rem tam gratam quam etiam
+					debitam. Si vero quispiam eorum porrho depraehendatur vel in tali peccato
+					perseverare vel etiam in illud de novo illabi, tunc non solum poenitentia
+					spirituali sed etiam corporalibus poenis esse contra ipsum procedendum arbitrio
+					eorum, quibus executio reformationis demandata est.</p>
+				<p>Item proximo die dominico in publica concione captata occasione fateri oportere
+					et se per aliquos annos in tali peccato fuisse involutum sed paenitere ac bonum
+					suscepisse propositum ab eo in perpetuum abstinendi omnibusque bonum exemplum
+					continentiae se praebiturum.</p>
+				<p>Ad revmum dominum ordinarium metropolitanum et serum dominum archiducem literas
+						scribat,<note xml:id="FN1_00115_04" type="footnote">Nicht
+					vorhanden.</note>in quibus fateatur se in concubinatus peccato vixisse, dolere
+					ac polliceri syncere omnem in hoc<pb xml:id="P1_0000319"/> potissimum peccato
+					emmendationem tali modo, ut si deinceps animadversum fuerit praesentem vel aliam
+					suscepisse concubinam se si nunc pro tunc pronunciare ipso facto tanquam
+					sententia super eo lata et in rem iudicatam transita privatum.</p>
+				<p>Item revmo domino nuntio et commissario Salisburgensi faciat fidem stipulata
+					manu, quod istam suam concubinam nec aliam quamcunque concubinam admittere velit
+					et ut actum mox faciat publicae obligationis mittaturque nuntium ad ipsam cum
+					literis dimissoriis, ut nunquam audeat reverti in hanc dictionem vel loca, quae
+					sunt circumcirca monasterium. Alioquin depraehensam vinculis trahendam et
+					publicam paenam sibi sustinendam neque ipse dominus prepositus tam accedat
+					ubicunque illa fuerit sub paena privationis immediate.</p>
+				<p>Alimenta mediocria suppeditentur illi concubinae.</p>
+				<p>Liberis alibi provideat, in monasterio nullum habeat.</p>
+				<p>Paenitentia eius haec sit: Primo faciat confessionem specialem de omnibus
+					peccatis in vita sua perpetratis quorum adhuc retinet memoriam et sacramenta
+					synaxin accipiat. Secundo per integrum annum in septimana semel confiteatur et
+					celebret quoque ad minus semel in septimana missam. Tertio ad proximum festum
+					nativitatis S. Mariae peregrinetur ad Cellam Divae Virginis<note
+						xml:id="FN1_00115_05" type="footnote">Vgl. Nr. 102, S. 291.</note>et per
+					totum iter singulis diebus unicum miliare pedester conficiat, ita ut ultimum
+					quoque miliare usque ad eam ecclesiam pedes eat. Ibi et confiteatur et celebret,
+					hoc autem prima commoditate faciat et testimonium habeat se fecisse. Quarto per
+					totum annum singulis septimanis bis ieiunet abstinendo a carnibus et semel
+					tantum comedendo in die, excepto si esset in itinere vel in negotiis publicis,
+					tunc tenetur tempus illud peractis negotiis supplere.</p>
+				<p>Ut scribat parochis sibi subiectis se suam concubinam perpetuo ablegasse et
+					propterea hortari illos, ut id quoque faciant, alias quod erunt castigati.</p>
+				<p>Sequuntur regulae, quae eidem perpetuo venient observandae:</p>
+				<p>Habitum regulae conformem non tamen in serico vel holoserico in parte vel toto
+					teneatur intra et extra monasterium etiam in commitiis provincialibus
+					caeterisque actibus et locis portare non obstante ullius hominis
+					oblocutione.</p>
+				<p>In refectorio cum caeteris confratribus, quando non aderunt hospites, teneatur
+					comedere carnes vel pisces iuxta statuta ordinis. <pb xml:id="P1_0000320"
+					/>Quoties potest et ad minus bis in hebdomada interesse matutinis precibus.</p>
+				<p>Capitulo rationem reddere de redditibus et expensis; capitulum autem et ipse
+					praepositus revmo domino ordinario et sermo domino archiduci singulis annis
+					salvo tamen iure utriusque principis, tam archiepiscopi quam archiducis, circa
+					temporalia.</p>
+				<p>Item ministri, qui rationem praeposito reddunt reddituum, teneantur quoque
+					capitulo singulis annis reddere vel simul.</p>
+				<p>Item statini debeat reddere rationem capitulo de statu monasterii quoad redditus
+					et aes alienum.</p>
+				<p>Nihil possit donare nec alienare nec permutare nec statuere sine praescitu
+					capituli.</p>
+				<p>Bene tractare canonicos teneatur non tamen ad luxum, adeo quod habeatur
+					refectorium et novitiatum, culina et cella vinaria propria et omnia necessaria
+					et precipue infirmaria.</p>
+				<p>Redditus in numerata pecunia una cum illa, quae ex frumento et vino colligitur,
+					relicta tamen aliqua ad quotidianum usum ipsi praeposito in certo quodam loco
+					bene consignata custodiatur duaeque sint claves, quarum alteram habeat
+					praepositus, alteram capitulum.</p>
+				<p>Teneatur alere theologum, qui concionibus et confessionibus praesit et fratribus
+					in sacris aliquid perlegat.</p>
+				<p>Singulis septimanis legatur reformatio et regula in capitulo coram praeposito, ut
+					sciatur, quid sit executioni demandatum.</p>
+				<p>Executio formationis sit demandata praeposito et tribus praecipuis ex capitulo,
+					qui teneantur dominum ordinarium certiorem facere, cui executio perfecta
+					commissa erit.</p>
+				<p>Quamprimum visitet praepositus omnes parochias vel per se vel per substitutam
+					personam prudentem et peritam et certiorem faciat ordinarium de statu
+					illarum.</p>
+				<p>His tamen non intelliguntur exclusa, quae regula de officio praepositi requirit,
+					quin ea quoque servare teneatur.</p>
+				<p>Teneatur habere novitios et noviciatum secundum regulam.</p>
+				<p>Introducatur oratio mentalis, et quia reperivimus non sine maximo animi nostri
+					dolore, sacerdotes semel in anno tantummodo confiteri ordinamus, ut bis in
+					hebdomada ad minus hoc faciant, novitii vero saltem singulis 15 diebus, et
+					communicent singulis mensibus.</p>
+				<p>Et quia, proh dolor, pauci sacerdotes inveniuntur, qui sciant formam sacramenti
+					paenitentiae, et nonnulli ignorant quoque illam sanctissimi sacramenti
+					Eucharistiae, ideo statim omnes canonici, <pb xml:id="P1_0000321"/>parochi
+					quoque praepositurae subiecti in adventu patris ex Societate, quem nos mittemus,
+					facient primo exercitia Societatis Jesu et confessionem generalem<note
+						xml:id="FN1_00115_06" type="footnote"/> et iuxta scriptum nostrum de vita
+					monastica et regulari et de munere sacerdotis, quod quidem scriptum ab eodem
+					patre ipsis dabitur ct declarabitur circa illa se exercebunt.</p>
+				<p>Teneatur statim eiicere omnes servos hereticos et uxoratos parochos parochiis
+					privare.</p>
+				<p>Observabunt perpetuo clausuram et reliqua, quae nuntius ordinavit,<note
+						xml:id="FN1_00115_07" type="footnote">Siehe oben S. 319; ferner die Leges
+						reformationis circa ecclesiastica in monasterio Seecoviensi inevitabiliter
+						observandae vom 1. September 1581 (Salzburg Konsistorialarchiv, Seckau 4/20,
+						f.13rv).</note>ut in reformatione ab ipso publicata continetur, et praecipue
+					cavebunt ab omni mulierum consuetudine.</p>
+				<p>In parochiis introducatur diebus dominicis ritus docendi doctrinam christianam.
+					Reliqua omnia habentur in scripto ipsius reformationis secundum qualitatem et
+					merita personarum.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

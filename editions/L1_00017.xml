@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00017">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-10-21" n="1">1580-10-21</title>
+                <title level="a">17. Graz, 1580 Oktober 21</title>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 82r, gleichzeitige Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00017">
+                <correspAction type="sent">
+                    <date when="1580-10-21" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00016.xml">16.
+                        Malaspina an Gallio - Graz, 1580 Oktober 17</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00018.xml">18.
+                        Graz, 1580 Oktober 25</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>An die steirischen Städte gerichtetes Dekret Erzherzog Karls mit Erneuerung des
+                    Verbotes des Studiums außer Landes und Verpflichtung zum Studium am
+                    erzherzoglichen Kolleg in Graz sowie zur Meldung der auswärts Studierenden.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="17">Graz, 1580 Oktober 21</head>
+            <div>
+                <p>Potestis sine dubio quam obedienter meminisse, quid nos vobis iam antea duabus
+                    vicibus, tunc 30. Martii elapsi anni 1575 tunc 10. Aprilis praesentis anni 80 in
+                    causa liberorum vestrorum,<note xml:id="FN1_00017_01" type="footnote">Vgl.
+                        Loserth, FRA II/50, S. 57 und 58, Anm. 1.</note>quos artibus liberalibus
+                    instituendos censetis, clementissime scripserimus, nimirum quod severe et serio
+                    mandaverimus, ut iuventutem vestram ab externis ad nos non spectantibus scholis
+                    revocaretis et illam non alio quam ad nostrum archidueale collegium mitteretis.
+                        <note xml:id="FN1_00017_02" type="footnote">Siehe oben Nr. 14, Anm.
+                        35.</note>Sed quoniam huiusmodi res hucusque non modo non effecta (nulla
+                    habita ratione nostrae clementissimae et aequissimae admonitionis), verum etiam
+                    nullum adhuc nobis, cur hactenus neglecta sit, transmissum responsum est,
+                    abundantissimas causas haberemus hanc vestram inobedientiam et negligentiam
+                    paena significata castigandi. Adhuc tamen amplius <pb xml:id="P1_0000070"/>serio
+                    vobis mandamus, ut huic et praecedenti nostro clementissimo decreto sine
+                    ulteriori dilatione obedienter et efficaciter satisfaciatis et nihilominus etiam
+                    de causis dilationis vestrae una cum numero liberorum vestrorum, quos hinc inde
+                    in alienas scholas studendi gratia mittitis nos quamprimum certiores faciatis
+                    nec ulteriorem amplius ob hanc rem admonitionem expectetis. In hoc nostrae
+                    seriae voluntati fiet satis.<note xml:id="FN1_00017_03" type="footnote"> Vgl.
+                        Nr. 18 und 24.</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

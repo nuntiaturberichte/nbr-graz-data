@@ -1,166 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_284.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-12-24" n="2">1601-12-24</title>
-                    <title level="a">284.2. Portia an Aldobrandini - Graz, 1601 Dezember 24</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 166r, Orig.
-								[Eigenh.]</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_284.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1601-12-24" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_284.1.xml">284.1. Portia an Aldobrandini - Graz, 1601 Dezember 24</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_285.1.xml">285.1. Portia an Aldobrandini - Graz, 1601 Dezember 27</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_284.1.xml">284.1. Portia an
-                            Aldobrandini - Graz, 1601 Dezember 24</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_285.1.xml">285.1. Portia an
-                            Aldobrandini - Graz, 1601 Dezember 27</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Der für die Kurie bestimmte Gesandte des Erzherzogs ist erkrankt und wird
-						durch den Bischof von Bosnien [Újlaky] ersetzt. Ein Schreiben der
-						Erzherzogin Maria und des Erzherzogs Ferdinand in der Angelegenheit des
-						Nonnenklosters wird an Aldobrandini übermittelt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="284.2">Portia an Aldobrandini - Graz, 1601 Dezember 24</head>
-				<div>
-					<p>Essendosi infermato il gentilhuomo che questo Arciduca doveva inviare alla
-						S.tà di N. S. sì come molt’altri nel ritorno dall’assedio di Canisa han
-						fatto et molti ne moiano alla giornata, intendo che si sia ressoluto di
-						mandare un Vescovo della Bosna<note xml:id="FN5_284.2_01" type="footnote">Lajos Újlaky (gest. 1606), Bischof von Bosnien (1600–1604), Bischof von
-							Veszprém/ Weißenburg (1604–1606): vgl. GAMS, S. 369, 387; HC 4, S. 119.
-							Für die Romreise im Auftrag Eh. Ferdinands im Jahr 1601/1602 beschloss
-							die Grazer Hofkammer im September 1602 eine Kostenrückerstattung von 190
-							Gulden: vgl. StLA, HK-Rep. 1602, fol. 43v.</note>, persona assai
-						intendente, il quale si aspetta qui di giorno in giorno.</p>
-					<p>La ser.ma Arciduchessa mi fece chiamare heri in Corte, et havendo tra essa et
-						l’Arciduca figliolo parte in Alemano et parte in Italiano composta
-						l’aggiunta lettera per V. S. Ill.ma<note xml:id="FN5_284.2_02" type="footnote">Nicht auffindbar.</note>, mi convenne scriverla alla sua
-						presenza, et l’Arciduca et essa Arciduchessa la sottoscrissero come vedrà V.
-						S. Ill.ma, da che intendano ch’ella scuopra quanto sia a cuore a questa
-						Prencipessa la fondatione di questo Monasterio. Gli Prencipi mi colsero
-						all’improviso, né mi potei scusare da questa molestia anco per non fastidir
-						maggiormente V. S. Ill.ma …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_284.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-12-24" n="2">1601-12-24</title>
+                <title level="a">284.2. Portia an Aldobrandini - Graz, 1601 Dezember 24</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 166r, Orig.
+                            [Eigenh.]</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_284.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1601-12-24" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_284.1.xml"
+                        >284.1. Portia an Aldobrandini - Graz, 1601 Dezember 24</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_285.1.xml">285.1.
+                        Portia an Aldobrandini - Graz, 1601 Dezember 27</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_284.1.xml">284.1. Portia an
+                        Aldobrandini - Graz, 1601 Dezember 24</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_285.1.xml">285.1. Portia an
+                        Aldobrandini - Graz, 1601 Dezember 27</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Der für die Kurie bestimmte Gesandte des Erzherzogs ist erkrankt und wird durch
+                    den Bischof von Bosnien [Újlaky] ersetzt. Ein Schreiben der Erzherzogin Maria
+                    und des Erzherzogs Ferdinand in der Angelegenheit des Nonnenklosters wird an
+                    Aldobrandini übermittelt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="284.2">Portia an Aldobrandini - Graz, 1601 Dezember 24</head>
+            <div>
+                <p>Essendosi infermato il gentilhuomo che questo Arciduca doveva inviare alla S.tà
+                    di N. S. sì come molt’altri nel ritorno dall’assedio di Canisa han fatto et
+                    molti ne moiano alla giornata, intendo che si sia ressoluto di mandare un
+                    Vescovo della Bosna<note xml:id="FN5_284.2_01" type="footnote">Lajos Újlaky
+                        (gest. 1606), Bischof von Bosnien (1600–1604), Bischof von Veszprém/
+                        Weißenburg (1604–1606): vgl. GAMS, S. 369, 387; HC 4, S. 119. Für die
+                        Romreise im Auftrag Eh. Ferdinands im Jahr 1601/1602 beschloss die Grazer
+                        Hofkammer im September 1602 eine Kostenrückerstattung von 190 Gulden: vgl.
+                        StLA, HK-Rep. 1602, fol. 43v.</note>, persona assai intendente, il quale si
+                    aspetta qui di giorno in giorno.</p>
+                <p>La ser.ma Arciduchessa mi fece chiamare heri in Corte, et havendo tra essa et
+                    l’Arciduca figliolo parte in Alemano et parte in Italiano composta l’aggiunta
+                    lettera per V. S. Ill.ma<note xml:id="FN5_284.2_02" type="footnote">Nicht
+                        auffindbar.</note>, mi convenne scriverla alla sua presenza, et l’Arciduca
+                    et essa Arciduchessa la sottoscrissero come vedrà V. S. Ill.ma, da che intendano
+                    ch’ella scuopra quanto sia a cuore a questa Prencipessa la fondatione di questo
+                    Monasterio. Gli Prencipi mi colsero all’improviso, né mi potei scusare da questa
+                    molestia anco per non fastidir maggiormente V. S. Ill.ma …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,217 +1,219 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_264.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-10-15" n="2">1601-10-15</title>
-                    <title level="a">264.2. Portia an Aldobrandini - Graz, 1601 Oktober 15</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 126r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_264.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1601-10-15" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_264.1.xml">264.1. Portia an Aldobrandini - Graz, 1601 Oktober 15</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_265.1.xml">265.1. San Giorgio an Portia - Rom, 1601 Oktober 20</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_264.1.xml">264.1. Portia an
-                            Aldobrandini - Graz, 1601 Oktober 15</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_265.2.xml">265.2. Aldobrandini an
-                            Portia - Rom, 1601 Oktober 20</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Portia ist am 9. Oktober nach Graz zurückgekehrt. Er wird im
-						Auftrag Aldobrandinis wegen der Übertragung der Herrschaft Veldes/Bled eine
-						Empfehlung für Karl von Thurn an den Bischof [Spaur] und das Kapitel von
-						Brixen senden. Erzherzogin Maria wurde das Schreiben Aldobrandinis bezüglich
-						der Errichtung des Nonnenklosters präsentiert. Portia wird sich bemühen, mit
-						Hilfe der Erzherzogin die Ein- und Ausfuhrverbote für Produkte der Abtei
-						Rosazzo rückgängig zu machen. Freude und Zuversicht über die Bemühungen
-						Aldobrandinis in den Finanzangelegenheiten Portias (Spesenrückerstattung und
-						Erlass des Zehents).</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="264.2">Portia an Aldobrandini - Graz, 1601 Oktober 15</head>
-				<div>
-					<p>Essendo ritornato qua dal Campo che fu sotto li 9 del corrente, mi sono
-						capitate cinque lettere di V. S. Ill.ma et in risposta delle prime che sono
-						degl’8 del passato<note xml:id="FN5_264.2_01" type="footnote">Nr. 257.2,
-							257.3, 257.4, 252.4, 252.5.</note> dico haver molto bene inteso
-						quant’ella desideri che si favorisca ’l Conte Carlo della Torre presso
-						Monsig. di Bressenone et suo Capitolo per la Signoria di Bleda, per la quale
-						in essecutione del commandamento di V. S. Ill.ma non manco di scrivere
-						caldissimamente et di rappresentare la mente di lei, la quale doverà esser
-						più che bastante a colpire, se quel Vescovo si risolverà di lasciare li
-						tanti rispetti che sin hora l’hanno fatto rimanere sospeso et
-							irresoluto<note xml:id="FN5_264.2_02" type="footnote">Spaur legte in
-							einem Schreiben an Portia vom 17. November 1601 die Gründe dar, warum er
-							Karl von Thurn die Herrschaft Veldes/Bled nicht verleihen könne. Zum
-							einen fürchtete er den Verlust der Gunst des Kaisers bzw. des
-							Reichsvizekanzlers Coraduz, zum anderen wollte er durch eine ihm
-							nahestehende Person die .finanzielle Verwaltung der Herrschaft besser
-							unter Kontrolle halten: vgl. Spaur an G. A. Santoro, Brixen, 1601
-							Dezember 17, ACDF, S. O., St. St. 1a, Germania, fol. 708r; RAINER,
-							Inquisition, S. 125f. Karl von Thurn schrieb am 10. Januar 1602 an
-							Aldobrandini, dass der Bischof von Brixen trotz des Schreibens Portias,
-							das dieser im Namen des Papstes und des Kardinalnepoten verfasst hatte,
-							die Herrschaft Veldes/Bled für sich behalten wolle und bat um weitere
-							Unterstützung in dieser Angelegenheit: vgl. K. von Thurn an
-							Aldobrandini, Görz, 1602 Januar 10, ASV, Fondo Borghese, serie III 126
-							B-G, fol. 60r. Im Februar 1602 richtete Clemens VIII. Breven an den
-							Bischof und das Domkapitel von Brixen, in denen Karl von Thurn für die
-							Verwaltung der Herrschaft Veldes/Bled empfohlen wurde: vgl. Clemens
-							VIII. an Spaur, Rom, 1602 Februar 9: NANNIIMRKONJIé 3, Nr. 14290;
-							Clemens VIII. an das Domkapitel von Brixen, Rom, 1602 Februar 9:
-							NANNIIMRKONJIé 3, Nr. 14291 (fälschlicherweise im Breve als Bischof
-							Martin von Brixen angeführt). Im April 1602 teilte Karl von Thurn mit,
-							dass der Bischof von Brixen sich dazu entschlossen habe, die Herrschaft
-							Veldes/ Bled seinem Neffen zu übertragen: vgl. K. von Thurn an
-							Aldobrandini, Görz, 1602 April 23, ASV, Fondo Borghese, serie III 126
-							B-G, fol. 72r. Es handelte sich dabei um Anton von Spaur und Valör,
-							Neffen des Fürstbischofs von Brixen, Christoph Andreas von Spaur, dem am
-							13. Mai 1602 die Herrschaft Veldes/Bled verliehen wurde: vgl.
-							RABENSTEINER, S. 58. Vgl. Nr. 252.1, 252.5.</note>.<pb xml:id="P5_0000594"/>
-					</p>
-					<p>Alla ser.ma Arciduchessa ho presentata la lettera di V. S. Ill.ma concernente
-						l’erettione del Monasterio delle Moniali<note xml:id="FN5_264.2_03" type="footnote">Nicht auffindbar.</note>, per le quali vedendo l’A. S.
-						quello ch’ella si compiace di fare subito che dalla Chiragra fosse liberato
-						N. S., ne le rende particolare gratie, com’anco dell’affettione che V. S.
-						Ill.ma continua di portarle, a che corrisponde l’A. S. con tant’altro buon
-						affetto et con desiderio di riservire sempre nell’occorrenze a V. S. Ill.ma
-						et a tutta la sua Ecc.ma Casa.</p>
-					<p>Con la medesima Arciduchessa procurerò di ottenere Patente et licenza che si
-						possano vendere a Thedeschi li vini di Rosaccio et trasportare il grano da
-						questo Stato a quello de Signori Venetiani, et quanto prima n’habbia la
-						gratia s’invierà la speditione agl’affittuali della Badia, acciò se ne
-						vaglino et procurino l’utile et il mantenimento della consuetudine del
-						luoco.</p>
-					<p>La speranza che V. S. Ill.ma mi dà d’haver adoprata l’auttorità sua con la
-						rev. Camera con farmi dichiarare da S. B.ne qualche ricompensa delle spese
-						fatte tant’anni sono, vivo con animo c’habbia hormai havuto effetto,
-						scrivendomi l’istesso il Pico mio Agente costì, nel modo che V. S. Ill.ma ha
-						anco favorito il particolare delle Decime, delle quali mi scrive anco
-						l’Ill.mo San Giorgio che S. B.ne si truovava dispostissima ch’io n’habbia
-							l’essentione<note xml:id="FN5_264.2_04" type="footnote">Vgl. Nr.
-							254.2.</note>. Il che tutto riconoscendo dalla benigna gratia di V. S.
-						Ill.ma mi conosco tenuto d’impiegare quanto ho et posso havere in ogni tempo
-						et mentr’haverò<pb xml:id="P5_0000595"/> vita in servitio suo et degl’Ecc.mi
-						Nipoti, et con questa professione che viverà sempre meco …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_264.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-10-15" n="2">1601-10-15</title>
+                <title level="a">264.2. Portia an Aldobrandini - Graz, 1601 Oktober 15</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 126r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_264.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1601-10-15" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_264.1.xml"
+                        >264.1. Portia an Aldobrandini - Graz, 1601 Oktober 15</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_265.1.xml">265.1.
+                        San Giorgio an Portia - Rom, 1601 Oktober 20</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_264.1.xml">264.1. Portia an
+                        Aldobrandini - Graz, 1601 Oktober 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_265.2.xml">265.2. Aldobrandini an
+                        Portia - Rom, 1601 Oktober 20</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Portia ist am 9. Oktober nach Graz zurückgekehrt. Er wird im Auftrag
+                    Aldobrandinis wegen der Übertragung der Herrschaft Veldes/Bled eine Empfehlung
+                    für Karl von Thurn an den Bischof [Spaur] und das Kapitel von Brixen senden.
+                    Erzherzogin Maria wurde das Schreiben Aldobrandinis bezüglich der Errichtung des
+                    Nonnenklosters präsentiert. Portia wird sich bemühen, mit Hilfe der Erzherzogin
+                    die Ein- und Ausfuhrverbote für Produkte der Abtei Rosazzo rückgängig zu machen.
+                    Freude und Zuversicht über die Bemühungen Aldobrandinis in den
+                    Finanzangelegenheiten Portias (Spesenrückerstattung und Erlass des Zehents).</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="264.2">Portia an Aldobrandini - Graz, 1601 Oktober 15</head>
+            <div>
+                <p>Essendo ritornato qua dal Campo che fu sotto li 9 del corrente, mi sono capitate
+                    cinque lettere di V. S. Ill.ma et in risposta delle prime che sono degl’8 del
+                        passato<note xml:id="FN5_264.2_01" type="footnote">Nr. 257.2, 257.3, 257.4,
+                        252.4, 252.5.</note>dico haver molto bene inteso quant’ella desideri che si
+                    favorisca ’l Conte Carlo della Torre presso Monsig. di Bressenone et suo
+                    Capitolo per la Signoria di Bleda, per la quale in essecutione del commandamento
+                    di V. S. Ill.ma non manco di scrivere caldissimamente et di rappresentare la
+                    mente di lei, la quale doverà esser più che bastante a colpire, se quel Vescovo
+                    si risolverà di lasciare li tanti rispetti che sin hora l’hanno fatto rimanere
+                    sospeso et irresoluto <note xml:id="FN5_264.2_02" type="footnote">Spaur legte in
+                        einem Schreiben an Portia vom 17. November 1601 die Gründe dar, warum er
+                        Karl von Thurn die Herrschaft Veldes/Bled nicht verleihen könne. Zum einen
+                        fürchtete er den Verlust der Gunst des Kaisers bzw. des Reichsvizekanzlers
+                        Coraduz, zum anderen wollte er durch eine ihm nahestehende Person die
+                        .finanzielle Verwaltung der Herrschaft besser unter Kontrolle halten: vgl.
+                        Spaur an G. A. Santoro, Brixen, 1601 Dezember 17, ACDF, S. O., St. St. 1a,
+                        Germania, fol. 708r; RAINER, Inquisition, S. 125f. Karl von Thurn schrieb am
+                        10. Januar 1602 an Aldobrandini, dass der Bischof von Brixen trotz des
+                        Schreibens Portias, das dieser im Namen des Papstes und des Kardinalnepoten
+                        verfasst hatte, die Herrschaft Veldes/Bled für sich behalten wolle und bat
+                        um weitere Unterstützung in dieser Angelegenheit: vgl. K. von Thurn an
+                        Aldobrandini, Görz, 1602 Januar 10, ASV, Fondo Borghese, serie III 126 B-G,
+                        fol. 60r. Im Februar 1602 richtete Clemens VIII. Breven an den Bischof und
+                        das Domkapitel von Brixen, in denen Karl von Thurn für die Verwaltung der
+                        Herrschaft Veldes/Bled empfohlen wurde: vgl. Clemens VIII. an Spaur, Rom,
+                        1602 Februar 9: NANNIIMRKONJIé 3, Nr. 14290; Clemens VIII. an das Domkapitel
+                        von Brixen, Rom, 1602 Februar 9: NANNIIMRKONJIé 3, Nr. 14291
+                        (fälschlicherweise im Breve als Bischof Martin von Brixen angeführt). Im
+                        April 1602 teilte Karl von Thurn mit, dass der Bischof von Brixen sich dazu
+                        entschlossen habe, die Herrschaft Veldes/ Bled seinem Neffen zu übertragen:
+                        vgl. K. von Thurn an Aldobrandini, Görz, 1602 April 23, ASV, Fondo Borghese,
+                        serie III 126 B-G, fol. 72r. Es handelte sich dabei um Anton von Spaur und
+                        Valör, Neffen des Fürstbischofs von Brixen, Christoph Andreas von Spaur, dem
+                        am 13. Mai 1602 die Herrschaft Veldes/Bled verliehen wurde: vgl.
+                        RABENSTEINER, S. 58. Vgl. Nr. 252.1, 252.5.</note>.</p>
+                <pb xml:id="P5_0000594"/>
+                <p>Alla ser.ma Arciduchessa ho presentata la lettera di V. S. Ill.ma concernente
+                    l’erettione del Monasterio delle Moniali<note xml:id="FN5_264.2_03"
+                        type="footnote">Nicht auffindbar.</note>, per le quali vedendo l’A. S.
+                    quello ch’ella si compiace di fare subito che dalla Chiragra fosse liberato N.
+                    S., ne le rende particolare gratie, com’anco dell’affettione che V. S. Ill.ma
+                    continua di portarle, a che corrisponde l’A. S. con tant’altro buon affetto et
+                    con desiderio di riservire sempre nell’occorrenze a V. S. Ill.ma et a tutta la
+                    sua Ecc.ma Casa.</p>
+                <p>Con la medesima Arciduchessa procurerò di ottenere Patente et licenza che si
+                    possano vendere a Thedeschi li vini di Rosaccio et trasportare il grano da
+                    questo Stato a quello de Signori Venetiani, et quanto prima n’habbia la gratia
+                    s’invierà la speditione agl’affittuali della Badia, acciò se ne vaglino et
+                    procurino l’utile et il mantenimento della consuetudine del luoco.</p>
+                <p>La speranza che V. S. Ill.ma mi dà d’haver adoprata l’auttorità sua con la rev.
+                    Camera con farmi dichiarare da S. B.ne qualche ricompensa delle spese fatte
+                    tant’anni sono, vivo con animo c’habbia hormai havuto effetto, scrivendomi
+                    l’istesso il Pico mio Agente costì, nel modo che V. S. Ill.ma ha anco favorito
+                    il particolare delle Decime, delle quali mi scrive anco l’Ill.mo San Giorgio che
+                    S. B.ne si truovava dispostissima ch’io n’habbia l’essentione<note
+                        xml:id="FN5_264.2_04" type="footnote">Vgl. Nr. 254.2.</note>. Il che tutto
+                    riconoscendo dalla benigna gratia di V. S. Ill.ma mi conosco tenuto d’impiegare
+                    quanto ho et posso havere in ogni tempo et mentr’haverò<pb xml:id="P5_0000595"/>
+                    vita in servitio suo et degl’Ecc.mi Nipoti, et con questa professione che viverà
+                    sempre meco …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

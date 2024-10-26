@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00030">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-11-14" n="1">1580-11-14</title>
+                <title level="a">30. Malaspina an Gallio - Graz, 1580 November 14</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 136r—137r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00030">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-11-14" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00029.xml">29.
+                        Malaspina an Gallio - Graz, 1580 November 11</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00031.xml">31.
+                        Malaspina an Gallio - Graz, 1580 November 14</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00029.xml">29. Malaspina an Gallio -
+                        Graz, 1580 November 11</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00031.xml">31. Malaspina an Gallio -
+                        Graz, 1580 November 14</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Schwierige religiöse Lage auf bambergischem Gebiet in Kärnten. Möglichkeit einer
+                    Jesuitenniederlassung in Villach. Beschwerde bei Erzherzog Karl über
+                    Häretikerpredigt und Hostienschändung. Notwendigkeit der Entfernung aller
+                    konkubinarischen Priester und Durchführung einer Visitation. Versprechen des
+                    Bischofs von<pb xml:id="P1_0000109"/> Seckau zu ganzem Einsatz für katholische
+                    Kirche. Uneinheitliche Auffassung der Räte in Angelegenheit des Patriarchen von
+                    Aquileia.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="30">Malaspina an Gallio - Graz, 1580 November 14</head>
+            <div>
+                <p>Ho rapresentato a S. A. il stato nel quale sta la religione catholica nelli
+                    luoghi sogetti al vescovo di Bamberga, et ho cercato di disponere l’animo di lei
+                    acciò voglia concorrere col parere et giudicio di S. Stà in cercar modo di levar
+                    via tanta abominatione, come è in quei popoli, et insieme le ho comunicato il
+                    pensiero che nel viaggio havevo conceputto circa li monasterii di Villacco.<note
+                        xml:id="FN1_00030_01" type="footnote">Siehe oben Nr. 6 und 8.</note>S. A. mi
+                    ha risposto che io so molto bene che il dominio temporale è del vescovo et che
+                    tutto consiste che egli dica da dovero et che pongha un buon vicedomine, et
+                    tanto nella forma del governo come delli remedii. S. A. ha il medesmo senso, che
+                    io ho già scritto a V. S. Illma, che hanno li catholici, a’ quali parlai per il
+                    viaggio; et però è di parere che quando il nuovo eletto domandarà la
+                    confirmatione, che N. S. non la dia, se prima non promette di mettere al governo
+                    de’ suoi stati qua un governatore catholico, et S. A. dal canto suo non mancarà
+                    di scrivere a S. Mtà Ces. acciò ne faccia officio con il novo eletto, <note
+                        xml:id="FN1_00030_02" type="footnote">Vgl. oben Nr. 9.</note>del quale qua
+                    per ancora non si ha notitia né buona né mala.</p>
+                <p>Circa li doi monasterii,<note xml:id="FN1_00030_03" type="footnote">Siehe oben
+                        Nr. 6, Anm. 22 und 23.</note>a S. A. piacerebbe grandemente che si dessero
+                    alli padri Gesuiti, et per il servitio de Dio et per la salute di quei popoli,
+                    ma dice che questo ancora si deve trattare con il vescovo, che quanto a sé darà
+                    ogni aiuto, et che il pensare di fare cosa alcuna senza il vescovo, se non con
+                    pericoli di scandali, è impossibile, se pur non si facesse risolutione di
+                    romperla da dovero, cosa però che bisogna prima maturamente considerare.</p>
+                <p>Io inanzi che scrivessi a V. S. Illma havevo già parlato alli padri et inteso che
+                    non ambiscano li monasterii, ma quando li sarano dati, non lascierano di
+                    accettargli per servitio de Dio et augumento della religion catholica.<note
+                        xml:id="FN1_00030_04" type="footnote">Die Jesuiten haben diese beiden
+                        Klöster nicht bekommen.</note>
+                </p>
+                <p>Ho poi dato a S. A. li capitoli della predica delli heretici<note
+                        xml:id="FN1_00030_05" type="footnote">Nr. 21.</note>et fatto officio che sia
+                    fatta qualche demostratione contra di loro. Si è mostrata in questo et nel
+                    volere castigar colui che fece quel escesso<pb xml:id="P1_0000110"/> del Smo
+                        Sacramento<note xml:id="FN1_00030_06" type="footnote"/> molto pronto, et mi
+                    ha detto che è stato una notte senza poter dormire per fastidio che si ha preso
+                    per questi doi casi.</p>
+                <p>S. A. concorre nel parer mio che sia espediente di ordinare una visita tanto de’
+                    ecclesiastici come de’ regolari in questa città et sua diocese, et amonir prima
+                    tutti li preti che hanno concubine che le lasciano. Ho ordinato al’archidiacono
+                    che faccia un memoriale di quello che le paserebbe espediente per effetuarla; ho
+                    ancora dato cura alli padri che facciano il medemo et, sentito il parere loro,
+                    mi risolverò poi con l’aiuto de Dio a far qualche cosa a suo tempo.<note
+                        xml:id="FN1_00030_07" type="footnote"/>
+                </p>
+                <p>Il vescovo di Secovia è venuto et, dopo molte dispute, egli mi ha promesso di
+                    voler seguitare con tutto il spirito la nave della chiesa catholica nella
+                    tempesta et fluttuatione insino alla morte, et che il simile vuol procurare che
+                    facciano li altri.<note xml:id="FN1_00030_08" type="footnote"/>
+                </p>
+                <p>Circa il negotio di mons. patriarcha<note xml:id="FN1_00030_09" type="footnote"
+                        >Vgl. Nr. 23.</note>ho penetrato che nel consiglio ogniuno ha dato il voto
+                    suo et sono stati molto differenti tra di loro, ma mi danno speranza che la
+                    risolutione sarà poi al fine nella sostanza buona, et subito che il consiglio
+                    habbia risoluto. Credo che manderà il parere delli suoi al’imperatore et
+                    arciduca Ferdinando, essendo negotio commune alla casa de Austria...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

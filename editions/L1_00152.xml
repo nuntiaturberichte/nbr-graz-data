@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00152">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-03-28" n="2">1582-03-28</title>
+                <title level="a">152. Malaspina an Gallio - Graz, 1582 März 28</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 447r—449r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00152">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-03-28" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00151.xml"
+                        >151. Malaspina an Gallio - Graz, 1582 März 28</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00153.xml">153.
+                        Gallio an Malaspina - Rom, 1582 März 31</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00151.xml">151. Malaspina an Gallio -
+                        Graz, 1582 März 28</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00153.xml">153. Gallio an Malaspina -
+                        Rom, 1582 März 31</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Feste Haltung Erzherzog Karls gegenüber Widerstand der Stände gegen Exekution des
+                    Religionsdekretes. Frage des Berufungsrechtes der Stände an Kaiser und
+                    Reichstag. Feierlicher Eid der Adeligen und der Vertreter der häretischen
+                    Bürger, ihre Religion nicht zu wechseln. Geduld bei Bekehrung der Häretiker,
+                    aber sofortiges Verbieten des lutherischen Gottesdienstes. Sterben ungetaufter
+                    Kinder in Kärnten seit Vertreibung der Prädikanten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="152">Malaspina an Gallio - Graz, 1582 März 28</head>
+            <div>
+                <p>Questo sermo principe si è opposto maravigliosamente a l’ostinatione de li
+                    provinciali, li quali seguitando il stile de la dieta passata hanno in scritto
+                    et in voce superbamente mostrato di non si voler acquetare al decreto
+                        publicato,<note xml:id="FN1_00152_01" type="footnote">Von landesfürstlicher
+                        Seite wurde vor allem versucht, die Städte und Märkte von den Herren und
+                        Rittern in Religionsangelegenheiten zu trennen. Die Regierung war bereit,
+                        den Adeligen wie bisher die Kultusfreiheit zu gestatten, aber nicht den
+                        Bürgern (Loserth, FRA II/50, S. 274 ff.).</note>onde io vivo certo con ferma
+                    speranza <pb xml:id="P1_0000405"/>che, restando l’A. S. nel proposito che hora
+                    è, si siano per superare tutte le difficoltà, poiché pare impossibile che quello
+                    che si tratta al fine non sia per pigliare una de le dui pieghe, che più a basso
+                    dirò, l’una et l’altra de le quali sarà in sollevatione de la religione
+                    catholica. Il negotio si è guidato ne la seguente forma: Li nobili vedendo che
+                    S. A. a li preghi loro non si mutava, detero pochi giorni fa una scrittura, ne
+                    la quale facevano come un protesto escusatorio, che sarebbero stati sforzati
+                    d’haver ricorso a l’imperatore et a la dieta imperiale. S. A. li dete in scritto
+                    una sma risposta, <note xml:id="FN1_00152_02" type="footnote">Landesfürstliches
+                        Schreiben vom 18. März 1582 (ebenda, S. 294).</note>cioè che se bene lei per
+                    vigore de li privilegii de la serma sua famiglia non era tenuta a promettere che
+                    li sudditi di lei ricorressero né da S. Mtä Ces. né a la dieta né ad altri,
+                    nondimeno condiscendeva gratiosamente a la loro petitione con alcune conditioni,
+                    cioè che lei in modo alcuno voleva che si ventilasse se poteva o non poteva
+                    separare le città et se il suo decreto ha d’havere la debita essecutione o non,
+                    poiché lei era risolutissima, quando ancora devesse aspettare la propria sua
+                    ruina et de le provincie, di voler che habbia effetto. Ma se da nobiltà fuor di
+                    questo si teneva aggravata che non voleva prohibirli il ricorso da S. Mtà et a
+                    la dieta, però con questa espressa dichiaratione che in evento l’imperatore con
+                    la dieta havesse giudicato, che lei devesse reggersi et governarsi coi suoi
+                    sudditi, conforme a la pacificatione impellale; circa la religione che lei ex
+                    tunc cassava tutte le concessioni per tolerantia et per forza permesse, et che
+                    di più riservava il castigo, conforme a la legge de la Germania contra li
+                    sudditi che senza proposito havessero voluto litigare con danno de la patria con
+                    scandalo di tanti potentati et con una consequentia di così mal essempio contra
+                    un signore loro naturale et legitimo, il quale li haveva governati tanto
+                    gratiosamente, come era noto a tutta la Germania. Et detto questo et datole
+                    ancora in scritto, li commandò che non gli replicassero per l’avvenire cosa
+                    alcuna, et così si è osservato se bene hanno tentato diverse vie acciò S. A. gli
+                    ascoltasse o ricevesse scritture.</p>
+                <p>Hora havendo inteso questi nobili la ferma risolutione di S. A., hanno con li
+                    consiglieri et altri fatto mille protesti et il negotio sta di presente in
+                    questo stato. Ma io sono informato che a persuasione de loro predicatori hanno
+                    operato con gli oratori de’ cittadini, che facciano con solenne giuramento di
+                    non mutar mai religione et di procurare che li figli siano educati anco essi ne
+                    la istessa. Et perché non si tratta hora di farli diventare catholici, che è
+                    materia che vuole tempo et <pb xml:id="P1_0000406"/>gran patientia et
+                    vigilantia, ma solamente di prohibirle l’essercitio lutherano, ho detto a S. A.
+                    che di questo non si pigli fastidio, ché facendo noi qua giù l’officio nostro,
+                    Dio benedetto farà a suo tempo quelle mutationi con la destra sua, a le quali
+                    opera nostra non può giungere.</p>
+                <p>Et se bene in Carintia ne la città di S. Vito et di Felchemor hanno lasciato
+                    morire alcuni figliuoli senza battesmo dopo che sono stati scacciati li
+                    predicatori heretici<note xml:id="FN1_00152_03" type="footnote">Vgl. Nr. 148, S.
+                        400.</note>et S. A. non può venire così di subito a dargli quel castigo, che
+                    gli medesimi signori heretici confessano che meritarebbono, escusandoli solo per
+                    la desperatione, et persuadendosi loro che io sia per movermi a compassione de
+                    la perdita di quelle anime, et consentire che qua sia lecito quanto al
+                    sacramento del battesmo pigliarlo dove più piace, nel che s’ingannano di gran
+                    lunga, nondimeno io sì come non mi maraviglio che’l demonio, il quale già tanti
+                    anni custodisce come forte armato la maggior parte di queste provincie,
+                    prevedendo che deve esser espugnata la fortezza sua, cerchi tante vie di
+                    difendersi, così m’ingegno quanto posso che la natura del principe, non avezza a
+                    sentire eccessi così esorbitanti, non si perda d’animo, ma seguiti virilmente.
+                    Dopo che la nobiltà et li cittadini hanno reciprocamente fatto il giuramento, li
+                    nobili, assicuratisi di questo, hanno messo in consulta a li loro settarii, se
+                    con sicura conscienza loro possono dar il consenso a S. A. de la separatione de
+                    li cittadini circa la religione, et tutti hanno determinato che non.</p>
+                <p>Per il che habbiamo di buon loco che li nobili non daranno mai il consenso, ma da
+                    l’altra parte, trovando con mano la risolutione ferme di S. A. facendo noi
+                    l’essecutione, non si intrometteranno, se ben si dubita che molti cittadini nel
+                    principio d’essa si partiranno da le città, al che però si provederà. Dimodo
+                    ché, ritornando a quello che di sopra ho detto, il negotio a mio giuditio havrà
+                    uno de’ dui essiti, o si trattarà ne la dieta imperiale, conforme a la risposta
+                    data da S. A. a gli heretici, nel qual caso vedo inanzi la risolutione di quella
+                    dieta difficile l’essecutione, overo la nobiltà, se bene mai darà il consenso,
+                    non farà spalla a li cittadini et si potrà dare principio a l’essecutione inanzi
+                    la partita di S. A. Tra li consiglieri sono alcuni che non approvano il mio
+                    parere circa essecutione, se non al ritorno di S. A.<note xml:id="FN1_00152_04"
+                        type="footnote">Erzherzog Karl hat vor seiner am 28. April erfolgten Abreise
+                        (Uhlirz, Ein Bruchstück des Diariums, S. 11) den Grazer Bürgern den Besuch
+                        des evangelischen Gottesdienstes streng verboten (Loserth, FRA II/50, S. 296
+                        f.).</note>da la dieta, non ostante che li nobili si dichiarino che loro non
+                        si<pb xml:id="P1_0000407"/> intrometteranno allegando pericoli etc. Ma io
+                    non sono mai per mutarmi di parere et, tra molte ragioni che mi confermano in
+                    questa opinione, n’ho detta una a S. A. che gli è piacciuta, cioè che l’A. S.,
+                    andando a la dieta con nome d’haver sollevata realmente la religione in buona
+                    parte così oppressa et afflitta, li sarà di gloria grandissima et tale che con
+                    maggiore facilità disponerà gli animi di tutti ad aiutarla ne le sue necessità,
+                    che altrimente non si principiando l’essecutione, la maggiore parte si
+                    persuaderebbono che fosse un negotio apparente per sodisfare al mondo et così le
+                    molte fatiche di lei, che meritano tanta loda, sarebbono non conosciute et non
+                    bene interpretate...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00073">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-03-04" n="1">1581-03-04</title>
+                <title level="a">73. Gallio an Malaspina - Rom, 1581 März 4</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 29rv, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00073">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1581-03-04" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00072.xml">72.
+                        Malaspino an Gallio - Graz, 1581 Februar 23</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00074.xml">74.
+                        (Malaspina an Erzherzog Ernst) - (Graz, 1581 März 7)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00072.xml">72. Malaspino an Gallio -
+                        Graz, 1581 Februar 23</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00075.xml">75. Gallio an Malaspina -
+                        Rom, 1581 März 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Befürchtung schwerer Schäden durch Aufschub der Durchführung des
+                    Religionsdekretes wegen vorhergehender Erörterung der Stände mit Kaiser. Drängen
+                    zu Standhaftigkeit und Eile. Schlechte Postverbindung.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="73">Gallio an Malaspina - Rom, 1581 März 4</head>
+            <div>
+                <p>Ho la lettera di V. S. de li 22 di gennaro,<note xml:id="FN1_00073_01"
+                        type="footnote">Nr. 62.</note>per la quale si è inteso come S. A. era
+                    condescesa a dar dilatione a li provinciali perché potessero conferir con la Mtà
+                    de l’imperatore il decreto. La qual risolutione, sebene è stata approvata per la
+                    confidenza che si ha d’havere ne la pietà et bontà di S. Mtà Ces., con tutto ciò
+                    si può ben temere ch’ella possa apportar molto danno, se non per altro, almeno
+                    per la longhezza, poiché il costume del paese porta le cose in infinito, al che
+                    s’aggionge l’indispositione di S. Mtà.<note xml:id="FN1_00073_02"
+                        type="footnote"> Am 17. Jänner 1581 berichtete der venezianische Gesandte am
+                        Kaiserhof, daß Erzherzog Ernst wegen Krankheit des Kaisers zur Regelung der
+                        Nachfolge nach Prag gekommen sei (Venedig AS, Dispacci Germania, filza 7, f.
+                        123rv).</note>Ma poiché questo è fatto, ci<pb xml:id="P1_0000199"/> sarà
+                    quel di buono che troveranno la Mtà S. prevenuta, come V. S. haverà visto, per
+                    la copia de’ brevi che le mandai a 18 del passato, scritti a S. Mtà Ces. et ad
+                    altri principi.<note xml:id="FN1_00073_03" type="footnote"> Siehe Nr. 71, Anm.
+                        3.</note>Dal che S. A. haverà pur visto l’animo di N. S., ma molto più da la
+                    rimessa de li 15.000 scudi, de li quali mandai lettere di cambio a V. S. a li 11
+                    pur de febrario, <note xml:id="FN1_00073_04" type="footnote">Siehe Nr.
+                        67.</note>et però S. A. doverà star constante in quello che ha decretato et
+                    quel che importa più in farlo metter in essecutione, et se pur si ha da conferir
+                    il decreto con la Mtà de l’imperatore, far che si faccia presto, perché li
+                    provinciali non cercheranno altro che di metter nove dilationi, accioché pian
+                    piano l’essecutione vada in fumo. <note xml:id="FN1_00073_05" type="footnote"
+                        >Sowohl Erzherzog Karl als auch die evangelischen Stände wandten sich an den
+                        Kaiser (Loserth, FRA II/50, S. 134—137, 175—177, 191).</note>
+                </p>
+                <p>Resto molto maravigliato che V. S. non havesse ricevuta lettera alcuna mia del
+                    mese di decembre, nel quale le scrissi tre volte, et le lettere sono state
+                    mandate, secondo che mi scrive mons. nuntio di Venetia, per via de l’agente di
+                    S. Mtà Ces., che sta in Venetia, per mezo del quale si sono anco mandate quelle
+                    di cambio et le copie de’ brevi sopradette ; che Dio voglia ch’anch’esse non
+                    siano ite in sinistro<note xml:id="FN1_00073_06" type="footnote">Siehe Nr. 65,
+                        S. 186, und Nr. 68, S. 192.</note>...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

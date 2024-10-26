@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00102">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1593-03-20" n="1">1593-03-20</title>
+                <title level="a">102. Aldobrandini an Portia - Rom, 1593 März 20</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+                                Heinz</persName>
+                            <persName>Rainer Christian</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+                            Kobenzl; 1592-1595</title>
+                        <idno type="ISBN">3-7001-2964-5</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2001</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturinstitut
+                                    in Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="3">3. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="484">484 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturinstitut in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. F. Borg. III, vol. 49 a, f. 37r—38r, Kopie.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L3_00102">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1593-03-20" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L3_00101.xml"
+                        >101. Aldobrandini an Portia - Rom, 1593 März 13</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L3_00103.xml">103.
+                        Kobenzl an Adobrandini - Klagenfurt, 1593 März 20</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00101.xml">101. Aldobrandini an
+                        Portia - Rom, 1593 März 13</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00104.xml">104. Aldobrandini an
+                        Portia - Rom, 1593 März 27</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Brief aus Ingolstadt erhalten. Differenzen zwischen Jesuiten und Nonnen in
+                    Regensburg. Auftrag in Passau den Fall des Domherrn Arzt zu entscheiden.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="102">Aldobrandini an Portia - Rom, 1593 März 20</head>
+            <div>
+                <p>Ho la lettera di V. S. Rev.ma de 27 del passato d’Ingolstadio<note
+                        xml:id="FN3_00102_01" type="footnote">Nicht vorhanden.</note>che non porta
+                    bisogno di alcuna risposta, ma solo di commendare l’opera da lei fatta in
+                    Ratisbona nell’accordo della differenza de padri del Giesù con quelle monache
+                    sue vicine.<note xml:id="FN3_00102_02" type="footnote"> Nichts näheres
+                        bekannt.</note>Intorno allo stato della medesima chiesa intenderà poi N. S.
+                    ciò che ne dirà qui il suo vescovo per pigliare quei partiti che più sieno
+                    necessarii alla salute delle anime, et alla divina gloria.</p>
+                <p>Il vescovo di Possa<note xml:id="FN3_00102_03" type="footnote">Urban von
+                        Trennbach, B. von Passau 1561—1595: H. C. III, 271.</note>ha fatto fare
+                    instanza al Cleselio<note xml:id="FN3_00102_04" type="footnote"> Melchior Klesl
+                        Passauer Offizial (Generalvikar) mit Sitz in Wien: Rainer, Prozess 39
+                        ff.</note>perché V. S. Rev.ma fosse mandata a Possa per decidere la
+                    differenza del canonico d’Arcz <note xml:id="FN3_00102_05" type="footnote"
+                        >Bartholomäus von Arzt wandte sich an den Papst, der den Fall Portia
+                        übertrug: Breve vom 15. Mai 1592, Arch. Vat. Sec. Brev. 191, f.
+                        92r—94r.</note>, la quale le fu delegata da N. S. a S. S.tà; è parso di
+                    compiacere il vescovo purché al canonico sia dato salvo condotto con ogni
+                    securezza et commodità per se et per li suoi nel proseguimento della causa,
+                    nella quale quando V. S. Rev.ma vedesse poter nascere qualche disordine dal
+                    luogo sospetto et di non poterlo togliere con l’auttorità sua, persuaderà più
+                    tosto il vescovo a contentarsi che la cosa si tratti in qualche luogo vicino del
+                    ducato di Baviera et procurerà ella di spedirsene quantoprima, acciò si trovi
+                    preparata a gli altri ordini che di qua le arrivaranno . . . </p>
+            </div>
+        </body>
+    </text>
+</TEI>

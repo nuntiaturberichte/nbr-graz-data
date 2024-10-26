@@ -1,178 +1,183 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_015.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-02-20" n="1">1599-02-20</title>
-                    <title level="a">15.1. Aldobrandini an Portia - Frascati, 1599 Februar
-                        20</title>
-                    <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 39, fol. 36r, Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_015.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                        <date when="1599-02-20" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3176589">Frascati</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_014.1.xml">14.1. Aldobrandini an Portia - Rom, 1599 Februar 15</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_015.2.xml">15.2. Aldobrandini an Portia - Frascati, 1599 Februar 20</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_014.1.xml">14.1. Aldobrandini an
-                            Portia - Rom, 1599 Februar 15</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_015.2.xml">15.2. Aldobrandini an
-                            Portia - Frascati, 1599 Februar 20</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Forderungen der protestantischen Stände im Landtag. Der Papst
-						hofft auf die Unterstützung des Kaisers. Kommunion unter beiderlei Gestalten
-						in Wien und den umliegenden Gebieten. Diesbezügliches Schreiben an den
-						Nuntius am Kaiserhof [Spinelli]. Portia soll sich gegen eine eventuelle
-						Erlaubnis zur Kommunion in beiderlei Gestalten in den innerösterreichischen
-						Ländern einsetzen.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="15.1">Aldobrandini an Portia - Frascati, 1599 Februar 20</head>
-				<div>
-					<p>Doppo haver risposto alla sua lettera delli 8 nella quale toccava il
-						particolare delli Uscocchi, mi è sopragiunta l’altra della medesima
-							data<note xml:id="FN5_015.1_01" type="footnote">Nr. 10.1, 10.2.</note>,
-						et per essa avvisa la pertinacia delli Provinciali luterani in non voler
-						proseguir la Dieta con il particolare delle contributioni se prima non
-						cavano dall’Arciduca qualche concessione dell’esercitio loro. N. S. ha
-						rimproverato questa<pb xml:id="P5_0000031"/> pertinacia, et ha altretanto
-						lodato S. A. della costanza che mostra nella resolutione presa; et poiché
-						tutto si fa per servitio di Dio et della sua santa, et vera Religione,
-						bisogna necessariamente sperare che la M.tà S. habbia a concorrere con la
-						gratia sua divina per sollevare S. A. dal travaglio et pensiero in che si
-						trova per la renitenza di questi mali huomini. Circa l’avviso che V. S. mi
-						scrive havere havuto da Vienna che in quella Città et contorni si dà la
-						Communione sub utraque specie con autorità et assenso anco di quelli che
-						hanno il carico della giurisditione ecclesiastica, S. S.tà mi ha ordinato
-						che io ne scriva al Nuntio Cesareo, come fo questa sera istessa acciò
-						s’informi di questa cosa diligentemente et che avvisi per applicarvi poi il
-						rimedio necessario et opportuno<note xml:id="FN5_015.1_02" type="footnote">Aldobrandini an Spinelli, Rom, 1599 Februar 20, ASV, Fondo Borghese,
-							serie III 57 [E], fol. 111v–112r.</note>. Et quanto alla proposta che V.
-						S. scrive esser stata fatta a cotesta A. che si accomodarebbono molte cose
-						se nelle sue Provincie si permettesse la sudetta Communione sub utraque
-						specie, posso dire a V. S. che N. S. concorre nella sua opinione, cioè che
-						più tosto si accrescerebbono le difficoltà et contrarietà alla vera nostra
-						Religione, et però vuole S. S.tà che ella sia contraria a queste et altre
-						simili proposte et trattationi. Che è quanto posso dire in risposta della
-						sudetta lettera. Ci troviamo a Frascati, dove N. S. è venuto a passare
-						questi quattro giorni di carnevale. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_015.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-02-20" n="1">1599-02-20</title>
+                <title level="a">15.1. Aldobrandini an Portia - Frascati, 1599 Februar 20</title>
+                <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 39, fol. 36r, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_015.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <date when="1599-02-20" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3176589">Frascati</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_014.1.xml"
+                        >14.1. Aldobrandini an Portia - Rom, 1599 Februar 15</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_015.2.xml">15.2.
+                        Aldobrandini an Portia - Frascati, 1599 Februar 20</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_014.1.xml">14.1. Aldobrandini an
+                        Portia - Rom, 1599 Februar 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_015.2.xml">15.2. Aldobrandini an
+                        Portia - Frascati, 1599 Februar 20</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Forderungen der protestantischen Stände im Landtag. Der Papst hofft
+                    auf die Unterstützung des Kaisers. Kommunion unter beiderlei Gestalten in Wien
+                    und den umliegenden Gebieten. Diesbezügliches Schreiben an den Nuntius am
+                    Kaiserhof [Spinelli]. Portia soll sich gegen eine eventuelle Erlaubnis zur
+                    Kommunion in beiderlei Gestalten in den innerösterreichischen Ländern
+                    einsetzen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="15.1">Aldobrandini an Portia - Frascati, 1599 Februar 20</head>
+            <div>
+                <p>Doppo haver risposto alla sua lettera delli 8 nella quale toccava il particolare
+                    delli Uscocchi, mi è sopragiunta l’altra della medesima data<note
+                        xml:id="FN5_015.1_01" type="footnote">Nr. 10.1, 10.2.</note>, et per essa
+                    avvisa la pertinacia delli Provinciali luterani in non voler proseguir la Dieta
+                    con il particolare delle contributioni se prima non cavano dall’Arciduca qualche
+                    concessione dell’esercitio loro. N. S. ha rimproverato questa<pb
+                        xml:id="P5_0000031"/> pertinacia, et ha altretanto lodato S. A. della
+                    costanza che mostra nella resolutione presa; et poiché tutto si fa per servitio
+                    di Dio et della sua santa, et vera Religione, bisogna necessariamente sperare
+                    che la M.tà S. habbia a concorrere con la gratia sua divina per sollevare S. A.
+                    dal travaglio et pensiero in che si trova per la renitenza di questi mali
+                    huomini. Circa l’avviso che V. S. mi scrive havere havuto da Vienna che in
+                    quella Città et contorni si dà la Communione sub utraque specie con autorità et
+                    assenso anco di quelli che hanno il carico della giurisditione ecclesiastica, S.
+                    S.tà mi ha ordinato che io ne scriva al Nuntio Cesareo, come fo questa sera
+                    istessa acciò s’informi di questa cosa diligentemente et che avvisi per
+                    applicarvi poi il rimedio necessario et opportuno <note xml:id="FN5_015.1_02"
+                        type="footnote">Aldobrandini an Spinelli, Rom, 1599 Februar 20, ASV, Fondo
+                        Borghese, serie III 57 [E], fol. 111v–112r.</note>. Et quanto alla proposta
+                    che V. S. scrive esser stata fatta a cotesta A. che si accomodarebbono molte
+                    cose se nelle sue Provincie si permettesse la sudetta Communione sub utraque
+                    specie, posso dire a V. S. che N. S. concorre nella sua opinione, cioè che più
+                    tosto si accrescerebbono le difficoltà et contrarietà alla vera nostra
+                    Religione, et però vuole S. S.tà che ella sia contraria a queste et altre simili
+                    proposte et trattationi. Che è quanto posso dire in risposta della sudetta
+                    lettera. Ci troviamo a Frascati, dove N. S. è venuto a passare questi quattro
+                    giorni di carnevale. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

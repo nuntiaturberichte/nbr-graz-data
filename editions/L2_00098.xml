@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00098">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1583-06-08" n="1">1583-06-08</title>
+                <title level="a">98. Malaspina an Gallio - Köln, 1583 Juni 8</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 78r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00098">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1583-06-08" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2886242">Cologne</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00097.xml">97.
+                        Malaspina an Gallio - Köln, 1583 Juni 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00099.xml">99.
+                        Gallio an Malaspina - Rom, 1583 Juni 11</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00097.xml">97. Malaspina an Gallio -
+                        Köln, 1583 Juni 6</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00099.xml">99. Gallio an Malaspina -
+                        Rom, 1583 Juni 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Abreise Malaspinas nach Innsbruck oder München. Hoffnung auf günstige religiöse
+                    Entwicklung in Köln.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="98">Malaspina an Gallio - Köln, 1583 Juni 8</head>
+            <div>
+                <p>Con altre mie ho humilmente significato a V. S. Ill.ma la risolutione presa da me
+                    di partirmi di qua per la volta d’Inspruch o Monaco et aspettare in una di
+                    quelle città l’ordine che mi sarà dato.<note xml:id="FN2_00098_01"
+                        type="footnote">Vgl. Nr. 94 und 96.</note>Hora essendo gionti li ordinarii
+                    di questa settimana senza mie lettere ho destinato di partirmi hoggi et per la
+                    istessa strada che son venuto non essendo le altre sicure. <note
+                        xml:id="FN2_00098_02" type="footnote">Vgl. Nr. 79 und 97, Anm.
+                    2.</note>Spero che non despiacerà questa mia deliberatione, poiché non ho in che
+                    occuparmi qua, et quanto alli negotii che possono restare imperfetti mons. di
+                    Verselli disegna di fermarsi sin tanto che li possi finire.<note
+                        xml:id="FN2_00098_03" type="footnote"> Bonomi ist erst am 15. August von
+                        Köln abgereist (Hansen, Nuntiaturberichte III/1, S. 675).</note>Doppo la
+                    elettione le cose hanno preso così bona piegha col mezzo del authorità del
+                    eletto che si spera, che il senato sia per indursi a espurgare la città
+                    d’heretici, cosa che tanto più facilmente succederà se nella nova elettione
+                    delli senatori, la quale si dovrà fare a questo S. Giovanni s’elegeranno persone
+                    sincere nella fide cattolica, et a questo bisogna attendere con molta solleci<pb
+                        xml:id="P2_0000150"/>tudine et destrezza et credo per quello che il
+                    commissario Cesareo mi ha insinuato che S. M.tà ne farà offitio con la città. Di
+                    modo che con questo et con la deliberatione presa dal capitolo di non admettere
+                    per l’avenire alcuno, che non faccia la professione della fede et non sia
+                    realmente cattolico, <note xml:id="FN2_00098_04" type="footnote"/>non sarà gran
+                    cosa che si possiamo assicurare di non dover per un pezzo et forsi mai rodere
+                    così duro esso come è la estirpatione del heresia et resterebbe solamente la
+                    reformatione de costumi, del che se ben è grandissimo bisogno, nondimeno col
+                    mezzo d’una bona riforma, alla quale inclina la città et senza dubio ancora
+                    l’eletto, si potrà ridure in qualche parte al pristino stato la disciplina
+                    regulare et ecclesiastica et in vero io non conosco per tal effetto alcuno più
+                    atto di mons. di Verselli . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

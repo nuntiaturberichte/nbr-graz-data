@@ -1,182 +1,187 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_309.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date"/>
-                    <title level="a">309.1. Portia an Clemens VIII. - (o.D.)</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 202r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_309.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII.,
-                            Klemens</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_032">Papst,
-                            VIII., Klemens - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_308.1.xml">308.1. Aldobrandini an Portia - Rom, 1602 März 30</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_309.2.xml">309.2. Portia an Aldobrandini - Graz, 1602 April 1</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_032" target="L5_298.1.xml">298.1. Clemens VIII.
-                            an Portia - Rom, 1602 Februar 15</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_032" target="L5_332.1.xml">332.1. Clemens VIII.
-                            an Portia - Rom, 1602 Juli 6</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia hat aufgrund seiner Verpflichtungen als Nuntius bisher noch keine
-						Visitation in seinem Bistum und keinen Ad Limina-Besuch durchgeführt und
-						bittet um Aufschub.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="309.1">
-					<note xml:id="FN5_309.1_01" type="footnote">Dieses undatierte Memorial wird hier
-						eingefügt, da Portia in einem Schreiben an Aldobrandini vom 1. April 1602
-						darauf hinweist: vgl. Nr. 309.2.</note>
-				</head>
-				<div>
-					<pb xml:id="P5_0000664"/>
-					<p>Cum Episcopus Adriae S.tis V.rae in Germania Nuntius a tempore, quo Ecclesiae
-						Adriensis cura fuit a S.te V.ra eidem demandata (quod quidem plus quam
-						triennii spatium explet) Apostolorum limina nondum visitaverit, cumque ad id
-						peragendum grave foelicis recordationis Sixti V. S.tis V.rae Praedecessoris
-							Decretum<note xml:id="FN5_309.1_02" type="footnote">Bulle Romanus
-							Pontifex vom 20. Dezember 1585: vgl. BULLARIUM ROMANUM 8, S. 641–
-							645.</note> optime agnoscat, animum ad huiusmodi visitationem saepe
-						adiecit illudque firmiter et saepe proposuit, se, cum Apostolicae legationis
-						munere iuxta S.tis V.rae praescriptum functus fuisset, Ecclesiam suam
-						Adriensem personaliter prius visitaturum ac lustraturum, deinde Romam statim
-						profecturum, ut si licet Apostolica limina visitaret Ecclesiaeque suae
-						statum, quem ob continuam absentiam hactenus inspicere non potuit, plenius
-						et exactius S.ti V.rae referret. Et hoc sane consilio idem Episcopus
-						dilationem et prorogationem ad huiusmodi visitationem personaliter
-						peragendam a S.tae V.ra humiliter alias petiit et gratiose obtinuit<note xml:id="FN5_309.1_03" type="footnote">Vgl. Nr. 118.2.</note>, sperans
-						scilicet et existimans fore tandem, ut eadem S.tas V.ra eundem a legationis
-						munere, quod in Germania per plures annos sustinuit, liberaret eique
-						facultatem faceret ad Ecclesiam suam se conferendi, cuius scilicet statum
-						prius sibi inspiciendum oculateque videndum esse semper est arbitratus, quam
-						Romam proficisceretur. Verum cum is ex Germania ab huiusmodi legationis
-						officio nondum per S.tem V.ram fuerit avocatus, nec illinc sine eiusdem
-						V.rae S.tis (cuius arbitrio, ac voluntati se omniaque sua obedienti atque
-						devoto animo prorsus committit) scitu et assensu discedere debeat, rem totam
-						S.ti V.rae significandam duxit, simulque eandem humiliter denuo rogandam, ut
-						vel eum a Nuntiaturae onerem liberare vel huiusmodi visitandorum
-						Apostolicorum liminum obligationem, sublatis censuris ac penis omnibus, in
-						aliud ei tempus differre, vel, quid sibi ea in rem sit agendum, significare
-						et mandare dignetur, quo demum conquiescere ac conscientiae suae consulere
-						possit, intellecto scilicet responso et praescripto S.tis V.rae. Quam Deus
-						O. M. Ecclesiae suae, et nobis diutissime servet incolumem.</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_309.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date"/>
+                <title level="a">309.1. Portia an Clemens VIII. - (o.D.)</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 202r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_309.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_032">Papst, VIII.,
+                        Klemens - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_308.1.xml"
+                        >308.1. Aldobrandini an Portia - Rom, 1602 März 30</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_309.2.xml">309.2.
+                        Portia an Aldobrandini - Graz, 1602 April 1</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_032" target="L5_298.1.xml">298.1. Clemens VIII. an
+                        Portia - Rom, 1602 Februar 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_032" target="L5_332.1.xml">332.1. Clemens VIII. an
+                        Portia - Rom, 1602 Juli 6</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia hat aufgrund seiner Verpflichtungen als Nuntius bisher noch keine
+                    Visitation in seinem Bistum und keinen Ad Limina-Besuch durchgeführt und bittet
+                    um Aufschub.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="309.1">Portia an Clemens VIII. - [o. D.]<note xml:id="FN5_309.1_01"
+                    type="footnote">Dieses undatierte Memorial wird hier eingefügt, da Portia in
+                    einem Schreiben an Aldobrandini vom 1. April 1602 darauf hinweist: vgl. Nr.
+                    309.2.</note>
+            </head>
+            <div>
+                <pb xml:id="P5_0000664"/>
+                <p>Cum Episcopus Adriae S.tis V.rae in Germania Nuntius a tempore, quo Ecclesiae
+                    Adriensis cura fuit a S.te V.ra eidem demandata (quod quidem plus quam triennii
+                    spatium explet) Apostolorum limina nondum visitaverit, cumque ad id peragendum
+                    grave foelicis recordationis Sixti V. S.tis V.rae Praedecessoris Decretum<note
+                        xml:id="FN5_309.1_02" type="footnote">Bulle Romanus Pontifex vom 20.
+                        Dezember 1585: vgl. BULLARIUM ROMANUM 8, S. 641– 645.</note>optime agnoscat,
+                    animum ad huiusmodi visitationem saepe adiecit illudque firmiter et saepe
+                    proposuit, se, cum Apostolicae legationis munere iuxta S.tis V.rae praescriptum
+                    functus fuisset, Ecclesiam suam Adriensem personaliter prius visitaturum ac
+                    lustraturum, deinde Romam statim profecturum, ut si licet Apostolica limina
+                    visitaret Ecclesiaeque suae statum, quem ob continuam absentiam hactenus
+                    inspicere non potuit, plenius et exactius S.ti V.rae referret. Et hoc sane
+                    consilio idem Episcopus dilationem et prorogationem ad huiusmodi visitationem
+                    personaliter peragendam a S.tae V.ra humiliter alias petiit et gratiose obtinuit
+                        <note xml:id="FN5_309.1_03" type="footnote">Vgl. Nr. 118.2.</note>, sperans
+                    scilicet et existimans fore tandem, ut eadem S.tas V.ra eundem a legationis
+                    munere, quod in Germania per plures annos sustinuit, liberaret eique facultatem
+                    faceret ad Ecclesiam suam se conferendi, cuius scilicet statum prius sibi
+                    inspiciendum oculateque videndum esse semper est arbitratus, quam Romam
+                    proficisceretur. Verum cum is ex Germania ab huiusmodi legationis officio nondum
+                    per S.tem V.ram fuerit avocatus, nec illinc sine eiusdem V.rae S.tis (cuius
+                    arbitrio, ac voluntati se omniaque sua obedienti atque devoto animo prorsus
+                    committit) scitu et assensu discedere debeat, rem totam S.ti V.rae significandam
+                    duxit, simulque eandem humiliter denuo rogandam, ut vel eum a Nuntiaturae onerem
+                    liberare vel huiusmodi visitandorum Apostolicorum liminum obligationem, sublatis
+                    censuris ac penis omnibus, in aliud ei tempus differre, vel, quid sibi ea in rem
+                    sit agendum, significare et mandare dignetur, quo demum conquiescere ac
+                    conscientiae suae consulere possit, intellecto scilicet responso et praescripto
+                    S.tis V.rae. Quam Deus O. M. Ecclesiae suae, et nobis diutissime servet
+                    incolumem.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

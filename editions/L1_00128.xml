@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00128">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" notAfter="1581-11-27" n="1">vor 1581-11-27</title>
+				<title level="a">128. Malaspina an Erzherzog Karl - Graz, 1581 vor November
+					27</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 383r—387v und 369r—373v, zwei
+							gleich-<lb/>zeitige Kop.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00128">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date notAfter="1581-11-27" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/118560069">Österreich, Erzherzog,
+						Karl</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_012">Malaspina,
+						Germanico - Österreich, Erzherzog, Karl</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00127.xml"
+						>127. Gallio an Malaspina - Rom, 1581 November 11</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00129.xml">129.
+						(Graz, 1581 vor Dezember 6)</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_012" target="L1_00124.xml">124. Malaspina an
+						Erzherzog Karl - (Graz, 1581 vor Oktober 22)</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_012" target="L1_00138.xml">138. Malaspina an
+						Erzherzog Karl - Graz, 1582 Jänner 31</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Darlegung, daß alle Hindernisse, welche die Exekution des am letzten Landtag
+					publizierten Religionsdekretes verhinderten, beseitigt sind.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="128">Malaspina an Erzherzog Karl - Graz, 1581 vor November 27<note
+					xml:id="FN1_00128_01" type="footnote">Das Datum, ergibt sich aus dem Bericht
+					Malaspinas vom 6. Dezember 1581, in dem er mitteilt, daß er vor Beginn des
+					Landtages — dieser wurde am 27. November eröffnet — Erzherzog Karl dieses
+					Schreiben übergeben habe (Nr. 130, S. 357).</note>
+			</head>
+			<div>
+				<p>Io non dubito punto che l’A. V. con l’occhio pio de l’intelletto suo non
+					consideri a le volte che non interesse di roba né di stati, né temporalità, né
+					passione alcuna, né altro rispetto mondano move Stà S. ad ordinare a li suoi
+					ministri, che deligentemente cerchino di animarla a sollevare l’afflitta et
+					smarita religione in queste provincie,<note xml:id="FN1_00128_02"
+						type="footnote">Vgl. Nr. 1, S. 3 f.</note>ma quella istessa cagione che
+					mosse Christo signor nostro ad incarnare et morire è la medesima che move S.
+					Stà, la quale per concernere da salute de le anime è la maggiore che si possa né
+					pensare né imaginare, né il mondo può haver più certo argomento, che S. Stà sia
+					in vero <pb xml:id="P1_0000350"/>vicario di Christo et successore di Pietro che
+					col vedere che succede non solo ne la dignità, ma nel zelo et carità del capo,
+					et debbiamo pienamente credere che, sì come con tal spirito si sono spezzati
+					così crudeli cori de’ tiranni nimici de la fede, che al presente si sia ancora
+					col mez de ’l A. V. per superare la perfidia et ostinatione che il seme di
+					Luthero ha portato ne la maggior parte de’ sudditi di lei. <note
+						xml:id="FN1_00128_03" type="footnote">Vgl. Nr. 124, S. 341.</note>Et perché
+					ne le altre mie scritture<note xml:id="FN1_00128_04" type="footnote"> Nr.
+						124.</note>ho discorso del modo di essequire quello che si pensa di tentare,
+					nel che forse parerà ad alcuni che possa nascer qualche difficoltà, come si
+					vidde ne la dieta passata, mi è parso nel presente scritto di riferir tutti gli
+					impedimenti che ritennero l’A. V. a non essequire il decreto publicato <note
+						xml:id="FN1_00128_05" type="footnote">Nr. 50.</note>alhora, accioché
+					toccandosi con mano che quelle difficoltà allegate, si sono tolte via. V. A.
+					tanto più animosamente si prepari a far da dovero, né permetter che col’
+					allegare nove difficoltà si trepidi ubi vere non est timor, che non sarebbe
+					altro che quaerere excusationes in peccatis. Furno dui sorti di difficoltà
+					allegate ne la dieta passata, alcune prevedute inanzi et communicate con li
+					principi ne la consulta di Baviera, <note xml:id="FN1_00128_06" type="footnote"
+						>Auf der Münchner Konferenz wurde beschlossen, die bisher gemachten
+						Konzessionen nicht durch offenen Widerruf, sondern schrittweise zu
+						annullieren und sich dabei besonders auf den Augsburger Religionsfrieden zu
+						berufen (Loserth, FRA II/50, S. 30—38).</note>altre scoperte con l’occasione
+					d’essa. Le difficoltà inanzi la dieta, sono le seguenti :</p>
+				<p>Le forze degli heretici grandi, quelle di V. S. piccole, loro con l’intelligenza
+					degli Austriaci et altre provincie di Germania,<note xml:id="FN1_00128_07"
+						type="footnote">Vgl. Nr. 55, S. 159, Nr. 59, S. 169, und Nr. 77, S.
+						212.</note>lei povera di amici in modo che non poteva far fondamento né in
+					parenti né in altri vicini. Che li heretici erano così ostinati che, vedendosi
+					togliere l’essercitio de la asserta loro religione, si sarebbono non solo
+					rebellati, ma chiamato il Turco et valutosi de li loro sudditi per opprimere
+					l’A. V. et li catholici. Al che pareva che malamente V. A. potesse obviare,
+					essendo in estrema necessità, et quando li heretici non havessero fatto questo,
+					senza dubio non havrebbono voluto contribuire più a li confini, il che havrebbe
+					apportato l’ultima ruina a l’A. V.</p>
+				<p>Che il stato ecclesiastico, per la corrotione de la disciplina regolare et
+					ecclesiastica et buoni costumi, era totalmente unito con gli heretici et non si
+					poteva far fondamento in esso.<note xml:id="FN1_00128_08" type="footnote">Vgl.
+						Nr. 114, Anm. 8.</note>
+				</p>
+				<pb xml:id="P1_0000351"/>
+				<p>A queste difficoltà allegate li principi ne la consulta fatta in Baviera
+					risposero sofficientemente et l’istessa esperienza ne ha dato ad intendere che
+					il loro consiglio fu vero et con gran ragione, perché le forze degli heretici
+					sono o per se stesse senza aiuti esterni grandi o con aiuti esterni. Quanto a le
+					forze esterne, havendo V. A. inteso quello che gli Austriaci, implorando costoro
+					il loro aussilio, habbino risposto non deve temere le promesse del duca di
+					Sassonia, fatte a l’A. V., la rendono ancora sicura da quella et altre
+						parti,<note xml:id="FN1_00128_09" type="footnote">Erzherzog Karl verhandelte
+						im Juni 1581 mit dem Kurfürsten von Sachsen vor allem über einen
+						angemessenen Anteil der Reichshilfe für die Türkengrenze (Venedig AS,
+						Dispacci Germ., filza 8, f. 52r—53v). Vgl. Nr. 85, Anm. 4.</note>ma da
+					l’altro canto non è già dubio che l’A. V., se bene in necessità può opprimere e
+					con le forze proprie e con le esterne la insolentia et inobedientia di costoro,
+					poiché da ogni parte è circondata da parenti et amici amorevoli et interessati,
+					ne li quali se ben non potesse far fondamento, quanto a danari, deve esser certa
+					che non solo non permetteranno che li loro sudditi si movano contra l’A. V., ma
+					che opereranno che li siano in aiuti. Et quanto a la penuria de’ danari, oltre
+					che lei non è totalmente priva che non possi trovare da per sé commodità di
+					haverne, sa ancora gli aiuti et proferte che S. Stà le ha fatte. <note
+						xml:id="FN1_00128_10" type="footnote">Siehe Nr. 90.</note>Quanto al chiamar
+					il Turco, chi è quello che chiaramente non vede che questa è una voce senza
+					fondamento, poiché non è celato a questa nobiltà, che il Turco non è amico de’
+					nobili, et il Turco è hora tanto occupato, <note xml:id="FN1_00128_11"
+						type="footnote">Der im Frühjahr 1578 begonnene Krieg gegen Persien hatte
+						sich keineswegs nach dem Wunsch mancher Wesire, den „aufgetischten Kuchen
+						anzuschneiden“, entwickelt (Khevenhiller, Annales Ferdinandei I, Sp.
+						125—128, 181—185; Hammer, Geschichte des Osmanischen Reiches II, S. 477 ff.;
+						Jorga, Geschichte des Osmanischen Reiches III, S. 236 ff.).</note>che par
+					che Dio benedetto l’affliga per dar commodità a l’A. V. di poter cavarsi da la
+					servitù in che l’ha posta l’heresia.</p>
+				<p>De le forze proprie de’ provinciali o consistono nel valore de le loro persone o
+					ne la quantità de li danari o ne la moltitudine de’ loro subditi. Quanto al
+					primo, io non ho insin’hora inteso che tra di loro sia in gran fiore la
+					disciplina militare ; mi è ancora detto che la maggior parte di essi sono pieni
+					di debiti, et il mantenere essercito contra un principe de la qualità di V. S. è
+					negotio, che porta seco un gran polso. De li contadini loro sudditi, essendo
+					quasi tutti catholici<note xml:id="FN1_00128_12" type="footnote">Über den
+						Bevölkerungsanteil der Katholiken und Protestanten vgl. oben Anm. 3, Nr. 59,
+						S. 172, und Nr. 94, Anm. 9.</note>et malamente trattati da loro, si deve più
+					tosto credere che aspettino occa<pb xml:id="P1_0000352"/>sione di togliersi il
+					giogo de la tirannide, che li vien usata, che siano per mostrar segni contra
+					l’A. V. Ma perché quante difficoltà di sopra allegate non sono state tenute in
+					molta consideratione, poiché né V. A. le deve dar occasione di rebellare né loro
+					volendo le potrebbono fare, se ben Luthero scrive che non devono obedire a li
+					principi cattivi,<note xml:id="FN1_00128_13" type="footnote"> Vgl. Nr. 118, Anm.
+						7.</note>tra quali egli numera tutti li catholici, si ha da pensare a le
+					altre, et pare che si debba ragionevolmente temere, che li heretici, vedendosi
+					restringere da libertà de le loro conscienze, non siano per voler contribuire a
+					li confini, non essendo tenuti se non per la conservatione del ben publico, il
+					quale non essendo mai stato a core a Luthero, anzi havendo scritto libri contra
+					li magistrati et in favor del Turco, non è dubio che non sarà havuto in alcuna
+					consideratione da loro. A questo si risponde che l’A. V., come ne la consulta di
+					Baviera si contiene, ha molti mezi per indurli a contribuire, ma presupponendo
+					che non riescano li modi pensati, l’A. V. si è assicurata ne la dieta passata
+					del stato ecclesiastico del quale in modo alcuno non deve dubitare; <note
+						xml:id="FN1_00128_14" type="footnote">Nr. 63, Anm. 8, und Nr. 130, S.
+						359.</note>io non posso già negare che loro si lassano intendere che quando
+					la cosa andarà seriosamente et con speranza di fermezza soda, quanto a l’A. V.
+					che loro faranno da dovero, ma che quando sia altrimente, come loro dubitano che
+					la ragione non vuole che senza profitto, anzi con danno, si ponghino in maggior
+					rottura con li provinciali, li quali poi li vessano con molto detrimento de
+					l’honore et giurisdittione loro, del che V. A. ne può esser buon testimonio,
+					vedendo come trattano lei stessa, et contribuendo loro più che non fanno tutti
+					gli altri stati, V. A. si viene ad assicurare d’una gran partita. Quanto a le
+					città, presupponendo che le quattro non volessero contribuire, de le altre non è
+					dubio alcuno. Sono poi li castelli proprii di V. A., sono tra nobili alcuni
+					catholici et principi che hanno feudi in queste provincie;<note
+						xml:id="FN1_00128_15" type="footnote"> Der Erzbischof von Salzburg und die
+						Bischöfe von Bamberg, Brixen und Freising.</note>altri se ben di diversa
+					fede, però servitori et ministri di lei, altri padri di famiglia et amici di
+					quiete et bene affetti al benpublico, de’ quali pare che non si debba temere che
+					non siano per contribuire di maniera che non si spendendo di presente tutti li
+					danari de le contributioni a li confini, ma mantenendosi tanti predicatori
+					heretici et scole et fabricandosi stif<note xml:id="FN1_00128_16"
+						type="footnote"> Die 1574 errichtete landschaftliche Schule in Graz wurde
+						allgemein Stift genannt (Loserth, Reformation und Gegenreformation, S. 211
+						ff.).</note>et facendosi ricchi alcuni con li danari ecclesiastici, <pb
+						xml:id="P1_0000353"/>non è dubio, che in tale caso spenderebbono più
+					fruttuosamente una minor quantità sarebbe per bastare, oltre V. A. deve sperare
+					per l’avvenire che l’imperio contribuirà la parte che li tocca a li tempi debiti
+					che sarà di grande sollevamento. Per il che havendo V. A. la promessa di S. Bne
+					che non li è per mancare, volendosi ancor essa incommodare, come la ragione et
+					il proprio interesse ricerca, pare che la cosa si potrà passare senza alcun
+					pericolo, massime non trattandosi se non con la Stiria, con la qual provincia
+					toccando con mano, che ogni giorno si fanno più insolenti, ha giusta causa di
+					far credere a le altre che si move per l’inobedienza loro, la quale essendo ad
+					esse nota, havendoli ripresi ne la dieta passata, sarà facilmente creduta; onde
+					si vede chiaramente che per la risposta data da li Austriaci et per
+					l’assicuramento del duca di Sassonia <note xml:id="FN1_00128_17" type="footnote"
+						>Siehe oben Anm. 9 und Nr. 72, Anm. 3.</note>et per la fermezza de li
+					prelati et per la debolezza degli heretici et per gl’aiuti ottenuti et altri
+					rispetti toccati, sono tolti gli impedimenti allegati di sopra. Ma perché si
+					potrebbe fare questa obiettione: se queste difficoltà erano inanzi la dieta
+					passata non solo state antivedute, ma consultate et tolte, perché non si fece
+					l’essecutione del decreto? Si può rispondere che li provinciali, col mandare
+					ogni giorno in su et in giù huomini in Austria et in altre parti di Germania,
+						<note xml:id="FN1_00128_18" type="footnote">Vgl. Nr. 73, Anm. 5, und Nr. 88,
+						Anm. 8.</note>tenevano sospesi gli animi di tutti, et non senza timore che
+					fosse grande intelligenza fra loro et costoro, cosa die al presente si sa non
+					esser vera. Del stato ecclesiastico non si era così certo, come hora si è; le
+					nuove, hora buone hora male, di Fiandra tenevano in desiderio tutti di voler
+					aspettar l’essito loro et di presente si ha avviso che passano bene.<note
+						xml:id="FN1_00128_19" type="footnote"> Siehe Nr. 96, Anm. 6.</note>Il non
+					haver gli aiuti pronti per ogni accidente che potesse nascere faceva andar
+					circonspetti, cosa che con li aiuti ottenuti sì è tolta. Si scoprirono ancora ne
+					l’istessa dieta alcune nove difficoltà, poiché havendo presupposto tutti che gli
+					heretici si potessero contenere nel debito officio con una rigorosa et austera
+					dimostratione di parole di V. A., non essendo successo, come si credeva, ha
+					bisognato pensare a nuove consulte, il che si è fatto. Li evidenti segni, che si
+					vedevano, che tentandosi di far l’essecutione del decreto il popolo di Gratz non
+					impedisse con pericolo manifesto di tutti li catholici causavano gran timore in
+					tutti. Hora havendosi ottenuto aiuto di metter il presidio non può succedere.
+						<note xml:id="FN1_00128_20" type="footnote">Vgl. Nr. 118, Anm.
+					2.</note>L’infirmità de l’imperatore grave dava che pensare, hora per gratia di
+					Dio sta<pb xml:id="P1_0000354"/> bene; <note xml:id="FN1_00128_21"
+						type="footnote">Vgl. Nr. 77.</note>per questi impedimenti che alhora non
+					erano tolti, fu concluso, che si devesse dare la dilatione a l’essecutione del
+					decreto et ne l’interim mandar oratori et consigliarsi con li principi
+					confidenti et proponerli le difficoltà. Il che essendosi fatto et essendoli
+					stati allegati infiniti impedimenti, con tutto ciò hanno giudicato et
+					consigliato, che si deve et che si può tentare et perfettionare, et si vede
+					chiaramente che non sono mai per mutarsi di parere, et insino il re di Spagna,
+					non ricercato, si è mosso ad animare l’A. V. et si è offerto ad aiutarla in ogni
+						occasione.<note xml:id="FN1_00128_22" type="footnote"> Vgl. Nr. 24, Anm. 7,
+						und, Nr. 119, S. 328.</note>Ultimamente si faceva gran difficoltà di poter
+					perfettionare cosa alcuna qua, se prima l’imperatore, come capo, non faceva egli
+					in Austria alcuna dimostratione, promettendo che’l negotio qua havrebbe pigliato
+					la medesima piega che havrebbe fatto quel d’Austria. Hora non ostante che si sia
+					causato con la sospensione del decreto passato gran detrimento a li pensieri di
+					S. Mtà nel negotio de la religione, nondimeno la Mtà S., confidata ne la bontà
+					del Sig. Dio, ha fatto sforzo et ha felicemente fornita la dieta. Per il che
+					essendosi tolti tanti impedimenti, et essendo la causa di servitio di Dio, non
+					deve V. A. credere che sia più debole hora la destra del Signore di quello che è
+					stata ne l’aiutar l’imperatore, se V. A. con opere piene di confidenza ne la D.
+					Mtà farà in forma che gli heretici non habbino per l’avvenire di esser così
+					ostinati, presupponendo che l’A. V. più tosto per stimoli altrui che per propria
+					elettione, faccia dimostratione contra la falsa loro religione. Quale è Sermo
+					Signore quella famiglia nel mondo che habbia più occasione di riposarsi ne la
+					previdenza di Dio che quella d’Austria? Che in verità pare che per essaltar lei,
+					habbia estinto Dio benedetto tanti regni, tante nobilissime casate, et questo
+					non per altro, se non che crescendo in forze, crescesse ancora in spirito et in
+					gratitudine verso Dio, con acquistarsi nome d’esser difensore de la fede
+					catholica contra Turchi et heretici. Faccia dunque V. A. in questa dieta in modo
+					che havendo inteso le sante essortationi et stimoli di S. Bne, non si possa
+					dire, che vicarius Christi a Serte V. non auditur, aut potius liberator noster
+					Christus, qui Celsem V. per vicarium suum alloquitur atque populos remque suam
+					publicam tuendam impellit non auditur. Acciò non intravenga a l’A. V. quello che
+					a Vencislao, re di Boemia, al quale piacendo di esser tenuto benigno principe da
+					li heretici, et credendo a le voci loro false, che le promettevano di non dargli
+					fastidio alcuno ne l’administratione del regno, cosa che lo faceva <pb
+						xml:id="P1_0000355"/>viver senza sollecitudine, al fine, non potendo lungo
+					tempo star nascosto l’effetto de l’heresia, cominciorno a rebellarsi et il re,
+					tardo accortosi de l’error suo et indarno domandando aiuto a li principi vicini,
+					i quali non credevano che ne in tal caso fosse per mutar natura, oppresso di
+					dolore, morse di morte subitanea, et Dio benedetto permise per giusto suo
+					giuditio che quello che il re pensava le devesse mantener il regno, cioè la
+					benignità et coniventia, fu quello che li fece perdere non solo il regno, ma la
+					vita.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

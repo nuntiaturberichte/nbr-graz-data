@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00169">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-05-23" n="1">1584-05-23</title>
+                <title level="a">169. Malaspina an Gallio - Graz, 1584 Mai 23</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 200rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00169">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1584-05-23" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00168.xml"
+                        >168. Steirische Verordnete an Malaspina - Graz, 1584 Mai 18</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00170.xml">170.
+                        Gallio an Malaspina - Rom, 1584 Mai 26</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00167.xml">167. Malaspina an Gallio -
+                        Graz, 1584 Mai 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00170.xml">170. Gallio an Malaspina -
+                        Rom, 1584 Mai 26</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Trotz harter Bestraffung einiger Grazer Bürger keine Bereitschaft zum Gehorsam.
+                    Vergeblicher Fußfall der Bürger vor Erzherzog Karl mit der Bitte um ungestörte
+                    Belassung in ihrer Religionsausübung.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="169">Malaspina an Gallio - Graz, 1584 Mai 23</head>
+            <div>
+                <p>Se ben S. A. va tuttavia castigando alcuni cittadini, non si vede però per ancora
+                    dispositione di obedienza, cosa che fa maravigliare grandemente tutti noi altri,
+                    parendone strania cosa che non li commovi né la perdita de le facultà, né la
+                    carcere, né l’essilio.<note xml:id="FN2_00169_01" type="footnote">Vgl. oben Nr.
+                        167.</note>Onde io, come ho detto a S. A., non posso far altro giuditio se
+                    non o che costoro sono talmente fascinati et sedotti nel heresia che credono di
+                    prestare obsequio a Dio perseverando ne la loro ostinatione dal che procede che
+                    sopportano patientemente tutti li castighi, o vero che loro sono non solo
+                    confortati a la disobedienza ma li è fatto spalla da altri et piaccia a Dio che
+                    non siano fatti partecipi de tutti i nostri consigli. <note
+                        xml:id="FN2_00169_02" type="footnote">Malaspina schließt also nicht aus, daß
+                        einer der wenigen Teilnehmer an der geheimen Beratung Informationen
+                        weitergibt.</note>Et sicome in loro non si scuopre tanto zelo né unione di
+                    fede, ch’io facilmente mi possa dare a credere, che siano pronti al partire per
+                    la loro asserta religione, così vivo con gelosia et timore di questo altro non
+                    potendo io con la tenuità del mio intelletto capire, come questi cittadini non
+                    solo non obedischino, ma ardischino di minacciare sollevatione se si continuarà
+                    in farsele sforzo, sapendo loro molto bene che quando ancora estinguessero tutte
+                    le reliquie de li cattolici che loro non havendo rifugio né riparo alcuno altro
+                    che il patrocinio del Turco, il quale quan<pb xml:id="P2_0000264"/>do ancora
+                    volessero non potrebbono forsi havere, che perciò ogni sollevatione sarebbe la
+                    lor ultima ruvina.</p>
+                <p>Ma perché non è cosa sicura il far certo giuditio ne li termini, che hora stiamo,
+                    io suspendendo l’intelletto in questa parte mi consolo con la fermezza, che ha
+                    mostrato et mostra S. A., la quale hieri essendo al improviso a un hora
+                    stravagante et con gran secreto convenuti tutti li cittadini con moglie et
+                    figlioli ne la corte del palazzo et mille et più di loro ingenocchiati con
+                    infinite lacrime instando che non fossero molestati circa la religione.<note
+                        xml:id="FN2_00169_03" type="footnote">Die Verordneten der steirischen Stände
+                        berichteten darüber denen von Kärnten und Krain am 21. Mai, daß heute um 10
+                        Uhr Mittagszeit die ganze Bürgerschaft, an die 5000 Personen mit Weibern und
+                        Kindern, vor Erzherzog Karl Fußfall getan und um Gottes Barmherzigkeit und
+                        des Jüngsten Gerichtes willen gebeten habe, sie in ihrer Religionsausübung
+                        ruhig und ungestört zu lassen (Loserth, FRA II/50, S. 542f.).</note>L’A. S.,
+                    doppo d’havere indarno fattole intendere più volte che partissero al fine
+                    perseverando loro ingenocchione quasi per spatio di mezz hora, li fece dire che
+                    se loro stessero non solo genuflessi ma tutto un giorno col capo per terra et
+                    piedi in alto che mai havrebbono attenuto né gratia né audientia.<note
+                        xml:id="FN2_00169_04" type="footnote"> Angeblich ließ er ihnen dies durch
+                        seinen Küchenmeister Formentin mitteilen (Loserth, FRA II/50, S.
+                        543).</note>
+                </p>
+                <p>Et perché quando li popoli tentano questi estremi, pare che si mettino in
+                    necessità o di obedire o di rebellare et del obedientia non vedemo dispositione.
+                    A S. A. però è talmente dispiaciuto questo atto, che ha instituita una
+                    inquisitione per venire in cognitione del principale authore d’essa<note
+                        xml:id="FN2_00169_05" type="footnote">Landesfürstlicher Befehl vom 21. Mai
+                        an Bürgermeister, Richter und Rat von Graz, die Rädelsführer in dieser
+                        Angelegenheit zu melden (Loserth, FRA II/50, S. 543).</note>. Se questa
+                    constantia di S. A., ne la quale è posta la vita et la morte di questo negotio,
+                    si conservarà, et che sicome mi afferma S. A. doppo che haverà fatto esperienza
+                    che li mezzi usati insin hora non sono sufficienti per ridur al obedienza li
+                    cittadini, che lei sia per metter manco ad altri più severi et sicuri, et che
+                    inanzi la sua partita <note xml:id="FN2_00169_06" type="footnote">Gemeint ist
+                        die bevorstehende Reise nach Innsbruck.</note>ne dia parte a la S.tà di N.
+                    S., come dice di voler fare. Il negotio non ostante tutto quello, che di sopra
+                    ho detto, haverà al fine con l’aiuto di Dio S. N. buonissimo essito, perché se
+                    tra di noi è alcun falso fratello egli palpando la constantia di S. A. et
+                    disperando di poterla superare si ritirarà et potrà desingannare li suoi
+                    complici, et li cittadini senza il patrocinio de li nobili non potranno
+                        lungamente<pb xml:id="P2_0000265"/> perseverare ne la disobedientia, et se
+                    un solo rompe una volta la lega stabilita tra la maggior parte di loro con
+                    giuramento et che S. A. possi venire in cognitione de li loro pensieri, a poco a
+                    poco si ridurranno non solo al obedientia ma a la cognitione de la vera fede . .
+                    .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

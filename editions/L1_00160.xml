@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00160">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" notAfter="1582-05-21" cert="low" n="1">vermutlich vor
+					1582-05-21</title>
+				<title level="a">160. (Malaspina an Madruzzo) - (1582 vor Mai 21)</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 388r—393v, gleichzeitige
+							Kop.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00160">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658" cert="low">Malaspina,
+						Germanico</persName>
+					<date notAfter="1582-05-21" n="1" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119026724" cert="low">Madruzzo,
+						Ludovico</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_016">Madruzzo,
+						Ludovico - Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00159.xml"
+						>159. Gallio an Malaspina - Rom, 1582 Mai 12</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00161.xml">161.
+						Malaspina an Gallio - Admont, 1582 Mai 21</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_016" target="L2_00001.xml">1. Malaspina an Madruzzo -
+						Salzburg, 1582 Juni 7</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Stand des Religionsgeschäftes in Innerösterreich. Maßnahmen gegen Bürger.
+					Verquickung religiöser Forderungen mit Leistungen für Türkengrenze.
+					Notwendigkeit auswärtiger Hilfe zur Wiederherstellung der katholischen Kirche
+					und der landesfürstlichen Autorität. Beitrag des Reiches für Türkengrenze.
+					Verschiedene Interpretation der von Erzherzog Karl gewährten
+					Religionskonzessionen; gute Aufsichten auf eindeutige Auslegung derselben und
+					Feststellung der von den Häretikern bestrittenen Rechtmäßigkeit des
+					Religionsdekretes durch Fürsten, vor allem den Herzog von Sachsen.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="160">(Malaspina an Madruzzo) - (1582 vor Mai 21)<note xml:id="FN1_00160_01"
+					type="footnote">Empfänger und Datum ergeben sich aus Nr. 161, S. 425.</note>
+			</head>
+			<div>
+				<p>Parerà forse ad alcuni, li quali hanno o veduto o udito quello che è passato ne
+					la dieta che ultimamente ha celebrato il sermo arciduca Carlo,<note
+						xml:id="FN1_00160_02" type="footnote">Steirischer Landtag vom 4. März bis 5.
+						April 1582 (Graz LA, Landtagshandlungen 33, f. 253r—275v).</note>che per
+					essersi l’A. S. opposta così ardentemente a li conati de gli heretici col non
+					haver voluto permettere che non solo li nobili, ma cittadini et popolari et ogni
+					stato de li sudditi suoi ardischino di vilipendere gli ordini et decreti emanati
+					da lei, sia perciò poco neces<pb xml:id="P1_0000415"/>sario di vivere con
+					sollecitudine et timore che’l negotio non sia per havere quel fine et essito che
+					si desidera. <note xml:id="FN1_00160_03" type="footnote">Vgl. Nr. 157, Anm.
+						4.</note>
+				</p>
+				<p>Massime che S. A. espressamente nel decreto, che dopo ’l primo ha publicato a li
+					cittadini et popolari,<note xml:id="FN1_00160_04" type="footnote"
+						>Landesfürstliches Dekret vom 23. April 15S2 bezüglich Verbot des Besuches
+						evangelischen Gottesdienstes durch die Bürger (Loserth, FRA II/50,
+						S.296f.).</note>si è dichiarata che lei per l’avvenire, se quelli dui stati
+					frequentaranno la chiesa et essercitio lutherano, non terrà l’inobedientia per
+					semplice inobedienza nel negotio de la religione, ma per rebellione, la qual
+					cosa non ha operato poco. Poiché se bene non hanno perfettamente obedito,
+					nondimeno pochi di loro sono andati a le prediche ; <note xml:id="FN1_00160_05"
+						type="footnote">Aus „Schwachheit und Schrecken“ haben Bürgermeister, Richter
+						und Schreiber die Einhaltung des Verbotes vom 23. April versprochen, bald
+						aber ihre Zusage widerrufen und weiterhin die evangelische Stiftskirche
+						besucht (Loserth, Reformation und Gegenreformation, S. 377).</note>et si
+					vede un buon principio d’obedienza, se bene è interpellatamente prestata dal
+					publico, il che si deve stimare assai, essendo impossibile in un subito
+					totalmente diradicare l’arbore, che ha fatto, con un lungo spatio di tempo, così
+					profonde et intricate radici.</p>
+				<p>Ma chi vuole ben mettere le mani ne le cicatrici, che ha questo negotio, et
+					ponderare le circonstantie sue et le consequentie, che tira seco, verrà in
+					cognitione che da parte di S. Bne bisogna ancora di presente andar caminando et
+					ne l’offerire aiuti, ma molto maggiormente nel farsi solo et unico auttore del
+					negotio molto per gradi et circonspettamente. Perché quanto più pare, che, per
+					essere l’A. S. andata tanto manzi, difficilmente, quando ancora volesse, si
+					possa ritirare; et quando lo potesse ancora fare senza pregiuditio de
+					l’auttorità sua, non si deve però credere per la promessa che ha fatta al nuntio
+					di non voler mai rivocare quello che ha publicato;<note xml:id="FN1_00160_06"
+						type="footnote">Vgl. Nr. 150, S. 402, und Nr. 157, S. 411.</note>così,
+					presupponendo l’A. S., che tutto quello che ha tentato, sia stato solamente a
+					contemplatione di S. Stà et non d’altri, bisogna prevedere gli essiti che può
+					haver il negotio tractu temporis, et cercare di sollevare quanto più si può in
+					ogni caso che possa avvenire S. Bne, la quale devendo sovvenire in tanti altri
+					membri, la reduttione de’ quali deve altrettanto premere come di questo,
+					difficilmente potrebbe forse sodisfare o al bisogno o a l’appetito di coloro,
+					che faranno giuditio che se le sia grandemente tenuti per haversi messo in
+					pericolo o in apparentia d’esso.</p>
+				<pb xml:id="P1_0000416"/>
+				<p>Et per venire a li particolari : il<note xml:id="SN1_00160_a" type="siglum"
+						>Korrigiert aus del.</note>negotio de la religione havrà perfetta
+					essecutione o non ; se non l’ha, sì come non si potrà ascrivere la colpa a S.
+					A., poiché lei, non ostante che gli heretici li minaccino che abbandoneranno li
+					confini del Turco, che non le daranno altri aiuti ne li particolari suoi
+					interessi, ha più tosto eletto di voler commettere ogni cosa a beneficio de la
+					fortuna, o per dir meglio a la previdenza di Dio, che di retrocedere da quello
+					che ha publicato, così sarebbe appresso di tutti et commendata la pietà et zelo
+					suo, et giudicato che fosse giusto et honesto di darli quelli aiuti, che la
+					necessità del fatto richiedesse. Se da l’altra parte il negotio si
+					perfettionarà, in questo caso ancora, per quanto posso penetrare, ricercaranno
+					aiuti et havranno un pretesto vero, poiché sì come ne l’ultima dieta hanno li
+					provinciali contribuito manco 14 milia fiorini de l’anno passato,<note
+						xml:id="FN1_00160_07" type="footnote"> Vgl. Nr. 157, S. 410.</note>così in
+					ogni dieta si prevede che faranno il medesimo et col tempo l’A. S. difficilmente
+					è per poterli far resistentia lunga, senza aiuti esterni, et quando S. Stà, o in
+					caso che l’inobedientia fosse tale che bisognasse procedere per via regia, <note
+						xml:id="FN1_00160_08" type="footnote">Vgl. Nr. 93, S. 258 f.</note>o quando
+					ancora si essequisse quello che si è principiato, ma che in ogni dieta,
+					restringendo gli heretici le contributioni, venisse a patire l’A. S., le
+					provincie et tutto ’l christianesmo, et che per uno de li dui effetti S. Bne le
+					desse un aiuto continuato, conforme al bisogno, si può facilmente prevedere
+					difficoltà grandissima, perché in caso di espressa inobedienza, chi vorebbe
+					persuadere la Stà S. a porgere lei sola aiuto per contenere per la via regia gli
+					heretici ne la debita obedienza, quando l’imperatore, il sermo arciduca
+					Ferdinando, l’eccmo duca di Baviera, il revmo arcivescovo di Salisburgo, tutti
+					interessati, non solo non offeriscono aiuti, ma dissuadono la via regia, massime
+					dopo d’haver inteso il parere ultimamente dato da la Mtà Ces. Et ne l’altro caso
+					similmente sarebbe da ponderare se fosse espediente, che la Sede Apostolica si
+					obligasse di dare aiuti pecuniarii per anni secondo il bisogno per riempire et
+					supplire al mancamento de la somma, che gli heretici mal sodisfatti non
+					havrebbono voluto contribuire, poiché oltre che se incomincia a farle buono, che
+					non ostante che loro elegghino con danno universale de la Germania et de la
+					christianità di non volere dare quelle contributioni, che per ragione humana et
+					divina sono tenuti più tosto che obedire al loro signore naturale, certo sarà
+					aprire una porta di pessima consequentia, et se loro penetraranno, come<pb
+						xml:id="P1_0000417"/> senza dubio faranno, che S. A. habbia parte del
+					supplimento di quello che loro non vogliono dare, da S. Bne chi fa dubio che per
+					l’odio che hanno a la Sede Apostolica saranno poi sempre ostinatissimi et non
+					vorranno mai più contribuire?</p>
+				<p>Per il che constando da le cose sopradette che’l principe è per haver bisogno,
+					habbiasi, che essito vuole il negotio ; et essendo giusto che egli sia aiutato,
+					et non tenendosi per sicuro che S. Stà sola venghi ad obligatione alcuna per
+					spatio di tempo, et non essendo il principe per restare sodisfatto, come al
+					nuntio ha significato, d’una oblatione generale,<note xml:id="FN1_00160_09"
+						type="footnote">Vgl. Nr. 128, S. 350 f.</note>è necessario di ritrovare mezi
+					che et il negotio si perfettioni non per un breve spatio di tempo, ma per
+					sempre, senza esser allegata et posta la forma, et esser suo in aiuti esterni,
+					et che insieme la Slà di N. S., continuando nel paterno amore verso questo sermo
+					principe et sollecitudine nel sollevare l’afflitto stato di quelle poche
+					reliquie che ci restano di catholici, non pigli carico sopra di sé, che sia
+					continuato, et più tosto per crescere d’anno in anno che per o cessare o
+					diminuire, et ancora governare la prattica in forma che’l sermo arciduca, il
+					quale, per volersi opponere a gli heretici, senza dubio è per patire qualche
+					notabile detrimento, et ne la materia pecuniaria et per mille altri fastidii,
+					che porta seco il negotio, non habbia giusta occasione di pentirsi d’haver a
+					contemplatione di S. Stà tentato quello che ha fatto, ma più tosto si confermi
+					ogni giorno più che l’haver humiliato gli heretici ha essaltato sé stessa et
+					sollevato l’oppressa sua auttorità, massime che non si preclude perciò la via
+					che S. Bne non faccia qualche dimostratione d’animo grato ancora di momento
+					verso l’A. S.; anzi pare che non sia per essere se non attione utilissima per
+					confortarla a perseverare animosamente ne la buona dispositione che è.<note
+						xml:id="FN1_00160_10" type="footnote"> Am 29. September 1582 beglückwünschte
+						Gregor XIII. mittels Breve Erzherzog Karl zu den Bemühungen um die
+						Wiederherstellung der katholischen Religion (Zahn, Correspondenz der Päpste
+						mit dem Hofe zu Graz, S. 75).</note>
+				</p>
+				<p>Hora li mezi sofficienti per perfettionare il negotio ne la forma, che di sopra
+					si è detto, pare che siano tre principali, li quali difficilmente si potrebbeno
+					né essequire né tentare, se non con l’occasione de la dieta imperiale.<note
+						xml:id="FN1_00160_11" type="footnote">Madruzzo führte am Reichstag zu
+						Augsburg eingehende Gespräche mit Erzherzog Karl (Hansen, Nuntiaturberichte
+						III/2, S. 449—451 und 482 f.).</note>Et perciò bisogna mettere ogni studio,
+					diligentia et solicitudine, acciò non passi senza frutto così opportuna
+					commodità, il che si farà, se si procurarà che si venghi ad una matura<pb
+						xml:id="P1_0000418"/> consulta con la Mtà Ces., col sermo arciduca
+					Ferdinando <note xml:id="FN1_00160_12" type="footnote">Erzherzog Ferdinand von
+						Tirol kam trotz Bemühungen Roms nicht zum Reichstag (Hirn, Erzherzog
+						Ferdinand II, S. 130 f.; Hansen, Nuntiaturberichte III/2, S. 384, 401,
+						428—431).</note>et eccmo duca di Baviera et altri principi o loro
+					consiglieri, a quali esponendosi fedelmente il stato del negotio si deveranno
+					proponere li mezi pensati et ascoltare li pensieri et pareri loro, et
+					col’auttorità et singoiar giuditio de l’illmo legato si potrà dirigere tutta
+					questa prattica in quel miglior modo che a S. S. Illma parerà. Et questo è la
+					più essentiale et importante cosa, che si deve da principio tentare, poiché di
+					questo si può promettere che’l sermo arciduca Carlo non si rimoverà punto dal
+					parere et consiglio di quelli potentati, et si devrà osservare in tutta la
+					trattatione del negotio con quelli signori di approvare più volentieri li loro
+					pareri, che quelli che usciranno da la parte di S. Stà, ancorché non fossero
+					tanto buoni. Il che si ricorda et per quello che di sopra si è detto, et perché
+					li ministri di S. Bne hanno poi maggior occasione di instar, acciò si perseveri
+					animosamente nel perfettionare quello che loro non solo hanno approvato, ma ne
+					sono stati auttori.</p>
+				<p>Ma venendo hora al primo mezo, si deve presupporre che, havendo l’arciduca Carlo
+					un’ottima intentione et zelo verso la religion catholica, niuna cosa impedisce
+					la buona volontà sua, se non il rispetto de li confini col Turco, et ciò non per
+					altro se non che havendo li sudditi di lei privileggii di esentioni da
+					imperatori, et presupponendo perciò di non essere tenuti se non spontaneamente a
+					le contributioni, et essendo la loro cecità tanto deploranda, che a le volte
+					ardiscono in scritto et in voce dire che più tosto che patire d’essere molestati
+					in conscienza eleggono di esponere et loro et tutto ’l paese a la tiranide del
+						Turco;<note xml:id="FN1_00160_13" type="footnote">Vgl. Nr. 74, Anm. 28, und
+						Nr. 157, S. 410.</note>per il che in ogni dieta è stato loro costume non
+					solo di non permettere che’l principe restringesse quello che loro si erano
+					usurpati in materia di religione, ma hanno sempre superbamente instato che le
+					concessioni permesse li fossero ampliate, onde di presente che l’A. S. si è
+					accorta che, per haverli alcune volte compiacciuti, insieme col’offendere Dio S.
+					N. è andata ancora perdendo totalmente l’auttorità et potestà sua temporale, si
+					è cominciata ad opponersi a le impie loro domande et ha dichiarata la volontà
+					sua. Et loro, avezzi di ottenere ciò che volevano, li par perciò il fatto
+					altrettanto duro et come nuovo et, non potendo mostrare la loro mala
+					sodisfattione et intentione in altro, ricorreno a l’unico loro rifugio di non
+					voler contribuire o cosa alcuna o quel tanto che è necessario per guardare<pb
+						xml:id="P1_0000419"/> et diffendere li confini. Et il principe, non potendo
+					egli solo interpretare o rivocare li loro privilegii, non può per tal
+					impedimento farsi obedire, onde si giudica che non sarebbe se non utilissimo non
+					solo per l’arciduca Carlo, ma ancora per S. Mtà Ces., per le provincie
+					d’Austria, le quali anco esse si vagliono del medesimo scudo, che ne la dieta
+					imperiale si facesse una dichiaratone, come si deveno intendere li privileggii
+						concessi,<note xml:id="FN1_00160_14" type="footnote"> Ist nicht
+						geschehen.</note>la quale fosse publicata a le provincie, et minatoriamente
+					commandato a non recalcitrare, ma essere obedienti sudditi. Et l’imperio lo
+					potrebbe tanto più canonicamente fare, essendo che a nessuno può cader in mente
+					li privileggii essere stati concessi per togliere potestà a li principi, che non
+					possino sforzare li sudditi a diffóndere la patria tanto cara da la tirannide
+					del Turco, poiché oltre che questa è cosa contra ogni ragione humana et divina
+					et contra li istessi imperatori in quelli tempi, che li privilegii furno
+					concessi, non confinavano queste provincie col Turco, et si vede chiaramente da
+					le parole de li privileggii, che solamente si estendono ad impositioni, come
+					gabelle, datii et simili, <note xml:id="FN1_00160_15" type="footnote">Befreiung
+						von Abgaben wußten sich besonders kirchliche Anstalten zu verschaffen. Die
+						adeligen Gutsbesitzer waren wegen ihrer persönlichen Verpflichtung zum
+						Kriegsdienst ursprünglich steuerfrei. Kaiser Friedrich III. suchte im
+						Bedarfsfall eine Steuerbewilligung vom Landtag zu erwirken und stellte dafür
+						jeweils einen Schadlosbrief aus, der verhindern sollte, daß solche
+						Bewilligungen später die Rechte des Landes präjudizieren könnten (Mensi,
+						Geschichte der direkten Steuern I, S. 9—12).</note>et li principi de
+					l’imperio sono tenuti anco per proprio interesse a finire così lunga disputa,
+					nata per conto di tali privileggii, poiché se li confini di questi paesi col
+					Turco patiranno, tutto l’imperio ne sentirà la sua parte, et se l’arciduca Carlo
+					perderà totalmente l’auttorità et li sudditi il respetto verso l’A. S., come
+					hormai hanno fatto, sarà un specchio et essempio a li sudditi de gl’altri
+					principi di seguire le vestigie et norme loro.</p>
+				<p>Et quanto più par gran cosa che solo li sudditi de la serma famiglia d’Austria
+					habbino cominciato a non voler esser retti secondo le constitutioni de l’imperio
+					in materia di religione, et che ciò li venghi fatto senza contradittione, così
+					gl’altri principi deveno ragionevolmente dubitare che’l medesimo non intravenghi
+					a loro. Et se’l duca di Sassonia ha detto a l’arciduca Carlo che se non si fosse
+					fatta quella pacificatione imperiale, che la dispositione de la religione sit
+					penes principes non subditos, che nessun principe potrebbe governare le sue
+					provincie per tante diverse sette, chi non si moverà a compassione<pb
+						xml:id="P1_0000420"/> del sermo arciduca Carlo ne le provincie, del quale
+					sotto spetie d’evangelio et poro verbo di Dio tutte le heresie, che sono et per
+					Germania et per altri luochi sparse, hanno fatto il nido, di modo che più volte
+					l’istesso duca di Sassonia si è lamentato che gli heretici, che da lui sono
+					scacciati, subito sono accettati, favoriti et promossi al predicare da li nobili
+					di queste provincie.<note xml:id="FN1_00160_16" type="footnote"> Während
+						Kurfürst August in Sachsen nur die strenge lutherische Richtung zuließ, war
+						man in Österreich bei der Aufnahme der aus verschiedenen deutschen
+						Territorien ausgewiesenen oder geflüchteten Prädikanten nicht sehr
+						vorsichtig (Eder, Studien zur Reformationsgeschichte Oberösterreichs II, S.
+						173 f.).</note>
+				</p>
+				<p>Quello che secondariamente si mette in consideratione per trattarsi ne la dieta
+					imperiale a sollevatione de la religione et per reprimere l’insolentia degli
+					heretici è che sempre è stato solito che le provincie del sermo arciduca Carlo
+					domandano a l’imperio aiuto per diffendere li confini et fanno tal richiesta
+					come membri de l’imperio et come negotio d’interesse publico, et di più
+					stringono ad un certo modo l’imporio, che sempre si obliga per un certo spatio
+					di tempo di contribuire, et per una certa somma di danari.<note
+						xml:id="FN1_00160_17" type="footnote">Vgl. Nr. 74, Anm. 28, und Nr. 128,
+						Anm. 9.</note>Et hora essendo fornito il tempo, ha S. A. et le provincie da
+					fare instantia, che sia rinovata l’obligatione di contribuire. Hora li sudditi
+					de l’arciduca Carlo si rinborsano le contributioni de l’imperio, et poi, a loro
+					capriccio, contribuiscono o non contribuiscono, massime sotto il pretesto de la
+					religione. <note xml:id="FN1_00160_18" type="footnote">Das stimmt nicht. Die
+						innerösterreichischen Länder haben sehr große Opfer für die Verteidigung der
+						Türkengrenze gebracht. Der Reichstag von 1582 hat zwar eine ansehnliche
+						Reichshilfe beschlossen, aber noch im Jahre 1592 hatten etliche Reichsstände
+						ihren Anteil bei weitem nicht ganz bezahlt (Loserth, Innerösterreich und die
+						militärischen Maßnahmen gegen die Türken im 16. Jahrhundert, S. 115
+						f.).</note>Per il che, conforme a la loro petitione fatta a l’imperio,
+					sarebbe opera degna di quelli potentati che li rispondessero. Nel che prima si
+					deve osservare che loro si chiamano membri de l’imperio et come membri domandano
+					aiuto, et però ogni ragione vuole che, essendo membri de l’imperio, vivino
+					conforme a le leggi de l’imperio, le quali vogliono che sia osservata la
+					pacificatione emanata da esso in materia di religione, cosa che loro non
+					vogliono fare. Però inanzi che prometterli aiuto sarebbe bene di farli
+					dichiarare se vogliono vivere come fanno gli altri membri de l’imperio. Et se
+					dicono che sì, prescriverli et insegnarli quale sia l’officio di veri membri de
+					l’imperio; se dicono di no, in questo caso, oltre che l’imperio non è tenuto di
+					porgere aiuti, se non a li membri suoi, et sarebbeno perciò con ragione <pb
+						xml:id="P1_0000421"/>privi di così grande aiuto, bisognarebbe ancora fare
+					qualche notabile risentimento contra di loro o almeno contra la persona de li
+					loro ambasciatori. Di più loro vogliono che l’imperio si oblighi per alcuni anni
+					et d’una certa somma; et da l’altra parte loro non vogliono né obligarsi per
+					alcun spatio di tempo né per somma alcuna determinata, et di questo modo
+					l’imperio viene ad essere di peggior conditione che loro, et più de le volte
+					defraudato ne la dispensatione de li danari, mantenendo loro tutti li settarii,
+					scole et essercitio con li danari communi per li confini. <note
+						xml:id="FN1_00160_19" type="footnote">Vgl. Nr. 74, Anm. 22.</note>Onde se
+					quelli principi si potessero persuadere a risentirsi di questo et pigliando il
+					pretesto d’haver inteso quello che è passato ne le dui diete ultimamente
+					celebrate, et come gli heretici non hanno voluto contribuire, se’l principe non
+					li concede ciò che loro domandano, <note xml:id="FN1_00160_20" type="footnote"
+						>Vgl. Nr. 157, Anm. 4.</note>et constando quello che in questo particolare
+					passa, del che se li darebbe sofficienti informationi tanto circa la religione,
+					et nuove heresie introdotte et altri abusi, quanto circa il politico de la
+					oppressa auttorità di S. A., che quelli principi oltre al deprimere la
+					impudentia di costoro in quella forma migliore, che fosse giudicata, si
+					dichiaressero di non volere che la sicurezza o non sicurezza de gli confini
+					consista in capriccio di alcuni et sia alligato al negotio de la religione, ma
+					che sì come l’imperio senza conditione alcuna si obliga, che così vogliono che
+					loro facciano il medesimo, et sì come promettono per un certo spatio di tempo
+					che molto maggiormente l’habbino da fare essi, et sì come a loro piace et tanto
+					instanno di sapere la certa somma, che altrettanto preme a l’imperio di sapere
+					ciò che loro vogliono et pensano di contribuire, et che non ogni anno, per
+					particolari disgusti et capricci, si alteri et diminuisca con notabile et
+					publico pericolo quello che ragionevolmente et secondo le leggi divine et humane
+					sono tenuti di dare; et quando loro non vogliono acquetarsi a questo che manco
+					l’imperio vuole contribuire, sarebbe dico attione che troncarebbe tutti intoppi,
+					che si potessero ritrovare ne la trattatione del negotio, che si ha per le
+					mani.</p>
+				<p>Il terzo et ultimo modo di perfettionare quello che di presente ha publicato il
+					sermo arciduca Carlo non ha in sé né da parte di S. A., né da parte de gli
+					heretici difficoltà di momento, poiché loro l’hanno ricercato et il principe può
+					sicuramente permettere che si faccia, et è che si nominino alcuni potentati, li
+					quali habbino da dichiarare se il decreto ultimamente publicato è contrario a le
+					concessioni de<pb xml:id="P1_0000422"/> l’A. S., <note xml:id="FN1_00160_21"
+						type="footnote">Die Bürger beriefen sich gegen das landesfürstliche Dekret
+						vom 23. April 1582 vor allem auf die ihnen bereits von Ferdinand I. 1541 und
+						schließlich am Brucker Generallandtag 1578 zugestandene Ausübung der
+						evangelischen Religion (Loserth, FRA II/50, S. 297—299).</note>et in questo
+					proposito si ha da presupponere per verissimo, che Farciduca non ha mai usato
+					vocabolo se non di permissione per tolerantia, aggiongendovi insino che piacerà
+					al Signor Dio et conditionalmente, se loro non molestaranno li catholici, et che
+					si diportino nel resto da veri et obedienti sudditi, et che stiano dentro del
+					prefisso termine de le tolerantie. Loro non hanno osservato nessuna de le
+					conditioni, anzi si tocca con mano che li fini, per li quali S. A. ne le
+					concessioni allega di moversi a tolerare l’essercitio loro, non solo non si è
+					ottenuto, ma dopo et nel politico et nel spirituale le cose sono andate di male
+					in peggio, et si daranno a suo tempo in questo particolare mille miserabili et
+					deplorandi essempi. Per il che ogn’uno può far giuditio che, non havendo loro
+					osservato le conditioni prefisse, il principe è libero da la sua conditionata
+					promessa. Ma dato et non concesso, che sia tenuta ancora l’A. S. a osservare
+					quello, che ha per tolerantia permesso per vigore de le parole de le
+					concessioni, lei non revoca per il decreto né in parte, né in tutto quello che
+					ha concesso.</p>
+				<p>Et si ha da sapere che tutta la difficoltà tra S. A. et loro consiste ne le
+					seguenti parole: da una parte S. A. dice: Io riservo a la mia dispositione,
+					quanto a la religione, tutte le città, castelli etc. et in esse non voglio che
+					si predichi né si esserciti altra fede che la catholica Romana. Permetto però
+					che in Gratz et tre altre città li dui stati di nobili et baroni possano per
+					loro et moglie etc. haver un predicatore de la loro asserta religione. Ne la
+					medesima concessione dice : Possono essere sicuri li cittadini et popolari che
+					io non li molestarò mai in conscientia, né li toccarò per tal effetto un pelo de
+					la testa.<note xml:id="FN1_00160_22" type="footnote">Als will ich die burger
+						auch nit beschwären in iren gewissen, wie ich inen dann bisheer von wegen
+						der religion nit ein harl gekrümbt; das will Ich hinfüran auch nit thuen:
+						aber dass sie ires gefallens in die stett und markt predicanten aufnemen
+						sollen, das kan Ich auch nit leiden ; aber sie will Ich in iren gewissen
+						unbekumert lassen, darauf mügen sie sich wol verlassen (Loserth,
+						Religionspacification, S. 90 f.).</note>Gli heretici fanno il loro
+					fondamento sopra questa ultima clausula et dicono perciò che per essa il decreto
+					ultimamente publicato viene a contravenire a le promesse et concessioni fatte.
+					Da la parte di S. A. si risponde che no, che l’A. S. ha inteso con quelle parole
+					di assicurarli, che lei non è per sforzare né castigare li cittadini et popo<pb
+						xml:id="P1_0000423"/>lari se non frequentaranno la chiesa catholica, et che
+					a lei basta che non si predichi ne le sue città altra fede che la Romana,
+					eccettuando quelle quattro per li baroni et nobili, et che li cittadini et
+					popolari non habbiano né direttamente né indirettamente l’uso de l’essercitio
+					lutherano. A questo li cittadini replicano che con simil dichiaratione di S. A.
+					per quella ultima clausula non li viene concesso cosa alcuna, poiché loro non
+					possono vivere come bestie, senza sacramenti et altri riti christiani, et che la
+					cosa loro si ridurrebbe ad un atheismo. Et da S. A. li viene di novo risposto,
+					che di questo lei non ha colpa, ma loro istessi per essersi spontaneamente
+					separati da la fede et religione antica, et che le chiese sono aperte et li
+					sacerdoti d’esse apparecchiati per riceverli; onde oltre che quando ancora fosse
+					qualche dubio o apparentia di contradittione ne le parole de le concessioni,
+					toccarebbe per vigore d’ogni legge a colui che le ha proferto d’interpretarle ;
+					sono per sé stesse tanto chiare, che si potrebbe sperare che, quando l’istesso
+					duca di Sassonia devesse egli essere il giudice, che non potrebbe se non dare la
+					sententia in favore di S. A.</p>
+				<p>Hora sovviene una difficoltà, cioè chi deve ricercare che si venghi a questo. Il
+					principe non lo farà, perché li parerà di metterci de l’auttorità sua, essendo
+					egli assoluto signore et per altre cause. Gli heretici, se bene hanno detto più
+					volte che lo desiderano, non dimeno non credo che ardiranno di mettere in
+					essecutione il loro pensiero. Da la parte di S. Bne ancora sono alcune degne
+					considerationi. Però sarebbe necessario con destro et secreto modo operare che
+					l’imperatore o alcun altro principe, mostrando di farlo di proprio moto, si
+					movesse ad interponersi et, come cosa pensata da la Mtà S., proponerla et senza
+					dubio havrebbe felice essito. La Mtà de l’imperatore si devrà movere tanto più
+					prontamente a pigliare questo negotio sotto la protettione sua, poiché lei è
+					stata auttore, che l’A. S. rimovendosi dal decreto già dui anni publicato<note
+						xml:id="FN1_00160_23" type="footnote">Nr. 50.</note>ha fatto questo, il
+					quale è in ogni cosa conforme al parere de la Mtà S. <note xml:id="FN1_00160_24"
+						type="footnote">Vgl. Nr. 62.</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,202 +1,206 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_207.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-03-31" n="1">1601-03-31</title>
-                    <title level="a">207.1. San Giorgio an Portia - Rom, 1601 März 31</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 55r–56v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_207.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-03-31" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_206.1.xml">206.1. Portia an Aldobrandini - Graz, 1601 März 26</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_208.1.xml">208.1. Portia an Aldobrandini - Graz, 1601 April 2</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_205.2.xml">205.2. San Giorgio an
-                            Portia - Rom, 1601 März 24</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_209.1.xml">209.1. San Giorgio an
-                            Portia - Rom, 1601 April 7</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Der Heilige Stuhl bedauert, dass Erzherzog Ferdinand durch sein zögerliches
-						Vorgehen einen militärischen Erfolg gefährdet. Der Abhandlung des Jesuiten
-						Martín de Funes hinsichtlich der Möglichkeiten der Geldbeschaffung für die
-						Kriegsführung ist nicht in allem zuzustimmen, doch wurde sie an erfahrene
-						Personen weitergeleitet. Man verfügt über Informationen, dass der
-						wahrscheinlich ungültig gewählte Prior von Lüders/Lure [Mugnans] sein Amt
-						unter unzulässigen Bedingungen an Erzherzog Leopold abtreten möchte. Die
-						Kurie ergreift Partei für den erwählten Abt von Murbach [Kalkenriedt] und
-						hofft, dass Erzherzog Leopold bald an anderem Ort zum Zug kommt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="207.1">San Giorgio an Portia - Rom, 1601 März 31</head>
-				<div>
-					<p>S’intendono volontieri tutte le particolarità che appartengono alla guerra,
-						si è inteso in spetie il ragionamento che haveva passato con V. S. il
-						Generale di Schiavonia<note xml:id="FN5_207.1_01" type="footnote">Hans
-							Sigmund von Herberstein: vgl. Nr. 72.1.</note> intorno ai pericoli in
-						che sono le cose dell’Arciduca et al modo di prevenirli. Et se bene dobbiamo
-						credere che S. A. si trovi in difficoltà non ordinarie, la verità è
-						nondimeno che l’A. S. sì come stando otiosa toglierà l’animo et l’ardire
-						agl’altri, così movendosi et facendo quello almeno che il mondo può
-						giudicare essere in sua facoltà lo accrescerà et accrescerà a sé medesima
-						seguito et riputatione, il che non lascierà V. S. di ricordare
-						opportunamente. Agl’altri particolari ch’ella dice pure spettanti alla
-						guerra non ci è che rispondere benché sia piacciuto il sentirli tutti. Et
-						quanto alla scrittura del P. Martino Funos della Compagnia del Giesù<note xml:id="FN5_207.1_02" type="footnote">Martín de Funes (1560–1611), SJ
-							(1577), nach seinem Studium in Salamanca unterrichtete er von 1587–1595
-							in Graz Theologie und veröffentlichte mehrere Abhandlungen. Im Anschluss
-							an seine Lehrtätigkeit in Mailand setzte er 1604 nach Amerika über, um
-							die Vizeprovinz des neuen Königreichs von Granda y Quinto zu gründen.
-							Erster Superior des Kollegs in Bogotá (1604–1606): vgl. SOMMERVOGEL 3,
-							Sp. 1067f.; DHCJ 2, S. 1542f.</note>, se bene vi si vedono mol<pb xml:id="P5_0000468"/> te cose che riescono più in discorso che non
-						riuscirebbero nella esecutione, si considererà nondimeno con maturità, et si
-						è data a vedere quella parte che riguarda al congregar danari che come sa
-						ogn’uno è sempre il nervo degl’eserciti a persone perite in simili materie
-						delle quali si havrà il parere.</p>
-					<p>È un pezzo che qui ancora si hebbe nuova che a Luders era desiderata la
-						persona dell’Arciduca Leopoldo, non che i Monaci lo volessero eleggere in
-						loro Abbate, ma che il loro Priore che si pretendeva già eletto volesse
-						cederli la sua elettione con alcuni patti da non essere né admessi né
-							sentiti<note xml:id="FN5_207.1_03" type="footnote">Claudius von Mugnans
-							(Prior des Klosters Lüders/Lure), wurde Anfang 1601 gegen den in Murbach
-							gewählten Abt Kalkenriedt von den Kapitularen des Klosters Lüders/Lure
-							zum neuen Abt erklärt. Er bot sein Anrecht auf die Abteien Eh. Leopold
-							unter der Bedingung an, für sich die Koadjutorie und 2.000 Gulden
-							Jahresgehalt behalten zu dürfen. 1602 erfolgte die päpstliche
-							Bestätigung Kalkenriedts, der in der Folge die de.finitive
-							Zusammenlegung der Kloster Murbach und Liiders/Lure erreichen konnte:
-							vgl. GATRIO, S. 270. Vgl. Nr. 185.1, 252.2, 269.1, 273.1.</note>. A due
-						difficoltà si restringe hora il negotio, ciascuna delle quali è atta a farlo
-						svanire: l’una è che la elettione fatta in favore del Priore sodetto non sia
-						buona come siamo quasi chiari che non sia, l’altra che essendo unita
-						l’Abbatia di Luders a quella di Murbach con l’autorità Apostolica non vi
-						possa essere che quel solo Abbate che si dice esser già stato eletto
-						canonicamente a Murbach<note xml:id="FN5_207.1_04" type="footnote">Johann
-							Georg von Kalkenriedt: vgl. Nr. 195.1.</note>, della sussistenza et
-						validità della quale unione si conosce al presente. Et sì come non si ha da
-						dubitare che N. S. non sia per gratificare a quel Principe in quello che
-						giustamente potrà, così sente S. B.ne dispiacere nelle difficoltà che vi
-						conosce ch’egli non fosse aiutato meglio dalla parte dell’Imperatore quando
-						lo richiedeva il tempo. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_207.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-03-31" n="1">1601-03-31</title>
+                <title level="a">207.1. San Giorgio an Portia - Rom, 1601 März 31</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 55r–56v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_207.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-03-31" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_206.1.xml"
+                        >206.1. Portia an Aldobrandini - Graz, 1601 März 26</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_208.1.xml">208.1.
+                        Portia an Aldobrandini - Graz, 1601 April 2</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_205.2.xml">205.2. San Giorgio an
+                        Portia - Rom, 1601 März 24</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_209.1.xml">209.1. San Giorgio an
+                        Portia - Rom, 1601 April 7</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Der Heilige Stuhl bedauert, dass Erzherzog Ferdinand durch sein zögerliches
+                    Vorgehen einen militärischen Erfolg gefährdet. Der Abhandlung des Jesuiten
+                    Martín de Funes hinsichtlich der Möglichkeiten der Geldbeschaffung für die
+                    Kriegsführung ist nicht in allem zuzustimmen, doch wurde sie an erfahrene
+                    Personen weitergeleitet. Man verfügt über Informationen, dass der wahrscheinlich
+                    ungültig gewählte Prior von Lüders/Lure [Mugnans] sein Amt unter unzulässigen
+                    Bedingungen an Erzherzog Leopold abtreten möchte. Die Kurie ergreift Partei für
+                    den erwählten Abt von Murbach [Kalkenriedt] und hofft, dass Erzherzog Leopold
+                    bald an anderem Ort zum Zug kommt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="207.1">San Giorgio an Portia - Rom, 1601 März 31</head>
+            <div>
+                <p>S’intendono volontieri tutte le particolarità che appartengono alla guerra, si è
+                    inteso in spetie il ragionamento che haveva passato con V. S. il Generale di
+                        Schiavonia<note xml:id="FN5_207.1_01" type="footnote">Hans Sigmund von
+                        Herberstein: vgl. Nr. 72.1.</note>intorno ai pericoli in che sono le cose
+                    dell’Arciduca et al modo di prevenirli. Et se bene dobbiamo credere che S. A. si
+                    trovi in difficoltà non ordinarie, la verità è nondimeno che l’A. S. sì come
+                    stando otiosa toglierà l’animo et l’ardire agl’altri, così movendosi et facendo
+                    quello almeno che il mondo può giudicare essere in sua facoltà lo accrescerà et
+                    accrescerà a sé medesima seguito et riputatione, il che non lascierà V. S. di
+                    ricordare opportunamente. Agl’altri particolari ch’ella dice pure spettanti alla
+                    guerra non ci è che rispondere benché sia piacciuto il sentirli tutti. Et quanto
+                    alla scrittura del P. Martino Funos della Compagnia del Giesù <note
+                        xml:id="FN5_207.1_02" type="footnote">Martín de Funes (1560–1611), SJ
+                        (1577), nach seinem Studium in Salamanca unterrichtete er von 1587–1595 in
+                        Graz Theologie und veröffentlichte mehrere Abhandlungen. Im Anschluss an
+                        seine Lehrtätigkeit in Mailand setzte er 1604 nach Amerika über, um die
+                        Vizeprovinz des neuen Königreichs von Granda y Quinto zu gründen. Erster
+                        Superior des Kollegs in Bogotá (1604–1606): vgl. SOMMERVOGEL 3, Sp. 1067f.;
+                        DHCJ 2, S. 1542f.</note>, se bene vi si vedono mol<pb xml:id="P5_0000468"
+                    />te cose che riescono più in discorso che non riuscirebbero nella esecutione,
+                    si considererà nondimeno con maturità, et si è data a vedere quella parte che
+                    riguarda al congregar danari che come sa ogn’uno è sempre il nervo degl’eserciti
+                    a persone perite in simili materie delle quali si havrà il parere.</p>
+                <p>È un pezzo che qui ancora si hebbe nuova che a Luders era desiderata la persona
+                    dell’Arciduca Leopoldo, non che i Monaci lo volessero eleggere in loro Abbate,
+                    ma che il loro Priore che si pretendeva già eletto volesse cederli la sua
+                    elettione con alcuni patti da non essere né admessi né sentiti<note
+                        xml:id="FN5_207.1_03" type="footnote">Claudius von Mugnans (Prior des
+                        Klosters Lüders/Lure), wurde Anfang 1601 gegen den in Murbach gewählten Abt
+                        Kalkenriedt von den Kapitularen des Klosters Lüders/Lure zum neuen Abt
+                        erklärt. Er bot sein Anrecht auf die Abteien Eh. Leopold unter der Bedingung
+                        an, für sich die Koadjutorie und 2.000 Gulden Jahresgehalt behalten zu
+                        dürfen. 1602 erfolgte die päpstliche Bestätigung Kalkenriedts, der in der
+                        Folge die de.finitive Zusammenlegung der Kloster Murbach und Liiders/Lure
+                        erreichen konnte: vgl. GATRIO, S. 270. Vgl. Nr. 185.1, 252.2, 269.1,
+                        273.1.</note>. A due difficoltà si restringe hora il negotio, ciascuna delle
+                    quali è atta a farlo svanire: l’una è che la elettione fatta in favore del
+                    Priore sodetto non sia buona come siamo quasi chiari che non sia, l’altra che
+                    essendo unita l’Abbatia di Luders a quella di Murbach con l’autorità Apostolica
+                    non vi possa essere che quel solo Abbate che si dice esser già stato eletto
+                    canonicamente a Murbach<note xml:id="FN5_207.1_04" type="footnote"> Johann Georg
+                        von Kalkenriedt: vgl. Nr. 195.1.</note>, della sussistenza et validità della
+                    quale unione si conosce al presente. Et sì come non si ha da dubitare che N. S.
+                    non sia per gratificare a quel Principe in quello che giustamente potrà, così
+                    sente S. B.ne dispiacere nelle difficoltà che vi conosce ch’egli non fosse
+                    aiutato meglio dalla parte dell’Imperatore quando lo richiedeva il tempo. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

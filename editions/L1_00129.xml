@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00129">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" notAfter="1581-12-06" cert="low" n="1">vermutlich vor
+                    1581-12-06</title>
+                <title level="a">129. (Graz, 1581 vor Dezember 6)</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 374r—375v und 381r—382v, zwei
+                            gleich-<lb/>zeitige Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00129">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date notAfter="1581-12-06" n="1" cert="low"/>
+                    <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00128.xml"
+                        >128. Malaspina an Erzherzog Karl - Graz, 1581 vor November 27</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00130.xml">130.
+                        Malaspina an Gallio - Graz, 1581 Dezember 6</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Von Malaspina verfaßte Schrift über die Gewissensverpflichtung des Fürsten zum
+                    Religionsgeschäft.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="129">(Graz, 1581 vor Dezember 6)<note xml:id="FN1_00129_01" type="footnote">Das
+                    Datum ergibt sich aus dem Bericht Malaspinas vom 6. Dezember (Nr. 130), mit dem
+                    er diese Schrift übersendet mit der Mitteilung, daß er sie für die zu erwartende
+                    Weihnachtsbeichte Erzherzog Karls verfaßt und dessen Beichtvater übergeben
+                    habe.</note>
+            </head>
+            <div>
+                <p>Cum consiliarii, qui a secretis sunt S. Sertis nemine penitus discrepante
+                    consideratis mature considerandis in eam tandem sententiam devenerint,<note
+                        xml:id="FN1_00129_02" type="footnote">Vgl. Nr. 123.</note>quem ad modum
+                    Sertem S. fideliter admonuerunt, non reliquas solum, quae supersunt fidei
+                    catholicae sed nec potestatem auctoritatemque S. Celnis temporalem sibi a Deo ad
+                    has provincias gubernandas traditam diutius eodem, quo nunc est, statu propter
+                    religionis varietatem posse manere, id quod luce clarius est et rerum magistra
+                    experientia non dubio exitu quotidie docet, nemo non facile videt, Sertem S.
+                    divina et humana lege <note xml:id="FN1_00129_03" type="footnote">Vgl. Nr. 60,
+                        S. 174, und Nr. 79, S. 217.</note>teneri nihil non aggredi, moliri et
+                    perpeti, ut religionem catholicam ab haereticorum barbarie vitiatam et oppressam
+                    in pristinum integritatis statum pro virili vindicet atque conservet et
+                    auctoritatem suam iam omnino afflictam et labefactatam recuperet, ne sine causa
+                    videatur gladium a Deo sibi concreditum ad vindictam malorum et bonorum
+                    conservationem frustra portare.</p>
+                <p>Quae cum ita se habeant, videre primum oportet, quid principi <pb
+                        xml:id="P1_0000356"/>agendum sit, quaque via et ratione procedendum, ut ad
+                    id, quod intenditur, possit pervenire. Princeps vel domesticis vel esternis
+                    consiliis vult fidem adhibere, si cum externis cohaeret iam et nunc satis
+                    superque cum principibus deliberatum fuit et ab iis modus procedendi in negocio
+                    ita clare praescriptus, ut errari difficile possit. Fuit quoque consultum cum
+                    Summo Pontifice nec fuit, qui non iudicaverit negotium recte et ex sententia
+                    confici posse dummodo, Sertas S. pie aggrediatur et viriliter pergat, et S. Stas
+                    non consilio solum, sed ope etiam auxilio ita prospexit in praesenti, et etiam
+                    pollicita est inposterum, se quotiescunque necesse fuerit,<note
+                        xml:id="FN1_00129_04" type="footnote"> Vgl. Nr. 1, Anm. 26, und Nr. 93, S.
+                        258.</note>omnibus Sertis S. rebus praesto futuram, ut non temere sperandum
+                    sit, quin negotium eum, quem optamus exitum habiturum sit, si domesticis quoque
+                    consiliariis vult adhaerere, ipsi licet ea fuerint mente et sententia, ut
+                    priusque collocaretur praesidium tentaretur an vellent salutaribus S. Stis
+                    monitis morem gerere, omnes tamen iugiter senserunt, si principis decreto
+                    publicando heretici non acquiescerent, Sertem S. debere omnino praesidium ponere
+                    statuumque facere separationem.</p>
+                <p>Quare ex iis, quae supra commemorata sunt, facile colligitur principem in
+                    conscientia tutum esse non posse, quo minus si forte evenerit, ut heretici non
+                    obtemperent, ipse tunc faciat separationem praesidiumque ponat, et hoc principi
+                    obscurum esse non debet. Atque a nobis ita dictum volumus, ne si aliquis, ut non
+                    temere timendum est, in religione claudicans nova proponeret deliberataque et S.
+                    Sti per literas sancte promissa pervertere atque dissolvere conaretur
+                    negociumque in longinquum vel potius in perpetuum producere,<note
+                        xml:id="FN1_00129_05" type="footnote">Diesbezügliche Schreiben Erzherzog
+                        Karls von 1578 nach der Brucker Pazifikation und von 1581 nach der
+                        Suspendierung des Religionsdekretes (Arch. Vat. Principi 36, f. 153r;
+                        Loserth, FRA II/50, S. 2—3 und 241—243).</note>eidem principis aures ullo
+                    modo patere debeant et hac una in re potissimum omnis difficultas et discrimen
+                    consistit, nam illud nihil aliud esset quam quaerere excusationes vanas in
+                    peccatis, et principes et praecipue S. Stas facile perciperent, quod una sublata
+                    difficultate statim altera emergit non zelo Dei, sed tantum ut nihil in negotio
+                    perficiatur. Veruntamen cum ea sit pietas Sertis S. ea in catholicam religionem
+                    animi propensio, qua maior desiderari non potest, nemini dubium est, quin omnia
+                    alacri constantique animo effectura sit, cum incongruum sit, atque indecorum
+                    principes per legatos consulere, et mox eorum auditum salutare consilium propter
+                    pravam privatorum homininum opinionem contemnere.</p>
+                <pb xml:id="P1_0000357"/>
+                <p>Non improbo tamen, licet principem tam egregie in catholicam religionem affectum
+                    habeamus, ut ea tantum moliamur ac aggrediamur, quae non aliena duxerimus ab hac
+                    depravatorum temporum deploranda conditione quae dissimulare in nonnullis rerum
+                    et locorum et opportunitatum sive importunitatum ratione fortasse prudentis
+                    censeri poterit et feliciter confici posse videbuntur, ne dum aniversa appetimus
+                    simul deinceps nihil adipiscamur, et enim tametsi haeresum pravitas penitus
+                    reprimenda et abolenda a nobis esset, tamen cum id neque nostra opera neque
+                    humano consiglio nunc assequi mereamur, certum est Deum Optimum Maximum ea, quae
+                    vere nostras vires excedunt, minime postulare, parati nihilominus esse debemus,
+                    ut quoties feret occasio, eam e medio prorsus tollere enitamur. Non enim
+                    coniventia vel tollerantia uti possumus, nisi evidens necessitas ita requirere
+                    videatur, sublata autem necessitate tenemur omnem quoque coniventiam et
+                    tollerantiam relinquere.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

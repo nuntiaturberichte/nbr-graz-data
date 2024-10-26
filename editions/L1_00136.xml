@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00136">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-01-16" n="1">1582-01-16</title>
+                <title level="a">136. Malaspina an Gallio - Graz, 1582 Jänner 16</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 404r—406v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00136">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-01-16" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00135.xml"
+                        >135. Malaspina an Gallio - Graz, 1582 Jänner 4</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00137.xml">137.
+                        Malaspina an Gallio - Graz, 1582 Jänner 24</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00135.xml">135. Malaspina an Gallio -
+                        Graz, 1582 Jänner 4</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00137.xml">137. Malaspina an Gallio -
+                        Graz, 1582 Jänner 24</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Antwort des Kaisers auf Bitte Erzherzog Karls um Ratschläge im Religionsgeschäft;
+                    Respektierung der den Häretikern von Kaiser Ferdinand I. gewährten Toleranz,
+                    Abraten von Besatzung in Graz und Trennung der Stände, Wachsamkeit gegen
+                    Übertreter der Religionskonzessionen und Durchführung einer Reform, dem wahren
+                    Mittel zur Ausrottung der Häresie.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="136">Malaspina an Gallio - Graz, 1582 Jänner 16</head>
+            <div>
+                <pb xml:id="P1_0000368"/>
+                <p>Havendo la Mtà de l’imperatore sod(isfat)to al desiderio di S. A.<note
+                        xml:id="FN1_00136_01" type="footnote">Siehe Nr. 135, S. 366.</note>in
+                    brevissimo spacio di tempo, cosa che a noi altri non è piacciuta, col
+                    significarle il parer suo intorno a la forma che si deve tenere nel proseguire
+                    il negotio de la religione, <note xml:id="FN1_00136_02" type="footnote">Nicht
+                        vorhanden.</note>S. A. subito commandò a li consiglieri che communnicassero
+                    meco il contenuto de la lettera di S. Mtà, non li essendo parso conveniente, per
+                    alcune loro considerationi, darmene copia, ma si sono contentati, che’l sig.
+                    cancelliero me l’interpreti de verbo ad verbum per esser in lingua todesca, il
+                    che credo havrà fatto fedelmente.</p>
+                <p>Il parere de la Mtà S. in somma è questo: Prima confessa che’l stato presente,
+                    nel quale Theresia ha ridotto il principe, non può lungamente durare, poiché a
+                    gran passi lo riduce ad un miserabil stato et circa il spirituale et circa il
+                    politico, di modo ché ancora da questa parte vien confirmata et tenuta per
+                    verissima la massima già conceputa qua. Secondariamente monisce con parole quasi
+                    imperiose il principe che non s’induca in modo alcuno a cassare né in tutto né
+                    in parte le concessioni per tolerantia permesse o concesse a gli heretici,
+                    allegando a questo proposito diffusamente per corroboratione de l’opinione sua
+                    molti pericoli, che senza dubio s’incorrerrebbono. Et ultimamente conferma il
+                    parer, che dà col’essempio suo, che in Austria non ha voluto non solo revocare
+                    le concessioni paterne,<note xml:id="FN1_00136_03" type="footnote">Die von
+                        Maximilian II. den österreichischen Ständen gewährte Religionskonzession von
+                        1568 und Religionsassekuration von 1571 (Mecenseffy, Geschichte des
+                        Protestantismus, S. 51—53).</note>ma né manco darne ombra a gli heretici. Il
+                    che, dice egli, che più ragionevolmente deve fare S. A. per esser qua più
+                    radicata Theresia, et gli heretici in pacifica possessione insino al tempo di
+                    Ferdinando et poi assicurati da S. A. in voce et in scritto,<note
+                        xml:id="FN1_00136_04" type="footnote"> Vor allem die Brucker Pazifikation
+                        von 1578.</note>et che perciò crede che infierendo a li vestigii di Carlo V
+                    et Ferdinando, potentissimi imperatori, sia necessario per evitare maggiori
+                    inconvenienti di condiscender et accommodarsi a la conditione de’ tempi, onde
+                    giudica se S. A. volesse inherire al decreto passato o contravenisse a le
+                    concessioni date o volesse mettere presidio o fare la separatione de li stati,
+                    che sarebbe materia che portarebbe seco molte consequenze pericolose. Che s’egli
+                    ha messo in Viena il presidio è stato ricercato da li stati di Austria per
+                    continuo spacio di tempo, <note xml:id="FN1_00136_05" type="footnote">Siehe Nr.
+                        79, Anm. 7, und Nr. 119, S. 328.</note>et s’è maturamente consultato da la
+                    provincia istessa. Ma <pb xml:id="P1_0000369"/>che’l metterlo così a l’improviso
+                    et senza participatione de li nobili, li è negotio molto sospettoso, oltre che
+                    un tale presidio non è sofficiente per opprimere, in caso di ribellione, né per
+                    contenere nel debito officio, in caso di simplice inobedienza, gli heretici, et
+                    che in altro genere di aiuti esterni per oblatione grande, che le sia fatta,
+                    crede che S. A. che ha li confini che ha habbia più volte esprimentato, che
+                    fondato se li può fare. Quanto a la separatione, mostra d’haverla per cosa
+                    incerta per diverse cause, ma principalmente perché li sudditti de’ prelati, che
+                    sono quelli che pagano le contributioni, cominciano ad esser infettati
+                    d’heresia. <note xml:id="FN1_00136_06" type="footnote">Besonders im slowenischen
+                        Teil Innerösterreichs wurde festgestellt, daß die Bauern der geistlichen
+                        Grundherrschaften eher evangelisch wurden, während die Untertanen weltlicher
+                        evangelischer Grundherren meist katholisch blieben (Rupel, Primus Truber, S.
+                        246).</note>Li suppositi, che S. Mtà fa, hanno bene apparentia grande, ma in
+                    essistentia non possono subsistere a le ragioni, che gli altri principi in
+                    contrario hanno allegato et scritto, et a me il negotio si rende più sospetto,
+                    poiché, quando il concelliero dopo la dilatione de l’essecutione del decreto fu
+                    mandato a l’arciduca Hernesto, <note xml:id="FN1_00136_07" type="footnote">Siehe
+                        Nr. 72, Anm. 5, Nr. 77, S. 214, Nr. 83, Anm. 8, und Nr. 92.</note>quella
+                    Altezza communicò con lettere la risposta<note xml:id="FN1_00136_08"
+                        type="footnote"> Nicht vorhanden.</note>che voleva dare a questo principe a
+                    S. Mtà, et così, in nome di tutti dui, fu mandata. La quale, ex diametro, è
+                    contraria a la presente, poiché espressamente alhora confortava il principe a
+                    seguire la consultatione di Baviera, ne la quale s’approva, anzi si tiene per
+                    necessario il presidio et la separatione, con tutto che hora qua s’attaccano a
+                    questo novo parere, non essendo però avvenuto accidente alcuno, che habbia con
+                    ragione potuto mutare o alterare le cose già consultate et stavilite, et forse
+                    facile creditur quod libenter auditur. Ma ritornando a proseguire la
+                    consultatione di S. Mtà conclude il suo parere ne la presente forma, che S. A.
+                    deve haver la mira a tre cose: Prima, fare una dichiaratione vera et sincera de
+                    le sue concessioni, con la quale venghi a dichiarare che quello, che gl’heretici
+                    hanno estorto praeter vel contra le concessioni, che non è stato di mente di
+                    lei, né l’hanno potuto fare, et che cerchi ogni via, che quello che hanno
+                    occupato con l’haver adulterate le concessioni sia restituito et ridotto secondo
+                    l’intelletto vero de le concessioni. Secondariamente, che per l’avvenire S. A.
+                    non permetta che presumino di attentare o inovare cosa alcuna contra le
+                    concesioni, le quali però vuole che siano dichiarate con un intelletto così
+                    genuino, che le istesse parole lo partoriscono. Il che sarebbe per la parte de’
+                        <pb xml:id="P1_0000370"/>catholici molto pernitioso, per contener le
+                    concessioni del principe clausule generali et ambigue et più tosto in nostro
+                    detrimento che altramente. Terzo, presuppone che l’A. S. habbia d’haver gran
+                    cura in procurare una essentiale riforma peculiare et vero rimedio di estirpare
+                    le heresie, che con essa et con quello ch’egli ricorda, spera che le cose siano
+                    per pigliare miglior forma, sì come in Austria si va esprimentando.</p>
+                <p>Hora se la Mtà S. havesse ricordati mezi sofficienti per consequire il fine, al
+                    quale il primo et secondo suo presupposto assequendosi ci condurrebbono, sarebbe
+                    pur qualche cosa. Ma si presuppone che S. A. castighi li transgressori in specie
+                    non attentando cosa in generale contra le provincie, che non sia secondo la
+                    consultatione et stilo antico, il che è che’l principe li accusi a li nobili et
+                    che, quando loro non ci provedano, che la causa vada al regimento et al fine poi
+                    a S. A. Ma se li nobili diranno, come sempre dicono, che la conscienza non li
+                    detta che si debba castigare li transgressori, se il magistrato è vilipeso, se
+                    il principe non è né temuto né stimato, se ogni dimostratione che’l principe fa
+                    contra qualsivoglia è subito incorporata la querela con le publiche, et la
+                    provincia piglia il patrocinio et assunto di diffonderli, come è possibile che
+                    senza altri mezi si possa ottenere quel mediocre fine, che S. Mtà consulta et
+                    propone? Et poiché qualsivoglia cons(iglie)ro, per politico et per freddo che
+                    sia, non ardisce di asserire che li mezi proposti siano sofficienti, che altro
+                    si può concludere per vigore de la consultatione di S. Mtà, che non potendo
+                    durare longamente il stato presente di questo principe, sì come la Mtà S. le
+                    augura, et non essendo sofficienti li rimedii, che se li propongono, et quelli
+                    che sarebbono, non si volendo abbracciare, se non che più tosto si elege il
+                    commettersi solo a beneficio del tempo et a la fortuna che a la previdenza di
+                    Dio, la quale in sua dispositione non fallitur, et suole essere propitia a
+                    coloro, che fanno quello che ragionevolmente possono et devono dal canto
+                    loro.</p>
+                <p>Io, havendo inteso il parere di S. Mtà, non ho dato risposta a li consiglieri, ma
+                    ho tolto tempo di rispondere, et insino ad hora non sono risoluto,
+                    rappresentandomisi il negotio tanto arduo et difficile, che senza particolare
+                    gratia di Dio non mi pare de la tenuità del mio ingegno di potermi prometter
+                    quello che in simili accidenti si ricercarebbe.<note xml:id="FN1_00136_09"
+                        type="footnote">Vgl. Nr. 137.</note>Ma essendo la causa di S. D. Mtà et
+                    essendo io ministro del vicario suo, spero che mi concederà tanto de la gratia
+                    sua, clic potrò pigliare quella risolutione, che sarà più sicura et più
+                    indrizzata a l’augumento de l’honore et gloria sua...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

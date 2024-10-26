@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00157">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1582-04-26" n="1">1582-04-26</title>
+				<title level="a">157. Malaspina an Gallio - Graz, 1582 April 26</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 451r—453r, Orig.<lb/>Ebenda f.
+							455r—457v, Duplikat.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00157">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1582-04-26" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00156.xml"
+						>156. Gallio an Malaspina - Rom, 1582 April 21</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00158.xml">158.
+						Gallio an Malaspina - Rom, 1582 April 28</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00156.xml">156. Gallio an Malaspina -
+						Rom, 1582 April 21</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00158.xml">158. Gallio an Malaspina -
+						Rom, 1582 April 28</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Bereitschaft der (lutherischen) Stände zur Hilfe bei Reinigung Innerösterreichs
+					von Calvinismus und Flacianismus. Abhängigmachung der Leistungen für
+					Türkengrenze von Belassung der Religionsangelegenheit im bisherigen Stand.
+					Maßnahmen gegen evangelische Bürger. Abreise Erzherzog Karls zur Hochzeit
+					Erzherzog Ferdinands. Vertreibung der Prädikanten. Tod und Unglück im Hause
+					Hoffmann. Synode in Graz. Abreise Malaspinas zum Reichstag.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="157">Malaspina an Gallio - Graz, 1582 April 26</head>
+			<div>
+				<p>Havendo questi heretici tentato tutte le vie per rimovere questo sermo principe
+					dal proposito, nel quale insin’hora persiste di volere che in ogni modo, quando
+					ancora devesse succedere ciò che loro minacciano, sia essequito il decreto
+						publicato,<note xml:id="FN1_00157_01" type="footnote">Siehe Nr. 152, Anm.
+						1.</note>et non havendo tralasciato per <pb xml:id="P1_0000410"/>conseguire
+					il loro intento di fare oblationi grandissime d’aiuti et insieme di espurgare le
+					provincie da ogni Calvinismo et Flaccianismo,<note xml:id="FN1_00157_02"
+						type="footnote"> Die Reinhaltung des Landes von Flacianismus und Calvinismus
+						war ein gemeinsames Anliegen des katholischen Landesfürsten und der
+						evangelischen Stände Augsburger Bekenntnisses (Loserth, FRA II/50, S. 276
+						und 282 f.).</note>vedendo che contra ogni loro aspettatione, quando di già
+					pensavano di smorzare quel poco di lume che è rimasto di catholichismo, che
+					consiste quasi tutto ne la persona del principe, il quale essendo stato così
+					oppresso da loro per il passato, li pare gran maraviglia che pigli di presente
+					vigore et che li diabolici artificii et minaccie loro, de le quali altre volte
+					si sono serviti, non siano hora di quel terrore che sono state. Non potendo
+					perciò mostrare la mala sodisfattione in altro, per non haver lasciato cosa
+					intatta, hanno, pochi giorni sono, dato una scrittura, ne la quale se bene non
+					negano le contributioni per difensione de li confini, però danno 14 milia
+					fiorini manco de l’anno passato, <note xml:id="FN1_00157_03" type="footnote"
+						>Vgl. Nr. 72, Anm. 3.</note>et in fine limitano la loro oblatione con la
+					conditione che non si faccia novità in materia di religione. S. A. dopo una
+					matura consultatione si risolse di concludere nel temporale et accettare
+					l’offerta con un protesto però, che quando fosse succeduto qualche danno a la
+					patria per difetto di non haver voluto contribuire, che lei voleva ricercare da
+					loro et da li figliuoli suoi ne la vita et ne la robba tutto quello che si
+					havesse patito. Ma che quanto a la religione, che lei non accettava la clausula
+					che non si faccia novità, poiché era risoluta di voler esser ubidita; et a
+					questo non fu da loro fatta altra replica.<note xml:id="FN1_00157_04"
+						type="footnote"> Diesbezügliches Schreiben Erzherzog Karls vom 27. April
+						1582, in dem er unter Hinweis auf die Notlage der Grenze und die
+						seinerzeitige „unconditionierte“ Geldbewilligung des Landtages für
+						Verteidigungszwecke jedes Nachgeben gegenüber den Städten in
+						Religionsangelegenheiten ausschloß, „und sollte auch das ganze Land darüber
+						ins Verderben gerathen“ (Loserth, FRA II/50, S. 297).</note>Hora havendo noi
+					fornita la disputa con li nobili si rivoltassimo a li cittadini et per dirigere
+					il negotio con speranza di frutto, Dio sa quello che si è perciò fatto con S. A.
+					et con li consiglieri et perché io son sempre stato di pai-ere che, mettendosi
+					la mano ne li cittadini, non si sia per ottenere cosa di momento, se prima S. A.
+					non prohibisce a tutti li suoi officiali, servitori, castellani etc. eccettuando
+					li nobili l’essercitio lutherano, perciò ho instato che proceda questa
+					inhibitione et perfetta essecutione a quello che si è poi per tentare con li
+					cittadini, massime che comprende l’inhibitione alcuni cittadini et molti
+					popolari, li quali sono officiali di S. A., et il numero è grande. In questo io
+					son stato consolato et non si è havuto contrasto di qualità et è stata attione
+					di grandissima<pb xml:id="P1_0000411"/> importanza et ha fatto credere a la
+					parte adversa che si dice da dovero. Dopo si è publicato il decreto, che sarà
+					con questa mia, <note xml:id="FN1_00157_05" type="footnote">Decretum religionis
+						civibus et popularibus proxime a S. Serte publicatum (Arch. Vat. Nunz. Germ.
+						100, f. 458rv).</note>a li cittadini, et ne le festività, che sono venute,
+					non hanno se non tre di loro et un del senato frequentato la sinagoga et ancora
+					pochi de’ popolari, a quali non si lasciarà di fare una severa riprensione. Ma
+					mentre stavamo intenti et con ferma speranza che inanzi la dieta imperiale si
+					potesse fare la perfetta essecutione, ecco che l’arciduca Ferdinando manda un
+					ambasciatore ad invitare questa Altezza a le nozze, <note xml:id="FN1_00157_06"
+						type="footnote">Hochzeit Erzherzog Ferdinands von Tirol mit Anna Katharina
+						von Mantua am 14. Mai 1582 zu Innsbruck (Hirn, Erzherzog Ferdinand II, S.
+						450 bis 457).</note>il qual invito, per alcune cause di molta importanza,
+					non ha potuto rifiutare, di modo che dubito che, dovendo pai-tire domani S. A.,
+					li cittadini siano per ritornare al vomito, massime che et per la debolezza de
+					li consiglieri et per altri pericoli et in spetie dopo l’incendio di Canisa,
+					seguito con intelligentia de’ Turchi, si fa giudicio che in absentia di S. A.
+					non si venghi a castigo alcuno contra li transgressori, et pare che ne l’interim
+					non si debba fare altro se non che l’A. S. chiami domani li cittadini et li
+					avvertisca a non transgredire il suo commandamento et che, quando faranno
+					altrimente, che lei li castigarà a suo tempo, et lasciare cura al reggimento,
+					che li monisea di continuo. Ma sopra tutto hanno per necessario il fare
+					provisione d’un predicatore buono, perché li cittadini in questi principii
+					s’indurranno difficilmente ad andare da li padri Giesuiti, et in conformità di
+					questo ne ho ritrovato uno.</p>
+				<p>Certo non poteva la partita del principe cadere in congiuntura più incommoda per
+					il negotio, poiché nel tempo che si starà fuori potranno li cittadini
+					consultarsi con li nobili et fare mille conventicule fra di loro et difficultare
+					l’essecutione, la quale a mio giuditio non era desperata al presente. Per il che
+					è necessario sospendere l’intelletto insin tanto che si veda se seguiteranno a
+					non frequentare l’essercitio lutherano o non et si lasciarà ordine a li
+					consiglieri che avvisino ne la dieta il tutto a S. A., acciò conforme al bisogno
+					si possiamo governare et dare ordine che si castighino gl’inobedienti anco in
+					absentia di S. A., se così et a S. Mtà Ces. et al illmo legato parerà che si
+					possa sicuramente fare.<note xml:id="FN1_00157_07" type="footnote">Erst am 8.
+						Oktober 1582 wurden Bürgermeister, Richter und Schreiber der Stadt Graz,
+						weil sie trotz wiederholter landesfürstlicher Befehle den evangelischen
+						Gottesdienst weiter besucht hatten, eingesperrt (Loserth, FRA II/50, S.
+						329).</note>Di questo mi pare potermi assicurare, che’l principe non si <pb
+						xml:id="P1_0000412"/>muterà mai d’opinione, né rivocarà il decreto. È ben
+					vero che circa l’essecutione, se li nobili si uniranno totalmente con li
+					cittadini, bisognerà et con l’illmo legato <note xml:id="FN1_00157_08"
+						type="footnote">Vgl. Nr. 160.</note>et con altri principi fare una matura
+					consultatione ne la dieta imperiale del modo che si deve tenere. <note
+						xml:id="FN1_00157_09" type="footnote">Am 30. Juni 1582 hatte Kardinallegat
+						Madruzzo bereits eine diesbezügliche Aussprache mit Erzherzog Karl (Hansen,
+						Nuntiaturberichte III/2, S. 449 ).).</note>Et queste sono le formate parole
+					che mi disse hieri S. A. : “Fuori di questa città s’essequiscono molto buone
+					cose et si scacciano gli predicatori heretici senza molta contraditione.“ <note
+						xml:id="FN1_00157_10" type="footnote">Vgl. Nr. 148, Anm. 11.</note>
+				</p>
+				<p>A l’Hoffman è morta la moglie et ne l’istessa hora si è abbrucciato un suo
+					castello, pare assai mortificato.<note xml:id="FN1_00157_11" type="footnote"
+						>Judith von Windischgrätz, seit 1560 mit Hans Friedrich Hoffmann vermählt
+						(Huber, Hoffmann, S. 64).</note>
+				</p>
+				<p>V. S. Illma sa la risposta che nel sinodo passato, celebrato qua, io hebbi da li
+					parochi in materia de le concubine et putative moglie loro. Il che non fu senza
+					infinito dolore di tutti li buoni et con qualche detrimento de l’auttorità mia,
+					poiché loro non solo non volsero consentire a la petitione di mandarle via, ma
+					apertamente dissero che tenevano il loro stato per santo et buono, et di più
+					detero querele contra di me a li provinciali come quello che cercavo di
+					molestarli in conscienza. Nel sinodo, che’l giorno di S. Giorgio si celebrò,
+					havendo io di prima implorato il braccio secolare in caso d’inobedienza, tutti
+					uniformamente hanno prestato obedienza, di modo che spero ne la bontà del sig.
+					Dio che S. Bne vederà ancora un giorno et li laici, clerici et religiosi ridotti
+					a un stato assai mutato in bene.<note xml:id="FN1_00157_12" type="footnote"
+						>Copia scripti, quod sacerdotes in archidiaconatu inferioris Styriae Revmo
+						Salisburgensi propter uxores putativas et concubinatu miserunt und Articuli
+						Synodales (Arch. Vat. Nunz. Germ. 100, f. 459r—460v und 465r—467r).</note>
+				</p>
+				<p>Io non mancarò di dare a illmo legato li dui millia scudi, che V. S. Illma ne la
+					sua mi ordina doverli consignare.<note xml:id="FN1_00157_13" type="footnote"
+						>Siehe Nr. 154, Anm. 4.</note>
+				</p>
+				<p>Domani, piacendo al Signor Dio, mi metterò in camino per la volta de la dieta et
+					mi fermerò nel monasterio d’Admont, insino che mi venghi alcun ordine da l’illmo
+					legato, overo che S. A. sia in camino, non mi essendo parso conveniente
+					accompagnarla senza necessità in Ispruch, massime che ha dato ordine al
+					reggimento di consultare meco come più vicino quello che passarà nel negotio de
+					la religione...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

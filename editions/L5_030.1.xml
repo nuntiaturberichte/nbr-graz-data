@@ -1,237 +1,242 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_030.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-04-12" n="1">1599-04-12</title>
-                    <title level="a">30.1. Portia an Aldobrandini - Bamberg, 1599 April 12</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie IV 240, fol. 36r–37r, Orig.; ASV,
-								Fondo Borghese, serie<lb/>III 15 A1, fol. 60v–62v, Kop.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_030.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-04-12" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2952984">Bamberg</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_029.1.xml">29.1. Aldobrandini an Portia - Rom, 1599 April 10</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_030.2.xml">30.2. Portia an Aldobrandini - Bamberg, 1599 April 12</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_029.1.xml">29.1. Aldobrandini an
-                            Portia - Rom, 1599 April 10</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_030.2.xml">30.2. Portia an
-                            Aldobrandini - Bamberg, 1599 April 12</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Positives Urteil über den gewählten Bischof von Bamberg [Gebsattel]. Als
-						Bedingung für die Bestätigung der Wahl wird von Portia die Einsetzung eines
-						Vikars, einiger geistlicher Räte sowie zwei oder drei katholischer Berater
-						für die politischen Angelegenheiten vorgeschlagen, um den lutherischen Adel
-						möglichst auszuschließen. Die Angestellten des verstorbenen Bischofs
-						[Thungen] [Motschenbach, Wolff] stehen im Konflikt mit dessen Nachfolger und
-						befinden sich im Gefiingnis. Die apostolischen Breven, gerichtet an den
-						verstorbenen Bischof mit Zurechtweisungen für Kapitelangehörige, wurden
-						aufgefunden, vermutlich werden sie vom Weihbischof von Bamberg [Ertlin], der
-						nach Rom unterwegs ist, dorthin mitgebracht. Gebsattel wird vielleicht den
-						Informativprozess aufrollen wollen, da der erste mangelhaft war. Aufgrund
-						Personalmangels übernimmt Portia geistliche Funktionen in Bamberg.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="30.1">Portia an Aldobrandini - Bamberg, 1599 April 12</head>
-				<div>
-					<p>
-						<note xml:id="SN030.1_a" type="siglum">Die Kopie des Berichtes in ASV, Fondo
-							Borghese, serie III 15 A1 umfasst nur diesen Abschnitt. Dorsalvermerk
-							des Staatssekretariates, fol. 63v: Ha la regola in contrario. Il
-							dissimular non piace. Non osta il sinodo Salisburgense perché si tratta
-							della residenza della parochia. Se altra causa non ci è la negarei
-							espressamente.</note> Perché difficilmente si può impedire che
-						l’elettione di già fatta nella persona di questo che è eletto in Bamberga
-						non habbi l’effetto come ha di già in gran parte col consenso et favore
-						dell’Imperatore et di tutt’i Prencipi vicini, posso affermar a V. S. Ill.ma
-						per consolatione di S. B.ne che l’Eletto è veramente Catolico et ha pietà
-						conveniente et è elemosinario assai liberale et attivo per quello ch’esso
-						intende, sa et può; è stato concubinario, ma hora vive assai bene, non è
-						dotto, ma per la maggior parte sono tali in questi Capitoli et al presente
-						non vi sarrebb’altro che il Decano<note xml:id="FN5_030.1_01" type="footnote">Johann Christoph Neustetter (1570–1638), genannt
-							Stürmer. Studierte am Collegium Germanicum (1588–1592), Domdekan (1599)
-							und zu einem späteren Zeitpunkt Dompropst in Bamberg. Bei der
-							Bischofswahl 1609 lehnte er die Wahl ab: vgl. STEINHUBER, S. 274, 279;
-							SCHMIDT, S. 280; WEISS, Bistum, S. 303, 313, 350, 404.</note> che
-						sapesse più di<pb xml:id="P5_0000058"/> lui; et il Decano è fatto Capitolare
-						et Decano doppo la presente Elettione. Il Vescovo passato fu concubinario
-						anco quando fu eletto et confermato et due anni inanti la morte licentiò la
-							concubina<note xml:id="FN5_030.1_02" type="footnote">Kunigund Nuding
-							geb. Schmeltzer, Konkubine des Bischofs Neithard von Thüngen, mit der er
-							drei Kinder hatte. Obwohl sie verheiratet war, berücksichtigte der
-							Bischof sie und die gemeinsamen Kinder in seinem Testament: vgl. WEISS,
-							Bistum, S. 297, 302.</note>; ha però lasciati figlioli et tali son le
-						miserie di queste parti.</p>
-					<p>Rissolvendosi S. S.tà di conceder la confermatione, potrebbe prima
-						prescriverle alcune cose et principalmente che tenesse un buon Vicario per
-						la direttione delle cose spirituali con due o tre buoni et dotti
-						Ecclesiastici assessori, i quali si troveranno in Bamberga essendoci tre
-						dottori c’hanno studiato nel Collegio Germanico in Roma et credo anco in
-						Bologna. Di più che nelle cose Politiche et temporali non si serva di
-						Consiglieri Heretici, ma procuri d’haverne due o tre Catolici i quali si
-						troveranno sempre che si risolva et quando tutto manchi si serva nelle cose
-						importanti del conseglio del Preposito et del Decano della Cathedrale, che
-						sono assai prudenti et essendo Capitolari et qui residenti di continovo
-						serviranno a lui et alla Chiesa senza molta fatica et senza spesa, et perché
-						l’escluder in tutto gli Nobili Heretici è giudicato difficile per esser la
-						Nobiltà di Franconia quasi tutt’Heretica<note xml:id="SN030.1_b" type="siglum">Eigenhändige Einfügung Portias.</note> et di molta
-							auttorità<ref target="#SN030.1_b">*b)</ref>, si può almeno rimuoverli
-						dai Consegli et finalmente dalla partecipatione dei segreti et cose
-						importanti et così richiede il beneficio di questi Principati Ecclesiastici
-						et così usa di fare Monsig. Vescovo d’Herbipoli et tutt’i buoni Prelati di
-						Germania. Il che dico assai apertamente in questo caso, poiché quest’Eletto
-						è stimato et riputato assai propenso verso la Nobiltà, affettando molto la
-						lor benivolenza, et questo ha seco dell’incomodo et del pericolo.</p>
-					<p>Aggiongo a V. S. Ill.ma che qui continova il rancore et la fattione tra gli
-						dipendenti del Vescovo morto (parte de quali son hora carcerati) et il
-						presente Eletto con quelli che sono della sua parte, et che si sono trovate
-						delle lettere et Brevi Apostolici diretti et scritti al Vescovo passato per
-						la correttione d’alcuni di questi Capitolari, de quali intendo che n’habbi
-						portati costà alcuni il Suffraganeo Bambergense<note xml:id="FN5_030.1_03" type="footnote">Johann Ertlin (gest. 1607), Weihbischof von Bamberg
-							(1581–1607), Titularbischof von Athyra (1581). 1599 reiste er nach Rom,
-							um fur Gebsattel die Konfirmation und das Pallium zu erwirken: vgl.
-							GATZ, 1448–1648, S. 171; WEISS, Bistum, S. 603. Bei dem erwähnten Breve
-							an Bischof Thüngen handelt es sich um die Aufforderung zu einem Prozess
-							gegen Dekan Gebsattel vom 21. Januar 1598: NANNIIMRKONJIé 3, Nr.
-							12553.</note>, et perché questa materia porta seco pericolo di scisma
-						dannoso in questa Chiesa, potrà V. S. Ill.ma inten<pb xml:id="P5_0000059"/>
-						derne la mente Santissima di S. B.ne et l’informatione del sudetto
-						Suffraganeo, il quale come qui si dice era puoc’amato dal Vescovo precessore
-						come adherente al presente Eletto et all’hora Decano, et tutte queste cose
-						hanno bisogno della sua correttione prima della confermatione o almeno
-						nell’istesso tempo.</p>
-					<p>Penso che quest’eletto vorrà che di nuovo si pigli qualch’informatione sopra
-						la sua persona in forma di processo per mandar costà a S. B.ne scoprendo che
-						nel Processo di già mandato sian fatti et commessi degl’errori et io per
-						conservarlo nell’obedienza verso cotesta Santa Sede mi lascierò richiedere
-						et prestarò quell’opra che si conviene all’officio mio.</p>
-					<p>In absenza del Suffraganeo di questo Vescovado et per mancamento di Vescovi
-						anche vicini, non trovandosi suffraganeo neanche ad Herbipoli, io ho
-						essercitato questa settimana le funtioni Episcopali così nel benedir gl’ogli
-						Santi et nel conferir gl’ordini, come anco nel confermar, et tutto ad
-						instanza et preghiere dell’Eletto et Capitolo conform’al Breve ch’io tengo
-						dalla S.tà di N. S.<note xml:id="FN5_030.1_04" type="footnote">Nr.
-							9.1.</note>, il che ho voluto anche significare a V. S. Ill.ma
-						perch’ella intenda quel puoco di profitto che si fa con quest’anime in
-						Provincie tanto conquassate .</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_030.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-04-12" n="1">1599-04-12</title>
+                <title level="a">30.1. Portia an Aldobrandini - Bamberg, 1599 April 12</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie IV 240, fol. 36r–37r, Orig.; ASV, Fondo
+                            Borghese, serie<lb/>III 15 A1, fol. 60v–62v, Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_030.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-04-12" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2952984">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_029.1.xml"
+                        >29.1. Aldobrandini an Portia - Rom, 1599 April 10</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_030.2.xml">30.2.
+                        Portia an Aldobrandini - Bamberg, 1599 April 12</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_029.1.xml">29.1. Aldobrandini an
+                        Portia - Rom, 1599 April 10</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_030.2.xml">30.2. Portia an
+                        Aldobrandini - Bamberg, 1599 April 12</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Positives Urteil über den gewählten Bischof von Bamberg [Gebsattel]. Als
+                    Bedingung für die Bestätigung der Wahl wird von Portia die Einsetzung eines
+                    Vikars, einiger geistlicher Räte sowie zwei oder drei katholischer Berater für
+                    die politischen Angelegenheiten vorgeschlagen, um den lutherischen Adel
+                    möglichst auszuschließen. Die Angestellten des verstorbenen Bischofs [Thungen]
+                    [Motschenbach, Wolff] stehen im Konflikt mit dessen Nachfolger und befinden sich
+                    im Gefiingnis. Die apostolischen Breven, gerichtet an den verstorbenen Bischof
+                    mit Zurechtweisungen für Kapitelangehörige, wurden aufgefunden, vermutlich
+                    werden sie vom Weihbischof von Bamberg [Ertlin], der nach Rom unterwegs ist,
+                    dorthin mitgebracht. Gebsattel wird vielleicht den Informativprozess aufrollen
+                    wollen, da der erste mangelhaft war. Aufgrund Personalmangels übernimmt Portia
+                    geistliche Funktionen in Bamberg.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="30.1">Portia an Aldobrandini - Bamberg, 1599 April 12</head>
+            <div>
+                <p>
+                    <note xml:id="SN5_030.1_a" type="siglum">Die Kopie des Berichtes in ASV, Fondo
+                        Borghese, serie III 15 A1 umfasst nur diesen Abschnitt. Dorsalvermerk des
+                        Staatssekretariates, fol. 63v: Ha la regola in contrario. Il dissimular non
+                        piace. Non osta il sinodo Salisburgense perché si tratta della residenza
+                        della parochia. Se altra causa non ci è la negarei
+                    espressamente.</note>Perché difficilmente si può impedire che l’elettione di già
+                    fatta nella persona di questo che è eletto in Bamberga non habbi l’effetto come
+                    ha di già in gran parte col consenso et favore dell’Imperatore et di tutt’i
+                    Prencipi vicini, posso affermar a V. S. Ill.ma per consolatione di S. B.ne che
+                    l’Eletto è veramente Catolico et ha pietà conveniente et è elemosinario assai
+                    liberale et attivo per quello ch’esso intende, sa et può; è stato concubinario,
+                    ma hora vive assai bene, non è dotto, ma per la maggior parte sono tali in
+                    questi Capitoli et al presente non vi sarrebb’altro che il Decano <note
+                        xml:id="FN5_030.1_01" type="footnote">Johann Christoph Neustetter
+                        (1570–1638), genannt Stürmer. Studierte am Collegium Germanicum (1588–1592),
+                        Domdekan (1599) und zu einem späteren Zeitpunkt Dompropst in Bamberg. Bei
+                        der Bischofswahl 1609 lehnte er die Wahl ab: vgl. STEINHUBER, S. 274, 279;
+                        SCHMIDT, S. 280; WEISS, Bistum, S. 303, 313, 350, 404.</note>che sapesse più
+                        di<pb xml:id="P5_0000058"/> lui; et il Decano è fatto Capitolare et Decano
+                    doppo la presente Elettione. Il Vescovo passato fu concubinario anco quando fu
+                    eletto et confermato et due anni inanti la morte licentiò la concubina<note
+                        xml:id="FN5_030.1_02" type="footnote"> Kunigund Nuding geb. Schmeltzer,
+                        Konkubine des Bischofs Neithard von Thüngen, mit der er drei Kinder hatte.
+                        Obwohl sie verheiratet war, berücksichtigte der Bischof sie und die
+                        gemeinsamen Kinder in seinem Testament: vgl. WEISS, Bistum, S. 297,
+                        302.</note>; ha però lasciati figlioli et tali son le miserie di queste
+                    parti.</p>
+                <p>Rissolvendosi S. S.tà di conceder la confermatione, potrebbe prima prescriverle
+                    alcune cose et principalmente che tenesse un buon Vicario per la direttione
+                    delle cose spirituali con due o tre buoni et dotti Ecclesiastici assessori, i
+                    quali si troveranno in Bamberga essendoci tre dottori c’hanno studiato nel
+                    Collegio Germanico in Roma et credo anco in Bologna. Di più che nelle cose
+                    Politiche et temporali non si serva di Consiglieri Heretici, ma procuri
+                    d’haverne due o tre Catolici i quali si troveranno sempre che si risolva et
+                    quando tutto manchi si serva nelle cose importanti del conseglio del Preposito
+                    et del Decano della Cathedrale, che sono assai prudenti et essendo Capitolari et
+                    qui residenti di continovo serviranno a lui et alla Chiesa senza molta fatica et
+                    senza spesa, et perché l’escluder in tutto gli Nobili Heretici è giudicato
+                    difficile per esser la Nobiltà di Franconia quasi tutt’Heretica<note
+                        xml:id="SN5_030.1_b" type="siglum">Eigenhändige Einfügung Portias.</note>et
+                    di molta auttorità<ref target="#SN5_030.1_b"/> , si può almeno rimuoverli dai
+                    Consegli et finalmente dalla partecipatione dei segreti et cose importanti et
+                    così richiede il beneficio di questi Principati Ecclesiastici et così usa di
+                    fare Monsig. Vescovo d’Herbipoli et tutt’i buoni Prelati di Germania. Il che
+                    dico assai apertamente in questo caso, poiché quest’Eletto è stimato et riputato
+                    assai propenso verso la Nobiltà, affettando molto la lor benivolenza, et questo
+                    ha seco dell’incomodo et del pericolo.</p>
+                <p>Aggiongo a V. S. Ill.ma che qui continova il rancore et la fattione tra gli
+                    dipendenti del Vescovo morto (parte de quali son hora carcerati) et il presente
+                    Eletto con quelli che sono della sua parte, et che si sono trovate delle lettere
+                    et Brevi Apostolici diretti et scritti al Vescovo passato per la correttione
+                    d’alcuni di questi Capitolari, de quali intendo che n’habbi portati costà alcuni
+                    il Suffraganeo Bambergense<note xml:id="FN5_030.1_03" type="footnote">Johann
+                        Ertlin (gest. 1607), Weihbischof von Bamberg (1581–1607), Titularbischof von
+                        Athyra (1581). 1599 reiste er nach Rom, um fur Gebsattel die Konfirmation
+                        und das Pallium zu erwirken: vgl. GATZ, 1448–1648, S. 171; WEISS, Bistum, S.
+                        603. Bei dem erwähnten Breve an Bischof Thüngen handelt es sich um die
+                        Aufforderung zu einem Prozess gegen Dekan Gebsattel vom 21. Januar 1598:
+                        NANNIIMRKONJIé 3, Nr. 12553.</note>, et perché questa materia porta seco
+                    pericolo di scisma dannoso in questa Chiesa, potrà V. S. Ill.ma inten<pb
+                        xml:id="P5_0000059"/>derne la mente Santissima di S. B.ne et l’informatione
+                    del sudetto Suffraganeo, il quale come qui si dice era puoc’amato dal Vescovo
+                    precessore come adherente al presente Eletto et all’hora Decano, et tutte queste
+                    cose hanno bisogno della sua correttione prima della confermatione o almeno
+                    nell’istesso tempo.</p>
+                <p>Penso che quest’eletto vorrà che di nuovo si pigli qualch’informatione sopra la
+                    sua persona in forma di processo per mandar costà a S. B.ne scoprendo che nel
+                    Processo di già mandato sian fatti et commessi degl’errori et io per conservarlo
+                    nell’obedienza verso cotesta Santa Sede mi lascierò richiedere et prestarò
+                    quell’opra che si conviene all’officio mio.</p>
+                <p>In absenza del Suffraganeo di questo Vescovado et per mancamento di Vescovi anche
+                    vicini, non trovandosi suffraganeo neanche ad Herbipoli, io ho essercitato
+                    questa settimana le funtioni Episcopali così nel benedir gl’ogli Santi et nel
+                    conferir gl’ordini, come anco nel confermar, et tutto ad instanza et preghiere
+                    dell’Eletto et Capitolo conform’al Breve ch’io tengo dalla S.tà di N. S.<note
+                        xml:id="FN5_030.1_04" type="footnote">Nr. 9.1.</note>, il che ho voluto
+                    anche significare a V. S. Ill.ma perch’ella intenda quel puoco di profitto che
+                    si fa con quest’anime in Provincie tanto conquassate .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

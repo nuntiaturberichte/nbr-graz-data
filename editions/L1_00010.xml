@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00010">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1580-10-03" n="1">1580-10-03</title>
+				<title level="a">10. Malaspina an Gallio - Graz, 1580 Oktober 3</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 40r—42r, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00010">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1580-10-03" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00009.xml">9.
+						Malaspina an Gallio - Graz, 1580 Oktober 1</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00011.xml">11.
+						Malaspina an Gallio - Graz, 1580 Oktober 4</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00009.xml">9. Malaspina an Gallio -
+						Graz, 1580 Oktober 1</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00011.xml">11. Malaspina an Gallio -
+						Graz, 1580 Oktober 4</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Ausführliche Unterredung mit Erzherzog Karl über religiöse Lage. Die allgemein
+					Fürsten und Staaten von Häresie drohende Gefahr durch Nähe der Türken
+					vergrößert, Bereitschaft des Papstes zur Hilfe bei Beseitigung der Häresie.
+					Bitte um ausführliche Relation über gegenwärtigen Stand der Religion. Hinweis
+					Erzherzog Karls auf bereits vorhandene große Schwierigkeiten beim
+					Regierungsantritt: Enorme Belastung durch Türkengrenze, fast vollständiger
+					Abfall des Adels vom katholischen Glauben, Fehlen vertrauenswürdiger Räte und
+					mangelhafte Sorge der Bischöfe. Erörterungen über bevorstehende Wahl des
+					Bischofs von Bamberg und Ersetzung des bisherigen bambergischen Vizedoms
+					Hoffmann durch einen Katholiken. Erneuerung des päpstlichen Hilfsangebotes bei
+					Unternehmen gegen Türken.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="10">Malaspina an Gallio - Graz, 1580 Oktober 3</head>
+			<div>
+				<pb xml:id="P1_0000026"/>
+				<p>In conformità di quello che con la mia delli 19 del passato<note
+						xml:id="FN1_00010_01" type="footnote">Es muß, wie aus dem Zusammenhang
+						hervorgeht, der Bericht vom 29. September gemeint sein (Nr.
+					7).</note>scrissi a V. S. Illma, questa serra, ch’è il lunedì, ho havuto
+					audientia da S. A., nella quale non ho fatto altro che significare al’A. S. come
+					il più principale et importante capo, che ho da trattare con lei, è quello della
+					religione, essendo per infiniti rispetti più a core di S. Stà, che niun’altro,
+					cognoscendo quanto importi alla salvatione delle anime et alla pace et quiete di
+					S. A. et delli suoi stati. Et in questo proposito non ho lasciato di addure
+					alcune ragioni et esempi antichi et moderni circa il male che vengono alli
+					principi et stati loro per causa delle heresie et insieme metterli in
+					consideratione quanto debba più S. A. temere, come quella che ha così vicine le
+					forzze et crudeltà delli Turchi, et che S. A. senz’altro, essendo principe di
+					così perfetto giudizio, poteva ben hormai cognoscere che li heretici non
+					caminavano ad altro fine che a una sfrenata et libidinosa libertà di carne, la
+					quale li conduceva al fine a tanta temerità et in così repulso senso, che non
+					volevano ricognoscere né in cielo né in terra signore né superiore alcuno, et
+					che questo era stato il spirito di vertigine delli loro falsi et diabolici
+					profeti, la dottrina de’ quali non poteva partorire altro parto che questo. Le
+					messi ancora in consideratione quanta laude et riputatione riportarebbe da tutti
+					li principi catholici et da tutto il<pb xml:id="P1_0000027"/> christianesimo se,
+					con risolutione ferma et animo confidente, havesse cercato di remediare a così
+					perniciosa pestilentia. Le dissi similmente che S. Stà poteva dire a S. A.
+					quello che Leone papa scrive a Theodosio imperatore „cum enim ecclesiae causas
+					et regni vestri agamus et saluti deffendite adversus hereticos inconcussum
+					ecclesiae statum, ut et vestrum Christi dextera deffendatur imperium“,<note
+						xml:id="FN1_00010_02" type="footnote"> Migne, Patrologia latina 54, Ep.
+						XLIII, col. 826.</note>et che però S. A. non dubitasse che questa era causa
+					de Dio, il quale suole apunto aprire il thesoro della sua misericordia nel tempo
+					delle necessità, et che non havrebbe lasciato di aiutarla da dovero, quando lei
+					ancora havesse fatto quello che poteva dal canto suo.</p>
+				<p>Li soggiunsi poi il desiderio grandissimo che S. Stà haveva di aiutare S. A. in
+					così pia, necessaria et eroicha impresa, et che perciò io, per poter dare
+					principio in quanto spetta alla persona mia, come ministro di S. Bne, alla Sma
+					mente sua desideravo che mi fosse data una vera sincera et fedele relatione del
+					stato presente della religione et di tutto quello che in questa materia era
+						passato,<note xml:id="FN1_00010_03" type="footnote">Nr. 13.</note>accioché,
+					intesa la infirmità, se potesse andar pensando a qualche rimedio, et che io,
+					havendo maturamente considerato la forma, che doveva tenere in questo, alfine mi
+					ero risoluto di ricorrere al’A. S., non sapendo chi meglio né più fidelmente mi
+					potesse aprire li occhi in questo, che lei, la quale cognoscendo che è causa sua
+					propria et che S. Bne si move per molti rispetti, ma principalmente per utilità
+					di S. A., più affettuosamente havrebbe data luce di quello che è bene si sapia,
+					et che, essendo la materia longa et fastidiosa, vedevo che non conveniva che lei
+					si pigliasse questa cura, a che havrei ricevuto favore che ordinasse a qualche
+					ministro suo che lo facesse. <note xml:id="FN1_00010_04" type="footnote">Siehe
+						oben Nr. 12.</note>
+				</p>
+				<p>S. A. mostrò di sentire tanta consolatione di questa ingenuità et modo di
+					trattare che, oltre al ringratiarmi molto, mi disse che io l’obligavo quasi al
+					non rimettere a niuno questa informatione, ma darla lei et che però voleva egli
+					stesso dirmi confidentemente alcune cose, et che del resto, essendo la materia
+					longa, havrebbe ordinato al suo cancellerò che fosse venuto da me et mi havesse
+					dato ogni fidele relatione.</p>
+				<p>Quello che S. A. mi disse fu questo, che egli non negava di non havere dalla
+					parte sua di colpa et che non si voleva escusare, ma che era degno di qualche
+					compassione prima, per haver ritrovato questi stati quando pigliò il possesso
+					d’essi già contaminati, per esser stato<pb xml:id="P1_0000028"/> in grandissimi
+					bisogni con confini fastidiosi, per haver havuto la nobiltà tutta infeta di modo
+					che nella Stiria, Carinthia et Carniola non ci erano cinque signori catholici,
+					per non haver havuto homini appresso di sé, che l’habbiano fidelmente
+					consigliato, <note xml:id="FN1_00010_05" type="footnote">Von den Mitgliedern des
+						Geheimen Rates 1570—1580 war der größere Teil evangelisch (Loserth,
+						Reformation und Gegenreformation, S. 597 f.).</note>et per la poca cura
+					delli ordinarii, <note xml:id="FN1_00010_06" type="footnote">Das stimmt nur zum
+						Teil, denn sonst wäre nicht B. Portia in seiner Instruktion angewiesen
+						worden, sich an Bischof Urban Sagstetter von Gurk (Schellhass,
+						Nuntiaturberichte III/3, S. 27), und hätte nicht Malaspina selbst den
+						Auftrag bekommen, sich an dessen Nachfolger, Christoph Andreas von Spaur, zu
+						halten (Instruktion, Nr. 1). Auch die Bemühungen des Erzbischofs von
+						Salzburg um eine Besserung der beklagenswerten kirchlichen Zustände können
+						nicht übersehen werden (Schellhass, Ninguarda I, S. 26—29, 46 53—135,
+						226—243; II, S. 176—179), wenn sie auch nicht immer sehr erfolgreich waren
+						(ebenda I, S. 242f., 256—261; II, S. 136—146, 259—263). Schließlich
+						versuchte sogar Aquileia, die Übelstände durch eine Visitation, die dann
+						aber durch die innerösterreichische Regierung behindert wurde, auszumerzen
+						(De Renaldis, Patriarcato d’Aquileia, S. 321). Erzherzog Karl hat bereits im
+						Juni 1578 Ninguarda gegenüber alle Schuld, von etwaigen Kleinigkeiten
+						abgesehen, von sich und seinen Räten auf die Bischöfe, insbesondere den
+						Patriarchen von Aquileia und den Erzbischof von Salzburg, abgeschoben, die
+						in so langer Regierungszeit nie diese Gegenden visitiert und besichtigt
+						hätten (Theiner, Annales eccl. II, S. 357; Schellhass, Ninguarda II, S.
+						12).</note>li quali non solamente non hanno remediato, ma la prima heresia
+					comminciò in un loco dove essi hanno il dominio temporale et spirituale, <note
+						xml:id="FN1_00010_07" type="footnote">Wahrscheinlich ist Villach gemeint,
+						das dem Bischof von Bamberg gehörte und in der Diözese Aquileia
+					lag.</note>et che di questo S. A. ne haveva scritto a S. Stà,<note
+						xml:id="FN1_00010_08" type="footnote"> Direkte Antwort Erzherzog Karls nicht
+						vorhanden; Nuntius Ninguarda bekam aber als Antwort ein vom 22. Juni 1578
+						datiertes erzherzogliches Dekret (Loserth, FRA 11/50, S. 2—4; Schellhass,
+						Ninguarda II, S. 16 f.).</note>ma che al presente sperava et nel’ aiuto del
+					Sig. Dio principalmente et in quello di S. Bne et delli parenti et amici suoi,
+					che si sarebbe fatto qualche ben profito tanto nel mantenere quell poco di
+					catholico che è restato, et nel’ impedire che non faccia più progresso questa
+					abominatione quanto al remediare alli disordini et scandali presenti, et che il
+					cancellerò mi havrebbe detto il senso et parer suo.</p>
+				<p>Lo ringratiai del’ officio che si era degnato di fare con S. Mtà Ces. circa la
+					elettione del vescovo di Bamberga et del haver comandato che quell’ Hoffman
+					ritorni qua.<note xml:id="FN1_00010_09" type="footnote">Siehe oben Nr. 9.</note>
+				</p>
+				<p>Mi rispose che havrei cognosciuto sempre che egli camina di bon piedi in tutto
+					quello che può in aiutare la religione catholica, et che <pb xml:id="P1_0000029"
+					/>le farei piacere di racordarle quello che havessi giudicato esser necessario
+					in questo proposito.</p>
+				<p>Andai ancora penetrando che S. A. non fa molto bon giudicio della elettione
+					futura del vescovo et, tolta questa occasione, le dissi: Io crederò che, se il
+					capitolo non farà elettione di prelato catholico, et che al governo delli stati,
+					che sono sotto il dominio di V. A., vorrei mettere un governatore eiusdem
+					farinae che Hoffmam, che S. Bne andarà pensando che V. A. nomini qualche sig.
+					catholico et S. Stà darà un breve, acciò io le faccia la patente ; mi rispose
+					queste parole : S. Bne potrà ordinare quello che le parerà.</p>
+				<p>S. A. si degnò, fornito questo, di dimandarmi come stavo contento in queste parti
+					et se mi piaceva il paese et, rispondendo a questo ultimo capo, che mi pareva
+					bellissimo, come veramente è, mi soggiunse che li confini del Turco lo
+					guastavano et che non distavano da Graz più di tre giornate ben picciole, et che
+					li confini erano cento trenta leghe, intendendo però compreso li confini del’
+					imperatore in Crovaccia, de’ quali S. A. ha la cura, senza però suo danno né
+					spesa, et che non si poteva mai assicurare, non si potendo fortificare tanto
+					paese. Io non mancai a questo proposito di assicurare S. A. che S. Stà non è mai
+					per mancarli di quello che altre volte li ha offerto in caso, che si risolvi di
+					tentare un giorno impresa dalla banda sua.<note xml:id="FN1_00010_10"
+						type="footnote">Siehe oben Nr. 1.</note>Mi rispose che lo desiderava
+					grandemente, et che havendo S. Stà fattole parlare già tempo fa sopra di questo,
+					che egli ne dette parte al’ imperatore, senza il quale non si può movere, et che
+					non si è mai havuto risolutione alcuna, et che quanto a sé è paratissimo...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00038">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-11-21" n="4">1580-11-21</title>
+                <title level="a">38. Malaspina an Gallio - Graz, 1580 November 21</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 148rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00038">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-11-21" n="4"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00037.xml">37.
+                        Malaspina an Gallio - Graz, 1580 November 21</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00039.xml">39.
+                        Malaspina an Gallio - Graz, 1580 November 24</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00037.xml">37. Malaspina an Gallio -
+                        Graz, 1580 November 21</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00039.xml">39. Malaspina an Gallio -
+                        Graz, 1580 November 24</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Hofft auf Widerruf der den Häretikern gewährten Konzessionen und auf feste
+                    Haltung der Prälaten im Landtag. Zurückgezogenes Leben. Erzherzog Karl bekannt
+                    gewordenes Wunder bei blasphemischen Äußerungen eines Trinkers. Neue
+                    Häresien.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="38">Malaspina an Gallio - Graz, 1580 November 21</head>
+            <div>
+                <p>Questo mese ho scritto alcune lettere, de’ quali non ho risposta, non dico da
+                    mons. Illmo, che è impossibile, ma dalli miei corrispondenti di Goritia et da
+                    mons. nontio in Venetia. Però ho voluto far sapere a V. S. che ho mandato
+                    lettere delli 3, 6, 7, 9, 10, 11, 14, 15, 17 et 18 del presente et haverò caro
+                    di sapere la ricevuta.<note xml:id="FN1_00038_01" type="footnote">Am 10.
+                        Dezember wurde der Empfang dieser Berichte, ausgenommen der vom 10. und 18.
+                        November, bestätigt (Nr. 48).</note>
+                </p>
+                <p>Tra pochi giorni, che non sarano più di otto, piacerà forsi al Signore che potrò
+                    dar qualche buona nuova, ciové che questo principe habbia revocato le
+                    concessioni alli heretici,<note xml:id="FN1_00038_02" type="footnote">Siehe Nr.
+                        50.</note>ma al presente stiamo con sospensione d’animo. Io ringratio bene
+                    S. D. Mtà che non potrano questa volta scaricare la somma sopra il stato
+                    ecclesiastico, poiché ho fatto sapere al principe che loro mi promettino di
+                    voler morir meco, se sarà bisogno per defensione della religione catholica.<note
+                        xml:id="FN1_00038_03" type="footnote"> Vgl. dagegen Nr. 39.</note>Et se bene
+                    buona parte d’essi hanno insin’hora vivuto licentiosamente,<note
+                        xml:id="FN1_00038_04" type="footnote"> Vgl. Nr. 26.</note>non dimeno in
+                    questo particolare me hanno edificato grandemente, et spero che si chiarirà la
+                    partita che per loro non sta.</p>
+                <pb xml:id="P1_0000120"/>
+                <p>Io qua non escho mai di casa, se non a celebrare, perché oltre al’havere infiniti
+                    censori heretici, io mi ho prescritta questa legge per degni rispetti. Però sto
+                    alle volte fastidioso, per non dire ottioso, et il mio passatempo et recreatione
+                    è a punto il pigliar la penna et cercare la consolatione da persone lontane, et
+                    in spetie da quelli amici et signori che ho costà conosciuto, il tratto et
+                    conversatione de’ quali è molto disonante da quella che ritrovo qua. Occorrono
+                    ancora alcune cose che insin’hora ho scritto a mons. Ill.mo, per le quali può
+                    essere che non sia bene affaticarlo; però, se saprò che a V. S. non dispiaccia,
+                    io le farò sapere a lei, et voglio al presente comminciare con un miracolo che
+                    S. A. mi ha detto che è occorso in questi paesi poco tempo fa, ciové, che
+                    facendo brindisi due persone insieme, uno d’essi havendo bevuto del vino vecchio
+                    del’ anno passato, quale non è stato molto buono, lamentandosi de Dio benedetto
+                    che l’havesse fatto così, disse : „Io fo brindise a Dio et non voglio farlo con
+                    il vino novo et se non li piaccie il vecchio, habbia patientia, et dia la colpa
+                    a sé“. Et, alzando la voce che Dio li facesse ragione con una temerità
+                    grandissima, subito diventò come una statua. Il compagno, pieno di stupore et
+                    paura, fuggì nella città et li cittadini hanno tentato con bovi di levar il
+                    corpo di quel loco et mai hanno potuto. Questo è un prodigio grandissimo,
+                    massime in questi paesi dove si inubriaccono volentieri.</p>
+                <p>Ogni giorno poi se intendono cose nuove. Hora si sono scoperte due heresie
+                    bestialissime, una detta l’accidentaria et l’altra il peccato, et questi
+                    predicatori heretici mai fanno altro che impugnarle nelle lor prediche...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00100">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-06-03" n="1">1581-06-03</title>
+                <title level="a">100. Gallio an Malaspina - Rom, 1581 Juni 3</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 44r—45v, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00100">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1581-06-03" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00099.xml">99.
+                        Malaspina an Gallio - St. Lambrecht, 1581 Juni 1</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00101.xml">101.
+                        Malaspina an Abt von St. Lambrecht - St. Lambrecht, 1581 Juni 20</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00099.xml">99. Malaspina an Gallio -
+                        St. Lambrecht, 1581 Juni 1</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00102.xml">102. Malaspina an Gallio -
+                        Graz, 1581 Juli 4</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Jurisdiktionsstreit zwischen Salzburg und Erzherzog Karl. Ablehnung der Bitte des
+                    Stiftes St. Lambrecht um päpstliche Hilfe zur Schuldenzahlung. Aufnahme eines
+                    konvertierten Prädikanten und des Neffen P. Possevinos ins päpstliche Kolleg in
+                    Graz. Verwendung der von P. Possevino übergebenen Gelder.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="100">Gallio an Malaspina - Rom, 1581 Juni 3</head>
+            <div>
+                <pb xml:id="P1_0000287"/>
+                <p>Ho visto quel che V. S. mi scrive per la sua di 7 del passato,<note
+                        xml:id="FN1_00100_01" type="footnote">Nr. 89.</note>et quanto a li partiti
+                    che propone per accommodar le differenze fra S. A. et l’arcivescovo di
+                    Salzburgh, S. Stà dice che quando non si possa far di meglio (nel che ella deve
+                    usar ogni possibile diligenza, non essendoci ragione alcuna, perché S. A.
+                    s’habbi a impacciare de le cose temporali, che dependono da le chiese), si
+                    contenterà la Stà S. che per manco male le dette differenze si compongano
+                    secondo la forma proposta da V. S. Et perché il p. Possevino ne le lettere, che
+                    mi ha scritte di costì, mette in consideratione di mandar una persona privata
+                    appresso l’arcivescovo di Salzburgh, che in nome di N. S. trattasse unione et
+                    accordo con S. A., <note xml:id="FN1_00100_02" type="footnote">Nr. 85, S. 229
+                        und S. 235.</note>dice S. Stà che quando V. S. giudichi ciò necessario,
+                    potria mandarci il p. provinciale, o trovandosi egli in visita, il p.
+                    predicatore de’ Gesuiti costì, <note xml:id="FN1_00100_03" type="footnote">Siehe
+                        Nr. 111, S. 311 f.</note>che intendemo l’uno et l’altro esser attissimo,
+                    acciò dimorasse un mese o dui col detto arcivescovo per tirar questo negotio a
+                    perfettione. Siché lei potrà in ciò risolvere et essequire quel che giudicherà
+                    più espediente, ché il tutto a la prudenza sua si rimette.</p>
+                <p>A N. S. è parso strano d’intendere per le lettere, che l’abbate et monaci di S.
+                    Lamperto gli hanno scritte, che un monastero tanto opulento, com’ è quello, sia
+                    ridutto in sì gran miseria, che habbi bisogno de li aiuti di S. Stà per
+                    sostentarsi, et se non fusse la buona opinione che si ha del detto abbate et la
+                    relatione che V. S. ne fa, si potria dubitare che ciò avvenisse per il mal
+                        governo.<note xml:id="FN1_00100_04" type="footnote">Diesbezügliches
+                        befürwortendes Schreiben des Erzbischofs von Salzburg vom 6. April 1581
+                        (Arch. Vat. Nunz. Germ. 91, f. 251r—252r). Vgl. Nr. 63, S. 181, und Nr. 89,
+                        S. 246.</note>Hora S. Bne dice che V. S. gli risponda che la Stà S. è così
+                    aggravata da le spese ordinarie et <pb xml:id="P1_0000288"/>straordinarie, che
+                    gli convien fare per servitio publico, et l’entrate sue sono sì tenute, <note
+                        xml:id="FN1_00100_05" type="footnote"/>che non può dargli altro aiuto, se
+                    non di eshortarlo et consigliarlo a restringere et resecar le spese superflue et
+                    le ordinarie ancora, per non dir le necessarie, et procurar di far valere il più
+                    che può l’entrate di quel monastero et di quello che avanzerà con la sua
+                    parsimonia et diligenza, (et) andar di mano in mano riscotendo li luoghi che
+                    di(cono) che sono impegnati, che così satisfarà al debito suo, et in pochi anni
+                    ridurrà quell’abbatia nel suo pristino stato. Egli non dimanda, come V. S.
+                    presupponeva, facultà di alienar beni etc., il che da S. Stà gli saria anco
+                    stato negato, ma ricerca semplicemente aiuto per levarsi di debito. Il che serva
+                    a V. S. per avviso.</p>
+                <p>Il p. rettore de’ Gesuiti costì mi dà conto de la conversione di un predicante
+                        heretico,<note xml:id="FN1_00100_06" type="footnote"/>qual si attendeva a
+                    cathechizare et ricerca luogo per lui in cotesto nostro collegio. S. Stà dice
+                    che V. S. non manchi di farlo accettare, quando al detto padre parerà tempo che
+                    ci debba entrare et quando sia ben cathechizato, vuol S. Stà che si faccia
+                    predicar publicamente, acciò risarcisca il danno che ha fatto in seminar la
+                    falsa dottrina, con dannar quella, et essaltar come conviene la fede
+                    catholica.</p>
+                <p>Vuol similmente la Stà S. che il nipote del p. Possevino, che egli scrive haver
+                    lassato costì, sia accettato nel detto collegio et vestito come gli altri
+                        alunni,<note xml:id="FN1_00100_07" type="footnote"/>però V. S. ordinerà che
+                    così si essequisca.</p>
+                <p>Li denari lassati a V. S. dal detto padre, li distribuirà secondo che esso le
+                    haverà dato in ricordo<note xml:id="FN1_00100_08" type="footnote"/>...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

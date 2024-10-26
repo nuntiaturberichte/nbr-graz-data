@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00117">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" notAfter="1581-09-27" cert="low" n="1">vermutlich vor
+                    1581-09-27</title>
+                <title level="a">117. (Malaspina an Gallio) - (Graz, 1581 vor September 27)</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 214r—215v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00117">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658" cert="low">Malaspina,
+                        Germanico</persName>
+                    <date notAfter="1581-09-27" n="1" cert="low"/>
+                    <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266" cert="low">Gallio,
+                        Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00116.xml"
+                        >116. Gallio an Malaspina - Rom, 1581 September 9</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00118.xml">118.
+                        (Graz, 1581 vor September 27)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00116.xml">116. Gallio an Malaspina -
+                        Rom, 1581 September 9</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00119.xml">119. Malaspina an Gallio -
+                        Graz, 1581 September 27</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Summarischer Bericht über die mit Assistenz landesfürstlicher und salzburgischer
+                    Kommissare durchgeführte Visitation in der Steiermark.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="117">(Malaspina an Gallio) - (Graz, 1581 vor September 27)<note
+                    xml:id="FN1_00117_01" type="footnote">Das Datum ergibt sich aus dem Bericht
+                    Malaspinas vom 27. September 1581 (Nr. 119, S. 330).</note>
+            </head>
+            <div>
+                <p>Ne l’abbatia di S. Lamberto si è cominciata la visita et si è ritrovata in assai
+                    buon stato. L’abbate ha messo l’habito monastico.<note xml:id="FN1_00117_02"
+                        type="footnote">Vgl. Nr. 99, S. 282, Nr. 126, S. 347, und Nr. 130, S.
+                        359.</note>
+                </p>
+                <p>In l’abbatia di Admonte de l’ordine di S. Benedetto si è fatto abbate il p.
+                    Hoffmam. Si sono lasciati 12 religiosi, parte venuti da Baviera parte da S.
+                    Lamberto, et hora si sono mandati quattro giovani di buona aspettatione per
+                    pigliar l’habito et sono alumni di S. Bne, di <pb xml:id="P1_0000323"/>quelli
+                    che il nuntio tiene in casa. L’abbatia si è lasciata in buonissimo stato circa
+                    il culto divino et la disciplina monastica. <note xml:id="FN1_00117_03"
+                        type="footnote">Vgl. Nr. 111, S. 310 f.</note>
+                </p>
+                <p>La prepositura di Rotmont de l’ordine di S. Agostino, che sta tra li lochi del
+                    provinciale Hoffmam,<note xml:id="FN1_00117_04" type="footnote">Vgl. Nr. 114, S.
+                        316.</note>questa prepositura possedeva l’eleemosiniero maggiore del
+                    principe, fratello del presente arcidiacono de l’arcivescovo di Salisburgo<note
+                        xml:id="FN1_00117_05" type="footnote"> Den Brüdern Johann Muchitsch, Propst
+                        von Rottenmann, und Peter Muchitsch, 1580—1586 Archidiakon von
+                        Untersteiermark und 1587—1600 Propst von Pöllau, wurde viel Übles nachgesagt
+                        (Loserth, Reformation und Gegenreformation, S. 507 f. und 547 f.; Hübner,
+                        Archidiakonats-Einteilung, S. 57, Anm. 6).</note>et perché è huomo di
+                    scandalosa vita et ha commesso peccati enormi si è privato et incarcerato
+                    insieme con un suo curato et si è nominato un alumno di buoni costumi et buon
+                    predicatore. Il privato ha dui volte rotta la carcere, ha fatto et fa
+                    resistentia in voler lassar pigliar il possesso. Ha insieme col’arcidiacono, suo
+                    fratello, finto un memoriale a S. A. et una lettera a me, in nome de’ prelati,
+                    molto impudente, <note xml:id="FN1_00117_06" type="footnote">Beide Schreiben
+                        nicht vorhanden.</note>ma si sono fatte così buone provisioni, che bisognerà
+                    che ceda la possessione.<note xml:id="FN1_00117_07" type="footnote"> Vgl.
+                        dagegen Nr. 114, Anm. 5.</note>
+                </p>
+                <p>Si è visitato il monasterio di monache de la città di Judemburgo et si sono
+                    rimosse molte occasioni di scandali et fatta essentiale et essecutiva
+                        reformatione.<note xml:id="FN1_00117_08" type="footnote">Siehe Nr. 114, Anm.
+                        7.</note>
+                </p>
+                <p>Nel monasterio di Ghes, in Loiben, di monache di S. Benedetto si è ritrovato, ne
+                    le cose essentiali, il monasterio in assai buon stato et gran prontezza ne
+                    l’abbatessa et ne le altre di volersi reformare da dovero.<note
+                        xml:id="FN1_00117_09" type="footnote">Der Äbtissin Florentina Putter
+                        (1576-—1602) gelang es, das monastische Leben und die Wirtschaft wieder in
+                        Ordnung zu bringen (Schuster, Martin Brenner, S. 604).</note>
+                </p>
+                <p>Si è fatta dopo la visita ne la chiesa cathedrale de Secovia, dove si è ritrovato
+                    che’l vescovo è più politico che ecclesiastico, che ha dui vescovati, che la
+                    famiglia sua è heretica quasi tutta et egli di rado si confessa, è
+                    negligentissimo in ogni cosa, la persona sua non si è tocca per degni rispetti,
+                    ma si farà, piacendo a Dio, finita la dieta.<note xml:id="FN1_00117_10"
+                        type="footnote">Siehe Nr. 114, Anm. 8.</note>Il preposito haveva la
+                    concubina et sette figliuoli et il simile la maggior parte del capitolo. Nel
+                    preposito s’è ritrovata gran compuntione et speranza di emendatione. Però se li
+                    è data una buona penitentia, come <pb xml:id="P1_0000324"/>si contiene nel mio
+                    scritto, <note xml:id="FN1_00117_11" type="footnote">Nr. 115.</note>si sono
+                    privati et inhabilitati per sempre dui canonici et incarcerati per dui mesi, il
+                    simile si è fatto di dui parochi et altri preti et, per quanto si intende, quel
+                    preposito è molto mutato.</p>
+                <p>Si è ancora instituita la visita ne la città di Pruch, con l’occasione che la Mtà
+                    de l’imperatrice si è fermata in quella dui giorni.<note xml:id="FN1_00117_12"
+                        type="footnote">Siehe Nr. 114, Anm. 13.</note>Si è ritrovato che’l parocho
+                    vicario de l’arcivescovo di Salisburgo è ussorato, però perché egli dice che mai
+                    ha tenuto per dogma vero che sia lecito a li preti l’haver moglie, si è aiutato
+                    con farle fare assai rigorose penitentie et egli le ha essequite con
+                    dimostratione di pietà et obedientia principale.</p>
+                <p>Nel monasterio di Runa, de l’ordine Cisterciense, si è ritrovato l’abbate<note
+                        xml:id="FN1_00117_13" type="footnote">Georg Freiseisen, 1577—1605 Abt von
+                        Rein (Hurter, Geschichte Kaiser Ferdinands II, S. 79 Schuster a. a. O., S.
+                        605).</note>et altri regolari senza concubine, ma nel resto il monasterio
+                    era in malissimo stato; si è però ritrovata gran dispositione al bene.</p>
+                <p>Nel monasterio di Stanzo, de l’ordine di S. Agostino, si è ritrovato il
+                        preposito<note xml:id="FN1_00117_14" type="footnote">Leonhard Grasmeyer,
+                        1563—1585 Propst von Stainz (Lindner, Monasticon, S. 118).</note>con tutti
+                    li canonici concubinarii, et per esser septuagenario et haver mostrato segni di
+                    allegrezza che se le togliesse da le spalle l’importuna sua concubina, non si è
+                    privato né si è poto castigare secondo la necessità et la ragione li canonici,
+                    perché quella chiesa non havrebbe havuto ne apparentia di culto divino, per
+                    essere tutti ad un modo, si sono però incarcerati et privati un canonico et un
+                    parocho sospetti ne la fede.</p>
+                <p>Nel viaggio, che si è fatto, si sono visitate molte parochie, et per fornire
+                    perfettamente la visita di tutta Stiria restano ancora tre monasterii verso
+                        l’Austria.<note xml:id="FN1_00117_15" type="footnote">Siehe Nr. 123, S.
+                        328.</note>
+                </p>
+                <p>Pochi ho ritrovati che sappiano né la forma de la consecratione né la forma del
+                    sacramento de la penitentia, et è quasi abolito l’uso del confessarsi, dal che
+                    nasce poi ogni male tanto tra clerici quanto tra regolari et laici.</p>
+                <p>Io pensavo di potermi valere de l’opera de’ padri Giesuiti ne la visita,<note
+                        xml:id="FN1_00117_16" type="footnote">Vgl. Nr. 112.</note>ma li provinciali
+                    si sono risentito, dicendo che hormai loro vogliono governare ogni cosa et sono
+                    discesi ad alcuni particolari, per <pb xml:id="P1_0000325"/>li quali S. A. mi ha
+                    fatto intendere che giudica bene che io non gl’habbi più in mia compagnia,
+                    essortandomi ancora a ritenerli nel parlare et precipue circa le maledicentie
+                    contra la nobiltà, et così ho fatto, ma loro non restano molto sodisfatti né
+                    hanno accettato, come io credevo in bene, quello che se le è detto. Però S. A.
+                    ha fatto chiamare il padre provinciale, il quale rimediarà senza dubio ad ogni
+                    cosa, massime che non sono se non dua di loro che habbiano senso che si debba
+                    procedere con tal forma, come hanno introdotto alcuni di loro.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

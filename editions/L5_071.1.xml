@@ -1,175 +1,180 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_071.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-09-04" n="1">1599-09-04</title>
-                    <title level="a">71.1. San Giorgio an Portia - Rom, 1599 September 4</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 23r–v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_071.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1599-09-04" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_070.3.xml">70.3. (Portia an Aldobrandini) - (Graz, 1599 August 30)</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_071.2.xml">71.2. San Giorgio an Portia - Rom, 1599 September 4</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_070.1.xml">70.1. Portia an San
-                            Giorgio - Graz, 1599 August 30</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_071.2.xml">71.2. San Giorgio an
-                            Portia - Rom, 1599 September 4</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>In der Uskokenfrage, die von Erzherzog Ferdinand in Anbetracht der Kosten
-						nicht gelöst werden kann, hat Clemens VIII. ein Breve an den Kaiser
-						geschrieben, damit dieser entsprechende Mittel aufbringt. Kein Posteingang.
-						Auflosung der Ehe der Fursten von Siebenburgen [Maria Christierna, S.
-						Báthory] wurde dem Papst mitgeteilt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="71.1">San Giorgio an Portia - Rom, 1599 September 4</head>
-				<div>
-					<pb xml:id="P5_0000188"/>
-					<p>Una delle principal cause che riscaldi tanto N. S. nel negotio degli Uscocchi
-						è l’interesse del ser.mo Arciduca al quale toccano i primi incommodi et i
-						primi danni, et però S. B.ne vedendo che la difficoltà nasce dal capo della
-						spesa et dalla impossibilità spetialmente di S. A., ha preso ispediente di
-						scrivere nuovo Breve all’Imperatore<note xml:id="FN5_071.1_01" type="footnote">Clemens VIII. an Rudolf II., Rom, 1599 August 29:
-							NANNIIMRKONJIé 3, Nr. 13268.</note> che già si è inviato al Sig.
-						Flaminio Delfini perché la rimova S. M.tà che può o devrebbe poterlo
-							fare<note xml:id="FN5_071.1_02" type="footnote">Delfini bestiitigte den
-							Erhalt des Breves am 13. September 1599: vgl. HORVAT 1, S. 269.</note>.
-						Pensava di scriverne anco alla medesima A., ma riputandosi che sia già
-						disposta alle cose possibili et bastino seco gl’uffitii di V. S. non le
-						scriverà forsi, et facendolo pure s’inviarà il Breve in mani di lei con la
-						sua copia.</p>
-					<p>Resto con meraviglia che a V. S. non sia capitata la mia lettera in materia
-						delle gratie che si fanno da S. S.tà all’Arciduca in persona dei fratelli,
-						et se bene posso credere che l’haverà poi havuta le ne invio nondimeno
-						l’annesso dupplicato<note xml:id="FN5_071.1_03" type="footnote">Kopie nicht
-							auffindbar. Das erwiihnte Schreiben (Nr. 63.2) stammte vom 7. August
-							1599 und war bis zum 23. August nicht in Graz eingetroffen: vgl. Nr.
-							68.1.</note>.</p>
-					<p>A N. S. ho dato conto della dissolutione del matrimonio che ella avvisa di
-						haver publicata conforme alle scritture che si hebbero con le sue
-							antecedenti<note xml:id="FN5_071.1_04" type="footnote">Nr. 66.1, 66.2.
-							Diese Prozessakten sind nicht auffindbar: vgl. Nr. 66.1.</note>. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_071.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-09-04" n="1">1599-09-04</title>
+                <title level="a">71.1. San Giorgio an Portia - Rom, 1599 September 4</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 23r–v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_071.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1599-09-04" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_070.3.xml"
+                        >70.3. (Portia an Aldobrandini) - (Graz, 1599 August 30)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_071.2.xml">71.2.
+                        San Giorgio an Portia - Rom, 1599 September 4</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_070.1.xml">70.1. Portia an San
+                        Giorgio - Graz, 1599 August 30</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_071.2.xml">71.2. San Giorgio an
+                        Portia - Rom, 1599 September 4</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>In der Uskokenfrage, die von Erzherzog Ferdinand in Anbetracht der Kosten nicht
+                    gelöst werden kann, hat Clemens VIII. ein Breve an den Kaiser geschrieben, damit
+                    dieser entsprechende Mittel aufbringt. Kein Posteingang. Auflosung der Ehe der
+                    Fursten von Siebenburgen [Maria Christierna, S. Báthory] wurde dem Papst
+                    mitgeteilt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="71.1">San Giorgio an Portia - Rom, 1599 September 4</head>
+            <div>
+                <pb xml:id="P5_0000188"/>
+                <p>Una delle principal cause che riscaldi tanto N. S. nel negotio degli Uscocchi è
+                    l’interesse del ser.mo Arciduca al quale toccano i primi incommodi et i primi
+                    danni, et però S. B.ne vedendo che la difficoltà nasce dal capo della spesa et
+                    dalla impossibilità spetialmente di S. A., ha preso ispediente di scrivere nuovo
+                    Breve all’Imperatore<note xml:id="FN5_071.1_01" type="footnote">Clemens VIII. an
+                        Rudolf II., Rom, 1599 August 29: NANNIIMRKONJIé 3, Nr. 13268.</note>che già
+                    si è inviato al Sig. Flaminio Delfini perché la rimova S. M.tà che può o
+                    devrebbe poterlo fare <note xml:id="FN5_071.1_02" type="footnote">Delfini
+                        bestiitigte den Erhalt des Breves am 13. September 1599: vgl. HORVAT 1, S.
+                        269.</note>. Pensava di scriverne anco alla medesima A., ma riputandosi che
+                    sia già disposta alle cose possibili et bastino seco gl’uffitii di V. S. non le
+                    scriverà forsi, et facendolo pure s’inviarà il Breve in mani di lei con la sua
+                    copia.</p>
+                <p>Resto con meraviglia che a V. S. non sia capitata la mia lettera in materia delle
+                    gratie che si fanno da S. S.tà all’Arciduca in persona dei fratelli, et se bene
+                    posso credere che l’haverà poi havuta le ne invio nondimeno l’annesso
+                        dupplicato<note xml:id="FN5_071.1_03" type="footnote">Kopie nicht
+                        auffindbar. Das erwiihnte Schreiben (Nr. 63.2) stammte vom 7. August 1599
+                        und war bis zum 23. August nicht in Graz eingetroffen: vgl. Nr.
+                    68.1.</note>.</p>
+                <p>A N. S. ho dato conto della dissolutione del matrimonio che ella avvisa di haver
+                    publicata conforme alle scritture che si hebbero con le sue antecedenti<note
+                        xml:id="FN5_071.1_04" type="footnote">Nr. 66.1, 66.2. Diese Prozessakten
+                        sind nicht auffindbar: vgl. Nr. 66.1.</note>. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

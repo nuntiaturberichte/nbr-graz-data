@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00126">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-11-07" n="1">1581-11-07</title>
+                <title level="a">126. Malaspina an Gallio - Graz, 1581 November 7</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 359r—301r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00126">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-11-07" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00125.xml"
+                        >125. Gallio an Malaspina - Rom, 1581 Oktober 28</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00127.xml">127.
+                        Gallio an Malaspina - Rom, 1581 November 11</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00125.xml">125. Gallio an Malaspina -
+                        Rom, 1581 Oktober 28</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00127.xml">127. Gallio an Malaspina -
+                        Rom, 1581 November 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Festigung der Haltung Erzherzog Karls und seiner Räte in Religionsangelegenheit.
+                    Einkerkerung des häretischen Stadtrichters von Graz. Erfolgreicher Abschluß der
+                    Visitation aller Prälaten und der wichtigsten Pfarren in der Steiermark.
+                    Strenges Vorgehen gegen Priesterkonkubinen. Geringer Anteil der unter beiderlei
+                    Gestalt Kommunizierenden. Bitte Erzherzog Karls um Berücksichtigung
+                    österreichischer Interessen bei eventuellem Tod des erkrankten erwählten
+                    Patriarchen von Aquileia.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="126">Malaspina an Gallio - Graz, 1581 November 7</head>
+            <div>
+                <pb xml:id="P1_0000345"/>
+                <p>Concorrono alcuni degni rispetti che mi movono o, per dir meglio, necessitano a
+                    non tacere nel negocio de la religione né a questo sermo principe né a li
+                    consiglieri suoi, cosa che io mi possa persuadere che sia a proposito per
+                    disponere gl’animi loro ad abbracciare da dovero et con sincero et candido animo
+                    l’impresa, già altre volte tentata, di sollevare l’afflitta et smarita religione
+                    catholica. Et mi par cosa strana che questi signori che già, se ben tardi,
+                    cominciano a conoscere la nuvola che le ha offuscata insin’hora l’intelletto con
+                    una falsa persuasione che la lutherana sette non contravenesse a la
+                    conservatione de li stati, il che causava che loro usavano perciò ogni
+                    conniventia, non habbino di presente, con la cognitione di questa verità,
+                    confessata da loro un virile et ardente desiderio di provedere a li infiniti
+                    disordini et abusi preveduti da loro,<note xml:id="FN1_00126_01" type="footnote"
+                        >Vgl. Nr. 114.</note>per il che io che mi affligo grandemente che la natura
+                    timida et data al riposo di questo principe sia aiutata a questo da li
+                    consiglieri suoi, ho ultimamente, inanzi la partita mia per la visita, scritto
+                    l’inclusa lettera a S. A., la quale ho voluto mandare a V. S. Illma con
+                    significarle ancora parte di quelli motivi, che mi hanno necessitato a parlare
+                    in simil forma, <note xml:id="FN1_00126_02" type="footnote">Nr. 124.</note>et
+                    ringratio il Signor Dio che non solo il principe, al quale, s’io non m’inganno,
+                    hormai è noto il fine che mi move a dire ingenuamente quello che sento, ma
+                    ancora li consiglieri hanno accettato per bene quello che io ho scritto et
+                    datone buone dimostrationi, essendo che, quanto al negocio principale, S. A. mi
+                    ha fatto rispondere che lei mi promette santamente che, se li provinciali non
+                    vorranno accettare<pb xml:id="P1_0000346"/> il decreto che pensa di publicare,
+                    vuole subito venire a la separatione de’ stati et al metter il presidio, et che
+                    la dilatione che piglia hora non è per altro che per provare se vogliono, per
+                    mezo d’un colloquio, acquetarsi et per fugire di non trattar in dieta negotio di
+                    religione, ma assicurarsi senza strepito del temporale.<note
+                        xml:id="FN1_00126_03" type="footnote"> Vgl. Nr. 123, S. 336 ff.</note>Ha
+                    ancora S. A. dui giorni fa fatto incarcerar il giudice de la città heretico, il
+                    quale, dopo d’haver noi altri catholici ottenuto con grandissima fatica et
+                    difficoltà da S. A. che li giustitiati siano confortati solamente da li padri
+                    Giesuiti et altri preti catholici, questo giudice, essendo condannato un
+                    lutherano, escluse li padri Giesuiti; et il principe l’ha castigato con gran
+                    disgusto de li provinciali, quali non possono patire che il principe voglia che
+                    quelli che sono condannati morano in altra fede di quella che vivendo hanno
+                    professata. <note xml:id="FN1_00126_04" type="footnote">Stadtrichter war
+                        wahrscheinlich Hanns Khistall (Popelka, Geschichte der Stadt Graz I, S.
+                        487).</note>
+                </p>
+                <p>Io son ritornato da la visita con molta mia sodisfattione per il maraviglioso
+                    frutto che si è fatto. Ho scacciato 20 moglie putative di parochi et sono stati
+                    tutti obedienti da tre in poi, quali perciò ho privati, et quello che mi fa star
+                    consolato è che essendosi S. A. contentata di darmi auttorità di poter far
+                    bandire in nome di lei le concubine, sotto pena de la frusta et al giudice di
+                    500 fiorini, se subito non essequisce et non le manda legate a Gratz et a li
+                    popoli, sotto pena de la disgratia di S. A. se non aiutaranno.<note
+                        xml:id="FN1_00126_05" type="footnote">Die Verhältnisse dürften sich seit der
+                        1575 durchgeführten Visitation kaum geändert haben (Schuster, Martin
+                        Brenner, S. 214 f.; Pickl, Reformation und Gegenreformation im Bereich des
+                        Klosters Neuberg, S. 79 ff.).</note>Io perciò mi vengo ad assicurare, et con
+                    questo mezo et con li altri che uso, che non ritorneranno più. È intrato tanto
+                    terrore in tutti, che se si proseguirà io spero senza gran romore che si potrà
+                    restituire in buona parte la disciplina regolare et ecclesiastica, poiché questo
+                    principio che si è dato in Stiria, ne la quale ho visitato tutti li prelati et
+                    li più principali parochi, è successo felicemente et l’havermi il principe
+                    ancora dato potestà di togliere l’obligo et giuramento de’ sudditi dato a li
+                    prelati, et altrimente che dura la visita ha causato che li contadini, che hanno
+                    insin’hora pensato che il concubinato de’ sacerdoti fosse vero matrimonio,
+                    intendendo hora che non è così, mostrano gran prontezza di non voler più
+                    soffrire che li siano ministrati li sacramenti da pastore escommunicato, et
+                    perché son sicuro che N. S. sentirà grandissima consolatione, non voglio lasciar
+                    di dirle che nel quarto di Stiria verso <pb xml:id="P1_0000347"/>l’Austria, che
+                    hora ho visitato, ho trovato 16 milia communicanti, tra quali non ci è se non
+                    quattrocento cinquanta, che si communichino sub utraque.<note
+                        xml:id="FN1_00126_06" type="footnote"> Vgl. Nr. 104, Anm. 4.</note>
+                </p>
+                <p>Li heretici, con l’occasione de la visita, mi hanno querelato con un impeto
+                    grandissimo, accusandomi che io separo li matrimonii et che sono più severo con
+                    li preti ussorati che con li concubinarii, essendo il stato de li ussorati santo
+                    et buono. Il principe le ha risposto che attendono a li loro predicatori et
+                    lascino la cura al nuntio di quello che tocca al officio suo, ma ne la dieta
+                    faranno rumori, perché le donne, che sono state tenute per vere mogli de’
+                    sacerdoti et ingannate da loro, non si possono acquetare di esser tenute per
+                    concubine et ricorrono a li provinciali per aiuto. Nondimeno il principe non
+                    mostra di stimare molto le minaccie de li heretici in questo fatto.<note
+                        xml:id="FN1_00126_07" type="footnote">Vgl. Nr. 121, S. 334, und Nr.
+                        132.</note>
+                </p>
+                <p>Ne la dieta prossima si havrà pur questo, che tutti li prelati verranno in habito
+                    secondo l’ordine di ciascuno et nessuno havrà concubina, cosa che a memoria
+                    d’huomini non si recorda che sia stata, et cominciando a comparvi li prelati,
+                    questi nobili, vedendoli non solo in habito senza sete et lattuche a le
+                    camiscie, ma fratesco, li burlano tanto che loro sono mezo disperati; et in vero
+                    la mutatione è stata grandissima et il popolo non avezzo ancora, esso corre a
+                    guardarli con maraviglia.<note xml:id="FN1_00126_08" type="footnote">Vgl. Nr.
+                        130, S. 359.</note>È comparso l’abbate di Noiperg, per ancora non ho dato
+                    principio a la essaminatione sua <note xml:id="FN1_00126_09" type="footnote"
+                        >Vgl. Nr. 123, S. 338 f.</note>...</p>
+                <p>Essendo stata avvisata S. A. da l’ambasciatore Ces. in Vinetia, che mons. eletto
+                    di Aquilea era in cotesta città gravemente infermo et con pericolo di morte,
+                    subito mandò da me il cancelliero, facendomi instantia grandissima che in nome
+                    di lei supplicassi la Stà di N. S. che in evento l’eletto passasse a miglior
+                    vita, S. Bne si degnasse, dovendosi far un altro, di haver in consideratione che
+                    quel patriarchato non si perpetui in signori Vinetiani, ma si dia una volta o a
+                    soggetti confidenti di casa d’Austria o a persona neutrale, promettendomi che,
+                    se si farà così, che ne succederanno molti beni et forse si risolverebbono a far
+                    de le risolutioni che altrimente non faranno mai. Ho poi inteso che S. A. ha
+                    scritto a l’imperatore per moverlo a interponere l’auttorità sua ancor esso con
+                    S. Stà per questo effetto.<note xml:id="FN1_00126_10" type="footnote">Der hier
+                        in Erwägung gezogene eventuelle Todesfall ist nicht eingetreten. Die Würde
+                        eines Patriarchen von Aquileia hatten trotz aller österreichischen
+                        Bemühungen auch weiterhin Venezianer inne (Hierarchia Catholica III, S. 114;
+                        Wien HHStA, Rom Korrespondenz 42, f. 237r—238r).</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

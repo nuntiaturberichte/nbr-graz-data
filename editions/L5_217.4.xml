@@ -1,178 +1,183 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_217.4"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-04-28" n="4">1601-04-28</title>
-                    <title level="a">217.4. San Giorgio an Portia - Rom, 1601 April 28</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 62v–63v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_217.4">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-04-28" n="4"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_217.3.xml">217.3. San Giorgio an Portia - Rom, 1601 April 28</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_217.5.xml">217.5. San Giorgio an Portia - Rom, 1601 April 28</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_217.3.xml">217.3. San Giorgio an
-                            Portia - Rom, 1601 April 28</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_217.5.xml">217.5. San Giorgio an
-                            Portia - Rom, 1601 April 28</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>In Rom erwartet man sich Informationen nach der Rückkehr des Jakob von
-						Breuner aus Prag. Die Kurie ruft dazu auf, dem Boten des Wesirs Damad
-						Ibrahim Pascha gegenüber skeptisch zu bleiben und sich den Vorbereitungen
-						zum Türkenkrieg zu widmen. Kopien des Briefes von Mehmet Aga an den Herzog
-						von Mercœur sind auch aus Prag und Wien eingelangt. Clemens VIII. sichert
-						Erzherzog Leopold bezüglich des Klosters Murbach seine Unterstützung zu und
-						erklärt sich bereit, Gian Francesco Aldobrandini mit 10.000 Fußsoldaten nach
-						Innerösterreich zu schicken. Der Papst wird seinerseits den Gro/3herzog der
-						Toskana [Ferdinando I.] zur .finanziellen Unterstützung Erzherzog Ferdinands
-						auffordern.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="217.4">San Giorgio an Portia - Rom, 1601 April 28</head>
-				<div>
-					<pb xml:id="P5_0000487"/>
-					<p>Intendiamo da Praga che il Baron Prainer se ne tornava costì ben spedito, di
-						dove però non si dubita ch’ella non ci faccia sapere molti particolari in
-						breve. Della persona che veniva all’Arciduca come mandata da Ibraim hanno
-						gran causa di non si fidare<note xml:id="FN5_217.4_01" type="footnote">Vgl.
-							Nr. 210.2, 212.2.</note>, ma l’hanno maggiore di solecitare le
-						provisioni della guerra, vedendo che non si perde tempo dalla parte dei
-						Turchi et che cresce ogni dì il numero loro.</p>
-					<p>Si era havuta anco da Praga et da Vienna la copia della lettera scritta da
-						Mehemet Aga al Duca di Mercurio<note xml:id="FN5_217.4_02" type="footnote">Vgl. Beilage der Nr. 212.2.</note>, ma gl’altri avvisi di V. S. in
-						materia delle preparationi che si fanno da ogni parte sono più copiosi di
-						tutti.</p>
-					<p>Nel negotio di Murbach havrà il Duca Leopoldo<note xml:id="FN5_217.4_03" type="footnote">Es handelt sich wohl um einen Schreibfehler, denn
-							gemeint ist Erzherzog Leopold.</note> tutto il favore che conoscerà S.
-						B.ne di poterli lecitamente fare …</p>
-					<p>N. S. si dichiarò poi di voler mandar la propria persona del Sig. Giovan
-						Francesco con diecimila fanti per servitio di coteste Provincie et del
-						ser.mo Arciduca, stimando che ivi debba esser lo sforzo maggiore del nemico,
-						che quando il pericolo fosse altrove et il bisogno vede ben S. A. per sè
-						stessa che là bisognerà che ogn’uno vada. S. S.tà farà offitio co ’l
-						Granduca perché esso ancora concorra per la sua parte conforme all’instanza
-						che ne ha fatta il Conte Sigismondo et non dispera di poterne cavare buona
-						risolutione.</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_217.4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-04-28" n="4">1601-04-28</title>
+                <title level="a">217.4. San Giorgio an Portia - Rom, 1601 April 28</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 62v–63v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_217.4">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-04-28" n="4"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_217.3.xml"
+                        >217.3. San Giorgio an Portia - Rom, 1601 April 28</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_217.5.xml">217.5.
+                        San Giorgio an Portia - Rom, 1601 April 28</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_217.3.xml">217.3. San Giorgio an
+                        Portia - Rom, 1601 April 28</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_217.5.xml">217.5. San Giorgio an
+                        Portia - Rom, 1601 April 28</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>In Rom erwartet man sich Informationen nach der Rückkehr des Jakob von Breuner
+                    aus Prag. Die Kurie ruft dazu auf, dem Boten des Wesirs Damad Ibrahim Pascha
+                    gegenüber skeptisch zu bleiben und sich den Vorbereitungen zum Türkenkrieg zu
+                    widmen. Kopien des Briefes von Mehmet Aga an den Herzog von Mercœur sind auch
+                    aus Prag und Wien eingelangt. Clemens VIII. sichert Erzherzog Leopold bezüglich
+                    des Klosters Murbach seine Unterstützung zu und erklärt sich bereit, Gian
+                    Francesco Aldobrandini mit 10.000 Fußsoldaten nach Innerösterreich zu schicken.
+                    Der Papst wird seinerseits den Gro/3herzog der Toskana [Ferdinando I.] zur
+                    .finanziellen Unterstützung Erzherzog Ferdinands auffordern.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="217.4">San Giorgio an Portia - Rom, 1601 April 28</head>
+            <div>
+                <pb xml:id="P5_0000487"/>
+                <p>Intendiamo da Praga che il Baron Prainer se ne tornava costì ben spedito, di dove
+                    però non si dubita ch’ella non ci faccia sapere molti particolari in breve.
+                    Della persona che veniva all’Arciduca come mandata da Ibraim hanno gran causa di
+                    non si fidare<note xml:id="FN5_217.4_01" type="footnote">Vgl. Nr. 210.2,
+                        212.2.</note>, ma l’hanno maggiore di solecitare le provisioni della guerra,
+                    vedendo che non si perde tempo dalla parte dei Turchi et che cresce ogni dì il
+                    numero loro.</p>
+                <p>Si era havuta anco da Praga et da Vienna la copia della lettera scritta da
+                    Mehemet Aga al Duca di Mercurio<note xml:id="FN5_217.4_02" type="footnote">Vgl.
+                        Beilage der Nr. 212.2.</note>, ma gl’altri avvisi di V. S. in materia delle
+                    preparationi che si fanno da ogni parte sono più copiosi di tutti.</p>
+                <p>Nel negotio di Murbach havrà il Duca Leopoldo<note xml:id="FN5_217.4_03"
+                        type="footnote">Es handelt sich wohl um einen Schreibfehler, denn gemeint
+                        ist Erzherzog Leopold.</note>tutto il favore che conoscerà S. B.ne di
+                    poterli lecitamente fare …</p>
+                <p>N. S. si dichiarò poi di voler mandar la propria persona del Sig. Giovan
+                    Francesco con diecimila fanti per servitio di coteste Provincie et del ser.mo
+                    Arciduca, stimando che ivi debba esser lo sforzo maggiore del nemico, che quando
+                    il pericolo fosse altrove et il bisogno vede ben S. A. per sè stessa che là
+                    bisognerà che ogn’uno vada. S. S.tà farà offitio co ’l Granduca perché esso
+                    ancora concorra per la sua parte conforme all’instanza che ne ha fatta il Conte
+                    Sigismondo et non dispera di poterne cavare buona risolutione.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

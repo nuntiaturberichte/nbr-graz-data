@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00083">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1583-04-21" n="1">1583-04-21</title>
+				<title level="a">83. Malaspina an Gallio - Köln, 1583 April 21</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 101, f. 38r—41r, Orig.<lb/>Druck: Hansen,
+							Nuntiaturberichte III/1, S. 513—518.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00083">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1583-04-21" n="1"/>
+					<placeName ref="#http://www.geonames.org/2886242">Cologne</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00082.xml">82.
+						Malaspina an Gallio - Köln, 1583 April 15</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00084.xml">84.
+						Malaspina an Gallio - Köln, 1583 April 28</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00082.xml">82. Malaspina an Gallio -
+						Köln, 1583 April 15</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00084.xml">84. Malaspina an Gallio -
+						Köln, 1583 April 28</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Bemühungen um Beseitigung der Differenzen zwischen Bayern und Graf Manderscheid.
+					Befehl des Kaisers zum Abzug der vom Domkapitel ins Land gerufenen spanischen
+					Truppen. Verdacht gegen Erzbischof von Mainz. Verschiebung des Prozesses gegen
+					Westerhold. Eingehendes Gespräch mit Salentin von Isenburg über militärische
+					Angelegenheiten.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="83">Malaspina an Gallio - Köln, 1583 April 21</head>
+			<div>
+				<pb xml:id="P2_0000121"/>
+				<p>Se bene io ho inteso da assai buon luogho, che quello, che ultimamente in scritto
+					et a bocca ricercai dalli capitulari (del che, con questa mia, sarà il
+						duplicato)<note xml:id="FN2_00083_01" type="footnote">Vgl. oben Nr. 79, Anm.
+						21 und Nr. 82, Anm. 1.</note>ha partorito nelli animi loro assai buon
+					effetto, onde pare che si possi con fondamento sperare che siano per darmi
+					risolutione, conforme al desiderio et intento, che si ha, nondimeno, perché dove
+					sono molti capi suol ordinariamente nascere varie mutationi, è cosa più sicura
+					suspendere l’intelletto, insin che si habbia in mano la risposta loro, quale
+					credo che mi sarà data in scritto et si metterà alhora ogni studio, acciò sia
+					essequita.</p>
+				<p>Dalle precedenti mie scritte a l’ill.mo legato, delle quali ne mandai copia a V.
+					S. Ill.ma,<note xml:id="FN2_00083_02" type="footnote">Vgl. oben Nr. 81, Anm.
+						2.</note>si havrà potuto intendere, in che stato di diffidentia stavano li
+						Bavari<note xml:id="FN2_00083_03" type="footnote"> Die Herzöge Wilhelm und
+						Ernst.</note>et li conti di Manderschet, <note xml:id="FN2_00083_04"
+						type="footnote">Die Grafen Johann und Arnold von Manderscheid.</note>onde
+					pareva al vescovo di Lieggi gettata al vento ogni faticha, che si facesse per la
+					compositione. Nondimeno io, inherendo alla mente di S. B.ne, ho fatto diversi
+					officii da l’una et l’altra parte et ho per gratia del Signore ridotta la
+					prattica a assai buon termine. <note xml:id="FN2_00083_05" type="footnote">Vgl.
+						oben Nr. 72, Anm. 9.</note>Et dovendo tutti due domani venire insieme da me,
+					dove anco desinaranno, spero che si sepeliranno le male sodisfattioni passate et
+					si stabilirà una buona intelligenza tra di loro. Et il principe <note
+						xml:id="FN2_00083_06" type="footnote">Ernst von Bayern.</note>prometterà (et
+					forsi anco in scritto) non solo per sé, ma per tutti li suoi parenti, che per
+					l’avenire saranno perpetuamente amici alla casa Manderschet, et il conte <note
+						xml:id="FN2_00083_07" type="footnote">Graf Arnold von Manderscheid.</note>
+					<pb xml:id="P2_0000122"/>reciprocamente farà l’istesso, et quanto alla sua
+					persona et quanto alli fratelli, a’ quali da l’uno et da l’altro di loro subito
+					si espedirà huomo a posta, acciò ratificano quello che qua da noi si sarà
+					concluso. Questa attione si tiene molto secreta per il timore, che si ha, che
+					qualche mal spirito di novo non cerchi di seminare zizanie; et io in vero vivo
+					con molta gelosia insin che non vedo essequito quello che l’uno et l’altro di
+					loro mi ha promesso. <note xml:id="FN2_00083_08" type="footnote">Vgl. unten Nr.
+						84.</note>
+				</p>
+				<p>Le cose del Bavaro sono bene in assai buoni termini, ma l’esser state fatte
+					prattiche publiche et manifestato a tutti la pretensione, che si ha, fa che
+					coloro, che sono ben affetti a lui, prevedendo che, quando non riuscisse,
+					sarebbe con qualche detrimento della essistimatione sua, vivono in molta
+					sollicitudine, né si possono assicurare d’altra maniera, che col cercare di
+					stabilire buona intelligenza tra il conte et lui, et per questo dicono che
+					Nostro Signore non poteva fare attione di maggior benefitio alla casa di
+					Baviera, quanto è quella che si ha principiata.<note xml:id="FN2_00083_09"
+						type="footnote">Vgl. oben Nr. 44, Anm. 2.</note>
+				</p>
+				<p>Tutti universalmente qui hanno di mala voglia inteso l’ordine, che la Maestà de
+					l’imperatore ha dato al principe di Parma et l’effetto che ha fatto, poiché ha
+					subito commandato, che le genti del re si retirino.<note xml:id="FN2_00083_10"
+						type="footnote">Minutio Minucci meldete am 14. April, daß die Franzosen
+						bereits in Bonn seien und daß der Prinz von Parma Hof und Feldlager von
+						Tournay nach Maastricht verlege, um Köln näher zu sein. Der Kaiser
+						trachtete, Franzosen und Spanier fernzuhalten, die Kurfürsten, Papst und
+						Spanier in Köln auszuschalten (Hansen, Nuntiaturberichte III/1, S. 500f.,
+						512, Anm. 3).</note>Et come sogliono coloro, che sono mal sodisfatti, haver
+					dispositione al far facilmente sinistri giuditii, attribuiscono alcuni
+					capitulari la forma di procedere di S. M.tà a’ proprii interessi, quali a loro
+					pare d’haver scoperto doppo l’arrivo del Prainer,<note xml:id="FN2_00083_11"
+						type="footnote"> Hans von Breuner.</note>et havendo inteso la risposta del
+					principe, che retirarà le genti del re et le farà ritornare a ogni comandamento
+					di S. M.tà, si sono confirmati mirabilmente che l’imperatore vadi a quel fine,
+					che da principio communicarono meco et io ne diedi nelle precedenti mie
+					raguaglio a l’ill.mo legato con le lettere da me nominate di sopra. <note
+						xml:id="FN2_00083_12" type="footnote">Nr. 79.</note>Da l’altra parte li
+					commissarii di S. M.tà cercano ogni modo di togliere tal suspetto, conceputo et
+					confirmato nell’animi delli capitulari per tre potissimi pretesti: Il primo è
+					che, quando loro alli mesi passati in nome de S. M.tà <pb xml:id="P2_0000123"
+					/>ricercorno d’intendere dal capitolo, a che fine le genti del re erano stati
+					ricercate di transferirsi nelli confini di questo arcivescovato, li capitulari
+					non si dechiarorno, <note xml:id="FN2_00083_13" type="footnote">Die unter dem
+						Kommando Parmas stehenden spanischen Truppen wurden von den Kölner
+						Kanonikern ins Land gerufen. Kurfürsten und Kaiser versuchten, sie wieder
+						hinauszubringen (Hansen, Nuntiaturberichte III/1, S. 446f., 469f.).</note>ma
+					se la passorno assai ambiguamente. Per il che l’imperatore presuppone al
+					presente di non farli ingiuria alcuna, ma di inherire alla risposta datali da
+					prima, nella quale non mostrorno che l’intento loro fusse di servirsi realmente
+					di quelle genti. Il secondo pretesto è, che la M.tà S. difficilmente poteva
+					escusarsi di non sodisfare alle petitioni importune et minatorie delli principi
+					protestanti, et che la M.tà S. ha similmente fatto l’estesso offitio con la
+					parte adversa, et con quella efficacia, che si conveniva, la quale quando non
+					obedirà, la M.tà S. potrà un’altra volta rechiamare le genti regie. Il terzo,
+					sopra il quale fanno grandissimo fundamento et si riscaldano, è l’attribuire
+					tutti questi inconvenienti alla tardanza del legato, et sicome in tal
+					particolare loro escono fuori di quello che principalmente si tratta con loro,
+					così io ho sodisfatto al debito et conscientia mia, se bene hormai non so più
+					che dirmi, vedendo che ancora non compare S. S. Ill.ma.</p>
+				<p>Hora li capitulari, doppo una matura deliberatione, hanno risposto in viva voce
+					alli commissarii nella sequente forma: Che loro non possono se non restare molto
+					attoniti et afflitti, vedendo che la maestà de l’imperatore con la parte adversa
+					se la passa con offitii di semplici parole et che con loro si serve
+					dell’authorità imperiale col comandare così assolutamente al signor principe, et
+					che perciò, sapendo loro che la parte adversa non ha non solo obedito alla M.tà
+					S., ma né manco stimato l’offitio fatto con loro, si risolvevano, non ostante la
+					risposta data dal principe a S. M.tà, d’instare di nuovo et con ogni possibile
+					affetto, acciò il principe facesse ritornare le genti rechiamate, poiché
+					altrimenti prevedevano in breve la ruvina della loro chiesa, et che in questo
+					non presupponevano di tentar cosa contra la mente di S. M.tà, ma che, in evento
+					che la parte adversa suspendesse le armi, che loro sarebbono pronti di far il
+					medesimo, con tre conditioni però: la prima, che ciò realmente, non
+					fraudolentemente fusse essequito; secondariamente, che si astenessero da
+					l’essercitio heretico o almeno non si propagasse più; la terza, che non
+					potessero fortificare né presidiare loco alcuno posseduto da loro; et che di
+					tutto questo la parte adversa ne desse <pb xml:id="P2_0000124"/>cautione
+					sufficiente, soggiongendo che, conoscendo li capitulari la falsità de
+					l’apostata, non volevano pretermettere di non mettere in consideratione a S.
+					M.tà che difficilmente si potevano fidare di lui, et che però non vedevano modo
+					di porre ad effetto quello che altrimente loro volentieri havrebbono consentito,
+					che si facesse. Et ultimamente per conclusione della risposta et proposta loro
+					supplicavano a S. M.tà, che in modo alcuno si lasciasse indurre di rimettere la
+					determinatione dell’asserte pretensioni del Truxes alli stati de l’imperio o
+					elettori soli, come si faceva da loro instantia alla M.tà S., <note
+						xml:id="FN2_00083_14" type="footnote">Gebhard Truchseß ernannte Johann
+						Casimir von der Pfalz zu seinem Feldobersten und verhandelte in Heidelberg.
+						Die weltlichen Kurfürsten wandten sich an den Kaiser, weil der Papst nicht
+						einen Kurfürsten wie einen Erzbischof absetzen könne (Hansen,
+						Nuntiaturberichte III/1, S. 512, Anm. 3 und 519, Anm. 2).</note>poiché da
+					tal attione ne sarebbe nata la rovina non solo di questa chiesa, ma del
+					catholichismo della Germania, ma che S. M.tà, non perturbando il corso canonico
+					et consueto, non pregiudicasse né alla propria iurisdittione, né a quella di S.
+					B.ne con espresso detrimento del capitolo et de l’honore et gloria di Dio.</p>
+				<p>Con l’occasione di questa risposta hieri si espedì un’correro espresso a S. M.tà
+					dalli commissarii, quali questa mattina poi hanno conferito et communicato meco
+					quello, che ho humilmente insinuato a V. S. Ill.ma. Quanto è di buono nella
+					dilatione (che si havrà inanzi che venghi la resolutione di S. M.tà o dal
+					prencipe, se pur si moverà alla instantia nova del capitolo) è che non si sente
+					che dal canto nostro le cose peggiorino, anzi alcuni dicono che pigliano
+					meglioramente, il quale seguiterà di bene in meglio ogni giorno più, se è vero
+					che si siano disfatte da sé quelle genti francesi, del che alcuni dicono di
+					haver certo aviso, et che il duca di Sassonia si sia dechiarato di non volere
+					fomentare il Truxes, come pare che accennino li commissarii cesarei.</p>
+				<p>Essendosi sparsa già alcuni giorni fa una voce tra persone qualificate et pie,
+					che l’arcivescovo Mogontino vadi usando in materia di religione una conniventia
+					in qualche modo suspetta,<note xml:id="FN2_00083_15" type="footnote">Erzbischof
+						Wolfgang Dalberg hat den Kontakt zu den protestantischen Reichsständen nicht
+						abgebrochen, suchte neben konfessionellen Standpunkten auch Reichsinteressen
+						gelten zu lassen und wurde dafür von der eigenen Seite als kleinmütig
+						bezeichnet (Hansen, Nuntiaturberichte III/1, S. 314, 327f.).</note>si siamo
+					uniti insieme li commissarii cesarei et io per communicar il modo, che si
+					potesse tenere nel chiarirsi della verità, et doppo del remedio, che <pb
+						xml:id="P2_0000125"/>per tempo si potesse applicare. Et se bene nella
+					communicatione fatta tra noi si è ritrovato l’incontro delli avisi uniformi,
+					nondimeno si siamo risoluti, non esser cosa sicura né espediente, che si chiami
+					qua il provintiale de’ reverendi padri Gesuiti per cavare da lui una vera et
+					veridica informatione, come era stato proposto, concorrendo tutti noi che, se a
+					caso pervenisse a l’orrechie de l’arcivescovo diligentia alcuna fatta da noi in
+					tal proposito, persuadendosi che li padroni ne havessero data commissione,
+					potrebbe partorire alienatione d’animo et cattivo effetto per molti rispetti.
+					Nondimeno ho voluto farne motto a V. S. Ill.ma, mettendoli in qualche
+					consideratione, che forsi non sarebbe fuor di proposito, che nel ritorno, che si
+					farà di qua, si dia commissione a monsignor di Vercelli, che usi quella
+					diligentia et faccia quelli offitii, che il servitio di Dio et di queste
+					provintie ricerca.</p>
+				<p>Il vescovo di Lieggi m’ha detto d’haver ricevuto lettere dal signor duca di
+						Cleves,<note xml:id="FN2_00083_16" type="footnote">Herzog Wilhelm IV. von
+						Cleve.</note>come costì si stava per dare una prolonga alla causa di
+						Westerholzio<note xml:id="FN2_00083_17" type="footnote"> Das Kapitel von
+						Münster strengte gegen Konrad von Westerhold, Statthalter von Münster, einen
+						Prozeß an (Hansen, Nuntiaturberichte III/1, S. 624).</note>et ne l’interim
+					licenza di ritornare al paese suo. Et perché per molti rispetti, che mi ha
+					detto, mostra che la sua venuta sia per apportare detrimento al servitio di Dio
+					et disgusto grandissimo al sopradetto duca et tutta la casa Bavarica, me ha
+					ricercato che io ne scrivi a V. S. Ill.ma, nel che non ho che dirli, se non
+					referire quello che m’è stato significato dal vescovo, et se si può, non
+					offendendo la giustitia, gratificare alli nominati principi, crederei che fusse
+					bene, massime per li negotii che hora s’hanno per le mani.</p>
+				<p>Stando io scrivendo, è venuto da me il conte Salentino et ha diffusamente, per
+					spatio di tre hore, confidentemente communicato meco alcune cose, tra le quali
+					io ho giudicato essere espediente darne di alcune parte V. S. Ill.ma. Io
+					lasciarò da parte quello che egli, interno all’interessi di S. M.tà Ces., mi ha
+					significato, poiché concordano et confirmano tutto quello, che dalli capitulari
+					ne è stato confidato. Et sapendo io che egli non è molto sodisfatto né di
+					accordo con questi commissarii, mi pare che sia bene di non far certo giuditio,
+					precipuamente d’alcuni punti, insin tanto, che io non mi faccia più prattico
+					delli ingenii et humori di qua. Egli nel resto, doppo d’haver accettato<pb
+						xml:id="P2_0000126"/> il carico della guerra datoli dal capitolo,<note
+						xml:id="FN2_00083_18" type="footnote"> Salentin von Isenburg war Kommissar
+						des Kölner Domkapitels.</note>ha fatto la sequente deliberatione: Che o il
+					principe di Parma havrà ovedito alli comandamenti di S. M.tà, o non; se egli non
+					lo havrà fatto, come si persuade per cosa certissima, con quel’aiuto non tiene
+					per difficile l’impatronirsi di Bona in spatio di pochi giorni,<note
+						xml:id="FN2_00083_19" type="footnote"> Bonn konnte erst im nächsten Jahr
+						genommen werden.</note>per la gran intelligenza, che ha, non solo con
+					cittadini et populari di quella città, ma ancora con l’istessi soldati, che sono
+					sotto il stipendio di Carlo Truxes. Ma quando il principe havesse realmente
+					revocate le genti del re et non volesse porgere il braccio suo sotto
+					qualsivoglia colore et pretesto, in tal caso egli vede che le cose nostre sono
+					per passare malissimo. Ma se il principe si contenterà, che egli senza prescito
+					espresso suo, tollendo occasione che li soldati, per non essere pagati, siano
+					mal sodisfatti, et che perciò essendo stati invitati da lui in provintia assai
+					fertile, sia cosa facile a credere che habbino volentieri accettata la
+					conditione senza licenza del principe, che in tal caso sarà il medesimo. Per il
+					che me ha fatto instantia, che io ne scrivi confidentemente una parola al signor
+					principe. Ma io non sono ancora risoluto della forma che dovrò tenere.</p>
+				<p>Pensa ancora che non sarebbe gran cosa con qualche occasione, che l’apostata
+					desse nelle reti, che egli le va tendendo, et in modo che lo potesse
+						incarcerare.<note xml:id="FN2_00083_20" type="footnote">Gebhard Truchseß
+						gelang es, im Frühjahr 1584 nach dem Zusammenbruch des Restes seiner
+						Herrschaft in Westfalen nach den Niederlanden zu flüchten (Hansen,
+						Nuntiaturberichte III/1, S. 715).</note>Io ho fatto l’officio in tal
+					proposito, che ho giudicato convenirsi al debito mio. Se la persona sua è tale,
+					quale viene descritta, si può fare assai fundamento nelle cose communicate meco,
+					nondimeno io non saprei quasi che dirmi, poiché il far giuditio buono e cattivo
+					nelli primi congressi è cosa pericolosa.</p>
+				<p>Nachschrift: Ho mandato in questo punto, che insta l’hora d’inviare il piegho
+					alli mercanti, un mio dal secretario del capitolo per intender, se era presa
+					risolutione intorno al scritto, che sarà qui inclusa.<note xml:id="FN2_00083_21"
+						type="footnote">Nicht vorhanden.</note>Et perché la mi pare assai oscura, et
+					il mio mi dice che il secretario era grandemente oppresso dal vino, mi riservo
+					con il primo ordinario a scrivere il vero senso d’essa et l’intentione, che
+					havranno havuto li capitulari etc.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

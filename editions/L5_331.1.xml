@@ -1,207 +1,214 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_331.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1602-07-01" n="1">1602-07-01</title>
-                    <title level="a">331.1. Portia an Aldobrandini - Graz, 1602 Juli 1</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 246r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_331.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1602-07-01" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_330.1.xml">330.1. Aldobrandini an Portia - Rom, 1602 Juni 29</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_331.2.xml">331.2. Portia an Aldobrandini - (Graz, 1602 Juli 1)</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_330.1.xml">330.1. Aldobrandini an
-                            Portia - Rom, 1602 Juni 29</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_331.2.xml">331.2. Portia an
-                            Aldobrandini - (Graz, 1602 Juli 1)</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia weist darauf hin, dass die Ernennung eines neuen Provinzials der
-						Augustiner-Eremiten [da Fermo] an Stelle des nunmehr zum Prior des Grazer
-						Klosters bestimmten P. Aurelio Mancini da Pergola die Erzherzöge sehr
-						verstimmt und sie den neuen Provinzial für die Steiermark und Kärnten nicht
-						akzeptieren werden. Erzherzog Maximilian Ernst bedankt sich für die
-						freundliche Aufnahme des Vicomte de Montenach durch Kardinal Aldobrandini.
-						Portia dankt für die Bemühungen Aldobrandinis um den Erlass des Zehents in
-						seinem Bistum Adria.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="331.1">Portia an Aldobrandini - Graz, 1602 Juli 1</head>
-				<div>
-					<p>Il Padre Agostiniano<note xml:id="FN5_331.1_01" type="footnote">Vincenzo da
-							Fermo wurde beim Generalkapitel des Augustiner-Eremitenordens im Mai
-							1602 in Rom zum Provinzial für Steiermark-Kärnten ernannt: vgl. GAVIGAN,
-							Augustinian Province, S. 349 (Anm. 329).</note> il quale si scrisse
-						esser stato disegnato dall’ordine Provinciale in queste parti, sendo
-						ultimamente arrivato qua, s’è inteso che<pb xml:id="P5_0000698"/> il P.
-						Maestro Aurelio dalla Pergola<note xml:id="FN5_331.1_02" type="footnote">Aurelio Mancini da Pergola wird in der Literatur wiederholt als Kaplan
-							und Hofkapellmeister von Eh. Karl II. bezeichnet, dem 1588 die
-							Stiegenkirche in der Sporgasse zur Unterbringung eines Konvents der
-							Augustiner-Eremiten überlassen wurde: vgl. RUHRI, S. 150; HÖFER,
-							Christentum, S. 54. Gavigan stellte aber in seinem Artikel über die
-							Anfänge der Augustinerprovinz Steiermark-Kärnten die Rolle Mancinis im
-							Jahr 1588 zur Diskussion und meint, eine Verwechslung mit P. Ludovico
-							Zacconi da Pesaro, einem Mitglied der Grazer Hofkapelle ab 1585,
-							ausgemacht zu haben. Sicher ist, dass Aurelio Mancini da Pergola 1596
-							zum Generalvikar der Ordensprovinz und 1597 zum Provinzial ernannt
-							worden war. 1598 wurde er in beiden Ämtern bestätigt, jenes des
-							Generalvikars hatte er letztendlich bis 1607 inne (diese Ämter konnten
-							von ein und derselben Person besetzt sein). Am 26. Mai 1602 war P.
-							Vincenzo da Fermo zu Mancinis Nachfolger als Provinzial ernannt worden,
-							doch wurde dieser Beschluss schon kurze Zeit später zurückgezogen.
-							Gavigan führt einen archivalischen Beleg dafür an, dass Mancini 1604 das
-							Amt des Provinzials inne hatte und 1606 neuerlich gewählt wurde. Aus den
-							Quellen der Grazer Nuntiatur kann man schließen, dass Mancini nach dem
-							Einspruch aus Graz 1602 als Ordensprovinzial bestätigt wurde: vgl.
-							GAVIGAN, Augustinian Province, S. 329- 332, 349 (Anm. 329); GAVIGAN,
-							Milensio, S. 205, 238f. Vgl. Nr. 334.1, 335.1.</note> ch’era prima nella
-						medesima carica sia stato fatto Priore del Convento ch’è qui in Gratz. Et
-						perché questi Prencipi non ponno patire tal nuova provisione poiché volevano
-						confirmato il P. Aurelio, si mostrano affatto renitenti in acconsentire al
-						sodetto Provinciale il possesso dei Monasterii, et io vedendo tutto ciò
-						derivare a danno et detrimento d’essi poveri luochi che anderanno in ruina
-						cessando loro la protettione de Prencipi, ho giudicato, se sin’ hora non
-						sarà stato proveduto costì secondo ’l desiderio dell’Arciduca, esser ottimo
-						ispediente per acquetare le cose che quanto prima il P. Maestro Aurelio sia
-						da Superiori commandato di venire al carico suo di Priore et di ciò n’ho
-						voluto dar conto a V. S. Ill.ma, affine così parendole per beneficio della
-						religione si degni farne dire una parola all’Ill.mo Sauli<note xml:id="FN5_331.1_03" type="footnote">Antonio Maria Sauli (1543–1623),
-							Nuntius in Neapel (1572–1577), außerordentlicher Nuntius in Portugal
-							(1579/80), Koadjutor des Erzbistums Genua (1585), Erzbischof von Genua
-							(1586–1591), Kardinal (1587), Präfekt der Congregazione dei Vescovi e
-							Regolari (1617–1621), Dekan des Kardinalskollegiums (1620), erster
-							Präfekt der Propagandakongregation (1622): vgl. JAITNER, Prosopographie,
-							S. 319; GIORDANO, Paolo V, S. 813 (Anm. 1).</note> Protettore, perché
-						senza la venuta del sodetto Padre non vedo modo di poter contentare le A. A.
-						loro, né di apportare il giovamento che vorrei all’ordine. All’Arciduca
-						Massimiliano ho riferito quanto benignamente sia stato veduto da V. S.
-						Ill.ma il Viceconte di Montenach suo Cameriere<note xml:id="FN5_331.1_04" type="footnote">Vgl. Nr. 314.1, 327.2.</note> et per il favore che con
-						ciò suppone di haver anco ricevuto in se stesso ne rende affettuose gratie
-						et ne bacia a V. S. Ill.ma la mano, la qual io per gratia ch’è restata
-						servita di farmi in replicando a Monsig. Rev.mo<pb xml:id="P5_0000699"/>
-						Nuntio di Venetia per la essentione delle Decime<note xml:id="FN5_331.1_05" type="footnote">Vgl. Nr. 327.1.</note> con ogni debita humiltà et
-						riverenza sommamente ringratio.</p>
-					<p>Né di più sendo che aggiungere oltre i dupplicati<note xml:id="FN5_331.1_06" type="footnote">Nr. 330.2.</note> …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_331.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1602-07-01" n="1">1602-07-01</title>
+                <title level="a">331.1. Portia an Aldobrandini - Graz, 1602 Juli 1</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 246r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_331.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1602-07-01" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_330.1.xml"
+                        >330.1. Aldobrandini an Portia - Rom, 1602 Juni 29</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_331.2.xml">331.2.
+                        Portia an Aldobrandini - (Graz, 1602 Juli 1)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_330.1.xml">330.1. Aldobrandini an
+                        Portia - Rom, 1602 Juni 29</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_331.2.xml">331.2. Portia an
+                        Aldobrandini - (Graz, 1602 Juli 1)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia weist darauf hin, dass die Ernennung eines neuen Provinzials der
+                    Augustiner-Eremiten [da Fermo] an Stelle des nunmehr zum Prior des Grazer
+                    Klosters bestimmten P. Aurelio Mancini da Pergola die Erzherzöge sehr verstimmt
+                    und sie den neuen Provinzial für die Steiermark und Kärnten nicht akzeptieren
+                    werden. Erzherzog Maximilian Ernst bedankt sich für die freundliche Aufnahme des
+                    Vicomte de Montenach durch Kardinal Aldobrandini. Portia dankt für die
+                    Bemühungen Aldobrandinis um den Erlass des Zehents in seinem Bistum Adria.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="331.1">Portia an Aldobrandini - Graz, 1602 Juli 1</head>
+            <div>
+                <p>Il Padre Agostiniano<note xml:id="FN5_331.1_01" type="footnote">Vincenzo da Fermo
+                        wurde beim Generalkapitel des Augustiner-Eremitenordens im Mai 1602 in Rom
+                        zum Provinzial für Steiermark-Kärnten ernannt: vgl. GAVIGAN, Augustinian
+                        Province, S. 349 (Anm. 329).</note>il quale si scrisse esser stato disegnato
+                    dall’ordine Provinciale in queste parti, sendo ultimamente arrivato qua, s’è
+                    inteso che<pb xml:id="P5_0000698"/> il P. Maestro Aurelio dalla Pergola<note
+                        xml:id="FN5_331.1_02" type="footnote"> Aurelio Mancini da Pergola wird in
+                        der Literatur wiederholt als Kaplan und Hofkapellmeister von Eh. Karl II.
+                        bezeichnet, dem 1588 die Stiegenkirche in der Sporgasse zur Unterbringung
+                        eines Konvents der Augustiner-Eremiten überlassen wurde: vgl. RUHRI, S. 150;
+                        HÖFER, Christentum, S. 54. Gavigan stellte aber in seinem Artikel über die
+                        Anfänge der Augustinerprovinz Steiermark-Kärnten die Rolle Mancinis im Jahr
+                        1588 zur Diskussion und meint, eine Verwechslung mit P. Ludovico Zacconi da
+                        Pesaro, einem Mitglied der Grazer Hofkapelle ab 1585, ausgemacht zu haben.
+                        Sicher ist, dass Aurelio Mancini da Pergola 1596 zum Generalvikar der
+                        Ordensprovinz und 1597 zum Provinzial ernannt worden war. 1598 wurde er in
+                        beiden Ämtern bestätigt, jenes des Generalvikars hatte er letztendlich bis
+                        1607 inne (diese Ämter konnten von ein und derselben Person besetzt sein).
+                        Am 26. Mai 1602 war P. Vincenzo da Fermo zu Mancinis Nachfolger als
+                        Provinzial ernannt worden, doch wurde dieser Beschluss schon kurze Zeit
+                        später zurückgezogen. Gavigan führt einen archivalischen Beleg dafür an,
+                        dass Mancini 1604 das Amt des Provinzials inne hatte und 1606 neuerlich
+                        gewählt wurde. Aus den Quellen der Grazer Nuntiatur kann man schließen, dass
+                        Mancini nach dem Einspruch aus Graz 1602 als Ordensprovinzial bestätigt
+                        wurde: vgl. GAVIGAN, Augustinian Province, S. 329- 332, 349 (Anm. 329);
+                        GAVIGAN, Milensio, S. 205, 238f. Vgl. Nr. 334.1, 335.1.</note>ch’era prima
+                    nella medesima carica sia stato fatto Priore del Convento ch’è qui in Gratz. Et
+                    perché questi Prencipi non ponno patire tal nuova provisione poiché volevano
+                    confirmato il P. Aurelio, si mostrano affatto renitenti in acconsentire al
+                    sodetto Provinciale il possesso dei Monasterii, et io vedendo tutto ciò derivare
+                    a danno et detrimento d’essi poveri luochi che anderanno in ruina cessando loro
+                    la protettione de Prencipi, ho giudicato, se sin’ hora non sarà stato proveduto
+                    costì secondo ’l desiderio dell’Arciduca, esser ottimo ispediente per acquetare
+                    le cose che quanto prima il P. Maestro Aurelio sia da Superiori commandato di
+                    venire al carico suo di Priore et di ciò n’ho voluto dar conto a V. S. Ill.ma,
+                    affine così parendole per beneficio della religione si degni farne dire una
+                    parola all’Ill.mo Sauli<note xml:id="FN5_331.1_03" type="footnote"> Antonio
+                        Maria Sauli (1543–1623), Nuntius in Neapel (1572–1577), außerordentlicher
+                        Nuntius in Portugal (1579/80), Koadjutor des Erzbistums Genua (1585),
+                        Erzbischof von Genua (1586–1591), Kardinal (1587), Präfekt der Congregazione
+                        dei Vescovi e Regolari (1617–1621), Dekan des Kardinalskollegiums (1620),
+                        erster Präfekt der Propagandakongregation (1622): vgl. JAITNER,
+                        Prosopographie, S. 319; GIORDANO, Paolo V, S. 813 (Anm.
+                    1).</note>Protettore, perché senza la venuta del sodetto Padre non vedo modo di
+                    poter contentare le A. A. loro, né di apportare il giovamento che vorrei
+                    all’ordine. All’Arciduca Massimiliano ho riferito quanto benignamente sia stato
+                    veduto da V. S. Ill.ma il Viceconte di Montenach suo Cameriere <note
+                        xml:id="FN5_331.1_04" type="footnote">Vgl. Nr. 314.1, 327.2.</note>et per il
+                    favore che con ciò suppone di haver anco ricevuto in se stesso ne rende
+                    affettuose gratie et ne bacia a V. S. Ill.ma la mano, la qual io per gratia ch’è
+                    restata servita di farmi in replicando a Monsig. Rev.mo <pb xml:id="P5_0000699"
+                    />Nuntio di Venetia per la essentione delle Decime <note xml:id="FN5_331.1_05"
+                        type="footnote">Vgl. Nr. 327.1.</note>con ogni debita humiltà et riverenza
+                    sommamente ringratio.</p>
+                <p>Né di più sendo che aggiungere oltre i dupplicati<note xml:id="FN5_331.1_06"
+                        type="footnote">Nr. 330.2.</note>…</p>
+            </div>
+        </body>
+    </text>
+</TEI>

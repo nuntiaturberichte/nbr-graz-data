@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00103">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-07-08" n="1">1581-07-08</title>
+                <title level="a">103. Malaspina an Santa Croce - Graz, 1581 Juli 8</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Fondo Borghese III, 11 A B, f. 20rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00103">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-07-08" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/1031953175">Santa Croce, Ottavio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_011">Malaspina,
+                        Germanico - Santa Croce, Ottavio</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00102.xml"
+                        >102. Malaspina an Gallio - Graz, 1581 Juli 4</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00104.xml">104.
+                        (Malaspina an Visitatoren) - (Graz, 1581 vor Juli 15)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Befriedigung über Santa Croces Ernennung zum Nuntius am Kaiserhof. Notwendigkeit
+                    gemeinsamer Bemühungen um Absetzung Hoffmanns als bambergischer Vizedom.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="103">Malaspina an Santa Croce - Graz, 1581 Juli 8</head>
+            <div>
+                <pb xml:id="P1_0000294"/>
+                <p>L’esser stato io alcune settimane absente da questa città<note
+                        xml:id="FN1_00103_01" type="footnote">Malaspina hielt sich mehrere Wochen in
+                        St. Lambrecht auf (Nr. 99 und 101).</note>ha causato che non ho prima potuto
+                    dar risposta a le dui amorevolissime di V. S. Rma. <note xml:id="FN1_00103_02"
+                        type="footnote">Beide Schreiben nicht vorhanden.</note>Hora non ho voluto
+                    differire più di satisfare al debito mio et insieme significarle che ho sentito
+                    et per il servitio publico et per rispetto proprio di V. S. Rma molta
+                    consolatione che la Stà di N. S. habbia fatta elettione de la persona sua per un
+                    ministerio di tanta importanza dove V. S. Rma havrà gran campo di far noto al
+                    mondo la pietà et valor suo. Et invero è così radicato il seme de le dannate
+                    sette ne li cori de la maggior parte di questi popoli di Germania et è così
+                    corrotta la santa disciplina regolare et ecclesiastica nel clero, che se li
+                    ministri di S. Bne non stanno molto vigilanti et non si affaticano et con il
+                    singolare essempio de la persona et famiglia loro, et per quanto possono non
+                    mettono in executione la santa mente di N. S., si può sperare molto poco frutto
+                    che le cose siano per pigliar altra piega, non havendo altro fomento né pretesto
+                    apparente la diabolica dottrina di Luthero che la mala vita de’ regolari et
+                    ecclesiastici. Però havendo V. S. Rma sempre vivuto con tanto essempio, io non
+                    come di cosa avenire, ma come di cosa già in essere mi rallegro del frutto che
+                    seguirà a benefitio publico da la legatione sua. <note xml:id="FN1_00103_03"
+                        type="footnote">Santa Croce, der am 27. April die Instruktion erhielt und
+                        Mitte Juni am Kaiserhof in Prag eintraf, starb bereits am 3. September 1582
+                        (Arch. Vat. Nunz. Germ. 99, f. 470r, 472rv und 525r; Biaudet, Les
+                        Nonciatures Apostoliques, S. 151).</note>
+                </p>
+                <p>Io credo che V. S. Rma sarà informata de le qualità d’un nobile vassallo di
+                    questo sermo principe, nominato Hoffmam,<note xml:id="FN1_00103_04"
+                        type="footnote">Siehe Nr. 102, Anm. 19.</note>et quante fatiche siano state
+                    fatte, acciò l’eletto di Bamberga lo rimova dal governo di Villacco, <note
+                        xml:id="FN1_00103_05" type="footnote">Vgl. Nr. 1, Anm. 20.</note>dove egli
+                    con iniqui conati cerca di spengere ogni lume di religione catholica. N. S.
+                    ultimamente mi ordinò che operassi con <pb xml:id="P1_0000295"/>S. A. che
+                    scrivesse a l’eletto che in evento che havesse dato quel governo a un catholico
+                    che lei l’havrebbe aiutato et favorito; il clic si spera debba movere molto
+                    l’eletto per le continue differentie che ha con S. A. per conto de la
+                    giurisditione. Io ho fatto l’offitio et il principe si mostra pronto, ma è di
+                    parere che sia bone di aspettare che l’eletto li scriva raccommandandoli li
+                    lochi suoi, o lamentandosi di qualche torto che prcsupponghi di ricevere da li
+                    ministri suoi; et in tal caso promette di voler dichiarar la mente sua, ne
+                    l’interim giudica che venendo occasione V. S. Rma dove parerà espediente faccia
+                    fede di questa volontà del principe, come cosa intesa da me et parendole la
+                    scriva a l’eletto<note xml:id="FN1_00103_06" type="footnote"> Santa Croce
+                        bemühte sich bereits in den ersten Wochen seines Auf enthaltes am Kaiserhol
+                        um die Absetzung Hoffmanns und gewann den Eindruck, daß wegen
+                        venvandtschaftlicher und freundschaftlicher Bindungen Hoffmanns zum
+                        Oberstkämmerer Wolfgang von Rumpf, Obersthofmeister Adam von Dietrichstein
+                        und Vizekanzler Dr. Sigmund Vieheuser wenig Aussicht auf Erfolg bestehe
+                        (Arch. Vat. Nunz. Germ. 99, f. 478v und 487rv).</note>. ..</p>
+            </div>
+        </body>
+    </text>
+</TEI>

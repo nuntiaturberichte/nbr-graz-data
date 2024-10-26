@@ -1,190 +1,197 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_108.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-02-05" n="1">1600-02-05</title>
-                    <title level="a">108.1. San Giorgio an Portia - Rom, 1600 Februar 5</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 48, 48 Bis, 49, 51 E, 52 A, fol.
-								9v–10v, Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_108.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1600-02-05" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_107.1.xml">107.1. Portia an Aldobrandini - Graz, 1600 Januar 31</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_108.2.xml">108.2. Aldobrandini an Portia - Rom, 1600 Februar 5</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_106.2.xml">106.2. San Giorgio an
-                            Portia - Rom, 1600 Januar 29</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_109.1.xml">109.1. San Giorgio an
-                            Portia - Rom, 1600 Februar 12</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang: Kopie des Urteilsspruches für den Dominikanerbruder, der seinen
-						Prior ermordet hatte; die Informationen Portias über Baronin Vetter machen
-						die Erlaubnis für Hausmessen möglich; dem Administrator von Passau [Pötting]
-						wird ein Breve übermittelt, in dem ihm die Seelsorge in der Diözese
-						nahegelegt wird. Kardinal Santa Severina [Santoro] zeigt sich über Portias
-						Bericht bezüglich der Zustände der religiösen Lage in Innerösterreich
-						zufrieden, die Verleihung von Fakultäten liege aber beim Sant’Officio.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="108.1">San Giorgio an Portia - Rom, 1600 Februar 5</head>
-				<div>
-					<p>Si sono ricevute le due lettere di V. S. delli 24 del passato con la copia
-						della sentenza pronunciata contra il Frate Dominicano che ammazzò il suo
-							Priore<note xml:id="FN5_108.1_01" type="footnote">Nicht
-							auffindbar.</note>, il quale crediamo che haverà patita la pena del suo
-						gravissimo delitto.</p>
-					<p>Vedo l’informatione che V. S. ci dà della Baronessa Vetterino che desidera la
-						licenza di veder la Messa in Casa, nella quale però non resta più difficoltà
-						alcuna et si ordinerà che se ne spedisca il Breve<note xml:id="FN5_108.1_02" type="footnote">Vgl. Nr. 95.3, 102.1. Das diesbezugliche Breve ist nicht
-							auffindbar.</note>.</p>
-					<p>Si commetterà parimente il Breve per l’Administratore di Possa<note xml:id="FN5_108.1_03" type="footnote">Clemens VIII. an Pötting, Rom,
-							1600 Februar 12: NANNIIMRKONJIé 3, Nr. 13437. Das Breve wird mit dem
-							Postpaket vom 12. Februar 1600 an Portia gesandt werden: vgl. Nr.
-							109.1</note> affinchè invigili quanto conviene nella cura delle anime
-						che le sono commesse, il quale sarà commune al Capitolo ancora affinchè
-						cooperi seco nel servitio di Dio et della Religione Cattolica, anzi si
-						manderebbe facilmente con questo Ordinario se per l’impedimento c’hanno
-						havuto i Corrieri dalle nevi non<pb xml:id="P5_0000274"/> fussero venute le
-						lettere più tardi del solito et in tempo d’altre occupationi gravi.</p>
-					<p>Al Sig. Cardinal S. Severina è stato bene che V. S. habbia rappresentati i
-						bisogni spirituali di quelle Provincie, poiché delle facoltà che da lei si
-						giudicano neccessarie non si deliberarà se non co ’l voto della
-						Congregatione del Santo Offitio et per mano sua si concederanno quelle che
-						saranno credute concedibili<note xml:id="FN5_108.1_04" type="footnote">Portia hatte in einem Schreiben an Kardinal Santa Severina vom 24.
-							Januar 1600 um die Ausweitung seiner Befugnisse als apostolischer
-							Nuntius gebeten, damit er auch den Priestern der Salzburger
-							Suffraganbistümer Gurk und Lavant die Befugnis zur Absolution von der
-							Häresie erteilen könne. In einem Memorandum vom 31. Januar 1600 aus Graz
-							wird diese Bitte nochmals ausgeführt: vgl. RAINER, Inquisition, S.
-							119–121. Dieser Bitte kam der Hl. Stuhl nach, worüber Kardinal Santa
-							Severina Portia am 12. Februar unterrichtete: vgl. Santa Severina an
-							Portia, Rom, 1600 Februar 12, BNCF, Fondo nazionale II.II.511, fol. 39r.
-							Portia bestätigte den Erhalt dieses Schreibens am 3. April 1600: vgl.
-							Nr. 121.2. Zur Entscheidung der Congregazione del Sant’Officio vom 10.
-							Februar 1600: ACDF, S. O., Decreta S. O., 1600/1601, fol. 25r; ACDF, S.
-							O., Decreta S. O., 1599/1600, fol. 14 [b]; ACDF, S. O., Decreta S. O.,
-							1600/1601, fol. 39r.</note>; con tutto ciò sì come fu solicitata
-						ultimamente in mio nome la ispeditione delle cose più vecchie et già
-						risolute, così non si lascierà di ricordar questa a suo tempo. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_108.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-02-05" n="1">1600-02-05</title>
+                <title level="a">108.1. San Giorgio an Portia - Rom, 1600 Februar 5</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 48, 48 Bis, 49, 51 E, 52 A, fol.
+                            9v–10v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_108.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1600-02-05" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_107.1.xml"
+                        >107.1. Portia an Aldobrandini - Graz, 1600 Januar 31</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_108.2.xml">108.2.
+                        Aldobrandini an Portia - Rom, 1600 Februar 5</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_106.2.xml">106.2. San Giorgio an
+                        Portia - Rom, 1600 Januar 29</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_109.1.xml">109.1. San Giorgio an
+                        Portia - Rom, 1600 Februar 12</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang: Kopie des Urteilsspruches für den Dominikanerbruder, der seinen
+                    Prior ermordet hatte; die Informationen Portias über Baronin Vetter machen die
+                    Erlaubnis für Hausmessen möglich; dem Administrator von Passau [Pötting] wird
+                    ein Breve übermittelt, in dem ihm die Seelsorge in der Diözese nahegelegt wird.
+                    Kardinal Santa Severina [Santoro] zeigt sich über Portias Bericht bezüglich der
+                    Zustände der religiösen Lage in Innerösterreich zufrieden, die Verleihung von
+                    Fakultäten liege aber beim Sant’Officio.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="108.1">San Giorgio an Portia - Rom, 1600 Februar 5</head>
+            <div>
+                <p>Si sono ricevute le due lettere di V. S. delli 24 del passato con la copia della
+                    sentenza pronunciata contra il Frate Dominicano che ammazzò il suo Priore<note
+                        xml:id="FN5_108.1_01" type="footnote">Nicht auffindbar.</note>, il quale
+                    crediamo che haverà patita la pena del suo gravissimo delitto.</p>
+                <p>Vedo l’informatione che V. S. ci dà della Baronessa Vetterino che desidera la
+                    licenza di veder la Messa in Casa, nella quale però non resta più difficoltà
+                    alcuna et si ordinerà che se ne spedisca il Breve<note xml:id="FN5_108.1_02"
+                        type="footnote">Vgl. Nr. 95.3, 102.1. Das diesbezugliche Breve ist nicht
+                        auffindbar.</note>.</p>
+                <p>Si commetterà parimente il Breve per l’Administratore di Possa<note
+                        xml:id="FN5_108.1_03" type="footnote">Clemens VIII. an Pötting, Rom, 1600
+                        Februar 12: NANNIIMRKONJIé 3, Nr. 13437. Das Breve wird mit dem Postpaket
+                        vom 12. Februar 1600 an Portia gesandt werden: vgl. Nr. 109.1</note>affinchè
+                    invigili quanto conviene nella cura delle anime che le sono commesse, il quale
+                    sarà commune al Capitolo ancora affinchè cooperi seco nel servitio di Dio et
+                    della Religione Cattolica, anzi si manderebbe facilmente con questo Ordinario se
+                    per l’impedimento c’hanno havuto i Corrieri dalle nevi non<pb
+                        xml:id="P5_0000274"/> fussero venute le lettere più tardi del solito et in
+                    tempo d’altre occupationi gravi.</p>
+                <p>Al Sig. Cardinal S. Severina è stato bene che V. S. habbia rappresentati i
+                    bisogni spirituali di quelle Provincie, poiché delle facoltà che da lei si
+                    giudicano neccessarie non si deliberarà se non co ’l voto della Congregatione
+                    del Santo Offitio et per mano sua si concederanno quelle che saranno credute
+                        concedibili<note xml:id="FN5_108.1_04" type="footnote">Portia hatte in einem
+                        Schreiben an Kardinal Santa Severina vom 24. Januar 1600 um die Ausweitung
+                        seiner Befugnisse als apostolischer Nuntius gebeten, damit er auch den
+                        Priestern der Salzburger Suffraganbistümer Gurk und Lavant die Befugnis zur
+                        Absolution von der Häresie erteilen könne. In einem Memorandum vom 31.
+                        Januar 1600 aus Graz wird diese Bitte nochmals ausgeführt: vgl. RAINER,
+                        Inquisition, S. 119–121. Dieser Bitte kam der Hl. Stuhl nach, worüber
+                        Kardinal Santa Severina Portia am 12. Februar unterrichtete: vgl. Santa
+                        Severina an Portia, Rom, 1600 Februar 12, BNCF, Fondo nazionale II.II.511,
+                        fol. 39r. Portia bestätigte den Erhalt dieses Schreibens am 3. April 1600:
+                        vgl. Nr. 121.2. Zur Entscheidung der Congregazione del Sant’Officio vom 10.
+                        Februar 1600: ACDF, S. O., Decreta S. O., 1600/1601, fol. 25r; ACDF, S. O.,
+                        Decreta S. O., 1599/1600, fol. 14 [b]; ACDF, S. O., Decreta S. O.,
+                        1600/1601, fol. 39r.</note>; con tutto ciò sì come fu solicitata ultimamente
+                    in mio nome la ispeditione delle cose più vecchie et già risolute, così non si
+                    lascierà di ricordar questa a suo tempo. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

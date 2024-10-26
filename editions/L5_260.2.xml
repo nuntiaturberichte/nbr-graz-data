@@ -1,174 +1,181 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_260.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-09-29" n="3">1601-09-29</title>
-                    <title level="a">260.2. San Giorgio an Portia - Rom, 1601 September 29</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 90v–91r,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_260.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-09-29" n="3"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_260.1.xml">260.1. San Giorgio an Portia - Rom, 1601 September 29</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_260.3.xml">260.3. Aldobrandini an Portia - Rom, 1601 September 29</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_260.1.xml">260.1. San Giorgio an
-                            Portia - Rom, 1601 September 29</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_261.1.xml">261.1. San Giorgio an
-                            Portia - Frascati, 1601 Oktober 6</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Kardinal San Giorgio sichert zu, sich für die Belange der Herzöge von Bayern
-						[Wilhelm V., Maximilian I.] einzusetzen, wie in der gerade anstehenden
-						Besetzung der Koadjutorie der Propstei Ellwangen durch den Koadjutor von
-						Köln [Ferdinand].</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="260.2">San Giorgio an Portia - Rom, 1601 September 29</head>
-				<div>
-					<p>Pretendo di meritare la confidenza che hanno in me i Ser.mi Principi di
-						Baviera, perché non potrei essere più affettionato al lor servitio et ne ho
-						fatta et ne faccio una publica professione. L’ho mostrato in particolare nel
-						negotio di Elvanga, del quale V. S. mi scrive<note xml:id="FN5_260.2_01" type="footnote">Nicht auffindbar.</note>, et sono per mostrarlo sino al
-						fine; et havendo havuta a punto ultimamente una lettera del Sig. Duca
-						Massimiliano che risponde ad alcune difficoltà che furono mosse di qua in
-						materia della Coadiutoria di quella Prepositura<note xml:id="SN260.2_a" type="siglum">Ersetzt für rappresentarò ogni cosa a N. S.</note>
-						desiderata da S. A.<ref target="#SN260.2_a">*a)</ref> per il Sig. Coadiutore
-						di Colonia<note xml:id="FN5_260.2_02" type="footnote">Nicht auffindbar.
-							Wolfgang von Hausen (1553–1613), war von 1584–1603 Propst von Ellwangen.
-							Auf Wunsch des mit ihm befreundeten Herzogs Maximilian I. von Bayern
-							wählten ihn die Regensburger Domherren am 19. Dezember 1600 zum Bischof.
-							Die päpstliche Bestätigung erfolgte erst am 14. Januar 1602, da von
-							Hausen unter anderem die Propstei Ellwangen beibehalten wollte: vgl.
-							GATZ, 1448-1648, S. 264f. Hausen dankte Clemens VIII. am 20. Februar
-							1602 für die Bestätigung seiner Wahl: vgl. Hausen an Clemens VIII.,
-							Ellwangen, 1602 Februar 20, ADP, Fondo Aldobrandini, b. 27, fol. 157r–v.
-							Am 12. April 1602 wurde Johann Christoph von Westerstetten (1563–1637)
-							zum Koadjutor der Propstei Ellwangen und im folgenden Jahr (24. Juli
-							1603) zum Propst gewählt, dieses Amt bekleidete er bis 1613. Bischof von
-							Eichstätt (1612–1637): vgl. GATZ, 1448-1648, S. 749f.</note>,
-						rappresenterò ogni cosa a N. S. con desiderio et con instanza che si
-						satisfaccia alla medesima A., la quale non havrà da dubitare dei miei buoni
-						offitii in ogni evento et di tanto, et della mia perpetua volontà et
-						osservanza si contenterà V. S. di certificarla anco di costà …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_260.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-09-29" n="3">1601-09-29</title>
+                <title level="a">260.2. San Giorgio an Portia - Rom, 1601 September 29</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 90v–91r,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_260.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-09-29" n="3"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_260.1.xml"
+                        >260.1. San Giorgio an Portia - Rom, 1601 September 29</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_260.3.xml">260.3.
+                        Aldobrandini an Portia - Rom, 1601 September 29</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_260.1.xml">260.1. San Giorgio an
+                        Portia - Rom, 1601 September 29</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_261.1.xml">261.1. San Giorgio an
+                        Portia - Frascati, 1601 Oktober 6</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Kardinal San Giorgio sichert zu, sich für die Belange der Herzöge von Bayern
+                    [Wilhelm V., Maximilian I.] einzusetzen, wie in der gerade anstehenden Besetzung
+                    der Koadjutorie der Propstei Ellwangen durch den Koadjutor von Köln
+                    [Ferdinand].</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="260.2">San Giorgio an Portia - Rom, 1601 September 29</head>
+            <div>
+                <p>Pretendo di meritare la confidenza che hanno in me i Ser.mi Principi di Baviera,
+                    perché non potrei essere più affettionato al lor servitio et ne ho fatta et ne
+                    faccio una publica professione. L’ho mostrato in particolare nel negotio di
+                    Elvanga, del quale V. S. mi scrive<note xml:id="FN5_260.2_01" type="footnote"
+                        >Nicht auffindbar.</note>, et sono per mostrarlo sino al fine; et havendo
+                    havuta a punto ultimamente una lettera del Sig. Duca Massimiliano che risponde
+                    ad alcune difficoltà che furono mosse di qua in materia della Coadiutoria di
+                    quella Prepositura <note xml:id="SN5_260.2_a" type="siglum">Ersetzt für
+                        rappresentarò ogni cosa a N. S.</note>desiderata da S. A.<ref
+                        target="#SN5_260.2_a"/> per il Sig. Coadiutore di Colonia<note
+                        xml:id="FN5_260.2_02" type="footnote"> Nicht auffindbar. Wolfgang von Hausen
+                        (1553–1613), war von 1584–1603 Propst von Ellwangen. Auf Wunsch des mit ihm
+                        befreundeten Herzogs Maximilian I. von Bayern wählten ihn die Regensburger
+                        Domherren am 19. Dezember 1600 zum Bischof. Die päpstliche Bestätigung
+                        erfolgte erst am 14. Januar 1602, da von Hausen unter anderem die Propstei
+                        Ellwangen beibehalten wollte: vgl. GATZ, 1448-1648, S. 264f. Hausen dankte
+                        Clemens VIII. am 20. Februar 1602 für die Bestätigung seiner Wahl: vgl.
+                        Hausen an Clemens VIII., Ellwangen, 1602 Februar 20, ADP, Fondo
+                        Aldobrandini, b. 27, fol. 157r–v. Am 12. April 1602 wurde Johann Christoph
+                        von Westerstetten (1563–1637) zum Koadjutor der Propstei Ellwangen und im
+                        folgenden Jahr (24. Juli 1603) zum Propst gewählt, dieses Amt bekleidete er
+                        bis 1613. Bischof von Eichstätt (1612–1637): vgl. GATZ, 1448-1648, S.
+                        749f.</note>, rappresenterò ogni cosa a N. S. con desiderio et con instanza
+                    che si satisfaccia alla medesima A., la quale non havrà da dubitare dei miei
+                    buoni offitii in ogni evento et di tanto, et della mia perpetua volontà et
+                    osservanza si contenterà V. S. di certificarla anco di costà …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

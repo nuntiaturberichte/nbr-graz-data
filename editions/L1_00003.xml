@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-09-07" n="1">1580-09-07</title>
+                <title level="a">3. Gregor XIII. an Malaspina - Rom, 1580 September 7</title>
+                <author ref="#http://d-nb.info/gnd/118697390">Papst, XIII., Gregor</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Sec. Brev. 47, f. 514rv, Register.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00003">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118697390">Papst, XIII., Gregor</persName>
+                    <date when="1580-09-07" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_003">Malaspina,
+                        Germanico - Papst, XIII., Gregor</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00002.xml">2.
+                        Gregor XIII. an Erzherzog Karl - Rom, 1580 September 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00004.xml">4.
+                        Malaspina an Gallio - Rom, 1580 September 10</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Fakultät zur Absetzung Hoffmanns und zur Einsetzung eines katholischen
+                    bambergischen Vizedoms in Kärnten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="3">Gregor XIII. an Malaspina<note xml:id="FN1_00003_01" type="footnote">Die
+                    Adresse hieß ursprünglich: Venerabili fratri Alexio episcopo Nepesino et
+                    Sutrinensi apud nobilem virum Carolum archiducem Austriae nostro et Apostolicae
+                    Sedis nuntio. Das Breve mit den Malaspina gewährten allgemeinen Fakultäten
+                    konnte trotz intensivster Suche nicht gefunden werden. Der Inhalt entsprach,
+                    soweit aus den im Text gelegentlich geschehenen Erwähnungen und aus den anderen
+                    Nuntien zur selben Zeit erteilten Fakultäten gefolgert werden kann, dem üblichen
+                    Schema. Vgl. Rainer, Nuntiaturberichte II/8, S. 3—9, 16—23.</note> - Rom, 1580
+                September 7</head>
+            <div>
+                <pb xml:id="P1_0000011"/>
+                <p>Dilecte fili salutem etc. Superioribus diebus cum accepissemus venerabilem
+                    fratrem espiscopum Bambergensem ratione suae ecclesiae dominum esse etiam
+                    temporalem oppidi seu terre Villaci in Carinthia, cui nonnulla quoque castella
+                    subiecta sunt, ibique unum gubernatorem praefectum nuncupatum constituere
+                    consuevisse, nos habita notitia ipsum episcopum quendam Fridericum Hoffmanum
+                    haereticum praefectum illuc misisse ac deputasse eumque multa ac magna
+                    catholicae religoni incommoda inferri,<note xml:id="FN1_00003_02"
+                        type="footnote">Vgl. oben Nr. 1, Anm. 18; Schellhass, Ninguarda II, S. 278
+                        f.</note>monuimus sane dilegenter dictum episcopum monerique a Sermo
+                    Rodulpho electo imperatore curavimus, ut ipsum Hoffmanum ab officio huiusmodi
+                    quam primum removeret et in eius locum virum aliquem catholicum sufficeret,
+                        <note xml:id="FN1_00003_03" type="footnote">Orazio Malaspina reiste gemäß
+                        der ihm am 26. August 1579 von Kardinal Gallio erteilten Weisung (Arch. Vat.
+                        Nunz. Germ. 11, f. 252r), versehen mit einem Schreiben des Kaisers, am 25.
+                        September von Prag nach Bamberg, um die Absetzung Hoffmanns zu betreiben
+                        (Nunz. Germ. 99, f. 152r, 154r). Er fand den Bischof, von dem er keinen
+                        schlechten Eindruck gewonnen hatte, bereit, dem diesbezüglichen Befehl des
+                        Papstes zu folgen. Viele der Domkapitulare waren aber dagegen (Nunz. Germ.
+                        99, f. 164r—166r).</note>quod se facturum promisit, sed id hactenus minime
+                    est executus. Quare volumus, ut statim etiam absque ullo consensu ipsius
+                    episcopi postquam se adeo negligenter exhibuit, suique muneris debito in re tam
+                    gravi defuit, dictum Hoffmanum ab huiusmodi gubernio auctoritate nostra amoveas
+                    ac de prefecto idoneo et catholico oppidanis sine mora provideas, necnon eidem
+                    prefecto per te deputando, quod omnibus facultatibus auctoritate, iurisdictione,
+                    provisione, emolumentis honoribusque et oneribus solitis et quibus alii prefecti
+                        antehac<pb xml:id="P1_0000012"/> quovismodo usi fuerunt, uti et exercere
+                    libere et licite valeat durante eius officio eadem auctoritate nostra concedas
+                    caeteraque agas et exequaris, quae in praemissis necessaria fuerint seu
+                    quomodolibet opportuna; super quibus omnibus et singulis tibi plenam et liberam
+                    harum serie facultatem et potestatem impartimur, non obstantibus premissis ac
+                    constitutionibus et ordinationibus apostolicis ac quibusvis statutis et
+                    consuetudinibus, privilegiis quoque induitis et litteris apostolicis eidem
+                    episcopo et eius ecclesiae quovismodo concessis et confirmatis. Quibus omnibus
+                    eorum tenores ac si ad verbum insererentur praesentibus pro sufficienter
+                    expressis habentes illis alias in suo robore permansuris, hac vice duntaxat ad
+                    effectum presentium specialiter et expresse derogamus caeterisque contrariis
+                    quibuscunque.</p>
+                <p>Datum Romae apud sanctum Petrum die 7 Septembris<note xml:id="FN1_00003_04"
+                        type="footnote">Korrigiert aus: die XV Junii; siehe oben Nr. 1, Anm.
+                        1.</note>1580 anno 9.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

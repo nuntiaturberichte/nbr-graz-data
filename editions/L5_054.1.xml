@@ -1,194 +1,207 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_054.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-07-10" n="1">1599-07-10</title>
-                    <title level="a">54.1. San Giorgio an Portia - Rom, 1599 Juli 10</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 12v–13r,
-								Reg.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="druck">
-						<lb/>Teildruck: VERESS, Epistolae, S. 598.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_054.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1599-07-10" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_053.6.xml">53.6. (Portia an Aldobrandini) - (Graz, 1599 Juli 5)</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_054.2.xml">54.2. Aldobrandini an Portia - Rom, 1599 Juli 10</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_053.3.xml">53.3. Portia an San
-                            Giorgio - Graz, 1599 Juli 5</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_055.1.xml">55.1. Portia an San
-                            Giorgio - Graz, 1599 Juli 12</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Die Wünsche der Erzherzöge von Innerösterreich, insbesondere die
-						Auflosung der Ehe der Furstin von Siebenburgen [Maria Christierna] und die
-						Frage der Straßburger Koadjutorie wurden bereits positiv<pb xml:id="P5_0000123"/> erledigt. Über diese und andere habsburgische
-						Anliegen wird Carrillo bei seiner bevorstehenden Rückkehr berichten. Freude
-						über die Umsiedlung der Uskoken, Probleme der Finanzierung der Besatzung von
-						Zengg/Senj.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="54.1">San Giorgio an Portia - Rom, 1599 Juli 10</head>
-				<div>
-					<p>
-						<note xml:id="SN054.1_a" type="siglum">Teildruck: VERESS, Epistolae, S.
-							598.</note> La lettera di V. S. delli 28 di Giugno<note xml:id="FN5_054.1_01" type="footnote">Nr. 51.1.</note> ha servito per
-						testimonio della sua continuata diligenza, la quale è particolarmente cara
-						mentre che ella ci fa sapere i successi delle cose del ser.mo Arciduca,
-						havendo N. S. il medesimo<note xml:id="SN054.1_b" type="siglum">Hinzugefügt.</note> affetto<ref target="#SN054.1_b">*b)</ref> in esse
-						che nelle sue proprie et particolari. Si è atteso sin qui con ogni assiduità
-						al negotio della dissolutione del matrimonio della ser.ma Principessa (nel
-						quale N. S. è già risoluto), ma con tutto ciò S. B.ne ha voluto pur anco
-						sentire il P. Cariglio negli altri<note xml:id="SN054.1_c" type="siglum">Hinzugefügt.</note> interessi<ref target="#SN054.1_c">*c)</ref> di
-						quella ser.ma Casa<note xml:id="FN5_054.1_02" type="footnote">Der Umfang der
-							von Carrillo im Auftrag der Erzherzöge von Innerösterreich in Rom
-							vorgebrachten Anliegen ergibt sich aus seiner an Aldobrandini
-							gerichteten Bitte um die Ausstellung der folgenden Schriftstücke:
-							Stellungnahme zur päpstlichen Hilfe für die Türkenabwehr; Breve für die
-							Eheannullierung; Kredenzialschreiben an den Grazer Nuntius für Carrillo,
-							der weitere Anweisungen der Kurie mitteilen wird; Dispens für Sigismund
-							Báthory; Breve für die Besetzung der Koadjutorie von Straj3burg durch
-							Eh. Leopold; Dispens zur Erwerbung von Benefizien fur Eh. Karl;
-							Abschluss der Angelegenheit des Bistums Görz; Breve für das Kloster
-							Millstatt; Breven als Antworten auf die Schreiben von Eh. Maria
-							Christierna, Sigismund Báthory und Eh. Ferdinand: vgl. Carrillo an
-							Aldobrandini, Rom, 1599 Juli 11, in: VERESS, Epistolae, S. 333f.</note>,
-						nei quali et in quello di Argentina in particolare è molto inclinata ad<note xml:id="SN054.1_d" type="siglum">Hinzugefügt.</note> ogni<ref target="#SN054.1_d">*d)</ref> gratia come riferirà a bocca il medesimo
-						Padre, che disegna di partir per costà fra tre o quattro giorni.<ref target="#S054.1_a">*a)</ref>
-					</p>
-					<p>La nuova degli Uscocchi che si trasferiscano in parte ove non possano
-						offendere i vicini ci è stata molto cara come principio di quello
-						accommodamento che N. S. procura con tanto studio, ma più cara ci sarebbe
-						anco stata se V. S. ci havesse detto congiuntamente come si pensi di
-						sostenere il Presidio che si metterà a Segna in luogo degl’Uscocchi che
-						n’escono, havendo sempre scritto che S. A. non voleva né poteva sottoponersi
-						a tal peso, il che ci fa così sperare che ci sia qualche commissione o
-						promessa occulta dell’Imperatore come lo desideriamo in estremo che in tal
-						caso resterebbe anco accommodato il punto della navigatione del quale V. S.
-							scrive.<pb xml:id="P5_0000124"/>
-					</p>
-					<p>Inviai una mia lettera per l’Arciduca quando a lei significai la
-						deliberatione presa qui di mandarla a Possa per deputare l’Amministratore di
-						quella Chiesa, et mi par di scoprir che S. A. non l’habbia ricevuta<note xml:id="FN5_054.1_03" type="footnote">Nicht auffindbar.</note>; lo dico
-						a V. S. perché intenda in che mano fosse consegnata et passasse …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_054.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-07-10" n="1">1599-07-10</title>
+                <title level="a">54.1. San Giorgio an Portia - Rom, 1599 Juli 10</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 12v–13r,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="druck">
+                        <lb/>Teildruck: VERESS, Epistolae, S. 598.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_054.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1599-07-10" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_053.6.xml"
+                        >53.6. (Portia an Aldobrandini) - (Graz, 1599 Juli 5)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_054.2.xml">54.2.
+                        Aldobrandini an Portia - Rom, 1599 Juli 10</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_053.3.xml">53.3. Portia an San
+                        Giorgio - Graz, 1599 Juli 5</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_055.1.xml">55.1. Portia an San
+                        Giorgio - Graz, 1599 Juli 12</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Die Wünsche der Erzherzöge von Innerösterreich, insbesondere die
+                    Auflosung der Ehe der Furstin von Siebenburgen [Maria Christierna] und die Frage
+                    der Straßburger Koadjutorie wurden bereits positiv <pb xml:id="P5_0000123"
+                    />erledigt. Über diese und andere habsburgische Anliegen wird Carrillo bei
+                    seiner bevorstehenden Rückkehr berichten. Freude über die Umsiedlung der
+                    Uskoken, Probleme der Finanzierung der Besatzung von Zengg/Senj.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="54.1">San Giorgio an Portia - Rom, 1599 Juli 10</head>
+            <div>
+                <p>
+                    <note xml:id="SN5_054.1_a" type="siglum">Teildruck: VERESS, Epistolae, S.
+                        598.</note>La lettera di V. S. delli 28 di Giugno <note
+                        xml:id="FN5_054.1_01" type="footnote">Nr. 51.1.</note>ha servito per
+                    testimonio della sua continuata diligenza, la quale è particolarmente cara
+                    mentre che ella ci fa sapere i successi delle cose del ser.mo Arciduca, havendo
+                    N. S. il medesimo <note xml:id="SN5_054.1_b" type="siglum"
+                        >Hinzugefügt</note>affetto<ref target="#SN5_054.1_b"/> in esse che nelle sue
+                    proprie et particolari. Si è atteso sin qui con ogni assiduità al negotio della
+                    dissolutione del matrimonio della ser.ma Principessa (nel quale N.S. è già
+                    risoluto), ma con tutto ciò S. B.ne ha voluto pur anco sentire il P. Cariglio
+                    negli altri <note xml:id="SN5_054.1_c" type="siglum"
+                        >Hinzugefügt.</note>interessi<ref target="#SN5_054.1_c"/> di quella ser.ma
+                    Casa <note xml:id="FN5_054.1_02" type="footnote">Der Umfang der von Carrillo im
+                        Auftrag der Erzherzöge von Innerösterreich in Rom vorgebrachten Anliegen
+                        ergibt sich aus seiner an Aldobrandini gerichteten Bitte um die Ausstellung
+                        der folgenden Schriftstücke: Stellungnahme zur päpstlichen Hilfe für die
+                        Türkenabwehr; Breve für die Eheannullierung; Kredenzialschreiben an den
+                        Grazer Nuntius für Carrillo, der weitere Anweisungen der Kurie mitteilen
+                        wird; Dispens für Sigismund Báthory; Breve für die Besetzung der Koadjutorie
+                        von Straj3burg durch Eh. Leopold; Dispens zur Erwerbung von Benefizien fur
+                        Eh. Karl; Abschluss der Angelegenheit des Bistums Görz; Breve für das
+                        Kloster Millstatt; Breven als Antworten auf die Schreiben von Eh. Maria
+                        Christierna, Sigismund Báthory und Eh. Ferdinand: vgl. Carrillo an
+                        Aldobrandini, Rom, 1599 Juli 11, in: VERESS, Epistolae, S. 333f.</note>, nei
+                    quali et in quello di Argentina in particolare è molto inclinata ad <note
+                        xml:id="SN5_054.1_d" type="siglum">Hinzugefügt.</note>ogni <ref
+                        target="#SN5_054.1_d"/>gratia come riferirà a bocca il medesimo Padre, che
+                    disegna di partir per costà fra tre o quattro giorni. <ref target="#SN5_054.1_a"
+                    />
+                </p>
+                <p>La nuova degli Uscocchi che si trasferiscano in parte ove non possano offendere i
+                    vicini ci è stata molto cara come principio di quello accommodamento che N. S.
+                    procura con tanto studio, ma più cara ci sarebbe anco stata se V. S. ci havesse
+                    detto congiuntamente come si pensi di sostenere il Presidio che si metterà a
+                    Segna in luogo degl’Uscocchi che n’escono, havendo sempre scritto che S. A. non
+                    voleva né poteva sottoponersi a tal peso, il che ci fa così sperare che ci sia
+                    qualche commissione o promessa occulta dell’Imperatore come lo desideriamo in
+                    estremo che in tal caso resterebbe anco accommodato il punto della navigatione
+                    del quale V. S. scrive.</p>
+                <pb xml:id="P5_0000124"/>
+                <p>Inviai una mia lettera per l’Arciduca quando a lei significai la deliberatione
+                    presa qui di mandarla a Possa per deputare l’Amministratore di quella Chiesa, et
+                    mi par di scoprir che S. A. non l’habbia ricevuta<note xml:id="FN5_054.1_03"
+                        type="footnote">Nicht auffindbar.</note>; lo dico a V. S. perché intenda in
+                    che mano fosse consegnata et passasse …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

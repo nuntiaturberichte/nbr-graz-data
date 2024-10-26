@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00013">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" notBefore="1580-10-09" notAfter="1580-10-10" n="1">zwischen
+					1580-10-09 und 1580-10-10</title>
+				<title level="a">13. Malaspina an Gallio - Graz, 1580 Oktober 9/10</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 53r—55v, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00013">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date notBefore="1580-10-09" notAfter="1580-10-10" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00012.xml">12.
+						Malaspina an Gallio - Graz, 1580 Oktober 6</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00014.xml">14.
+						Malaspina an Gallio - Graz, 1580 Oktober 12</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00012.xml">12. Malaspina an Gallio -
+						Graz, 1580 Oktober 6</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00014.xml">14. Malaspina an Gallio -
+						Graz, 1580 Oktober 12</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Fortsetzung der Erörterungen mit Kanzler Schranz über religiöse Lage.
+					Verhandlungen mit Kobenzl über die vom Patriarchen geforderte Rückstellung der
+					Stadt Aquileia sowie über Zahlungsverpflichtung und Haltung des Kapitels von
+					Aquileia gegenüber Erzherzog Karl. Befürchtungen am Kaiserhof wegen Bischofswahl
+					in Bamberg.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="13">Malaspina an Gallio - Graz, 1580 Oktober 9/10</head>
+			<div>
+				<p>Dalle littere, che ho scritto a V. S. Illma delli 29, 28 del passato et del
+					primo, 3, 4, 6 del presente, haverà potuto conoscere quello che si andava
+					operando per dare qualche buon principio al negotio della religione.<note
+						xml:id="FN1_00013_01" type="footnote">Nr. 7, 6, 9, 10, 11, 12.</note>Con la
+					presente in questo proposito mi occorre di far sapere di più che il sig.
+					cancilliero è stato da me hieri et habbiamo ragionato del terzo capo, ciovè
+					delli remedii che si potrebbono applicare. Et non scrivo hora quello che
+					habbiamo trattato insieme, perché, oltra che non ho ancora la perfetta
+					informatione, ma ogni cosa in confuso, desidero prima di havere audientia da S.
+					A. et sapere dalla bocca sua propria il senso et parere che ha in questo. <note
+						xml:id="FN1_00013_02" type="footnote">Siehe unten Nr. 16.</note>Et in evento
+					diano risposta sufficiente et che impleat omnes numeros a doi mottivi che le ho
+					datto, penso poi di fare officio con S. A. ché, in conformità di<pb
+						xml:id="P1_0000035"/> quello che scriverò io a V. S. Illma, scrivi ancor lei
+					et mi par bene et per maggior cautela mia et per altri rispetti.</p>
+				<p>Li mottivi che ho fatti sono stati li sequenti : Prima, che haverei caro di
+					sapere che resentimenti ha fatto S. A. in abbassare la perfidia et ostinatione
+					delli heretici et che dimostratione in esaltare et favorire la religione
+					catholica doppo il breve che S. Stà le mandò, non solo efficace ma aspro et
+					comminatorio, acciò li servisse per scudo contra chi lo volesse disuadere et
+					levarlo dall impresa di remediare alli infiniti abusi et estirpare le heresie,
+					che sono nel stato suo.<note xml:id="FN1_00013_03" type="footnote">Breve vom 16.
+						März 1579 (Theiner, Annales eccl. IlI, S. 21 f.).</note>Secondariamente
+					ch’io giudicavo esser necessario, prima de ogni altra cosa, che S. A. finisse di
+					mettere in esecutione tutto quello che lei può fare senza pericolo de’ tumulti
+					et scandali, come sarebbe verbi gratia espurgare la casa sua de heretici, nella
+					quale ve ne sono alcuni, et in spetie il maestro di camera. <note
+						xml:id="FN1_00013_04" type="footnote">Wolf von Stubenberg, Oberstkämmerer
+						1575—1590, war Protestant (Thiel, Zentralverwaltung, S. 205; Loserth, FRA
+						II/50, S. LI, Anm. 2).</note>Non admettere nel suo consiglio persona che non
+					sia vero catholico, et altre cose simili,<note xml:id="FN1_00013_05"
+						type="footnote"> In einem Schreiben des Jesuitenprovinzials P. Blyssem vom
+						14. März 1581 werden Maßnahmen dieser Art aufgezählt (Loserth FRA II/50, S.
+						224 bis</note>et che, potendo S. A. far tutto questo facilmente, dependendo
+					dalla mera sua volontà, che a me parerebbe di correre troppo rischio di essere
+					tenuto da S. Stà per poco prudente, s’io facessi officio con S. Bne accioché lei
+					et per sé et col mezzo d’altri principi interponesse l’autorità sua. Che fosse
+					dato aiuto al’A. S., potendo lei aiutarsi in molte cose da per sé et non lo
+					facendo, et che però era a mio parere spediente, acciò il mio officio fosse più
+					efficace et di maggior forza che S. A. facesse dimostration tale, che S. Stà et
+					tutti li principi christiani potessero non solo conoscere, ma palpare; che lei
+					fa da dovero in tutto quello che meramente depende dal voler suo.</p>
+				<p>Ancora non mi hanno dato risposta; starò aspettando quell che diranno. Mi son
+					mosso a far questo, oltra al parermi per altri rispetti ragionevole per una
+					suspitione, che già havevo conceputa nel animo mio, che questi signori non
+					andassero a camino di far conoscere a S. Stà et altri principi che il naviglio
+					loro fosse così rotto et pieno di fessure, che, oltra al versare del continuo da
+					ogni parte, fosse ancora impossibile di ritrovar mastro, al quale bastasse
+					l’animo di accomodarlo. Poiché et li prelati et li secolari, nella forma del
+					loro parlare, fanno il negotio impossibile et gli ecclesiastici danno la colpa
+					al principe<pb xml:id="P1_0000036"/> et suoi consiglieri, et al incontro costoro
+					cercano di discolparsi col carichar il peso alli prelati, dimodoché mi paiono le
+					scuse di Adamo et Eva: Serpens decepit me, mulier quam dedisti mihi etc; <note
+						xml:id="FN1_00013_06" type="footnote">Genesis 3, 13.</note>et perché niuno
+					di loro vorebbe la riformatione a casa sua, non diro già di religione, tenendoli
+					per catholici, ma di buoni et santi costumi, da questo nasce che vanno cercando
+					di aggravare il peccato del compagno et quanto all loro querunt escusationes in
+					peccatis, ma la verità è che unusquisque eorum portat onus peccati sui, sed
+					tergo quid in mantice est non vident. <note xml:id="FN1_00013_07"
+						type="footnote">Galaterbrief 6, 5.</note>
+				</p>
+				<p>Et perciò andavo facendo li miei conti, che in evento che questi signori non mi
+					mostrino che S. A. doppo il breve habbi fatto resentimenti galiardi et che hora
+					ancora vadi ritenuto in voler eseguire quello che meramente depende dalla sua
+					volontà, che in questo caso la suspition mia pareva fondata in qualche
+					veresimile ragione, sì come al’ incontro, se S. A. haverà fatto per il passato,
+					et hora fosse parato ancora per fare in servitio della religione quello che può,
+					sarebbe totalmente vana, et io credo certo che sarà così et ho per gran ventura
+					l’essermi inganato et esser stato falsus vates.</p>
+				<p>Et perché di sopra ho fatto mentione di aiuto di S. Stà et altri principi, non
+					credi però V. S. Illma ch’io sia punto per alargarmi né in promettere né in dare
+					intentione di cosa alcuna, se non ne haverò espressa comissione da lei. Ma io
+					commetto forsi errore et faccio da poco pratico, non osservando le regole buone
+					in trascorrere così a pezzo alcuni capi di questa materia, di molti che ne ha,
+					senza necessità et poco frutto, ma il desiderio che ho che V. S. Illma sappi il
+					filo, che sin hora ho adoperato per ordire questo negotio, accioché lei, che con
+					altri occhi per la sua singolar prudentia vede li mezzi che si deveno tenere per
+					ridure a vera perfettione simili attioni, si degni di avisarmi come in simili
+					accidenti mi devo governare.<note xml:id="FN1_00013_08" type="footnote">Nr. 24,
+						S. 89.</note>
+				</p>
+				<p>Haverei ben potuto darmi più prescia nel scrivere a V. S. Illma tutta la
+					historia, ma essendo stato necessario di cavare da diversi diverse cose et
+					conferendole insieme far una scelta vera et soda, ho giudicato esser meglio
+					differire qualche giorno et maturamente risolvermi, che, usando troppa
+					diligentia, andare a pericolo di non scrivere veridicamente il negotio. A questo
+					si è ancora aggionto che, se bene questi signori sono molto ingenui et facili
+					nel dire, hanno però un<pb xml:id="P1_0000037"/> contrapeso, che è la
+					sospitione, ché se l’huomo mostra troppa curiosità di sapere le cose loro, si
+					rendono ombrosi.</p>
+				<p>Io non ho ancora comminciato a trattare di proposito negotio alcuno, se non
+					questo della religione. Non dimeno essendomi venuto in taglio a buon proposito
+					di parlare con il sig. Cobenzol delle pretensioni di mons. patriarcha de
+					Aquileia, non ho lasciato di fare quello officio in servitio suo, che ho in
+					commissione da V. S. Illma, non ostante che da detto monsignore non habbi
+					ricevuto quelle scritture, che disse di volermi mandare.<note
+						xml:id="FN1_00013_09" type="footnote">Der Patriarch versprach Malaspina
+						anläßlich ihrer Aussprache in Venedig am 19. September 1580, die
+						betreffenden Schriften zu schicken (Nr. 5).</note>Et ho penetrato questo :
+					Che S. A. li restituirà Aquileia con il mero et misto imperio, infierendo a
+					quello che fu determinato nell’accordo di Trento, <note xml:id="FN1_00013_10"
+						type="footnote">Bei der Durchführung des 1535 in Trient geschlossenen
+						Abkommens gab es von Anfang an Schwierigkeiten (De Renaldis Patriarcato
+						d’Aquileia, S. 227—239).</note>purché S. S. Rma, ma molto maggiormente S.
+					Stà con scrittura authentica prometti che non permetterà mai che quella città
+					vadi nelle mani de Venetiani, cosa che quando fosse credono sarebbe di
+					grandissimo preiuditio di S. A. Le ho dimandato le scritture di Trento et mi ha
+					promesso di darmele et lo farà senz’altro et io le manderò a V. S. Illma. <note
+						xml:id="FN1_00013_11" type="footnote">Siehe unten Nr. 45, Anm. 4.</note>Di
+					questo fatto, come di sopra ho detto, non ne ho parlato io al’arciduca, ma
+					solamente al sig. Cobenzol, il quale di più mi ha detto che quella città è di
+					spesa a S. A., et che qua hanno havuto a male che si sia fatto eletto di quella
+					chiesa gentilhuomo Venetiano. <note xml:id="FN1_00013_12" type="footnote">Alvise
+						(Luigi) Giustiniani wurde am 14. Juli 1574 Koadjutor mit Nachfolgerecht in
+						Aquileia (De Renaldis a. a. O., S. 312 f.; Hierarchia Catholica III, S.
+						114).</note>V. S. Illma vederà in questo quello che si debbe fare, forsi in
+					questo mezzo verano le informationi del patriarcha et io haverò più luce del
+					negotio et più cognitione di questi ministri.</p>
+				<p>Quanto poi al capitolo qua hanno opinione che non sia l’interesso de ducento
+					fiorini che facciano far rumore alli capitolari, ma l’odio che quella chiesa
+					porta a questo signore,<note xml:id="FN1_00013_13" type="footnote"
+						>Diesbezügliches Breve vom 25. August 1579 und Antwort Erzherzog Karls vom
+						10. September und 18. Oktober 1579 (Theiner, Annales eccl. III, S.
+						22—24).</note>et è tanto il mal concetto che qua si ha di quell’clero, della
+					molta licentia del vivere et della poca disciplina ecclesiastica, che non si può
+					immaginare maggiore et io tocco con mano che non dicono la buggia;<note
+						xml:id="FN1_00013_14" type="footnote"> Vgl. oben Nr. 6, S.
+					19f.</note>piacesse a Dio che non<pb xml:id="P1_0000038"/> fosse così. S. A.
+					forsi si sarebbe risoluta di rimettere in me questo negotio, che così accennava
+					il sig. Cobenzol, ma io in modo alcuno sono per accettar questa causa, perché
+					tengono per tanto chiare le ragioni del’ arciduca, che s’io sentissi per sorte
+					il contrario et per coscientia fossi astretto determinare altrimenti, sono
+					sicuro che mai renderebbe questa attione odioso, né sarebbe di servitio del
+					negotio né de Dio; ma vederò di operare, se sarà mai possibile, che S. A. si
+					contenti di rimettere questa differentia et elegere un cardinale suo confidente
+					et il capitolo nominerà un altro, quali habbino autorità di determinare quello
+					che la ragione ricerca, altrimenti se bene facessi ogni giorno novo officio con
+					S. A. et ministri suoi, non sono per fare profito alcuno...</p>
+				<p>Mando a V. S. Illma la scrittura in materia del negotio di mons. patriarcha et,
+					perché il sig. Cobenzol me ha dato il libro delle capitulationi tra li sigg.
+					Venetiani et S. A., acciò io potessi vedere la scrittura pertinente al detto
+					monsignore, lo pregai a lasciarmela per un giorno et subito lo feci copiare in
+					un giorno et una notte, se fosse mai per esser necessario per qualche negotio V.
+					S. Illma. Sa hora che io li ho nelle mani.<note xml:id="FN1_00013_15"
+						type="footnote">Zusammenfassung ohne Datum, Schreiben Erzherzog Karls an den
+						Papst vom 10. September 1579 und Schreiben bezüglich Kapitel von Aquileia
+						vom 3. Jänner 1580 (Arch. Vat. Nunz. Germ. 100, f. 1r, 4r—13v, 14r—15v,
+						16r—18r).</note>
+				</p>
+				<p>Il sig. Ronf scrive dalla corte di S. M. Ces. che si aspettava che li canonici di
+					Bamberga elegessero un lupo, non un pastore, con grandissimo dispiacere di S.
+					Mtà et de tutti li catholici.<note xml:id="FN1_00013_16" type="footnote">Nunz.
+						Germ. 99, f. 352rv: O. Malaspina gibt einen vom Propst von Freising am 3.
+						Oktober erhaltenen Brief mit Nachricht über die Gefahr einer schlechten Wahl
+						in Bamberg an Rumpf weiter.</note>S. A. me ha fatto vedere questo aviso con
+					dimostratione di sentirne dispiacere... </p>
+			</div>
+		</body>
+	</text>
+</TEI>

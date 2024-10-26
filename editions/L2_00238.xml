@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00238">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-12-29" n="1">1584-12-29</title>
+                <title level="a">238. Gallio an Caligari - Rom, 1584 Dezember 29</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 218r, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00238">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1584-12-29" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                        Andrea</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_021">Caligari,
+                        Giovanni Andrea - Gallio, Tolemeo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00237.xml"
+                        >237. Caligari an Gallio - Graz, 1584 Dezember 24</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00239.xml">239.
+                        Caligari an Gallio - Graz, 1584 Dezember 31</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_021" target="L2_00237.xml">237. Caligari an Gallio -
+                        Graz, 1584 Dezember 24</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_021" target="L2_00239.xml">239. Caligari an Gallio -
+                        Graz, 1584 Dezember 31</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Zufrieden mit Einsatz Erzherzog Karls für katholische Religion. Papst lehnt
+                    Teilnahme landesfürstlicher Kommissare an Visitation in Friaul ab.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="238">Gallio an Caligari - Rom, 1584 Dezember 29</head>
+            <div>
+                <p>Veramente S. A. camina a così gran giornate per servitio de la religione
+                    cattolica che N. S. ne resta con particolare sodisfattione <pb
+                        xml:id="P2_0000346"/>poiché da quello che V. S. mi scrive per la sua di 17
+                    del presente<note xml:id="FN2_00238_01" type="footnote"> Nr. 235.</note>vede
+                    chiaramente come tuttavia continua a fare eseguire gl’editti a favor nostro, et
+                    per quanto può, non permette gl’esercitii heretici, et però V. S. gli
+                    significarà quanto contento di N. S. animandoli a sequitare sino che le cose si
+                    rimettino in buon stato.</p>
+                <p>Havendo N. S. a i giorni passati deputato visitatore del patriarcato di Aquileia
+                    il vescovo di Parenzo, hora ha inteso come S. A. vuole ordinare che in questa
+                    visita gli assistino particolari suoi commissarii,<note xml:id="FN2_00238_02"
+                        type="footnote">Vgl. oben Nr. 222, Anm. 6.</note>et perché questo è parso a
+                    S.tà S. cosa nuova et insolita però S. B.ne vuole che V. S. gli parli in suo
+                    nome et gli dica che non dia altrimente orecchie a simili proposte che gli
+                    soggeriscono i suoi ministri perché nissuno altro principe, né in Italia né fuor
+                    d’Italia, ha mai usato simili termini con i visitatori apostolici, et S. S.tà
+                    non potrebbe admetterlo né tolerarlo né S. A. ha anco causa di farlo, poiché le
+                    visite si fanno solo per le chiese et beni et persone ecclesiastiche, ne le
+                    quali li laici non hanno che fare né che vedere. Ben havrà caro S. S.tà che l’A.
+                    S. commandi a li officiali et ministri suoi che essendo ricercati dal visitatore
+                    non manchino di prestargli l’aiuto et favor loro, et V. S. ne pregherà S. A. in
+                    nome di S. B.ne <note xml:id="FN2_00238_03" type="footnote">Vgl. unten Nr. 244,
+                        245.</note>. . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

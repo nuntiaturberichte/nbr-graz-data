@@ -1,220 +1,228 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_273.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-11-17" n="1">1601-11-17</title>
-                    <title level="a">273.1. San Giorgio an Portia - Rom, 1601 November 17</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 98r–100r,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_273.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-11-17" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_272.3.xml">272.3. Portia an Aldobrandini - Graz, 1601 November 12</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_273.2.xml">273.2. Aldobrandini an Portia - Rom, 1601 November 17</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_272.1.xml">272.1. Portia an San
-                            Giorgio - Graz, 1601 November 12</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_275.1.xml">275.1. San Giorgio an
-                            Portia - Rom, 1601 November 24</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. In der Angelegenheit der Stifte Murbach und Lüders/Lure liegt
-						Handlungsbedarf vor, da sich auch Erzherzog Albrecht als Graf von Burgund in
-						die Abtwahl einmischt und einen Kandidaten für Lüders/Lure [Richardot]
-						vorgeschlagen hat. Die Ernennung Erzherzog Leopolds zum Koadjutor des
-						Klosters Murbach-Lüders/Lure hängt eng mit dem Resultat dieser Abtwahl
-						zusammen. Unsicherheit über den Ausgang der Belagerung Kanizsas. Del.fini
-						und Serra bestéitigen, dass die Obermittlung des péipstlichen Breves an
-						Erzherzog Ferdinand nicht mehr notwendig erscheint.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="273.1">San Giorgio an Portia - Rom, 1601 November 17</head>
-				<div>
-					<pb xml:id="P5_0000610"/>
-					<p>Con un medesimo ordinario si sono ricevute le lettere di V. S. delli 29 del
-						passato et delli 5 del presente con gl’avvisi che vi erano inserti<note xml:id="FN5_273.1_01" type="footnote">Vom 29. Oktober und 5. November
-							1601 sind nur Berichte Portias an Aldobrandini mit einer Beilage und
-							einem Avviso, jedoch anderen Inhalts, auf.findbar: Nr. 268.1, 270.1,
-							270.2.</note>. Havrà veduto per altre mie che il negotio di Murbach
-						pigliavamo già da noi qualche consiglio ch’ella ci dà<note xml:id="FN5_273.1_02" type="footnote">Nr. 252.2, 269.1.</note>, perché
-						veramente non si può tener sospeso. Se il Mandero ne ha scritto costì, non
-						havrà forsi parlato dell’Abbatia di Murbach, ma di quella di Ludres che gli
-						fu già unita, i Capitolari della quale elessero un loro particolare
-							Abbate<note xml:id="FN5_273.1_03" type="footnote">Claudius von Mugnans:
-							vgl. Nr. 207.1.</note>, che si pretende eletto illegitimamente dal
-							Murbacense<note xml:id="FN5_273.1_04" type="footnote">Johann Georg von
-							Kalkenriedt: vgl. Nr. 195.1.</note>, et si nota del difetto della
-						irregolarità che V. S. tocca. È favorita la parte di Ludres dall’Arciduca
-						Alberto, non per interesse della persona eletta, ma per il suo, pretendendo
-						egli di dover nominare il nuovo Abbate come Duca di Borgogna sotto pretesto
-						che la unione già fatta non fosse valida, nel qual caso viene nominato da
-						lui un figliuolo del Presidente Riccardo<note xml:id="FN5_273.1_05" type="footnote">Jean Grusset genannt Richardot (1540–1609), wurde von
-							seinem Onkel François Richardot, Bischof von Arras (gest. 1574),
-							adoptiert. Präsident des Rates des Artois in Arras (1582), Präsident des
-							Geheimen Rates der spanischen Niederlande (1597). Dessen Sohn, Jean
-							Richardot (ca. 1577–1614), war nach der Kandidatur von Claudius Mugnans
-							in der Auseinandersetzung um die Abtwahl der Stifte Murbach und
-							Lüders/Lure zum Abt des Stiftes Lüders/Lure ernannt worden. Er war ein
-							Protegé Eh. Albrechts, der durch die Heirat mit der Infantin Isabella
-							Clara Eugenia Mitregent der Spanischen Niederlande und damit auch der
-							Freigrafschaft Burgund geworden war, in der Lüders/Lure lag. Nach der
-							Wahl Kalkenriedts zum Abt des Stiftes Murbach reiste Richardot nach Rom
-							und legte Klage über die Zusammenlegung der beiden Klöster ein, die aber
-							erneut bestätigt wurde. Richardot war Agent der spanischen Niederlande
-							am Hl. Stuhl (1600–1603), Bischof von Arras (1603–1609), Bischof von
-							Cambrai (1609–1614): vgl. GATRIO, S. 270–272; BNB 19, Sp. 274–282;
-							SCHWENNICKE 9, T. 108; LOUANT, S. 349 (Anm. 1). Ein Empfehlungsschreiben
-							Eh. Albrechts und seiner Gattin für den ernannten Abt von Lüders/Lure,
-							Jean Richardot, vom 1. Februar 1601 in: ASV, Fondo Borghese, serie IV
-							287, fol. 144r.</note> che è<pb xml:id="P5_0000611"/> qui et tratta li
-						negotii di S. A. Fu veduta diligentemente et giudicata buona la unione, onde
-						cessa la nominatione dell’Arciduca Alberto; con tutto ciò si contenta N. S.
-						che si riveda di nuovo ad instanza del nominato, il quale presuppone di
-						haver trovate nuove ragioni a proprio favore, et in questo stato sono le
-						cose di Ludres. Quelle di Murbach considerate separatamente caminano con più
-						facilità, perché resta di chiarire solamente se la elettione dell’Abbate
-						fosse canonica, come pare che si creda che sia, et per quello che si può
-						giudicare sin qui o conietturare dall’esito del negotio in universale,
-						caderà l’una et l’altra Abbatia in questo solo soggetto, di maniera che chi
-						disfavorisce la sua parte viene a disfavorire quella dell’Arciduca Leopoldo,
-						se la Coadiutoria havrà effetto, perché se restasse senza Ludres restarebbe
-						mutilata quella Prelatura et di conditione molto inferiore. A me scrive la
-						Ser.ma Arciduchessa ringratiandomi della volontà che ho mostrata verso il
-						servitio del figliuolo et la inclusa per S. A. è la risposta ch’io le
-							faccio<note xml:id="FN5_273.1_06" type="footnote">Beide Schreiben nicht
-							auffindbar. Sie wurden mit einer Weisung San Giorgios vom 24. November
-							1601 an Portia übermittelt: vgl. Nr. 275.1. Ergänzende, aber anonyme und
-							undatierte Schreiben an San Giorgio bezüglich der Abtwahl in Murbach und
-							Liiders/Lure be.finden sich in: ASV, Fondo Borghese, serie IV 235, fol.
-							57r-58r.</note>.</p>
-					<p>Del successo dell’impresa di Canisa stiamo co ’l solito pensiero et nelle
-						incertezze che ci sono habbiamo il dispiacere certo delle perdite che si
-						fanno ogni giorno. Scrivono a noi ancora il Sig. Flaminio et Monsig. Serra
-						che si era giudicata non necessaria la presentatione dell’ultimo Breve<note xml:id="FN5_273.1_07" type="footnote">Clemens VIII. an Ferdinand,
-							Frascati, 1601 Oktober 13: NANNIIMRKONJIé 3, Nr. 14132.</note>, poiché
-						l’Arciduca dava loro le satisfattioni convenienti, et qui si è approvato il
-						consiglio, ma in ogni modo gioveranno sempre gl’offitii di V. S. La
-						deliberatione di S. A. di non ritirarsi dalla espugnatione, benché dovesse
-						svernare in quel luogo, è degna della sua generosità, la quale è verisimile
-						che voglia confirmare con la esecutione …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_273.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-11-17" n="1">1601-11-17</title>
+                <title level="a">273.1. San Giorgio an Portia - Rom, 1601 November 17</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 98r–100r,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_273.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-11-17" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_272.3.xml"
+                        >272.3. Portia an Aldobrandini - Graz, 1601 November 12</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_273.2.xml">273.2.
+                        Aldobrandini an Portia - Rom, 1601 November 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_272.1.xml">272.1. Portia an San
+                        Giorgio - Graz, 1601 November 12</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_275.1.xml">275.1. San Giorgio an
+                        Portia - Rom, 1601 November 24</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. In der Angelegenheit der Stifte Murbach und Lüders/Lure liegt
+                    Handlungsbedarf vor, da sich auch Erzherzog Albrecht als Graf von Burgund in die
+                    Abtwahl einmischt und einen Kandidaten für Lüders/Lure [Richardot] vorgeschlagen
+                    hat. Die Ernennung Erzherzog Leopolds zum Koadjutor des Klosters
+                    Murbach-Lüders/Lure hängt eng mit dem Resultat dieser Abtwahl zusammen.
+                    Unsicherheit über den Ausgang der Belagerung Kanizsas. Del.fini und Serra
+                    bestéitigen, dass die Obermittlung des péipstlichen Breves an Erzherzog
+                    Ferdinand nicht mehr notwendig erscheint.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="273.1">San Giorgio an Portia - Rom, 1601 November 17</head>
+            <div>
+                <pb xml:id="P5_0000610"/>
+                <p>Con un medesimo ordinario si sono ricevute le lettere di V. S. delli 29 del
+                    passato et delli 5 del presente con gl’avvisi che vi erano inserti<note
+                        xml:id="FN5_273.1_01" type="footnote">Vom 29. Oktober und 5. November 1601
+                        sind nur Berichte Portias an Aldobrandini mit einer Beilage und einem
+                        Avviso, jedoch anderen Inhalts, auf.findbar: Nr. 268.1, 270.1,
+                    270.2.</note>. Havrà veduto per altre mie che il negotio di Murbach pigliavamo
+                    già da noi qualche consiglio ch’ella ci dà <note xml:id="FN5_273.1_02"
+                        type="footnote">Nr. 252.2, 269.1.</note>, perché veramente non si può tener
+                    sospeso. Se il Mandero ne ha scritto costì, non havrà forsi parlato dell’Abbatia
+                    di Murbach, ma di quella di Ludres che gli fu già unita, i Capitolari della
+                    quale elessero un loro particolare Abbate <note xml:id="FN5_273.1_03"
+                        type="footnote">Claudius von Mugnans: vgl. Nr. 207.1.</note>, che si
+                    pretende eletto illegitimamente dal Murbacense <note xml:id="FN5_273.1_04"
+                        type="footnote">Johann Georg von Kalkenriedt: vgl. Nr. 195.1.</note>, et si
+                    nota del difetto della irregolarità che V. S. tocca. È favorita la parte di
+                    Ludres dall’Arciduca Alberto, non per interesse della persona eletta, ma per il
+                    suo, pretendendo egli di dover nominare il nuovo Abbate come Duca di Borgogna
+                    sotto pretesto che la unione già fatta non fosse valida, nel qual caso viene
+                    nominato da lui un figliuolo del Presidente Riccardo <note xml:id="FN5_273.1_05"
+                        type="footnote">Jean Grusset genannt Richardot (1540–1609), wurde von seinem
+                        Onkel François Richardot, Bischof von Arras (gest. 1574), adoptiert.
+                        Präsident des Rates des Artois in Arras (1582), Präsident des Geheimen Rates
+                        der spanischen Niederlande (1597). Dessen Sohn, Jean Richardot (ca.
+                        1577–1614), war nach der Kandidatur von Claudius Mugnans in der
+                        Auseinandersetzung um die Abtwahl der Stifte Murbach und Lüders/Lure zum Abt
+                        des Stiftes Lüders/Lure ernannt worden. Er war ein Protegé Eh. Albrechts,
+                        der durch die Heirat mit der Infantin Isabella Clara Eugenia Mitregent der
+                        Spanischen Niederlande und damit auch der Freigrafschaft Burgund geworden
+                        war, in der Lüders/Lure lag. Nach der Wahl Kalkenriedts zum Abt des Stiftes
+                        Murbach reiste Richardot nach Rom und legte Klage über die Zusammenlegung
+                        der beiden Klöster ein, die aber erneut bestätigt wurde. Richardot war Agent
+                        der spanischen Niederlande am Hl. Stuhl (1600–1603), Bischof von Arras
+                        (1603–1609), Bischof von Cambrai (1609–1614): vgl. GATRIO, S. 270–272; BNB
+                        19, Sp. 274–282; SCHWENNICKE 9, T. 108; LOUANT, S. 349 (Anm. 1). Ein
+                        Empfehlungsschreiben Eh. Albrechts und seiner Gattin für den ernannten Abt
+                        von Lüders/Lure, Jean Richardot, vom 1. Februar 1601 in: ASV, Fondo
+                        Borghese, serie IV 287, fol. 144r.</note>che è<pb xml:id="P5_0000611"/> qui
+                    et tratta li negotii di S. A. Fu veduta diligentemente et giudicata buona la
+                    unione, onde cessa la nominatione dell’Arciduca Alberto; con tutto ciò si
+                    contenta N. S. che si riveda di nuovo ad instanza del nominato, il quale
+                    presuppone di haver trovate nuove ragioni a proprio favore, et in questo stato
+                    sono le cose di Ludres. Quelle di Murbach considerate separatamente caminano con
+                    più facilità, perché resta di chiarire solamente se la elettione dell’Abbate
+                    fosse canonica, come pare che si creda che sia, et per quello che si può
+                    giudicare sin qui o conietturare dall’esito del negotio in universale, caderà
+                    l’una et l’altra Abbatia in questo solo soggetto, di maniera che chi
+                    disfavorisce la sua parte viene a disfavorire quella dell’Arciduca Leopoldo, se
+                    la Coadiutoria havrà effetto, perché se restasse senza Ludres restarebbe
+                    mutilata quella Prelatura et di conditione molto inferiore. A me scrive la
+                    Ser.ma Arciduchessa ringratiandomi della volontà che ho mostrata verso il
+                    servitio del figliuolo et la inclusa per S. A. è la risposta ch’io le faccio
+                        <note xml:id="FN5_273.1_06" type="footnote">Beide Schreiben nicht
+                        auffindbar. Sie wurden mit einer Weisung San Giorgios vom 24. November 1601
+                        an Portia übermittelt: vgl. Nr. 275.1. Ergänzende, aber anonyme und
+                        undatierte Schreiben an San Giorgio bezüglich der Abtwahl in Murbach und
+                        Liiders/Lure be.finden sich in: ASV, Fondo Borghese, serie IV 235, fol.
+                        57r-58r.</note>.</p>
+                <p>Del successo dell’impresa di Canisa stiamo co ’l solito pensiero et nelle
+                    incertezze che ci sono habbiamo il dispiacere certo delle perdite che si fanno
+                    ogni giorno. Scrivono a noi ancora il Sig. Flaminio et Monsig. Serra che si era
+                    giudicata non necessaria la presentatione dell’ultimo Breve<note
+                        xml:id="FN5_273.1_07" type="footnote">Clemens VIII. an Ferdinand, Frascati,
+                        1601 Oktober 13: NANNIIMRKONJIé 3, Nr. 14132.</note>, poiché l’Arciduca dava
+                    loro le satisfattioni convenienti, et qui si è approvato il consiglio, ma in
+                    ogni modo gioveranno sempre gl’offitii di V. S. La deliberatione di S. A. di non
+                    ritirarsi dalla espugnatione, benché dovesse svernare in quel luogo, è degna
+                    della sua generosità, la quale è verisimile che voglia confirmare con la
+                    esecutione …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

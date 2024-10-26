@@ -1,208 +1,213 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_104.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-01-17" n="1">1600-01-17</title>
-                    <title level="a">104.1. Portia an Aldobrandini - Graz, 1600 Januar 17</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie IV 287, fol. 192r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilage: fol. 193r–196v, Summarium exercitii Jurisdictionalis Abbatiae
-						Rosacensis.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_104.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1600-01-17" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_103.4.xml">103.4. Aldobrandini an Portia - Rom, 1600 Januar 15</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_105.1.xml">105.1. San Giorgio an Portia - Rom, 1600 Januar 22</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_103.4.xml">103.4. Aldobrandini an
-                            Portia - Rom, 1600 Januar 15</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_105.2.xml">105.2. Aldobrandini an
-                            Portia - Rom, 1600 Januar 22</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Die Steuern und Abgaben auf geistliche Güter sind in einer Bulle von Papst
-						Nikolaus V. begründet, die den Fürsten dies bei Notwendigkeit
-						(Landesverteidigung, Eheschließungen der Töchter) erlaubt. Auch im Reich ist
-						dieses Vorgehen mit Zustimmung des Apostolischen Stuhles Usus. In
-						Innerösterreich wird die Besteuerung in den Landtagen festgelegt, um so die
-						Grenzsicherung zu finanzieren, an der auch die Abtei Rosazzo fur ihre
-						Besitzungen in der Grafschaft Görz beteiligt ist.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="104.1">Portia an Aldobrandini - Graz, 1600 Januar 17</head>
-				<div>
-					<p>In essecutione di quanto V. S. Ill.ma mi commanda con sue lettere del
-							primo<note xml:id="FN5_104.1_01" type="footnote">Nr. 100.2,
-							100.3.</note>, son ito investigando le ragioni da quali sostentati
-						gl’antecessori di questi Prencipi habbino legitimamente potuto incaricare li
-						beni Ecclesiastici di Steure et di contributioni. Attorno che ho inteso che
-						vengono a fare fondamento sopra una Bolla di Papa Urbano V<note xml:id="FN5_104.1_02" type="footnote">Hier liegt eine Verwechslung mit
-							Papst Nikolaus V. (1447–1455) vor. Er verlieh Kaiser Friedrich III. und
-							seinen Erben am 22. März 1452 das Recht, in bestimmten Fällen auch ohne
-							Zustimmung der Diözesane in seinen Erbländern vom Klerus Steuern zu
-							erheben: vgl. SCHWIND/DOPSCH, S. 367; SRBIK, S. 144f.; PICKL, S.
-							93.</note>, con la quale fu concesso<pb xml:id="P5_0000267"/>
-						all’Imperatore Federico Prencipe d’Austria et a suoi successori facoltà di
-						potere in caso urgente et necessario non solo per difensione contro ’l Turco
-						ma anco in occorrenza di dar le Figliuole a marito, aggravare nei stati di
-						Casa d’Austria di contributione i beni di Chiesa, il che sicome io credo che
-						da quel tempo havesse origine, così penso che sia andato poi sempre
-						continovando, non essendo mai mancate le occasioni et i bisogni di
-						diffendersi dalli nemici communi. Ma quest’effetto è anco passato per tutto
-						l’Imperio, et usato, com’ho inteso, a centinaia d’anni in publici Imperiali
-						Comitii, dove par verisimile, et loro attestano che vi sia sempre concorso
-						l’assenso della Sede Apostolica, massime non ritrovandosi tra Prelati che
-						conoscano l’Imperio alcuno immune da pagare simil sussidio, nè pure
-						gl’istessi Elettori Ecclesiastici, i quali contribuiscono la loro tassata
-						portione, come fa anco l’Arcivescovo di Salzburg che paga trentamila fiorini
-						per ogn’anno di contributione. Aggiongendosi di più che in questi Stati
-						sottoposti alla Casa d’Austria simili aggravii non sono mai de facto stati
-						posti da Prencipi moderni agli Ecclesiastici, nè meno alla Nobiltà o ad
-						altri inferiori, ma le Provincie di consenso delli tre Stati così
-						d’Ecclesiastici come de Gentilhuomini et de popoli sono da lor stesse venute
-						in deliberatione di far simili contributioni, scorgendo chiaramente che
-						quando non si usasse questo mezo, che non si potrebbe tener lontane dalle
-						Provincie le forze del Turco, anzi sarebbono venute facilmente a sentire in
-						sé stesse danno maggiore nell’anime et ne beni; et perciò in tempo di
-						bisogno, che occorre annualmente, ogni Provincia è tenuta mandar fuori tanta
-						gente che viene poi pagata da simil dinaro delle Steure oltre ’l soldo che
-						si dà ordinariamente per mantenimento del presidio di Carlestot et altri
-						luoghi. Il che però non vien mai alle mani del Prencipe, né de suoi
-						Ministri, ma vien dispensato da Diputati delle Provincie et questo è l’uso
-						della Stiria, Carinthia et Carniola et del Contado di Goritia ancora, presso
-						gli Diputati del quale suol pagare, com’intesi già, l’Abbatia di Rosaccio
-						centosettanta Fiorini di questa moneta per la retta de beni che si truova
-						havere sottoposti a quel Contado. Il che è quanto posso dir a V. S. Ill.ma
-						in questa materia, la quale haverà nel resto udito dall’ultime mie
-							lettere<note xml:id="FN5_104.1_03" type="footnote">Nr. 101.1.</note>
-						l’appuntamento preso per sodisfarle nelle cose della sodetta Abbatia et
-						haverà conosciuto la buona mente c’hanno questi Prencipi di compiacere a V.
-						S. Ill.ma, in cui si è da loro posta ogni speranza per l’intercessione de
-						favori et gratie che sempre aspettano da S. B.ne per mezo dell’auttorità di
-						V. S. Ill.ma …<note xml:id="SN104.1_a" type="siglum">Dorsalvermerk, fol.
-							197v: Risponde che l’impositioni a beni Ecclesiastici habbia origine da
-							una concessione di Urbano sesto et c’è l’osservanza in tutto l’Imperio.
-							Al Bartolelli che me ne parli.</note>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_104.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-01-17" n="1">1600-01-17</title>
+                <title level="a">104.1. Portia an Aldobrandini - Graz, 1600 Januar 17</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie IV 287, fol. 192r–v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilage: fol. 193r–196v, Summarium exercitii Jurisdictionalis Abbatiae
+                        Rosacensis.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_104.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1600-01-17" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_103.4.xml"
+                        >103.4. Aldobrandini an Portia - Rom, 1600 Januar 15</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_105.1.xml">105.1.
+                        San Giorgio an Portia - Rom, 1600 Januar 22</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_103.4.xml">103.4. Aldobrandini an
+                        Portia - Rom, 1600 Januar 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_105.2.xml">105.2. Aldobrandini an
+                        Portia - Rom, 1600 Januar 22</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Die Steuern und Abgaben auf geistliche Güter sind in einer Bulle von Papst
+                    Nikolaus V. begründet, die den Fürsten dies bei Notwendigkeit
+                    (Landesverteidigung, Eheschließungen der Töchter) erlaubt. Auch im Reich ist
+                    dieses Vorgehen mit Zustimmung des Apostolischen Stuhles Usus. In
+                    Innerösterreich wird die Besteuerung in den Landtagen festgelegt, um so die
+                    Grenzsicherung zu finanzieren, an der auch die Abtei Rosazzo fur ihre
+                    Besitzungen in der Grafschaft Görz beteiligt ist.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="104.1">Portia an Aldobrandini - Graz, 1600 Januar 17</head>
+            <div>
+                <p>In essecutione di quanto V. S. Ill.ma mi commanda con sue lettere del primo<note
+                        xml:id="FN5_104.1_01" type="footnote">Nr. 100.2, 100.3.</note>, son ito
+                    investigando le ragioni da quali sostentati gl’antecessori di questi Prencipi
+                    habbino legitimamente potuto incaricare li beni Ecclesiastici di Steure et di
+                    contributioni. Attorno che ho inteso che vengono a fare fondamento sopra una
+                    Bolla di Papa Urbano V <note xml:id="FN5_104.1_02" type="footnote">Hier liegt
+                        eine Verwechslung mit Papst Nikolaus V. (1447–1455) vor. Er verlieh Kaiser
+                        Friedrich III. und seinen Erben am 22. März 1452 das Recht, in bestimmten
+                        Fällen auch ohne Zustimmung der Diözesane in seinen Erbländern vom Klerus
+                        Steuern zu erheben: vgl. SCHWIND/DOPSCH, S. 367; SRBIK, S. 144f.; PICKL, S.
+                        93.</note>, con la quale fu concesso <pb xml:id="P5_0000267"/>all’Imperatore
+                    Federico Prencipe d’Austria et a suoi successori facoltà di potere in caso
+                    urgente et necessario non solo per difensione contro ’l Turco ma anco in
+                    occorrenza di dar le Figliuole a marito, aggravare nei stati di Casa d’Austria
+                    di contributione i beni di Chiesa, il che sicome io credo che da quel tempo
+                    havesse origine, così penso che sia andato poi sempre continovando, non essendo
+                    mai mancate le occasioni et i bisogni di diffendersi dalli nemici communi. Ma
+                    quest’effetto è anco passato per tutto l’Imperio, et usato, com’ho inteso, a
+                    centinaia d’anni in publici Imperiali Comitii, dove par verisimile, et loro
+                    attestano che vi sia sempre concorso l’assenso della Sede Apostolica, massime
+                    non ritrovandosi tra Prelati che conoscano l’Imperio alcuno immune da pagare
+                    simil sussidio, nè pure gl’istessi Elettori Ecclesiastici, i quali
+                    contribuiscono la loro tassata portione, come fa anco l’Arcivescovo di Salzburg
+                    che paga trentamila fiorini per ogn’anno di contributione. Aggiongendosi di più
+                    che in questi Stati sottoposti alla Casa d’Austria simili aggravii non sono mai
+                    de facto stati posti da Prencipi moderni agli Ecclesiastici, nè meno alla
+                    Nobiltà o ad altri inferiori, ma le Provincie di consenso delli tre Stati così
+                    d’Ecclesiastici come de Gentilhuomini et de popoli sono da lor stesse venute in
+                    deliberatione di far simili contributioni, scorgendo chiaramente che quando non
+                    si usasse questo mezo, che non si potrebbe tener lontane dalle Provincie le
+                    forze del Turco, anzi sarebbono venute facilmente a sentire in sé stesse danno
+                    maggiore nell’anime et ne beni; et perciò in tempo di bisogno, che occorre
+                    annualmente, ogni Provincia è tenuta mandar fuori tanta gente che viene poi
+                    pagata da simil dinaro delle Steure oltre ’l soldo che si dà ordinariamente per
+                    mantenimento del presidio di Carlestot et altri luoghi. Il che però non vien mai
+                    alle mani del Prencipe, né de suoi Ministri, ma vien dispensato da Diputati
+                    delle Provincie et questo è l’uso della Stiria, Carinthia et Carniola et del
+                    Contado di Goritia ancora, presso gli Diputati del quale suol pagare, com’intesi
+                    già, l’Abbatia di Rosaccio centosettanta Fiorini di questa moneta per la retta
+                    de beni che si truova havere sottoposti a quel Contado. Il che è quanto posso
+                    dir a V. S. Ill.ma in questa materia, la quale haverà nel resto udito
+                    dall’ultime mie lettere <note xml:id="FN5_104.1_03" type="footnote">Nr.
+                        101.1.</note>l’appuntamento preso per sodisfarle nelle cose della sodetta
+                    Abbatia et haverà conosciuto la buona mente c’hanno questi Prencipi di
+                    compiacere a V. S. Ill.ma, in cui si è da loro posta ogni speranza per
+                    l’intercessione de favori et gratie che sempre aspettano da S. B.ne per mezo
+                    dell’auttorità di V. S. Ill.ma … <note xml:id="SN5_104.1_a" type="siglum"
+                        >Dorsalvermerk, fol. 197v: Risponde che l’impositioni a beni Ecclesiastici
+                        habbia origine da una concessione di Urbano sesto et c’è l’osservanza in
+                        tutto l’Imperio. Al Bartolelli che me ne parli.</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

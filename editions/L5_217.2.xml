@@ -1,177 +1,183 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_217.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-04-28" n="2">1601-04-28</title>
-                    <title level="a">217.2. San Giorgio an Portia - Rom, 1601 April 28</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 61r–v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_217.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-04-28" n="2"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_217.1.xml">217.1. Clemens VIII. an Portia - Rom, 1601 April 28</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_217.3.xml">217.3. San Giorgio an Portia - Rom, 1601 April 28</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_215.2.xml">215.2. San Giorgio an
-                            Portia - Rom, 1601 April 21</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_217.3.xml">217.3. San Giorgio an
-                            Portia - Rom, 1601 April 28</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Clemens VIII. war davon ausgegangen, dass die Auflosung des
-						Klosters Arnoldstein keine Probleme mit sich bringen würde, nun akzeptiert
-						er den Vorschlag Portias, mit der Umsetzung der päpstlichen Bullen eine
-						andere Person zu beauftragen und garantiert die Geheimhaltung von Portias
-						Wunsch. Das Breve für Maximiliana von Bayern dürfte Doktor Zuppini
-						inzwischen abgesandt haben.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="217.2">San Giorgio an Portia - Rom, 1601 April 28</head>
-				<div>
-					<p>Furono accusate a V. S. con le precedenti<note xml:id="FN5_217.2_01" type="footnote">Nr. 215.2.</note> le lettere sue delli 2 et delli 9<note xml:id="FN5_217.2_02" type="footnote">Vom 2. und 9. April 1601 sind
-							keine an San Giorgio adressierte Berichte Portias vorhanden, nur zwei
-							Kopien der Schreiben vom 9. April, die an Aldobrandini gesandt wurden:
-							Nr. 210.2, 210.3.</note> delle quali si è poi potuto riferir più
-						commodamente il contenuto a N. S. Ma, essendo in ragguaglio di ordini
-						eseguiti da lei o degl’accidenti et delle nuove che correvano, poco ci sarà
-						che rispondere, benché ci sia stata ogni commodità di vederle. Se le dice
-						nel particolare di Bamberga et di Orlestain che havendo già havuta
-						intentione S. B.ne che il negotio passi senza strepito et perciò inviati a
-						V. S. gli ordini che havrà havuti di farne ogn’opera, si accetterà il
-						consiglio ch’ella dà di commettere ad ogn’altro che a lei la esecutione
-						delle Bolle che si spediscono in favore dei Padri Giesuiti<note xml:id="FN5_217.2_03" type="footnote">Das von Loserth angeführte Breve
-							vom 12. April 1600 konnte im Vatikanischen Archiv nicht aus.findig
-							gemacht werden: vgl. LOSERTH, Gegenreformation, S. 8 (Anm. 1). Eine
-							Kopie dieses Breves be.findet sich in KLA, Stift Arnoldstein I, Fasz.
-							23, fol. 1r-v.</note>, alla quale toccherebbe veramente al Ser.mo
-						Arciduca di aprire qualche via placida poiché ad instanza di S. A. si fa
-						l’unione di quel Monasterio. In ogni caso non penetreranno li Signori Conti
-						della Torre la instanza di V. S. sì come per quello ch’io posso sapere non
-						si penetra da altri cosa né anco minima di questa secretaria.<pb xml:id="P5_0000486"/>
-					</p>
-					<p>Il Breve per la sig. Duchessa Massimiliana di Baviera<note xml:id="FN5_217.2_04" type="footnote">Vgl. Nr. 203.2. Das Breve wird am
-							25. Mai 1601 ausgestellt: vgl. Nr. 224.1.</note> si prese pensiero il
-						Dottor Zoppino di solecitarlo ch’è già un pezzo et voglio credere che
-						l’havrà mandato a quest’hora.</p>
-					<p>Negl’avvisi si commenda la diligenza di V. S. et così nel resto. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_217.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-04-28" n="2">1601-04-28</title>
+                <title level="a">217.2. San Giorgio an Portia - Rom, 1601 April 28</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 61r–v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_217.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-04-28" n="2"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_217.1.xml"
+                        >217.1. Clemens VIII. an Portia - Rom, 1601 April 28</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_217.3.xml">217.3.
+                        San Giorgio an Portia - Rom, 1601 April 28</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_215.2.xml">215.2. San Giorgio an
+                        Portia - Rom, 1601 April 21</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_217.3.xml">217.3. San Giorgio an
+                        Portia - Rom, 1601 April 28</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Clemens VIII. war davon ausgegangen, dass die Auflosung des Klosters
+                    Arnoldstein keine Probleme mit sich bringen würde, nun akzeptiert er den
+                    Vorschlag Portias, mit der Umsetzung der päpstlichen Bullen eine andere Person
+                    zu beauftragen und garantiert die Geheimhaltung von Portias Wunsch. Das Breve
+                    für Maximiliana von Bayern dürfte Doktor Zuppini inzwischen abgesandt haben.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="217.2">San Giorgio an Portia - Rom, 1601 April 28</head>
+            <div>
+                <p>Furono accusate a V. S. con le precedenti<note xml:id="FN5_217.2_01"
+                        type="footnote">Nr. 215.2.</note>le lettere sue delli 2 et delli 9 <note
+                        xml:id="FN5_217.2_02" type="footnote">Vom 2. und 9. April 1601 sind keine an
+                        San Giorgio adressierte Berichte Portias vorhanden, nur zwei Kopien der
+                        Schreiben vom 9. April, die an Aldobrandini gesandt wurden: Nr. 210.2,
+                        210.3.</note>delle quali si è poi potuto riferir più commodamente il
+                    contenuto a N. S. Ma, essendo in ragguaglio di ordini eseguiti da lei o
+                    degl’accidenti et delle nuove che correvano, poco ci sarà che rispondere, benché
+                    ci sia stata ogni commodità di vederle. Se le dice nel particolare di Bamberga
+                    et di Orlestain che havendo già havuta intentione S. B.ne che il negotio passi
+                    senza strepito et perciò inviati a V. S. gli ordini che havrà havuti di farne
+                    ogn’opera, si accetterà il consiglio ch’ella dà di commettere ad ogn’altro che a
+                    lei la esecutione delle Bolle che si spediscono in favore dei Padri Giesuiti
+                        <note xml:id="FN5_217.2_03" type="footnote">Das von Loserth angeführte Breve
+                        vom 12. April 1600 konnte im Vatikanischen Archiv nicht aus.findig gemacht
+                        werden: vgl. LOSERTH, Gegenreformation, S. 8 (Anm. 1). Eine Kopie dieses
+                        Breves be.findet sich in KLA, Stift Arnoldstein I, Fasz. 23, fol.
+                        1r-v.</note>, alla quale toccherebbe veramente al Ser.mo Arciduca di aprire
+                    qualche via placida poiché ad instanza di S. A. si fa l’unione di quel
+                    Monasterio. In ogni caso non penetreranno li Signori Conti della Torre la
+                    instanza di V. S. sì come per quello ch’io posso sapere non si penetra da altri
+                    cosa né anco minima di questa secretaria.</p>
+                <pb xml:id="P5_0000486"/>
+                <p>Il Breve per la sig. Duchessa Massimiliana di Baviera<note xml:id="FN5_217.2_04"
+                        type="footnote">Vgl. Nr. 203.2. Das Breve wird am 25. Mai 1601 ausgestellt:
+                        vgl. Nr. 224.1.</note>si prese pensiero il Dottor Zoppino di solecitarlo
+                    ch’è già un pezzo et voglio credere che l’havrà mandato a quest’hora.</p>
+                <p>Negl’avvisi si commenda la diligenza di V. S. et così nel resto. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

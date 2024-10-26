@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00064">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-01-28" n="2">1581-01-28</title>
+                <title level="a">64. Gallio an Malaspina - Rom, 1581 Jänner 28</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 20rv, 22r—23r, 24r,
+                            Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00064">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1581-01-28" n="2"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00063.xml">63.
+                        Gallio an Malaspina - Rom, 1581 Jänner 28</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00065.xml">65.
+                        Malaspina an Gallio - Graz, 1581 Februar 1</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00063.xml">63. Gallio an Malaspina -
+                        Rom, 1581 Jänner 28</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00065.xml">65. Malaspina an Gallio -
+                        Graz, 1581 Februar 1</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Übersendung von Erörterungen zur Stärkung Erzherzog Karls im Religionsgeschäft
+                    und Hinweise auf mögliche Hilfe durch Koadjutor von Salzburg gegen
+                    widerspenstigen Adel. Ersatz der bei Bittgottesdienst um guten Ausgang des
+                    Landtages verteilten Almosen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="64">Gallio an Malaspina - Rom, 1581 Jänner 28</head>
+            <div>
+                <pb xml:id="P1_0000182"/>
+                <p>Si manda un foglio a parte,<note xml:id="FN1_00064_01" type="footnote">Ebenda f.
+                        22r—23r, Beilage A.</note>nel quale sono esposti alcune ragioni d’importanza
+                    per persuadere il sermo arciduca a star constante in favor de la religion
+                    catholica, acciò V. S. con destrezza le vada suggerendo et rappresentando a S.
+                    A., secondo che conoscerà il bisogno, sperando che saranno impressione et
+                    saranno di qualche giovamento.</p>
+                <p>Si manda anchora un altro avvertimento<note xml:id="FN1_00064_02" type="footnote"
+                        >Ebenda f. 24r, Beilage B.</note>circa quello in che potesse aiutare il
+                    coadiutore de Saltzburg, caso che li provinciali continouassero in mostrar mal
+                    animo et se dubitasse di novità, del quale similmente V. S. si valerà ; si vedrà
+                    la necessità ricercando caldamente il detto coadiutore a far quanto si ricorda,
+                    il che si crede che sarebbe volentieri, oltre le altre cause, per saper di far
+                    cosa grata a N. S.</p>
+                <p>S. Stà ha ordinato che V. S. sia rimborsata de li cento scudi che ha scritto
+                    d’haver dato per elemosina, et dice che, quando verranno simili occasioni, ne le
+                    quali convenga per buon essempio et edification publica far di queste opere, li
+                    faccia, ché si li faranno restituire qui i danari volentieri.<note
+                        xml:id="FN1_00064_03" type="footnote">Siehe Nr. 33, S. 113.</note>
+                </p>
+                <p>Beilage A, ebenda f. 22r—23r: Vedendosi parte de’ provintiali del sermo arciduca
+                    Carlo con non poca ostinatione opporsi al decreto di S. A. circa l’esercitio
+                    della religione,<note xml:id="FN1_00064_04" type="footnote">Vgl. Nr. 52 und
+                        55.</note>et all’ incontro sperandosi che S. A. debba restar constante in
+                    una risolutione non solo santa et conforme alla religione et pietà sua, ma ancho
+                    honesta et a’ sodetti provinciali più favorevole dell’istesse constitutioni
+                    d’imperio, <note xml:id="FN1_00064_05" type="footnote">Vornehmlich die
+                        Bestimmungen des Augsburger Religionsfriedens.</note>si de’ procurar in ogni
+                    modo, non solo che non si ralenti, ma che S. A. promovi l’effetto di questa
+                    determinatione, dal che dipende la conservatione della fede santa catholica et
+                    la reputation e authorità sua. Et se bene<pb xml:id="P1_0000183"/> vi pono
+                    essere delle difficoltà, nondimeno essendo ciò tutto indriciato all’honor
+                    d’iddio non può mancare l’aiuto che viene dalla sua santa mano. Né S. Stà è, per
+                    quanto pò, per mancarci et inoltre li sermi principi, tutti di casa d’Austria,
+                    et il duca di Bavera, et altri, quali et per l’interesse dell’honor e authorità
+                    di principe tanto congionto et per la consequenza della causa in ciò commune,
+                    sarano sempre uniti seco et a ciò amoniti anco da N. S., <note
+                        xml:id="FN1_00064_06" type="footnote">Breven vom 28. Jänner 1581 (Theiner,
+                        Annales eccl. III, S. 261; Innsbruck LRA, Urkunden II,
+                    6410—6475).</note>onde si può et deve sperare che questi provintiali, quando
+                    vederano la risolutione non solo determinata, ma ancho effetuarsi, siano per
+                    restringersi con pacientia a quanto S. A. commanda, secondo anco il prescritto
+                    della pace della religione, et è da sperare che non ardirano voler ostinatamente
+                    opporsi, potendosi lor ben imaginare che S. A. non sia per lasciarsi da lor
+                    spogliare di quell’authorità che Iddio li ha data et che in ciò non gli è
+                    limitata da nesuna lege o constitutione imperiale, né hanno raggionevole motivo,
+                    perché possino lor presumer di voler essere nella religione e mutatione di
+                    quella assoluti d’ogni ordine et lege, poiché questo non si concede né in
+                    Sassonia, né nel Palatinato, né in qual’altra parte, se bene ivi si ha per
+                    principal articolo la libertà delle conscienze, né è da credere che siano tanto
+                    imprudenti, che non conoschino che non solo S. A., ma né li altri sermi principi
+                    di casa d’Austria et altri principi catholici siano per tollerare che la
+                    religione nelli loro stati dependi da quanto piace a’ sudditi, secondo il
+                    giudicio de’ predicanti, overo sopraintendenti di Tubinga et Wirtemberga. <note
+                        xml:id="FN1_00064_07" type="footnote">Wahrscheinlich ist nicht Württemberg,
+                        sondern Wittenberg gemeint.</note>Che se loro, sotto pretesto di questo novo
+                    parto della concordia publicata, presumono poter scacciare quei predicanti che
+                    non l’accettano anco ne i stati di S. A., come s’intende esser stato fatto in
+                        Vilaco,<note xml:id="FN1_00064_08" type="footnote"> Über die hier erwähnten
+                        Vorkommnisse in Villach ist nichts Näheres bekannt.</note>possono bene
+                    persuadersi che questi principi vorrano potere da loro stati scacciar quelli che
+                    si partono dalla religione catholica, da laudabili predecessori tenuta con vera
+                    e non finta o impiastrata concordia, né vorrano essere, sotto specie d’uno
+                    quinto et novo Evangelio, spogliati di quell’authorità, che ne’ lor stati si
+                    conservano li principi protestanti contra l’antica religione impossessata di
+                    mille e più anni. Né credo che questi provinciali possino presumere dover esser
+                    sempre tra di loro et con altri uniti in questo ponto, poiché devono dubitar se
+                    li altri stati di S. A. et della serma casa d’Austria siano per ribelare contro
+                    lor principi per una libertà che <pb xml:id="P1_0000184"/>non ha essempio in
+                    tutto l’imperio, <note xml:id="FN1_00064_09" type="footnote">Die Kärntner und
+                        Krainer Stände haben sich in der Tat gemäßigter verhalten als die Steirer
+                        (Loserth, Reformation und Gegenreformation, S. 353; derselbe, FRA II/50, S.
+                        179).</note>quale non può men piacere a Sassonia et altri protestanti,
+                    poiché non si può haver senza rebelione da lor temuto, forse più che da questi
+                    principi catholici, poiché il seme di Luthero è più pronto a eccitar li sudditi
+                    alla libertà che alla debita obedienza; anci credo di fermo che il duca di
+                    Sassonia e Brandenburg et il Palatino et altri principi sarano sempre sforzati a
+                    confessare che simile libertà o, per dir meglio licentia, non fossero per
+                    tollerare mai nelli loro stati. Per il che si può sperare che o non si moverano,
+                    questi provinciali o, movendosi, non siano per far grosso corpo, né per durar
+                    molto. Onde ogni dovere così di prudentia divina come humana vole che S. A. stia
+                    salda et constante, poiché vi va l’honor d’iddio et tutta l’autorità e
+                    superiorità sua, et veramente di qua dipende l’esser principe o no, che molto
+                    più è lasciare che sudditi siano assoluti nella religione, che che possino
+                    batter monete, mover armi overo cacciar cervi. Lascio che non può S. A. sperare
+                    mai nesuna vera et ferma quiete ne’ suoi sudditi, lassando questa libertà della
+                    religione, et ha da temere che siano al fine da essere più d’altri che suoi, se
+                    da quello ch’è approbato et si muta e remuta in Sassonia et nel Palatinato loro
+                    hanno da regolarsi nella fede, senza che tengino conto di quello che crede
+                    constantemente il proprio principe. Per il che appare manifestamente che molta
+                    necessità è imposta a S. A. di star saldo nella pia et catholica risolutione. Et
+                    se perciò si rebelerano li sudditi, pò sperar aiuto da Iddio, quale in simil
+                    causa non li mancar, et da’ suoi parenti et amici che si moverano per il
+                    pericolo, et consequenza che viene da simil commune causa, il che forse
+                    considerando questi provintiali starano quetti, o, se Iddio li aciederà,
+                    aprirano a S. A. la strada di farsi principe con maggior obedienza, et in questo
+                    ponto et nel resto. Onde non si deono sgomentare quelli che hanno dato bon
+                    consiglio sin’hora, ma perseverare nel bene et gagliardamente resister al male,
+                    qual fuge poi, come dice l’apostolo. Che se all’incontro si vuol rivolger
+                    l’occhio alli inconvenienti che si appresentano per ogni rilentamento, che per
+                    sediciosa ostinatione di così perversi sudditi facesse S. A. in questa
+                    risolutione, apparirano tanti e tali, che niun, che desidera conservarsi nome di
+                    bono o di prudente o di christiano, potrà mai consigliar che si ceda in questa
+                    causa a così ingiuste et mal regolate voglie.</p>
+                <pb xml:id="P1_0000185"/>
+                <p>Beilage B, ebenda f. 24r: Il coadiutor di Salzpurg è nativo di Carintia et,
+                    essendo di familia nobile,<note xml:id="FN1_00064_10" type="footnote"/>deve
+                    haver tra quella nobiltà parenti et amici. L’arcivescovato ha tre grosse et
+                    molte roce in quella provincia. <note xml:id="FN1_00064_11" type="footnote"
+                    />Onde se si havesse di qualche moto, potria egli, in specie di visita
+                    spirituale et temporale, transferirsi in Frisac, <note xml:id="FN1_00064_12"
+                        type="footnote">Malaspina hielt sich im Juni 1581 vor allem in dem von
+                        Friesach nicht weit entfernten Benediktinerstift St. Lambrecht auf (Nr. 99,
+                        101 und 102).</note>loco comodo a molte parti et con diversi tratamenti
+                    potria, se non altro, almeno procurare qualche divisione et separationi di
+                    parte, al che et per l’autorità sua et destrezza in simil novità potria esser
+                    abbraciato da non pochi et ogni poca separatione o ralentamento d’animo potria
+                    giovar assai a contener molti in officio et far andar altri più avanti et a
+                    l’incontro a quei, che sono boni, dar animo et ardire.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

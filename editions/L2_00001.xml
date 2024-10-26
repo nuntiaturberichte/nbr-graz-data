@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00001">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1582-06-07" n="1">1582-06-07</title>
+				<title level="a">1. Malaspina an Madruzzo - Salzburg, 1582 Juni 7</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 472r—475v, gleichzeitige
+							Kop.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00001">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1582-06-07" n="1"/>
+					<placeName ref="#http://www.geonames.org/2766824">Salzburg</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119026724">Madruzzo, Ludovico</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_016">Madruzzo,
+						Ludovico - Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00161.xml"
+						>161. Malaspina an Gallio - Admont, 1582 Mai 21</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00002.xml">2.
+						Gallio an Malaspina - Rom, 1582 Juni 9</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_016" target="L1_00160.xml">160. (Malaspina an
+						Madruzzo) - (1582 vor Mai 21)</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Verhandlungen mit Koadjutor und Kapitel in Salzburg. Schlechter
+					Gesundheitszustand des dortigen Erzbischofs. Bemühungen der Häretiker um
+					Freistellung; dagegen Beratungen der Landsberger Liga und geheimes
+					Einverständnis des Herzogs von Sachsen mit Kaiser. Frage der Teilnahme Salzburgs
+					am Reichstag.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="1">Malaspina an Madruzzo - Salzburg, 1582 Juni 7</head>
+			<div>
+				<p>Essendomi io, per essequire l’ordine havuto da V. S. Ill.ma,<note
+						xml:id="FN2_00001_01" type="footnote">Malaspina berichtete am 28. März 1582,
+						daß er auf dem Weg zum oder vom Augsburger Reichstag in Salzburg sehr
+						wichtige Angelegenheiten verhandeln müsse, und bat um ein entsprechendes
+						Breve für den Erzbischof (Rainer, Grazer Nuntiatur I, S. 404 und
+						409).</note>transferito in questa città, <note xml:id="FN2_00001_02"
+						type="footnote">Salzburg.</note>non ho mancato di esponere distintamente al
+					rev.mo coadiutore <note xml:id="FN2_00001_03" type="footnote">Georg von
+						Kuenburg, seit 1580 Koadjutor mit Nachfolgerecht des schwerkranken
+						Erzbischofs Johann Jakob (Hierarchia Catholica III, S. 291).</note>tutto
+					quello che ho giudicato essere a proposito per confortarlo et disponerlo a
+					volersi ritrovare a la celebratione de la dieta imperiale, <note
+						xml:id="FN2_00001_04" type="footnote">Vgl. unten Nr. 9, Anm. 7.</note>et il
+					medesimo officio, non discendendo però a particolare alcuno, ho fatto con li
+					capitulari, havendo ritrovato l’arcivescovo in stato che, quando egli fosse
+					stato d’animo d’andare a la dieta, havrei creduto essere debito de l’officio mio
+					di rimoverlo da tal proposito et per l’indispositione sua corporale, ma molto
+					maggiormente per il diffetto che pate di quella de l’animo et intelletto.<note
+						xml:id="FN2_00001_05" type="footnote"> Johann Jakob von Kuen-Belasy blieb
+						aber bis zu seinem Tod 1586 Erzbischof (Hierarchia Catholica III, S. 291;
+						Rainer, Grazer Nuntiatur I, S. 68).</note>
+				</p>
+				<pb xml:id="P2_0000004"/>
+				<p>Hora sono sopra ciò passati diversi ragionamenti tra mons. coadiutore et me, da
+					li quali ho potuto comprendere in somma questo, che gli heretici realmente,
+					conforme a quanto V. S. Ill.ma mi avvisa, faranno una instantia grandissima per
+					ottenere quel loro a punto abominevole freistellonato et di già si è veduta la
+					scrittura da loro concepta per presentare a la M.tà de l’imperatore,<note
+						xml:id="FN2_00001_06" type="footnote">Am Augsburger Reichstag wurde von den
+						Vertretern der Stände A. B. von Steiermark, Kärnten und Krain, der
+						sogenannten Religionsgesandtschaft, Kaiser Rudolf II. eine Denkschrift
+						überreicht (Nr. 25; Graz LA, Landschaftliches Archiv, Landtagshandlungen 35,
+						f. 14r; Loserth, FRA II/50, S. 361ff.).</note>la quale contiene dui capi
+					principali. Il primo è il pretesto, nel quale vogliono fondare et honestare la
+					loro petitione, cioè che essendo già molti anni stato approvato l’essercitio de
+					l’una et de l’altra religione, che però non si deve fare differentia tra l’un et
+					l’altra etc., cosa che quanto poco sia da loro osservata l’esperienza ci lo
+					insegna. Né so io se ’l duca di Sassonia et altri principi ne’ vescovati che
+					sono ne le loro provincie admettessero catholici per pastori d’essi, oltre che
+					non è vero che sia mai stato approvato la confessione Augustana se non dato
+					l’interim, mentre si fosse celebrato il concilio. <note xml:id="FN2_00001_07"
+						type="footnote">1572 erhielt der steirische Adel samt Dienern und Untertanen
+						die Glaubens- und Kultusfreiheit zugestanden, die 1578 bestätigt und
+						erweitert wurde (Loserth, Reformation und Gegenreformation, S. 177ff.;
+						Rainer, Nuntiaturberichte II/8, S. 247f.; Schellass, Zum richtigen
+						Verständnis der Brucker Religionspazifikation vom 9. Februar 1578, S.
+						266ff.; Rainer, Grazer Nuntiatur I, S. 43).</note>Secondariamente nel fine
+					de la scrittura pare the minatoriamente si lascino intendere che loro siano
+					disposti per forza, quando non siano essauditi, di voler ottenere l’intento
+					loro. Questa è la somma del contenuto de la scrittura, la quale io non ho potuto
+					non solo haver ne le mani, ma né vedere.</p>
+				<p>Havendo io inteso tutto questo, ho cercato di penetrare nel miglior modo che ho
+					potuto tre cose, cioè: chi siano li capi et auttori che promovono tal prattica;
+					che risentimento si sia fatto o tentato di fare da la parte de’ principi
+					catholici, a’ quali sono venute a notitia le conventicule che per tal effetto si
+					sono fatte in diversi lochi de la Germania per obviare a così gran pericolo, che
+					a tutti loro iminerebbe quando la parte adversa ottenesse ciò che pretende; et
+					ultimamente che giuditio si faccia del’essito, et se si deve vivere con timore
+					et sollicitudine, che loro siano per ridurre la M.tà S. a tal termine che
+					conivendo per forza, se non concedendo, siano perciò per tentare di mettersi in
+					possesso sotto qualche colorato pretesto, come è il loro costume.</p>
+				<p>Quanto al primo intendo che alcuni principi et altri signori poveri, carichi di
+					figliuoli sono quelli che principalmente instano et non <pb xml:id="P2_0000005"
+					/>si è fuori di sospitione che ciò sia ancora col consenso di alcuni capitulari
+					infetti d’heresia, oltre che li predicatori heretici per loro proprio interesse
+					non tralasciano di fare mille diaboliche prattiche et persuasioni in questo
+					proposto. Circa il secondo, mi dice mons. coadiutore che, essendo per
+					l’occasione de la dieta convenuti insieme gli oratori de gli principi et
+					communità, che sono in lega in Baviera, per essere quella eccellentia generale
+					d’essa, che se moti gli heretici confederati, si è trattato di questo fatto, et
+					in effetto egli non può comprendere altro se non che li catholici faranno
+					l’officio loro, et mi ha confortato a darne un moto al sig. duca di Baviera, nel
+					passare che farò da Monaco.<note xml:id="FN2_00001_08" type="footnote"> Siehe
+						unten Nr. 3.</note>Quanto poi, se si deve vivere con solicitudine et timore,
+					egli non teme molto, et dice d’havere penetrato che tra S. M.tà Ces. et il duca
+					di Sassonia sia in questo particolare intelligentia secreta, <note
+						xml:id="FN2_00001_09" type="footnote">Siehe unten Nr. 10.</note>anzi che
+					l’istesso duca ha scritto a S. M.tà che, se bene non potrà mancare di non
+					concorrere con gli altri unitamente nel fare l’instantia, che la M.tà S. stia
+					pur lei salda che, quanto a la persona sua, non li preme molto che si ottenghi
+					tal cosa, dal che vogliono argomentare che con questo appoggio la M.tà S., la
+					quale è per se stessa ottimamente affetta a la religion catholica et che vede
+					ancora annesso al fatto il proprio suo interesse, poiché non havrebbe mai,
+					quando gli heretici havessero il libero accesso a le dignità ecclesiastiche né
+					la obedientia né li aiuti, che ha da catholici, che loro hereditate per se
+					stessi cercarebbero di possedere il santuario di Dio, non sia perciò per
+					condiscendere a le loro importune et impie petitioni, ma che non siano per
+					pigliare ogni occasione, la quale si potessero persuadere poter necessitare
+					l’imperatore, come da le petitioni de’ sussidii, che farà la M.tà S., et se le
+					cose de li confini col Turco o la guerra di Fiandra pigliassero qualche peggior
+					piega di questo, se ne deve essere più che certi.</p>
+				<p>Et se bene tutto quello che hora ho detto mi ha dato campo et somministrate
+					efficaci ragioni per persuadere mons. coadiutore a volersi in persona ritrovare
+					ne la dieta, et che da principio lo ritrovassi assai disposto, nondimeno dopo
+					che si communicò a li consiglieri et capitulari il desiderio et volontà di V. S.
+					Ill.ma, pare che si sia raffredata quella prontezza che ritrovai di prima in
+						lui.<note xml:id="FN2_00001_10" type="footnote">Der Erzbischofkoadjutor
+						Georg von Kuenburg kam nicht zum Reichstag.</note>Et questo è nato per
+					alcune considerationi concepute da loro, le quali tengono di tanto peso, che
+					giudicano dover essere di sodisfattione a V. S. Ill.ma et al<pb
+						xml:id="P2_0000006"/>cune d’esse concernono la persona di mons, coadiutore,
+					altre il governo spirituale et temporale di questa chiesa. Et prima
+					presuppongono che la persona sua non sia per esser grata a la M.tà de
+					l’imperatore per quelli accidenti, che nacquero prima de la elettion sua, <note
+						xml:id="FN2_00001_11" type="footnote">Vgl. Widmann, Geschichte Salzburgs
+						III, S. 107.</note>et si confermano maggiormente in questo, poiché havendo
+					la M.tà S. scritto a l’arcivescovo di volersi ritrovare ne la dieta,<note
+						xml:id="FN2_00001_12" type="footnote"> Schreiben des Kaisers nicht
+						gefunden.</note>et essendosi egli escusato, ha accettato la scusa per buona,
+					senza replicare che non potendo l’arcivescovo, venisse almeno il coadiutore et
+					pure con altri vescovi, che hanno allegati impedimenti per non ritrovarsi a la
+					dieta, ha la M.tà S. replicato: Temeno ancora che non, essendo egli arcivescovo,
+					ma né manco semplice oratore, che ne la sessione ne la dieta non fosse per
+					patire qualche indignità, massime intendendosi che li signori Austriaci vogliono
+					alterare l’uso antico, col voler ogn’uno d’essi un orator proprio. Li rispetti,
+					poiché concernono il buon governo de la chiesa tanto spirituale come temporale,
+					saranno espresse ne la risposta data a me da l’arcivescovo, la quale mando a V.
+					S. Ill.ma. <note xml:id="FN2_00001_13" type="footnote">Nicht vorhanden.</note>
+				</p>
+				<p>Hora non mi essendo io acquietato a le ragioni, che in viva voce et in scritto mi
+					hanno allegate,<note xml:id="FN2_00001_14" type="footnote">Nicht
+						vorhanden.</note>parendomi che le personali essendo private non siano da
+					essere preposte a le publiche, et le altre che spettano il governo de la chiesa
+					possono patire dilatione, oltre che si può disponere le cose in forma, che non
+					patiranno detrimento di qualità, et non sarà mons. coadiutore tanto lontano, che
+					non possi essere ogni settimana avvisato del stato de le cose, et il dubio,
+					ch’egli ha che coloro che li sono contrarii non siano per pigliar piedi
+					nel’absentia sua, se bene è di qualche momento, non è però tale, che lo debba
+					rimovere da una attione tanto utile et necessaria. Finalmente, per la replica
+					fatta da me, siamo convenuti in questo, che io debbo rappresentare a V. S.
+					Ill.ma tutti gli impedimenti, che lo fanno essere sospeso in non risolversi; et
+					che se V. S. Ill.ma, non ostante essi, giudicarà che egli debba in ogni modo
+					ritrovarsi ne la dieta, ch’egli subito si metterà in camino<note
+						xml:id="FN2_00001_15" type="footnote"> Siehe unten Nr. 8.</note>. . .</p>
+			</div>
+		</body>
+	</text>
+</TEI>

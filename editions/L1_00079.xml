@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00079">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1581-03-19" n="1">1581-03-19</title>
+				<title level="a">79. Orazio Malaspina an G. Malaspina - Prag, 1581 März 19</title>
+				<author ref="#http://d-nb.info/gnd/1031952896">Malaspina, Orazio</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 99, f. 406r—407v, gleichzeitige
+							Kop.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00079">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/1031952896">Malaspina, Orazio</persName>
+					<date when="1581-03-19" n="1"/>
+					<placeName ref="#http://www.geonames.org/3067696">Prague</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_004">Malaspina,
+						Germanico - Malaspina, Orazio</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00078.xml">78.
+						Gallio an Malaspina - Rom, 1581 März 18</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_0079A.xml">79A.
+						Malaspina an Herzog Wilhelm - Graz, 1581 März 20</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_004" target="L1_00008.xml">8. Malaspina an Orazio
+						Malaspina - Graz, 1580 September 30/ Oktober 1</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Suspendierung des Religionsdekretes durch Erzherzog Karl vom Kaiserhof als sehr
+					gefährlich angesehen. Imponierendes Gegenbeispiel das standhafte Verhalten
+					Erzherzog Emsts auf vergangenem Wiener Landtag gegenüber Forderungen der
+					Häretiker. Strenges Vorgehen Erzherzog Karls gegen häretische Rebellen
+					notwendig. Päpstliche Aufforderung an Kaiser, Erzherzog Ernst und Erzherzog
+					Ferdinand zur Mitwirkung an Religionsangelegenheit in Innerösterreich. Reise
+					Herzog Ferdinands von Bayern nach Graz zur Unterstützung Erzherzog Karls.
+					Bemühungen um Beilegung der Grenzstreitigkeiten mit Venedig.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="79">Orazio Malaspina an G. Malaspina - Prag, 1581 März 19</head>
+			<div>
+				<p>Ho ricevuto la lettera di V. S. Illma delli 7 di marzo<note xml:id="FN1_00079_01"
+						type="footnote">Nicht vorhanden.</note>insieme con la copia de l’aviso dato
+					da lei al sermo arciduca Ernesto, <note xml:id="FN1_00079_02" type="footnote"
+						>Nr. 74.</note>et benché molto prima io havessi havuto copia da questi
+					signori di corte del <pb xml:id="P1_0000216"/>decreto <note
+						xml:id="FN1_00079_03" type="footnote">Nr. 50.</note>fatto da cotesta
+					Altezza, a favore della religione cattolica, et anco inteso li romori, che ne
+					facevano li provinciali, et veduto le lettere scritte da quelli all’arcivescovo
+					di Salzburg <note xml:id="FN1_00079_04" type="footnote">Die der Augsburger
+						Konfession angehörigen Herren und Landleute von Steiermark haben am 24.
+						Dezember 1580 schriftlich sowohl bei den in Graz anwesenden Salzburger
+						Kommissaren als auch beim Erzbischof von Salzburg selbst energisch dagegen
+						protestiert, daß diese Erzherzog Karl dahin zwingen und dringen, die der
+						Landschaft gegebenen feierlichen Zusicherungen ihr wieder zu entziehen
+						(Loserth, FRA II/50, S. 137—139).</note>et a V. S. Rma <note
+						xml:id="FN1_00079_05" type="footnote">Nr. 56.</note>sopra tal materia,
+					nondimeno mi è stato molto caro vederne il ritratto fatto di sua mano.</p>
+				<p>In questa corte generalmente et in particolare da’ principali ministri la
+					retirata, che ha fatta cotesta Altezza, è tenuta attione perniciosissima, et per
+					la religione cattolica et per lo stato politico. Così nelli paesi di S. A., come
+					in questi di S. Mtà Ces. et per dover dare tanta arroganza a gli heretici, che
+					siano insopportabili, et che molto meglio saria stato non l’haver principiata
+					che doppo essersi retirata, et non preseguire animosamente l’essecutione del suo
+					decreto, et adducono in essempio che non ha fatto così l’arciduca Ernesto in
+					Vienna la dieta passata, che essendo andato da lui circa sei mila huomini, et
+					domandatoli un luogo per l’essercitio della loro setta, non solo non lo
+					concesse, ma gli auttori di tal congregatione fece metter prigioni, et credo che
+					ancora vi siano.<note xml:id="FN1_00079_06" type="footnote">Der sogenannte
+						Fußfall der Fünftausend fand am 19. Juli 1579 statt und wurde seitens der
+						Regierung mit Entlassung von Hofbeamten, Einkerkerung und Landesverweisung
+						beantwortet (Mayr, Wiener Protestantengeschichte, S. 85 bis 93; Bibl, Die
+						Einführung der katholischen Gegenreformation, S. 139 ff.; Mecenseffy,
+						Geschichte des Protestantismus, S. 84 f.).</note>Con che si quietò il
+					tumulto, et per questo anno si è vissuto molto cattolicamente in Vienna ;<note
+						xml:id="FN1_00079_07" type="footnote"> Im Sommer 1580 erhielt Wien eine
+						Garnison von 300 Mann unter einem katholischen Stadthauptmann, und zum
+						Unterschied von früher wurde nun energisch die katholische Restauration in
+						Angriff genommen, u. a. durch die Büchervisitation (Bibl, Erzherzog Emst und
+						die Gegenreformation, S. 580 f.).</note>vogliono per questo inferire che, se
+					cotesta Altezza havesse fatto il medisimo, o lo facesse ancora, le cose de’ suoi
+					stati sariano più quiete. Ma se (come pare ad alcuni) si mostrarà temere di
+					loro, per esser la natura dell’heretico insolente et insatiabile, dove non trova
+					riscontro, si può temere per certo che in breve tempo ridurranno quel buon
+					principe il più infelice principe che viva, et servo de’ suoi sudditi; è
+					necessario donque che<pb xml:id="P1_0000217"/> S. A. lasci per un poco la
+					consueta mansuetudine et pigli la non solita severità per reprimere l’insolenti
+					et ribelli al suo giusto volere.</p>
+				<p>Io non intendo che il numero de’ capi de’ settarii sia più di tre o quattro, et
+					che, tolti via questi, senza replica gli altri staranno quieti alla volontà
+					dell’A. S. Faccia, faccia metter prigioni nella fortezza questi capi, sotto quel
+					pretesto che più piace a S. A., ché non mancano occasioni a’ principi di
+					castigare un suddito quando vogliono.<note xml:id="FN1_00079_08" type="footnote"
+						>Vgl. Nr. 67, Anm. 7.</note>Et facci che ognuno intenda che l’A. S. è
+					padrona, et che vuol dar la legge al paese et non riceverla da loro, et poi
+					venga alla essecutione del suo decreto. Né dubbiti di cosa alcuna ché, havendo
+					Dio da sua parte, S. D. Mtà lo leverà d’ogni pericolo.</p>
+				<p>Già S. Stà ha scritto brevi in questo proposito all’imperatore et arciduca
+					Ernesto, essortandoli con efficacia a pigliar questa causa come causa commune,
+					et io ne ho fatto vivi offitii in voce. In simile credo che N. S. haverà fatto
+					con l’arciduca Ferdinando,<note xml:id="FN1_00079_09" type="footnote">Siehe Nr.
+						67, Anm. 9.</note>et S. Bne istessa non mancarà di darle tutti quelli aiuti
+					che può maggiori. Et al presente, venendo il duca Ferdinando di Baviera a
+					cotesta Altezza, mi ha detto che è per offerirle ogni sua forza, <note
+						xml:id="FN1_00079_10" type="footnote">Herzog Ferdinand dürfte erst 1582
+						wieder nach Graz gekommen sein (Harter, Geschichte Kaiser Ferdinands I, S.
+						220).</note>dimodoché da tutte le parti veniranno aiuti et da Dio immediate,
+					trattandosi agumento di religione et da gli huomini per zelo di Dio et per causa
+					di stato.</p>
+				<p>Resta che quanto prima S. A. si risolva con animo regale a non voler patire
+					l’indegnità qual pare a molti che patisca, lasciando che suoi sudditi li
+					ponghino la legge di coscienza in casa et nelle terre sue, contra ogni ragione
+					divina et humana, et specialmente contra l’editto della pacificatione di
+						Germania,<note xml:id="FN1_00079_11" type="footnote">Vgl. Nr. 60, S. 173 f.;
+						Repgen, Die Römische Kurie und der Westfälische Friede I/1, S. 87
+					ff.</note>del quale credo che molto bene V. S. Rma habbi notitia, et pigli
+					animosamente la causa della religione et sua.</p>
+				<p>L’aspettare, come V. S. Rma mi dice per la sua lettera, che siano composte le
+					differenze de’ confini tra l’A. S. et li sigg. Venetiani,<note
+						xml:id="FN1_00079_12" type="footnote">Vgl. Nr. 74, S. 202.</note>dico che
+					questo negotio non ha communicatione con quello, et tali devono esser li
+					consigli di qualche persona, che non sente bene della fede presso al principe,
+					che, con poner altri negotii in mezzo, vogli dar longhezze per metter questo
+					della religione in oblivione. Li sigg. <pb xml:id="P1_0000218"/>Venetiani non
+					sono per muovere fastidio a S. A., che l’habbino da disturbare, che non si facci
+					obedire da’ suoi sudditi. Anzi l’ambasciatore di Venetia, che resiede a questa
+					corte, mi ha detto più volte che tien per certo che li suoi signori daranno
+					aiuto a S. A., sempre che glielo ricerchi per questa causa.<note
+						xml:id="FN1_00079_13" type="footnote"> Am 7. Februar 1581 meldete der
+						venezianische Gesandte aus Prag, daß nach Ansicht hervorragender
+						Persönlichkeiten am Kaiserhof, u. a. des spanischen Gesandten, Venedig als
+						Nachbar an einer Stärkung Erzherzog Karls interessiert sein müsse;
+						öffentliche Demonstrationen zugunsten Karls, wie Sendung eines
+						Sondergesandten, seien angebracht (Venedig AS, Dispacci Germania, filza 7,
+						f. 142rv, 147r).</note>Non restarò però di attendere a quello che V. S. Rma
+					mi scrive, et farò ogni buono offitio che io possa, acciò o con rimettere il
+					negotio a S. Stà, come mi dice che S. A. si è offerta, overo per altra buona via
+					si venghi al fine di quella controversia de’ confini. Ma perché questo negotio
+					potria esser alquanto longo et tra tanto la causa della religione potria pigliar
+					et in Stiria et in Austria peggior conditione, giudico esser opportunissimo che
+					V. S. Rma, qual resiede presso quel sermo principe, insti senza intermissione et
+					dimodoché lo facci risolvere con brevità a voler esser conosciuto et obedito
+					come signore. Et se pur S. A. vede qualche difficoltà, si lasci intendere con S.
+					Bne et S. Mtà Ces. di che aiuto ha bisogno, <note xml:id="FN1_00079_14"
+						type="footnote">Vgl. Nr. 74, S. 201, Nr. 93, S. 258, Nr. 137, S. 371 f., und
+						Nr. 140.</note>ché io sto in buona opinione che si trovaranno modi da
+					facilitare ogni cosa con l’aiuto, che senza dubio le darà Iddio, mentre S. A.
+					non manchi a se stessa.</p>
+				<p>Prego V. S. Rma che accetti a buona parte questa mia libertà de dire come
+					l’intendo in questo negotio; et se presso cotesto principe non vi fosse stato
+					ministro di S. Stà, facilmente mi sarei risoluto scriver il mio senso et quello
+					che qui si ragiona liberamente a S. A., sperando che haveria aggradito la mia
+					buona volontà et zelo verso la religione cattolica et verso il servitio et
+					honore dell’A. S., et lasciar quello che per mio difetto di giuditio non vedessi
+					bene.</p>
+				<p>Del negotio di metter nuovo capitano a Canisia et che sia cattolico, ne ho fatto
+					avertire il sig. Trautzon, che mi ha promesso, quando si proponerà in conseglio,
+					tenerne memoria et farne buoni offitii.<note xml:id="FN1_00079_15"
+						type="footnote">In Nr. 74, S. 204 f., schreibt O. Malaspina aber von
+						Karlstadt und nicht von Kanizsa, dessen Kommandant, Niklas Graf von Salm,
+						allerdings damals starb und, obwohl Protestant, zu St. Dorothea in Wien
+						beigesetzt wurde (Mayr, Wiener Protestantengeschichte, S. 62).</note>La
+					prego a scrivere spesso, et se dubita che le lettere siano intercette, le mandi
+					nel piego di S. A., la quale scrive assai spesso a questa corte...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

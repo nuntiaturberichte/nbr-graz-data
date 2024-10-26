@@ -1,241 +1,248 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_298.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1602-02-15" n="1">1602-02-15</title>
-                    <title level="a">298.1. Clemens VIII. an Portia - Rom, 1602 Februar 15</title>
-                    <author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Secr. Brev., Reg. 318, fol. 245r–246v und 250r–251r,
-								Min.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilage: fol. 248[b]r, undatiertes Memorial von Wolf Albrecht von
-						Würtzburg.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_298.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII.,
-                            Klemens</persName>
-                        <date when="1602-02-15" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_032">Papst,
-                            VIII., Klemens - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_297.1.xml">297.1. Portia an Aldobrandini - Graz, 1602 Februar 11</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_299.1.xml">299.1. Portia an Aldobrandini - Graz, 1602 Februar 18</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_032" target="L5_217.1.xml">217.1. Clemens VIII.
-                            an Portia - Rom, 1601 April 28</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_032" target="L5_309.1.xml">309.1. Portia an
-                            Clemens VIII. - (o.D.)</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Johann Veit von Würtzburg war bereits für die ungeachtet des Weihegrades
-						eines Subdiakons geschlossene Ehe unter bestimmten Auflagen eine Absolution
-						erteilt worden. Da er aber nach dem Tod seiner Frau erneut eine Ehe
-						eingegangen ist, muss er erneut dispensiert werden, wozu Portia unter
-						entsprechenden Bedingungen ermächtigt wird.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="298.1">Clemens VIII. an Portia - Rom, 1602 Februar 15</head>
-				<div>
-					<p>Sedes Apostolica pia Mater recurrentibus ad eam post excessum cum humilitate
-						filiis libenter se propitiam exhibet et benignam. Sane pro parte dilecti
-						filii Joannis Viti a Virtzburg<note xml:id="FN5_298.1_01" type="footnote">Vgl. Nr. 49.1.</note> Clerici in Subdiaconatus ordine constituti
-						Herbipolensis seu Bambergensis Diocesis alias nobis exposito, ipsum Joannem
-						Vitum qui, ut asserebat, ex primaria nobilitate Franconie ortus existit,
-						ante multos Annos dum in sacro Subdiaconatus ordine constitutus erat,
-						Matrimonium de facto tenere, contraxisse et plures liberos suscepisse,<pb xml:id="P5_0000651"/> et in eadem expositione subiuncto, ipsum Joannem
-						Vitum fere omnino litterarum ignarum ac natum existere et degere in loco,
-						ubi nulla vel exigua extat sacrorum canonum notitia et ubi homines ex eximia
-						vivendi licentia arbitrantur fere omnia sibi licere, ipsum tum alioquin de
-						Catholica Religione, ut etiam fide dignorum testimonio accepimus,
-						benemeritum esse, ac de praemissis ab intimis doluisse et tunc dolere, ac
-						pro suae Conscientiae et status securitate plurimum cupere opportunam sibi
-						absolutionem per Nos benigne concedi ac nobis propterea illius nomine
-						humiliter supplicato ut sibi in praemissis opportune providere de
-						benignitate Apostolica dignaremur. Nos huiusmodi supp[licationi]bus tunc
-						inclinati, per alias nostras in simili forma Brevis litteras Venerabili
-						fratri Episcopo Herbipolensi dedimus in mandatis<note xml:id="FN5_298.1_02" type="footnote">Breve vom 7. November 1600, ASV, Secr. Brev., Reg. 301,
-							fol. 69r–70v.</note>, ut si et postquam ipse Joannes Vitus Coram ipso
-						aperte declaravisset, credere minime sibi licuisse, salva Catholica
-						Religione Matrimonium contrahere, cum in sacro subdiaconatus ordine esset
-						constitutus, atque ideo commissam culpam maximam detestatus fuisset, ac
-						iniuncto illi, ut dum viveret, singulis diebus Coronam seu tertiam partem
-						Rosarii Beatae Marie Virginis recitare deberet loco horarum canonicarum,
-						quas ex obligatione ordinis subdiaconatus de iure quotidie recitare
-						tenebatur, necnon iniuncto etiam eidem loco penitentiae salutaris, ut duos
-						adolescentes studiosos apud Religiosos Societatis Jesu in Collegio
-						Herbipolensi constituere ac suis sumptibus alere teneretur, donec illi
-						studia sua ibidem iuxta aliorum morem prorsum absolvissent, praedictum
-						Joannem Vitum ab excommunicationis aliisque censuris et penis
-						Ecclesiasticis, propter praemissa per eum iterato incursis, auctoritate
-						nostra Apostolica in utroque foro gratiose absolveret et cum in eodem Joanne
-						Vito, ut Matrimonium cum eadem mulierem, quam duxerat, quatenus sibi alio
-						jure prohibita non esset, de novo servata forma Concilii Tridentini
-						contrahere et in faciem Ecclesiae solemnizare ac in eo postmodum remanere
-						libere et licito valeret, eadem auctoritate dispensaret prolemque susceptam
-						et suscipiendam exinde legitimam decerneret, prout in litteris praedictis
-						plenius continetur. Cum autem, sicut nobis nuper eiusdem Joannis Viti nomine
-						nobis de novo expositum fuit, antequam dictus Episcopus Herbipolensis
-						litteras nostras praedictas executioni demandasset, et cum praedicto Joanne
-						Vito super praemissis dispensasset, Mulier quam ipse Joannes Vitus antea de
-						facto in uxorem duxerat, vita functa fuerit ac non multo post ipse Joannes
-						Vitus morae impatiens et carnis fragilitate ductus non expectata dicti
-						Episcopi Herbipolensis resolutione cum alia Muliere Matrimonium iterum de
-						facto contraxerit, carnali forsan copula subsecuta. Cumque culpam suam
-						agnoscens ac de illa plurimum dolens, pro sui status et conscientiae
-						securitate et ad evitanda graviora scandala, quae inde<pb xml:id="P5_0000652"/> suboriri possint, cupiat sibi de opportunae
-						absolutionis beneficio ac dispensationis gratia per nos de benignitate
-						Apostolica provideri idque a nobis humili iterum supplicatione petierit. Nos
-						more pii Patris, qui non vult mortem peccatoris, sed magis ut convertatur et
-						vivat, cum praedicto Joanne Vito clementer agere volentes ac praedictarum
-						litterarum tenorem praesentibus pro expresso habentes, ipsumque Joannem
-						Vitum a quibusvis excommunicationis etc. praeterquam praemissorum occasione
-						vel causa etc. censentes, huiusmodi posterioribus supplicationibus
-						inclinati, Fraternitati tuae per praesentes committimus et mandamus, ut si
-						dictus Joannes Vitus culpam suam coram te recognoscens et detestans
-						humiliter veniam petierit atque in primis a praedicta Muliere statim
-						separatus arbitrio tuo permanserit, tum, quia ipse Joannes Vitus Matrimonium
-						bis de facto contrahendo causam dedit suspicandi ipsum non bene sentire de
-						celibatu clericorum, coram te de vehementi in forma solita abiuraverit, ac
-						aperte declaraverit credere sibi minime licuisse salva Catholica Religione
-						Matrimonium contrahere, cum in sacro subdiaconatus ordine esset constitutus,
-						ipso prius ab executione ordinis subdiaconatus perpetuo suspenso, ita tum,
-						si huic secundae Mulieri supervixerit, absque spe coniugii et eidem ordini
-						abligatus, inhabilis vero ad alios ordines suscipiendos perpetue remaneat ac
-						iniuncto illi, ut dum vixerit, singulis diebus Coronam, seu tertiam partem
-						Rosarii B. Mariae Virginis, recitare debeat loco horarum Canonicarum, quas
-						ex obligatione ordinis subdiaconatus de jure quotidie recitare teneretur,
-						quam obligationem divini offitii recitandi in Coronam, seu tertiam partem
-						Rosarii huiusmodi auctoritate apostolica gratiose commutes, necnon iniuncto
-						etiam eidem, loco paenitentiae salutaris, ut duos adolescentes studiosos
-						apud Religiosos Societatis Jesu in Collegio Herbipolensi constituere ac suis
-						sumptibus alere teneatur, donec illi studia sua ibidem iuxta aliorum modum
-						prorsus absolverint; praedictum Joannem Vitum ab excomunicationis aliisque
-						censuris et poenis ecclesiasticis propter praemissa ab eo iterato incursis,
-						auctoritate nostra Apostolica in utroque foro gratiose absolvas, et cum
-						eodem Joanne Vito, ut Matrimonium cum praedicta secunda Muliere quam duxit,
-						quatenus alio jure sibi prohibita non sit, de novo servata forma Concilii
-						Tridentini contrahere et in facie Ecclesiae solemnizare ac in eo postmodum
-						remanere libere et licite valeat, eadem auctoritate dispenses prolemque tam
-						ex priore Muliere defuncta, quam ex secunda Muliere susceptam, si qua sit,
-						et suscipiendam exinde legitimam decernas. Non obstante subdiaconatus ordine
-						praedicto, necnon quibusvis Apostolicis, ac in Provincialibus et Synodalibus
-						Conciliis editis generalibus, vel specialibus constitutionibus, et
-						ordinationibus, ac quibuscumque statutis, et consuetudinibus, etiam
-						Juramento, confirmatione Apostolica vel quavis firmitate alia roboratis,
-						coeterisque contrariis quibuscumque.</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_298.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1602-02-15" n="1">1602-02-15</title>
+                <title level="a">298.1. Clemens VIII. an Portia - Rom, 1602 Februar 15</title>
+                <author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Secr. Brev., Reg. 318, fol. 245r–246v und 250r–251r,
+                            Min.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilage: fol. 248[b]r, undatiertes Memorial von Wolf Albrecht von
+                        Würtzburg.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_298.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</persName>
+                    <date when="1602-02-15" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_032">Papst, VIII.,
+                        Klemens - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_297.1.xml"
+                        >297.1. Portia an Aldobrandini - Graz, 1602 Februar 11</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_299.1.xml">299.1.
+                        Portia an Aldobrandini - Graz, 1602 Februar 18</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_032" target="L5_217.1.xml">217.1. Clemens VIII. an
+                        Portia - Rom, 1601 April 28</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_032" target="L5_309.1.xml">309.1. Portia an Clemens
+                        VIII. - (o.D.)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Johann Veit von Würtzburg war bereits für die ungeachtet des Weihegrades eines
+                    Subdiakons geschlossene Ehe unter bestimmten Auflagen eine Absolution erteilt
+                    worden. Da er aber nach dem Tod seiner Frau erneut eine Ehe eingegangen ist,
+                    muss er erneut dispensiert werden, wozu Portia unter entsprechenden Bedingungen
+                    ermächtigt wird.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="298.1">Clemens VIII. an Portia - Rom, 1602 Februar 15</head>
+            <div>
+                <p>Sedes Apostolica pia Mater recurrentibus ad eam post excessum cum humilitate
+                    filiis libenter se propitiam exhibet et benignam. Sane pro parte dilecti filii
+                    Joannis Viti a Virtzburg<note xml:id="FN5_298.1_01" type="footnote">Vgl. Nr.
+                        49.1.</note>Clerici in Subdiaconatus ordine constituti Herbipolensis seu
+                    Bambergensis Diocesis alias nobis exposito, ipsum Joannem Vitum qui, ut
+                    asserebat, ex primaria nobilitate Franconie ortus existit, ante multos Annos dum
+                    in sacro Subdiaconatus ordine constitutus erat, Matrimonium de facto tenere,
+                    contraxisse et plures liberos suscepisse, <pb xml:id="P5_0000651"/>et in eadem
+                    expositione subiuncto, ipsum Joannem Vitum fere omnino litterarum ignarum ac
+                    natum existere et degere in loco, ubi nulla vel exigua extat sacrorum canonum
+                    notitia et ubi homines ex eximia vivendi licentia arbitrantur fere omnia sibi
+                    licere, ipsum tum alioquin de Catholica Religione, ut etiam fide dignorum
+                    testimonio accepimus, benemeritum esse, ac de praemissis ab intimis doluisse et
+                    tunc dolere, ac pro suae Conscientiae et status securitate plurimum cupere
+                    opportunam sibi absolutionem per Nos benigne concedi ac nobis propterea illius
+                    nomine humiliter supplicato ut sibi in praemissis opportune providere de
+                    benignitate Apostolica dignaremur. Nos huiusmodi supp[licationi]bus tunc
+                    inclinati, per alias nostras in simili forma Brevis litteras Venerabili fratri
+                    Episcopo Herbipolensi dedimus in mandatis <note xml:id="FN5_298.1_02"
+                        type="footnote">Breve vom 7. November 1600, ASV, Secr. Brev., Reg. 301, fol.
+                        69r–70v.</note>, ut si et postquam ipse Joannes Vitus Coram ipso aperte
+                    declaravisset, credere minime sibi licuisse, salva Catholica Religione
+                    Matrimonium contrahere, cum in sacro subdiaconatus ordine esset constitutus,
+                    atque ideo commissam culpam maximam detestatus fuisset, ac iniuncto illi, ut dum
+                    viveret, singulis diebus Coronam seu tertiam partem Rosarii Beatae Marie
+                    Virginis recitare deberet loco horarum canonicarum, quas ex obligatione ordinis
+                    subdiaconatus de iure quotidie recitare tenebatur, necnon iniuncto etiam eidem
+                    loco penitentiae salutaris, ut duos adolescentes studiosos apud Religiosos
+                    Societatis Jesu in Collegio Herbipolensi constituere ac suis sumptibus alere
+                    teneretur, donec illi studia sua ibidem iuxta aliorum morem prorsum
+                    absolvissent, praedictum Joannem Vitum ab excommunicationis aliisque censuris et
+                    penis Ecclesiasticis, propter praemissa per eum iterato incursis, auctoritate
+                    nostra Apostolica in utroque foro gratiose absolveret et cum in eodem Joanne
+                    Vito, ut Matrimonium cum eadem mulierem, quam duxerat, quatenus sibi alio jure
+                    prohibita non esset, de novo servata forma Concilii Tridentini contrahere et in
+                    faciem Ecclesiae solemnizare ac in eo postmodum remanere libere et licito
+                    valeret, eadem auctoritate dispensaret prolemque susceptam et suscipiendam
+                    exinde legitimam decerneret, prout in litteris praedictis plenius continetur.
+                    Cum autem, sicut nobis nuper eiusdem Joannis Viti nomine nobis de novo expositum
+                    fuit, antequam dictus Episcopus Herbipolensis litteras nostras praedictas
+                    executioni demandasset, et cum praedicto Joanne Vito super praemissis
+                    dispensasset, Mulier quam ipse Joannes Vitus antea de facto in uxorem duxerat,
+                    vita functa fuerit ac non multo post ipse Joannes Vitus morae impatiens et
+                    carnis fragilitate ductus non expectata dicti Episcopi Herbipolensis resolutione
+                    cum alia Muliere Matrimonium iterum de facto contraxerit, carnali forsan copula
+                    subsecuta. Cumque culpam suam agnoscens ac de illa plurimum dolens, pro sui
+                    status et conscientiae securitate et ad evitanda graviora scandala, quae inde
+                        <pb xml:id="P5_0000652"/>suboriri possint, cupiat sibi de opportunae
+                    absolutionis beneficio ac dispensationis gratia per nos de benignitate
+                    Apostolica provideri idque a nobis humili iterum supplicatione petierit. Nos
+                    more pii Patris, qui non vult mortem peccatoris, sed magis ut convertatur et
+                    vivat, cum praedicto Joanne Vito clementer agere volentes ac praedictarum
+                    litterarum tenorem praesentibus pro expresso habentes, ipsumque Joannem Vitum a
+                    quibusvis excommunicationis etc. praeterquam praemissorum occasione vel causa
+                    etc. censentes, huiusmodi posterioribus supplicationibus inclinati, Fraternitati
+                    tuae per praesentes committimus et mandamus, ut si dictus Joannes Vitus culpam
+                    suam coram te recognoscens et detestans humiliter veniam petierit atque in
+                    primis a praedicta Muliere statim separatus arbitrio tuo permanserit, tum, quia
+                    ipse Joannes Vitus Matrimonium bis de facto contrahendo causam dedit suspicandi
+                    ipsum non bene sentire de celibatu clericorum, coram te de vehementi in forma
+                    solita abiuraverit, ac aperte declaraverit credere sibi minime licuisse salva
+                    Catholica Religione Matrimonium contrahere, cum in sacro subdiaconatus ordine
+                    esset constitutus, ipso prius ab executione ordinis subdiaconatus perpetuo
+                    suspenso, ita tum, si huic secundae Mulieri supervixerit, absque spe coniugii et
+                    eidem ordini abligatus, inhabilis vero ad alios ordines suscipiendos perpetue
+                    remaneat ac iniuncto illi, ut dum vixerit, singulis diebus Coronam, seu tertiam
+                    partem Rosarii B. Mariae Virginis, recitare debeat loco horarum Canonicarum,
+                    quas ex obligatione ordinis subdiaconatus de jure quotidie recitare teneretur,
+                    quam obligationem divini offitii recitandi in Coronam, seu tertiam partem
+                    Rosarii huiusmodi auctoritate apostolica gratiose commutes, necnon iniuncto
+                    etiam eidem, loco paenitentiae salutaris, ut duos adolescentes studiosos apud
+                    Religiosos Societatis Jesu in Collegio Herbipolensi constituere ac suis
+                    sumptibus alere teneatur, donec illi studia sua ibidem iuxta aliorum modum
+                    prorsus absolverint; praedictum Joannem Vitum ab excomunicationis aliisque
+                    censuris et poenis ecclesiasticis propter praemissa ab eo iterato incursis,
+                    auctoritate nostra Apostolica in utroque foro gratiose absolvas, et cum eodem
+                    Joanne Vito, ut Matrimonium cum praedicta secunda Muliere quam duxit, quatenus
+                    alio jure sibi prohibita non sit, de novo servata forma Concilii Tridentini
+                    contrahere et in facie Ecclesiae solemnizare ac in eo postmodum remanere libere
+                    et licite valeat, eadem auctoritate dispenses prolemque tam ex priore Muliere
+                    defuncta, quam ex secunda Muliere susceptam, si qua sit, et suscipiendam exinde
+                    legitimam decernas. Non obstante subdiaconatus ordine praedicto, necnon
+                    quibusvis Apostolicis, ac in Provincialibus et Synodalibus Conciliis editis
+                    generalibus, vel specialibus constitutionibus, et ordinationibus, ac
+                    quibuscumque statutis, et consuetudinibus, etiam Juramento, confirmatione
+                    Apostolica vel quavis firmitate alia roboratis, coeterisque contrariis
+                    quibuscumque.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

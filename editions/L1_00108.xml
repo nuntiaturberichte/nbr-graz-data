@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00108">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-07-27" n="1">1581-07-27</title>
+                <title level="a">108. Malaspina an Gallio - Graz, 1581 Juli 27</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 330r—331v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00108">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-07-27" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00107.xml"
+                        >107. Graz, 1581 Juli 20</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00109.xml">109.
+                        Malaspina an Gallio - Graz, 1581 Juli 30</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00106.xml">106. Malaspina an Gallio -
+                        Graz, 1581 Juli 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00109.xml">109. Malaspina an Gallio -
+                        Graz, 1581 Juli 30</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Aussprache mit Erzherzog Karl über Fortsetzung des Religionsgeschäftes mit
+                    Hinweisen auf Hilfsbereitschaft benachbarter und verwandter Fürsten. Hilfe des
+                    Papstes, Zusage des Königs von Spanien, positive Haltung des Herzogs von
+                    Sachsen. Weiterhin vorsichtiges Agieren Erzherzog Karls. Rekatholisierung einer
+                    von Hoffmann seit langem besetzten Pfarre. Vorgehen gegen Häretiker in der
+                    Grafschaft Pisino. Getreideausfuhr aus Ancona für Schranz.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="108">Malaspina an Gallio - Graz, 1581 Juli 27</head>
+            <div>
+                <p>Se bene hormai mi par più prudentia l’aspettare di far giuditio certo de la buona
+                    mente di questo sermo principe nel negotio de la <pb xml:id="P1_0000305"
+                    />religione, de la subsequentia, de li effetti et da le opere istesse che da le
+                    parole, nondimeno non mi è parso fuori di proposito far sapere a V. S. Illma
+                    tutto quello che dopo il ritorno di mons. di Gurgo<note xml:id="FN1_00108_01"
+                        type="footnote"> Vgl. Nr. 105, Anm. 1.</note>si è trattato in questa
+                    materia. Prima che il vescovo facesse la sua relatione, io esposi a S. A. quanto
+                    da V. S. Illma mi veniva ordinato.<note xml:id="FN1_00108_02" type="footnote">
+                        Siehe Nr. 90, S. 247 f.</note>Et essendo il negotio di tanta importantia et
+                    ridotto a così buon termine, mi parve di non lasciare a dietro cosa che io
+                    pensassi potesse strengere et animare S. A. a far da dovero et non perdere così
+                    buona occasione. Et perciò, oltre ad alcune ragioni essentiali et vere, le posi
+                    in consideratione ancora che se li heretici dopo d’haver saputo che lei si è
+                    consigliata con tanti principi con mandarli oratori espressi <note
+                        xml:id="FN1_00108_03" type="footnote">Vgl. Nr. 76, Anm. 6, Nr. 83, Anm. S,
+                        und Nr. 85, Anm. 4.</note>et di tanta qualità vederanno che lei non tenta et
+                    non perfettiona cosa alcuna, diveranno tanto insolenti per l’avvenire et
+                    praecipue ne la dieta futura, che in verità era da dubitare grandemente che l’A.
+                    S. non potesse sostenere li impeti loro et che non la sforzassero a
+                    condescendere a cose poco utili a l’anima et non di dignità quanto al mondo, et
+                    in questo caso li principi amici et parenti di lei, forse indignati per non
+                    haver seguito il conseglio loro, sarebbono freddi nel porger li aiuti et con
+                    ragione direbbono perditio tua ex te Israel, massime che non li sarà celato che
+                    l’A. S., oltre a li consigli, quali danno la forma come lei si ha da governare,
+                    ha ancora così grande aiuto da N. S. <note xml:id="FN1_00108_04" type="footnote"
+                        >Siehe Nr. 93.</note>et di presente è da S. Mtà Cat. assicurata che non è
+                    per mancarli di porgerli aiuto ; et non so certo in che forma più efficace et
+                    più pia le potesse scrivere quella Mtà oltre che lei stessa dice che si è
+                    assicurata del duca di Sassonia, che sarà più tosto in aiuto suo <note
+                        xml:id="FN1_00108_05" type="footnote">Vgl. Nr. 85, Anm. 14.</note>che de li
+                    provinciali et de li Austriaci, ancora si sa quello che hanno risposto ne la
+                    dieta passata a questi heretici di modo che, essendo li confini quieti, li aiuti
+                    grandi da ogni parte, pare che non si possa desiderare più sicura occasione di
+                    liberarsi con infinita gloria da la tirannide di costoro. <note
+                        xml:id="FN1_00108_06" type="footnote">Vgl. Nr. 79, Anm. 7.</note>Et se bene
+                    de le cose che hanno da venire non può l’intelletto humano se non per congetture
+                    far certo giuditio, nondimeno essendo esse così essentiali et ben fondate et
+                    approbate da tanti principi, S. A. non doveva in modo alcuno dubitare che non
+                    fossero per esser con<pb xml:id="P1_0000306"/>firmate dal felice successo del
+                    negotio. S. A. con affettuose parole mi ordinò che io ringratiassi in suo nome
+                    S. Bne de la paterna solecitudine che teneva verso le cose sue et ch’egli
+                    accetava l’offerta et la stimava, come il dovero et la ragione voleva,
+                    promettendo di voler seguire in ogni cosa il consiglio di S. Stà, ma che non
+                    havendo riportato risolutione alcuna il concelliero da l’arciduca Ferdinando et
+                    dal duca di Baviera, havendo loro risposto che volevano pensare sopra, non
+                    poteva per fiora venire a la executione, se bene credeva che quelli principi
+                    sarebbono stati de l’opinione di S. Mtà Ces., la quale ha risposto che giudica
+                    esser bene infierire nel perfettionar il negotio a la consulta fatta già in
+                    Baviera, et che ordinarebbe che fosse spedito un corriero per sollicitar la
+                    risposta di quelli principi, come ha fatto, et desidera grandemente che
+                    l’arciduca Ferdinando sia presente, quando si darà principio a l’executione.
+                        <note xml:id="FN1_00108_07" type="footnote">Vgl. Nr. 77, Anm. 11.</note>Dopo
+                    mons. di Gurgo ha parlato con S. A. et è restata ne la medesima risolutione et,
+                    andando fra tre giorni a le caccie dove si fermerà un mese, dubito che il
+                    negotio dormirà insin a quel tempo. <note xml:id="FN1_00108_08" type="footnote"
+                        >Erzherzog Karl und seine Gemahlin waren begeisterte Jäger; eines ihrer
+                        bevorzugten Jagdgebiete lag um Eisenerz, wohin sie sich auch diesmal begaben
+                        (Hurter, Geschichte Kaiser Ferdinands II, S. 354—360; Fiedler, Relationen
+                        venetianischer Botschafter, S. 286; Pirchegger, Geschichte der Steiermark
+                        1282— 1740, S. 437). Vgl. Nr. 109, und Nr. 110.</note>Nel’interim S. A. non
+                    lascia di far certe dimostrationi, le quali sono degne di esser grandemente
+                    commendate et danno un principio così grande a quello che si pretende, che noi
+                    giudichiamo che le cose siano per pigliar con aiuto divino qualche buona
+                    piega.</p>
+                <p>Scrissi a li mesi passati a V. S. Illma che l’Hoffmam occupava una parochia
+                    segnalatissima et per il gran numero del popolo, che passano 15 milia anime, et
+                    per esser molto pingue et egli ha da 18 anni in qua sempre fatto instruire
+                    quelli popoli da ministri heretici et pessimi, et godeva egli l’intrate. Si è
+                    andato molto pensando come si poteva levargli quella parochia et sono stati
+                    diversi pareri et allegati infiniti pericoli. A l’ultimo S. A. animosamente l’ha
+                    privato et ha posto un parocho catholico, hora costui protesta et minaccia di
+                    far cosa grande et la vuol principalmente meco, perché io son passato da la
+                    parochia ne la mia absentia da Gratz, et dice che ho sedutto quelli
+                        huomini.<note xml:id="FN1_00108_09" type="footnote">Es handelt sich um die
+                        Pfarre Pöls, die Hoffmann bisher ruhig besaß. Am 10. Juli 1581 präsentierte
+                        Erzherzog Karl als neuen Pfarrer Albrecht von Hornberg (Loserth, FRA II/50,
+                        S. 18 f. und 271 f.; Graz Diözesanarchiv, Urkunden II, 485).</note>S. A. ha
+                    fatto il medesimo con un altro nobile et hora ha fatto intendere<pb
+                        xml:id="P1_0000307"/> a quelli heretici, che hanno in pegno il contado di
+                    Pissino, <note xml:id="FN1_00108_10" type="footnote"/>che li vuol restituire li
+                    danari et toglierli il contado et si sta pensando di ritrovare un catholico che,
+                    con le medesime conditioni, lo pigli et non ce ne mancano che volentieri lo
+                    faranno. Et spero che saremo liberati da le mani loro, et S. A. è risoluta che
+                    paghino la pena, che è 20 milia ongari, per non haver obedito a li suoi decreti
+                    et in questo mentre non si manca di obviare a tutti li disordini, che potessero
+                    succedere in quel contado...</p>
+                <p>Il cancell iero mi fa grandissima instantia che io racordi a V. S. Illma la
+                    tratta del grano ch’egli l’anno passato domandò per mezzo mio a N. S. et ne
+                    hebbe assai bona risposta.<note xml:id="FN1_00108_11" type="footnote">Siehe Nr.
+                        94, S. 262.</note>Però io non posso lasciare di supplicare V. S. Illma che
+                    si degni di favorirlo, acciò habbia occasione di seguitare animosamente in
+                    aiutare li negotii che si trattino. . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

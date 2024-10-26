@@ -1,177 +1,185 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_368.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1602-11-11" n="1">1602-11-11</title>
-                    <title level="a">368.1. Portia an Aldobrandini - Graz, 1602 November 11</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 307r,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_368.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1602-11-11" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_367.1.xml">367.1. Aldobrandini an Portia - Rom, 1602 November 9</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_369.1.xml">369.1. Aldobrandini an Portia - Rom, 1602 November 16</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_367.1.xml">367.1. Aldobrandini an
-                            Portia - Rom, 1602 November 9</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_369.1.xml">369.1. Aldobrandini an
-                            Portia - Rom, 1602 November 16</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Portia hat den Brief an Postmeister Johann Friedrich von Paar
-						weitergeleitet. Die Meldung von der Einnahme von Ofen/Buda war verfrüht, die
-						Belagerung bleibt äußerst schwierig. Portia verweist auf die beigelegten
-						Berichte und vertraut auf die ausführliche Kriegsberichterstattung durch
-						Serra. Der Empfang des Schreibens an den Herzog von Bayern [Maximilian I.]
-						wird bestätigt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="368.1">Portia an Aldobrandini - Graz, 1602 November 11</head>
-				<div>
-					<p>Con le lettere di V. S. Ill.ma de 26 del passato<note xml:id="FN5_368.1_01" type="footnote">Nr. 362.1.</note>, ho ricevuto quella per il Sig.
-						Federico de Par Generale delle Poste di queste A. A.<note xml:id="FN5_368.1_02" type="footnote">Nicht auffindbar.</note>, a cui
-						holla subito resa, et ha mostrato rincrescimento grande per la nuova data
-						dell’acquisto assoluto di Buda, la quale tuttavia si mantiene et è guernita
-						di pendio tale che, se ben il Campo Turchesco è partito dalla oppugnatione
-						di Pest, si crede però che li Cesarei haveranno che fare, massime che dalle
-						sortite, quali ben spesso derivano da nemici, li nostri ricevono non poco
-						danno et quando fossero per svernare nella Città dell’acqua et non stiano
-						molto avertiti et dalli assediati et da altri di fuori potranno sentire de
-						travagli grandi<note xml:id="FN5_368.1_03" type="footnote">Nachdem Großwesir
-							Yemishdji Hasan Pascha am 13. Oktober 1602 mit seinem Heer wieder vor
-							Pest eingetroffen und dem belagerten Ofen/Buda zur Hilfe geeilt war,
-							musste er am 2. November aufgrund der fehlenden Nahrungsmittelversorgung
-							sein Lager vor Pest abbrechen, ließ aber Soldaten seines Heeres als
-							Unterstützung zurück: vgl. STROMER, S. 126.</note>. Il resto<pb xml:id="P5_0000749"/> che mi occorre di significare haverà V. S. Ill.ma
-						dai soliti dupplicati et avisi<note xml:id="FN5_368.1_04" type="footnote">Nicht auffindbar.</note>, benché in proposito delli avenimenti bellici
-						mi rimetta per il più a quello che ordinariamente si deve scrivere da
-						Monsig. Rev.mo Serra. …</p>
-					<p>
-						<note xml:id="SN368.1_a" type="siglum">Eigenhändige Ergänzung
-							Portias.</note> Si è dato ricapito alla lettera di V. S. Ill.ma diretta
-						al Sig. Duca di Baviera<note xml:id="FN5_368.1_05" type="footnote">Nicht
-							auffindbar.</note>.<ref target="#SN368.1_a">*a)</ref>
-						<note xml:id="SN368.1_b" type="siglum">Dorsalvermerk des
-							Staatssekretariates, fol. 308v: E[rminio].</note>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_368.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1602-11-11" n="1">1602-11-11</title>
+                <title level="a">368.1. Portia an Aldobrandini - Graz, 1602 November 11</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 307r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_368.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1602-11-11" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_367.1.xml"
+                        >367.1. Aldobrandini an Portia - Rom, 1602 November 9</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_369.1.xml">369.1.
+                        Aldobrandini an Portia - Rom, 1602 November 16</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_367.1.xml">367.1. Aldobrandini an
+                        Portia - Rom, 1602 November 9</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_369.1.xml">369.1. Aldobrandini an
+                        Portia - Rom, 1602 November 16</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Portia hat den Brief an Postmeister Johann Friedrich von Paar
+                    weitergeleitet. Die Meldung von der Einnahme von Ofen/Buda war verfrüht, die
+                    Belagerung bleibt äußerst schwierig. Portia verweist auf die beigelegten
+                    Berichte und vertraut auf die ausführliche Kriegsberichterstattung durch Serra.
+                    Der Empfang des Schreibens an den Herzog von Bayern [Maximilian I.] wird
+                    bestätigt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="368.1">Portia an Aldobrandini - Graz, 1602 November 11</head>
+            <div>
+                <p>Con le lettere di V. S. Ill.ma de 26 del passato<note xml:id="FN5_368.1_01"
+                        type="footnote">Nr. 362.1.</note>, ho ricevuto quella per il Sig. Federico
+                    de Par Generale delle Poste di queste A. A. <note xml:id="FN5_368.1_02"
+                        type="footnote">Nicht auffindbar.</note>, a cui holla subito resa, et ha
+                    mostrato rincrescimento grande per la nuova data dell’acquisto assoluto di Buda,
+                    la quale tuttavia si mantiene et è guernita di pendio tale che, se ben il Campo
+                    Turchesco è partito dalla oppugnatione di Pest, si crede però che li Cesarei
+                    haveranno che fare, massime che dalle sortite, quali ben spesso derivano da
+                    nemici, li nostri ricevono non poco danno et quando fossero per svernare nella
+                    Città dell’acqua et non stiano molto avertiti et dalli assediati et da altri di
+                    fuori potranno sentire de travagli grandi<note xml:id="FN5_368.1_03"
+                        type="footnote"> Nachdem Großwesir Yemishdji Hasan Pascha am 13. Oktober
+                        1602 mit seinem Heer wieder vor Pest eingetroffen und dem belagerten
+                        Ofen/Buda zur Hilfe geeilt war, musste er am 2. November aufgrund der
+                        fehlenden Nahrungsmittelversorgung sein Lager vor Pest abbrechen, ließ aber
+                        Soldaten seines Heeres als Unterstützung zurück: vgl. STROMER, S.
+                        126.</note>. Il resto<pb xml:id="P5_0000749"/> che mi occorre di significare
+                    haverà V. S. Ill.ma dai soliti dupplicati et avisi <note xml:id="FN5_368.1_04"
+                        type="footnote">Nicht auffindbar.</note>, benché in proposito delli
+                    avenimenti bellici mi rimetta per il più a quello che ordinariamente si deve
+                    scrivere da Monsig. Rev.mo Serra. …</p>
+                <p>
+                    <note xml:id="SN5_368.1_a" type="siglum">Eigenhändige Ergänzung
+                    Portias.</note>Si è dato ricapito alla lettera di V. S. Ill.ma diretta al Sig.
+                    Duca di Baviera<note xml:id="FN5_368.1_05" type="footnote"> Nicht
+                        auffindbar.</note>.<ref target="#SN5_368.1_a"/>
+                    <note xml:id="SN5_368.1_b" type="siglum">Dorsalvermerk des Staatssekretariates,
+                        fol. 308v: E[rminio].</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

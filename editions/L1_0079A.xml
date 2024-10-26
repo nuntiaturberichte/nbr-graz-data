@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00001">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1581-03-20" n="1">1581-03-20</title>
+				<title level="a">79A. Malaspina an Herzog Wilhelm - Graz, 1581 März 20</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>München HStA, Kurbayern, Äuß. Arch. 4239, f. 483r—485v,
+							Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_0079A">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1581-03-20" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/118771841">Bayern, Herzog, V.,
+						Wilhelm</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_007">Bayern, Herzog,
+						V., Wilhelm - Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00079.xml">79.
+						Orazio Malaspina an G. Malaspina - Prag, 1581 März 19</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00080.xml">80.
+						Malaspina an Gallio - Graz, 1581 März 24</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_007" target="L2_00031.xml">31. Herzog Wilhelm an
+						Malaspina - (Graz, 1582 vor Oktober 8)</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Zusammenfassender Bericht über Stand der Religionsangelegenheiten: Drängen des
+					von diabolischen Prädikanten verführten Adels auf Belassung der erkauften
+					religiösen Freiheiten. Schwierige Lage des liebenswerten und friedliebenden
+					Erzherzogs Karl wegen früher gemachter Konzessionen. Unter den landesfürstlichen
+					Räten nur wenige eifrig katholisch, die anderen politisch, pernitiös oder
+					häretisch. Vom Prälatenstand nicht viel zu erwarten. Arrogantes Verhalten der
+					militärisch starken Häretiker. Alle Räte mit Landtagsergebnis zufrieden.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="79A">Malaspina an Herzog Wilhelm - Graz, 1581 März 20</head>
+			<div>
+				<p>La singular pietà et zelo che con vive et essentiali opere mostra V. Ecca nel
+					protegere la santa fede catholica, sì come lo fa senza dubio grato al Signore
+					Dio, dal quale li principi deveno sperare il premio delle loro heroiche et sante
+					operationi, così lo rende a proposito coloro, che si pretiano di buoni et veri
+					christiani, tanto admirabile, che non e maraviglia, che io mosso da desiderio di
+					esser tenuto da Lei per suo devotissimo servitore, mi sia posto a farle
+					riverenza con questa mia et insieme darle breve raguaglio del esito che per hora
+					ha havuto il negotio della religione in questi parti. </p>
+				<p>Havendo nel principio della dieta li heretici dato un memoriale al principe della
+					gravezze che pretendono in materia della lor falsa religione.<note
+						xml:id="FN1_0079A_01" type="footnote">Vgl. Rainer, Grazer Nuntiatur I, S.
+						134</note> Il stato ecclesiastico ne presentò ancor esso uno nel medemo
+					proposito contraponendosi a quello<note xml:id="FN1_0079A_02" type="footnote"
+						>Ebd. S. 135.</note> et essendosi in questa forma doppo molte fatiche
+					constituito il principe come giudice tra questi doi stati non si manco di farle
+					instanza, che come signore giusto disgravasse la parte offesa et così S. A.
+					publicò in decreto,<note xml:id="FN1_0079A_03" type="footnote">Ebd. S.
+						146—151.</note> il quale se bene è in molte cose deffettuoso parve pero che
+					per il principio dovesse bastare et quanto al dar sodisfactione a stato
+					ecclesiastico et restituir il principe in securo stato quanto alla conscienza.
+					Fatto questo S. A. insieme con tutti li suoi consiglieri se bene si
+					persuadevono, che li heretici fossero per rendersi difficili in lasciar esequir
+					il decreto. Nondimeno non si potevano indurre a credere, che la ostinatione et
+					impudenza loro dovesse esser tale, che vedendo la ferma risolutione del principe
+					non fossero per obedire dalche e nato, che con simplici scritti et sole parole
+					si è sempre proceduto. Al fine doppo molte repliche et inginochiature armati
+					delli heretici et piene di rebellione S. A. a contemplatione delli suoi
+					consiglieri, alli quali hebbero riccorso s’indusse di compiacerli concedendoli
+					dilatione circa la executione del decreto, insin tanto che havessero come nelli
+					suoi scritti si conteneva cominciato il negotio così S. Mtà Ces.<note
+						xml:id="FN1_0079A_04" type="footnote">Ebd. S. 178f.</note>
+				</p>
+				<p>Quando a S. A. fu proposto di dar la dilatione non lasciò di dir in consiglio,
+					che si dovesse maturamente considerare se era espediente di concederla o no, et
+					che lei era pronta di metter la vita, moglie et figliuoli et robba per augumento
+					della religione catholica, li consiglieri non ostante questa protesta si
+					risolssero che non si poteva far di manco et non fu in verità tralasciato alhora
+					di parlare con molta libertà christiana et molto seriamente alli consiglieri, et
+					tra le altre cose, dichiarare per escomunicati tutti coloro, che in evento
+					credessero che S. A. potesse far di manco, l’havessero consigliato a simil
+					dilatione, et se bene non era forsi in consideratione appresso alcuni tali
+					censure, come persone poco timorate de Dio. Nondimeno essendo nel consiglio
+					vescovi et altri zeloti catholici la virtù de quali è nota molto bene così
+					sicuro che causò terrore et scrupolo grandissimo con tutto ciò anco essi furno
+					del medemo parere.</p>
+				<p>Data la dilatione li heretici cominciorno ad abusare et vilipendere la benignità
+					di S. A., hora proponendo una forma di suspensione hor un altra, alterando la
+					forma della lor domanda et è in verità da deplorare grandemente che questa
+					nobiltà sia stata così corotta et sedotta da questi settarii et diabolici
+					predicatori che insieme con haver smarrita la vera religione habbia ancora persa
+					la fede che tra huomini pollitici et gentili si è sempre havuta in prezzo, doppo
+					molte reppliche si contentorno della suspensione ma con conditione che fosse
+					senza la clausula insin tanto ma simplice il che però non pregiudica a S. A.
+					poiché s’intende a beneplacito di lei.<note xml:id="FN1_0079A_05"
+						type="footnote">Ebd. S. 190f.</note></p>
+				<p>Hora in questo negotio sono alcuni punti degni di consideratione. Prima la natura
+					del principe, inclinata a governare con piacevolezza, quiete et senza strepito,
+					et pero non è maraviglia, che habbia voluto nel principio far esperienza, se con
+					le buone poteva farsi obedire, le concessioni o tolleranze date per il passato
+					in materia di religione, comprate come lor dicano, ac si religio esset pretium
+					sanguinis, sono di consideratione et difficultano l’impresa. La necessità nella
+					quale S. A. si trova, non è di minor peso et se bene fosse sovvenuto per un poco
+					di tempo non par pero ad alcuni, li quali vorebbeno descrivere il naviglio così
+					rotto et pieno di fessure, che non fosse mastro, che ardisse pigliar l’impresa
+					d’accomodarlo, che questo sia per bastar. Il pensare ad una assicuratione
+					perpetua datta del impossibile, et se bene queste sono difficultà alle quale si
+					risponde sufficientemente, nondimeno è già consuetudine antica delli principi
+					haver grandissima gelosia et depidare timore, ubi aliquando non est timor quando
+					si tratta di materia di stato, et essendo li esiti delle cose incerti è
+					difficile il dar consiglio, o per dir meglio il violentarli in simili accidenti
+					et massime a forastieri, li quali come poco pratichi delli pericoli del paese
+					deveno andar circonspetti in questo et più tosto creder ad altri et in specie
+					alli buoni, che far giudizio da lor stessi, et particolarmente quando hanno
+					desgravata la lor coscienza più volte racordando quello, che sentono et
+					giudicano. Non è ancor di poco momento l’haver un principe di tal natura
+					appresso di suoi consiglieri, parte zelosi,<note xml:id="FN1_0079A_06"
+						type="footnote">Ebd. S. 25, 28, 31, 32, 34f., 40ff.</note> ma pochi, parte
+					pollitici et pernitiosi,<note xml:id="FN1_0079A_07" type="footnote">Vgl. ebd. S.
+						30f., 44f., 125f.</note> il restante heretici, <note xml:id="FN1_0079A_08"
+						type="footnote">Vgl. ebd. S. 28, 197.</note> alli quali non mancano
+					argumenti di fomentare tutto quello, che di sopra ho detto. </p>
+				<p>Quanto al stato ecclesiastico, dal quale si doverebbe ragionevolmente aspettar
+					ogni aiuto in simile necessità, è prima tra di loro così corrotta la santa
+					disciplina ecclesiastica et regula, che non solo non edificano, ma destruono con
+					la lor mala vita, et se bene nel resto si ha occasione in questa dieta di
+					lodarsi di loro par però che tuttavia questi ministri non fornischino di
+					assicurarsi della fermezza loro, cosa che io non posso persuadermi.<note
+						xml:id="FN1_0079A_09" type="footnote">Vgl. ebd. S. 73, 132f., 135, 153, 334,
+						338f., 347, 359.</note></p>
+				<p>Resta poi la qualità delli heretici, la quale havendo in ogni provincia, dove
+					questa pestilenza è intratta, lasciato miserabili vestigii del effetto, che fa,
+					non occorre, che io mi affatichi in descriverla, ma non lascierò di dire quello,
+					che fa al mio proposito. Costoro prima hanno nel parlare et operare perso tutto
+					il rispetto al principe, tengono sotto la sua custodia l’armaria di S. A. Hanno
+					il governo di tutte le provincie in mano, stanno a lor devotione li soldati
+					delli confini, delli quali il principe doveva dubitare in questi fragenti, che
+					abbandonando questa diffesa non fossero venuti a offender lui. In conclusione
+					l’hanno ridotto a termine, che quasi non può vivere se non passa per le mani
+					loro la esperienza, poi delle cose passate, li ha così impettuosi petulanti et
+					arroganti, che ancora ardiscano di dire publicamente, che il principe non dice
+					da dovero et che quando pur sia altrimenti, che hanno per impossibile, che egli
+					possa applicar l’animo in modo a negocii fastidiosi, che loro non siano per
+					astraccarlo. Di modo, che stando tutti questi rispetti, non è maraviglia, che S.
+					A. habbia questa volta non tolto, ma sospeso il decreto, per quelli degni fine,
+					che dalla bontà di un tal principe si deve et credere et aspettare, massime che
+					in questa dieta non si è se non guadagnato assai et io mettero nel primo grado
+					di guadagnare il non haver perso et questa è la prima dieta, nella quale non si
+					sia concesso qualche cosa alli heretici.<note xml:id="FN1_0079A_10"
+						type="footnote">Vgl. ebd. S. 28, 178f., 196f., 418ff.</note></p>
+				<p>Secondariamente se li è messo un freno et se bene lor dicano d’esser contenti, si
+					vede però che non è vero et la suspensione non li piace. </p>
+				<p>Terzo S. A. ha havuto occasione di conoscere la natura loro et quanto poco si
+					debba fidare di simili humori. Si sono ancora saputi tutti li lor andamenti et
+					quello che pensavano di tentare in evento, che si fosse venuto alla esecutione,
+					ma ultimamente quello, che più importa il principe ha dichiarata la sua volontà
+					et assicurata la sua conscienza, poiché o non ha potuto far più o ha potuto, se
+					non ha potuto è escusato, se ha potuto la potenza era così ambigua, che non si
+					poteva esequire senza esponersi a pericolo manifesto, et essendo questo stato il
+					parere de tutti i suoi consiglieri, sarà da tutti giudicato che habbi fatto bene
+					in darli fede, et che il differire per giocare al sicuro sia stato espediente.
+					Et perciò se S. A. seguiterà animosamente l’impressa cominciata, dala quale deve
+					sperare un esito felicissimo, doverà reportare lode grandissima et non si potrà
+					dire che habbia fatto indignità alcuna, quando ancora faccia altrimenti, cosa
+					che io non posso credere, alhora ogniuno giudicherà, che perditio tua ex te
+					Israel. Poiché se bene niuno niega, che la piaga non sia quattriduana et
+					difficile da curare, et che bisogna che la cura doglia, così ad incontro si
+					assicurà l’infermo de la morte, purché voglia osservare et esequire li ordini
+					dati dali medici, che l’amano, et non volendo si fa in pregiudicio suo un certo
+					et formidabile pronostico nel spirituale et temporale ... </p>
+			</div>
+		</body>
+	</text>
+</TEI>

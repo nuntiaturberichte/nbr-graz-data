@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00048">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-12-14" n="1">1582-12-14</title>
+                <title level="a">48. Malaspina an Gallio - Graz, 1582 Dezember 14</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 532r—533v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00048">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-12-14" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00047.xml">47.
+                        Gallio an Malaspina - Rom, 1582 Dezember 11</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00049.xml">49.
+                        Gallio an Malaspina - Rom, 1582 Dezember 18</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00047.xml">47. Gallio an Malaspina -
+                        Rom, 1582 Dezember 11</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00049.xml">49. Gallio an Malaspina -
+                        Rom, 1582 Dezember 18</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Ablehnende Haltung Erzherzog Karls gegen Interzession evangelischer Reichsfürsten
+                    zugunsten der Augsburger Konfession in Innerösterreich. Landesfürstliches Dekret
+                    an Grazer Stadtrat mit Aufforderung zur Entscheidung zwischen Gehorsam in
+                    Religionsangelegenheit oder Auswanderung. Gespräche mit Erzherzog Karl und Räten
+                    über weitere Entwicklung des Religionsgeschäftes.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="48">Malaspina an Gallio - Graz, 1582 Dezember 14</head>
+            <div>
+                <p>Doi giorni fa, havendo S. A. inteso il parere delli consiglieri della M.tà de
+                    l’imperatore, diede risposta all’oratori delle provintie, che li presentorono
+                    quelle lettere intercessionali delli principi della confessione Augustana, come
+                    nelle precedenti mie delli 3 del presente significai a V. S. Ill.ma,<note
+                        xml:id="FN2_00048_01" type="footnote">Siehe oben Nr. 46.</note>la quale in
+                    sustantia contiene questo: che si devono ricordare di ciò che l’A. S. le disse,
+                    quando intese da loro che erano necessitati di haver ricorso alla dieta
+                    imperiale, il che fu che lei né glielo concedeva, né glielo vetava, ma che in
+                    ogni evento, quanto al negotio della religione, poco profitto havrebbono fatto
+                    essendo l’A. S., non <pb xml:id="P2_0000073"/>ostante qualsivoglia
+                    intercessione, risoluta di voler che il decreto publicato sia essequito et che
+                    lei non è così priva di giuditio, che quando havesse havuta dispositione alcuna
+                    di gratificarli nella loro petitione, havesse permesso che ricognoscessero il
+                    benefitio da altri che da lei; che quanto poi al contenuto delle lettere di
+                    quelli potentati, <note xml:id="FN2_00048_02" type="footnote"
+                        >Interzessionsschreiben schickten an Erzherzog Karl: Kurfürst Ludwig von der
+                        Pfalz, der Herzog von Württemberg, der Graf zu Henneberg, die Pfalzgrafen
+                        Richard, Johann und Hans Kasimir, die Landgrafen Wilhelm und Ludwig von
+                        Hessen, markgräflich ansbachische Räte sowie Pfalzgraf Philipp Ludwig
+                        (Loserth, FRA II/50, S. 364).</note>lei era più che sicura che se loro
+                    havessero narrato il fatto come passa, et è passato insin’hora che quelli
+                    principi non havrebbono scritto in lor favore, poiché inherendo tutti loro nel
+                    governare li suoi subditi alla pacificatione de l’imperio in materia di
+                    religione, <note xml:id="FN2_00048_03" type="footnote">Augsburger
+                        Religionsfriede.</note>né permettendo che li vassalli la transgrediscano,
+                    havrebbono con l’intercedere per loro confortato l’A. S. a permissione che essi
+                    non vogliono permettere, il che lei, che cognosce la prudentia di quelli
+                    principi, non se li può persuadere, massime havendo concesso circa la religione
+                    più di quello che habbia mai fatto principe alcuno di Alemagna.</p>
+                <p>Ne l’istesso tempo si è publicato un decreto al senato<note xml:id="FN2_00048_04"
+                        type="footnote">Landesfürstlicher Befehl vom 2. Dezember 1582, diejenigen zu
+                        melden, die dem Religionsdekret nicht gehorchten und an dem ihnen gesetzten
+                        Termin zu Weihnachten abziehen wollten, damit deren Stellen im Grazer
+                        Stadtrat neu besetzt werden könnten (Loserth, FRA II/50, S. 333).</note>che
+                    si debba dechiarare se vuol o restare et obedire come fa o partire, acciò S. A.
+                    possi elegere altri in luogho loro, facendo poi universalmente intendere a tutti
+                    che l’A. S. è risolutissima di voler che li cittadini o obedischino overo si
+                    partino. Il tempo prefisso al senato et ad alcuni altri è breve, staremo a
+                    vedere quello che faranno. Ne l’interim il principe è obedito.</p>
+                <p>S. A. ha presentito che tutti li principi della confessione Augustana sono in
+                    breve per mandare alcuni ambasciatori all’A. S. per dissuaderla dalla
+                    essequutione del decreto, et seben et lei et li consiglieri non fanno stima
+                    alcuna della venuta o non venuta loro, con tutto ciò a me non piace et vivo con
+                    qualche ombra che, ritrovandosi qua al tempo della dieta,<note
+                        xml:id="FN2_00048_05" type="footnote">Zum nächsten Landtag, Februar/März
+                        1583, kamen keine Gesandten der evangelischen Reichsfürsten.</note>come
+                    forse studiosamente faranno, et essendo<pb xml:id="P2_0000074"/> questa
+                    prattica, come si crede, ordita et tramata da quella pessima pietra di scandalo
+                    dell’Hoffman, non siano per far tal oppositione alli pensieri nostri et dar tal
+                    formento alla parte adversa, che difficilmente da noi altri se li sia per poter
+                    resistere.</p>
+                <p>Pur S. A. mi assicura che io posso vivere in tal particolare con l’animo
+                    riposato. Questi ragionamenti hanno subministrato occasione all’A. S. et alli
+                    consiglieri di aprirsi meco circa l’essito che possa havere il negotio della
+                    religione, et seben io vo penetrando che loro ancora sono ambigui né ardiscono
+                    di far certo giuditio d’esso, nondimeno ho giudicato esser conveniente di dar
+                    parte a V. S. Ill.ma di quello che doppo prestata una continuata obedientia
+                    dalli cittadini si persuadeno debba al fin succedere. Credono che la nobiltà
+                    doppo che havrà tentato l’estremo, contenendosi però in simplice patroncinio
+                    d’intercessione verso li cittadini, vedendo la fermezza del principe, si sia per
+                    acquietare, con tal conditione però che l’A. S. l’assicuri nella forma che fece
+                    Massimiliano imperatore li Austriaci,<note xml:id="FN2_00048_06" type="footnote"
+                    />cioè con il sigillo et sottoscrittione et non usare il vocabolo permettere, ma
+                    concedere; et dubitano di più che siano per essere così impudenti che havranno
+                    ardire di domandar che nel scritto si faccia mentione del consenso di S. B.ne.
+                    Hora S. A., quanto a l’ultimo capo, lo tiene per così essorbitante che non ne fa
+                    caso alcuno, ma quanto a quello che spetta alla persona sua, se ben lei è
+                    risolutissima di tentar ogni mezzo per subterfugere di venir a tal accimento,
+                    hanno con tutto ciò li consiglieri tentato di scoprire quello che in simile
+                    occasione io fossi per sentire, dicendomi che molti nobili heretici havevano
+                    detto che non si sarebbono al fine curati delli cittadini, ma che dubitavano
+                    che, assicuratosi il principe d’essi, havrebbe sequitato più oltre molestando li
+                    nobili; al che io non ho dato risposta alcuna. Potrà ben la S.tà di N. S.
+                    ordinarmi come mi dovrò governare se il negotio si redurrà a questo individio .
+                    . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00089">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1581-05-07" n="1">1581-05-07</title>
+				<title level="a">89. Malaspina an Gallio - Graz, 1581 Mai 7</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 274r—275v, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00089">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1581-05-07" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00088.xml">88.
+						Possevino an (Gallio) - Wien, 1581 Mai 5</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00090.xml">90.
+						Gallio an Malaspina - Rom, 1581 Mai 9</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00084.xml">84. Gallio an Malaspina -
+						Rom, 1581 April 22</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00090.xml">90. Gallio an Malaspina -
+						Rom, 1581 Mai 9</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Vorschläge zur Beilegung des Jurisdiktionsstreites zwischen Erzherzog Karl und
+					Erzbischof von Salzburg. Differenzen zwischen Patriarch von Aquileia und
+					Venedig. Bestätigung des erwählten Bischofs von Bamberg und Verbleiben Hoffmanns
+					als bambergischer Vizedom in Villach. Mißfallen des Kaisers über enge Kontakte
+					der Ungarn mit König von Polen. Bitte Erzherzog Karls um Maßnahmen des Papstes
+					zur Verhinderung einer Wendung des Königs von Polen gegen Deutschland nach
+					Friedensschluß mit Moskau. Verkauf von Gütern des Klosters St. Lambrecht.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="89">Malaspina an Gallio - Graz, 1581 Mai 7</head>
+			<div>
+				<p>Da la lettera di V. S. Illma, che mi ha reso il p. Possevino, ho veduto il
+					desiderio che la Stà di N. S. ha che ne le differentie tra S. A. et
+					l’arcivescovo di Salisburgo, in materia dela jurisdictione ecclesiastica, si
+					ritrovi qualche temperamento, acciò il culto divino non habbia per sempre a
+						patire,<note xml:id="FN1_00089_01" type="footnote">Nr. 78.</note>come hora
+					fa grandemente per tal rispetto. Et se bene sono molti giorni che io feci sapere
+					a l’arcivescovo con lettere <note xml:id="FN1_00089_02" type="footnote">Nicht
+						vorhanden.</note>che poteva mandar subito li commissarii per dar principio a
+					la trattatione, nondimeno non sono ancora comparsi, né io ho havuto risposta
+					alcuna. Et credo che, per haver toccato io alcuni punti circa l’applicare alcuni
+					rimedii a la corruttione dela disciplina ecclesiastica dela sua diocesi, egli
+					che fugge et spesa et fatica et ha il consiglio infettato di heretici et il
+					fratello che governa ogni cosa, heretico fino,<note xml:id="FN1_00089_03"
+						type="footnote"> Der 1561 reorganisierte Hofrat, die eigentlich regierende
+						Behörde, die auch für alle geistlichen und weltlichen Lehensachen zuständig
+						war, scheint sich nicht bewährt zu haben, denn Georg von Kuenburg wurde in
+						der Wahlkapitulation zu seiner Reform angehalten (Widmann, Geschichte
+						Salzburgs III, S. 136 f.). Erzbischof Johann Jakob von, Kuen-Belasy hatte
+						folgende Brüder: Hans, erzherzoglicher Rat und Landeshauptmann von Tirol;
+						Dietrich, Domherr zu Trient und Brixen; Rudolf, Domherr zu Trient und
+						Brixen; Kaspar, Deutschordensritter; Rudolf, kaiserlicher Geheimer Rat;
+						Jakob, salzburgischer Landeshauptmann, der gegen die Wahl eines Koadjutors
+						war und am ehesten der hier genannte Bruder sein könnte (Mayrhofen,
+						Genealogien des tirolischen Adels, Lebende Geschlechter I, Nr. 47. Innsbruck
+						Museum Ferdinandeum; Schellhass, Ninguarda II, S. 303).</note>habbia<pb
+						xml:id="P1_0000244"/> perciò per consiglio loro differito insin’hora il
+					rispondermi et forse verranno un di questi giorni li commissarii et a bocca con
+					una lettera credentiale penserà di satisfare. Con tutto ciò io sono andato
+					pensando che si potrebbe accommodare le differentie in questa forma, cioè che ne
+					li juspatronati ecclesiastici o dove loro hanno jus advocatie, che in questi
+					tali li ordinarii habbiano et nel spirituale et nel temporale ogni potestà,
+					esclusa totalmente il principe, et questo spero si otterrà da S. A., neli
+					juspatronati laicorum o dove loro hanno il jus advocatie, che il spirituale sia
+					a la dispositione simplice del’ ordinario; ma che quanto al temporale, quando si
+					vorrà instituire la visita, che l’ordinario nomini uno et S. A. un altro, li
+					quali habbiano eguale potestà ncla visitatione d’esso temporale, a questo li
+					ministri di S. A. non condescendono ancora, ma forse si contentaranno et io di
+					già ne ho convinti alcuni, li quali mi promettono di voler star saldi in questo.
+						<note xml:id="FN1_00089_04" type="footnote">Vgl. Nr. 100 und 107.</note>
+				</p>
+				<p>Quanto poi al dare il possesso temporale, io havevo pensato di ridurre questo
+					capo ne la forma che si tiene sotto il dominio de’ signori Venetiani et non
+					despero affatto che S. A. non sia per acquetarsi.<note xml:id="FN1_00089_05"
+						type="footnote">In Venedig hatte die weltliche Gewalt gegenüber der
+						kirchlichen in der Regel eine gute Position.</note>
+				</p>
+				<p>Circa le alienationi de’ beni che ogni giorno fanno li ecclesiastici, oltre che
+					già io l’ho prohibito espressamente, spero ancora che si manderà un’informatione
+					a S. Bne acciò si habbia luce buona, come si debbia procedere quando occorrono
+					simili casi.<note xml:id="FN1_00089_06" type="footnote">Vgl. Nr. 19, Anm.
+						33.</note>Hora perché S. A. starà fuori un mese<note xml:id="FN1_00089_07"
+						type="footnote"> Siehe Nr. 85, Anm. 4.</note>et forse più, ne la sua
+					absentia non si può far cosa alcuna. Io desiderarei, acciò potessi trattar il
+					negotio con fondamento et satisfattione di N. S., che V. S. Illma mi facesse
+					gratia di avvisarmi se approva quello che di sopra ho detto o, non approvandolo,
+					ordinarmi ciò che io debbo fare.<note xml:id="FN1_00089_08" type="footnote">
+						Siehe Nr. 100, S. 287 f.</note>
+				</p>
+				<pb xml:id="P1_0000245"/>
+				<p>L’arciduca Hernesto ha scritto a S. A.<note xml:id="FN1_00089_09" type="footnote"
+						>Schreiben nicht vorhanden. Vgl. Nr. SS, S. 239 ff.</note>che advertì molto
+					bene che ne la trattatione che si farà con l’arcivescovo di Salisburgo non
+					condescendi a cosa che possi pregiudicare a la possessione che ha S. Mtà Ces. ne
+					li lochi soggetti in spirituale al sopradetto arcivescovo. Et questo offitio ha
+					molto intepidito l’animo di S. A., ma ho cercato di animarlo più che ho potuto
+					et ho scritto a l’arciduca et dato le lettere al p. Possevino, acciò faccia
+					offitio con quella Alteza che non impedischi opera così utile et necessaria per
+					il buon governo spirituale di queste provincie. Ho ancora dato a detto padre una
+					instruttione et lettere credentiali di quello che io desidero che da S. M. Ces.
+					et da l’arciduca Hernesto sia detto a questo principe. <note
+						xml:id="FN1_00089_10" type="footnote">Schreiben nicht vorhanden.</note>
+				</p>
+				<p>S. A. mi ha fatto dare l’inclusa lettera<note xml:id="FN1_00089_11"
+						type="footnote">Arch. Vat. Nunz. Germ. 100, f. 276r, Brief vom 25. April
+						1581.</note>circa le differentie di mons. patriarca et la Serma Signoria; mi
+					è parso bene che V. S. Illma la vedi.</p>
+				<p>10 non posso lasciare d’avvisare V. S.Illma, se bene Dio benedetto sa che mal
+					volentieri lo faccio, che l’Offimam, dopo che si è saputo la confirmatione
+					dell’eletto di Bamberga, va spargendo per ogni cantone che egli sapeva bene che
+					costà per non si perdere li danari de la confirmatione havrebbono confirmato
+					l’eletto, et non remosso lui, essendo che l’eletto era risoluto di non voler la
+					confirmatione se era astretto a toglierli il governo di Vilacco, et S. A.
+					giudica che il vescovo non sia più per rimoverlo.<note xml:id="FN1_00089_12"
+						type="footnote">Hoffmann wurde erst von Ernst von Mengersdorf, dem,
+						Nachfolger des eben bestätigten Bischofs von Bamberg, Martin von Eyb, im
+						Jahre 1584 seines Amtes als Vizedom enthoben (Huher, Hoffmann, S.
+						148—158).</note>
+				</p>
+				<p>Il p. Possevino mi consegnò a la sua partita ducento quaranta scudi d’oro per
+					l’effetto ch’egli deve senz’altro scrivere a V. S. Illma. Io non mancarò di
+					farli distribuire utilmente et fedelmente per quanto saprò et potrò.<note
+						xml:id="FN1_00089_13" type="footnote">Vgl. Nr. 85, Anm. 26.</note>Ho dato la
+					cura a quello che era curato costì in S. Giacopo scozza cavalli, il quale
+					governa la mia famiglia, et l’ho ritrovato fedele et pio, et credo che V. S.
+					Illma ne habbia notitia. <note xml:id="FN1_00089_14" type="footnote">Name nicht
+						bekannt.</note>
+				</p>
+				<p>S. A. mi communicò con molto secreto, et mi pregò a darne parte a N. S., che S.
+					Mtà Ces. era avvisata che gl’Ungari havevano molte strette pratiche col re di
+						Polonia,<note xml:id="FN1_00089_15" type="footnote">Stephan Bathory hatte
+						als Fürst von Siebenbürgen auch nach seiner 1576 erfolgten Wahl zum König
+						von Polen in Ungarn eine wichtige Stellung.</note>il che causava molta
+						gelosia<pb xml:id="P1_0000246"/> ne l’animo di quella Mtà che sapeva la mala
+					sodisfattione che quella provincia ha et di lei et de’ suoi ministri, et che
+					però S. A. supplicava N. S. che avvertisse che, pacificandosi il Moscovito con
+					il Polacco, <note xml:id="FN1_00089_16" type="footnote"/>non sia quel re per
+					convertire l’armi in Germania con notabile detrimento di tutta la Christianità,
+					et se bene mi persuado che il nuntio Ces. havrà già tempo fa penetrato tutto
+					questo et scritto a V. S. Illma, nondimeno mi è parso di sodisfare al desiderio
+					di S. A.</p>
+				<p>L’abbate di S. Alberto<note xml:id="FN1_00089_17" type="footnote"/>è veramente
+					religioso, buono et solo egli ha mantenuto in tanto corrutione dela regolar
+					disciplina il suo monasterio con buon numero di frati. Voleva a li giorni
+					passati fare una alienatione de’ beni del monasterio per pagare certi debiti. Il
+					consiglio di S. A. non volse admetterla senza mio consenso, et io non lo volsi
+					dare, intendendo da molti che il monasterio è richissimo. Havevo di già
+					supplicato S. A. che facesse offitio con S. Stà che l’aiutasse con una quantità
+					de danari, et voleva che io scrivessi a V. S. Illma, ma non lo volsi fare;
+					ultimamente si è risoluto di mandarmi le lettere sue et del principe per N.
+						S.<note xml:id="FN1_00089_18" type="footnote"/> Io le ho promesso di farle
+					dar buon ricapito, se parerà a V. S. Illma che ritrovandosi pure che il
+					monasterio sia indebitato, se le dia licentia di alienare, io crederei che non
+					fosse se non bene. Egli non è molestato né dal principe né da li ministri, anzi
+					amato da tutti né ha S. A. che trattare seco in materia di contributione, né
+					egli si lamenta di questo <note xml:id="FN1_00089_19" type="footnote">Vgl. Nr.
+						63, S. 181, und Nr. 100, S. 287 f.</note>...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

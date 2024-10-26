@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00053">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-12-17" n="1">1580-12-17</title>
+                <title level="a">53. Salzburger Kommissare an Malaspina - (Graz), 1580 Dezember
+                    17</title>
+                <author>Salzburger Kommissare</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 185r—187r, 188v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00053">
+                <correspAction type="sent">
+                    <persName>Salzburger Kommissare</persName>
+                    <date when="1580-12-17" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00052.xml">52.
+                        Malaspina an Gallio - Graz, 1580 Dezember 14</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00054.xml">54.
+                        Malaspina an Gallio - Graz, 1580 Dezember 19</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Lob der Entschlossenheit Erzherzog Karls, die katholische Religion und die
+                    geistliche Gerichtsbarkeit wiederherzustellen; Hoffnung, daß Erzherzog Karl den
+                    Erzbischof von Salzburg in dessen Rechten nicht beeinträchtigen wird.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="53">Salzburger Kommissare an Malaspina - (Graz), 1580 Dezember 17</head>
+            <div>
+                <p>Poiché S. Serma A. (ringratiato ne sia il Signor Iddio) prudentamente si è
+                    risoluta non voler più patire che la catholica et ortodoxa religione, assieme
+                    con la jurisdictione ecclesiastica, habbi esser tribulata, sminuita et in molti
+                    luogi cotalmente levata et quasi eradicata, come insin’hora di provinciali hanno
+                    pensato farlo con pretenduta buona licentia et autorità.<note
+                        xml:id="FN1_00053_01" type="footnote">Am 11. Dezember baten die Salzburger
+                        Kommissare Erzherzog Karl, das unzeitige und unbefugte Begehren der
+                        evangelischen Stände abzuweisen; sollte man ihnen die Toleranz, deren sie
+                        sich rühmen, nachsehen, so könnten die katholische Religion und die
+                        geistliche Jurisdiktion dabei nicht bestehen (Loserth, FRA II/50, S. 83—85).
+                        Vgl. Nr. 52, Anm. 1.</note>Ma come principe christiano debitamente<pb
+                        xml:id="P1_0000156"/> ha dechiarato <note xml:id="FN1_00053_02"
+                        type="footnote">Nr. 50.</note>voler che la religione sia restituita, qual
+                    vechiamente è stata, et per avenire sia similmente conservata. Et anco che detti
+                    provinciali restituiscano alii ordinarii la jurisdictione ecclesiastica, qual
+                    con astucie, inganni et violenza iniuriosamente si l’havevano in bona parte
+                    appropriata. Et perciò S. Serma A. giustamente ha revocato la pretenduta
+                    concessione della perfidia, la libertà del predicar haeretico, l’essercitio di
+                    desviar la iuventù nel lor seminario in Graz, <note xml:id="FN1_00053_03"
+                        type="footnote">Gemeint ist die hervorragende landschaftliche Schule in
+                        Graz, kurz meist Stift genannt, an der mehrere Jahre auch Johannes Kepler
+                        lehrte (Peinlich, Geschichte des Gymnasiums in Graz, Jahresbericht 1869, S.
+                        10 ff.).</note>et ultimo convenientamente ha fatto d’haver a essi
+                    provinciali commesso che non debino sotto pretesto della advocatia, che vogliano
+                    haver nelli beneficii ecclesiastici, tirar a sé tutta la dispositione in detti
+                    beneficii, con grande danno della religione et preiuditio delli ordinarii. Ma
+                    che il tutto sia governato secondo commandano li sacri canoni et legge communi.
+                    Cosa veramente degna di tanto principe, per la qual senza alcun dubio S. Serma
+                    A. ne receverà da l’Omnipotente Signore incomparabile premio. Per tanto hora
+                    restarà solo, aciò anche l’illmo arcivescovo, nostro patrone gratiosissimo, come
+                    ordinario possi immediatamente seguitar con una buona, diligente, sincera, utile
+                    et fructifera visitatione et reformatione, <note xml:id="FN1_00053_04"
+                        type="footnote">Siehe Nr. 46, Anm. 7.</note>che sì come hora speramo che la
+                    ecclesiastica jurisdictione non debba esser più impedita dalli signori
+                    provinciali, così anco S. Serma A. resolutamente voglia lasciar la absoluta et
+                    integra jurisdictione ecclesiastica a l’ordinario, voglia restituir la debita
+                    immunità alle persone et beneficii ecclesiastici et commandar che li seculari
+                    iudici subdelegati et ministri non se intromettino in cose ecclesiastice, nisi
+                    in quanto permettano li sacri canoni et legge communi.</p>
+                <p>Et specialmente prima si debbe restituir la libera autorità a l’ordinario, che
+                    poscia, ogni volta gli parerà di visitar, egualmente conoscer, correger, punir
+                    et reformar nelle cose temporale de’ beneficii ecclesiastici come nelle
+                    spirituale.</p>
+                <p>Secondo, che l’ordinario poscia far dar l’integro possesso alli beneficiati,
+                    tanto nel temporale come nel spirituale, sì come vechiamente è stato observato,
+                    et per il contrario è grandissimo abuso che adesso se impediscano li ordinarii
+                    che non debbano saper cosa alcuna delle intrade et proventi de’ beneficii
+                    ecclesiastici.</p>
+                <p>Terzo, per conservatione de’ beni ecclesiastici, S. Serma A. schi<pb
+                        xml:id="P1_0000157"/>varà di dar licenza a’ beneficiati, che possiano
+                    vender, impegnar o pigliar danari d’imprcsto sopra li beni delle chiese.</p>
+                <p>Quarto, S. Serma A. non facci impegnar beni ecclesiastici per suoi occorrenti
+                    bisogni. Et si hoggi di qualche chiesa si trova per tal causa molto gravata, S.
+                    Serma A. provedi che sia relevata.</p>
+                <p>Quinto, S. Serma A. non voglia patir che le cose ecclesiastice et persone siano
+                    tirate al judicio seculare, sì come, con rovina de’ beneficii, alle volte è
+                    stato fatto.</p>
+                <p>Et ultimamente S. Serma A. per l’advocatia ch’ha in alcuni beneficii, non
+                    pretendi haverla presentatione et collatione de’ essi beneficii over l’intero
+                    dominio et dispositione delli beni temporali, che pertengano a’ detti beneficii
+                    ecclesiastici.</p>
+                <p>Et questo è quel tanto che mi par haver inteso che l’illmo ordinario più volte si
+                    è gravato, credo anco gli siano altre gravezze, le qual non occorreno per adesso
+                    nella mente. Ma per certo si saranno levati li soprascritti impedimenti, più
+                    facilmente potrà l’illmo ordinario far il debito suo; et visitarà con quella
+                    diligentia, che S. Serma A. ne riceverà singularissima sotisfatione.<note
+                        xml:id="FN1_00053_05" type="footnote"/>Et il Signor Iddio se convertirà a
+                    misericordia sì per il passato si è mancato a l’officio.</p>
+                <p>Perciò noi commissarii di Salzburg recoriamo da V. S. Rma, supplicandola
+                    humilmente se degni aiutare, ché possiamo ottener il pio nostro desiderio<note
+                        xml:id="FN1_00053_06" type="footnote">Siehe Nr. 55, S. 161 f, Nr. 68, S.
+                        190, Nr. 89, 94 und 109.</note>...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-06-30" n="3">1582-06-30</title>
+                <title level="a">7. Malaspina an Gallio - Augsburg, 1582 Juni 30</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 481rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00007">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-06-30" n="3"/>
+                    <placeName ref="#http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00006.xml">6.
+                        Malaspina an Gallio - Augsburg, 1582 Juni 30</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00008.xml">8.
+                        Gallio an Malaspina - Rom, 1582 Juli 7</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00006.xml">6. Malaspina an Gallio -
+                        Augsburg, 1582 Juni 30</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00008.xml">8. Gallio an Malaspina -
+                        Rom, 1582 Juli 7</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Dank für alle empfangenen Gnaden und Versprechen stets treuer Dienste.
+                    Schwierigkeiten bei Amtsführung. Bitte um eventuelle andere Verwendung.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="7">Malaspina an Gallio - Augsburg, 1582 Juni 30</head>
+            <div>
+                <p>Se bene mi persuado che V. S. Ill.ma debba senz’altro tener per certo che io
+                    ricognosco tutte le gratie che ho ricevute et a la giornata ricevo da la S.tà di
+                    N. S., dal favore et patrocinio che V. S. Ill.ma, per sua infinita bontà, si è
+                    sempre degnata d’haver di me, suo humilissimo et obligatissimo servitore et
+                    creatura, nondimeno havendomi ultimamente S. B.ne così gratiosamente donato li
+                    400 scudi di aiuto di costà<note xml:id="FN2_00007_01" type="footnote">Siehe
+                        oben Nr. 2.</note>et essendo et per me stesso certo et da altri infirmato
+                    che et il dono et con esso qualche bona impressione ne l’animo di S. S.tà de la
+                    persona mia tutto mi viene da la mano di V.S. Ill.ma, mi è parso non poter
+                    tralasciar tante occasioni senza renderne humilmente con ogni affetto le maggior
+                    gratie che posso a V. S. Ill.ma, et insieme assicurarla candidamente <pb
+                        xml:id="P2_0000013"/>che di continuo pregarò il sig. Dio, il quale solo può
+                    dare il vero premio de le sante, pie et degne operationi de li pari di V. S.
+                    Ill.ma, che la M.tà S. sia quella che et de la parte che tocca a me et de altre
+                    innumerabili che a benefitio de infiniti escono da V. S. Ill.ma gliene dia il
+                    vero merito.</p>
+                <p>lo mi sforzzarò, per quanto comporta la tenuità del mio ingegno, di conservare
+                    con gelosia il stato et opinione ne la quale V. S. Ill.ma me ha posto, et se le
+                    mie attioni si troveranno vacue di giuditio et industria, almeno saranno piene
+                    di fede et bona intentione.<note xml:id="FN2_00007_02" type="footnote">Die
+                        Tätigkeit Malaspinas wurde in Rom durch folgende Würden und Ämter anerkannt:
+                        1583 Bischof, 1584 Nuntius am Kaiserhof, 1591 Nuntius in Neapel und 1592
+                        Nuntius in Polen (Rainer, Grazer Nuntiatur I, S. XX).</note>Et spero ancora
+                    che nel negotio, che insin’hora ho trattato, si sia havuto in qualche
+                    consideratione il stato et qualità d’esso, poiché doppo d’haver con non poca
+                    fatica persuaso il principe et consiglieri suoi, nel che pare che consista la
+                    somma de l’offitio del nontio, circa la executione perfetta, la quale
+                    ordinariamente suol dependere dalla volontà delli principi, si scuopre tanta
+                    impossibilità congionta con pusilanimità insuperabile, che è tolta grand’
+                    occasione alli ministri di poter far note le loro fatiche con vivi et essentiali
+                    effetti. Ma se mai piacerà a V. S. Ill.ma di favorirmi appresso la S.tà di N. S.
+                    che io sia adoperato in altri negocii, forsi che al’hora il sig. Dio darà
+                    quell’incremento alle attioni mie, quale si ricerca per poter dare compita
+                    sodisfattione alli padroni et per ottenere questo mio desiderio a suo tempo, non
+                    penso mai di valermi d’altro mezo che di rivelare al mio signore la via et
+                    volontà mia et sperare in lui, rendendomi certo ch’egli farà, se così sarà
+                    benefitio mio ...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

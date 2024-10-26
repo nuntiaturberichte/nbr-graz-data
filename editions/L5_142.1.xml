@@ -1,173 +1,180 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_142.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-06-17" n="1">1600-06-17</title>
-                    <title level="a">142.1. San Giorgio an Portia - Rom, 1600 Juni 17</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>BNCF, Fondo nazionale II.II.511, fol. 122r–v, Orig.; ASV, Fondo
-								Borghese, serie III<lb/>48, 48 Bis, 49, 51 E, 52 A, fol. 29r–v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_142.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1600-06-17" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_141.2.xml">141.2. Portia an (Aldobrandini) - Graz, 1600 Juni 12</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_142.2.xml">142.2. San Giorgio an Portia - Rom, 1600 Juni 17</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_140.2.xml">140.2. San Giorgio an
-                            Portia - Rom, 1600 Juni 10</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_142.2.xml">142.2. San Giorgio an
-                            Portia - Rom, 1600 Juni 17</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia wird dazu aufgefordert, sich weiterhin der Diözese Passau anzunehmen,
-						wo eine Generalvisitation durchgeführt, ein Seminar errichtet und die Praxis
-						des Laienkelches unterbunden werden sollen. Bezüglich des Directoriums für
-						das Domkapitel von Passau werden die Kardinäle Baronio und Antoniano mit
-						einem Bericht beauftragt. Zufriedenheit über die Freude der Erzherzogin
-						Maria Anna an den Geschenken des Papstes.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="142.1">San Giorgio an Portia - Rom, 1600 Juni 17</head>
-				<div>
-					<pb xml:id="P5_0000333"/>
-					<p>Delle cose di Possa è conveniente che V. S. si prenda particolar cura,
-						essendosi condotte per le sue mani a quel buon termine in che si trovano
-						hoggi. Però oltre le fatiche et oltre gli offitii fatti sin qui si fatichi
-						et s’interponga di nuovo ove bisogna, perché si mandi ad effetto la Visita
-						generale di quella Diocesi, si eriga il Seminario, et si abolisca l’uso del
-						Calice, che sono li tre principali punti che restano pendenti.</p>
-					<p>Nella Congregatione dei Riti si è parlato del Direttorio del Breviario che
-						vorriano usare quei Capitolari et risoluto che si essamini diligentemente
-						dalli Sig. Cardinali Baronio et Antoniano<note xml:id="FN5_142.1_01" type="footnote">Silvio Antoniani (1540–1603), Sekretär für lateinische
-							Schreiben bei Kardinal Carlo Borromeo, Sekretär des Hl. Kollegs, Maestro
-							di Camera unter Clemens VIII., Sekretär der Fürstenbreven (1593),
-							Kardinal (1599): vgl. DBI 3, S. 511–515; JAITNER, Prosopographie, S. 262
-							(Anm. 321).</note>, i quali si procurerà che facciano la loro relatione
-						nel primo nuovo congresso<note xml:id="FN5_142.1_02" type="footnote">Vgl.
-							Nr. 138.1.</note>.</p>
-					<p>Della presentatione del Rosario et Crocetta che fu mandato al Sig. Cardinale
-						Diatristain per l’Arciduchessa sposa<note xml:id="FN5_142.1_03" type="footnote">Vgl. Nr. 126.2.</note> si è sentito piacere per quello,
-						massime che ha mostrato di sentirne S. A. in riceverla, alla quale,
-						havendola inviata N. S. come cosa di divotione et propria dell’Anno Santo,
-						ella ha ben havuta causa di stimarla per questo conto. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_142.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-06-17" n="1">1600-06-17</title>
+                <title level="a">142.1. San Giorgio an Portia - Rom, 1600 Juni 17</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>BNCF, Fondo nazionale II.II.511, fol. 122r–v, Orig.; ASV, Fondo
+                            Borghese, serie III<lb/>48, 48 Bis, 49, 51 E, 52 A, fol. 29r–v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_142.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1600-06-17" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_141.2.xml"
+                        >141.2. Portia an (Aldobrandini) - Graz, 1600 Juni 12</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_142.2.xml">142.2.
+                        San Giorgio an Portia - Rom, 1600 Juni 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_140.2.xml">140.2. San Giorgio an
+                        Portia - Rom, 1600 Juni 10</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_142.2.xml">142.2. San Giorgio an
+                        Portia - Rom, 1600 Juni 17</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia wird dazu aufgefordert, sich weiterhin der Diözese Passau anzunehmen, wo
+                    eine Generalvisitation durchgeführt, ein Seminar errichtet und die Praxis des
+                    Laienkelches unterbunden werden sollen. Bezüglich des Directoriums für das
+                    Domkapitel von Passau werden die Kardinäle Baronio und Antoniano mit einem
+                    Bericht beauftragt. Zufriedenheit über die Freude der Erzherzogin Maria Anna an
+                    den Geschenken des Papstes.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="142.1">San Giorgio an Portia - Rom, 1600 Juni 17</head>
+            <div>
+                <pb xml:id="P5_0000333"/>
+                <p>Delle cose di Possa è conveniente che V. S. si prenda particolar cura, essendosi
+                    condotte per le sue mani a quel buon termine in che si trovano hoggi. Però oltre
+                    le fatiche et oltre gli offitii fatti sin qui si fatichi et s’interponga di
+                    nuovo ove bisogna, perché si mandi ad effetto la Visita generale di quella
+                    Diocesi, si eriga il Seminario, et si abolisca l’uso del Calice, che sono li tre
+                    principali punti che restano pendenti.</p>
+                <p>Nella Congregatione dei Riti si è parlato del Direttorio del Breviario che
+                    vorriano usare quei Capitolari et risoluto che si essamini diligentemente dalli
+                    Sig. Cardinali Baronio et Antoniano<note xml:id="FN5_142.1_01" type="footnote"
+                        >Silvio Antoniani (1540–1603), Sekretär für lateinische Schreiben bei
+                        Kardinal Carlo Borromeo, Sekretär des Hl. Kollegs, Maestro di Camera unter
+                        Clemens VIII., Sekretär der Fürstenbreven (1593), Kardinal (1599): vgl. DBI
+                        3, S. 511–515; JAITNER, Prosopographie, S. 262 (Anm. 321).</note>, i quali
+                    si procurerà che facciano la loro relatione nel primo nuovo congresso<note
+                        xml:id="FN5_142.1_02" type="footnote"> Vgl. Nr. 138.1.</note>.</p>
+                <p>Della presentatione del Rosario et Crocetta che fu mandato al Sig. Cardinale
+                    Diatristain per l’Arciduchessa sposa<note xml:id="FN5_142.1_03" type="footnote"
+                        >Vgl. Nr. 126.2.</note>si è sentito piacere per quello, massime che ha
+                    mostrato di sentirne S. A. in riceverla, alla quale, havendola inviata N. S.
+                    come cosa di divotione et propria dell’Anno Santo, ella ha ben havuta causa di
+                    stimarla per questo conto. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

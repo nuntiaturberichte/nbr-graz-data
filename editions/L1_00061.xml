@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00061">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-01-14" n="1">1581-01-14</title>
+                <title level="a">61. Malaspina an Gallio - Graz, 1581 Jänner 14</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 243r—244r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00061">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-01-14" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00060.xml">60.
+                        Malaspina an Gallio - Graz, 1581 Jänner 4</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00062.xml">62.
+                        Malaspina an Gallio - Graz, 1581 Jänner 22</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00060.xml">60. Malaspina an Gallio -
+                        Graz, 1581 Jänner 4</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00062.xml">62. Malaspina an Gallio -
+                        Graz, 1581 Jänner 22</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bisher erfolgloser Versuch der evangelischen Stände, durch Fußfall ihre
+                    Religionsangelegenheiten durchzusetzen. Besserung der Beziehungen zwischen
+                    Erzherzog Karl und Erzbischof von Salzburg. Drängen der Prälaten auf Beendigung
+                    des Landtages. Ausführliche Information P. Maggios über hiesige Ereignisse zur
+                    mündlichen Berichterstattung in Rom. Schreiben der Häretiker an Fürsten des
+                    Reiches mit Kopie ihres an Malaspina gerichteten Briefes.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="61">Malaspina an Gallio - Graz, 1581 Jänner 14</head>
+            <div>
+                <p>Crediamo tutti che li heretici habbiano fatto l’ultimo lor conato con S. A.,
+                    poiché apertamente le hanno in voce et in scritto protestato che, volendo lei
+                    perseverare nella dichiaratione del primo decreto,<note xml:id="FN1_00061_01"
+                        type="footnote">Mündlicher Vortrag und Schreiben der dem Augsburger
+                        Bekenntnis zugetanen steirischen Stände vom 31. Dezember 1580 sowie vom 31.
+                        Jänner 1581 mit der Bitte um Belassung der Bruckner Religionspazifikation
+                        und Beschwerde über die Tätigkeit des Nuntius Malaspina (Loserth, FRA II/50,
+                        S. 143—150, 152—154, 162—172, 183—189).</note>che si rebelleranno et che
+                    vorranno vedere chi sarà colui che ardirà di mettere in essecutione le cose
+                    contenute in esso. Hanno insieme con questo maledetto la persona mia <note
+                        xml:id="FN1_00061_02" type="footnote">Vgl. Nr. 56 und 132.</note>et pregato
+                    S. A. a non darmi <pb xml:id="P1_0000176"/>né fede né credenza alcuna.
+                    Compagnorno le lor bravate con una inginochiatura et con lacrime et volulato
+                    grandisimo. S. A. non li volse sentire et si partì, senza risponderli né
+                    accettar scrittura, la quale lor dettero alli consiglieri presenti, pregandoli a
+                    voler intercedere per loro.<note xml:id="FN1_00061_03" type="footnote">
+                        Erzherzog Karl war über den Fußfall sehr erregt und verließ, nachdem sich
+                        keiner der Knieenden auf seine Aufforderung hin erhoben hatte, die Tür im
+                        Zorn zuschlagend, den Saal. Die Schriften wurden daraufhin den geheimen
+                        Räten übergeben (Loserth, FRA II/50, S. 172).</note>S. A. le ha fatto
+                    rispondere a capo per capo, ma in spetie, circa la rebellione, le ha fatto dire
+                    che egli crede che al’hora fossero fuor di cervello et che però li commanda che
+                    dichiarino un’altra volta la intentione che hanno in quel particolare;
+                    insin’hora non l’hanno fatto. <note xml:id="FN1_00061_04" type="footnote"
+                        >Landesfürstliche Antwort vom 4. und 11. Jänner 1581 (Loserth, FRA II/50, S.
+                        155—100, 179—181).</note>Stando le cose in questo termine sono capitate due
+                    lettere del’ arcivescovo di Salisburgo : una in risposta alli heretici et
+                    l’altra dirretta a S. A., et mando a V. S. Illma la copia di quella delli
+                    heretici al’arcivescovo <note xml:id="FN1_00061_05" type="footnote">Arch. Vat.
+                        Nunz. Germ. 100, f. 198r—200v ddo Graz Dezember 24 (Loserth, FRA II/50, S.
+                        139).</note>et del’ arcivescovo a loro,<note xml:id="FN1_00061_06"
+                        type="footnote"> Ebenda f. 237r—241r, Schreiben des Erzbischofs Johann Jakob
+                        von Salzburg vom 4. Jänner 1581 (Loserth, FRA II/50, S. 154 f.).</note>ché
+                    la lettera di S. A. non ho potuto per ancora havere. Speriamo che queste lettere
+                    haveranno abbassato in qualche parte la ostinatione di costoro, perché oltre a
+                    quelle che V. S. Illma vederà che l’arcivescovo scrive alli heretici nella
+                    lettera diretta a S. A., le fa sapere come egli ha avisato alli confederati
+                    della sua legha,<note xml:id="FN1_00061_07" type="footnote"> Schreiben des
+                        Erzbischofs von Salzburg an Herzog Wilhelm vom 4. Jänner 1581 (Loserth, FRA
+                        II/50, S. 698).</note>dandole conto della impudenza di costoro et domandando
+                    l’aiuto loro per reprimerli. <note xml:id="FN1_00061_08" type="footnote">Antwort
+                        Herzog Wilhelms als Kreis- und Bundesobristen an den Erzbischof von Salzburg
+                        mit Versprechen zu Hilfe vom 10. Jänner 1581 (Loserth, FRA II/50, S.
+                        175).</note>V. S. Illma si può immaginare la consolatione che S. A. ha
+                    ricevuto et io in particolare, poiché alla mia cura è stato sempre rimesso il
+                    tenere il stato ecclesiastico animato et in buona intelligenza con S. A.</p>
+                <p>Dal’occasione di queste lettere il principe ha fatto fare un decreto alli
+                    provinciali, nel quale si lamenta aspramente di loro, che senza sua saputa
+                    scrivino alli principi suoi vicini, minacciandoli et perciò violentandoli al
+                    pensare di far guerra contro di loro et per consequenza delle provincie di S. A.
+                    et li commanda che diano conto<pb xml:id="P1_0000177"/> perché hanno fatto
+                        questo.<note xml:id="FN1_00061_09" type="footnote"/> Stiamo aspettando quell
+                    che risponderano a questi doi decreti, et Dio benedetto sa la sollecitudine
+                    nostra quale sia.</p>
+                <p>Li prelati, per instigare più il principe, le hanno dato un memoriale,
+                    lamentandosi che la dieta duri tanto et che loro non possono più star qua<note
+                        xml:id="FN1_00061_10" type="footnote"/>et che però sì come sono prontissimi
+                    per dare la lor portione a S. A., così la pregano a commandare alli provinciali
+                    che si dichiarino se vogliano contribuire o non. S. A. insin’hora sta ben
+                    animata et il stato ecclesiastico ancora, et mi pare che le cose hormai sieno
+                    andate tanto inanzi, che difficilmente niuno può ritornare a dietro, et però
+                    spero che staremo uniti et fermi.</p>
+                <p>È capitato qua il p. Maggio, della compagnia de’ Gesuiti, il quale è molto grato
+                    a S. A. et informato delle cose di questi paesi. È parso al principe darle
+                    lettere credentiali dirrette alla Stà di N. S. et ha voluto che io l’informi di
+                    tutto quello che è passato insin’hora. Io l’ho fatto et mi pare che sia persona
+                    molto prudente et intelligente, però mi rimetto a quello che più difusamente
+                    dirà a V. S. Illma,<note xml:id="FN1_00061_11" type="footnote"/>massime che non
+                    è molto sicuro il scrivere, essendo intercette le lettere et io non ho ricevuto
+                    niuna di V. S. Illma dalli 5 di novembre in qua, che mi fa stare con l’animo
+                    sospeso et dubito che non sieno capitate in mano delli heretici. <note
+                        xml:id="FN1_00061_12" type="footnote"/>Costoro hanno scritto al’arcivescovo
+                    di Salisburgo et a tutti li principi del’ imperio d’havermi dato un scritto et
+                    mandano la copia a quelli principi, la qualcosa è falsa, come per altre mie ho
+                    fatto sapere a V. S. Illma<note xml:id="FN1_00061_13" type="footnote"> Vgl. Nr.
+                        55, S. 159.</note>.. .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

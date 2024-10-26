@@ -1,205 +1,206 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_075.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-09-17" n="1">1599-09-17</title>
-                    <title level="a">75.1. Clemens VIII. an Portia - Rom, 1599 September 17</title>
-                    <author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Secr. Brev., Reg. 287, fol. 110r–111v und 114r,
-								Min.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_075.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII.,
-                            Klemens</persName>
-                        <date when="1599-09-17" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_101">Aldobrandini, Cinzio - Papst, VIII., Klemens</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_074.2.xml">74.2. Portia an San Giorgio - (Graz, 1599 September 13)</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_075.2.xml">75.2. Clemens VIII. an Portia - Rom, 1599 September 18</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Breve für die Visitation und Reform des Prämonstratenserklosters Griffen in
-						Kärnten und die Ernennung eines geeigneten Geistlichen als Propst oder
-						Administrator.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="75.1">Clemens VIII. an Portia - Rom, 1599 September 17</head>
-				<div>
-					<p>Cum, sicut accepimus, Monasterium Griffense Ordinis Praemonstratensis
-						situatum in Provincia Carintiae in Diocesi Salisburgensi maxima in<pb xml:id="P5_0000200"/> spiritualibus ac temporalibus directione et
-						reparatione indigeat, nos de tuae Fraternitatis fide, prudentia, integritate
-						ac religionis zelo plurimum in Domino confisi, Motuproprio et ex certa
-						scientia et mera deliberatione nostra Tibi per praesentes committimus et
-						mandamus, ut Monasterium praedictum auctoritate nostra visitare et tam in
-						capite quam in membris reformare, ac in eorum statum, vitam, ritus et
-						disciplinam ac mores diligenter inquirere, quacumque mutatione, correctione,
-						reformatione, emendatione, revocatione, innovatione ac etiam ex integro
-						editione indigentem cognoveris, iuxta canonicas sanctiones et sacri
-						Tridentini Concilii decreta ac dicti ordinis regularia instituta<note xml:id="SN075.1_a" type="siglum">Ersetzt für mutare, corrigere,
-							reformare, innovare.</note> mutandi, corrigendi, reformandi, revocandi,
-							innovandi<ref target="#SN075.1_a">*a)</ref>, ac etiam ex integro
-						condere, condita decretis concilii Tridentini et sacris canonibus non
-						repugnantia confirmare, abusus quoscumque tollere, regularem observantiam et
-						monasticam disciplinam, ubi collapsa fuerit, modis congruis restituere ac
-						reintegrare. Praeterea, quia, ut etiam accepimus, licet praedictum
-						Monasterium valde celebre ac insigni structura extructum multorum
-						Canonicorum capax sit eiusque reditus ad quinque millia circiter florenorum
-						ascendant illique aliquot parochiales Ecclesiae subsint et in eo regularis
-						disciplina per multos annos valde floruerit, nunc tamen non solum antiqui
-						splendoris species, sed omnis fere Religionis forma inde evanuisse videatur
-						eiusque modernus Praepositus ob varias causas, sed praecipue ob adversam
-						valetudinem ad illius regimen inhabilis censeatur, nec alii in eodem
-						Monasterio ad huiusmodi regimen apti reperiantur, propterea, ne aliqui in
-						dicti Monasterii administratione subintrent, qui illius bona dissipent, ac
-						Religione divinoque cultu neglectis omnia in proprios usus convertant,
-						providendum censentes, tibi pariter praecipimus et mandamus, ut personam
-						aliquam idoneam, sive ex ipso ordine Praemonstratensi, sive ex alia
-						Religione, aut aliquem etiam Presbyterum saecularem vita ac morum
-						integritate et religionis zelo praeditum ac in spiritualibus circumspectum
-						et in temporalibus providum, eidem Monasterio quacumque electione seu
-						postulatione de altra persona facta seu facienda prorsus neglecta,
-						auctoritate nostra apostolica praefici, aut in illius Administrationem ad
-						tempus tibi benevisum deputari curis et facies, contradicentes quoscumque
-						eisque auxilium, consilium vel favorem publice vel occulte, directe seu
-						indirecte quomodolibet praestantes, quacumque auctoritate et dignitate
-						fungentes, per censuram et poenas ecclesiasticas etiam saepius aggravandas
-						aliaque opportuna Juris et facti remedia appellatione postposita
-						compescendo, invocato alias ad hoc, si opus fuerit, auxilio bracchii
-						saecularis. Super quibus omnibus et singulis plenam, liberam et amplam tibi
-						per praesentes facultatem et auctoritatem concedimus et impartimur,
-						mandantes propterea in virtute sanctae<pb xml:id="P5_0000201"/> obedientiae
-						ac sub indignitatione nostra aliisque pro tempore declarandi censuris et
-						poenis ecclesiasticis dilectis filiis Praepositis et Canonicis ac personis
-						eiusdem Monasterii aliisque ad quos spectat, ut Tibi in omnibus et singulis
-						ad huiusmodi visitationem, corectionem, et reformationem aliaque praemissa
-						pertinentibus respective prompte pareant, obediant et assistant. Non
-						obstantibus quibusvis apostolicis ac in generalibus, Provincialibus, et
-						synodalibus Conciliis editis generalibus, vel specialibus constitutionibus
-						et ordinationibus ac Monasterii et ordinis praemonstratensis iuramento,
-						confirmatione apostolica vel quavis firmitate alia roboratis statutis et
-						consuetudinibus, privilegiis quoque, indultis, exemptionibus, et literis
-						apostolicis eidem Monasterio ac illius ordini sub quibuscumque verborum
-						formis et tenoribus, et cum quibusvis etiam derogatoriarum derogatoriis
-						aliisque efficacioribus et insolitis clausulis ac irritantibus et aliis
-						decretis in contrarium praemissorum quomodolibet concessis, confirmatis et
-						approbatis: quibus omnibus et singulis eorum tenores praesentibus pro
-						expressis et ad Verbum insertis habentes, hac vice duntaxat specialiter et
-						expresse derogamus caeterisque contrariis quibuscumque.</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_075.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-09-17" n="1">1599-09-17</title>
+                <title level="a">75.1. Clemens VIII. an Portia - Rom, 1599 September 17</title>
+                <author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Secr. Brev., Reg. 287, fol. 110r–111v und 114r,
+                            Min.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_075.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</persName>
+                    <date when="1599-09-17" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_101">Aldobrandini,
+                        Cinzio - Papst, VIII., Klemens</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_074.2.xml"
+                        >74.2. Portia an San Giorgio - (Graz, 1599 September 13)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_075.2.xml">75.2.
+                        Clemens VIII. an Portia - Rom, 1599 September 18</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Breve für die Visitation und Reform des Prämonstratenserklosters Griffen in
+                    Kärnten und die Ernennung eines geeigneten Geistlichen als Propst oder
+                    Administrator.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="75.1">Clemens VIII. an Portia - Rom, 1599 September 17</head>
+            <div>
+                <p>Cum, sicut accepimus, Monasterium Griffense Ordinis Praemonstratensis situatum in
+                    Provincia Carintiae in Diocesi Salisburgensi maxima in <pb xml:id="P5_0000200"
+                    />spiritualibus ac temporalibus directione et reparatione indigeat, nos de tuae
+                    Fraternitatis fide, prudentia, integritate ac religionis zelo plurimum in Domino
+                    confisi, Motuproprio et ex certa scientia et mera deliberatione nostra Tibi per
+                    praesentes committimus et mandamus, ut Monasterium praedictum auctoritate nostra
+                    visitare et tam in capite quam in membris reformare, ac in eorum statum, vitam,
+                    ritus et disciplinam ac mores diligenter inquirere, quacumque mutatione,
+                    correctione, reformatione, emendatione, revocatione, innovatione ac etiam ex
+                    integro editione indigentem cognoveris, iuxta canonicas sanctiones et sacri
+                    Tridentini Concilii decreta ac dicti ordinis regularia instituta <note
+                        xml:id="SN5_075.1_a" type="siglum">Ersetzt für mutare, corrigere, reformare,
+                        innovare.</note>mutandi, corrigendi, reformandi, revocandi, innovandi<ref
+                        target="#SN5_075.1_a"/> , ac etiam ex integro condere, condita decretis
+                    concilii Tridentini et sacris canonibus non repugnantia confirmare, abusus
+                    quoscumque tollere, regularem observantiam et monasticam disciplinam, ubi
+                    collapsa fuerit, modis congruis restituere ac reintegrare. Praeterea, quia, ut
+                    etiam accepimus, licet praedictum Monasterium valde celebre ac insigni structura
+                    extructum multorum Canonicorum capax sit eiusque reditus ad quinque millia
+                    circiter florenorum ascendant illique aliquot parochiales Ecclesiae subsint et
+                    in eo regularis disciplina per multos annos valde floruerit, nunc tamen non
+                    solum antiqui splendoris species, sed omnis fere Religionis forma inde evanuisse
+                    videatur eiusque modernus Praepositus ob varias causas, sed praecipue ob
+                    adversam valetudinem ad illius regimen inhabilis censeatur, nec alii in eodem
+                    Monasterio ad huiusmodi regimen apti reperiantur, propterea, ne aliqui in dicti
+                    Monasterii administratione subintrent, qui illius bona dissipent, ac Religione
+                    divinoque cultu neglectis omnia in proprios usus convertant, providendum
+                    censentes, tibi pariter praecipimus et mandamus, ut personam aliquam idoneam,
+                    sive ex ipso ordine Praemonstratensi, sive ex alia Religione, aut aliquem etiam
+                    Presbyterum saecularem vita ac morum integritate et religionis zelo praeditum ac
+                    in spiritualibus circumspectum et in temporalibus providum, eidem Monasterio
+                    quacumque electione seu postulatione de altra persona facta seu facienda prorsus
+                    neglecta, auctoritate nostra apostolica praefici, aut in illius Administrationem
+                    ad tempus tibi benevisum deputari curis et facies, contradicentes quoscumque
+                    eisque auxilium, consilium vel favorem publice vel occulte, directe seu
+                    indirecte quomodolibet praestantes, quacumque auctoritate et dignitate
+                    fungentes, per censuram et poenas ecclesiasticas etiam saepius aggravandas
+                    aliaque opportuna Juris et facti remedia appellatione postposita compescendo,
+                    invocato alias ad hoc, si opus fuerit, auxilio bracchii saecularis. Super quibus
+                    omnibus et singulis plenam, liberam et amplam tibi per praesentes facultatem et
+                    auctoritatem concedimus et impartimur, mandantes propterea in virtute sanctae
+                        <pb xml:id="P5_0000201"/>obedientiae ac sub indignitatione nostra aliisque
+                    pro tempore declarandi censuris et poenis ecclesiasticis dilectis filiis
+                    Praepositis et Canonicis ac personis eiusdem Monasterii aliisque ad quos
+                    spectat, ut Tibi in omnibus et singulis ad huiusmodi visitationem, corectionem,
+                    et reformationem aliaque praemissa pertinentibus respective prompte pareant,
+                    obediant et assistant. Non obstantibus quibusvis apostolicis ac in generalibus,
+                    Provincialibus, et synodalibus Conciliis editis generalibus, vel specialibus
+                    constitutionibus et ordinationibus ac Monasterii et ordinis praemonstratensis
+                    iuramento, confirmatione apostolica vel quavis firmitate alia roboratis statutis
+                    et consuetudinibus, privilegiis quoque, indultis, exemptionibus, et literis
+                    apostolicis eidem Monasterio ac illius ordini sub quibuscumque verborum formis
+                    et tenoribus, et cum quibusvis etiam derogatoriarum derogatoriis aliisque
+                    efficacioribus et insolitis clausulis ac irritantibus et aliis decretis in
+                    contrarium praemissorum quomodolibet concessis, confirmatis et approbatis:
+                    quibus omnibus et singulis eorum tenores praesentibus pro expressis et ad Verbum
+                    insertis habentes, hac vice duntaxat specialiter et expresse derogamus
+                    caeterisque contrariis quibuscumque.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

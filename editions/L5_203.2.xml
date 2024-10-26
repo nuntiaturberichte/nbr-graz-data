@@ -1,172 +1,178 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_203.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-03-17" n="2">1601-03-17</title>
-                    <title level="a">203.2. San Giorgio an Portia - Rom, 1601 März 17</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 53r–v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_203.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-03-17" n="2"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_203.1.xml">203.1. San Giorgio an Portia - Rom, 1601 März 17</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_204.1.xml">204.1. Portia an Aldobrandini - Graz, 1601 März 19</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_203.1.xml">203.1. San Giorgio an
-                            Portia - Rom, 1601 März 17</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_205.1.xml">205.1. San Giorgio an
-                            Portia - Rom, 1601 März 24</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Dem von Erzherzog Leopold gewünschten Indult für Passau kann der Papst nicht
-						nachkommen, sollte dieser aber eine Person seiner Wahl dafür vorschlagen,
-						könne dem stattgegeben werden. Clemens VIII. erteilt Herzogin Maximiliana
-						von Bayern unter gewissen Bedingungen die Fakultät, das Klarissenkloster in
-						München zu betreten.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="203.2">San Giorgio an Portia - Rom, 1601 März 17</head>
-				<div>
-					<pb xml:id="P5_0000463"/>
-					<p>Fu dato un memoriale a N. S. in materia dell’Indulto di Possa che pretendeva
-						l’Arciduca Leopoldo et del quale V. S. scrive al presente<note xml:id="FN5_203.2_01" type="footnote">Nicht auffindbar.</note> et,
-						benché S. B.ne sia inclinatissima a fare ogni favore a quei Principi, ha
-						nondimeno havuta gran repugnanza in questo per rispetti gravi et detto sì
-						come dice di nuovo che se l’Arciduca ha qualche persona la quale desideri
-						che sia provista ne mandi il nome con sicurezza di esser compiacciuto, il
-						che potrà pur V. S. riferire alla Ser.ma Arciduchessa. A S. A. dirà V. S.
-						similmente che in gratia sua particolare si contenta N. S. di concedere alla
-						Sig. Duchessa Massimiliana<note xml:id="FN5_203.2_02" type="footnote">Maximiliana Maria von Bayern (1552–1614), Tochter von Herzog Albrecht
-							V. und Anna von Österreich. Die um ein Jahr jüngere Schwester von Eh.
-							Maria von Bayern pflegte mit dieser ein sehr inniges Verhéiltnis.
-							Maximiliana hielt sich regelméi/3ig in Graz auf und war nahezu bei jeder
-							Geburt ihrer Schwester anwesend. 1573 war sie eine der Taufpaten von Eh.
-							Anna, der späteren Königin von Schweden und Polen: vgl. WEHNER, S. 100,
-							113; RALL, S. 123.</note> sua sorella la facoltà che desidera di entrare
-						nel Monasterio di S. Chiara di Monaco, ma con alcune restrittioni senza le
-						quali non si concede mai, sì come se ne spedirà lettera particolare o
-							Breve<note xml:id="FN5_203.2_03" type="footnote">Nicht auffindbar. Im
-							Mai 1601 wird Maximiliana auf Wunsch ihrer Schwester Eh. Maria mittels
-							Breve der uneingeschränkte Zugang in das Kloster zugesprochen werden:
-							vgl. Nr. 224.1.</note>. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_203.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-03-17" n="2">1601-03-17</title>
+                <title level="a">203.2. San Giorgio an Portia - Rom, 1601 März 17</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 53r–v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_203.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-03-17" n="2"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_203.1.xml"
+                        >203.1. San Giorgio an Portia - Rom, 1601 März 17</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_204.1.xml">204.1.
+                        Portia an Aldobrandini - Graz, 1601 März 19</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_203.1.xml">203.1. San Giorgio an
+                        Portia - Rom, 1601 März 17</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_205.1.xml">205.1. San Giorgio an
+                        Portia - Rom, 1601 März 24</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Dem von Erzherzog Leopold gewünschten Indult für Passau kann der Papst nicht
+                    nachkommen, sollte dieser aber eine Person seiner Wahl dafür vorschlagen, könne
+                    dem stattgegeben werden. Clemens VIII. erteilt Herzogin Maximiliana von Bayern
+                    unter gewissen Bedingungen die Fakultät, das Klarissenkloster in München zu
+                    betreten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="203.2">San Giorgio an Portia - Rom, 1601 März 17</head>
+            <div>
+                <pb xml:id="P5_0000463"/>
+                <p>Fu dato un memoriale a N. S. in materia dell’Indulto di Possa che pretendeva
+                    l’Arciduca Leopoldo et del quale V. S. scrive al presente<note
+                        xml:id="FN5_203.2_01" type="footnote">Nicht auffindbar.</note>et, benché S.
+                    B.ne sia inclinatissima a fare ogni favore a quei Principi, ha nondimeno havuta
+                    gran repugnanza in questo per rispetti gravi et detto sì come dice di nuovo che
+                    se l’Arciduca ha qualche persona la quale desideri che sia provista ne mandi il
+                    nome con sicurezza di esser compiacciuto, il che potrà pur V. S. riferire alla
+                    Ser.ma Arciduchessa. A S. A. dirà V. S. similmente che in gratia sua particolare
+                    si contenta N. S. di concedere alla Sig. Duchessa Massimiliana <note
+                        xml:id="FN5_203.2_02" type="footnote">Maximiliana Maria von Bayern
+                        (1552–1614), Tochter von Herzog Albrecht V. und Anna von Österreich. Die um
+                        ein Jahr jüngere Schwester von Eh. Maria von Bayern pflegte mit dieser ein
+                        sehr inniges Verhéiltnis. Maximiliana hielt sich regelméi/3ig in Graz auf
+                        und war nahezu bei jeder Geburt ihrer Schwester anwesend. 1573 war sie eine
+                        der Taufpaten von Eh. Anna, der späteren Königin von Schweden und Polen:
+                        vgl. WEHNER, S. 100, 113; RALL, S. 123.</note>sua sorella la facoltà che
+                    desidera di entrare nel Monasterio di S. Chiara di Monaco, ma con alcune
+                    restrittioni senza le quali non si concede mai, sì come se ne spedirà lettera
+                    particolare o Breve <note xml:id="FN5_203.2_03" type="footnote">Nicht
+                        auffindbar. Im Mai 1601 wird Maximiliana auf Wunsch ihrer Schwester Eh.
+                        Maria mittels Breve der uneingeschränkte Zugang in das Kloster zugesprochen
+                        werden: vgl. Nr. 224.1.</note>. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

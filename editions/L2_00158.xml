@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00158">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1584-03-21" n="1">1584-03-21</title>
+				<title level="a">158. Malaspina an Gallio - Graz, 1584 März 21</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 101, f. 186r—188v, Orig.; ebenda f.
+							180r—183r,<lb/>Duplikat.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00158">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1584-03-21" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00157.xml"
+						>157. Malaspina an Gallio - Graz, 1584 März 14</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00159.xml">159.
+						Aquaviva an Malaspina - Rpm, 1584 März 23</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00157.xml">157. Malaspina an Gallio -
+						Graz, 1584 März 14</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00160.xml">160. Gallio an Malaspina -
+						Rom, 1584 März 24</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Schriftwechsel zwischen ständischem Ausschuß und Erzherzog Karl über
+					Beschwerdeartikel der Stände. Überlegungen über weitere Schritte zur
+					Rekatholisierung Innerösterreichs. Abberufung Hoffmanns als Bamberger Vizedom in
+					Kärnten. Vorschlag eines neuen Archidiakons für Görz. Aufenthalt und Abreise des
+					Bischofs von Samandria.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="158">Malaspina an Gallio - Graz, 1584 März 21</head>
+			<div>
+				<p>Se ben S. A. non diede risposta in scritto a li provintiali circa il negotio de
+					la religione, essi con tutto ciò l’hanno voluto fare et nel essordio del loro
+						scritto<note xml:id="FN2_00158_01" type="footnote">Replik der ständischen
+						Deputierten vom 12. März (Graz LA, Landtagshandlungen 34, f.
+						89v—93r).</note>doppo d’havere con una curiosa osservatione replicato in
+					esso di parola in parola cioche S. A. haveva loro ragionato, <note
+						xml:id="FN2_00158_02" type="footnote">Wie Nr. 157, Anm. 1.</note>inseriscono
+					de verbo ad verbum tutte le concessioni che per il passato S. A. haveva date,
+					tanto in scritto come in viva voce, et per li consiglieri a parte et per
+					conniventia et in spetie fanno fondamento in quelle parole: Assicuriamo ogn’uno
+					in conscienza né vogliamo per conto de la religione toccare né molestare un
+					capello di qualsivoglia nostro subdito. <note xml:id="FN2_00158_03"
+						type="footnote">Sie wollten damit den Erzherzog an die Brucker Pazifikation
+						von 1578 erinnern, bei der er vorgesehen hatte, den Bürgern wegen der
+						Religion kein Härchen zu krümmen (Loserth, Die steirische
+						Religionspazifikation und die Fälschung des Dr. W. Schranz, S.
+					1ff.).</note>Et per vigore di queste et altre parole contenute in esso
+					perseverano in asserire che il decreto già doi anni publicato<note
+						xml:id="FN2_00158_04" type="footnote"> Vgl. oben Nr. 21, Anm. 1.</note>non è
+					dichiaratione ma espressa revocatione il quale viene a distruere tutto il
+					christiano essercitio loro et non pretermettono di ridurre im<pb
+						xml:id="P2_0000245"/>piamente et impudentemente a memoria a S. A. la compra
+					da la parte di essi et la vendita da la parte di lei con grossa somma di danari
+					de le concessioni <note xml:id="FN2_00158_05" type="footnote">Vgl. oben Nr. 78,
+						Anm. 3.</note>et concludono in effetto, seben con grandissima summissione et
+					spetiosissime parole, che vogliono restare ne li antichi termini.</p>
+				<p>Perilche replicando loro sempre il medesimo et havendosi infruttuosamente per
+					spatio di doi anni disputato con essi flegmaticamente cercando con ogni studio
+					et patienza d’indurli a lasciare il patrocinio de li cittadini popolari et
+					contadini finalmente S. A. ha fatto una santa et heroica resolutione, la quale
+					perché lei asserisce a tutti che vuol che sia finale et che tronchi ogni
+					replica, si è però giudicato esser espediente darla a li provintiali in scritto
+					et in conformità di questo a li 18 del presente S. A. convocò a se li deputati a
+					la trattatione separatamente da li ecclesiastici et doppo una breve et paterna
+					monitione le diede il scritto,<note xml:id="FN2_00158_06" type="footnote"
+						>Landesfürstliche Resolution vom 18. März auf die Replik der ständischen
+						Deputierten vom 12. März (Graz LA, Landtagshandlungen 34, f. 93v—94v; Arch.
+						Vat., Nunz. Germ. 101, fol. 184r—185r; Loserth FRA II/50, S. 524).</note>che
+					mando a V. S. Ill.ma con questa mia il quale non ho havuto tempo di far
+					translatare in latino, ma il contenuto d’esso è che l’A. S. li constituisse
+					quattro giorni di tempo a deliberarsi, se vogliono accettare il decreto et
+					dichiararsi di lasciare il patrocinio de li cittadini etc. et caso che non
+					s’induchino a farlo che S. A. finito quello peremptorio termine si vuol
+					governare circa la religione conforme a la dispositione del imperio <note
+						xml:id="FN2_00158_07" type="footnote">Augsburger Religionsfrieden.</note>et
+					perché nel decreto erano alcune parole ambigue, le quali li nobili conforme al
+					costume loro havrebbono senza dubio estorte dal genuino senso che hanno et
+					gloriatosi d’esser stati assicurati, in quest ultimo scritto si è posto che per
+					la dechiaratione de le concessioni contenuta nel decreto S. A. sicome non ha
+					tolto a li provintiali così non ha concesso cosa alcuna, et perché il scritto è
+					stato communicato con il P. Provintiale <note xml:id="FN2_00158_08"
+						type="footnote">P. Heinrich Blyssem S. J.</note>et approvato et comendato
+					non solo da lui, ma universalmente da tutti credo che sarà di sodisfattione a la
+					S.tà di N. S.</p>
+				<p>Et se costà si potesse vedere quel che vedo io, cioè la consolatione et gran
+					speranza conceputa da tutti li cattolici per questa resolutione di S. A. et
+					udire le laudi che si danno a S. B.ne et ringratiamenti che si fanno a Dio
+					signore nostro che habbia dato la S.tà S. per capo a la chiesa sua et le
+					continue preghiere che da questo picciol<pb xml:id="P2_0000246"/> gregge in
+					numero ma forsi grandissimo in merito si continuano per la lungha et felice vita
+					di N. S., son certo che se ne recoverebbe grandissima consolatione et
+					edificatione. Io non ardisco già di scrivere che per questa risolutione di S. A.
+					siamo intrati in porto, perché prevedo molte difficultà per intrarci, essendo il
+					naviglio nostro per molte borasche havute pieno di fessure, et perciò atto a
+					ricevere molto danno et non forte per superare scogli et altri sinistri
+					accidenti che possono intervenire, ma mi par bene che habbiamo buttate le ancore
+					così fondatamente che se ben fluttuarà non però si deve temere che l’impeto de
+					le tempestà sia per essere tale che lo possi fare sommergere, et però giudico
+					che non sia per dar a traverso in modo alcuno, se non in caso che noi o per
+					negligentia o per altri difetti lasciassimo il governo d’esso et al hora non si
+					potria ascrivere tanto la colpa ad altri quanto a noi stessi.</p>
+				<p>Perché o li provintiali accettaranno il decreto o non se l’accettano si fa
+					acquisto di più di settecento milia anime di communione<note
+						xml:id="FN2_00158_09" type="footnote">Die Zahl ist zu hoch; man muß
+						bedenken, daß kein geringer Teil der bäuerlichen Bevölkerung bei der alten
+						Kirche geblieben ist.</note>come qua mi dicono, di più non essendo permesso
+					né a cittadini né a popolari né a contadini il frequentare l’essercitio
+					lutherano restaranno molto vacue le chiese loro non vivendo ne le città se non
+					in tempo di diete li nobili, quando ancora saranno levate le scuole, le stampe
+					etc. senza dubio questi predicatori havranno poco guadagno, cosa che li premerà
+					grandemente, et manco concorso. Quanto a li nobili, che vivono ne li loro
+					castelli, non potranno non solo occupare chiese di novo, ma saranno astretti a
+					restituire le già occupate, havendo S. A. fatto una dechiaratione restrittiva,
+					come si deve usare il jus advocatie, il quale per il più havendo loro sopra le
+					chiese sotto tal pretesto escludevano quelli che hanno il juspatronato et il jus
+					confirmandi. É ancora il decreto così conditionato et cautelato che è
+					impossibile che sappiamo contenersi dentro di quelli limiti che S. A. ha
+					constituiti, onde rompendoli loro può poi con ragione revocare S. A. col tempo
+					il resto. S’aggiunge ancora che lasciando li nobili il patrocinio de li
+					cittadini confederati con loro con solenni giuramenti, li cittadini et altri
+					concepiranno sdegno et odio contra li nobili, il che sarà di molto giovamento a
+					la parte cattolica né deve anco essere di poca consideratione, che in questa
+					forma senza strepito et spesa si ridurrebbe un negotio così intricato et
+					difficultoso a stato, così buono<pb xml:id="P2_0000247"/> come in tal caso
+					sarebbe. Dal altra parte, se li nobili non accettaranno la proferta di S. A.,
+					noi non lasciaremo però di fare l’essecutione contra li cittadini, et se li
+					nobili non si asteneranno dal essercitio lutherano perderanno li privileggii et
+					incorreranno in altre pene conforme a li statuti del paese.</p>
+				<p>Li predicanti, non so come ardiranno di predicare etc. sapendo molto ben loro il
+					pericolo personale che potranno incorrere, se dissolveranno la dieta senza
+					contributioni non essigendo manco la portione del stato ecclesiastico, et quando
+					li nobili vederanno che si fa l’essecutione et che virtualmente se non
+					espressamente le sono state revocate havendo loro voluto così le concessioni
+					date a le loro persone, credo che con humiltà instaranno acciò non siano loro
+					molestati che insin hora essendo stati sicuri, et parendoli di non potere
+					perdere niente non è maraviglia che si siano occupati in defendere et
+					patrocinare altri.</p>
+				<p>Io poi in questo caso haverò adempita l’instruttione che mi fu data di dovere
+					procurare che non solo una parte de le concessioni ma tutte fossero
+						revocate.<note xml:id="FN2_00158_10" type="footnote">Vgl. oben Nr.
+						134.</note>Ma perché io ho altretanta mira di promovere il negotio, quanta
+					sollicitudine di non mi fare authore d’ogni risolutione che si piglia per
+					interessare la S.tà di N. S. quanto manco posso, perciò ho sentito estremo
+					contento che questa risolutione proposta da me qua subito che ritornai di
+					Colonia et scritta a V. S. Ill.ma ne le mie di 14 di decembre, <note
+						xml:id="FN2_00158_11" type="footnote">Nr. 136.</note>de le quali volentieri
+					havrei ricevuto risposta, sia stata promessa da li consiglieri a l’A. S. come
+					concetto loro. Et perché nel indurre S. A. a far questo parto mons. di Gurgo, il
+					cancelliero, et il sig. Ambrosio Barone et conte de la Torre et marescial di S.
+					A. si sono affaticati con non minor zelo che pietà desiderarei che la S.tà di N.
+					S. li favorisse con scriverli un breve, <note xml:id="FN2_00158_12"
+						type="footnote">Diesbezügliche Breven an Bischof Ch. A. Spaur von Gurk,
+						Kanzler Dr. Wolfgang Schranz und Hofmarschall Ambros von Thurn nicht
+						gefunden.</note>col quale senza dubio s’animaranno maggiormente ad aiutarmi
+					più prontamente circa l’essecutione, et perché quando io venni qua al
+					cancelliero fu scritto et dato nobili viro vo penetrando che desiderarebbe che
+					non si mutasse quel stilo. <note xml:id="FN2_00158_13" type="footnote"
+						>Kredenzbrief vom 6. September 1580 (Rainer, Grazer Nuntiatur I, S. 10, Anm.
+						1).</note>Il sig. Ambrosio è poi et di nobiltà et di richezze grande et
+					appresso S. A. è di tanta authorità che può egli<pb xml:id="P2_0000248"/> più
+					solo che tutti, et però ogni cortesia che le sarà usata in questo genere spero
+					che ridonderà ad utilità del negotio publico.</p>
+				<p>Si va confirmando l’avviso che l’Hoffmann sia stato rimosso dal vescovo di
+					Bamberga, il quale non perciò si perde d’animo ma seguita in sollevare gl’animi
+					di coloro che sono de la sua farina et fa pessimi offitii. Ma S. A. ha una
+					ottima occasione di castigarlo havendo havuto ardire di infamare in scritto
+					tutto il regimento, per il che quel tribunale tutto non tanto de cattolici come
+					de heretici fa una grandissima instantia che sia castigato severamente.<note
+						xml:id="FN2_00158_14" type="footnote">Vgl. oben Nr. 157.</note>
+				</p>
+				<p>Le cose di Goritia circa la religione mi suono molto a cuore, parendomi che non
+					si debba vivere senza sollicitudine per essere poco fuoco accesso, non dovendo
+					guardare noi tanto a la quantità de la fiamma quanto a la qualità de la materia
+					che ha appresso disposta non solamente ad accendersi per ogni picciola
+					occasione, ma a suscitare col tempo diamme grandissime. Et se ben S. A. ha fatto
+					tutte quelle provisioni che si sono potute desiderare dal revocare in poi quel
+						intruso,<note xml:id="FN2_00158_15" type="footnote">Vgl. oben Nr. 140, 142,
+						148 und 150.</note>con tutto ciò mentre non sarà in quel luogho un
+					archidiacono di buona vita et costumi, <note xml:id="FN2_00158_16"
+						type="footnote">Vgl. oben Nr. 122.</note>mai si farà profitto permanente et
+					durabile, però havendomi il rettore del collegio Germanico comendato con una sua
+					un alumno naturale di quel contado nominato Bongherino<note
+						xml:id="FN2_00158_17" type="footnote"> Johann Bogenrin. (Steinhuber,
+						Geschichte des Kollegium Germanikum Hungarikum I, S. 336f.).</note>ho voluto
+					mettere in consideratione la persona sua a V. S. Ill.ma, perché quando fusse
+					qualificato egli sarebbe molto a proposito per essere di honesta nobiltà et per
+					havere un frattello <note xml:id="FN2_00158_18" type="footnote">Nicht
+						bekannt.</note>consigliero di S. A. sincero cattolico, dotto et grato a S.
+					A. con il cui aiuto potrebbe l’alumno facilitare molto li negotii che si
+					presentassero per servitio di Dio et del carico di archidiacono.</p>
+				<p>Il vescovo di Samandria<note xml:id="FN2_00158_19" type="footnote">Nicolaus
+						Urgnowich, 1565—1587 Bischof von Smederevo in Serbien (Hierarchia Catholica
+						III, S. 297).</note>doppo d’essersi trattenuto meco 15 giorni si è partito
+					con espeditione conforme al desiderio suo, et acciò habbi occasione di restare
+					più edificato se li è dato per il viatico 40 fiorini. Egli mi mosse veramente a
+					compassione comparendo qua solo et con la valise in groppa, et essendo egli
+					vescovo io non ho potuto negare a persona del istessa classe che son io di non
+					prometterli di far <pb xml:id="P2_0000249"/>buono offitio per la persona sua con
+					V. S. Ill.ma, acciò dovendo egli transferirse al suo vescovato le sia
+					constituita una provisioncella tenue, con la quale si possa honestamente
+					sustentare . . .</p>
+			</div>
+		</body>
+	</text>
+</TEI>

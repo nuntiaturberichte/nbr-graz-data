@@ -1,186 +1,189 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_189.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-01-30" n="1">1601-01-30</title>
-                    <title level="a">189.1. Portia an Aldobrandini - Brixen, 1601 Januar 30</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 6r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_189.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1601-01-30" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3181550">Brixen</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_188.1.xml">188.1. Aldobrandini an Portia - Avignon, 1601 Januar 28</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_190.1.xml">190.1. San Giorgio an Portia - Rom, 1601 Februar 3</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_188.1.xml">188.1. Aldobrandini an
-                            Portia - Avignon, 1601 Januar 28</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_191.1.xml">191.1. Portia an
-                            Aldobrandini - Brixen, 1601 Februar 4</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia hat sich während der Abwesenheit Aldobrandinis nicht weiter um die
-						Erledigung seiner Forderungen durch die Apostolische Kammer bemüht. Er hofft
-						auf eine baldige Rückkehr des Kardinalnepoten nach Rom, wo Pico diesen
-						erneut über die Sachlage informieren wird. Dringliche Bitte Portias um
-						Unterstützung.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="189.1">
-					<note xml:id="SN189.1_a" type="siglum">Dieser Bericht ist an Aldobrandini in Rom
-						adressiert (fol. 7v).</note> - Brixen, 1601 Januar 30</head>
-				<div>
-					<p>Non ho voluto affrettare il saldo de miei conti con la Rev. Camera in assenza
-						di V. S. Ill.ma<note xml:id="FN5_189.1_01" type="footnote">Vgl. Nr. 96.3,
-							122.2, 129.1, 132.1, 132.2, 138.4, 140.3, 143.2, 150.1.</note>, poiché
-						essendosi lei piegata a favorirmi presso la S.tà<pb xml:id="P5_0000448"/> di
-						N. S. acciò s’habbia alcuna consideratione dei frequenti viaggi et spese in
-						diverse occorrenze da me fatte, ho anco giudicato in un tempo stesso non
-						poter aspettare la gratia da altra mano che da quella di V. S. Ill.ma come
-						di mio singolarissimo Signore et Padrone.</p>
-					<p>Pertanto tenendosi ch ’l ritorno di V. S. Ill.ma a Roma sia horamai vicino,
-						ho incaricato Don Alfonso Pico che per il sudetto negotio comparisca
-						dinnanzi a V. S. Ill.ma, la quale supplico che resti servita di benignamente
-						udirlo et di farmi gratia che, in conformità della buona volontà mostratami
-						per l’adietro nell’istesso particolare della ricompensa, io possa rimanere
-						agratiato da V. S. Ill.ma, dalla cui benignità dovendo riconoscere ciò che
-						mi sarà concesso, doverò anco oltre la debita continuatione della servitù
-						mia impiegare ogni havere secondo i commandamenti di S. B.ne et di V. S.
-						Ill.ma …</p>
-					<p>
-						<note xml:id="SN189.1_b" type="siglum">Eigenhändige Ergänzung
-							Portias.</note> Io reputo superfluo di rappresentar et connumerar di
-						nuovo le mie angustie a V. S. Ill.ma havendole altre volte significate.
-						Credo però che V. S. Ill.ma per sua benignità havrà memoria delle continuate
-						mie peregrinationi di tant’anni, le quali in viaggi straordinarii mi hanno
-						fatto rimaner debito di alcune migliaia di scudi, et ogn’anno mi è convenuto
-						farne alcuni et di già quest’anno sono nel secondo viaggio che hormai dura
-						per due mesi. La Residenza poi di Graz nella quale mi convien tener casa
-						aperta anco per servitio di N. S. per intender et sapere quanto occorre (et
-						così ne tengo commissione) mi porta la spesa anco dupplicata, oltr’all’esser
-						in luoco vicino alla guerra tant’anni con carestia et inopia di tutte le
-						cose, in modo che io stimo et reputo impossibile di potermi ricuperar senza
-						la benigna gratia di S. B.ne et di V. S. Ill.ma e perciò all’un et all’altro
-						humilissimamente mi raccomando per impiegarmi sempre con la vita et quanto
-						può da essa dipender in servitio de lor commandi.<ref target="#SN189.1_b">*b)</ref>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_189.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-01-30" n="1">1601-01-30</title>
+                <title level="a">189.1. Portia an Aldobrandini - Brixen, 1601 Januar 30</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 6r–v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_189.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1601-01-30" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3181550">Brixen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_188.1.xml"
+                        >188.1. Aldobrandini an Portia - Avignon, 1601 Januar 28</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_190.1.xml">190.1.
+                        San Giorgio an Portia - Rom, 1601 Februar 3</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_188.1.xml">188.1. Aldobrandini an
+                        Portia - Avignon, 1601 Januar 28</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_191.1.xml">191.1. Portia an
+                        Aldobrandini - Brixen, 1601 Februar 4</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia hat sich während der Abwesenheit Aldobrandinis nicht weiter um die
+                    Erledigung seiner Forderungen durch die Apostolische Kammer bemüht. Er hofft auf
+                    eine baldige Rückkehr des Kardinalnepoten nach Rom, wo Pico diesen erneut über
+                    die Sachlage informieren wird. Dringliche Bitte Portias um Unterstützung.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="189.1">Portia an Aldobrandini<note xml:id="SN5_189.1_a" type="siglum">Dieser
+                    Bericht ist an Aldobrandini in Rom adressiert (fol. 7v).</note> - Brixen, 1601
+                Januar 30</head>
+            <div>
+                <p>Non ho voluto affrettare il saldo de miei conti con la Rev. Camera in assenza di
+                    V. S. Ill.ma<note xml:id="FN5_189.1_01" type="footnote">Vgl. Nr. 96.3, 122.2,
+                        129.1, 132.1, 132.2, 138.4, 140.3, 143.2, 150.1.</note>, poiché essendosi
+                    lei piegata a favorirmi presso la S.tà<pb xml:id="P5_0000448"/> di N. S. acciò
+                    s’habbia alcuna consideratione dei frequenti viaggi et spese in diverse
+                    occorrenze da me fatte, ho anco giudicato in un tempo stesso non poter aspettare
+                    la gratia da altra mano che da quella di V. S. Ill.ma come di mio singolarissimo
+                    Signore et Padrone.</p>
+                <p>Pertanto tenendosi ch ’l ritorno di V. S. Ill.ma a Roma sia horamai vicino, ho
+                    incaricato Don Alfonso Pico che per il sudetto negotio comparisca dinnanzi a V.
+                    S. Ill.ma, la quale supplico che resti servita di benignamente udirlo et di
+                    farmi gratia che, in conformità della buona volontà mostratami per l’adietro
+                    nell’istesso particolare della ricompensa, io possa rimanere agratiato da V. S.
+                    Ill.ma, dalla cui benignità dovendo riconoscere ciò che mi sarà concesso, doverò
+                    anco oltre la debita continuatione della servitù mia impiegare ogni havere
+                    secondo i commandamenti di S. B.ne et di V. S. Ill.ma …</p>
+                <p>
+                    <note xml:id="SN5_189.1_b" type="siglum">Eigenhändige Ergänzung
+                    Portias.</note>Io reputo superfluo di rappresentar et connumerar di nuovo le mie
+                    angustie a V. S. Ill.ma havendole altre volte significate. Credo però che V. S.
+                    Ill.ma per sua benignità havrà memoria delle continuate mie peregrinationi di
+                    tant’anni, le quali in viaggi straordinarii mi hanno fatto rimaner debito di
+                    alcune migliaia di scudi, et ogn’anno mi è convenuto farne alcuni et di già
+                    quest’anno sono nel secondo viaggio che hormai dura per due mesi. La Residenza
+                    poi di Graz nella quale mi convien tener casa aperta anco per servitio di N. S.
+                    per intender et sapere quanto occorre (et così ne tengo commissione) mi porta la
+                    spesa anco dupplicata, oltr’all’esser in luoco vicino alla guerra tant’anni con
+                    carestia et inopia di tutte le cose, in modo che io stimo et reputo impossibile
+                    di potermi ricuperar senza la benigna gratia di S. B.ne et di V. S. Ill.ma e
+                    perciò all’un et all’altro humilissimamente mi raccomando per impiegarmi sempre
+                    con la vita et quanto può da essa dipender in servitio de lor commandi.<ref
+                        target="#SN5_189.1_b"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

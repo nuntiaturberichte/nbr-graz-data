@@ -1,196 +1,203 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_196.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-02-24" n="1">1601-02-24</title>
-                    <title level="a">196.1. San Giorgio an Portia - Rom, 1601 Februar 24</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 47v–48v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_196.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-02-24" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_195.1.xml">195.1. San Giorgio an Portia - Rom, 1601 Februar 17</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_196.2.xml">196.2. San Giorgio an Portia - Rom, 1601 Februar 24</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_195.1.xml">195.1. San Giorgio an
-                            Portia - Rom, 1601 Februar 17</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_196.2.xml">196.2. San Giorgio an
-                            Portia - Rom, 1601 Februar 24</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Benachrichtigung über die Wahl des Bischofs von Gurk [Spaur] zum
-						Bischof von Brixen eingetroffen. Das Breve de capienda possessione kann
-						jedoch erst nach der Bestätigung ausgestellt werden, wofür der
-						Informativprozess vorliegen muss. Portia soll den gewählten Bischof von
-						seiner Bitte um Beibehaltung der Diözese Gurk für drei Jahre abbringen.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="196.1">San Giorgio an Portia - Rom, 1601 Februar 24</head>
-				<div>
-					<pb xml:id="P5_0000454"/>
-					<p>Sono capitate nello spatio di pochi giorni le lettere di V. S. delli 8, 10 et
-						14 dell’istante tutte di Bressinone<note xml:id="FN5_196.1_01" type="footnote">Vom 10. und 14. Februar 1601 sind Berichte Portias an
-							Aldobrandini aus Brixen vorhanden: Nr. 192.1, 194.1. Auch der Bericht
-							vom 8. Februar 1601 an San Giorgio ist nicht auffindbar.</note>, con le
-						prime delle quali ella dà conto dell’elettione o postulatione di Monsig. di
-						Gurg in Vescovo di quella Chiesa. Tralascio quei particolari di ciascuna che
-						non richiedono risposta et dico a V. S. quanto al breve de capienda
-						possessione che si desiderava, che N. S. ha giudicato di non doverlo
-						assolutamente concedere, non solo per l’uso che vi è di non concederlo mai
-						prima della confirmatione, ma perché siamo in caso di postulatione, la quale
-						è sempre revocabile finché si presenta al superiore<note xml:id="FN5_196.1_02" type="footnote">Aus einem Schreiben des gewählten
-							Bischofs von Brixen geht hervor, dass die Idee zum Vorzug des Breves von
-							ihm persönlich und Portia stammte und dem Wohl des Bistums dienen
-							sollte: vgl. Spaur an Clemens VIII., Brixen, 1601 Februar 4, ASV, Fondo
-							Borghese, serie III 80 A, fol. 118r.</note>. Quello che si può fare in
-						benefitio di Monsignore et del Vescovato è di accelerare, come si farà, la
-						speditione co ’l processo venuto con le ultime delli 14, del quale essendosi
-						inteso prima da V. S. che doveva esser portatore il suffraganeo<note xml:id="FN5_196.1_03" type="footnote">Simon Feurstein (1552–1623),
-							Weihbischof von Brixen (1598–1623), Dompropst in Brixen (1601–1623). Er
-							wurde von Andreas von Spaur am 14. Februar 1601 mit einem ansehnlichen
-							Junker für die Bestätigung der Bischofswahl nach Rom gesandt. Am 28.
-							Februar traf Feurstein in Rom ein, der Junker kehrte am 23. März wieder
-							nach Brixen zurück und hatte das gewünschte Breve bei sich (Clemens
-							VIII. an Spaur, Rom, 1601 März 17, ASV, Secr. Brev., Reg. 306, fol.
-							119r–v, 122r): vgl. FREISEISEN, S. 7; WOLFSGRUBER, S. 148; GATZ,
-							1448-1648, S. 181.</note> che fin hora non comparisce, non so come sia
-						poi capitato per altre mani.</p>
-					<p>Del pensiero del Postulato di domandar la ritentione della prima chiesa per
-						tre anni non habbiamo altro inditio che il suo, et quanto si può dire a V.
-						S. in questa materia è che ella vada divertendo quel Prelato da simile
-						pretensione, perché S. B.ne non negherebbe forsi volontieri la gratia et
-						manco volontieri senza comparatione la concederebbe<note xml:id="FN5_196.1_04" type="footnote">Bischof Spaur bat San Giorgio auch
-							persönlich um die Möglichkeit, das Bistum Gurk für weitere drei Jahre
-							beizubehalten: vgl. Spaur an San Giorgio, Brixen, 1601 März 8, ASV,
-							Fondo Borghese, serie III 6 A, fol. 98r; Spaur an San Giorgio, Brixen,
-							1601 April 7, ASV, Fondo Borghese, serie IV 287, fol. 206r; Spaur an San
-							Giorgio, Brixen, 1601 Mai 12, ASV, Fondo Borghese, serie IV 287, fol.
-							209r. Eh. Ferdinand übermittelte San Giorgio eine diesbezügliche
-							Fürsprache am 11. Mai 1601, ebenso Eh. Maria an Clemens VIII.: vgl.
-							Ferdinand an San Giorgio, Graz, 1601 Mai 11, ASV, Fondo Borghese, serie
-							III 85 A, fol. 25r; Maria an Clemens VIII., Graz, 1601 Mai 11, ASV,
-							Fondo Borghese, serie III 85 A, fol. 59r–v.</note>.</p>
-					<p>Rispondo a Monsig. di Gurg a Bressinone et a V. S. non ho che soggiongere di
-						più, se non che si aspettano con qualche curiosità lettere et avvisi suoi di
-						Gratz …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_196.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-02-24" n="1">1601-02-24</title>
+                <title level="a">196.1. San Giorgio an Portia - Rom, 1601 Februar 24</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 47v–48v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_196.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-02-24" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_195.1.xml"
+                        >195.1. San Giorgio an Portia - Rom, 1601 Februar 17</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_196.2.xml">196.2.
+                        San Giorgio an Portia - Rom, 1601 Februar 24</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_195.1.xml">195.1. San Giorgio an
+                        Portia - Rom, 1601 Februar 17</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_196.2.xml">196.2. San Giorgio an
+                        Portia - Rom, 1601 Februar 24</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Benachrichtigung über die Wahl des Bischofs von Gurk [Spaur] zum
+                    Bischof von Brixen eingetroffen. Das Breve de capienda possessione kann jedoch
+                    erst nach der Bestätigung ausgestellt werden, wofür der Informativprozess
+                    vorliegen muss. Portia soll den gewählten Bischof von seiner Bitte um
+                    Beibehaltung der Diözese Gurk für drei Jahre abbringen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="196.1">San Giorgio an Portia - Rom, 1601 Februar 24</head>
+            <div>
+                <pb xml:id="P5_0000454"/>
+                <p>Sono capitate nello spatio di pochi giorni le lettere di V. S. delli 8, 10 et 14
+                    dell’istante tutte di Bressinone<note xml:id="FN5_196.1_01" type="footnote">Vom
+                        10. und 14. Februar 1601 sind Berichte Portias an Aldobrandini aus Brixen
+                        vorhanden: Nr. 192.1, 194.1. Auch der Bericht vom 8. Februar 1601 an San
+                        Giorgio ist nicht auffindbar.</note>, con le prime delle quali ella dà conto
+                    dell’elettione o postulatione di Monsig. di Gurg in Vescovo di quella Chiesa.
+                    Tralascio quei particolari di ciascuna che non richiedono risposta et dico a V.
+                    S. quanto al breve de capienda possessione che si desiderava, che N. S. ha
+                    giudicato di non doverlo assolutamente concedere, non solo per l’uso che vi è di
+                    non concederlo mai prima della confirmatione, ma perché siamo in caso di
+                    postulatione, la quale è sempre revocabile finché si presenta al superiore <note
+                        xml:id="FN5_196.1_02" type="footnote">Aus einem Schreiben des gewählten
+                        Bischofs von Brixen geht hervor, dass die Idee zum Vorzug des Breves von ihm
+                        persönlich und Portia stammte und dem Wohl des Bistums dienen sollte: vgl.
+                        Spaur an Clemens VIII., Brixen, 1601 Februar 4, ASV, Fondo Borghese, serie
+                        III 80 A, fol. 118r.</note>. Quello che si può fare in benefitio di
+                    Monsignore et del Vescovato è di accelerare, come si farà, la speditione co ’l
+                    processo venuto con le ultime delli 14, del quale essendosi inteso prima da V.
+                    S. che doveva esser portatore il suffraganeo <note xml:id="FN5_196.1_03"
+                        type="footnote">Simon Feurstein (1552–1623), Weihbischof von Brixen
+                        (1598–1623), Dompropst in Brixen (1601–1623). Er wurde von Andreas von Spaur
+                        am 14. Februar 1601 mit einem ansehnlichen Junker für die Bestätigung der
+                        Bischofswahl nach Rom gesandt. Am 28. Februar traf Feurstein in Rom ein, der
+                        Junker kehrte am 23. März wieder nach Brixen zurück und hatte das gewünschte
+                        Breve bei sich (Clemens VIII. an Spaur, Rom, 1601 März 17, ASV, Secr. Brev.,
+                        Reg. 306, fol. 119r–v, 122r): vgl. FREISEISEN, S. 7; WOLFSGRUBER, S. 148;
+                        GATZ, 1448-1648, S. 181.</note>che fin hora non comparisce, non so come sia
+                    poi capitato per altre mani.</p>
+                <p>Del pensiero del Postulato di domandar la ritentione della prima chiesa per tre
+                    anni non habbiamo altro inditio che il suo, et quanto si può dire a V. S. in
+                    questa materia è che ella vada divertendo quel Prelato da simile pretensione,
+                    perché S. B.ne non negherebbe forsi volontieri la gratia et manco volontieri
+                    senza comparatione la concederebbe<note xml:id="FN5_196.1_04" type="footnote"
+                        >Bischof Spaur bat San Giorgio auch persönlich um die Möglichkeit, das
+                        Bistum Gurk für weitere drei Jahre beizubehalten: vgl. Spaur an San Giorgio,
+                        Brixen, 1601 März 8, ASV, Fondo Borghese, serie III 6 A, fol. 98r; Spaur an
+                        San Giorgio, Brixen, 1601 April 7, ASV, Fondo Borghese, serie IV 287, fol.
+                        206r; Spaur an San Giorgio, Brixen, 1601 Mai 12, ASV, Fondo Borghese, serie
+                        IV 287, fol. 209r. Eh. Ferdinand übermittelte San Giorgio eine
+                        diesbezügliche Fürsprache am 11. Mai 1601, ebenso Eh. Maria an Clemens
+                        VIII.: vgl. Ferdinand an San Giorgio, Graz, 1601 Mai 11, ASV, Fondo
+                        Borghese, serie III 85 A, fol. 25r; Maria an Clemens VIII., Graz, 1601 Mai
+                        11, ASV, Fondo Borghese, serie III 85 A, fol. 59r–v.</note>.</p>
+                <p>Rispondo a Monsig. di Gurg a Bressinone et a V. S. non ho che soggiongere di più,
+                    se non che si aspettano con qualche curiosità lettere et avvisi suoi di Gratz
+                    …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

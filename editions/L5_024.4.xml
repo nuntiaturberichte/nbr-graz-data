@@ -1,202 +1,206 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_024.4"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-03-22" n="1">1599-03-22</title>
-                    <title level="a">24.4. Portia an Aldobrandini - Nürnberg, 1599 März 22</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 92 A, fol. 279r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_024.4">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-03-22" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2861650">Nuremberg</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_024.3.xml">24.3. Portia an (Aldobrandini) - Nürnberg, 1599 März 21</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_025.1.xml">25.1. Portia an Aldobrandini - Würzburg, 1599 März 26</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_024.3.xml">24.3. Portia an
-                            (Aldobrandini) - Nürnberg, 1599 März 21</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_025.1.xml">25.1. Portia an
-                            Aldobrandini - Würzburg, 1599 März 26</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia reist doch über Würzburg nach Bamberg. Der Kaiser will angeblich
-						Kommissare nach Graz senden, die zwischen Ferdinand und den Landständen
-						vermitteln sollen. In Koblenz ist eine Zusammenkunft deutscher Fürsten wegen
-						des bevorstehenden Durchzugs spanischer Truppen geplant. Der Kaiser schickt
-						Kommissare auf den Deputationstag nach Koblenz, aber auch Kontaktpersonen zu
-						Kardinal von Österreich [Andreas] und dem Admiral von Aragon [F. de
-						Mendoza], um Unruhen zu vermeiden, da die Reichskontributionen sonst nicht
-						für die Türkenabwehr eingesetzt werden könnten.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="24.4">Portia an Aldobrandini - Nürnberg, 1599 März 22</head>
-				<div>
-					<p>Con tutto ch’io heri<note xml:id="FN5_024.4_01" type="footnote">Nr.
-							24.2.</note> significassi a V. S. Ill.ma d’haver pensiero di arrivar
-						prima a Bamberga ch’ad Herbipoli, secondo la ragione et drittura del viaggio
-						et conforme anco al consiglio di Monsig. Vescovo d’Eistadio, mi son però
-						doppo risolto di allungar il camino più tosto et prender questa fattica di
-						più per intender alcuna cosa da Monsig. Vescovo d’Herbipoli, prima che
-						trattar con l’eletto et Capitolo di Bamberga. Et così parto hoggi verso
-						quella parte, di dove havendo qualche commodità significherò a V. S. Ill.ma
-						quanto m’occorrerà in questo proposito, pensando ch’intanto questa poca
-						dilazione potrà più tosto giovar a qualche buon effetto ch’altrimenti, et
-							in<pb xml:id="P5_0000047"/> questo mentre mi potrebbe forse capitar
-						qualche lettera et commandamento di V. S. Ill.ma sopra questa elezione, la
-						quale senza dubbio sarà stata significata costì alcune settimane sono.</p>
-					<p>Ho inteso qui che la M.tà dell’Imperatore manderà suoi Commissarii a Graz per
-						interporsi tra l’Arciduca et suoi Provinciali et procurare che convenghino
-						ne particolari della Dieta cominciata, et se bene io non dubito punto della
-						mente et resoluzione dell’Arciduca sudetto et della pietà di S. M.tà mi dà
-						però fastidio l’udire solo il nome di queste pacificazioni et concordie, le
-						quali in Germania et in Francia furno sempre pericolose et dannose.</p>
-					<p>In Confluenza si terrà un convento di questi Prencipi del Reno, Sassonia et
-							Franconia<note xml:id="FN5_024.4_02" type="footnote">Ende März 1599 fand
-							ein Deputationstag von fünf Reichskreisen (Niederrheinisch-Westfälisch,
-							Kurrheinisch, Oberrheinisch, Niedersächsisch, Schwäbisch) in Koblenz
-							statt, an dem über eine militärische Aktion der westlichen Kreise gegen
-							die Übergriffe der Spanier aus den Niederlanden beraten wurde. Sowohl
-							Kaiser Rudolf II. als auch Kardinal Andreas von Österreich, der während
-							der Abwesenheit Eh. Albrechts diesen als Statthalter der Niederlande
-							vertrat, waren durch Gesandte vertreten. Man beschloss mit dem
-							Deputationsabschied vom 9. April 1599, neun Römermonate für die
-							Defensionsarmee zu zahlen. Dies war die Reaktion auf den Einmarsch der
-							Flandrischen Armee im November 1598 in den Niederrheinisch-Westfälischen
-							Reichskreis: vgl. DOTZAUER, S. 64; ARNDT, S. 124–129.</note> per
-						consultare del rimedio a danni et timore che hanno delli soldati et armi
-						spagnuole, al quale manderà anco la M.tà dell’Imperatore Commissarii per
-						divertire il pensiero cominciato di rassegnar soldati, havendo anco detta
-						M.tà mandato di nuovo persone al Sig. Cardinale d’Austria et all’Almirante
-							d’Aragon<note xml:id="FN5_024.4_03" type="footnote">Francisco de Mendoza
-							(1545–1623), Militär und Schriftsteller, Admiral von Aragon. König
-							Philipp II. sandte ihn 1595 an den niederländischen Hof Eh. Albrechts,
-							wo er das militärische Oberkommando inne hatte. 1597 wurde er als
-							spanischer Gesandter nach Polen, daraufhin nach Frankreich und Ungarn
-							entsandt. In die Niederlande zurückgekehrt, wurde er 1600 bei der
-							Schlacht von Nieuport gefangen genommen. Nach dreijähriger
-							Gefangenschaft kehrte er verarmt nach Spanien zurück, trat in das Kolleg
-							der Jesuiten in Alcalá ein und verstarb vor der Übernahme des
-							Bischofsstuhles von Siguenza 1623: vgl. GEE 13, S. 6417.</note> per
-						divertire ogni disordine, altrimenti le contribuzioni dell’Imperio per la
-						guerra contra ’l Turco si perderebbono et si farebbe una nuova guerra et
-						molto dannosa et pericolosa in queste parti. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_024.4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-03-22" n="1">1599-03-22</title>
+                <title level="a">24.4. Portia an Aldobrandini - Nürnberg, 1599 März 22</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 92 A, fol. 279r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_024.4">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-03-22" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2861650">Nuremberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_024.3.xml"
+                        >24.3. Portia an (Aldobrandini) - Nürnberg, 1599 März 21</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_025.1.xml">25.1.
+                        Portia an Aldobrandini - Würzburg, 1599 März 26</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_024.3.xml">24.3. Portia an
+                        (Aldobrandini) - Nürnberg, 1599 März 21</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_025.1.xml">25.1. Portia an
+                        Aldobrandini - Würzburg, 1599 März 26</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia reist doch über Würzburg nach Bamberg. Der Kaiser will angeblich
+                    Kommissare nach Graz senden, die zwischen Ferdinand und den Landständen
+                    vermitteln sollen. In Koblenz ist eine Zusammenkunft deutscher Fürsten wegen des
+                    bevorstehenden Durchzugs spanischer Truppen geplant. Der Kaiser schickt
+                    Kommissare auf den Deputationstag nach Koblenz, aber auch Kontaktpersonen zu
+                    Kardinal von Österreich [Andreas] und dem Admiral von Aragon [F. de Mendoza], um
+                    Unruhen zu vermeiden, da die Reichskontributionen sonst nicht für die
+                    Türkenabwehr eingesetzt werden könnten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="24.4">Portia an Aldobrandini - Nürnberg, 1599 März 22</head>
+            <div>
+                <p>Con tutto ch’io heri<note xml:id="FN5_024.4_01" type="footnote">Nr.
+                    24.2.</note>significassi a V. S. Ill.ma d’haver pensiero di arrivar prima a
+                    Bamberga ch’ad Herbipoli, secondo la ragione et drittura del viaggio et conforme
+                    anco al consiglio di Monsig. Vescovo d’Eistadio, mi son però doppo risolto di
+                    allungar il camino più tosto et prender questa fattica di più per intender
+                    alcuna cosa da Monsig. Vescovo d’Herbipoli, prima che trattar con l’eletto et
+                    Capitolo di Bamberga. Et così parto hoggi verso quella parte, di dove havendo
+                    qualche commodità significherò a V. S. Ill.ma quanto m’occorrerà in questo
+                    proposito, pensando ch’intanto questa poca dilazione potrà più tosto giovar a
+                    qualche buon effetto ch’altrimenti, et in <pb xml:id="P5_0000047"/>questo mentre
+                    mi potrebbe forse capitar qualche lettera et commandamento di V. S. Ill.ma sopra
+                    questa elezione, la quale senza dubbio sarà stata significata costì alcune
+                    settimane sono.</p>
+                <p>Ho inteso qui che la M.tà dell’Imperatore manderà suoi Commissarii a Graz per
+                    interporsi tra l’Arciduca et suoi Provinciali et procurare che convenghino ne
+                    particolari della Dieta cominciata, et se bene io non dubito punto della mente
+                    et resoluzione dell’Arciduca sudetto et della pietà di S. M.tà mi dà però
+                    fastidio l’udire solo il nome di queste pacificazioni et concordie, le quali in
+                    Germania et in Francia furno sempre pericolose et dannose.</p>
+                <p>In Confluenza si terrà un convento di questi Prencipi del Reno, Sassonia et
+                        Franconia<note xml:id="FN5_024.4_02" type="footnote">Ende März 1599 fand ein
+                        Deputationstag von fünf Reichskreisen (Niederrheinisch-Westfälisch,
+                        Kurrheinisch, Oberrheinisch, Niedersächsisch, Schwäbisch) in Koblenz statt,
+                        an dem über eine militärische Aktion der westlichen Kreise gegen die
+                        Übergriffe der Spanier aus den Niederlanden beraten wurde. Sowohl Kaiser
+                        Rudolf II. als auch Kardinal Andreas von Österreich, der während der
+                        Abwesenheit Eh. Albrechts diesen als Statthalter der Niederlande vertrat,
+                        waren durch Gesandte vertreten. Man beschloss mit dem Deputationsabschied
+                        vom 9. April 1599, neun Römermonate für die Defensionsarmee zu zahlen. Dies
+                        war die Reaktion auf den Einmarsch der Flandrischen Armee im November 1598
+                        in den Niederrheinisch-Westfälischen Reichskreis: vgl. DOTZAUER, S. 64;
+                        ARNDT, S. 124–129.</note>per consultare del rimedio a danni et timore che
+                    hanno delli soldati et armi spagnuole, al quale manderà anco la M.tà
+                    dell’Imperatore Commissarii per divertire il pensiero cominciato di rassegnar
+                    soldati, havendo anco detta M.tà mandato di nuovo persone al Sig. Cardinale
+                    d’Austria et all’Almirante d’Aragon<note xml:id="FN5_024.4_03" type="footnote">
+                        Francisco de Mendoza (1545–1623), Militär und Schriftsteller, Admiral von
+                        Aragon. König Philipp II. sandte ihn 1595 an den niederländischen Hof Eh.
+                        Albrechts, wo er das militärische Oberkommando inne hatte. 1597 wurde er als
+                        spanischer Gesandter nach Polen, daraufhin nach Frankreich und Ungarn
+                        entsandt. In die Niederlande zurückgekehrt, wurde er 1600 bei der Schlacht
+                        von Nieuport gefangen genommen. Nach dreijähriger Gefangenschaft kehrte er
+                        verarmt nach Spanien zurück, trat in das Kolleg der Jesuiten in Alcalá ein
+                        und verstarb vor der Übernahme des Bischofsstuhles von Siguenza 1623: vgl.
+                        GEE 13, S. 6417.</note>per divertire ogni disordine, altrimenti le
+                    contribuzioni dell’Imperio per la guerra contra ’l Turco si perderebbono et si
+                    farebbe una nuova guerra et molto dannosa et pericolosa in queste parti. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

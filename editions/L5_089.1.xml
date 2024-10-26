@@ -1,298 +1,307 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_089.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-11-20" n="1">1599-11-20</title>
-                    <title level="a">89.1. Portia an San Giorgio - Graz, 1599 November 20</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 172r–173r,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_089.1">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1599-11-20" n="1">1599-11-20</title>
+				<title level="a">89.1. Portia an San Giorgio - Graz, 1599 November 20</title>
+				<author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="http://viaf.org/viaf/294639832">Zingerle
+								Elisabeth</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+						<idno type="ISBN">978-3-7001-7146-1</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>2012</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Historisches Institut beim Österreichischen Kulturforum in
+									Rom</orgName>
+								<persName>Bösel Richard</persName>
+								<persName>Fillitz Hermann</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="5">5. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="974">974 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Historischen Instituts beim
+							Österreichischen Kulturforum in Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 172r–173r,
+							Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+				<listBibl corresp="letter">
+					<bibl type="beilage">
 						<lb/>Beilage: fol. 166r–v, Avviso, an San Giorgio adressiert, Graz, 1599
 						November 22.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_089.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-11-20" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_088.2.xml">88.2. Aldobrandini an Portia - Rom, 1599 November 13</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_089.2.xml">89.2. Portia an San Giorgio - Graz, 1599 November 22</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_088.1.xml">88.1. San Giorgio an
-                            Portia - Rom, 1599 November 13</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_089.2.xml">89.2. Portia an San
-                            Giorgio - Graz, 1599 November 22</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Bericht über das Gespräch Portias mit Herzog Maximilian I. von Bayern in
-						München: Neben den Differenzen des Herzogs mit dem Domkapitel von Passau
-						wurde auch die Wahl des zukünftigen Römischen Königs angesprochen, die nach
-						Ansicht Maximilians Rom betreiben sollte; Auseinandersetzung zwischen dem
-						Kurfürst von Sachsen [Christian II./Friedrich Wilhelm I.] und dem Markgraf
-						von Brandenburg-Ansbach [Georg Friedrich] bezüglich der Bereitstellung von
-						Soldaten gegen die spanischen Truppen; die Bistümer Paderborn und Magdeburg
-						können nur durch eine gezielte Besetzung der Domherrenstellen vor einem
-						definitiven Ubergang in lutherische Hand, wie Minden und Osnabrück,
-						geschützt werden; eine Konversion des ältesten Sohnes des Pfalzgrafen von
-						Neuburg [Wolfgang Wilhelm] zum Katholizismus kann nicht ausgeschlossen
-						werden, Bischof von Eichstätt [Gemmingen] könnte damit befasst werden;
-						Ferdinand von Bayern will Domherr in Würzburg werden, um seine Kandidatur
-						zum Dompropst zu befördern, auf die er bestehen wird.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="89.1">Portia an San Giorgio - Graz, 1599 November 20</head>
-				<div>
-					<p>Dopo la proposta che fu fatta in scrittura da me al Sig. Duca di Baviera
-						sopra li affari et controversie di Possa<note xml:id="FN5_089.1_01" type="footnote">Die Ergebnisse dieser Verhandlungen schickte Portia in
-							einem ausführlichen Memorial vom 19. November 1599 an Administrator
-							Pötting aus Graz: vgl. HHStA, Hs B 66.</note>, si passò a trattare di
-						molt’altri particolari de quali havevo già accennato a V. S. Ill.ma
-						convenirsi alla prudenza di quel Prencipe, et in buon proposito e con gran
-						confidenza mi disse che S. B.ne non doverebbe cessare di sollecitar
-						l’elettione de Re de Romani, perché di sicuro si corre gran rischio di
-						vedere importante rivolutione in Germania ogni volta che avenisse qualche
-						sinistro et improviso accidente. Et pare che dell’Arciduca Alberto<note xml:id="FN5_089.1_02" type="footnote">Albrecht VII. (1559–1621), Sohn
-							von Maximilian II. und Maria von Spanien, Kardinal-Erzbischof von Toledo
-							(1577), Vizekönig von Portugal (1583–1595), Statthalter der spanischen
-							Niederlande (1595), Landesfürst der Niederlande (1599–1621). Verheiratet
-							mit Isabella Clara, einer Tochter König Philipps II. von Spanien. Die
-							Ehe blieb kinderlos, sodass die südlichen Niederlande nach seinem
-							Ableben wieder Spanien zufielen: vgl. NDB 1, S. 170; HAMANN, S.
-							44.</note> ci sia poca speranza per l’alienatione degl’animi di<pb xml:id="P5_0000227"/> tutti i Prencipi dell’Imperio; l’istesso si crede
-						di Massimiliano<note xml:id="FN5_089.1_03" type="footnote">Maximilian III.
-							(1558–1618), Sohn von Maximilian II. und Maria von Spanien. Trat 1585 in
-							den Deutschen Orden ein und wurde 1590 dessen Hochmeister. Er bewarb
-							sich 1587 vergeblich für die polnische Königskrone, auf die er 1598
-							endgültig verzichtete. Statthalter von Tirol (1602–1618): vgl. HAMANN,
-							S. 364–366; NOFLATSCHER, Maximilian.</note>, onde tutti riducono il
-						negocio per più riuscibile nell’Arciduca Mathia<note xml:id="FN5_089.1_04" type="footnote">Matthias (1557–1619), Sohn von Kaiser Maximilian II. und
-							Maria von Spanien. Statthalter ob und unter der Enns (1594), König von
-							Ungarn (1608), König von Böhmen (1611), Kaiser (1612–1619). Er heiratete
-							1611 Anna von Tirol. Die Ehe blieb kinderlos: vgl. NDB 16, S. 403–405;
-							HAMANN, S. 353–356.</note>, come fratello di maggior età et più amato
-						dalla M.tà dell’Imperatore.</p>
-					<p>Mi communicò dapoi che ’l Duca di Sassonia<note xml:id="FN5_089.1_05" type="footnote">Christian II. (1583–1611), Sohn von Kurfürst Christian
-							I. von Sachsen und Sophie von Brandenburg. Nach dem Tod seines Vaters
-							(1591) bereits als Minderjähriger zum Kurfürsten von Sachsen ernannt,
-							übernahm bis zu seiner Volljährigkeit im Jahr 1601 Herzog Friedrich
-							Wilhelm von Sachsen-Weimar als Vormund die Regierung: vgl. ADB 4, S.
-							172f.; NDB 3, S. 231f.</note> si truova in grave disparere co ’l
-						Marchese di Brandeburg detto di Amspach et che perciò si erano sfidati a
-						duello la seconda volta con mille Cavalli per parte, havendo questo havuto
-						origine dal non haver voluto il Duca di Sassonia seguire li humori delle
-						Case di Brandeburg, Bransvich, Assia et simili in far gente contro
-						Spagnuoli, et che questa occasione potrebbe giovar molto a negocii
-						dell’Impero et dell’Imperadore, della quale per valersene sarebbe forse
-						mezzo molto opportuno l’Elettore di Colonia<note xml:id="FN5_089.1_06" type="footnote">Ernst (1554–1612), Sohn von Herzog Albrecht V. von
-							Bayern und Anna von Österreich. Bischof von Freising (1566–1612),
-							Bischof von Hildesheim (1573–1612), Bischof von Lüttich (1581–1612), Abt
-							von Stablo-Malmedy (1581–1612), Kurfürst-Erzbischof von Köln
-							(1583–1612), Bischof von Münster (1585–1612): vgl. NDB 4, S. 614f.;
-							GATZ, 1448–1648, S. 163–171.</note>.</p>
-					<p>Che la conversione dei Vescovi di Minda<note xml:id="FN5_089.1_07" type="footnote">Christian von Braunschweig-Lüneburg (1566–1633),
-							Koadjutor des Bistums Minden (1597). Nach dem Tod seines Vorgängers
-							Anton von Schaumburg übernahm er am 21. Januar 1599 die Verwaltung des
-							Bistums. Auf Betreiben der Mindener Landstände gewährte Christian im
-							Februar 1600 allgemeine Religionsfreiheit im Hochstift: vgl. GATZ,
-							1448–1648, S. 99f. Das Bistum Minden war in der Reformationszeit schon
-							zu Beginn der zwanziger Jahre des 16. Jahrhunderts lutherischem
-							Gedankengut ausgesetzt, 1583 wurde das Augsburger Bekenntnis als
-							alleinige Richtschnur religiösen Lebens im Bistum Minden verordnet.
-							Bischof Anton von Schaumburg (1587–21. Januar 1599) war katholisch
-							gesinnt, konnte sich aber nicht gegen die evangelischen Landstände
-							durchsetzten und musste 1597 den protestantischen Koadjutor Christian
-							von Braunschweig-Lüneburg annehmen, der ihm nach seinem Tod als
-							Administrator folgte: vgl. GATZ, Bistümer, S. 475–477.</note> et
-							Osnaburg<note xml:id="FN5_089.1_08" type="footnote">Philipp Sigismund
-							von Braunschweig-Wolfenbüttel (1568–1623), Administrator des Bistums
-							Verden (1586–1623), Bischof von Osnabrück (1591–1623). Trotz des
-							Drängens des Nuntius Frangipani und des Kaisers, einen katholischen
-							Nachfolger zu wählen, erfolgte 1591 die Postulation Philipp Sigismunds
-							durch das konfessionell gemischte Domkapitel. Clemens VIII. versagte ihm
-							1592 und 1593 die Bestätigung, das Domkapitel blieb Träger der
-							Hoheitsrechte bis Philipp Sigismund 1598 vom Kaiser ein dreijähriges
-							Regalienindult erhielt: vgl. GATZ, 1448–1648, S. 531–532.</note> et
-						l’aiuto da darsi a quello di Padeborna<note xml:id="FN5_089.1_09" type="footnote">Dietrich von Fürstenberg (1546–1618), Bischof von
-							Paderborn (1585–1618). Nach dem Tod des lutherischen Administrators
-							Heinrich von Sachsen-Lauenburg wurde er 1585 zum Nachfolger gewählt und
-							führte die Rekatholisierung der Diözese durch: vgl. GATZ, 1448–1648, S.
-							207–209.</note> non si doveva abbandonare, tanto più che l’Elet<pb xml:id="P5_0000228"/> tor Coloniense ci haveva posta la mano assai
-						efficace et a tempo. Parendomi di aggiongere in questo proposito che per
-						l’informatione ch’io ho dal Pistorio et da altri si potrebbe co ’l istesso
-						mezzo aiutar anco il Vescovo Magdeburgense<note xml:id="FN5_089.1_10" type="footnote">Christian Wilhelm von Brandenburg (1587–1665),
-							Administrator des Erzbistums Magdeburg (1598–1628), Koadjutor von
-							Halberstadt (1614), Administrator von Halberstadt (1624). War als
-							Generalleutnant König Christians IV. von Dänemark tätig, nach dessen
-							Niederlage wurde er als Adminstrator abgesetzt. Daraufhin trat er in den
-							Dienst des Königs von Schweden: vgl. GATZ, 1448–1648, S.
-							226.</note>,<note xml:id="SN089.1_a" type="siglum">Marginalie des
-							Staatssekretariates links: ci si avvisa.</note> a che V. S. Ill.ma
-						giovarebbe molto se facesse sospendere et trattenere le provisioni dei
-						Canonicati di Padeborna et Maddeburg acciò fossero procurati per
-						gl’Arciduchi Leopoldo, Carlo et simili, che per mio credere li
-						accettarebbono volontieri, et sono pochi giorni che io ho inteso essere
-						stato costì conferito un Canonicato Maddeburgense che haverebbe potuto
-						servire per uno di questi Prencipi, benché non vi sia utile alcuno, ma a
-						questo si potrà con l’occasione provedere.</p>
-					<p>Il medesimo Sig. Duca mi disse anco che il Conte Palatino di Noiburg<note xml:id="FN5_089.1_11" type="footnote">Philipp Ludwig (1547–1614), Sohn
-							von Pfalzgraf Wolfgang von Pfalz-Zweibrücken und Anna von Hessen.
-							Pfalzgraf und Herzog von Pfalz-Neuburg (1569–1614). Verheiratet mit Anna
-							von Jülich, Kleve und Berg (1574): vgl. NDB 20, S. 383f.</note> suo
-						vicino ha un Figliuolo<note xml:id="FN5_089.1_12" type="footnote">Wolfgang
-							Wilhelm (1578–1653), Sohn von Pfalzgraf Philipp Ludwig Pfalz-Neuburg und
-							Anna von Jülich, Kleve, Berg. Pfalzgraf von Pfalz-Neuburg und Herzog von
-							Jülich und Berg (1614). Er trat 1613 zum katholischen Glauben über und
-							heiratete im selben Jahr die Schwester von Herzog Maximilian I. von
-							Bayern, Magdalena: vgl. ADB 44, S. 87–117; BBKL 21, Sp.
-							1163–1168.</note>, ch’è il maggiore di età d’anni venti, il quale è
-						stato in Roma et ha praticato per tutta Italia et dimostra affettione alla
-							na<pb xml:id="P5_0000229"/> tion et costumi Italiani, approva et
-						commenda le cose di Roma, ode volontieri et con certo rispetto et riverenza
-						non ordinaria ragionare della persona et cose di S. S.tà, il che dispiace
-						però grandemente al Padre, et mi soggionse S. A. che sarà ben fatto havergli
-						l’occhio sopra et osservarlo perché di facile se ne potrebbe far acquisto,
-						che saria cosa di gran conseguenza, credendosi che come Primogenito possa
-						solo essere herede del Stato di Noiburg, il quale è posto tra quello di
-						Baviera et il Palatino Elettore. A questo io risposi che non lasciarei di
-						darne conto a V. S. Ill.ma acciò si facesse saperlo a S. B.ne et che ne
-						terrei io singolar memoria;<note xml:id="SN089.1_b" type="siglum">Marginalie
-							des Staatssekretariates links: il Nuntio si intenda con il Duca et vegga
-							quello che si può fare se scriverli se far alcun diligenza.</note>
-						sovenendomi hora che oltre il Sig. Duca sodetto il Vescovo d’Eistadio mio
-						amicissimo et non poco italianato potrebbe essere in questo ottimo
-						istromento massime ritruovandosi egli di poche leghe lontano dal Stato di
-						Noiburg, se ben spero che l’istesso Conte sarà per venire alle nozze
-						dell’Arciduca Ferdinando et che all’hora si potrà far seco qualche
-						profittevol colpo.</p>
-					<p>Dopo molt’altri simili ragionamenti, benché di minor importanza et co’ quali
-						non si deve fastidire S. A. né V. S. Ill.ma, essendole gran parte di tai
-						cose per altre vie note, si cadde in proposito della Prepositura di
-						Herbipoli, della quale S. A. mi disse che ’l Ser.mo Duca Ferdinando
-						Coadiutore in Colonia haveva risoluto di rendersi capace et habile ad esser
-						Capitolare, et per conseguenza che non se gli sarebbe potuto negare il
-						possesso della detta prebenda, et se facendosi questo gli fosse poi mancato
-						di giustitia et dovere, sarebbe riccorso in tal caso alla S.tà di N. S. co
-						’l mezzo mio<note xml:id="FN5_089.1_13" type="footnote">Vgl. Nr.
-							21.1.</note>. Et queste sono le cose più importanti ch’io ho ritratto da
-						quel Prencipe per riferire a S. B.ne et a V. S. Ill.ma …<note xml:id="SN089.1_c" type="siglum">Dorsalvermerk des Staatssekretariates,
-							fol. 173v: Mostrar d’haver havuto cari gl’avvisi et che ne ringratii il
-							Duca per parte nostra.</note>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L5_089.1">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+					<date when="1599-11-20" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+						Cinzio - Portia, Girolamo</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L5_088.2.xml"
+						>88.2. Aldobrandini an Portia - Rom, 1599 November 13</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L5_089.2.xml">89.2.
+						Portia an San Giorgio - Graz, 1599 November 22</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_040" target="L5_088.1.xml">88.1. San Giorgio an
+						Portia - Rom, 1599 November 13</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_040" target="L5_089.2.xml">89.2. Portia an San
+						Giorgio - Graz, 1599 November 22</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Bericht über das Gespräch Portias mit Herzog Maximilian I. von Bayern in München:
+					Neben den Differenzen des Herzogs mit dem Domkapitel von Passau wurde auch die
+					Wahl des zukünftigen Römischen Königs angesprochen, die nach Ansicht Maximilians
+					Rom betreiben sollte; Auseinandersetzung zwischen dem Kurfürst von Sachsen
+					[Christian II./Friedrich Wilhelm I.] und dem Markgraf von Brandenburg-Ansbach
+					[Georg Friedrich] bezüglich der Bereitstellung von Soldaten gegen die spanischen
+					Truppen; die Bistümer Paderborn und Magdeburg können nur durch eine gezielte
+					Besetzung der Domherrenstellen vor einem definitiven Ubergang in lutherische
+					Hand, wie Minden und Osnabrück, geschützt werden; eine Konversion des ältesten
+					Sohnes des Pfalzgrafen von Neuburg [Wolfgang Wilhelm] zum Katholizismus kann
+					nicht ausgeschlossen werden, Bischof von Eichstätt [Gemmingen] könnte damit
+					befasst werden; Ferdinand von Bayern will Domherr in Würzburg werden, um seine
+					Kandidatur zum Dompropst zu befördern, auf die er bestehen wird.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="89.1">Portia an San Giorgio - Graz, 1599 November 20</head>
+			<div>
+				<p>Dopo la proposta che fu fatta in scrittura da me al Sig. Duca di Baviera sopra li
+					affari et controversie di Possa<note xml:id="FN5_089.1_01" type="footnote">Die
+						Ergebnisse dieser Verhandlungen schickte Portia in einem ausführlichen
+						Memorial vom 19. November 1599 an Administrator Pötting aus Graz: vgl.
+						HHStA, Hs B 66.</note>, si passò a trattare di molt’altri particolari de
+					quali havevo già accennato a V. S. Ill.ma convenirsi alla prudenza di quel
+					Prencipe, et in buon proposito e con gran confidenza mi disse che S. B.ne non
+					doverebbe cessare di sollecitar l’elettione de Re de Romani, perché di sicuro si
+					corre gran rischio di vedere importante rivolutione in Germania ogni volta che
+					avenisse qualche sinistro et improviso accidente. Et pare che dell’Arciduca
+					Alberto <note xml:id="FN5_089.1_02" type="footnote">Albrecht VII. (1559–1621),
+						Sohn von Maximilian II. und Maria von Spanien, Kardinal-Erzbischof von
+						Toledo (1577), Vizekönig von Portugal (1583–1595), Statthalter der
+						spanischen Niederlande (1595), Landesfürst der Niederlande (1599–1621).
+						Verheiratet mit Isabella Clara, einer Tochter König Philipps II. von
+						Spanien. Die Ehe blieb kinderlos, sodass die südlichen Niederlande nach
+						seinem Ableben wieder Spanien zufielen: vgl. NDB 1, S. 170; HAMANN, S.
+						44.</note>ci sia poca speranza per l’alienatione degl’animi di <pb
+						xml:id="P5_0000227"/>tutti i Prencipi dell’Imperio; l’istesso si crede di
+						Massimiliano<note xml:id="FN5_089.1_03" type="footnote"> Maximilian III.
+						(1558–1618), Sohn von Maximilian II. und Maria von Spanien. Trat 1585 in den
+						Deutschen Orden ein und wurde 1590 dessen Hochmeister. Er bewarb sich 1587
+						vergeblich für die polnische Königskrone, auf die er 1598 endgültig
+						verzichtete. Statthalter von Tirol (1602–1618): vgl. HAMANN, S. 364–366;
+						NOFLATSCHER, Maximilian.</note>, onde tutti riducono il negocio per più
+					riuscibile nell’Arciduca Mathia <note xml:id="FN5_089.1_04" type="footnote"
+						>Matthias (1557–1619), Sohn von Kaiser Maximilian II. und Maria von Spanien.
+						Statthalter ob und unter der Enns (1594), König von Ungarn (1608), König von
+						Böhmen (1611), Kaiser (1612–1619). Er heiratete 1611 Anna von Tirol. Die Ehe
+						blieb kinderlos: vgl. NDB 16, S. 403–405; HAMANN, S. 353–356.</note>, come
+					fratello di maggior età et più amato dalla M.tà dell’Imperatore.</p>
+				<p>Mi communicò dapoi che ’l Duca di Sassonia<note xml:id="FN5_089.1_05"
+						type="footnote">Christian II. (1583–1611), Sohn von Kurfürst Christian I.
+						von Sachsen und Sophie von Brandenburg. Nach dem Tod seines Vaters (1591)
+						bereits als Minderjähriger zum Kurfürsten von Sachsen ernannt, übernahm bis
+						zu seiner Volljährigkeit im Jahr 1601 Herzog Friedrich Wilhelm von
+						Sachsen-Weimar als Vormund die Regierung: vgl. ADB 4, S. 172f.; NDB 3, S.
+						231f.</note>si truova in grave disparere co ’l Marchese di Brandeburg detto
+					di Amspach et che perciò si erano sfidati a duello la seconda volta con mille
+					Cavalli per parte, havendo questo havuto origine dal non haver voluto il Duca di
+					Sassonia seguire li humori delle Case di Brandeburg, Bransvich, Assia et simili
+					in far gente contro Spagnuoli, et che questa occasione potrebbe giovar molto a
+					negocii dell’Impero et dell’Imperadore, della quale per valersene sarebbe forse
+					mezzo molto opportuno l’Elettore di Colonia <note xml:id="FN5_089.1_06"
+						type="footnote">Ernst (1554–1612), Sohn von Herzog Albrecht V. von Bayern
+						und Anna von Österreich. Bischof von Freising (1566–1612), Bischof von
+						Hildesheim (1573–1612), Bischof von Lüttich (1581–1612), Abt von
+						Stablo-Malmedy (1581–1612), Kurfürst-Erzbischof von Köln (1583–1612),
+						Bischof von Münster (1585–1612): vgl. NDB 4, S. 614f.; GATZ, 1448–1648, S.
+						163–171.</note>.</p>
+				<p>Che la conversione dei Vescovi di Minda<note xml:id="FN5_089.1_07"
+						type="footnote">Christian von Braunschweig-Lüneburg (1566–1633), Koadjutor
+						des Bistums Minden (1597). Nach dem Tod seines Vorgängers Anton von
+						Schaumburg übernahm er am 21. Januar 1599 die Verwaltung des Bistums. Auf
+						Betreiben der Mindener Landstände gewährte Christian im Februar 1600
+						allgemeine Religionsfreiheit im Hochstift: vgl. GATZ, 1448–1648, S. 99f. Das
+						Bistum Minden war in der Reformationszeit schon zu Beginn der zwanziger
+						Jahre des 16. Jahrhunderts lutherischem Gedankengut ausgesetzt, 1583 wurde
+						das Augsburger Bekenntnis als alleinige Richtschnur religiösen Lebens im
+						Bistum Minden verordnet. Bischof Anton von Schaumburg (1587–21. Januar 1599)
+						war katholisch gesinnt, konnte sich aber nicht gegen die evangelischen
+						Landstände durchsetzten und musste 1597 den protestantischen Koadjutor
+						Christian von Braunschweig-Lüneburg annehmen, der ihm nach seinem Tod als
+						Administrator folgte: vgl. GATZ, Bistümer, S. 475–477.</note>et Osnaburg
+						<note xml:id="FN5_089.1_08" type="footnote">Philipp Sigismund von
+						Braunschweig-Wolfenbüttel (1568–1623), Administrator des Bistums Verden
+						(1586–1623), Bischof von Osnabrück (1591–1623). Trotz des Drängens des
+						Nuntius Frangipani und des Kaisers, einen katholischen Nachfolger zu wählen,
+						erfolgte 1591 die Postulation Philipp Sigismunds durch das konfessionell
+						gemischte Domkapitel. Clemens VIII. versagte ihm 1592 und 1593 die
+						Bestätigung, das Domkapitel blieb Träger der Hoheitsrechte bis Philipp
+						Sigismund 1598 vom Kaiser ein dreijähriges Regalienindult erhielt: vgl.
+						GATZ, 1448–1648, S. 531–532.</note>et l’aiuto da darsi a quello di
+						Padeborna<note xml:id="FN5_089.1_09" type="footnote"> Dietrich von
+						Fürstenberg (1546–1618), Bischof von Paderborn (1585–1618). Nach dem Tod des
+						lutherischen Administrators Heinrich von Sachsen-Lauenburg wurde er 1585 zum
+						Nachfolger gewählt und führte die Rekatholisierung der Diözese durch: vgl.
+						GATZ, 1448–1648, S. 207–209.</note>non si doveva abbandonare, tanto più che
+						l’Elet<pb xml:id="P5_0000228"/>tor Coloniense ci haveva posta la mano assai
+					efficace et a tempo. Parendomi di aggiongere in questo proposito che per
+					l’informatione ch’io ho dal Pistorio et da altri si potrebbe co ’l istesso mezzo
+					aiutar anco il Vescovo Magdeburgense <note xml:id="FN5_089.1_10" type="footnote"
+						>Christian Wilhelm von Brandenburg (1587–1665), Administrator des Erzbistums
+						Magdeburg (1598–1628), Koadjutor von Halberstadt (1614), Administrator von
+						Halberstadt (1624). War als Generalleutnant König Christians IV. von
+						Dänemark tätig, nach dessen Niederlage wurde er als Adminstrator abgesetzt.
+						Daraufhin trat er in den Dienst des Königs von Schweden: vgl. GATZ,
+						1448–1648, S. 226.</note>,<note xml:id="SN5_089.1_a" type="siglum">
+						Marginalie des Staatssekretariates links: ci si avvisa.</note>a che V. S.
+					Ill.ma giovarebbe molto se facesse sospendere et trattenere le provisioni dei
+					Canonicati di Padeborna et Maddeburg acciò fossero procurati per gl’Arciduchi
+					Leopoldo, Carlo et simili, che per mio credere li accettarebbono volontieri, et
+					sono pochi giorni che io ho inteso essere stato costì conferito un Canonicato
+					Maddeburgense che haverebbe potuto servire per uno di questi Prencipi, benché
+					non vi sia utile alcuno, ma a questo si potrà con l’occasione provedere.</p>
+				<p>Il medesimo Sig. Duca mi disse anco che il Conte Palatino di Noiburg<note
+						xml:id="FN5_089.1_11" type="footnote">Philipp Ludwig (1547–1614), Sohn von
+						Pfalzgraf Wolfgang von Pfalz-Zweibrücken und Anna von Hessen. Pfalzgraf und
+						Herzog von Pfalz-Neuburg (1569–1614). Verheiratet mit Anna von Jülich, Kleve
+						und Berg (1574): vgl. NDB 20, S. 383f.</note>suo vicino ha un Figliuolo<note
+						xml:id="FN5_089.1_12" type="footnote"> Wolfgang Wilhelm (1578–1653), Sohn
+						von Pfalzgraf Philipp Ludwig Pfalz-Neuburg und Anna von Jülich, Kleve, Berg.
+						Pfalzgraf von Pfalz-Neuburg und Herzog von Jülich und Berg (1614). Er trat
+						1613 zum katholischen Glauben über und heiratete im selben Jahr die
+						Schwester von Herzog Maximilian I. von Bayern, Magdalena: vgl. ADB 44, S.
+						87–117; BBKL 21, Sp. 1163–1168.</note>, ch’è il maggiore di età d’anni
+					venti, il quale è stato in Roma et ha praticato per tutta Italia et dimostra
+					affettione alla na<pb xml:id="P5_0000229"/>tion et costumi Italiani, approva et
+					commenda le cose di Roma, ode volontieri et con certo rispetto et riverenza non
+					ordinaria ragionare della persona et cose di S. S.tà, il che dispiace però
+					grandemente al Padre, et mi soggionse S. A. che sarà ben fatto havergli l’occhio
+					sopra et osservarlo perché di facile se ne potrebbe far acquisto, che saria cosa
+					di gran conseguenza, credendosi che come Primogenito possa solo essere herede
+					del Stato di Noiburg, il quale è posto tra quello di Baviera et il Palatino
+					Elettore. A questo io risposi che non lasciarei di darne conto a V. S. Ill.ma
+					acciò si facesse saperlo a S. B.ne et che ne terrei io singolar memoria; <note
+						xml:id="SN5_089.1_b" type="siglum">Marginalie des Staatssekretariates links:
+						il Nuntio si intenda con il Duca et vegga quello che si può fare se
+						scriverli se far alcun diligenza.</note>sovenendomi hora che oltre il Sig.
+					Duca sodetto il Vescovo d’Eistadio mio amicissimo et non poco italianato
+					potrebbe essere in questo ottimo istromento massime ritruovandosi egli di poche
+					leghe lontano dal Stato di Noiburg, se ben spero che l’istesso Conte sarà per
+					venire alle nozze dell’Arciduca Ferdinando et che all’hora si potrà far seco
+					qualche profittevol colpo.</p>
+				<p>Dopo molt’altri simili ragionamenti, benché di minor importanza et co’ quali non
+					si deve fastidire S. A. né V. S. Ill.ma, essendole gran parte di tai cose per
+					altre vie note, si cadde in proposito della Prepositura di Herbipoli, della
+					quale S. A. mi disse che ’l Ser.mo Duca Ferdinando Coadiutore in Colonia haveva
+					risoluto di rendersi capace et habile ad esser Capitolare, et per conseguenza
+					che non se gli sarebbe potuto negare il possesso della detta prebenda, et se
+					facendosi questo gli fosse poi mancato di giustitia et dovere, sarebbe riccorso
+					in tal caso alla S.tà di N. S. co ’l mezzo mio<note xml:id="FN5_089.1_13"
+						type="footnote">Vgl. Nr. 21.1.</note>. Et queste sono le cose più importanti
+					ch’io ho ritratto da quel Prencipe per riferire a S. B.ne et a V. S. Ill.ma …
+						<note xml:id="SN5_089.1_c" type="siglum">Dorsalvermerk des
+						Staatssekretariates, fol. 173v: Mostrar d’haver havuto cari gl’avvisi et che
+						ne ringratii il Duca per parte nostra.</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

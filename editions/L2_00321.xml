@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00321">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1586-05-22" n="1">1586-05-22</title>
+                <title level="a">321. Caligari an Pellevé - Görz, 1586 Mai 22</title>
+                <author ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Congregatio Vescovi e Regolari, Pos. 1586 Lett. A.,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00321">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                        Andrea</persName>
+                    <date when="1586-05-22" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3175986">Gorizia</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#https://viaf.org/viaf/7543468/">Pellevé, Nicolas de</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_028">Caligari,
+                        Giovanni Andrea - Pellevé, Nicolas de</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00320.xml"
+                        >320. Caligari an Azzolino - Görz, 1586 Mai 20</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00322.xml">322.
+                        Caligari an Pellevé - Görz, 1586 Juni 12</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_028" target="L2_00322.xml">322. Caligari an Pellevé -
+                        Görz, 1586 Juni 12</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Beschwerden der Nonnen von Aquileia gegen Anordnungen des Visitators. Visitation
+                    der dem Kapitel von Cividale gehörigen Pfarren Flitsch und Karfreit. Bekehrung
+                    von Häretikern.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="321">Caligari an Pellevé - Görz, 1586 Mai 22</head>
+            <div>
+                <p>Ho intimato a le monache d’Aquileia la commissione che io ho da V. S. Ill.ma
+                    d’intendere gli aggravi, che pretendono siano stati lor fatti dal vescovo di
+                    Parenzo visitatore apostolico,<note xml:id="FN2_00321_01" type="footnote">Vgl.
+                        oben Nr. 273.</note>et ascolterò quello che diranno et referirò a V. S.
+                    Ill.ma. Mi pare di comprendere che a studio costoro hanno diferito presentare la
+                    lettera di V. S. Ill.ma fatta a li 11 di marzo <note xml:id="FN2_00321_02"
+                        type="footnote">Nicht vorhanden.</note>sino a questo tempo già pericoloso di
+                    habitare in Aquileia per l’infettione de l’aria, per volere molte de le monache
+                    transferirsi in tanto non al monasterio di Cividale ma a le case de lor<pb
+                        xml:id="P2_0000462"/> parenti, come hanno costumato di fare per il passato
+                    con essempio di poca edificatione.</p>
+                <p>Il capitolo et canonici de la colleggiata di Cividale diocesi d’Aquileia hanno
+                    sette pieve nel dominio del ser.mo arciduca tutte di lingua schiava, et
+                    ciascaduna pieve ha più chiese parochiale sotto di se, che essi dimandono
+                    filiali. Et questi giorni m’è occorso a visitare due con occasione di espurgare
+                    il paese da gl’heretici, et le ho trovate tanto derelitte et abbandonate d’ogni
+                    buon governo, che era compassione a vederle. Ho fatto le miei decreti, che V. S.
+                    Ill.ma vedrà alligati,<note xml:id="FN2_00321_03" type="footnote">Ebenda:
+                        Visitationsprotokoll der Pfarre St. Maria in Karfreit/Caporetto vom 18.
+                        April 1586 und von der Pfarre St. Ulrich in FlitschlPlez in Kärnten vom 19.
+                        April 1586.</note>et li canonici in luogo di essequirli, gli hanno voluto
+                    escusare, disputare et cavillare a un per uno con tanta sottilità che sono
+                    venuti in fino quasi a bravarmi, che hanno fatto revocare la visita del vescovo
+                    di Parenzo, che faranno anco revocare la mia. V. S. Ill.ma vedrà lei et
+                    giudicarà. Io non resterò per questo di fare il debito mio intrepidamente. Ne la
+                    pieve prima di Chiavoreto <note xml:id="FN2_00321_04" type="footnote">Karfreit,
+                        Caporetto.</note>sono convertiti 17 heretici . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

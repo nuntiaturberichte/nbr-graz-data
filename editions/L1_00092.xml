@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00092">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" notAfter="1581-05-10" cert="low" n="1">vermutlich vor
+					1581-05-10</title>
+				<title level="a">92. Possevino an Gallio - (Wien, 1581 vor Mai 10)</title>
+				<author ref="#http://d-nb.info/gnd/118595954">Possevino, Antonio</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 93, f. 68r—71v, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00092">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118595954">Possevino, Antonio</persName>
+					<date notAfter="1581-05-10" n="1" cert="low"/>
+					<placeName ref="#http://www.geonames.org/2761369" cert="low">Vienna</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_008">Gallio, Tolemeo
+						- Possevino, Antonio</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00091.xml">91.
+						Malaspina an Possevino - Graz, 1581 Mai 9</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00093.xml">93.
+						Gallio an Bischof Christoph von Gurk - Rom, 1581 Mai 10</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_008" target="L1_00088.xml">88. Possevino an (Gallio)
+						- Wien, 1581 Mai 5</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Bericht über die ihm von Schranz erstattete Relation über die Entstehung des Ende
+					1580 erlassenen Religionsdekretes sowie die daran anschließende Aussprache über
+					Förderung des Religionsgeschäftes in Steiermark und Kärnten.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="92">Possevino an Gallio - (Wien, 1581 vor Mai 10)<note xml:id="FN1_00092_01"
+					type="footnote">Das Schreiben ist nicht datiert, gehört aber vor den 10. Mai,
+					weil Schranz dies alles in Wien P. Possevino berichtete, der am 12. Mai schon in
+					Prag war und daher spätestens am 10. Mai von Wien abgereist sein muß (Arch. Vat.
+					Nunz. Germ. 93, f. 84r und 86r; Pierling, La Russie et le Saint-Siège II, S.
+					43). Mitte Juni befand sich auch der neuernannte Nuntius für Polen, Alberto
+					Bolognetti, in Wien, von wo er drei Berichte nach Rom schickte (Boratyński -
+					Kuntze - Nanke, Alberti Bolognetti Epistolae I, S. 9—12).</note>
+			</head>
+			<div>
+				<pb xml:id="P1_0000251"/>
+				<p>Che già tre anni vedendosi la ruina di quelle provincie dell’arciduca Carlo per
+					le toleranze introdotte<note xml:id="FN1_00092_02" type="footnote">Gemeint ist
+						die Brucker Pazifikation von 1578 (Loserth, Religionspacification, S.
+						64—93).</note>et ch’era necessario di pensar al rimedio, il dr. Schrantio,
+					hora cancelliere di S. A., insieme col vescovo di Secobia et quel di Gurg et con
+					alcuno fidato andarono con licenza del sig. arciduca, pensando al modo col quale
+					potrebbono proporre qualche partito fattibile. Et che il detto Schrantio havendo
+					veduto che nella consulta gli altri concorrevano col suo pensiero, fu stabilito
+					ch’esso coll’assistenza delli detti vescovi ne farebbe rilatione a S. A., sì
+					come avvenne.<note xml:id="FN1_00092_03" type="footnote"> Außer den drei
+						Genannten soll noch der Regimentskanzler Dr. Walther dabeigewesen sein
+						(Schellhass, Ninguarda II, S. 9).</note>
+				</p>
+				<p>La somma di questo era che S. A. attendesse a purgare il suo consiglio di persone
+					heretiche, alle quali quando per la facilità della sua natura non si risolvesse
+					di voler dar licenza, almeno la concedesse quando essi la dimandassero, nella
+					quale dimanda verrebbono col tempo tenendosi alcuni modi, i quali si erano prima
+					pensati dai sopradetti vescovi et dal d. Schrantio.</p>
+				<p>Oltre ciò si andasse destramente introducendo nelle città propriamente dipendenti
+					da S. A. alcuno magistrato catolico et anco nelle istesse provincie, come
+					farebbe capitano di giustitia et altri tali. Et che per indirectum (per usare
+					della parola del detto Schrantio) si andassero ritirando et lievando di quelle
+					toleranze, le quali per inanti si erano permesse.</p>
+				<pb xml:id="P1_0000252"/>
+				<p>Et perciò che alla città di Gratz et altrove quando fu permesso che i nobili
+					potessero havere l’essercitio luterano,<note xml:id="FN1_00092_04"
+						type="footnote">Vgl. Nr. 14, Anm. 42.</note>non fu però permesso ch’essi
+					formassero, come fanno, falsi sacerdoti né che tirassero all’heresia et a
+					quell’essercitio i cittadini, i quali sono i proprii sudditi di S. A. Essa
+					mostrasse che quantunque voleva a’nobili tolerare le dette toleranze, nel modo
+					che giacevano scritte, nondimeno sentendo la disubidienza che da’ sudditi si
+					faceva contra S. A. et che non si erano astenuti dall’ingiurie contra catolici
+					(sì come nelle dette permissioni era specialmente espresso che si
+						astenessero),<note xml:id="FN1_00092_05" type="footnote"> Erzherzog Karl
+						erklärte den evangelischen Ständen auf dem Brucker Ausschußlandtag doch das
+						man sich auch gebürlich verhalte, das schmächen und lästern, wie es dann
+						durch eure prediger beschiecht, gäntzlich abschaffen, welches ich
+						meinesthails auch thuen will, worauf diese antworteten, dass sie bis daher
+						anders nicht gesuecht, gewünscht oder begert haben, denn dass ein beständige
+						guete rue und ainigkeit zwischen diesen baiden religionen angerichtet, also
+						dass sich die, so unser religion der Augspurgischen confession zuegethan
+						sein, von E. F. Dt. religionsverwandten kainer gefahr, widerwertigkeit oder
+						verfolgung zu besorgen, wie sie sich dargegen bei den unsrigen nit anders
+						als alles liebs und guets zu versehen gehabt und noch (Loserth,
+						Religionspacification, S. 90 f.). Vgl. Nr. 26, S. 98, Nr. 30, S. 109 f, und
+						Nr. 70. Hurter, Geschichte Kaiser Ferdinands I, S. 394 ff.</note>S. A.
+					voleva che le cose passassero pe’ i debiti termini, et che insieme i scolari del
+					paese non andassero ad altra academia o ad altre scuole <note
+						xml:id="FN1_00092_06" type="footnote">Siehe Nr. 18.</note>che a quelle, che
+					con tanta spesa si erano a questo fine per commodo de’ suoi stati edificate in
+					Gratz nel collegio della Compagnia di Giesù. <note xml:id="FN1_00092_07"
+						type="footnote">Vgl. Nr. 14, Anm. 35.</note>
+				</p>
+				<p>Che si andasse parimente a’ confini, dove si tengono i presidii contro il paese
+					del Turco, ponendo alcuno capitano et soldati catolici poiché, fin qui erano
+					tutti heretici, come coloro ch’erano posti da’ provinciali per essigere essi da’
+					popoli et dal clero il tributo, col quale quei presidii si sostengono,
+					computatoci quel che i medesimi nobili per la loro parte contribuiscono, il che
+					di 300 mila fiorini, che in tutto si essige può essere da 60 mila fiorini.<note
+						xml:id="FN1_00092_08" type="footnote">Vgl. Nr. 72, Anm. 3, und Nr. 74, Anm.
+						22 und 28.</note>
+				</p>
+				<p>Queste cose in tale modo segretamente col sig. arciduca Carlo ventilate, fu
+					concluso che sarebbe spediente di proporle al duca Alberto di Baviera, accioché
+					se n’ havesse il suo parere, et concorrendo nel medesimo si rendesse
+					(bisognando) più pronto ad aiutarne l’effetto, con che parimente il sig.
+					arciduca restasse più constante nell’essecu<pb xml:id="P1_0000253"/>tione.<note
+						xml:id="FN1_00092_09" type="footnote"> Im September 1578 war Schranz bei
+						Erzherzog Ferdinand in Innsbruck und im Oktober bei Herzog Albrecht in
+						München (Schellhass, Ninguarda II, S. 55—58).</note>Così essendo il duca
+					Alberto infermo, si tenne modo per non dar suspetto a’ provinciali della Stiria
+					etc. ch’egli invitasse il sig. arciduca colla figliuola a vederlo. Et così
+					andati, li trattarono col duca Guglielmo, ch’è adesso duca, et col cancelliere
+					del duca Alberto, significando il tutto al sig. arciduca Ferdinando questi
+					sopradetti disegni i quali furono in modo approbati che si giudicarono non meno
+					riuscibili che necessarii. <note xml:id="FN1_00092_10" type="footnote">Gemeint
+						ist die Münchner Konferenz vom 13. und 14. Oktober 1579. Herzog Albrecht war
+						bereits krank und starb am 24. Oktober; die Verhandlungen wurden daher von
+						Herzog Wilhelm und dem bayerischen Hofkanzler Christoph Elsenheymer geführt
+						(Goetz, Briefe und Akten 5, S. 884, Anm. 1; Loserth, FRA 11/50, S. 31—40;
+						Schellhass, Ninguarda II, S. 186).</note>Et questo tutto avvenne due anni
+					sono, con tanta segretezza, che non si odorò mai da’ provinciali della Stiria
+					alcuna di queste cose.</p>
+				<p>Però all’hora fu detto che sarebbe bene di accrescere alquanto la guardia del
+					sig. arciduca Carlo a poco a poco et porre alcuno maggiore numero di soldati nel
+					castello di Gratz, accioché S. A. stesse con maggiore dignità et auttorità
+					bisognandola usare.<note xml:id="FN1_00092_11" type="footnote">Loserth, FRA
+						II/50, S. 39.</note>
+				</p>
+				<p>Et si aggiunse che converrebbe molto che si mandasse un nuncio presso quel
+					signore da S. Stà per sostenerlo et aiutarlo, sì come poi fu fatto.<note
+						xml:id="FN1_00092_12" type="footnote">Siehe Nr. 1, Anm. 2.</note>
+				</p>
+				<p>Et che quando facessero i provinciali alcuna difficoltà, mostrando renitenza al
+					pagare il tributo pe’i confini, S. A. liberando i rustici dal giuramento et
+					suggettatione verso i nobili, i quali gli angariano, et sotto pretesto del
+					tributo riscuotono tre per uno, ritenendosi per loro gli altri due,
+					conseguirebbe maggiori forze et diminuirebbe quelle de’ provinciali. Et facendo
+					parimente S. A. che gli ecclesiastici non dessero a’ provinciali la parte del
+					loro tributo, come fatto havevano fino a quell’hora, non si sarebbe perduta se
+					non la contributione di detti provinciali per alcuno tempo, finché si
+					ammollissero. Nel quale tempo si sarebbono trovate alcune altre strade per
+					supplire intieramente a detti presidii, usando insieme del consiglio et (se
+					fusse stato bisogno) di qualche aiuto per uno o due anni da S. Stà.<note
+						xml:id="FN1_00092_13" type="footnote">Vgl. Nr. 90.</note>
+				</p>
+				<p>Or mentre queste cose si erano talmente concluse (perché anco a questo fine si
+					era fatto un consiglio secreto dalle cose della religione <pb
+						xml:id="P1_0000254"/>appresso il sig. arciduca Carlo) non mancò il d.
+					Schrantio, a nome di S. A., di conferire alcuna parte di questi disegni
+					all’imperatore, venendo a Praga, ritenendo però in segreto quel che se si fosse
+					saputo, havrebbe potuto nuocere al progresso della causa et negotio. Ma
+					l’imperatore per la sua indispositione, rimettendo questa trattatione al sig.
+					Traucen, questo, come vecchio et timido, disse al d. Schrantio che la cosa,
+					essendo di consideratione, ci si penserebbe et a lui et prima a S. A. se ne
+					scriverebbe poi a Gratz, sì come partitosi lo Schrantio si scrisse da poi in
+					alcuni termini generali, non improbando la cosa, ma non discendendosi allo
+					stringerne la conclusione. <note xml:id="FN1_00092_14" type="footnote"
+						>Vielleicht ist das Schreiben Rudolfs II. an Erzherzog Karl vom 21. November
+						1580 gemeint (Loserth, FRA II/50, S. 69 f.). G. Eder schrieb 1578 an Herzog
+						Albrecht, der von Trautson besorget immerzu, der Himmel werde einfallen
+						(Bibl, Die Einführung der katholischen Gegenreformation, S. 70, Anm. 1).
+						Vgl. Nr. 74, Anm. 12.</note>
+				</p>
+				<p>Dapoi si venne alla dieta del decembre del 1580, nella quale essendo passate le
+					cose, le quali V. S.Illma intese, il decreto fu promulgato in quella forma che
+					fu costà da mons. Germanico nuncio mandato a Roma,<note xml:id="FN1_00092_15"
+						type="footnote">Nr. 50.</note>circa il quale decreto passarono le cose
+					seguenti, le quali per ogni deliberatione che in ciò dovesse prendersi paiono
+					essere degne di sapersi, non havendone io prima potuto da altri sapere più certo
+					fundamento.</p>
+				<p>Il sig. Kobenzel, il quale non soleva da un pezzo in qua essere admesso al
+					consiglio segreto delle cose della religione dal sig. arciduca Carlo, fu
+					finalmente dapoi admesso, quando si trattò di venire a qualche esecutione delle
+					cose passate nella consulta di Baviera. Et questo fu il mese di dicembre
+					dell’anno passato o circa.<note xml:id="FN1_00092_16" type="footnote">Vgl. Nr.
+						37, S. 118, Nr. 40, S. 125 f, und Nr. 65, S. 186.</note>
+				</p>
+				<p>Però quei del consiglio segreto della religione si erano insieme col sig.
+					arciduca acordato che, quando avenisse che i provinciali o il Kobenzel
+					proponesse alcuna cosa, si rispondesse in modo ch’essi non potessero venire in
+					cognitione del partito preso da S. A., dicendosi o che si penserebbe alle
+					proposte o ch’erano degne di consideratione et che per questo il seguente giorno
+					risponderebbono accioché in questo mezo si havesse tempo di trattare a parte di
+					quel che converrebbe.</p>
+				<p>Et poiché furono proposte le querele degli ecclesiastici dall’una parte et
+					dall’altra quelle degli heretici,<note xml:id="FN1_00092_17" type="footnote"
+						>Siehe Nr. 44, S. 134 f, und Nr. 46, S. 138.</note>mentre il sig. arciduca
+					teneva pe ’l consiglio de’ segreti consiglieri catolici suspese le ditermi<pb
+						xml:id="P1_0000255"/>nationi, trattò insieme con gli altri (trovandocisi
+					presente il Kobenzel) che partito si doverebbe prendere, accioché si provedesse
+					alle dificoltà, che si offerivano in questo negocio. Et tutto ciò seguiva per
+					andare scuoprendo gli animi degli adversari et per facilitare il negocio.</p>
+				<p>Il Kobenzel, ch’era stato in un altro simile consiglio il giorno precedente, si
+					cavò dal seno inanti l’arciduca una scrittura, nella quale era la forma istessa
+					del decreto che si publicò, scritta di sua mano, aggiungendo assai francamente
+					che questa era la risposta che dava per la parte del suo parere. Et havendo S.
+					A. mostrato insieme con alcuni altri suoi fideli difficoltà di credere che tale
+					decreto potesse essere ricevuto da’ provinciali, il Kobenzel rispuose ch’era
+					sicurissimo che sarebbe ricevuto et che conosceva i provinciali etc.<note
+						xml:id="FN1_00092_18" type="footnote">Vgl. Nr. 49, S. 145.</note>
+				</p>
+				<p>Allhora pensandosi ch’il Kobenzel havesse di questa cosa trattato co i
+					provinciali, per essere stato sempre loro confidente, soggiunsero alcuni del
+					consiglio segreto catolico della religione che sarebbe bene che S. A., prima di
+					venire a questa risolutione, riconsiderasse il tutto et si ponderasse lo scritto
+					del Kobenzel, poiché in materia di un tale decreto conveniva andare molto
+					esatamente in ogni parola. Così notate o emendate alcune parole, il giorno
+					seguente si trattò della medesima materia con proporre le medesime difficoltà di
+					prima al Kobenzel, il quale colla medesima franchezza persuase che il decreto
+					sarebbe admesso da i detti provinciali.<note xml:id="FN1_00092_19"
+						type="footnote">Vgl. Nr. 52, S. 154.</note>
+				</p>
+				<p>Da questo nacque che S. A., la quale anco dal sig. nuncio era stimolata a
+					provedere alla ch’era seguita alle cose della religione,<note
+						xml:id="FN1_00092_20" type="footnote">Vgl. Nr. 46, S. 139.</note>lo fece
+					publicare. Il che si suscitarono i romori et fra provinciali della Stiria et
+					Carintia et qui alla corte, i quali romori si sanno. <note xml:id="FN1_00092_21"
+						type="footnote">Diesbezügliches Schreiben der steirischen evangelischen
+						Stände an die von Kärnten und Krain vom 24. Dezember 1580 (Loserth, FRA
+						II/50, S. 140).</note>
+				</p>
+				<p>Allhora vedutasi S. A. le debite preparationi et come ingannato dal parere del
+					Kobenzel, gli disse che già l’essito del negotio non succedeva, quale egli
+					haveva sì sicuramente promesso. Ma il Kobenzel rispuose che per questo non
+					doveva S. A. lasciare di andare inanti, assicurandosi che i provinciali cheche
+					si mostrassero renitenti finalmente ubidirebbono.</p>
+				<p>Tuttavia vedendosi risolute risposte de i provinciali et minaccia a S. A. di
+					ribellarsi et varii moti in tutto ’l paese, oltre l’havere conferito con quei di
+					Austria questo negotio, il sig. arciduca col consiglio <pb xml:id="P1_0000256"
+					/>segreto della religione giudicò ch’era necessario di suspendere il detto
+					decreto, sì come si fece. <note xml:id="FN1_00092_22" type="footnote">Vgl. Nr.
+						62.</note>
+				</p>
+				<p>Or il d. Schrantio soggiunse che il decreto della mano del Kobenzel era nelle sue
+					mani, cioè dello Schrantio, se bene dapoi il Kobenzel ha niegato di haverlo
+					fatto, et se bene dapoi ha fatto uno discorso contrario al detto decreto, il
+					quale io lessi, datomi da mons. Germanico nuncio. Et quel decreto era scritto di
+					mano del detto Kobenzel.</p>
+				<p>Et dimandando io onde poteva nascere ch’il Kobenzel si muovesse a dare la forma
+					di quel decreto, essendo egli per inanti stato in grande parte (come diceva lo
+					Schrantio) auttore et instrumento poiché molte toleranze fossero concedute a’
+					provinciali, mi rispuose lo Schrantio che o lo fece per cavare fuori la mente
+					de’ consiglieri segreti della religione per impedire il loro progresso, o (quel
+					che più gli pareva probabile) per rimettersi in gratia del sig. arciduca et di
+					S. Stà, havendo speranza o dubbio che la cosa riuscirebbe per l’essempio di
+					Vienna et per gli andamenti de’ principi, che di questo fatto haveva odorato. Et
+					insieme sapendo che il sig. nuncio haveva havuto licenza dal sig. arciduca di
+					poterlo inquirire nelle cose della fede,<note xml:id="FN1_00092_23"
+						type="footnote">Siehe Nr. 37, S. 118, und Nr. 40, S. 125 f.</note>il che a
+					lui dava pensiero assai molesto per dubbio di una grossa entrata, la quale su ’l
+					Padovano ha della commenda dell’ordine di Malta, perché non fosse ad altri
+					conferita. <note xml:id="FN1_00092_24" type="footnote">Es handelt sich um die
+						Deutschordenskommende Precenicco in Friaul. Vgl. Nr. 11, Anm. 6, und Nr.
+						20.</note>
+				</p>
+				<p>Dapoi io animando il detto sig. cancelliere Schrantio che non perciò si rimanesse
+					di promuovere il negotio della religione per quei mezi che prima, cioè inanti il
+					decreto, si erano deliberati, mi disse che farebbe quanto potrebbe, se bene
+					sempre mostrò ch’il consiglio preso di fare quel decreto era stato la ruina del
+					negocio, et di più mi conferì come si era trattato fra quei principi catolici et
+					l’arcivescovo di Salzburg di fare una lega insieme, ma non volevano admettere il
+					sig. arciduca Carlo per ’l dubbio di porsi a rischio di troppo grande spesa,
+					invadendo il Turco quei confini, quando o per sé o invitato dagli heretici, lo
+						facesse.<note xml:id="FN1_00092_25" type="footnote">Von Rom wurde dagegen
+						wiederholt auf die Hilfsbereitschaft dieser Fürsten verwiesen: Siehe z. B.
+						Nr. 79, S. 217, und Nr. 93, S. 258.</note>
+				</p>
+				<p>Mi disse di più che andava in volta a’ principi per trattare l’elettione di un re
+					di Romani, atteso il presente stato dell’imperio.<note xml:id="FN1_00092_26"
+						type="footnote">Siehe Nr. 74, Anm. 8 und 15, und Nr. 85, Anm. 4.</note>
+				</p>
+				<pb xml:id="P1_0000257"/>
+				<p>Et io dimandato gli pareri che cosa penserebbe riuscibile ch’io trattassi
+					coll’imperatore per conto della religione nella Stiria et Carintia, atteso
+					l’ordine ch’io n’havevo in un memoriale, per mezo del sig. nuntio Germanico, mi
+					disse che niuna cosa sarebbe migliore che persuadergli che si facesse una lega
+					come quella di alcuni altri principi già fatta in Lantsperga, et approvò molto
+					che da N. S. si trattasse all’arcivescovo di Salzburgo, ciò che per le mie di
+					Gratz scrissi a V. S. Illma,<note xml:id="FN1_00092_27" type="footnote">Nr. 85,
+						S. 234 f.</note>et oltre ciò, mi promise che farebbe ogni sforzo perché si
+					seguissero l’esecutioni proposte nella consulta di Baviera.</p>
+				<p>f 86r (Postscriptum zu Bericht Possevinos vom 16. Mai aus Prag):</p>
+				<p>Io mando a V. S. Illma un ragionamento fattomi in Vienna dallo Schrantio, ch’è
+					gran cancelliere dell’arciduca Carlo, il quale Schrantio mi venne a trovare in
+					Vienna. Et se bene V. S. Illma dal vescovo di Gurg havrà forse inteso molte
+					cose, non nucerà però di conferirle con questa rilatione, per non gettar i
+					denari o altro.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

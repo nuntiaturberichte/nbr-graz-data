@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00130">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-12-06" n="2">1581-12-06</title>
+                <title level="a">130. Malaspina an Gallio - Graz, 1581 Dezember 6</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 362r—364r, Orig.<lb/>Ebenda f.
+                            365r—367r, Duplikat.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00130">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-12-06" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00129.xml"
+                        >129. (Graz, 1581 vor Dezember 6)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00131.xml">131.
+                        Gallio an Malaspina - Rom, 1581 Dezember 9</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00127.xml">127. Gallio an Malaspina -
+                        Rom, 1581 November 11</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00131.xml">131. Gallio an Malaspina -
+                        Rom, 1581 Dezember 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Übereinstimmung mit Räten über Durchführung des Religionsdekretes. Verpflichtung
+                    Erzherzog Karls im Gewissensbereich für das Religionsgeschäft anläßlich
+                    bevorstehender Weihnachtsbeichte. Klage Hoffmanns und anderer häretischer
+                    adeliger Patronatsherren auf dem Landtag gegen Erzherzog Karl wegen Wegnahme der
+                    Pfarren. Einigkeit und gute Haltung der seit langer Zeit zum ersten Male wieder
+                    im geistlichen Kleid am Landtag erschienenen Prälaten. Baldige Fortsetzung der
+                    Visitation in Kärnten, Krain und Görz. Rückkehr des Uditore aus Venedig mit
+                    Geld.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="130">Malaspina an Gallio - Graz, 1581 Dezember 6</head>
+            <div>
+                <p>Io inanzi la dieta diedi un scritto, che sarà con questa mia, a S. A., nel quale
+                    con ragioni vere, s’io non m’inganno, provo sofficientemente che di presente
+                    sono tolte tutte le difficoltà et impedimenti che la ritennero ne la dieta
+                    passata a non far l’essecutione del decreto publicato.<note
+                        xml:id="FN1_00130_01" type="footnote">Nr. 128.</note>Et li consiglieri, per
+                    Dio gratia, hanno confessato che è verissimo quello che io dico et, essendosi
+                    non senza gran fatica superate, come si suol dire, a palmo a palmo molte
+                    difficoltà et ridotto il negotio<pb xml:id="P1_0000358"/> a tal termine che,
+                    come V. S. Ilma havrà veduto da le lettere mie già scritte, certo si intende
+                    quello che questi consiglieri dicono, consultano et risolvono circa il stato
+                    politico et spirituale di queste provincie, non può se non far giudicio esser
+                    cosa impossibile che non siano per tentare ogni mezo, acciò il miserabil
+                    pronostico, clic loro stessi si augurano, non li sopraggiunga. Con tutto ciò, se
+                    ben pare che li sopradetti rispetti siano così sofficienti che deverebbono farmi
+                    vivere senza sollecitudine, nondimeno, toccando con mano la mutabilità di questi
+                    humori, sono andato pensando come mi potrei assicurare fermamente, che hora,
+                    essendo il negotio stato tanto ventilato, fossero permutare le consultationi et
+                    risolutioni fatte.<note xml:id="FN1_00130_02" type="footnote"> Vgl. Nr.
+                        123.</note>
+                </p>
+                <p>Per il che, essendo costume di S. A. di confessarsi et communicarsi ne la sma
+                    festività del Natale,<note xml:id="FN1_00130_03" type="footnote">Vgl. Nr. 59, S.
+                        172.</note>io ho tenuto modo di far nascer desiderio al principe d’intendere
+                    il parer mio circa il stato de la conscienza sua quanto a quello che spetta al
+                    negotio de la religione, et essendosi ottenuto ciò che si desiderava, ho dato il
+                    scritto che sarà con questa mia, <note xml:id="FN1_00130_04" type="footnote">Nr.
+                        129.</note>al provinciale de’ Gesuiti, suo confessore; et per ancora non ho
+                    havuto risposta alcuna. <note xml:id="FN1_00130_05" type="footnote">Am 6.
+                        Dezember war der Jesuitenprovinzial P. Blyssem bereits in Graz (Rom
+                        Generalarchiv der Jesuiten, Germania 159, f. 211r—212v).</note>Desidero
+                    grandemente che il senso et parer mio non sia reprovato da V. S. Illma, sì come
+                    qua da li padri et altri confidenti non solo non è stato, ma non hanno voluto
+                    mutare sillaba,<note xml:id="FN1_00130_06" type="footnote"> Siehe Nr. 134, S.
+                        363.</note>se bene li ho pregati che lo volessero se nel scritto era cosa
+                    che li offendesse accommodare. Hora se S. A., cosa che non voglio persuadermi,
+                    non ostante questo non starà ferma et salda, conforme alle promesse, io, quanto
+                    a me, confessarò ben alhora che da la mia tenue officina non può uscire ricordi
+                    né rimedii, che mi siano per parere né a proposito né sofficienti.</p>
+                <p>Il stato de la dieta, quanto a la religione, è questo : l’Hoffmam con quattro
+                    altri nobili, a’ quali sono state tolte le parochie che si usurpavano, hanno
+                    havuto ricorso da la provincia, facendo instantia che piglino il loro
+                        patrocinio,<note xml:id="FN1_00130_07" type="footnote">Vgl. Nr. 88, Anm. 13,
+                        und Nr. 108, Anm. 9.</note>che se bene le querele contra il principe sono
+                    personali non publiche, nondimeno l’interesse loro è subordinato al publico,
+                    poiché il principe è per far il medesimo con tutti, perché non procede come con
+                    privati solamente, ma come membri tanto <pb xml:id="P1_0000359"/>principali del
+                    publico; insin’hora la provincia non si è dichiarata se vuol incorporare le loro
+                    pretensioni con le publiche.</p>
+                <p>Li prelati stanno uniti et ben animati et pur si vede che, non ostante la riforma
+                    batezzata così austera da tutti, non si sono alienati da la persona mia,<note
+                        xml:id="FN1_00130_08" type="footnote">Vgl. dagegen Nr. 121, Anm.
+                    3.</note>che forse qua si aspettava con desiderio. Non voglio lassar di far
+                    sapere a V. S. Illma una cosa che è passata nel principio de la dieta, che in
+                    verità penso che non sia stato senza misterio. Essendo comparsi tutti li
+                    prelati, vestiti nel’habito conforme a la regola, un nobile nonagenario,
+                    heretico, vedendoli disse : „Questo è, o prelati, il vostro vero habito et io mi
+                    ricordo d’haver veduti li vostri antecessori nel’istesso.“ Alhora l’abbate di S.
+                    Lamberto li rispose: „Signori, noi sentiamo consolatione che a voi piacerà
+                    l’abito, che hora portiamo, et si ricordamo ancor noi d’haver inteso dire che
+                    quando li nostri antecessori portavano questi habiti, che voi altri
+                    frequentavate le nostre chiese; però hora che, con la gratia di Dio, habbiamo
+                    non solo mutato habito, ma ancora costumi, et vogliamo essere simili a’ nostri
+                    passati, voi ancora fate il medesimo et imitate li vostri vecchi.“ <note
+                        xml:id="FN1_00130_09" type="footnote">Vgl. Nr. 117, S. 322, und Nr. 126, S.
+                        346.</note>
+                </p>
+                <p>Ho sentito grandissima consolatione d’intendere per le lettere di V. S. Illma che
+                    a S. Stà sia piacciuto il frutto, che si va facendo nela visita,<note
+                        xml:id="FN1_00130_10" type="footnote">Siehe Nr. 125, S. 344.</note>et io
+                    seguiterò allegramente. Ho scritto a li vescovi che mi mandino inscritto il
+                    stato de le loro diocesi, et ho publicata la visita in Carintia, con animo di
+                    seguitare poi nela Carniola et Goritia et, finita la visita, piacendo al Signore
+                    penso di far un sinodo qui in Gratz <note xml:id="FN1_00130_11" type="footnote"
+                        >Siehe Nr. 157, S. 412.</note>et cercare forma di ritrovar remedii
+                    conservativi, accioché il residuo del’ infirmità, che fosse ne la convalescentia
+                    così subita è restata ne li corpi de’ ecclesiastici et regolari, sia tolta via
+                    con una buona forma et regola di vivere, che li servi per sempre. Et spero che,
+                    erigendosi qua il consiglio ecclesiastico circa che de la volontà di S. A. son
+                    certo, che sarà mezo buono per mantenere la riforma. Come l’opera habbia tutti
+                    li suoi colori et sia ridotta a qualche perfettione, io spero che lei stessa
+                    interpellarà per me appresso S. Bne, in modo che saranno sollevate le spese, che
+                    ho fatte et sono per fare, poiché sì come per consigli d’altri et per
+                    urgentissime cause più tosto che per elettione ho publicato la forma che volevo
+                    tenere nel visitare la Stiria, così si giudica non espediente il mutar
+                    l’instituto <pb xml:id="P1_0000360"/>nel visitare le altre provincie. Baccio
+                    humilmente le mani a V. S. Illma per l’officio, che in questo proposito si è
+                    compiacciuta fare a mio beneficio.</p>
+                <p>È tornato il mio auditore et quell’altro mio familiare da Vinetia et ha portato
+                    li danari.<note xml:id="FN1_00130_12" type="footnote">Siehe Nr. 123, S.
+                        340.</note>Et perché non intendo né molto né poco la perdita né guadagno,
+                    che si suole fare in simil materia, io mando le lettere et altri scritti de li
+                    mercanti di Vinetia, accioché siano veduti et mi sia ordinato come mi devrò
+                    governare, se per sorte verrà occasione di valersi d’altra somma...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

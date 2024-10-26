@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00302">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1594-10-15" n="2">1594-10-15</title>
+                <title level="a">302. Aldobrandini an Portia - Rom, 1594 Oktober 15</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+                                Heinz</persName>
+                            <persName>Rainer Christian</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+                            Kobenzl; 1592-1595</title>
+                        <idno type="ISBN">3-7001-2964-5</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2001</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturinstitut
+                                    in Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="3">3. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="484">484 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturinstitut in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. F. Borg. III, vol. 48bb, fol. 42r—43v,
+                            Kopie.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L3_00302">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1594-10-15" n="2"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L3_00301.xml"
+                        >301. Klemens VIII. an Ehzg Maximilian - Rom, 1594 Oktober 15</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L3_00303.xml">303.
+                        Aldobrandini an Portia - Rom, 1594 Oktober 22</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00300.xml">300. Aldobrandini an
+                        Portia - Rom, 1594 Oktober 8</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00303.xml">303. Aldobrandini an
+                        Portia - Rom, 1594 Oktober 22</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Besondere Vorsicht wegen Pestgefahr geboten. Vereinigung der Klöster Stein und
+                    Petershausen. Gründung eines Jesuitenkollegs in Konstanz. Durchführung der von
+                    Gregor XIII. befohlenen Union von zwei Nonnenklöstern. Unterstützung des
+                    Kardinals von Lothringen für Straßburg.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="302">Aldobrandini an Portia - Rom, 1594 Oktober 15</head>
+            <div>
+                <p>La stagione doverà hormai assicurar V. S. dalli sospetti della peste, la quale
+                    mentre si fa sentire in cotesti contorni doverà insegnare a lei d’haver buona
+                    cura et d’assicurare anco gli pieghi che invia qua, legandoli con filo di rame
+                    et segnandoli con la cera di Spagna.</p>
+                <p>Dall’inclusa copia di lettera del sig. cardinale Madrucci vedrà ella ciò che
+                    ricerca il sig. cardinale d’Austria intorno al rivedere i conti a quell’abbate
+                    prima che si proceda all’unione delli due monasteri di Stain et di Peterschusen
+                    a che V. S. attenderà nella forma appunto che si contiene in essa lettera.<note
+                        xml:id="FN3_00302_01" type="footnote">Schreiben Madruzzos bezüglich Union
+                        der Klöster in Stein und in Petershausen nicht vorhanden.</note>
+                </p>
+                <p>Sì come in questa amplissima diocese si tiene per molto utile et molto necessario
+                    la fondatione di un collegio de padri, così N. S. l’aiuterà in tutti modi, né
+                    ricuserà di applicarvi a la chiesa di S. Giovanni, o altra che sarà giudicata
+                    conveniente, purché il sig. cardinale se ne contenti, né si dia ad altri giusta
+                    causa di lamentarsi. Attenda V. S. a facilitare il negotio per le<pb
+                        xml:id="P3_0000381"/> altre parti con la sua solita diligenza, avisando di
+                    mano in mano quel che giudicarà convenire. <note xml:id="FN3_00302_02"
+                        type="footnote">Siehe Nr. 77, 305; Breve betreffs Sendung Portias nach
+                        Konstanz vom 9. September 1594: Arch. Vat., Epp. ad Principes vol. 25, f.
+                        454r—455v.</note>
+                </p>
+                <p>Poiché si è ritrovata la bolla di Gregorio XIII che comanda l’unione di quei due
+                    monasteri di monache, V. S. potrà farla esseguire senz’altro, deputando
+                    essecutori in luoco de morti quelli che a lei pareranno più idonei et saranno
+                    anco agli altri di più sodisfattione.<note xml:id="FN3_00302_03" type="footnote"
+                        >Vgl. Nr. 322.</note>
+                </p>
+                <p>Con la occasione della sua vicinanza ad Argentina potrà di ciò che andarà
+                    intendendo dar parte al sig. cardinale di Lorena, animandolo di non abbandonare
+                    la cura di chiesa così nobile, raccomandatagli da Dio et dal giuditio di
+                        buoni.<note xml:id="FN3_00302_04" type="footnote">Siehe Nr. 310.
+                        Diesbezügliche Breven an Kardinal Karl von Lothringen, die Bischöfe von
+                        Basel und Konstanz sowie das Konstanzer Domkapitel: Mrikonjic, Epistolae
+                        11229, 11232, 11233, jeweils vom 9. September 1594.</note>Et però starà ella
+                    avvertita alle pratiche che si scrivono dell’elettore Palatino, del duca di
+                    Wirtimberg et del marchese Ernesto di Bada per poterne avisare esso sig.
+                    cardinale in tempo; il quale, poiché il duca suo padre è di presente meno
+                    occupato nelle cose di Francia, potrà per aventura mostrare la fronte più ardita
+                    a suoi nimici . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

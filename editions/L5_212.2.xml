@@ -1,222 +1,234 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_212.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-04-16" cert="low" n="2">vermutlich
-                        1601-04-16</title>
-                    <title level="a">212.2. (Portia an Aldobrandini) - (Graz, 1601 April 16)</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 32r–v, Kop. <note xml:id="FN5_212.2_1" type="footnote">Kopie eines nicht
-									auf.findbaren Berichtes an San Giorgio.</note>
-							</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilagen: fol. 33r–34r, Copia litterarum Mehemet Aga ad Ducem Mercurii,
-						quibus<lb/>eum rogat, ut pacis ineundae bonus esse velit promotor idque
-						rogare se di-<lb/>cit, non quod dif.fidat suis, vel Imperatoris sui viribus,
-						sed ut popolus inno-<lb/>cens tandem liberetur a divexationibus et
-						depredationibs militum. 10. Feb-<lb/>ruarii. Anno secundum computum nostrum
-						millesimo nono.<lb/>fol. 39r, Copia di lettera scritta dal Generale d’Ibraim
-						Bassa all’Arciduca<lb/>Ferdinando sopra ’l trattato di pace, Alba Greca,
-						1009 März 16.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_212.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775" cert="low">Portia,
-                            Girolamo</persName>
-                        <date when="1601-04-16" n="2" cert="low"/>
-                        <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707" cert="low">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_212.1.xml">212.1. Portia an Aldobrandini - Graz, 1601 April 16</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_213.1.xml">213.1. Aldobrandini an Portia - Rom, 1601 April 17</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_212.1.xml">212.1. Portia an
-                            Aldobrandini - Graz, 1601 April 16</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_213.1.xml">213.1. Aldobrandini an
-                            Portia - Rom, 1601 April 17</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Da Jakob von Breuner noch nicht vom Kaiserhof zurückgekehrt ist und man keine
-						Anweisungen vom Kaiser erhalten hat, verzögert sich der Aufmarsch an den
-						Grenzen Innerösterreichs. Die Türken haben sich bereits den Übergang von
-						Kanizsa über die Drau nach Slawonien gesichert, was eine direkte Gefahr fiir
-						Warasdin/Varazdin darstellt. In Folge mangelhafter Überwachung konnte der
-						Botschafter des Wesirs Damad Ibrahim Pascha bis Marburg/Maribor gelangen. Er
-						wird nun in Warasdin/Varazdin entsprechenden Verhören unterzogen werden, um
-						seine Absichten in Erfahrung zu bringen. Die Kopie eines Schreibens des
-						Mehmet Aga an den Herzog von Mercœur [Philippe-Emmanuel] bezüglich eines
-						Friedensschlusses wird beigelegt. Die Erzherzöge hoffen noch auf eine Lösung
-						hinsichtlich des Stiftes Murbach.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="212.2">[Portia an Aldobrandini] - [Graz, 1601 April 16]</head>
-				<div>
-					<pb xml:id="P5_0000478"/>
-					<p>Il Baron Prainer, Maresciale et Consigliere segreto di quest’Arciduca, non
-						essendo sin hora ritornato di Corte Cesarea, né sapendosi tampoco ciò che ’l
-						Consiglio di S. M.tà habbia deliberato attorno le cose della guerra<note xml:id="FN5_212.2_02" type="footnote">Im Bericht des venezianischen
-							Botschafters am Kaiserhof, Pietro Duodo, an den Dogen vom 16. April 1601
-							erfährt man, dass Jakob von Breuner mit folgenden Zugeständnissen des
-							Kaisers abgereist war: … Ha avuto da S. M.tà per l’Arciduca 10000
-							talleri del contado di Tirolo e certi Iuri, li quali ella ha in Svevia,
-							con facoltà di poterli vendere, da quali S. A. potrà cavar qualche somma
-							di denari .: Duodo an Grimani, Prag, 1601 April 16, HHStA, Dispacci di
-							Germania 31, S. 38–46, hier S. 40. Vgl. Nr. 214.1.</note> et l’uscita di
-						S. A., è cagione che qui non si vegga per ancora apparecchio alcuno
-						apparente et che ’l Prencipe resti sospeso, né sappia a che dare
-						cominciamento, se ben nel resto non si vede punto scostato dal desiderio di
-						farsi vedere in Campagna, anzi che con occasione lo tengo io di maniera
-						inanimito alla gloria et alla difesa de suoi stati che arde di voglia di
-						tentare qualch’impresa, et se l’Imperatore non lo trattiene et che li aiuti
-						non gli manchino, tengo che senz’altro n’habbia a seguire l’effetto, il
-						quale tanto maggiormente dovrebbe accelerarsi quanto che il Turco per
-						assicurarsi passaggio da Canisa in Schiavonia s’intende c’habbia piantato
-						hormai un Forte su la sponda del Dravo et che all’incontro dall’altro canto
-						del fiume edifichi il secondo per guardare ch’il ponte gettato a mezo non
-						venga offeso né distrutto da nostri, disegnando egli per le congetture che
-						s’hanno di spingersi sopra la fortezza di Coprainiz, luoco puoco lontano dal
-						Dravo et dalla Piazza di Varasdino residenza del Generale di Schiavonia<note xml:id="FN5_212.2_03" type="footnote">Hans Sigmund von Herberstein: vgl.
-							Nr. 72.1.</note>, che per l’opportunità del passo vien stimata di molta
-						importanza et qui si teme grandemente di perderla, massime scuoprendosi
-						l’inimico forte senza speranza di potergli resistere, non essendo la
-						fortezza molto munita né havendosi forze da uscir fuori a combatterlo.</p>
-					<p>L’Ambasciatore del Visir Ibraim inviato a questa volta gionse ultimamente per
-						puoca accuratezza de Ministri del Generale di Schiavonia sino a Morpurg,
-						Terra discosta di qua tre poste, il che essendosi inteso non si permise che
-						passasse più oltre<note xml:id="FN5_212.2_04" type="footnote">Vgl. Nr.
-							210.2.</note>, ma subito si diede ordine che fosse menato et<pb xml:id="P5_0000479"/> condotto in Varasdino, dove si è data commissione
-						che debba esser essaminato, et intesa minutamente la cagione della sua
-						venuta, havendosi trattanto ch’egli porti presenti all’Arciduca et al
-						Generale sodetto, che si sospetta essere inventione Turchesca per spiare et
-						scuoprire più a pieno l’essere di questo paese, massimo dando di ciò chiaro
-						inditio l’esser egli possessore di molti linguaggi et il saper dare
-						minutissimo conto del numero delle genti, de Capitani et delle compagnie che
-						l’anno adietro si truovorono in Campo sotto il Sig. Duca di Mercurio per
-						soccorrer Canisa, anzi alcuni vogliono ch’egli sia di natione Francese, il
-						che se sarà vero lo chiarirà tosto l’essame che si deve tenere di lui et se
-						ne darà conto a V. S. Ill.ma, alla quale in questo mezo invio aggionta copia
-						della lettera che scrive Mehemt Aga<note xml:id="FN5_212.2_05" type="footnote">Nicht identi.fiziert.</note> in proposito di pace al
-						Sig. Duca di Mercurio<note xml:id="FN5_212.2_06" type="footnote">Beilagen
-							dieser Nr.</note>.</p>
-					<p>Questi Prencipi tengono tuttavia prattica in Alsatia per l’Abbatia di Murbach
-						con speranza potendosi effettuare cos’alcuna d’haver il favore di N. S., ma
-						se l’elettione dell’Abbate viene approvata per canonica, come io riferirò
-						alle loro A. A.<note xml:id="FN5_212.2_07" type="footnote">Zur Abtwahl: vgl.
-							Nr. 185.1.</note>, bisognerà che si levino affatto dal pensiero et che
-						in altre occorrenze s’aiutino et cerchino d’esser aiutate dall’Imperatore
-						con più affetto che non è seguito nelle vacanze passate …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_212.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-04-16" cert="low" n="2">vermutlich
+                    1601-04-16</title>
+                <title level="a">212.2. (Portia an Aldobrandini) - (Graz, 1601 April 16)</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 32r–v, Kop. <note
+                                xml:id="FN5_212.2_01" type="footnote">Kopie eines nicht auffindbaren
+                                Berichtes an San Giorgio.</note>
+                        </collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilagen: fol. 33r–34r, Copia litterarum Mehemet Aga ad Ducem Mercurii,
+                        quibus<lb/>eum rogat, ut pacis ineundae bonus esse velit promotor idque
+                        rogare se di-<lb/>cit, non quod dif.fidat suis, vel Imperatoris sui viribus,
+                        sed ut popolus inno-<lb/>cens tandem liberetur a divexationibus et
+                        depredationibs militum. 10. Feb-<lb/>ruarii. Anno secundum computum nostrum
+                        millesimo nono.<lb/>fol. 39r, Copia di lettera scritta dal Generale d’Ibraim
+                        Bassa all’Arciduca<lb/>Ferdinando sopra ’l trattato di pace, Alba Greca,
+                        1009 März 16.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_212.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775" cert="low">Portia,
+                        Girolamo</persName>
+                    <date when="1601-04-16" n="2" cert="low"/>
+                    <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707" cert="low">Aldobrandini,
+                        Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_212.1.xml"
+                        >212.1. Portia an Aldobrandini - Graz, 1601 April 16</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_213.1.xml">213.1.
+                        Aldobrandini an Portia - Rom, 1601 April 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_212.1.xml">212.1. Portia an
+                        Aldobrandini - Graz, 1601 April 16</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_213.1.xml">213.1. Aldobrandini an
+                        Portia - Rom, 1601 April 17</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Da Jakob von Breuner noch nicht vom Kaiserhof zurückgekehrt ist und man keine
+                    Anweisungen vom Kaiser erhalten hat, verzögert sich der Aufmarsch an den Grenzen
+                    Innerösterreichs. Die Türken haben sich bereits den Übergang von Kanizsa über
+                    die Drau nach Slawonien gesichert, was eine direkte Gefahr fiir
+                    Warasdin/Varazdin darstellt. In Folge mangelhafter Überwachung konnte der
+                    Botschafter des Wesirs Damad Ibrahim Pascha bis Marburg/Maribor gelangen. Er
+                    wird nun in Warasdin/Varazdin entsprechenden Verhören unterzogen werden, um
+                    seine Absichten in Erfahrung zu bringen. Die Kopie eines Schreibens des Mehmet
+                    Aga an den Herzog von Mercœur [Philippe-Emmanuel] bezüglich eines
+                    Friedensschlusses wird beigelegt. Die Erzherzöge hoffen noch auf eine Lösung
+                    hinsichtlich des Stiftes Murbach.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="212.2">[Portia an Aldobrandini] - [Graz, 1601 April 16]</head>
+            <div>
+                <pb xml:id="P5_0000478"/>
+                <p>Il Baron Prainer, Maresciale et Consigliere segreto di quest’Arciduca, non
+                    essendo sin hora ritornato di Corte Cesarea, né sapendosi tampoco ciò che ’l
+                    Consiglio di S. M.tà habbia deliberato attorno le cose della guerra<note
+                        xml:id="FN5_212.2_02" type="footnote">Im Bericht des venezianischen
+                        Botschafters am Kaiserhof, Pietro Duodo, an den Dogen vom 16. April 1601
+                        erfährt man, dass Jakob von Breuner mit folgenden Zugeständnissen des
+                        Kaisers abgereist war: … Ha avuto da S. M.tà per l’Arciduca 10000 talleri
+                        del contado di Tirolo e certi Iuri, li quali ella ha in Svevia, con facoltà
+                        di poterli vendere, da quali S. A. potrà cavar qualche somma di denari .:
+                        Duodo an Grimani, Prag, 1601 April 16, HHStA, Dispacci di Germania 31, S.
+                        38–46, hier S. 40. Vgl. Nr. 214.1.</note>et l’uscita di S. A., è cagione che
+                    qui non si vegga per ancora apparecchio alcuno apparente et che ’l Prencipe
+                    resti sospeso, né sappia a che dare cominciamento, se ben nel resto non si vede
+                    punto scostato dal desiderio di farsi vedere in Campagna, anzi che con occasione
+                    lo tengo io di maniera inanimito alla gloria et alla difesa de suoi stati che
+                    arde di voglia di tentare qualch’impresa, et se l’Imperatore non lo trattiene et
+                    che li aiuti non gli manchino, tengo che senz’altro n’habbia a seguire
+                    l’effetto, il quale tanto maggiormente dovrebbe accelerarsi quanto che il Turco
+                    per assicurarsi passaggio da Canisa in Schiavonia s’intende c’habbia piantato
+                    hormai un Forte su la sponda del Dravo et che all’incontro dall’altro canto del
+                    fiume edifichi il secondo per guardare ch’il ponte gettato a mezo non venga
+                    offeso né distrutto da nostri, disegnando egli per le congetture che s’hanno di
+                    spingersi sopra la fortezza di Coprainiz, luoco puoco lontano dal Dravo et dalla
+                    Piazza di Varasdino residenza del Generale di Schiavonia <note
+                        xml:id="FN5_212.2_03" type="footnote">Hans Sigmund von Herberstein: vgl. Nr.
+                        72.1.</note>, che per l’opportunità del passo vien stimata di molta
+                    importanza et qui si teme grandemente di perderla, massime scuoprendosi
+                    l’inimico forte senza speranza di potergli resistere, non essendo la fortezza
+                    molto munita né havendosi forze da uscir fuori a combatterlo.</p>
+                <p>L’Ambasciatore del Visir Ibraim inviato a questa volta gionse ultimamente per
+                    puoca accuratezza de Ministri del Generale di Schiavonia sino a Morpurg, Terra
+                    discosta di qua tre poste, il che essendosi inteso non si permise che passasse
+                    più oltre<note xml:id="FN5_212.2_04" type="footnote">Vgl. Nr. 210.2.</note>, ma
+                    subito si diede ordine che fosse menato et <pb xml:id="P5_0000479"/>condotto in
+                    Varasdino, dove si è data commissione che debba esser essaminato, et intesa
+                    minutamente la cagione della sua venuta, havendosi trattanto ch’egli porti
+                    presenti all’Arciduca et al Generale sodetto, che si sospetta essere inventione
+                    Turchesca per spiare et scuoprire più a pieno l’essere di questo paese, massimo
+                    dando di ciò chiaro inditio l’esser egli possessore di molti linguaggi et il
+                    saper dare minutissimo conto del numero delle genti, de Capitani et delle
+                    compagnie che l’anno adietro si truovorono in Campo sotto il Sig. Duca di
+                    Mercurio per soccorrer Canisa, anzi alcuni vogliono ch’egli sia di natione
+                    Francese, il che se sarà vero lo chiarirà tosto l’essame che si deve tenere di
+                    lui et se ne darà conto a V. S. Ill.ma, alla quale in questo mezo invio aggionta
+                    copia della lettera che scrive Mehemt Aga <note xml:id="FN5_212.2_05"
+                        type="footnote">Nicht identi.fiziert.</note>in proposito di pace al Sig.
+                    Duca di Mercurio<note xml:id="FN5_212.2_06" type="footnote"> Beilagen dieser
+                        Nr.</note>.</p>
+                <p>Questi Prencipi tengono tuttavia prattica in Alsatia per l’Abbatia di Murbach con
+                    speranza potendosi effettuare cos’alcuna d’haver il favore di N. S., ma se
+                    l’elettione dell’Abbate viene approvata per canonica, come io riferirò alle loro
+                    A. A.<note xml:id="FN5_212.2_07" type="footnote">Zur Abtwahl: vgl. Nr.
+                        185.1.</note>, bisognerà che si levino affatto dal pensiero et che in altre
+                    occorrenze s’aiutino et cerchino d’esser aiutate dall’Imperatore con più affetto
+                    che non è seguito nelle vacanze passate …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

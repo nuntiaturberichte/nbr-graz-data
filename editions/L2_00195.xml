@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00195">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-08-09" cert="low" n="2">vermutlich
+                    1584-08-09</title>
+                <title level="a">195. (zu 1584 August 9)</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 233rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00195">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1584-08-09" n="2" cert="low"/>
+                </correspAction>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00194.xml"
+                        >194. Malaspina an Gallio - Seckau, 1584 August 9</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00196.xml">196.
+                        Gallio an Malaspina - Rom, 1584 August 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Zusammenfassender Bericht Malaspinas über die in Innsbruck stattgefundenen
+                    Beratungen Erzherzog Karls mit Erzherzog Ferdinand und Herzog Wilhelm.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="195">(Zu 1584 August 9)<note xml:id="FN2_00195_01" type="footnote">Das Datum
+                    dieses Berichtes über die im Juni 1584 stattgefundenen Beratungen ergibt sich
+                    aus Nr. 194.</note>
+            </head>
+            <div>
+                <p>Punti principali che si contengono nel scritto del ser.mo arciduca
+                    Ferdinando:</p>
+                <p>Che ragionevolmente si deve far molto fondamento che li nobili non negano le
+                    contributioni, ma questo non deve adormentare punto l’arciduca suo fratello<note
+                        xml:id="FN2_00195_02" type="footnote">Erzherzog Karl.</note>circa il vivere
+                    con sollicitudine, perché de le prattiche de gl’heretici non si può niuno
+                    fidare; et che egli suspica et non senza ragione che li nobili non sono
+                    realmente acquietati et che senza dubio ritrovaranno persone che li aiutaranno
+                    con consigli pernitiosi et con altro etc. Che perciò è molto necessario che S.
+                    A. procedi con piedi di piombo et non dia di dente al pomo acerbo più di quello
+                    che habbi fatto senza pensarci et consultarsi bene. Che due cose sono sopra
+                    tutte necessarie: La prima è che S. A. faccia lei quello che può da la sua
+                    parte; secondo che procuri d’essere aiutata da altri. Circa il primo che con
+                    ogni studio et sollicitudine procuri di levare li generali et capitani heretici
+                    et altri più precipui soldati da li confini <note xml:id="FN2_00195_03"
+                        type="footnote">Vgl. Nr. 127, Anm. 3.</note>et a quei carichi promovi
+                    cattolici et offerisce persone qualificate. Che espurghi totalmente la corte et
+                    li consigli da heretici<note xml:id="FN2_00195_04" type="footnote"> Vgl. oben
+                        Nr. 36, Anm. 7, 10, 12.</note>come dice d’haver inteso che fa con molta sua
+                    consolatione. Terzo che di Baviera et di Tirolo <pb xml:id="P2_0000301"/>procuri
+                    d’haver alcuni artegiani ricchi, quali siano tali che possino succedere in loco
+                    di coloro che perseveranno ne la disobedientia et promette a questo effetto
+                    persone atte, le quali dice che verranno molto volentieri con la speranza
+                    d’essere promossi da artegiani a cittadini.<note xml:id="FN2_00195_05"
+                        type="footnote"> Ähnliches, nämlich die Ansiedlung von Handwerkern aus Görz,
+                        hat bereits Herzog Wilhelm im Herbst 1582 Erzherzog Karl empfohlen (Nr.
+                        36).</note>Quanto al secondo punto de gl’aiuti d’altri dice d’haver letto
+                    con sua sodisfattione le offerte di S. S.tà<note xml:id="FN2_00195_06"
+                        type="footnote"> Vgl. oben Nr. 183, Anm. 2.</note>che però li pare che non
+                    si tardi più al augumentare la guardia de la persona di S. A., de la città et
+                    del castello, nel quale consiglia che con bel modo S. A. reponghi tutte le cose
+                    più pretiose. Che con molto secreto si dovrebbe far un convento con l’intervento
+                    de li commissarii di S. M.tà, del duca di Baviera, di Salzburg, di Bamberga, di
+                        Fraysingh<note xml:id="FN2_00195_07" type="footnote"> Neben Salzburg und
+                        Bamberg war auch Freising in Innerösterreich begütert.</note>con l’occasione
+                    del quale l’arciduca suo fratello potrebbe venire in cognitione che aiuto certo
+                    et stabile possa sperare in caso di bisogno, et che quanto a la persona sua
+                    s’offerisce di mandare commissarii et si esshibisce di aiutare in causa tanto
+                    giusta il fratello con la robba, con li stati et con tutto, et che li pare che
+                    il luogho più commodo per far senza strepito questa consultatione sarebbe la
+                    città di Salzburg. <note xml:id="FN2_00195_08" type="footnote">Vgl. unten Nr.
+                        292, 293.</note>Mette finalmente in molta consideratione con parole
+                    pregnanti et sensi gravi che S. A. deve far tutto quello che humanamente può per
+                    servitio de la religione et conservatione del authorità sua, la quale troppo
+                    impudentemente è colpestrata da gl’heretici et non si facendo oppositione
+                    gagliarda non si deve aspettare altro che la ruvina totale di S. A.</p>
+                <p>Punti del sig. duca di Baviera:</p>
+                <p>Convenisce con l’arciduca Ferdinando circa il convento ma ci nomina dentro li
+                    commissarii del re di Spagna et l’intervento d’un nuntio di S. S.tà et promette
+                    ogni aiuto. Similmente approva et commenda il presidio,<note
+                        xml:id="FN2_00195_09" type="footnote">Vgl. dagegen die Ansicht des Papstes
+                        in Nr. 191.</note>ma sono li pareri differenti in questo, perché il duca fa
+                    tanto fondamento nel presidio che presuppone che si possa con esso totalmente
+                    levare ne le città ogni essercitio lutherano non solo quanto a le persone de li
+                    cittadini ma de li nobili ancora, et che di più con esso si possa per via regia
+                    essigere le contributioni et si serve del essempio di Vienna et Augusta et mette
+                    per massima verissima <pb xml:id="P2_0000302"/>che non si abolendo totalmente
+                    l’essercitio lutherano indefferentemente ne le città a tutti che mai si è per
+                    far cosa buona. Dal altro canto l’arciduca Ferdinando consiglia che S. A.
+                    inherischi per hora a perfettionare et consolidare la essecutione principiata et
+                    che nel interim vadi dissimulando con la nobiltà.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

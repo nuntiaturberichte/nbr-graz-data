@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00242">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1585-01-11" cert="low" n="1">vermutlich
+                    1585-01-11</title>
+                <title level="a">242. Caligari an Gallio - (Graz, 1585 Jänner 11)</title>
+                <author ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 347r Dechiffrat.<lb/>Druck:
+                            Reichenberger, Nuntiaturberichte, S. 460.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00242">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                        Andrea</persName>
+                    <date when="1585-01-11" n="1" cert="low"/>
+                    <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_021">Caligari,
+                        Giovanni Andrea - Gallio, Tolemeo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00241.xml"
+                        >241. Caligari an Gallio - Graz, 1585 Jänner 7</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00243.xml">243.
+                        Gallio an Caligari - Rom, 1585 Jänner 12</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_021" target="L2_00241.xml">241. Caligari an Gallio -
+                        Graz, 1585 Jänner 7</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_021" target="L2_00243.xml">243. Gallio an Caligari -
+                        Rom, 1585 Jänner 12</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Nach Nichtbewilligung päpstlicher Hilfsgelder wenig Hoffnung auf Bekehrung der
+                    Häretiker. Katholiken in Karlstadt müssen ihre Andachten in Häretikerkirche
+                    verrichten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="242">Caligari an Gallio - (Graz, 1585 Jänner 11)<note xml:id="FN2_00242_01"
+                    type="footnote">Das Datum dieser Chiffre und der Inhalt des nicht mehr
+                    vorhandenen unverschlüsselten Berichtes ist aus dem Antwortschreiben vom 23.
+                    Jänner zu erschließen (Nr. 248).</note>
+            </head>
+            <div>
+                <p>Qui è hora tanto manco speranza di convertir gli heretici quanto che li ministri
+                    del arciduca sono fuori di speranza di haver a cavare da N. S. danari,<note
+                        xml:id="FN2_00242_02" type="footnote">Vgl. oben Nr. 183, 201.</note>come
+                    s’erano imaginati, et quello che è peggio il maresciallo <note
+                        xml:id="FN2_00242_03" type="footnote">Hofmarschall Ambros von Thurn, den
+                        Malaspina als eifrigen Katholiken schilderte (Nr. 158).</note>che aggira S.
+                    A. a modo suo favorisce occultamente gli heretici et è mero politico et ha la
+                    moglie, fratelli et tutta la famiglia heretica, et tra lui et altri hanno messo
+                    li Ihesuiti in poca gratia di S. A.<note xml:id="FN2_00242_04" type="footnote">
+                        Vgl. oben Nr. 235.</note>et del resto di tutti li catholici appresso. In
+                    casa di S. A. è numero grande di heretici et non se ne caccia niuno, <note
+                        xml:id="FN2_00242_05" type="footnote">Herzog Wilhelm schickte dem hier als
+                        Ketzerfreund verdächtigten Ambros von Thurn im Frühjahr 1583 eine Liste der
+                        Personen, die Glaubens halber vom Grazer Hof entfernt werden sollten
+                        (München, Bayer. Hauptstaatsarchiv, Geh. Hausarchiv, Korrespondenz 609 I, S.
+                        17).</note>come era il consiglio del arciduca Ferdinando, <note
+                        xml:id="FN2_00242_06" type="footnote">Vgl. oben Nr. 195.</note>et a le
+                    frontiere ne la città di Carlostat,<pb xml:id="P2_0000352"/> per la
+                    fortificatione de la quale N. S. dette come intendo 30.000 <note
+                        xml:id="FN2_00242_07" type="footnote">Der Papst hat für den Bau von
+                        Karlstadt 40.000 Goldscudi bewilligt und in vier Raten geschickt (Rainer,
+                        Grazer Nuntiatur I, S. 9, Anm. 26).</note>scudi, non si trova chiesa per
+                    quelli pochi catholici che vi sono, et li meschini sono sforzati andar a fare le
+                    loro orationi ne le chiese de li heretici, et pur avanzarono tanti danari de li
+                    donati da S. S.tà che vi si poteva fare una chiesa per li catholici. S. A. è
+                    buona ma si lascia governare et va ogni dì a la caccia. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

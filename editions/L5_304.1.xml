@@ -1,209 +1,215 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_304.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1602-03-11" n="1">1602-03-11</title>
-                    <title level="a">304.1. Portia an Aldobrandini - Graz, 1602 März 11</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 193r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_304.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1602-03-11" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_303.1.xml">303.1. Aldobrandini an Portia - Rom, 1602 März 9</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_305.1.xml">305.1. Aldobrandini an Portia - Rom, 1602 März 16</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_303.1.xml">303.1. Aldobrandini an
-                            Portia - Rom, 1602 März 9</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_305.1.xml">305.1. Aldobrandini an
-                            Portia - Rom, 1602 März 16</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Tod des Herzogs von Mercœur [Philippe-Emmanuel] erschüttert Wien. Die
-						Nachbesetzung dieser Position durch den Kaiser scheint schwierig. Portia
-						schlägt den Herzog von Parma [Ranuccio I.] vor, Erzherzog Ferdinand will
-						dies an den Kaiserhof weiterleiten. Raubzüge der Türken bei Karlstadt/
-						Karlovac und Kanizsa. Erzherzog Matthias bittet Erzherzog Ferdinand um
-						militärische Verstärkung für die Murinsel des Georg von Zrinski.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="304.1">Portia an Aldobrandini - Graz, 1602 März 11</head>
-				<div>
-					<pb xml:id="P5_0000658"/>
-					<p>Sendo successa la perdita del Sig. Duca di Mercurio<note xml:id="FN5_304.1_01" type="footnote">Philippe-Emmanuel von Lothringen,
-							Herzog von Mercœur, war am 19. Februar 1602 in Nürnberg verstorben: vgl.
-							Nr. 168.1.</note>, che viene molto deplorata in Vienna per la gran
-						speranza che quella Città haveva concetta sotto ’l valore di sì buon
-						capitano di dover vedere sempre più adietro cacciato il commune nemico, si
-						ha di buon luoco che principalmente sia venuto in mente alla M.tà
-						dell’Imperatore di dichiarare per successore il Conte di Solms<note xml:id="FN5_304.1_02" type="footnote">Georg Eberhard von Solms
-							(1568–1602), Herr zu Münsterberg. Seit 1583 im niederländischen
-							Kriegsdienst tätig. Nach der Eroberung der Stadt Hulst im Norden von
-							Flandern 1591 wurde er zum Gouverneur dieser Festung ernannt. 1596
-							musste er die Festung nach der Belagerung durch Eh. Albrecht aufgeben
-							und wurde 1597 zum Oberst mit ausgedehnten Befugnissen bestellt: vgl.
-							ADB 34, S. 579f.</note>, che altre volte è stato Generale per i Stati in
-						Fiandra et fu quello che rese la Piazza di Hulst; ma per esser egli
-						Calvinista, si tiene senz’altro che Cesare sia per ritirarsi et per non
-						valersi di soggetto tale. Alla medesima M.tà per il carico stesso dicesi
-						esser anco proposto il Sig. Duca di Vmena<note xml:id="FN5_304.1_03" type="footnote">Karl II. von Lothringen-Guise (1554–1611), Herzog von
-							Mayenne (1573), Sohn von Franz von Lothringen, Herzog von Guise, und
-							Anna d’Este: vgl. ISENBURG 2, T. 38.</note> et ragionarsi parimente del
-						Duca di Ghisa<note xml:id="FN5_304.1_04" type="footnote">Karl von
-							Lothringen-Guise (1571–1640), Herzog von Guise, Sohn von Heinrich von
-							Lothringen, Herzog von Guise, und Katharina von Kleve. Neffe des Herzogs
-							Karl von Mayenne: vgl. DBF 17, Sp. 325f.; ISENBURG 2, T. 38.</note>, che
-						già offerì la persona sua, ma a questo vien opposta la età non matura et la
-						non molta isperienza delle cose di guerra et a quello la facilità che mostrò
-						in Francia a lasciare in un subito le parti di Spagna et della Lega. Di
-						questa materia havendo meco tenuto proposito il Ser.mo Arciduca et per i
-						rispetti sodetti mostratosi anco di credere che li soggetti nominati habbino
-						a rimanere indietro, sovenne a me il Sig. Duca di Parma, et sendo entrato in
-						discorso con l’A. S. che ’l medesimo Prencipe così per havere lungamente
-						militato in Fiandra sotto la disciplina del Padre, come anco per tenere
-						parentela con la Ser.ma Casa d’Austria<note xml:id="FN5_304.1_05" type="footnote">Ranuccios Vater, Alessandro Farnese, war ein Sohn der
-							unehelichen Tochter Kaiser Karls V. Margarete aus ihrer Ehe mit Ottavio
-							Farnese: vgl. Nr. 227.3.</note> et<pb xml:id="P5_0000659"/> per altri
-						capi potesse esser meritevole del luoco vacante et potergli a pieno
-						sodisfare. L’Arciduca con attentione vi prestò orecchia et poco da poi
-						riferendomisi che S. A. habbia deliberato di volerne scrivere alla M.tà
-						dell’Imperadore. Ho stimato convenirsi alla divotione et fede mia di
-						doversene dar conto, come riverentemente faccio a V. S. Ill.ma acciò,
-						udendosi in Corte Cesarea alcuna cosa che potesse dar speranza di riuscita
-						et piacendo, sappia V. S. Ill.ma donde derivi l’origine del negotio et
-						faccia quello che di più sarà riputato conveniente dalla singolar sua
-						prudenza. …</p>
-					<p>
-						<note xml:id="SN304.1_a" type="siglum">Eigenhändige Ergänzung
-							Portias.</note> Gli Turchi han scorso di già più d’una volta sin sotto
-						Carlestat et han distrutto tutti que vilaggi vicini; così han fatto quelli
-						di Canisa sin sotto piccol Sighet et più oltre, ammazzando et depredando
-						secondo l’ordinario. Onde l’Arciduca Mattias ha scritto ultimamente al
-						Arciduca Ferdinando facendole grand’instanza perché vogli provedere et
-						mantenere nell’Isola del Conte di Serin trecento Husari et cinquecento
-						pedoni per diffender quel poco paese, per il che non si sa quel che si possa
-						sperar da S. M.tà. Questo mi è stato communicato ultimamente da un
-						Consigliere di guerra Catolico …<ref target="#SN304.1_a">*a)</ref>
-						<note xml:id="SN304.1_b" type="siglum">Dorsalvermerk des
-							Staatssekretariates, fol. 198v: E[rminio] risponda.</note>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_304.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1602-03-11" n="1">1602-03-11</title>
+                <title level="a">304.1. Portia an Aldobrandini - Graz, 1602 März 11</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 193r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_304.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1602-03-11" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_303.1.xml"
+                        >303.1. Aldobrandini an Portia - Rom, 1602 März 9</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_305.1.xml">305.1.
+                        Aldobrandini an Portia - Rom, 1602 März 16</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_303.1.xml">303.1. Aldobrandini an
+                        Portia - Rom, 1602 März 9</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_305.1.xml">305.1. Aldobrandini an
+                        Portia - Rom, 1602 März 16</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Tod des Herzogs von Mercœur [Philippe-Emmanuel] erschüttert Wien. Die
+                    Nachbesetzung dieser Position durch den Kaiser scheint schwierig. Portia schlägt
+                    den Herzog von Parma [Ranuccio I.] vor, Erzherzog Ferdinand will dies an den
+                    Kaiserhof weiterleiten. Raubzüge der Türken bei Karlstadt/ Karlovac und Kanizsa.
+                    Erzherzog Matthias bittet Erzherzog Ferdinand um militärische Verstärkung für
+                    die Murinsel des Georg von Zrinski.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="304.1">Portia an Aldobrandini - Graz, 1602 März 11</head>
+            <div>
+                <pb xml:id="P5_0000658"/>
+                <p>Sendo successa la perdita del Sig. Duca di Mercurio<note xml:id="FN5_304.1_01"
+                        type="footnote">Philippe-Emmanuel von Lothringen, Herzog von Mercœur, war am
+                        19. Februar 1602 in Nürnberg verstorben: vgl. Nr. 168.1.</note>, che viene
+                    molto deplorata in Vienna per la gran speranza che quella Città haveva concetta
+                    sotto ’l valore di sì buon capitano di dover vedere sempre più adietro cacciato
+                    il commune nemico, si ha di buon luoco che principalmente sia venuto in mente
+                    alla M.tà dell’Imperatore di dichiarare per successore il Conte di Solms <note
+                        xml:id="FN5_304.1_02" type="footnote">Georg Eberhard von Solms (1568–1602),
+                        Herr zu Münsterberg. Seit 1583 im niederländischen Kriegsdienst tätig. Nach
+                        der Eroberung der Stadt Hulst im Norden von Flandern 1591 wurde er zum
+                        Gouverneur dieser Festung ernannt. 1596 musste er die Festung nach der
+                        Belagerung durch Eh. Albrecht aufgeben und wurde 1597 zum Oberst mit
+                        ausgedehnten Befugnissen bestellt: vgl. ADB 34, S. 579f.</note>, che altre
+                    volte è stato Generale per i Stati in Fiandra et fu quello che rese la Piazza di
+                    Hulst; ma per esser egli Calvinista, si tiene senz’altro che Cesare sia per
+                    ritirarsi et per non valersi di soggetto tale. Alla medesima M.tà per il carico
+                    stesso dicesi esser anco proposto il Sig. Duca di Vmena <note
+                        xml:id="FN5_304.1_03" type="footnote">Karl II. von Lothringen-Guise
+                        (1554–1611), Herzog von Mayenne (1573), Sohn von Franz von Lothringen,
+                        Herzog von Guise, und Anna d’Este: vgl. ISENBURG 2, T. 38.</note>et
+                    ragionarsi parimente del Duca di Ghisa<note xml:id="FN5_304.1_04"
+                        type="footnote"> Karl von Lothringen-Guise (1571–1640), Herzog von Guise,
+                        Sohn von Heinrich von Lothringen, Herzog von Guise, und Katharina von Kleve.
+                        Neffe des Herzogs Karl von Mayenne: vgl. DBF 17, Sp. 325f.; ISENBURG 2, T.
+                        38.</note>, che già offerì la persona sua, ma a questo vien opposta la età
+                    non matura et la non molta isperienza delle cose di guerra et a quello la
+                    facilità che mostrò in Francia a lasciare in un subito le parti di Spagna et
+                    della Lega. Di questa materia havendo meco tenuto proposito il Ser.mo Arciduca
+                    et per i rispetti sodetti mostratosi anco di credere che li soggetti nominati
+                    habbino a rimanere indietro, sovenne a me il Sig. Duca di Parma, et sendo
+                    entrato in discorso con l’A. S. che ’l medesimo Prencipe così per havere
+                    lungamente militato in Fiandra sotto la disciplina del Padre, come anco per
+                    tenere parentela con la Ser.ma Casa d’Austria <note xml:id="FN5_304.1_05"
+                        type="footnote">Ranuccios Vater, Alessandro Farnese, war ein Sohn der
+                        unehelichen Tochter Kaiser Karls V. Margarete aus ihrer Ehe mit Ottavio
+                        Farnese: vgl. Nr. 227.3.</note>et<pb xml:id="P5_0000659"/> per altri capi
+                    potesse esser meritevole del luoco vacante et potergli a pieno sodisfare.
+                    L’Arciduca con attentione vi prestò orecchia et poco da poi riferendomisi che S.
+                    A. habbia deliberato di volerne scrivere alla M.tà dell’Imperadore. Ho stimato
+                    convenirsi alla divotione et fede mia di doversene dar conto, come
+                    riverentemente faccio a V. S. Ill.ma acciò, udendosi in Corte Cesarea alcuna
+                    cosa che potesse dar speranza di riuscita et piacendo, sappia V. S. Ill.ma donde
+                    derivi l’origine del negotio et faccia quello che di più sarà riputato
+                    conveniente dalla singolar sua prudenza. …</p>
+                <p>
+                    <note xml:id="SN5_304.1_a" type="siglum">Eigenhändige Ergänzung
+                    Portias.</note>Gli Turchi han scorso di già più d’una volta sin sotto Carlestat
+                    et han distrutto tutti que vilaggi vicini; così han fatto quelli di Canisa sin
+                    sotto piccol Sighet et più oltre, ammazzando et depredando secondo l’ordinario.
+                    Onde l’Arciduca Mattias ha scritto ultimamente al Arciduca Ferdinando facendole
+                    grand’instanza perché vogli provedere et mantenere nell’Isola del Conte di Serin
+                    trecento Husari et cinquecento pedoni per diffender quel poco paese, per il che
+                    non si sa quel che si possa sperar da S. M.tà. Questo mi è stato communicato
+                    ultimamente da un Consigliere di guerra Catolico …<ref target="#SN5_304.1_a"/>
+                    <note xml:id="SN5_304.1_b" type="siglum">Dorsalvermerk des Staatssekretariates,
+                        fol. 198v: E[rminio] risponda.</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

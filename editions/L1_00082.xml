@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00082">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-03-27" n="1">1581-03-27</title>
+                <title level="a">82. Gallio an P. Possevino - Rom, 1581 März 27</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Misc. Arm. II, vol. 130, f. 6”, 7T; ebenda f. 16v, 17r,
+                            Minuten.<lb/>Bibl. Vat. Barb. lat. 5744, f. 108r—116r.<lb/>Druck: A. I.
+                            Turgenev, Historica Russiae Monumenta I, S. 299—305.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00082">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1581-03-27" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118595954">Possevino, Antonio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_008">Gallio, Tolemeo
+                        - Possevino, Antonio</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00081.xml">81.
+                        Gallio an Malaspina - Rom, 1581 März 25</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00083.xml">83.
+                        Malaspina an Gallio - Graz, 1581 April 10</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_008" target="L1_00085.xml">85. Possevino an Gallio -
+                        Graz, 1581 April 29</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Instruktion für den als Nuntius nach Moskau bestimmten P. Antonio Possevino zu
+                    Erledigungen in Graz.<note xml:id="FN1_00082_01" type="footnote">Im folgenden
+                        wird nur der die in Graz zu erledigenden Aufträge beinhaltende Teil der
+                        Instruktion wiedergegeben. Das Hauptziel der Sendung Possevinos war die
+                        Rückführung der russisch-orthodoxen Kirche zur Einheit mit Rom (Polčin, La
+                        mission religieuse du Père Antoine Possevin, S. 7; Boratyński, Caligarii
+                        Epistolae, S. 592—594).</note>
+                </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="82">Gallio an P. Possevino - Rom, 1581 März 27</head>
+            <div>
+                <p>Col sermo arciduca Carlo, oltra il negotio di Suetia,<note xml:id="FN1_00082_02"
+                        type="footnote">Siehe Nr. 85, Anm. 18.</note>haverà V. Rtia da far una buona
+                    passata in materia di religione et del decreto fatto ultimamente da S. A. et poi
+                    sospeso, dichiarando il dispiacere grande, quale N. S. ha sentito che l’A. S.
+                    habbi così facilmente ceduto a l’importunità degli heretici, sospendendo esso
+                    decreto con tanto notabile diminutione de l’autorità sua et danno de la santa
+                    religione et sopra di ciò farà V. Rtia quella instanza di rimedio, che vederà
+                    convenirsi al termine in che si troverà questo negotio, come più a pieno potrà
+                    intendere da mons. Germanico nuntio, col quale communicherà ogni cosa quanto al
+                    fatto del decreto.<note xml:id="FN1_00082_03" type="footnote"> Siehe Nr. 85, S.
+                        231.</note>
+                </p>
+                <p>A la serma arciduchessa presenterà il breve di N. S. et la rosa benedetta,<note
+                        xml:id="FN1_00082_04" type="footnote">Siehe Nr. 75, Anm. 5, und Nr. 85, S.
+                        232.</note>facendo l’officio che sarà conveniente in salutarla per parte de
+                    S. Stà, benedirla et essortarla a favorir quanto potrà in tutte le occasioni la
+                    causa di Dio et de la santa religione catholica et de li altri negotii. Le darà
+                    quella parte che piacerà a l’arciduca suo consorte ...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

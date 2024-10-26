@@ -1,207 +1,215 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_010.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-02-08" n="1">1599-02-08</title>
-                    <title level="a">10.1. Portia an Aldobrandini - Graz, 1599 Februar 8</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 92 A, fol. 244r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilagen: fol. 245r–v, Avviso, an Aldobrandini adressiert, Graz, 1599
-						Februar 6. <note xml:id="SN010.1_a" type="siglum">Teildruck: HORVAT 1, S.
-							177 (fälschlicherweise mit 8. Februar 1599 datiert).</note>
-						<lb/>fol. 247r, Avviso, Graz, 1599 Februar 8.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_010.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-02-08" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_009.2.xml">9.2. Aldobrandini an Portia - Rom, 1599 Februar 6</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_010.2.xml">10.2. Portia an Aldobrandini - Graz, 1599 Februar 8</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_009.2.xml">9.2. Aldobrandini an
-                            Portia - Rom, 1599 Februar 6</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_010.2.xml">10.2. Portia an
-                            Aldobrandini - Graz, 1599 Februar 8</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Verlauf des steirischen Landtages. Weigerung der Bauern in Aussee, den
-						protestantischen Prediger [Deltzer] abziehen zu lassen. Bericht über die
-						Erteilung der Kommunion in beiderlei Gestalt in Wien und Umgebung.
-						Überlegungen rund um die Kommunion sub utraque specie. Der Nuntius am
-						Kaiserhof [Spinelli] sollte diesbezüglich über die Jesuiten zusätzliche
-						Informationen einholen.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="10.1">Portia an Aldobrandini - Graz, 1599 Februar 8</head>
-				<div>
-					<p>Segue ancora qui la pertinacia di questi Provinciali Luterani, né voglion in
-						alcuna maniera lasciarsi persuadere a proseguir la Dieta con il particolare
-						della contributione, se non hanno prima qualche rissolutione di concessione
-						nell’essercitio loro; et l’Arciduca si dimostra anch’esso dall’altro conto
-						constantissimo nella deliberatione di già fatta et così si sta ne’ termini
-						ch’io significai a V. S. Ill.ma con le lettere della settimana passata<note xml:id="FN5_010.1_01" type="footnote">Vom 2. Februar 1599 ist nur ein
-							Bericht Portias an Aldobrandini (Nr. 8.1) erhalten, in dem auf eine
-							spätere ausführlichere Berichterstattung über diesen Sachverhalt
-							verwiesen wird.</note>.</p>
-					<p>In Ausse, luoco di questo Serenissimo verso Admont a confini dell’Austria,
-						son seguiti alcuni inconvenienti per sollevatione de Contadini c’han voluto
-						mantener un lor Predicante Heretico, però si spera che S. A. reprimerà anco
-						quella lor insolenza et quasi ribellione<note xml:id="FN5_010.1_02" type="footnote">Der letzte Prädikant Aussees, Johann Deltzer, war am 2.
-							Januar 1599 in die Acht und für vogelfrei erklärt worden. Er stammte aus
-							Donauwörth und war 1586 nach Aussee gekommen. Erst am 7. November 1599
-							wurde Esias Haupt von der Reformationskommission als katholischer
-							Priester eingesetzt und dann vom Passauer Administrator bestiitigt.
-							Haupt konvertierte zum Protestantismus und floh 1603 aus seiner Pfarre:
-							vgl. LOSERTH, Akten 1, S. 433; AMON, Reformationszeit, S. 322–326;
-							AMON/NASCHENWENG.</note>.</p>
-					<p>Mi vien significato da persone Religiose et da bene ch’in Vienna et que’
-						contorni si dà la communione sub utraque specie a persone che se fossero<pb xml:id="P5_0000021"/> ben instrutte non la richiederebbono né
-						riceverebbono, et quel che vien stimato grave è che questo si fa come si
-						dice con auttorità et assenso di quelli c’hanno il carico della
-						giuridittione ecclesiastica, il che di quante difficoltà sia cagione non si
-						potrebbe facilmente esprimer a V. S. Ill.ma. Due incommodi però si posson
-						considerare principalissimi, l’uno che tutti questi che dimmandano la
-						communione sub utraque specie son tutti Heretici anco in altri dogmi,
-						l’altro che gl’Heretici fanno fondamento grandissimo (se ben falsissimo)
-						contra di noi sopra questa diversità, dicendo che i nostri Prelati et le
-						nostre ordinationi sono ad placitum et di più che alcuni Pontefici concedono
-						una cosa et altri la negano et che perciò non si possa far fondamento
-						nell’accomodarsi alla nostra Religione, et da questo m’è venuto occasione di
-						dubitar questi giorni con haver inteso che alcuni Catolici hanno proposto a
-						questo Serenissimo che si potrebbon’accommodar molte cose, se si concedesse
-						o permettesse in queste Provincie ancora la communione sub utraque specie,
-						il che però è anche falsissimo, et io son di parere con tutti gli Prelati et
-						Ecclesiastici che più tosto crescerebbono le difficoltà et le contrarietà
-						alla nostra vera et Cattolica Religione, et perciò io son et sarò sempre
-						contrario a tutte queste propositioni et trattati.<note xml:id="SN010.1_b" type="siglum">Marginalie des Staatssekretariates links: Lodare l’opera
-							sua che è buona et scrivere a Monsig. Spinelli che se ne informi.</note>
-						Et quanto a quello ch’appartiene al particolare di Vienna, sarebbe molto
-						facile a Monsig. Rev.mo Arcivescovo Spinelli l’informarsi col mezo de Padri
-						Jesuiti di Praga o d’Olmuz et di Vienna stessa quello che si facci et con
-						qual concessione et auttorità et anco darvi il rimedio che le parerà
-						espediente conform’alla santissima mente di S. B.ne et di V. S. Ill.ma, alla
-						quale m’è convenuto significar tutto questo per l’instanza et significatione
-						mandatami da quelle parti, alle quali, essendo più vicino Monsig.
-						Arcivescovo sudetto et appartenendo elle agli stati di S. M.tà, non ho
-						potuto dar altra risposta se non ch’io confido ch’il negotio sarà imposto a
-						Monsig. Nontio in Corte Cesarea …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_010.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-02-08" n="1">1599-02-08</title>
+                <title level="a">10.1. Portia an Aldobrandini - Graz, 1599 Februar 8</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 92 A, fol. 244r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilagen: fol. 245r–v, Avviso, an Aldobrandini adressiert, Graz, 1599
+                        Februar 6.<note xml:id="SN5_010.1_a" type="siglum"> Teildruck: HORVAT 1, S.
+                            177 (fälschlicherweise mit 8. Februar 1599 datiert).</note>
+                        <lb/>fol. 247r, Avviso, Graz, 1599 Februar 8.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_010.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-02-08" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_009.2.xml"
+                        >9.2. Aldobrandini an Portia - Rom, 1599 Februar 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_010.2.xml">10.2.
+                        Portia an Aldobrandini - Graz, 1599 Februar 8</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_009.2.xml">9.2. Aldobrandini an
+                        Portia - Rom, 1599 Februar 6</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_010.2.xml">10.2. Portia an
+                        Aldobrandini - Graz, 1599 Februar 8</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Verlauf des steirischen Landtages. Weigerung der Bauern in Aussee, den
+                    protestantischen Prediger [Deltzer] abziehen zu lassen. Bericht über die
+                    Erteilung der Kommunion in beiderlei Gestalt in Wien und Umgebung. Überlegungen
+                    rund um die Kommunion sub utraque specie. Der Nuntius am Kaiserhof [Spinelli]
+                    sollte diesbezüglich über die Jesuiten zusätzliche Informationen einholen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="10.1">Portia an Aldobrandini - Graz, 1599 Februar 8</head>
+            <div>
+                <p>Segue ancora qui la pertinacia di questi Provinciali Luterani, né voglion in
+                    alcuna maniera lasciarsi persuadere a proseguir la Dieta con il particolare
+                    della contributione, se non hanno prima qualche rissolutione di concessione
+                    nell’essercitio loro; et l’Arciduca si dimostra anch’esso dall’altro conto
+                    constantissimo nella deliberatione di già fatta et così si sta ne’ termini ch’io
+                    significai a V. S. Ill.ma con le lettere della settimana passata<note
+                        xml:id="FN5_010.1_01" type="footnote">Vom 2. Februar 1599 ist nur ein
+                        Bericht Portias an Aldobrandini (Nr. 8.1) erhalten, in dem auf eine spätere
+                        ausführlichere Berichterstattung über diesen Sachverhalt verwiesen
+                        wird.</note>.</p>
+                <p>In Ausse, luoco di questo Serenissimo verso Admont a confini dell’Austria, son
+                    seguiti alcuni inconvenienti per sollevatione de Contadini c’han voluto mantener
+                    un lor Predicante Heretico, però si spera che S. A. reprimerà anco quella lor
+                    insolenza et quasi ribellione<note xml:id="FN5_010.1_02" type="footnote">Der
+                        letzte Prädikant Aussees, Johann Deltzer, war am 2. Januar 1599 in die Acht
+                        und für vogelfrei erklärt worden. Er stammte aus Donauwörth und war 1586
+                        nach Aussee gekommen. Erst am 7. November 1599 wurde Esias Haupt von der
+                        Reformationskommission als katholischer Priester eingesetzt und dann vom
+                        Passauer Administrator bestiitigt. Haupt konvertierte zum Protestantismus
+                        und floh 1603 aus seiner Pfarre: vgl. LOSERTH, Akten 1, S. 433; AMON,
+                        Reformationszeit, S. 322–326; AMON/NASCHENWENG.</note>.</p>
+                <p>Mi vien significato da persone Religiose et da bene ch’in Vienna et que’ contorni
+                    si dà la communione sub utraque specie a persone che se fossero <pb
+                        xml:id="P5_0000021"/>ben instrutte non la richiederebbono né riceverebbono,
+                    et quel che vien stimato grave è che questo si fa come si dice con auttorità et
+                    assenso di quelli c’hanno il carico della giuridittione ecclesiastica, il che di
+                    quante difficoltà sia cagione non si potrebbe facilmente esprimer a V. S.
+                    Ill.ma. Due incommodi però si posson considerare principalissimi, l’uno che
+                    tutti questi che dimmandano la communione sub utraque specie son tutti Heretici
+                    anco in altri dogmi, l’altro che gl’Heretici fanno fondamento grandissimo (se
+                    ben falsissimo) contra di noi sopra questa diversità, dicendo che i nostri
+                    Prelati et le nostre ordinationi sono ad placitum et di più che alcuni Pontefici
+                    concedono una cosa et altri la negano et che perciò non si possa far fondamento
+                    nell’accomodarsi alla nostra Religione, et da questo m’è venuto occasione di
+                    dubitar questi giorni con haver inteso che alcuni Catolici hanno proposto a
+                    questo Serenissimo che si potrebbon’accommodar molte cose, se si concedesse o
+                    permettesse in queste Provincie ancora la communione sub utraque specie, il che
+                    però è anche falsissimo, et io son di parere con tutti gli Prelati et
+                    Ecclesiastici che più tosto crescerebbono le difficoltà et le contrarietà alla
+                    nostra vera et Cattolica Religione, et perciò io son et sarò sempre contrario a
+                    tutte queste propositioni et trattati. <note xml:id="SN5_010.1_b" type="siglum"
+                        >Marginalie des Staatssekretariates links: Lodare l’opera sua che è buona et
+                        scrivere a Monsig. Spinelli che se ne informi.</note>Et quanto a quello
+                    ch’appartiene al particolare di Vienna, sarebbe molto facile a Monsig. Rev.mo
+                    Arcivescovo Spinelli l’informarsi col mezo de Padri Jesuiti di Praga o d’Olmuz
+                    et di Vienna stessa quello che si facci et con qual concessione et auttorità et
+                    anco darvi il rimedio che le parerà espediente conform’alla santissima mente di
+                    S. B.ne et di V. S. Ill.ma, alla quale m’è convenuto significar tutto questo per
+                    l’instanza et significatione mandatami da quelle parti, alle quali, essendo più
+                    vicino Monsig. Arcivescovo sudetto et appartenendo elle agli stati di S. M.tà,
+                    non ho potuto dar altra risposta se non ch’io confido ch’il negotio sarà imposto
+                    a Monsig. Nontio in Corte Cesarea …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

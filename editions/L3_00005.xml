@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00005">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1592-04-28" n="1">1592-04-28</title>
+				<title level="a">5. Klemens VIII. an Portia - Rom, 1592 April 28</title>
+				<author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+								Heinz</persName>
+							<persName>Rainer Christian</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+							Kobenzl; 1592-1595</title>
+						<idno type="ISBN">3-7001-2964-5</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>2001</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Historisches Institut beim Österreichischen Kulturinstitut
+									in Rom</orgName>
+								<persName>Bösel Richard</persName>
+								<persName>Fillitz Hermann</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="3">3. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="484">484 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Historischen Instituts beim
+							Österreichischen Kulturinstitut in Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. F. Borg. II, vol. 18, f. 159r—164v.<lb/>Sec. Brev. 364,
+							f. 5r—11r Minute.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L3_00005">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</persName>
+					<date when="1592-04-28" n="1"/>
+					<placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_032">Papst, VIII.,
+						Klemens - Portia, Girolamo</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L3_00004.xml">4.
+						Zweite Instruktion für Portia - Rom, 1592 April 13</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L3_00006.xml">6.
+						Minucci an Portia - Rom, 1592 Juni 6</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_032" target="L3_00229.xml">229. Klemens VIII. an
+						Portia - Rom, 1594 Februar 18</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Fakultäten für H. Portia</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="5">Klemens VIII. an Portia - Rom, 1592 April 28</head>
+			<div>
+				<p>Dilecte fili salutem et apostolicam benedictionem. Romanum decet pontificem suos
+					ad remota procul nuntios privilegiis apostolicis, quantum fert temporis et
+					locorum ratio, cumulate prosequi, ut ipsi illis suffulti possint in functione
+					muneris sui benignitatem huius Sanctae Sedis erga eius fideles et devotos, cum
+					venerit occasio, liberaliter impartiri. Cum igitur te ob fidem, industriam, et
+					alias preclaras animi tui dotes nostrum et Apostolicae Sedis nuntium ad quasdam
+					superioris Germaniae partes cum potestate legati de latere destinaverimus, qui
+					mandatis, consiliisque nostris instructus, Sanctae Romanae Ecclesiae et nostra
+					orthodoxae que fidei negotia ad totius reipublicae christianae salutem pro
+					viribus exequare. Nos quoque ut personaram earumdem saluti et statui opera tua
+					consulatur, hoc tuum munus specialibus facultatibus prosequendum censuimus, ut
+					illis suffultus iuxta datam tibi a Domino sapientiam ibi tum utaris moderate, et
+					prudenter, tum ad Dei gloriam, populorum solamen et aedificationem ipsiusque
+					Sedis decorem videris expedire.</p>
+				<p>Visitations- und Reformationsvollmacht</p>
+				<p>Itaque ut tu personis partium predictarum opportune consulere teque erga illos
+					utilem, ac benignum exhibere possis, non derogando sacri Concilii Tridentini
+					decretis discretioni tuae, legatione huiusmodi tua durante, <pb
+						xml:id="P3_0000032"/>et intra illius fines atque erga eius personas, et loca
+					ibi existentia dumtaxat per te ipsum seu alios viros probos, et idoneos
+					patriarchales, primatiales, metropolitanas et alias cathedrales et collegiatas,
+					ac parochiales ecclesias nec non monasteria tam virorum quam mulierum,
+					prioratus, prepositura et secularia et alia quorumvis ordinum etiam
+					mendicantium, regularia nec non hospitalia etiam exempta dicteque sedi immediate
+					subiecta vel quocumque alio privilegio suffulta, eorumque capitula, conventus,
+					universitates collegia, et personas tam seculares quam regulares, etiam ut
+					prefertur, exemptas et subiectas, quoties tibi videbitur apostolica auctoritate
+					visitandi, ac in illorum statum formas, regulas instituta, regimen, statuta,
+					consuetudines, vitam, ritus, mores, et disciplinam tam coniunctim, quam divisim
+					ac tam in capite, quam in membris diligenter inquirendi nec non evangelicae et
+					apostolicae doctrinae, sacrorumque canonum, et generalium conciliorum decretis,
+					et sanctorum patrum traditionibus, atque institutionibus inherendo et prout
+					occasio, rerumque qualitas exegerit quecumque mutatione, correctione,
+					emendatione, revocatione, et renovatione, ac etiam ex integro editione indigere
+					cognoveris, reformandi, mutandi, et corrigendi, ac etiam de novo condendi,
+					condita sacris canonibus non repugnantia confirmandi, abusus quoscumque
+					tollendi, regulas, institutiones, observationes, et ecclesiasticam disciplinam
+					ubicumque ille exciderint, modis congruis restituendi, et reintegrandi praedicti
+					Concilii Tridentini decreta ubi nundum introducta sunt, proponendi et custodiri
+					praecipiendi ipsasque personas tam seculares, quam regulares etiam exemptas ad
+					debitum et honestae vitae modum revocandi et quicquid inde statueris et
+					ordinaveris perpetuo observari faciendi.</p>
+				<p>Gerichtsbarkeit</p>
+				<p>Contra inobediendes et etiam contra falsarios usurarios, raptores incendiarios ac
+					alios criminosos et delinquentes, quoscumque etiam exemptos eorumque fautores ac
+					receptatores cuiuscumque dignitatis, ordinis, vel conditionis fuerint, per viam
+					accusationis, vel denunciationis, aut ex officio, etiam summarie, simpliciter,
+					et de plano, ac sine strepitu et figura iuditii inquirendi, et procedendi,
+					reosque prout canonice requirunt sanctiones et alias tibi videbitur expedire,
+					punire, nec non horum criminum et matrimoniales et quascumque alias
+					ecclesiasticas, prophanas, civiles, criminales, et mixtas causas ad forum
+					ecclesiasticum quomodolibet pertinentes, non tamen beneficiales sine praeiuditio
+					ordinariorum, quoad causas huiusmodi in prima instantia coram eis iuxta
+					praedicti Concilii Tridentini decretum cognoscendas tam per viam simplicis
+					quaerelae, quam etiam quarumcumque appellationum a quibuscumque iudicibus
+					ordinariis, et etiam a Sede praedicta delegatis interpositarum, et dicta <pb
+						xml:id="P3_0000033"/>legatione durante interponendarum motas, et inchoatas,
+					ac interim movendas cum earum omnibus incidentibus, dispendentiis, emergentibus
+					annexis, et connexis etiam summarie, simpliciter, et de plano, ac sine strepitu,
+					et figura iuditii, sola veritate inspecta terminis substantialibus unico
+					contextu, vel etiam non servatis sed illorum loco praefixo termino arbitrio tuo
+					procedendi, audiendi, et fine debito terminandi, et ad hunc, caeterorumque
+					contingentium affectum quoscumque etiam per edictum publicum constito prius
+					etiam summarie et extra iuditialiter de non toto accessu citandi, et monendi,
+					eisque ac etiam quibusvis iudicibus, caeterisque personis quibus et quoties opus
+					fuerit etiam per simile edictum, ac etiam sub censuris et penis ecclesiasticis
+					nec non pecuniariis tuo, vel delegatorum arbitrio moderandis et applicandis
+					inhibendi, ac contra inobedientes et rebelles quoslibet censuras, ac poenas
+					ipsas etiam iteratis vicibus aggravandi interdictum ecclesiasticum apponendi et
+					relaxandi, auxiliumque brachii secularis invocandi, seu causas ipsas alii vel
+					aliis idoneis modo et forma premissis ac cum simili, et limitata potestate
+					pariter audiendas et terminandas delegandi quascumque personas adversus
+					sententias, res iudicatas et contractus quoscumque, prout iustum fuerit in
+					integram restituendi, iuramentaque quaecumque ad effectum agendi duntaxat,
+					quibuslibet relaxandi, quoscumque a quibus vis censuris et poenis simpliciter et
+					ad cautelam, prout iuris fuerit absolvendi.</p>
+				<p>Absolutionsvollmacht bei Totschlag, Ehebruch, Inzest, Wucher, Exkommunikation und
+					Irregularitäten der Kleriker</p>
+				<p>Praeter quoscumque ad te recurrentes qui homicidium, non tamen voluntarium, nec
+					non periurii reatum quomodocumque commiserint, quique bellis interfuerint, et
+					propterea eos, qui adulterium, incestum, fornicationem aut aliud quotcumque
+					flagitium carnis perpetraverint; nec non usurarios, si hoc a te humiliter
+					petierint, ab excomunicationis, aliisque sententiis, censuris et penis
+					ecclesiasticis et temporalibus, quas propterea quomodolibet incurrerint etiam in
+					utroque foro absolvendi. Ac cum eis et prorsus cum quibusvis aliis clericis et
+					personis ecclesiasticis super quarumque irregularitate per eos, non tamen
+					occasione homicidii voluntarii, haeresis laese maiestatis, vel bigamiae, vel
+					perceptionis fructuum ecclesiasticorum quomodolibet contracta, etiam si ipsi
+					censuris huiusmodi sic ligati missas et alia divina officia non tamen in
+					contemporum clavium celebraverint, vel alias divinis se se immiscerint, ita quod
+					promoti omnes et iam sacros et presbyteratus ordines suscipere et etiam ipsi,
+					quam alii in susceptio etiam in altaris ministerio ministrare, ac quaecumque
+					beneficia ecclesiastica cum cura, et sine cura recipere, et illa, ac per eos
+					obtenta, ex quibus nullos fructus indebite perceperint, retinere libere, et
+					licite valeant, <pb xml:id="P3_0000034"/>dispensandi, ac etiam quibusvis in
+					aetate legitima constitutis, ac alias idoneis sacerdotali militiae adscribi
+					volentibus, qui conpetenter beneficiati, et arctati fuerint, ut ad omnes, et
+					sacros et presbyteratus ordines, a suo ordinario, vel cum eiusdem, aut vicarii
+					sui testimonio a quocumque alio maluerint cattolico antistite gratiam et
+					communionem dicte Sedis habente et Romanam Curiam et in propria dioecesi
+					residente tribus dominicis et alliis festivis diebus extra tempora iure statuta
+					promoveri et in illis sic promoti et in altaris ministerio ministrare possint,
+					licentia tribuendi.</p>
+				<p>Kollationsrecht</p>
+				<p>Insuper quecumque beneficia ecclesiastica simplicia infra limites tuae legationis
+					extra tamen metropolitanas, et alias cathedrales et collegiatas ecclesias
+					consistentia per obitum illorum ultimorum poscessorum extra Romanam curiam
+					vacatura, dummodo illa, alias quam ratione mensium apostolicorum reservata non
+					fuerint et cuiuslibet eorum fructus, redditus et proventus viginti quatuor
+					ducatorum auri de camera secundum communem existimationem valorem annuum non
+					excedant pro tempore vacantia personis idoneis providendi, ita tamen, ut tu non
+					prius provisionem beneficiorum huiusmodi facere debeas, quam tibi fide dignorum
+					testimonio constiterit, fructus praedictos ipsum valorem annuum non excedere,
+					alioquis provisiones a te pro tempore factae de eis nullius sint roboris, vel
+					momenti (?).</p>
+				<p>Et cum patientibus defectum natalium, si consideratis diligenter circumstantiis
+					universis quae circa idoneitatem personarum fuerint attendendae, si paterne non
+					sine incontinentiae imitatores, sed bonae conversationis et vitae alias eis
+					merita suffragentur ad dispensationis gratiam obtinendam; ac cum corpore
+					vitiatis, dommodo in eis non sit tanta deformitas, quae scandalum in populo
+					debeat generare, ut pariter ad omnes etiam sacros et presbyteratus ordines
+					promoveri, ac beneficia ecclesiastica cum cura, vel sine cura fuerint, quorum
+					tamen fructus redditus, et proventus illegittimos si graduati fuerint, centum,
+					quo vero ad non graduatos quinquaginta ducente auri de camera secundum communem
+					existimationem valorem annuum insimul non excedant, si eis alias canonice
+					conferant, aut eligant, praesentent, vel alias adsum aut ad ea, et instituant in
+					eis recipere et retinere.</p>
+				<p>Ehedispens</p>
+				<p>Et super quocumque impedimento publicae honestatis iustitiae, ubi solam sponsalia
+					intercesserint. Ac cum his qui per fornicationem, vel adulterium se polluerint
+					dummodo in morte defuncti coniugis quicque machinati non fuerint aut matrimonium
+					inter se contrahere et in facie <pb xml:id="P3_0000035"/>ecclesiae solemnizare
+					ac postquam contractum fuerit in eo remanere. Ac pariter cum illis qui huiusmodi
+					impedimentis non obstantibus illud alias tamen iam contraxerunt, etiamsi carnali
+					copula consumaverint, et prolem ex inde susceperint, ipsos ab incestus reatu
+					excomunicatione sententia, aliisque censuris ecclesiasticis absolvendo, ut
+					matrimonium de novo inter se, dummodo propter hoc mulieres raptae non fuerint,
+					contrahere, ut praefertur, solemnizare, ac pariter in eo remanere libere et
+					licite valeant dispensandi prolemque exinde susceptam et suscipiendam legittimam
+					decernendi atque nunciandi.</p>
+				<p>Studien, Tabellionat und Notariat</p>
+				<p>Ac quibusvis personis ecclesiasticis secularibus, ut leges, et iura civilia
+					audire in illis studere ad quinquennium, nec non quoscumque actus scolasticos
+					exercere in eis postquam reperati idonei fuerint gradus consuetos suscipere
+					possint indulgendi.</p>
+				<p>Nec non officium tabellionatus et notariatus aliquibus personis idoneis usque ad
+					numerum duodeci dumtaxat repertis, prius ab eis professione fidei iuxta formam a
+					Sede praedicta propositam, et iuramento in forma solita concedendi; eosque
+					notarios et tabelliones constituendi.</p>
+				<p>Ablassverleihung und Umwandlung von nach Rom und Santiago de Compostela gelobten
+					Wallfahrten in andere fromme Werke</p>
+				<p>Item omnibus utriusque sexus Christi fidelibus ad pia et salutaria opera
+					exercenda, centum aut plures dies citra annum, nec non vere poenitentibus et
+					confessis, qui quascumque seculares, vel regulares ecclesias, seu capellas in
+					una, vel duabus anni festivitatibus dumtaxat a primis vesperis, usque ad
+					secundas vesperas, et occasum solis, cuiusque diei festi visitaverint et pro
+					unione principum, ac fidei catholicae propagatione preces Altissimo effuderint,
+					quo die festo id fecerint septem annos, et septem quadragenas, aut infra de
+					iniunctis eis penitentiis seu quae merito iniungi debeant misericorditer in
+					Domino relaxandi ita, quod relaxatio huiusmodi semel tantum pro una ecclesia,
+					vel capella fiat, et si pro duobus festis diebus concedatus ad triennium, pro
+					una vero festo concessa ad quinquennium tantummodo debeat perdurare. Nec non
+					vota quaecumque ultra marina, visitationis limitum beatorum Petri et Pauli
+					apostolorum de urbe, S.ti Jacobi in Compostella castitatis et religionis votis
+					dumtaxat exceptis in alia pietatis opera commutandi.</p>
+				<p>Aufhebung des Interdiktes</p>
+				<p>Ac quibuscumque utriusque sexus personis ecclesiasticis et secularibus, quas ad
+					loca ecclesiastico interdicto et apostolica auctoritate sup<pb
+						xml:id="P3_0000036"/>posita declinare contigerit, ut in eis ianuis clausis
+					non pulsatis campanis, excomunicatis et interdictis prorsus exclusis in sua
+					domesticorumque et familiarium suorum praesentia dummodo ipsi causam non
+					dederint interdicto nec contingat eos specialiter interdici celebrare et
+					celebrari facere licite possint facultatem concedendi; ac quibuscumque utriusque
+					sexus personis sepulchrum Domini cum visitare volentibus, ut ad illud et alia
+					loca pia ultra marina absque alicuius censurae aut paenae incursu accedere
+					possint, dummodo aliqua prohibita non deferant.</p>
+				<p>Befreiung vom Fastengebot</p>
+				<p>Ac ut quadragasimalibus et aliis prohibitis temporibus et diebus, ovis, butiro
+					caseo et aliis lacticiniis, carnibus de utriusque medici consilio, ac secreto et
+					sine scandalo uti, vel vesci libere et licite valeant concedendi.</p>
+				<p>Exekutionsvollmachten</p>
+				<p>Et ut concessiones, gratiae et literae per te vigore praesentium concedendae
+					sublatis obstaculis suum sortiant effectum, quascumque personas ad effectum
+					dumtaxat omnium et singulorum praemissorum consequentes ab omnibus et
+					quibuscumque excomunicationis, suspensionis et interdicti aliisque
+					ecclesiasticis sententiis, censuris et poenis a iure vel ab homine quavis
+					occasione vel causa latis si quibus quomodolibet innodati fuerint, dummodo in
+					eis per annum non insorduerint absolvendi et absolutos fore censendi; vices tuas
+					in praemissis in toto vel in parte committendi, iudices assistentes,
+					commissarios et executores pro praedictorum et literarum tuarum executione et
+					observantia delegandi mandata, prohibitiones, et monitoria, etiam sub censuris
+					et aliis poenis praedictis, caeterisque benevisis remediis et etiam appellatione
+					postposita decernendi, et omnia, et quaecumque alia in praemissis et circa ea
+					necessaria seu quomodolibet opportuna faciendi, decernendi et exequendi, etiam
+					per alium, seu alios auctoritate apostolica praedicta tenore praesentium plenam
+					et liberam licentiam, et facultatem, et auctoritatem concedimus et indulgimus.
+					Decernentes te omnibus facultatibus et concessionibus praedictis et cum
+					derogationibus, suspensionibus, indultis, irritantibus aliisque decretis, et
+					clausulis necessariis, et opportunis, ac in literis apostolicis concedi, et
+					ostendi solitis in quibuscumque partibus tuae legationis, nec non dominiis,
+					civitatibus et locis praedictis libere et licite uti posse, ac in concessionibus
+					et gratiis et aliis dispositionibus per te auctoritate praesentium tuaeque
+					legationis faciendi soli narrativae tuae ac etiam solis concessionibus et
+					literis tuis absque aliqua praesentium insertione, seu exhibitione, aut notarii
+					testiumque adhibitione stare, nec non ad id alterius probationis adminisculum
+					requiri, sicque per quoscumque iudices, et <pb xml:id="P3_0000037"/>delegatos
+					etiam causarum palatii apostolici auditores, ac sanctae Romanae ecclesiae
+					cardinales in quavis causa, et instantia sublata eis, et eorum cuilibet aliter
+					iudicandi et interpretandi facultate et auctoritate ubique iudicari, et
+					diffiniri debere irritum et inane, si secus super his a quoque quavis
+					auctoritate scienter, vel ignoranter contigerit attentari. Non obstantibus
+					literis recolendi memoriae Sixti P. P. IV predecessoris nostri, quibus inter
+					alia cavetur expresse, quod nuntii dictae Sedis etiam cum potestate legati,
+					etiam de latere, tam quo ad beneficia conferenda, quam dispensationes et alias
+					gratias concedendas facultatibus uti non possint, nec quaevis clausulae in
+					literis facultatis huiusmodi appositae adversus dictas literas ad quicque
+					suffragentur, nec non defectibus et aliis praedictis, et quorumcumque
+					conciliorum universalium, provincialium, et synodalium, nec non piae memoriae
+					Bonifatii P. P. VIII etiam praedecessoris nostri de una, et duabus dictis et
+					aliis apostolicis, et in provincialibus, et snodalibus conciliis editis
+					gratialibus, vel specialibus constitutionibus, et ordinationibus nec non
+					cancellariae praedictae regulis nullis prorsus exceptis, et quae sigillatim in
+					quacumque re extendi, et exprimi possint, statutis quoque et consuetudinibus
+					ecclesiarum monasteriorum, universitatum, collegiorum, civitatum et locorum
+					huiusmodi, nec non ordinum quorumcumque etiam iuramento confirmatione
+					apostolica, vel quavis firmitate alia roboratis statutis, etiamsi de illis
+					servandis, nec non interpretandis literis apostolicis contra illa et illis,
+					etiam ab alio, vel aliis impetratis, seu alias quovis modo concessis, non utendo
+					personae praestiterint eatenus, vel imposterum praestare contigerit iuramentum,
+					ac quibus vis aliis privilegiis, et indultis apostolicis generalibus vel
+					specialibus, quorumcumque etiam Cisterciensium et Cluniacensium ordinum quae
+					praemissis quovismodo obstare videantur, per quae praesentibus non expressa, vel
+					totaliter non inserta effectus earum impediri valeat quomodolibet, vel differri,
+					et de quibus quorumque totis tenoribus de verbo ad verbum habenda sit in
+					nostris, tuisque literis mentio specialis, quae quoad hoc nullatenus cuique
+					suffragari volumus. Quibus omnibus caeterisque contrariis, ubi, et quando
+					expediet secundum rei et casus exegentiam in genere, vel in specie, ac tam
+					coniunctum, quam divisim, prout tibi placuerit valeas derogare et super his
+					indulgere. Quodque aliqui super provisionibus tibi faciendis de huiusmodi, vel
+					aliis beneficiis ecclesiasticis in illis partibus speciales, vel generales
+					dictae Sedis, vel legatorum eius literas impetrarint, etiam si per eas ad
+					inhibitionem, reservationem, et decretum vel alias quomodolibet sit processum.
+					Quibus amnibus personas in quarum favorem per te de beneficiis praedictis
+					providebitur, aut alias disponetur in eorum executione volumus anteferri, sed
+					nullum per hoc quoad executionem beneficiorum aliorum preiudicium generari,<pb
+						xml:id="P3_0000038"/> seu si locorum ordinariis, et collatoribus, vel
+					quibusvis aliis communiter, vel divisim ab eadem sit sede indultum, quod ad
+					receptionem vel provisionem alicuius minime teneantur, et ad id compelli, aut
+					quod interdici, suspendi, vel excomunicari non possint, quodque de huiusmodi,
+					vel aliis beneficiis ecclesiasticis ad illorum collationem provisionem
+					presentationem, electionem, seu quamvis aliam dispositionem coniunctim vel
+					separatim spectantibus (?) nulli valeat provideri per literas apostolicas non
+					facientes plenam et expressam, ac de verbo ad verbum de indulto huiusmodi
+					mentionem et qualibet alia dictae Sedis indulgentia generali, vel speciali
+					cuiuscunque tenoris existat, per quam praesentibus necnon literis per te
+					earundem vigore concedentes non expressam vel totaliter non insertam effectus
+					earum impediri valiat quomodolibet vel differri, et de qua cuiusque tenore
+					habenda sit in eisdem literis mentio specialis.</p>
+				<p>Volumus autem, quod praesentium transumptis etiam impressis manu regentis
+					cancellariae tuae, et sigillo tuo obsignatis eadem illa prorsus fides in iudicio
+					et extra illud ubique locorum adhibeatur, quae adhiberetur eisdem praesentibus
+					si essent exhibitae vel ostensae. . . .</p>
+				<p>A tergo</p>
+				<p>Dilecto filio magistro Hieronymo ex comitibus Purliliarum utriusque signaturae
+					referendario ad quasdam superioris Germaniae partes nostro, et apostolicae sedis
+					nuncio.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

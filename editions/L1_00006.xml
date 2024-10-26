@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00006">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1580-09-28" n="1">1580-09-28</title>
+				<title level="a">6. Malaspina an Gallio - Graz, 1580 September 28</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 24r—29r, Orig.<lb/>Ebenda f.
+							30r—33v, Duplikat.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00006">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1580-09-28" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00005.xml">5.
+						Malaspina an Gallio - Venedig, 1580 September 19</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00007.xml">7.
+						Malaspina an Gallio - Graz, 1580 September 29</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00005.xml">5. Malaspina an Gallio -
+						Venedig, 1580 September 19</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00007.xml">7. Malaspina an Gallio -
+						Graz, 1580 September 29</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Ankunft in Graz. Kurzer Bericht über Beobachtungen auf der Reise durch Friaul und
+					Kärnten: Eindringen der Häresie in italienisches Gebiet, ein Italiener als
+					häretischer Prediger in Villach, Außerachtlassung des Fastengebotes, häretische
+					Bücher, Mischehen, Priesterkonkubinat, besonders skandalöse Zustände im
+					bambergischen Gebiet Kärntens, vor allem in Villach. Notwendigkeit der Ersetzung
+					des häretischen bambergischen Vizedoms Hoffmann durch einen Katholiken. Sorge
+					wegen Wahl des Bischofs von Bamberg. Unwissenheit in Glaubensfragen.
+					Beklagenswerte Zustände bei der Wahl der Seelsorger.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="6">Malaspina an Gallio - Graz, 1580 September 28</head>
+			<div>
+				<pb xml:id="P1_0000016"/>
+				<p>Io son gionto qua oggi sano per gratia di Dio et sarei arrivato doi giorni prima,
+					ma la penuria de cavalli è tale nel Frioli et in questi paesi che non può esser
+					maggiore, massime al presente che tutti li tengono in opera. La mia mala fortuna
+					ha poi voluto che non ho ritrovato qua né il vescovo di Gurgo né il p. rettore,
+					per esser andato il vescovo in visita<note xml:id="FN1_00006_01" type="footnote"
+						>Malaspina war in seiner Instruktion an Bischof Christoph Andreas von Gurk
+						und den Rektor des Grazer Jesuitenkollegs, P. Emmerich Forsler, verwiesen
+						worden (Nr. 1).</note>et haver condoto seco il rettore, di modo che non ho
+					potuto haver quella luce che aspettavo et desideravo. In servitio del negotio mi
+					son però consolato molto, havendo parlato con il p. ministro et p.
+						predicatore,<note xml:id="FN1_00006_02" type="footnote"> Wahrscheinlich P.
+						Johann Reinel (Uhlirz, Ein Bruchstück des Diariums, S. 10 f.).</note>da’
+					quali ho compreso non essere sucessa novità niuna notabile né in bene né in male
+					già molti giorni et mesi sono, et la instruttione, che V. S. Illma me ha data è
+					tanto ampia et compita, che credo che poco di più possono né dire né racordare.
+					S. A. me ha mandato a vedere questa serra per il suo maggiordomo<note
+						xml:id="FN1_00006_03" type="footnote"> Georg Freiherr von Khevenhüller,
+						1574—1580 Obersthofmeister (Thiel, Zentralverwaltung, S. 203).</note>et
+					informarsi della salute di N. S., mostrando una singolar devotione et figliai
+					amore alla S. Slìl. Credo che domani haverò audientia, non so per ancora di che
+					forma, se publica o privata, che in questo, se bene ho racolto il costume, mi
+					son totalmente remesso a quello che sarà di più sodisfattione a S. A. Altro
+					insin’hora non ho potuto fare.</p>
+				<pb xml:id="P1_0000017"/>
+				<p>Ma perché nel viaggio mi sono andato informando di alcune cose da quelli pochi
+					catholici che ho ritrovato, quale ho cercato di consolare, inanimire et sovenire
+					quanto ho potuto et confirmarli nel loro santo proposito, pregandoli a tener
+					bona et fidele corrispondentia meco, et havendo conferito alcune d’esse al p.
+					ministro et cognosciuto che son stato raguagliato fidelmente, ho giudicato di
+					doverne dar parte a V. S. Illma.</p>
+				<p>Et prima V. S. Illma deve sapere che, oltre a quello che li catholici me hanno
+					avisato, io ancora ho ocularmente cognosciuto et veduto che bisogna molto bene
+					invigilare ché li paesi, che confinano tra catholici et heretici, siano guardati
+					et custoditi diligentissimamente; et, se in loco alcuno è necessario, certo che
+					è nelli confini tra li sig. Venetiani et l’arciduca per il grande continuo et
+					necessario comertio ch’è tra un popolo et l’altro.<note xml:id="FN1_00006_04"
+						type="footnote">Vgl. Simonsfeld, Der Fondaco dei Tedeschi in Venedig II, S.
+						104 f.</note>Et questo li catholici racordano perché ogni giorno vedano che
+					a molti de’ nostri li heretici danno moglie et non guardano a dote et, come
+					questo segue, la cosa è fatta ; et in cambio di guadagnare in mercantie, perdono
+					la fede et il scandalo è ridoto a tale, che in Villaco un’Italiano, ch’è di
+					Venzzone, loco de sig. Venetiani nel Frioli, è predicatore delli heretici. <note
+						xml:id="FN1_00006_05" type="footnote">Name nicht bekannt.</note>Cercano
+					ancora di condure medici et altri <note xml:id="FN1_00006_06" type="footnote">Im
+						16. Jahrhundert kamen Italiener als Künstler, Beamte, Kaufleute, Apotheker
+						und Ärzte in größerer Zahl vor allem nach Graz (Wastler, Das Kunstleben am
+						Hofe zu Graz, S. 15—90; Popelka, Geschichte der Stadt Graz II, S. 315 f.;
+						Morpurgo, Gli Artisti in Austria I, S. 37—59).</note>et come sono tra di
+					loro o a un modo o a un’altro li seducano, et questa è la gloria loro et non
+					voglio tacere quello che io in questo particulare ho tocato con mano, et mi son
+					confirmato che non si ha tutta quella cura, che sarebbe necessaria di questi
+					confini.</p>
+				<p>Io alogiai una serra in un loco de’ sig. Venetiani, chiamato la Chiusa,<note
+						xml:id="FN1_00006_07" type="footnote">Chiusaforte.</note>sei milia lontano
+					dalli confini del arciduca. Ritrovai l’hoste heretico et, oltre che il suo
+					figliuolo me lo disse, confessando anco esso d’essere simile al padre, io ne
+					hebbi molti chiari argumenti. Et in spetie un p. Jesuita polaco,<note
+						xml:id="FN1_00006_08" type="footnote"> Nichts Näheres bekannt.</note>che ho
+					condoto meco in questo viaggio, ritrovò nella casa doi libri heretici, quali io
+					consignai al curato, in presentia del capitano del loco, et non lasciai di dire
+					quello che mi pareva necessario in questo proposito a l’uno et l’altro di loro.
+					Ma il curato, se bene confessa che l’hoste è heretico et che è cosa certissima,
+					dice d’haver sgravata la sua conscientia con l’abbate<pb xml:id="P1_0000018"/>
+					di Moza, sotto la cui iurisditione sta detto loco, <note xml:id="FN1_00006_09"
+						type="footnote">Moggio, Benediktinerkloster in Friaul.</note>et che però non
+					sa che farà, et dice che l’abbate ha fatto fare certe diligentie, ma non in modo
+					di voler ritrovare il vero. Questo hoste è tale, per quanto ho inteso da homini
+					del paese, che, oltre che contamina molti nel loco col farli mangiare cibi
+					prohibiti in vigilie et altri giorni, dicono che è intervenuto che, andando ad
+					aloggiar seco alchuni Todeschi, volendoli far mangiar cibi di carne in vigilia,
+					che loro, stomacondosi, si sono partiti et andati a un’altra hosteria. L’hoste
+					si domanda Martin Joler Todezco, credo che sarebbe opera pia et utile di amonire
+					questo abbate ad haver più cura del carico che ha dell’abbadia di quello che fa,
+					havendo sotto d’essa altri curati, che vivono con scandalo. Per quanto ho
+					inteso, vive l’abbate nella città di Bellone <note xml:id="FN1_00006_10"
+						type="footnote">Belluno.</note>et ha per superiore il vescovo di Udena.
+						<note xml:id="FN1_00006_11" type="footnote">Wahrscheinlich der Koadjutor des
+						Patriarchen in Udine.</note>In questi confini bisognarebbe haver molta cura
+					alii hosti et esequire alcuni ordini che si sono fatti in questo proposito, et
+					in particular quelli del cardinale Paleoto<note xml:id="FN1_00006_12"
+						type="footnote"> Gabriele Paleotti, Begleiter des Kardinallegaten am
+						Trienter Konzil (Merkle, Concilium Tridentinum, Diariorum Pars III/1, S.
+						231—762), 1565 Kardinal, 1566 Bischof von Bologna, einer der Eifrigsten bei
+						der Durchführung der tridentinischen Reform; er publizierte zahlreiche
+						diesbezügliche Anweisungen und 1580 ein Episcopale für die Regierung der
+						Diözese (Paschini, Gabriele Paleotti, in: Enciclopedia Cattolica IX, S.
+						600).</note>et tener molto ben l’occhio addosso alli nostri che trafficano
+					nelle paesi d’heretici quando ritornano, et alli heretici che vengano nelli
+					paesi nostri per provedersi di vino et infinite altre cose, racordano ancora
+					questi zelosi catholici il tener espurgato il studio di Padova et Venetia.<note
+						xml:id="FN1_00006_13" type="footnote"> Am 8. Februar 1580 führte der Bischof
+						von Padua schwere Klagen gegen die deutschen Studenten (Favaro, Atti della
+						nazione germanica artista nello studio di Padova I, S. 166—168).</note>
+				</p>
+				<p>Con li sig. Venetiani confinano li lochi che il vescovo di Bamberga ha in questi
+						paesi,<note xml:id="FN1_00006_14" type="footnote">Siehe oben Nr. 1, Anm.
+						17.</note>li quali nel spirituale sono sottoposti al patriarcha d’Aquileia;
+					et è uno stato molto bello, con alcune città et lochi de importantia. Questa
+					parte è tanto contaminata, che si può dire che omnes declinaverunt et inutiles
+					facti sunt et non est, qui faciat bonum, et la città di Villaco, nella quale
+					suol ressedere il locotenente del vescovo, è reffugio de tutti li heretici, che
+					non hanno secura stantia in altri paesi. <note xml:id="FN1_00006_15"
+						type="footnote">Vgl. Neumann, Die Reformation in Villach, S. 421 ff.</note>A
+					questo governo doveva venire quell’Hoffmam,<note xml:id="FN1_00006_16"
+						type="footnote"> Siehe oben Nr. 1, Anm. 18.</note>il<pb xml:id="P1_0000019"
+					/> quale pensava di desradicare quelle poche piante che ci sono di catholici,
+					che sono rarissime, ma, essendo morto il vescovo di Bambaerga, <note
+						xml:id="FN1_00006_17" type="footnote">Bischof Johann Georg von Bamberg war
+						am 7. September gestorben (Hierarchia Catholica III, S. 128).</note>che così
+					qua asseriscono circa la persona di questo mal homo, non occorre che racconti
+					quello che per camino ho inteso, solamente sarà mia cura di resistere alli impii
+					conati suoi per altri capi, essendo massime egli amato et dal principe et dalla
+					nobiltà, non essendo però egli molto nobile. <note xml:id="FN1_00006_18"
+						type="footnote">In Wirklichkeit gehörte er einer der vornehmsten Familien
+						der Steiermark an (Huber, Hoffmann, S. 58—64).</note>
+				</p>
+				<p>Conviene, per quella che da basso son per dire, che io rapresenti a V. S. Illma
+					la forma, che si tiene nel governo di questi popoli sottoposti al vescovo di
+					Bamberga. Doppo che l’imperatrice Conigonda ne fece donativico al vescovato di
+					Bamberga, sempre si sono governati in questo modo:<note xml:id="FN1_00006_19"
+						type="footnote">Intervention der Kaiserin Kunigunde (Jaksch, Geschichte
+						Kärntens I, S. 164 f.).</note>Il vescovo nomina un locotenente generale et
+					le città et le comunità nominano 24 consiglieri, de’ quali il vescovo elegge 12.
+					Questi dodeci hanno una gionta di otto homini populari, et in questa elettione
+					non se intromette il locotenente.<note xml:id="FN1_00006_20" type="footnote">
+						Vgl. Moro, 700 Jahre Stadt Villach, S. 97 f.</note>Hora bisognerebbe
+					procurare prima, che il locotenente fosse bon catholico et che attendesse con
+					diligentia di non approvare li 12 propostoli, se non fossero catholici, cosa che
+					non è impossibile, et, come questi fossero boni, farebbono ancora bona elettione
+					delli otto populari, massime che in tutte queste parti il popolo et manco
+					contaminato. Et perché in ogni loco che non sia città il vescovo mette un
+					castellano, importarebbe che non si admettessero se non catholici, et questo è
+					in mano del vescovo, et in effetto è necessario, che vuol remediare in parte a
+					così perniciosa pestilentia, che li popoli intendano che il vescovo aiuta li
+					catholici, et desidera et vuol che si vivi catholicamente. È poi necessario
+					ancora che mons. patriarcha, in quell che tocca al’officio suo, ponghi maggior
+					diligentia in ogni cosa. Ho ritrovato vicino a Villano un suo vicario
+						foraneo,<note xml:id="FN1_00006_21" type="footnote"> Gemeint ist der
+						aquileiensische Archidiakon für Oberkärnten, der in Villach oder einer
+						benachbarten Pfarre seinen Sitz hatte (Fresacher, St. Jakob in Villach, S.
+						328 f.).</note>al quale, se bene non ho potuto parlare, intesi però che
+					haveva moglie, et in tutta la jurisdittione sua non ho ritrovato se non un prete
+					catholico. Ma quando S. S. Revma vorrà <pb xml:id="P1_0000020"/>haver bona
+					intelligentia meco, come spero, nella bontà sua io mi affaticarcò di proporrerli
+					sacerdoti catholici.</p>
+				<p>In Villaco è un monastero, che altre volte era tenuto da frati claustrali di S.
+						Francesco<note xml:id="FN1_00006_22" type="footnote">Minoritenkloster, 1251
+						genannt, 1785 aufgehoben (Erläuterungen zum histor. Atlas II/8, 1, S.
+						136).</note>et al presente vi sta solamente un frate Ferrarese, il quale va
+					senz’habito regolare et non fa frutto alcuno. Ha questo monasterio sesanta
+					fiorini de intrata, li quali si errigano de’ fiti da heretici et sono pagati
+					bene. Ci è ancora un altro monastero, pur del medesimo ordine, in un altro loco
+					poco distante, <note xml:id="FN1_00006_23" type="footnote">Wahrscheinlich das
+						Klarissenkloster in St. Veit (Rainer, Zur Ausbildung der Kärntner Priester,
+						S. 872 f.).</note>nel quale sta pur un frate solo et ha de intrata
+					cinquantacinque fiorini. Io andavo pensando fosse bene di aplicare queste due
+					case alli Jesuiti et far che loro di presente ci mantenessero in ogn’una di
+					queste case doi predicatori, et voglio sperare che se si operarà che il
+					locotenente sia catholico, che li consiglieri ancora essi siano tali et che il
+					popolo vedi, che li capi siano boni et che frequentino le predicationi come
+					dovranno fare, et che si sapia che il vescovo dichi da dovero et che il
+					patriarcha anco esso faccia da dovero, che forsi presto si vederà qualche
+					notabil frutto. Et perché il vescovo di Cattaro soffraganeo di mons, patriarcha
+					mi scrive che pensa di visitare queste parti,<note xml:id="FN1_00006_24"
+						type="footnote"> Bischof Franz Zupan hatte bereits in Krain und in der
+						Untersteiermark visitiert und beabsichtigte, die Visitation in den anderen
+						zu Innerösterreich gehörenden Gebieten der Diözese Aquileia fortzusetzen (De
+						Renaldis, Patriarcato d’Aquileia, S. 321).</note>io sarei d’opinione che
+					soprasedesse insino alla elettione del vescovo et insino che si vedesse di dar
+					forma a quello che si sopra ho detto, acciò non fosse la sua visita infruttuosa
+					et forsi ridicolosa alli heretici.</p>
+				<p>Ma perché tutto il fondamento sta nella elettione del vescovo, della quale si può
+					sperare, essendo, come intendo qua, li canonici poco catholici poco bene, se non
+					se li mette un bon freno, andavo pensando se si dubitasse che non fosse per
+					bastare le amonitioni et esortationi che se le faranno, che se le facesse
+					penetrare in qualche modo, che in evento, che loro non havessero eletto un
+					vescovo bon catholico, che S. Stà le havrebbe tolto qualche espediente poco a
+					loro gusto et sodisfattione, come sarebbe a dire dar facoltà al arciduca, che
+					delli lochi, che il vescovo ha nel suo paese, S. A. havesse egli cura di
+					governarli et farli vivere bene et metterli ministri catholici.<note
+						xml:id="FN1_00006_25" type="footnote">Breven vom 3. September und 15.
+						Oktober 1580: Theiner, Annales eccl. III, S. 124, und Arch. Vat. Ep. ad
+						Principes 14, f. 209r.</note>Questo è un passo <pb xml:id="P1_0000021"/>che
+					li metterebbe il cervello a partita et forsi farebbono formidine ; pure quello
+					che piaccia a Dio facciano virtutis amore et il vescovo morto non haveva altra
+					paura, se non che l’arciduca non havesse mira a quelli lochi, come ho inteso da
+					un ministro del vescovo in Vilaco, homo catholico ma oculto. Et quando la
+					elettione del vescovo fosse per tardare o vero se facesse certo giudicio, che
+					fosse per esser poco catholico, non sarebbe forsi fuor di proposito che S. Stà,
+					con il brazzo del arciduca, nominasse alcuno per il governo di quelli lochi,
+					conforme a quello che inanzi alla morte del vescovo si era pensato. <note
+						xml:id="FN1_00006_26" type="footnote">Nr. 3.</note>
+				</p>
+				<p>Scrivo al nontio del’ imperatore quanto importi per questi paesi che si faccia
+					bona elettione, et che perciò stia vigilante, se bene so che senz’altro non
+					havrebbe mancato,<note xml:id="FN1_00006_27" type="footnote">Nr. 8.</note>terrò
+					similmente ragionamento con S. A., acciò faccia officio con l’imperatore o con
+					chi più le parerà, acciò questo vescovato cadi in persona catholica ; già li
+					heretici ci si andavano gloriando che, contra la volontà di S. Stà, havrebbono
+					havuto per governatore Hoffmam. Io son di opinione che sarebbe cosa molto utile
+					et di reputatione, se si potesse securamente et a mano salva far qualche
+					demostratione a terrore della perfidia et ostinatione di costoro, né vedo dove
+					meglio né più giustificatamente si possi fare, che nelli lochi del vescovo,
+					quali sono et sottoposti alla chiesa et più contaminati. Et quanto al’ escitar
+					scandali et rumori qua, spero, se bene per ancora non posso parlar
+					affirmativamente, che si havrebbe ogni aiuto sufficiente ; quanto poi alla corte
+					del’ imperatore et altre parte di Germania, io non lo so.</p>
+				<p>Questi catholici, a’ quali ho parlato per viaggio, hanno opinione che non fosse
+					mai manco difficile il procurare qualche frutto in servitio delle anime di
+					quello che al presente è, poiché da doi anni in qua sono intrate tante diverse
+					opinione tra di loro, che hor mai niuno sa quello che si debba credere et chi
+					vuol vivere catholicamente può vivere et in effetto ogn’uno a suo modo, et
+					purché che si mangia<note xml:id="SN1_00006_a" type="siglum">Ms.:
+					magia.</note>et si beva et si vivi alegramente del resto si tiene poco conto,
+					eorum Deus venter est, et qua ne hanno grandissima comodità et però incrassatus
+					est dilectus et recalcitravit, incrassatus impinguatus et dilatatus dereliquit
+					Deum factorem summum.</p>
+				<p>In tutto questo paese è un disordine grandissimo; circa la elettione delli curati
+					sono tutti amouibili et al più durano un anno et la elettione pertiene o alli
+					popoli o alli nobili o alli vescovi, et intervene <pb xml:id="P1_0000022"
+					/>spesso che, prevalendo un anno li catholici, elegano un curato catholico et
+					predica et insegna catholicamente, un altro anno prevale la parte delli heretici
+					et clegono un heretico et predica tutto il contrario, di modo che li popoli non
+					sanno quello che si debbano credere et sono degni di grandissima
+					compassione.</p>
+				<p>Ho osservato molte altre cose, ma ho voluto scrivere le più essentiali et quelle
+					che ocularmente ho veduto io, delle quali questi padri non sono molto informati.
+					Andarò hora pigliando fidele informatione del stato delle cose di questi paesi
+					del’ arciduca et vederò di rimediare a quello che potrò et ne darò a V. S. Illma
+					pieno aviso.</p>
+				<p>Mi dà ben grandissimo fastidio il non esserci modo alcuno di scrivere, se non per
+					la via di Pragga, et non ci è manco un ordinario, ma espediscono conforme alli
+					negotii, per la via di Venetia è impossibile, però farò al meglio che potrò<note
+						xml:id="FN1_00006_28" type="footnote">Vgl. Nr. 1, S. 9f.</note>...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

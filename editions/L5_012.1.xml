@@ -1,192 +1,198 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_012.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-02-10" n="1">1599-02-10</title>
-                    <title level="a">12.1. Aldobrandini an Portia - Rom, 1599 Februar 10</title>
-                    <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 39, fol. 35r, Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_012.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                        <date when="1599-02-10" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_011.1.xml">11.1. Portia an Aldobrandini - Graz, 1599 Februar 13</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_012.2.xml">12.2. Aldobrandini an Portia - Rom, 1599 Februar 13</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_011.1.xml">11.1. Portia an
-                            Aldobrandini - Graz, 1599 Februar 13</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_012.2.xml">12.2. Aldobrandini an
-                            Portia - Rom, 1599 Februar 13</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Ankündigung eines päpstlichen Breves an Erzherzog Ferdinand zur Empfehlung
-						des Herrn Johann Georg Ainkhürn.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="12.1">Aldobrandini an Portia - Rom, 1599 Februar 10</head>
-				<div>
-					<p>Scrive N. S. un breve al ser.mo Arciduca Ferdinando in raccomandatione del
-						Sig. Giovanni Giorgio Ainchiori<note xml:id="FN5_012.1_01" type="footnote">Johann Georg Ainkhürn, Hofdiener von Eh. Ferdinand (1596),
-							Landesverwalter in Krain (1602). Johann Georg Ainkhürn befand sich zuvor
-							zu Studienzwecken in Rom und erhielt dafür monatlich 15 Goldscudi vom
-							Papst. Ende Januar 1596 empfahl die Kurie ihn und seinen Bruder der
-							erzherzoglichen Familie in Graz: vgl. VALVASOR 3, S. 71; THIEL 1, S.
-							196; RAUCH, S. 240; RAINER, GN 4, Nr. 59, 66, 187. Die regelmäßigen
-							Zahlungen der Depositeria Generale der Kurie an Johann Georg von
-							Ainkhürn sind vom 21. Februar 1592 bis zum 15. Januar 1594 sowie vom 31.
-							Januar 1596 bis zum 13. Mai 1598 mit einzelnen Unterbrechungen belegt:
-							ASR, Camerale I, Conti della Depositeria Generale 1832, 1834, 1835,
-							1837, 1839, 1840, 1841. Schon in den Jahren 1596–1598 wurde seitens der
-							Kurie über Portia interveniert, damit Johann Georg Ainkhürn das Schloss
-							Loitsch/Logatec erhalte: vgl. RAINER, GN 4, Nr. 181, 253. Tatsächlich
-							wird ein entsprechendes Breve an Eh. Ferdinand am 28. April 1599
-							ausgestellt: vgl. NANNIIMRKONJIé 3, Nr. 13141. Johann Georg Ainkhürn
-							wollte Rom im Mai 1599 verlassen und sich unter anderem in den Dienst
-							Raimund von Thurns begeben, der für ihn eine Empfehlung ausgesprochen
-							hat: vgl. Aldobrandini an Raimund von Thurn, Rom, 1599 Mai 15, ASV,
-							Fondo Borghese, serie III 33, fol. 203r. Im November 1601 wurde er von
-							Eh. Ferdinand nach Rom geschickt, um Clemens VIII. das Mitgefühl über
-							den Tod Gian Francesco Aldobrandinis zu überbringen und über die Kämpfe
-							um die Festung Kanizsa zu berichten: vgl. Nr. 275.1.</note>, che
-						desidera le sia concesso da S. A. il Castello di Longatez<note xml:id="FN5_012.1_02" type="footnote">Das Schloss Loitsch/Logatec diente
-							als Sitz des Vizedomamtes und der gleichnamigen landesfürstlichen
-							Herrschaft, die bis 1620 verpachtet war. Als Pächter scheinen unter
-							anderem Urban (1580–1587) und Georg (1591–1599) Ainkhürn auf. 1620 wurde
-							die Herrschaft an die Familie Moscon verkauft und verblieb dann in den
-							Händen verschiedener adeliger Familien: vgl. SAPAC, S. 83–91 (Ich danke
-							Dr. Sašo Jerše für die freundliche Mitteilung).</note> con quelle
-						conditioni che le teneva suo Padre<note xml:id="FN5_012.1_03" type="footnote">Georg Ainkhürn, Landesverwalter in Krain (1593–1595). Er
-							nahm 1594 mit dem Aufbot und der Ritterschaft aus Krain bei der Schlacht
-							um Petrinia/Petrinja teil: vgl. VALVASOR 3, S. 71. Eh. Ferdinand
-							beabsichtigte, die Herrschaft Loitsch/Logatec dem Quecksilberwerk in
-							Idria/Idrija zu inkorporieren, sicherte Georg Ainkhürn aber für den
-							Fall, dass die Herrschaft Logatec doch weiter vergeben wird, im Oktober
-							1599 die erste Antwartschaft darauf zu: vgl. StLA, HK–1599-X–40. Laut
-							Valentinitsch hatte Johann Georg von Ainkhürn die landesfürstliche
-							Pfandherrschaft Loitsch/Logatec von 1586–1606 inne: vgl. VALENTINITSCH,
-							S. 370.</note>,<pb xml:id="P5_0000025"/> et io la supplico con l’inclusa
-						mia lettera di questa gratia, et perché intendo esser di molto più utile et
-						servitio dell’A. S. il conceder detto Castello in questa maniera che darlo a
-						Ministri particolari. Prego V. S. nel render detto Breve et lettera
-						accompagnarli con quelli offitii che giudicherà necessarii rappresentando a
-						S. A. il piacere che è per sentirne N. S. et l’obligatione che sono per
-						tenerli di questo favore. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_012.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-02-10" n="1">1599-02-10</title>
+                <title level="a">12.1. Aldobrandini an Portia - Rom, 1599 Februar 10</title>
+                <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 39, fol. 35r, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_012.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <date when="1599-02-10" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_011.1.xml"
+                        >11.1. Portia an Aldobrandini - Graz, 1599 Februar 13</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_012.2.xml">12.2.
+                        Aldobrandini an Portia - Rom, 1599 Februar 13</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_011.1.xml">11.1. Portia an
+                        Aldobrandini - Graz, 1599 Februar 13</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_012.2.xml">12.2. Aldobrandini an
+                        Portia - Rom, 1599 Februar 13</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Ankündigung eines päpstlichen Breves an Erzherzog Ferdinand zur Empfehlung des
+                    Herrn Johann Georg Ainkhürn.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="12.1">Aldobrandini an Portia - Rom, 1599 Februar 10</head>
+            <div>
+                <p>Scrive N. S. un breve al ser.mo Arciduca Ferdinando in raccomandatione del Sig.
+                    Giovanni Giorgio Ainchiori<note xml:id="FN5_012.1_01" type="footnote">Johann
+                        Georg Ainkhürn, Hofdiener von Eh. Ferdinand (1596), Landesverwalter in Krain
+                        (1602). Johann Georg Ainkhürn befand sich zuvor zu Studienzwecken in Rom und
+                        erhielt dafür monatlich 15 Goldscudi vom Papst. Ende Januar 1596 empfahl die
+                        Kurie ihn und seinen Bruder der erzherzoglichen Familie in Graz: vgl.
+                        VALVASOR 3, S. 71; THIEL 1, S. 196; RAUCH, S. 240; RAINER, GN 4, Nr. 59, 66,
+                        187. Die regelmäßigen Zahlungen der Depositeria Generale der Kurie an Johann
+                        Georg von Ainkhürn sind vom 21. Februar 1592 bis zum 15. Januar 1594 sowie
+                        vom 31. Januar 1596 bis zum 13. Mai 1598 mit einzelnen Unterbrechungen
+                        belegt: ASR, Camerale I, Conti della Depositeria Generale 1832, 1834, 1835,
+                        1837, 1839, 1840, 1841. Schon in den Jahren 1596–1598 wurde seitens der
+                        Kurie über Portia interveniert, damit Johann Georg Ainkhürn das Schloss
+                        Loitsch/Logatec erhalte: vgl. RAINER, GN 4, Nr. 181, 253. Tatsächlich wird
+                        ein entsprechendes Breve an Eh. Ferdinand am 28. April 1599 ausgestellt:
+                        vgl. NANNIIMRKONJIé 3, Nr. 13141. Johann Georg Ainkhürn wollte Rom im Mai
+                        1599 verlassen und sich unter anderem in den Dienst Raimund von Thurns
+                        begeben, der für ihn eine Empfehlung ausgesprochen hat: vgl. Aldobrandini an
+                        Raimund von Thurn, Rom, 1599 Mai 15, ASV, Fondo Borghese, serie III 33, fol.
+                        203r. Im November 1601 wurde er von Eh. Ferdinand nach Rom geschickt, um
+                        Clemens VIII. das Mitgefühl über den Tod Gian Francesco Aldobrandinis zu
+                        überbringen und über die Kämpfe um die Festung Kanizsa zu berichten: vgl.
+                        Nr. 275.1.</note>, che desidera le sia concesso da S. A. il Castello di
+                    Longatez <note xml:id="FN5_012.1_02" type="footnote">Das Schloss Loitsch/Logatec
+                        diente als Sitz des Vizedomamtes und der gleichnamigen landesfürstlichen
+                        Herrschaft, die bis 1620 verpachtet war. Als Pächter scheinen unter anderem
+                        Urban (1580–1587) und Georg (1591–1599) Ainkhürn auf. 1620 wurde die
+                        Herrschaft an die Familie Moscon verkauft und verblieb dann in den Händen
+                        verschiedener adeliger Familien: vgl. SAPAC, S. 83–91 (Ich danke Dr. Sašo
+                        Jerše für die freundliche Mitteilung).</note>con quelle conditioni che le
+                    teneva suo Padre <note xml:id="FN5_012.1_03" type="footnote">Georg Ainkhürn,
+                        Landesverwalter in Krain (1593–1595). Er nahm 1594 mit dem Aufbot und der
+                        Ritterschaft aus Krain bei der Schlacht um Petrinia/Petrinja teil: vgl.
+                        VALVASOR 3, S. 71. Eh. Ferdinand beabsichtigte, die Herrschaft
+                        Loitsch/Logatec dem Quecksilberwerk in Idria/Idrija zu inkorporieren,
+                        sicherte Georg Ainkhürn aber für den Fall, dass die Herrschaft Logatec doch
+                        weiter vergeben wird, im Oktober 1599 die erste Antwartschaft darauf zu:
+                        vgl. StLA, HK–1599-X–40. Laut Valentinitsch hatte Johann Georg von Ainkhürn
+                        die landesfürstliche Pfandherrschaft Loitsch/Logatec von 1586–1606 inne:
+                        vgl. VALENTINITSCH, S. 370.</note>,<pb xml:id="P5_0000025"/> et io la
+                    supplico con l’inclusa mia lettera di questa gratia, et perché intendo esser di
+                    molto più utile et servitio dell’A. S. il conceder detto Castello in questa
+                    maniera che darlo a Ministri particolari. Prego V. S. nel render detto Breve et
+                    lettera accompagnarli con quelli offitii che giudicherà necessarii
+                    rappresentando a S. A. il piacere che è per sentirne N. S. et l’obligatione che
+                    sono per tenerli di questo favore. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

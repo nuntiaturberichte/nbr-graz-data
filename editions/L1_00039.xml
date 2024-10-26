@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00039">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-11-24" n="1">1580-11-24</title>
+                <title level="a">39. Malaspina an Gallio - Graz, 1580 November 24</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 149r—150r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00039">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-11-24" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00038.xml">38.
+                        Malaspina an Gallio - Graz, 1580 November 21</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00040.xml">40.
+                        Malaspina an Gallio - Graz, 1580 November 30</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00038.xml">38. Malaspina an Gallio -
+                        Graz, 1580 November 21</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00040.xml">40. Malaspina an Gallio -
+                        Graz, 1580 November 30</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Sorge um Standhaftigkeit der Prälaten gegenüber Häretikern. Gemeinsame Beratungen
+                    im Landtag über Antwort auf landesfürstliche Proposition. Entschlossenheit
+                    Erzherzog Karls zum Widerstand gegen Forderungen der Häretiker.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="39">Malaspina an Gallio - Graz, 1580 November 24</head>
+            <div>
+                <p>Io sono stato doi giorni tutto sconsolato per haver scoperto che li provinciali
+                    havevano talmente intepidito lo stato ecclesiastico, che dovevo con ragione
+                    temere che non fossero anco essi per seguitare le piedate antiche, et di nuovo
+                    conglutinarsi con li heretici, in detri<pb xml:id="P1_0000121"/>mento della
+                    religione catholica, et con poco honore et reputatione mia. Cercorno costori di
+                    persuaderli che io ero per ridurli a una reformatione strettissima et castigarli
+                    della vita passata et che in evento, che havessero consentito alla separatione
+                    delli stati, che li haverebbe toccato a pagare la portione, che hora pagano
+                    insieme con quella delli provinciali, né sarebbeno all’hora più a tempo di
+                    ricorrere al’ aiuto et prottetione loro, come quelli che habent ius advocatiae,
+                    poiché li sarebbeno stati totalmente contrarii, vedendo che hora non vogliono
+                    insieme star uniti. Havendo io penetrato questo, convocai da me il stato
+                    ecclesiastico et li parlai longamente, et operai in modo che con lacrime mi
+                    giurorno di volere, usque ad effusionem sanguinis, star saldi in defensione
+                    della religione. Ma se bene le promissioni sono state grandissime, io però non
+                    vivo più con quella sicurezza di prima, vedendo tanta instabilità, se bene spero
+                    che non mi mancarano.</p>
+                <p>Nella dieta, la quale li provinciali insieme con il stato ecclesiastico fanno per
+                    risolvere quello che si deve rispondere al principe, sin’hora si è trattato che
+                    è necessario che Offmam sia presente come informatissimo et lor capo.<note
+                        xml:id="FN1_00039_01" type="footnote">Vgl. oben Nr. 32.</note>Et così senza
+                    dubio sarà qua presto et fanno li provinciali in un attimo quello che S. A. non
+                    ha potuto fare in mesi. Come arrivi, che sarà tra cinque giorni, non mancarò di
+                    andarli alla mano et osservare le attioni sue.<note xml:id="FN1_00039_02"
+                        type="footnote"> Siehe Nr. 37, Anm. 2.</note>Hanno similmente discorso che
+                    facendosi novità in materia della religione da S. A., che non può essere che non
+                    sia con augumento della religione de’ catholici, et di loro stessi et con
+                    detrimento della loro, et però, più tosto che veder questo, sono risoluti che il
+                    Turco habbia il dominio della terra, de’ figliuoli, moglie, fratelli et robba
+                    loro insieme con quella de catholici, che permetter mai che li catholici siano
+                    esaltati et loro abbassati. La terza propositione è stata che S. A. revochi il
+                    bando fatto contra un Gesuita apostata, loro predicatore, <note
+                        xml:id="FN1_00039_03" type="footnote">Kaspar Kratzer.</note>et insieme
+                    scaccii li padri Gesuiti da tutto il stato suo, come perturbatori della pace
+                    publica. 4to che sia restituita la predica a quello predicatore, che nel pulpito
+                    disse che S. A. era idolatra, accompagnando il Smo Sacramento. <note
+                        xml:id="FN1_00039_04" type="footnote">Jeremias Homberger.</note>5° che a S.
+                    A. si revocasse a memoria la pacificatione fatta con loro et che però la
+                        confirmasse.<note xml:id="FN1_00039_05" type="footnote"> Brucker
+                        Pazifikation von 1578.</note>6° improperorno a mons. di Secovia et <pb
+                        xml:id="P1_0000122"/>Gurgo et restante del stato ecclesiasticho, che si
+                    erano lasciati impregnare dal nontio, che questo vocabolo hanno usato et si
+                    erano alontanati da loro, et quello che di sopra ho detto. 7° hanno trattato che
+                    S. A., quando pigliò il possesso di questi stati et doppo ancora, li ha promesso
+                    di volerli ratificare tutto quello che l’imperatore suo padre promisse a loro,
+                    et che hora volevano che mettesse in esecutione. <note xml:id="FN1_00039_06"
+                        type="footnote">Siehe oben Nr. 14, Anm. 6.</note>8° hanno letto alcuni
+                    consiglii datti a loro dal Cobenzolo un anno fa, ne’quali li fa animo et le
+                    promette che S. A. al fine li concederà ogni cosa.<note xml:id="FN1_00039_07"
+                        type="footnote"> Wahrscheinlich handelt es sich hier um die vermittelnde
+                        Tätigkeit Kobenzls bei der Brucker Pazifikation (Loserth, Reformation und
+                        Gegenreformation, S. 337—339; derselbe, Die Korrespondenz des
+                        steiermärkischen Landmarschalls Hans Friedrich Hofmann von Grünbüchel und
+                        Strechau mit den Geheimräten Erzherzog Karls Hans Khobenzl und Hans Ambros
+                        von Thurn vom 24. Dezember 1580 bis zum 4. Februar 1581, S. 147 und
+                        151—153).</note>9° hanno proposto che si faccia officio che S. A.
+                    restituischi un beneficio curato a un luterano, che Offman haveva messo a quella
+                    cura, et il principe l’ha privato et messo un catholico. <note
+                        xml:id="FN1_00039_08" type="footnote">Der Streit um mehrere Pfarren, die
+                        Hoffmann mit Prädikanten besetzt hatte, dauerte bis zum Tode Erzherzog Karls
+                        (Loserth, FRA II/50, S. 58, Anm. 1, und S. 59).</note>
+                </p>
+                <p>Hora che hanno finito di proponere le gravezze, che il principe ha fatto a loro,
+                    comincierano a refferire quelle che le città pretendono le siano state fatte a
+                    esse ancora...</p>
+                <p>(P. S.:) Doppo d’haver scritto questa mia, ho havuto audientia da S. A. et l’ho
+                    ritrovata molto animata in voler resistere alli impeti delli heretici, et mi ha
+                    promesso gran cose. Ma al presente non posso avisarne V. S. Illma, perché al mio
+                    ritorno a casa ho saputo che un gentilhomo di Goritia si parte et non mi dà
+                    tempo di poter sodisfare come vorrei...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

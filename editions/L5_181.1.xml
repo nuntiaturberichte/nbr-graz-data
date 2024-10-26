@@ -1,204 +1,210 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_181.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-01-06" n="1">1601-01-06</title>
-                    <title level="a">181.1. San Giorgio an Portia - Rom, 1601 Januar 6</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 41r–42r,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_181.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-01-06" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_180.1.xml">180.1. San Giorgio an Portia - Rom, 1600 Dezember 30</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_182.1.xml">182.1. Aldobrandini an Portia - Lyon, 1601 Januar 9</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_180.1.xml">180.1. San Giorgio an
-                            Portia - Rom, 1600 Dezember 30</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_183.1.xml">183.1. San Giorgio an
-                            Portia - Rom, 1601 Januar 13</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Freude über die Reise Portias im Interesse der Türkenabwehr zu
-						den an Innerösterreich angrenzenden Fürstentümern. Man hofft, dass Portia
-						jemanden dazu bestimmt hat, während seiner Abwesenheit von Graz nach Rom zu
-						berichten. Aufforderung an die Erzherzöge, bei der Wiederbesetzung der Ämter
-						des verstorbenen Kardinals von Österreich [Andreas] ihre Interessen
-						wahrzunehmen, da dies nicht allein Aufgabe des Papstes sein könne. Trotz
-						Interesses Erzherzog Leopolds am Bistum Brixen wird wohl der Bischof von
-						Gurk [Spaur] dieses erhalten.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="181.1">San Giorgio an Portia - Rom, 1601 Januar 6</head>
-				<div>
-					<pb xml:id="P5_0000439"/>
-					<p>Io credevo di ricevere le lettere di due ordinarii congiunte insieme, poi non
-						capitorno quelle della settimana antecedente, ma essendosene ricevuta una
-						mano sola, ne vien a mancar tuttavia un’altra et sono quelle che mi trovo
-						delli 18 del passato<note xml:id="FN5_181.1_01" type="footnote">Nicht
-							auffindbar.</note>. Vedo che ella stava per partire verso li Principi ai
-						quali è destinata<note xml:id="FN5_181.1_02" type="footnote">Vgl. Nr. 174.1,
-							174.3.</note>, il che piace tanto più quanto meno si pensa da gl’altri,
-						come ella dice, alla propria salute. Co’ i Principi medesimi ella sa in che
-						forma dover trattare per conformarsi co ’l senso di N. S., et benché il
-						pensare al modo di difendersi per più tempo dal Turco o di ricuperare dalle
-						sue mani in più d’una volta quello che ha occupato di recente si habbia per
-						buon consiglio, non è però che gl’aiuti non si debban procurar quanto sarà
-						possibile maggiori, perché né il bisogno è ordinario né eccedono mai o
-						mettono sé medesimi in strettezza troppo grande quelli che aiutano, onde non
-						resti con che aiutar di nuovo richiedendolo la necessità et persuadendolo
-						l’interesse loro, et forse consiste in un gran sforzo la sicurezza di quelle
-						Provincie. Non so se V. S. havrà lasciato a Gratz chi ci scriva per lei
-						nella sua absenza come ne fu avvertita<note xml:id="FN5_181.1_03" type="footnote">Vermutlich Guglielmo Guidi: vgl. Nr. 197.1. Darauf wurde
-							Portia wiederholt aufmerksam gemacht: vgl. Nr. 174.3, 176.3, 177.1,
-							179.3.</note> poiché non lo dice, ma l’havressimo ben caro per ogni
-						rispetto et per la commodità spetialmente di far intendere a quelle A. A. le
-						cose pertinenti al loro servitio, senza il mezo anco degl’Ambasciatori, sì
-						come havressimo da avvertirle al presente che non toccherà loro parte alcuna
-						della vacanza del già Cardinal d’Austria, quando non si aiutino più di quel
-						che fanno, perché né conviene a N. S. di violentare alcuno, né si possono
-						forse diferire le elettioni. Mostrorno, come V. S. sa, di aspirar alla
-						Chiesa di Bressinone per Leopoldo<note xml:id="FN5_181.1_04" type="footnote">Anfang Dezember 1600 hatte Raimund von Thurn Eh. Ferdinand empfohlen,
-							den Bischof von Gurk für das Amt in Brixen vorzuschlagen, … che potrebbe
-							esser quasi un intermezzo finché crescesse un puoco più il ser.mo Carlo
-							.: R. von Thurn an Ferdinand, Rom, 1600 Dezember 9, HHStA, Familienkorr.
-							A 9, fol. 195r–199v. In diesem Zusammenhang liegen auch Schreiben von
-							Karl Schurff, dem ehemaligen Hofmarschall Eh. Ferdinands II. von Tirol
-							und Vertrauten des Grazer Hofes in Tirol, an Eh. Ferdinand vom Dezember
-							1600 vor. Darin berichtete er, dass er bezüglich der Besetzung des
-							vakanten Bistums Brixen durch Eh. Leopold in Erfahrung bringen konnte,
-							dass es dort ein oder zwei Kanoniker gäbe, auf die man sich nicht
-							verlassen könne, dennoch habe er sich für diese Angelegenheit
-							eingesetzt: vgl. Schurff an Ferdinand, Sterzing, 1600 Dezember 12,
-							HHStA, Familienkorr. A 9, fol. 126r. Eh. Maria und Eh. Ferdinand waren
-							von Schurffs Bemühungen begeistert und teilten ihm mit, dass der Papst
-							ihnen die vakanten Bene.fizien fiir die Eh. Karl und Leopold angeboten
-							habe. Schurff zeigte sich darüber zufrieden, regte aber ein Schreiben an
-							das Domkapitel von Brixen an: vgl. Schurff an Ferdinand, Bozen, 1600
-							Dezember 18, HHStA, Familienkorr. A 9, fol. 131r–133r. Zu Karl Schurff,
-							Freiherr von Schönwert, und seinem Verhältnis zum Grazer Hof: vgl.
-							HOHENBÜHEL, S. 132f.; HIRN, Tirol, S. 10f.</note>, né in quel luogo
-						tampoco s’intende che<pb xml:id="P5_0000440"/> si facciano le diligenze
-						opportune, et in tanta scarsità di soggetti non si può pensare a prestar
-						favore a quelli che si stimano i migliori, come si stima il Vescovo di Gurg,
-						stante il loro interesse. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_181.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-01-06" n="1">1601-01-06</title>
+                <title level="a">181.1. San Giorgio an Portia - Rom, 1601 Januar 6</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 41r–42r,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_181.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-01-06" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_180.1.xml"
+                        >180.1. San Giorgio an Portia - Rom, 1600 Dezember 30</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_182.1.xml">182.1.
+                        Aldobrandini an Portia - Lyon, 1601 Januar 9</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_180.1.xml">180.1. San Giorgio an
+                        Portia - Rom, 1600 Dezember 30</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_183.1.xml">183.1. San Giorgio an
+                        Portia - Rom, 1601 Januar 13</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Freude über die Reise Portias im Interesse der Türkenabwehr zu den
+                    an Innerösterreich angrenzenden Fürstentümern. Man hofft, dass Portia jemanden
+                    dazu bestimmt hat, während seiner Abwesenheit von Graz nach Rom zu berichten.
+                    Aufforderung an die Erzherzöge, bei der Wiederbesetzung der Ämter des
+                    verstorbenen Kardinals von Österreich [Andreas] ihre Interessen wahrzunehmen, da
+                    dies nicht allein Aufgabe des Papstes sein könne. Trotz Interesses Erzherzog
+                    Leopolds am Bistum Brixen wird wohl der Bischof von Gurk [Spaur] dieses
+                    erhalten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="181.1">San Giorgio an Portia - Rom, 1601 Januar 6</head>
+            <div>
+                <pb xml:id="P5_0000439"/>
+                <p>Io credevo di ricevere le lettere di due ordinarii congiunte insieme, poi non
+                    capitorno quelle della settimana antecedente, ma essendosene ricevuta una mano
+                    sola, ne vien a mancar tuttavia un’altra et sono quelle che mi trovo delli 18
+                    del passato<note xml:id="FN5_181.1_01" type="footnote">Nicht auffindbar.</note>.
+                    Vedo che ella stava per partire verso li Principi ai quali è destinata<note
+                        xml:id="FN5_181.1_02" type="footnote"> Vgl. Nr. 174.1, 174.3.</note>, il che
+                    piace tanto più quanto meno si pensa da gl’altri, come ella dice, alla propria
+                    salute. Co’ i Principi medesimi ella sa in che forma dover trattare per
+                    conformarsi co ’l senso di N. S., et benché il pensare al modo di difendersi per
+                    più tempo dal Turco o di ricuperare dalle sue mani in più d’una volta quello che
+                    ha occupato di recente si habbia per buon consiglio, non è però che gl’aiuti non
+                    si debban procurar quanto sarà possibile maggiori, perché né il bisogno è
+                    ordinario né eccedono mai o mettono sé medesimi in strettezza troppo grande
+                    quelli che aiutano, onde non resti con che aiutar di nuovo richiedendolo la
+                    necessità et persuadendolo l’interesse loro, et forse consiste in un gran sforzo
+                    la sicurezza di quelle Provincie. Non so se V. S. havrà lasciato a Gratz chi ci
+                    scriva per lei nella sua absenza come ne fu avvertita <note
+                        xml:id="FN5_181.1_03" type="footnote">Vermutlich Guglielmo Guidi: vgl. Nr.
+                        197.1. Darauf wurde Portia wiederholt aufmerksam gemacht: vgl. Nr. 174.3,
+                        176.3, 177.1, 179.3.</note>poiché non lo dice, ma l’havressimo ben caro per
+                    ogni rispetto et per la commodità spetialmente di far intendere a quelle A. A.
+                    le cose pertinenti al loro servitio, senza il mezo anco degl’Ambasciatori, sì
+                    come havressimo da avvertirle al presente che non toccherà loro parte alcuna
+                    della vacanza del già Cardinal d’Austria, quando non si aiutino più di quel che
+                    fanno, perché né conviene a N. S. di violentare alcuno, né si possono forse
+                    diferire le elettioni. Mostrorno, come V. S. sa, di aspirar alla Chiesa di
+                    Bressinone per Leopoldo <note xml:id="FN5_181.1_04" type="footnote">Anfang
+                        Dezember 1600 hatte Raimund von Thurn Eh. Ferdinand empfohlen, den Bischof
+                        von Gurk für das Amt in Brixen vorzuschlagen, … che potrebbe esser quasi un
+                        intermezzo finché crescesse un puoco più il ser.mo Carlo .: R. von Thurn an
+                        Ferdinand, Rom, 1600 Dezember 9, HHStA, Familienkorr. A 9, fol. 195r–199v.
+                        In diesem Zusammenhang liegen auch Schreiben von Karl Schurff, dem
+                        ehemaligen Hofmarschall Eh. Ferdinands II. von Tirol und Vertrauten des
+                        Grazer Hofes in Tirol, an Eh. Ferdinand vom Dezember 1600 vor. Darin
+                        berichtete er, dass er bezüglich der Besetzung des vakanten Bistums Brixen
+                        durch Eh. Leopold in Erfahrung bringen konnte, dass es dort ein oder zwei
+                        Kanoniker gäbe, auf die man sich nicht verlassen könne, dennoch habe er sich
+                        für diese Angelegenheit eingesetzt: vgl. Schurff an Ferdinand, Sterzing,
+                        1600 Dezember 12, HHStA, Familienkorr. A 9, fol. 126r. Eh. Maria und Eh.
+                        Ferdinand waren von Schurffs Bemühungen begeistert und teilten ihm mit, dass
+                        der Papst ihnen die vakanten Bene.fizien fiir die Eh. Karl und Leopold
+                        angeboten habe. Schurff zeigte sich darüber zufrieden, regte aber ein
+                        Schreiben an das Domkapitel von Brixen an: vgl. Schurff an Ferdinand, Bozen,
+                        1600 Dezember 18, HHStA, Familienkorr. A 9, fol. 131r–133r. Zu Karl Schurff,
+                        Freiherr von Schönwert, und seinem Verhältnis zum Grazer Hof: vgl.
+                        HOHENBÜHEL, S. 132f.; HIRN, Tirol, S. 10f.</note>, né in quel luogo tampoco
+                    s’intende che<pb xml:id="P5_0000440"/> si facciano le diligenze opportune, et in
+                    tanta scarsità di soggetti non si può pensare a prestar favore a quelli che si
+                    stimano i migliori, come si stima il Vescovo di Gurg, stante il loro interesse.
+                    …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

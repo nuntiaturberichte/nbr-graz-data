@@ -1,234 +1,241 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_309.3"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1602-04-01" n="2">1602-04-01</title>
-                    <title level="a">309.3. Portia an Aldobrandini - Graz, 1602 April 1</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 204r–205r, Orig.
-								[Eigenh.]</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_309.3">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1602-04-01" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_309.2.xml">309.2. Portia an Aldobrandini - Graz, 1602 April 1</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_309.4.xml">309.4. (Portia an Aldobrandini) - (Graz, 1602 April 1)</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_309.2.xml">309.2. Portia an
-                            Aldobrandini - Graz, 1602 April 1</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_309.4.xml">309.4. (Portia an
-                            Aldobrandini) - (Graz, 1602 April 1)</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Die Erzherzöge Leopold und Karl sind für das Osterfest nach Graz gekommen.
-						Portia wurde über den Wunsch der Erzherzöge informiert, die<pb xml:id="P5_0000666"/> Kardinalsernennung Erzherzog Leopolds
-						voranzutreiben. Die für einen Erfolg notwendige Unterstützung des Kaisers
-						und des Königs von Spanien [Philipp III.] bei den Verhandlungen mit der
-						Kurie lehne man in Graz ab, da dies die Angelegenheit nur verzögere. Portia
-						bittet um Weisungen in dieser Sache, über die er schon mit Gian Francesco
-						Aldobrandini gesprochen hatte. Portia zeichnet ein Bild Erzherzog Leopolds.
-						Berichte von drohenden Türkeneinfällen.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="309.3">Portia an Aldobrandini - Graz, 1602 April 1</head>
-				<div>
-					<p>Son giunti questa settimana gli due Prencipi Ecclesiastici fratelli di questo
-						Arciduca per far le feste di Pasqua qui in Gratz<note xml:id="FN5_309.3_01" type="footnote">Die Eh. Leopold und Karl lebten in Judenburg, wo sie von
-							Jesuiten unterrichtet wurden. Während dieses Aufenthaltes wurde für die
-							Studenten der jüngeren Schüler des Kollegs eine Bruderschaft unter dem
-							Namen „Maria Himmelfahrt“ mit Eh. Karl als Vorstand gegründet: vgl.
-							PEINLICH, Gymnasium, S. 56. Vgl. Nr. 205.1.</note>, et con questa
-						occasione un’intima persona et molto confidente dell’Arciduchessa lor Madre,
-						altrimenti anco molto amico mio, è venuto meco a proposito et ragionamento
-						del Cardinalato del Arciduca Leopoldo et a confidarmi in secreto che la
-						Madre et il fratello Arciduca lo vedrebbon volontieri promosso a quella
-						dignità. Sopra di che mi parve di dirle (per corrisponderle con la medesima
-						confidenza) che per mia opinione approvavo molto questo lor concetto et
-						pensiero, dal quale senza dubio sarebbe venuto molto commodo al publico di
-						Germania et anco di questa Casa, et che io havrei creduto che la S.tà di N.
-						S. l’havrebbe fors’anco fatto, quando le ne venisser fatti quegl’officii et
-						instanze con que termini, che si convengano, massime col mezzo
-						dell’auttorità di V. S. Ill.ma. A che soggiunse la sudetta persona che lo
-						sarebbon per far i Prencipi per suo parere, ma che questo non gl’era così
-						facile, ma quasi impossibile, perché venir a far simil officii senza
-						partecipatione dell’Imperatore et del Re di Spagna sarebbe stato lor molto
-						pregiuditiale nella mente di questi due Prencipi et il farlo con la
-						direttione di queste M. M.tà richiedeva molta longhezza di tempo et
-						molt’altre considerationi<note xml:id="FN5_309.3_02" type="footnote">Coraduz
-							hatte bereits 1600 aus Rom von der Absicht des Papstes erfahren, Eh.
-							Leopold zu gegebener Zeit zum Kardinal zu ernennen und hatte Eh. Maria
-							darüber unterrichtet: vgl. Coraduz an Maria, Prag, 1600 Dezember 27,
-							HHStA, Familienkorr. A 42, fol. 33r.</note>. Replicai io però che in
-						ogni modo sarebbe stato difficile ottenere da S. S.tà una simil cosa senza
-						pregarnela et supplicarnela con i termini che si richiedano a sì sublime
-						grado; et qui si terminò il nostro ragionamento, interrotto per altro
-						accidente sopragiuntoci, differendosi di trattarne più commodamente in altri
-						tempi. In questo mi è parso di scoprire che questi Prencipi temano che
-						quando in Corte dell’Imperatore et anco in quella di Spagna si risapesse un
-						simil lor concetto et pensiero che le venirebbe fatto differire et
-						prolungare molto l’effetto; et io credo che l’animo loro sarebbe di trovar
-						modo che le succedesse questo, come alcune volte gl’è successo in altri lor
-						particolari concetti et desiderii, come nel viaggio che fece questo Arciduca
-						per rappresentarsi a piedi<pb xml:id="P5_0000667"/> di S. B.ne in Ferrara,
-						nel matrimonio di Baviera, et nel trattar di continuo col Re di Polonia,
-						nelle qual cose et simili questi Prencipi han sfuggito di dipender
-						interamente dalla direttione della M.tà dell’Imperatore<note xml:id="FN5_309.3_03" type="footnote">Eh. Ferdinand hatte 1598 eine
-							Italienreise unternommen, während der er Clemens VIII. in Ferrara
-							aufsuchte: vgl. Nr. 164.1. Die maßgeblichen Verhandlungen für die
-							Eheschließung Eh. Ferdinands mit seiner Cousine Maria Anna von Bayern
-							(1600) und seiner Schwester Eh. Anna mit König Sigismund III. von Polen
-							(1592) führte deren Mutter Eh. Maria: vgl. HURTER, Maria, S. 129–147,
-							162–165, 338–345; HURTER, Ferdinand 3 und 4.</note>.</p>
-					<p>Ho giudicato esser debito della servitù mia dar conto a V. S. Ill.ma di tutto
-						questo et in particolare per quel che in sua vita l’Ecc.mo Sig. Giovanni
-						Francesco di buona memoria andò discorrendomi di simil concetto (et ne
-						accennò anco alcuna cosa a Prencipi stessi), facendomi anco particolare
-						gratia di conferirmi alcune cose di suo pensiero nella distributione et
-						promotione de figlioli et in particolare dell’Ill.mo Sig. Priore<note xml:id="FN5_309.3_04" type="footnote">Silvestro Aldobrandini, Sohn des
-							Gian Francesco Aldobrandini. Dieser wurde am 17. September 1603 zum
-							Kardinal ernannt: vgl. Nr. 266.1.</note>. Restami di supplicar V. S.
-						Ill.ma di accennarmi et commandarmi se io deva et con qual termine possa
-						udire o<note xml:id="SN309.3_a" type="siglum">Ergänzt nach Kopie in
-							DAG.</note> divenir<ref target="#SN309.3_a">*a)</ref> in altre occasioni
-						simil concetto per servir maggiormente a quell’[…] congiuntione ch’io ho
-						sempre procurato et desiderato che si string[…] simil legame et obligatione
-						tra questi Prencipi con V. S. Ill.ma […] Sig. Prior suo Nipote et tutta
-						l’Ecc.ma sua Casa.</p>
-					<p>Aggiungo a V. S. Ill.ma che l’Arciduca Leopoldo si trova nel 16 anno, et che
-						ha presenza et longhezza di persona poco men di quella ch’haveva l’Arciduca
-						Ferdinando quando si trovò in Ferrara; parla espeditamente latino et un poco
-						anco Italiano, tien giudicio et maniera che supera l’età sua con gravità
-						propria et degna di Prencipe Ecclesiastico congiunta con humiltà et suavità
-						di costumi molto conveniente, et in somma assai simile alla maniera et
-						presenza del Prencipe Ferdinando di Baviera quando si trovava costì in
-							Roma<note xml:id="FN5_309.3_05" type="footnote">Herzog Ferdinand und
-							sein Bruder Philipp Wilhelm reisten um Ostern 1592 an die Universität
-							Siena und von dort weiter nach Rom. Dort kamen sie Anfang Dezember 1592
-							an und traten am 11. Mai 1593 die Heimreise an: vgl. KOHL, S. 613;
-							RAINER, GN 3, Nr. 38.</note>. Che è quanto mi resta di significar a V.
-						S. Ill.ma con pregarle felicissime feste …</p>
-					<p>Qui si ha avviso che gli Turchi sian con buon numero di Tartari congregati a
-						Cinque Chiese per far una scorreria verso queste parti della Mora,<pb xml:id="P5_0000668"/> onde se ne sta con timore se ben si son dati
-						gl’ordini necessarii a tutti questi luoghi di Confini.<note xml:id="SN309.3_b" type="siglum">Dorsalvermerk des Staatssekretariates,
-							fol. 205v: Promotione. Da ricordare. Erm[inio] me ne parli a
-							parte.</note>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_309.3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1602-04-01" n="2">1602-04-01</title>
+                <title level="a">309.3. Portia an Aldobrandini - Graz, 1602 April 1</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 204r–205r, Orig.
+                            [Eigenh.]</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_309.3">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1602-04-01" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_309.2.xml"
+                        >309.2. Portia an Aldobrandini - Graz, 1602 April 1</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_309.4.xml">309.4.
+                        (Portia an Aldobrandini) - (Graz, 1602 April 1)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_309.2.xml">309.2. Portia an
+                        Aldobrandini - Graz, 1602 April 1</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_309.4.xml">309.4. (Portia an
+                        Aldobrandini) - (Graz, 1602 April 1)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Die Erzherzöge Leopold und Karl sind für das Osterfest nach Graz gekommen. Portia
+                    wurde über den Wunsch der Erzherzöge informiert, die <pb xml:id="P5_0000666"
+                    />Kardinalsernennung Erzherzog Leopolds voranzutreiben. Die für einen Erfolg
+                    notwendige Unterstützung des Kaisers und des Königs von Spanien [Philipp III.]
+                    bei den Verhandlungen mit der Kurie lehne man in Graz ab, da dies die
+                    Angelegenheit nur verzögere. Portia bittet um Weisungen in dieser Sache, über
+                    die er schon mit Gian Francesco Aldobrandini gesprochen hatte. Portia zeichnet
+                    ein Bild Erzherzog Leopolds. Berichte von drohenden Türkeneinfällen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="309.3">Portia an Aldobrandini - Graz, 1602 April 1</head>
+            <div>
+                <p>Son giunti questa settimana gli due Prencipi Ecclesiastici fratelli di questo
+                    Arciduca per far le feste di Pasqua qui in Gratz<note xml:id="FN5_309.3_01"
+                        type="footnote">Die Eh. Leopold und Karl lebten in Judenburg, wo sie von
+                        Jesuiten unterrichtet wurden. Während dieses Aufenthaltes wurde für die
+                        Studenten der jüngeren Schüler des Kollegs eine Bruderschaft unter dem Namen
+                        „Maria Himmelfahrt“ mit Eh. Karl als Vorstand gegründet: vgl. PEINLICH,
+                        Gymnasium, S. 56. Vgl. Nr. 205.1.</note>, et con questa occasione un’intima
+                    persona et molto confidente dell’Arciduchessa lor Madre, altrimenti anco molto
+                    amico mio, è venuto meco a proposito et ragionamento del Cardinalato del
+                    Arciduca Leopoldo et a confidarmi in secreto che la Madre et il fratello
+                    Arciduca lo vedrebbon volontieri promosso a quella dignità. Sopra di che mi
+                    parve di dirle (per corrisponderle con la medesima confidenza) che per mia
+                    opinione approvavo molto questo lor concetto et pensiero, dal quale senza dubio
+                    sarebbe venuto molto commodo al publico di Germania et anco di questa Casa, et
+                    che io havrei creduto che la S.tà di N. S. l’havrebbe fors’anco fatto, quando le
+                    ne venisser fatti quegl’officii et instanze con que termini, che si convengano,
+                    massime col mezzo dell’auttorità di V. S. Ill.ma. A che soggiunse la sudetta
+                    persona che lo sarebbon per far i Prencipi per suo parere, ma che questo non
+                    gl’era così facile, ma quasi impossibile, perché venir a far simil officii senza
+                    partecipatione dell’Imperatore et del Re di Spagna sarebbe stato lor molto
+                    pregiuditiale nella mente di questi due Prencipi et il farlo con la direttione
+                    di queste M. M.tà richiedeva molta longhezza di tempo et molt’altre
+                    considerationi <note xml:id="FN5_309.3_02" type="footnote">Coraduz hatte bereits
+                        1600 aus Rom von der Absicht des Papstes erfahren, Eh. Leopold zu gegebener
+                        Zeit zum Kardinal zu ernennen und hatte Eh. Maria darüber unterrichtet: vgl.
+                        Coraduz an Maria, Prag, 1600 Dezember 27, HHStA, Familienkorr. A 42, fol.
+                        33r.</note>. Replicai io però che in ogni modo sarebbe stato difficile
+                    ottenere da S. S.tà una simil cosa senza pregarnela et supplicarnela con i
+                    termini che si richiedano a sì sublime grado; et qui si terminò il nostro
+                    ragionamento, interrotto per altro accidente sopragiuntoci, differendosi di
+                    trattarne più commodamente in altri tempi. In questo mi è parso di scoprire che
+                    questi Prencipi temano che quando in Corte dell’Imperatore et anco in quella di
+                    Spagna si risapesse un simil lor concetto et pensiero che le venirebbe fatto
+                    differire et prolungare molto l’effetto; et io credo che l’animo loro sarebbe di
+                    trovar modo che le succedesse questo, come alcune volte gl’è successo in altri
+                    lor particolari concetti et desiderii, come nel viaggio che fece questo Arciduca
+                    per rappresentarsi a piedi<pb xml:id="P5_0000667"/> di S. B.ne in Ferrara, nel
+                    matrimonio di Baviera, et nel trattar di continuo col Re di Polonia, nelle qual
+                    cose et simili questi Prencipi han sfuggito di dipender interamente dalla
+                    direttione della M.tà dell’Imperatore <note xml:id="FN5_309.3_03"
+                        type="footnote">Eh. Ferdinand hatte 1598 eine Italienreise unternommen,
+                        während der er Clemens VIII. in Ferrara aufsuchte: vgl. Nr. 164.1. Die
+                        maßgeblichen Verhandlungen für die Eheschließung Eh. Ferdinands mit seiner
+                        Cousine Maria Anna von Bayern (1600) und seiner Schwester Eh. Anna mit König
+                        Sigismund III. von Polen (1592) führte deren Mutter Eh. Maria: vgl. HURTER,
+                        Maria, S. 129–147, 162–165, 338–345; HURTER, Ferdinand 3 und 4.</note>.</p>
+                <p>Ho giudicato esser debito della servitù mia dar conto a V. S. Ill.ma di tutto
+                    questo et in particolare per quel che in sua vita l’Ecc.mo Sig. Giovanni
+                    Francesco di buona memoria andò discorrendomi di simil concetto (et ne accennò
+                    anco alcuna cosa a Prencipi stessi), facendomi anco particolare gratia di
+                    conferirmi alcune cose di suo pensiero nella distributione et promotione de
+                    figlioli et in particolare dell’Ill.mo Sig. Priore<note xml:id="FN5_309.3_04"
+                        type="footnote">Silvestro Aldobrandini, Sohn des Gian Francesco
+                        Aldobrandini. Dieser wurde am 17. September 1603 zum Kardinal ernannt: vgl.
+                        Nr. 266.1.</note>. Restami di supplicar V. S. Ill.ma di accennarmi et
+                    commandarmi se io deva et con qual termine possa udire o<note
+                        xml:id="SN5_309.3_a" type="siglum"> Ergänzt nach Kopie in
+                        DAG.</note>divenir<ref target="#SN5_309.3_a"/> in altre occasioni simil
+                    concetto per servir maggiormente a quell’[…] congiuntione ch’io ho sempre
+                    procurato et desiderato che si string[…] simil legame et obligatione tra questi
+                    Prencipi con V. S. Ill.ma […] Sig. Prior suo Nipote et tutta l’Ecc.ma sua
+                    Casa.</p>
+                <p>Aggiungo a V. S. Ill.ma che l’Arciduca Leopoldo si trova nel 16 anno, et che ha
+                    presenza et longhezza di persona poco men di quella ch’haveva l’Arciduca
+                    Ferdinando quando si trovò in Ferrara; parla espeditamente latino et un poco
+                    anco Italiano, tien giudicio et maniera che supera l’età sua con gravità propria
+                    et degna di Prencipe Ecclesiastico congiunta con humiltà et suavità di costumi
+                    molto conveniente, et in somma assai simile alla maniera et presenza del
+                    Prencipe Ferdinando di Baviera quando si trovava costì in Roma<note
+                        xml:id="FN5_309.3_05" type="footnote">Herzog Ferdinand und sein Bruder
+                        Philipp Wilhelm reisten um Ostern 1592 an die Universität Siena und von dort
+                        weiter nach Rom. Dort kamen sie Anfang Dezember 1592 an und traten am 11.
+                        Mai 1593 die Heimreise an: vgl. KOHL, S. 613; RAINER, GN 3, Nr. 38.</note>.
+                    Che è quanto mi resta di significar a V. S. Ill.ma con pregarle felicissime
+                    feste …</p>
+                <p>Qui si ha avviso che gli Turchi sian con buon numero di Tartari congregati a
+                    Cinque Chiese per far una scorreria verso queste parti della Mora, <pb
+                        xml:id="P5_0000668"/>onde se ne sta con timore se ben si son dati gl’ordini
+                    necessarii a tutti questi luoghi di Confini. <note xml:id="SN5_309.3_b"
+                        type="siglum">Dorsalvermerk des Staatssekretariates, fol. 205v: Promotione.
+                        Da ricordare. Erm[inio] me ne parli a parte.</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

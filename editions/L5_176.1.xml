@@ -1,204 +1,209 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_176.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-12-09" n="1">1600-12-09</title>
-                    <title level="a">176.1. San Giorgio an Portia - Rom, 1600 Dezember 9</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>BNCF, Fondo nazionale II.II.511, fol. 255r–v, Orig.; ASV, Fondo
-								Borghese, serie III<lb/>48, 48 Bis, 49, 51 E, 52 A, fol. 88r–v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_176.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1600-12-09" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_175.5.xml">175.5. San Giorgio an Portia - Rom, 1600 Dezember 2</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_176.2.xml">176.2. San Giorgio an Portia - Rom, 1600 Dezember 9</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_175.5.xml">175.5. San Giorgio an
-                            Portia - Rom, 1600 Dezember 2</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_176.2.xml">176.2. San Giorgio an
-                            Portia - Rom, 1600 Dezember 9</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Zufriedenheit über Verzögerung des bayerischen
-						Religionsgesprächs. Dem Erzieher der Erzherzoginnen, Johann Krösel, wird von
-						der Congregazione del Sant’Officio erlaubt, verbotene Bücher zu lesen.
-						Portia wird dazu angehalten, mit dem Abt des Benediktinerstiftes St.
-						Lambrecht [Alopitius] während dessen Anwesenheit in Graz Gespräche zu
-						führen. Probleme auf dem Postweg.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="176.1">San Giorgio an Portia - Rom, 1600 Dezember 9</head>
-				<div>
-					<pb xml:id="P5_0000429"/>
-					<p>Havrà veduto V. S. dalle antecedenti mie delli 2<note xml:id="FN5_176.1_01" type="footnote">Nr. 175.2, 175.4.</note> che mi capitarono poi le sue,
-						se ben più tardi dell’ordinario. Sono delli 20 quelle ch’io ho ricevute con
-						l’ultimo Corriero<note xml:id="FN5_176.1_02" type="footnote">Nicht
-							auffindbar.</note>, alle quali rispondo che non ci può se non piacere
-						l’impedimento che patisce la disputa di Baviera, poiché pretendevano gli
-						Heretici di procedere con la solita malitia et fraude<note xml:id="FN5_176.1_03" type="footnote">Vgl. Nr. 155.3, 158.4,
-							167.2.</note>.</p>
-					<p>A Don Giovanni Cresellio<note xml:id="FN5_176.1_04" type="footnote">Im
-							Hofstaatsverzeichnis des Jahres 1596 ist Johannes Erveselius als der
-							jungen herrschaft caplan und preceptor verzeichnet. Bei Hurter treffen
-							wir auf die Namensform Johann Craselius. Im Codex 8219 der
-							Handschriftensammlung der Österreichischen Nationalbibliothek liest man
-							Joannes Croeselius, … quia ab annis 24 circiter Ser.mo Ferdinando servit
-							in Capella et Aulica Bibliotheca …: vgl. ÖNB, Handschriftensammlung,
-							Codex 8219, fol. 67v–68r; HURTER, Ferdinand 4, S. 416 (Anm. 3); THIEL 1,
-							S. 199. Tatsächlich handelt es sich um Johann Krösel (gest. 1633) aus
-							Vilseck in der Oberpfalz, Studium in Ingolstadt (1576–1581),
-							Bibliothekar an der Universitätsbibliothek Ingolstadt (1581–1589),
-							Kaplan Eh. Ferdinands (1595–1617), Lehrer der erzherzoglichen Kinder,
-							Hofbibliothekar in Graz. In der Sondersammlung der
-							Universitiitsbibliothek Graz befindet sich seine Bibliothek (Bibliotheca
-							Craesseliana), die nach seinem Tod an die Grazer Jesuitenuniversität
-							übergegangen war. Als Bibliothekar in Ingolstadt publizierte er selbst
-							einige Bücher: vgl. ZOTTER.</note> precettore delle Principesse si
-						contenta N. S. di concedere la licenza che domanda di leggere libri
-						prohibiti, tenendo per fermo ch’egli debba valersene a quel buon fine al
-						quale gliela impetra la intercessione dell’arciduca, et così si è commesso
-						che si spedisca per la via ordinaria della Congregatione del Santo
-							Offitio<note xml:id="FN5_176.1_05" type="footnote">Portia berichtete Eh.
-							Maria aus Admont, dass die Erlaubnis für den Präzeptor, der er selbst
-							skeptisch gegenüber stand, auf Betreiben Eh. Ferdinands und der Eh.
-							Konstanze erfolgte: vgl. Portia an Maria, Admont, 1600 Dezember 25,
-							HHStA, Familienkorr. A 42, fol. 24r–25r. In der Sitzung vom 12. April
-							1601 wurde im Sant’Officio ein diesbezügliches Dekret für den
-							Bibliothekar Eh. Ferdinands, Johannes, erlassen, wobei es sich wohl auch
-							um Johann Krösel handelte: vgl. ACDF, S. O., Decreta S. O. 1600/1601,
-							fol. 239r; ACDF, S. O., Decreta S. O. 1601, fol. 95r. Vgl. Nr.
-							209.2.</note>.<pb xml:id="P5_0000430"/>
-					</p>
-					<p>Con l’Abbate postulato di San Lamberto<note xml:id="FN5_176.1_06" type="footnote">Martin Alopitius (gest. 1613), Abt des
-							Benediktinerstiftes Garsten (1591–1599), Abt des Benediktinerstiftes St.
-							Lambrecht (1599-1613, piipstliche Konfirmation 1603). Sein Vorgänger
-							Christoph Kirmeser resignierte 1598 und legte die Abtei in die Hände des
-							Grazer Nuntius. 1599 postulierte der Konvent auf Wunsch Eh. Ferdinands
-							Alopitius als Abt von St. Lambrecht: vgl. PLANK, St. Lambrecht, S.
-							62–64.</note> si lauda che V. S. esseguisca quanto si era già proposto
-						nell’animo con l’occasione della sua venuta alla Dieta di Stiria. Et nel
-						resto non ho che dirle, se non che mi maraviglierei che non fossero poi
-						arrivate alle sue mani le lettere mie che le mancavano, non permettendo io
-						che venga vacuo alcuno ordinario quando bene non mi capitano le sue come
-						avviene qualche volta per l’impedimento che patiscono nel viaggio. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_176.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-12-09" n="1">1600-12-09</title>
+                <title level="a">176.1. San Giorgio an Portia - Rom, 1600 Dezember 9</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>BNCF, Fondo nazionale II.II.511, fol. 255r–v, Orig.; ASV, Fondo
+                            Borghese, serie III<lb/>48, 48 Bis, 49, 51 E, 52 A, fol. 88r–v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_176.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1600-12-09" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_175.5.xml"
+                        >175.5. San Giorgio an Portia - Rom, 1600 Dezember 2</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_176.2.xml">176.2.
+                        San Giorgio an Portia - Rom, 1600 Dezember 9</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_175.5.xml">175.5. San Giorgio an
+                        Portia - Rom, 1600 Dezember 2</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_176.2.xml">176.2. San Giorgio an
+                        Portia - Rom, 1600 Dezember 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Zufriedenheit über Verzögerung des bayerischen Religionsgesprächs.
+                    Dem Erzieher der Erzherzoginnen, Johann Krösel, wird von der Congregazione del
+                    Sant’Officio erlaubt, verbotene Bücher zu lesen. Portia wird dazu angehalten,
+                    mit dem Abt des Benediktinerstiftes St. Lambrecht [Alopitius] während dessen
+                    Anwesenheit in Graz Gespräche zu führen. Probleme auf dem Postweg.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="176.1">San Giorgio an Portia - Rom, 1600 Dezember 9</head>
+            <div>
+                <pb xml:id="P5_0000429"/>
+                <p>Havrà veduto V. S. dalle antecedenti mie delli 2<note xml:id="FN5_176.1_01"
+                        type="footnote">Nr. 175.2, 175.4.</note>che mi capitarono poi le sue, se ben
+                    più tardi dell’ordinario. Sono delli 20 quelle ch’io ho ricevute con l’ultimo
+                        Corriero<note xml:id="FN5_176.1_02" type="footnote"> Nicht
+                        auffindbar.</note>, alle quali rispondo che non ci può se non piacere
+                    l’impedimento che patisce la disputa di Baviera, poiché pretendevano gli
+                    Heretici di procedere con la solita malitia et fraude <note
+                        xml:id="FN5_176.1_03" type="footnote">Vgl. Nr. 155.3, 158.4,
+                    167.2.</note>.</p>
+                <p>A Don Giovanni Cresellio<note xml:id="FN5_176.1_04" type="footnote">Im
+                        Hofstaatsverzeichnis des Jahres 1596 ist Johannes Erveselius als der jungen
+                        herrschaft caplan und preceptor verzeichnet. Bei Hurter treffen wir auf die
+                        Namensform Johann Craselius. Im Codex 8219 der Handschriftensammlung der
+                        Österreichischen Nationalbibliothek liest man Joannes Croeselius, … quia ab
+                        annis 24 circiter Ser.mo Ferdinando servit in Capella et Aulica Bibliotheca
+                        …: vgl. ÖNB, Handschriftensammlung, Codex 8219, fol. 67v–68r; HURTER,
+                        Ferdinand 4, S. 416 (Anm. 3); THIEL 1, S. 199. Tatsächlich handelt es sich
+                        um Johann Krösel (gest. 1633) aus Vilseck in der Oberpfalz, Studium in
+                        Ingolstadt (1576–1581), Bibliothekar an der Universitätsbibliothek
+                        Ingolstadt (1581–1589), Kaplan Eh. Ferdinands (1595–1617), Lehrer der
+                        erzherzoglichen Kinder, Hofbibliothekar in Graz. In der Sondersammlung der
+                        Universitiitsbibliothek Graz befindet sich seine Bibliothek (Bibliotheca
+                        Craesseliana), die nach seinem Tod an die Grazer Jesuitenuniversität
+                        übergegangen war. Als Bibliothekar in Ingolstadt publizierte er selbst
+                        einige Bücher: vgl. ZOTTER.</note>precettore delle Principesse si contenta
+                    N. S. di concedere la licenza che domanda di leggere libri prohibiti, tenendo
+                    per fermo ch’egli debba valersene a quel buon fine al quale gliela impetra la
+                    intercessione dell’arciduca, et così si è commesso che si spedisca per la via
+                    ordinaria della Congregatione del Santo Offitio <note xml:id="FN5_176.1_05"
+                        type="footnote">Portia berichtete Eh. Maria aus Admont, dass die Erlaubnis
+                        für den Präzeptor, der er selbst skeptisch gegenüber stand, auf Betreiben
+                        Eh. Ferdinands und der Eh. Konstanze erfolgte: vgl. Portia an Maria, Admont,
+                        1600 Dezember 25, HHStA, Familienkorr. A 42, fol. 24r–25r. In der Sitzung
+                        vom 12. April 1601 wurde im Sant’Officio ein diesbezügliches Dekret für den
+                        Bibliothekar Eh. Ferdinands, Johannes, erlassen, wobei es sich wohl auch um
+                        Johann Krösel handelte: vgl. ACDF, S. O., Decreta S. O. 1600/1601, fol.
+                        239r; ACDF, S. O., Decreta S. O. 1601, fol. 95r. Vgl. Nr. 209.2.</note>.</p>
+                <pb xml:id="P5_0000430"/>
+                <p>Con l’Abbate postulato di San Lamberto<note xml:id="FN5_176.1_06" type="footnote"
+                        >Martin Alopitius (gest. 1613), Abt des Benediktinerstiftes Garsten
+                        (1591–1599), Abt des Benediktinerstiftes St. Lambrecht (1599-1613,
+                        piipstliche Konfirmation 1603). Sein Vorgänger Christoph Kirmeser
+                        resignierte 1598 und legte die Abtei in die Hände des Grazer Nuntius. 1599
+                        postulierte der Konvent auf Wunsch Eh. Ferdinands Alopitius als Abt von St.
+                        Lambrecht: vgl. PLANK, St. Lambrecht, S. 62–64.</note>si lauda che V. S.
+                    esseguisca quanto si era già proposto nell’animo con l’occasione della sua
+                    venuta alla Dieta di Stiria. Et nel resto non ho che dirle, se non che mi
+                    maraviglierei che non fossero poi arrivate alle sue mani le lettere mie che le
+                    mancavano, non permettendo io che venga vacuo alcuno ordinario quando bene non
+                    mi capitano le sue come avviene qualche volta per l’impedimento che patiscono
+                    nel viaggio. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

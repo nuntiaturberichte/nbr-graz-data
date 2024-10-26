@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00011">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-10-04" n="1">1580-10-04</title>
+                <title level="a">11. Malaspina an Gallio - Graz, 1580 Oktober 4</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 40r—48r, Decifrat.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00011">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-10-04" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00010.xml">10.
+                        Malaspina an Gallio - Graz, 1580 Oktober 3</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00012.xml">12.
+                        Malaspina an Gallio - Graz, 1580 Oktober 6</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00010.xml">10. Malaspina an Gallio -
+                        Graz, 1580 Oktober 3</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00012.xml">12. Malaspina an Gallio -
+                        Graz, 1580 Oktober 6</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Geteilte Meinung im Rat, ob Nuntius und Papst die volle Wahrheit über religiöse
+                    Lage mitgeteilt werden soll. Unklare religiöse Haltung und bedenkliche
+                    politische Praktiken des bevorzugten Ministers Kobenzl.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="11">Malaspina an Gallio - Graz, 1580 Oktober 4</head>
+            <div>
+                <p>Io son avvisato da buono et fedel testimonio che S. A. ha dato parte al consiglio
+                    del ragionamento ch’io feci con lei, del quale con la mia deli 3 del presente
+                    scrissi a lungo a V. S. Illma<note xml:id="FN1_00011_01" type="footnote">Nr.
+                        10.</note>che nel consiglio alcuni hanno proposto non essere espediente che
+                    fidelmente sia trattato <pb xml:id="P1_0000030"/>meco, non giudicando bene che
+                    S. S.tà sappia intieramente et veramente il stato di questi paesi circa la
+                    religione, ma che si doveva stare ne li termini, che si stette con mons. de la
+                    Scala. <note xml:id="FN1_00011_02" type="footnote">Felician Ninguarda, Bischof
+                        von Scala, der nach der Brucker Pazifikation 1578 eilends nach Graz gesandt
+                        worden war, wurde nicht alles gesagt (Schellhass, Ninguarda II, S. 23
+                        f.).</note>Altri hanno riprovato questo parere con queste ragioni, dicendo
+                    il nuntio ha da stare qua mesi, se noi non gli scopriamo il vero, egli ad ogni
+                    modo lo sentirà, il vederà et toccherà con mano et haverà poi giusta occasione
+                    et di dolersi di noi et di scrivere a S. S.tà che noi non habbiamo voluto
+                    procedere ingenuamente con lui. Sarà dunque meglio dirgli il vero, ma haver
+                    consideratione a l’honore et riputatione di S. A. et difenderla quanto più si
+                    può. Starò hora a vedere quello che faranno, et non dubito altrimente che
+                    m’ingannino, ché saprò bene il vero et presto.</p>
+                <p>Ha questo principe un ministro suo favoritissimo, che si domanda Giovanni
+                    Cobenzel, qual non si sa se è catholico o heretico,<note xml:id="FN1_00011_03"
+                        type="footnote">Siehe oben Nr. 4.</note>ma sta a cavallo al fosso et per
+                    nostra disgrazia sa più di tutti, il quale, nescio quo spiritu ductus, tien
+                    sempre questo principe in paura et, tra le altre cose, quanto se gli porge
+                    occasione di parlare de la miseria de’ catholici, de la disunione et poche forze
+                    loro, se può lassar le imprese loro che fanno, lo fa volentieri, et da l’altro
+                    canto piglia volentieri et spesso soggetto di amplificare li fatti de le
+                    heretici, di modo che in ogni tempo vuole che si aspetti per ragione di stato
+                    chi di queste due parti habbia da prevalere, et con quella attaccarsi; hora
+                    inventa che il Re Christmo ha mandato ambasciatore al Turco, acciò movi guerra a
+                    S. A. et che bisogna star sospesi et con paura et timore et non disasperar li
+                    popoli ; hora che è vero che l’auttorità di S. Stà è grande, ma che è vecchio,
+                    et che non son tutti a un modo; hora che il negotio de la Fiandra è spedito, che
+                    la Francia sta in pericolo, et di questi simili concetti ne ha infiniti et ne
+                    impisce le orrecchie a tutti, et sotto questa forma fa malissime opere et
+                    impedisce la buona inclinatione de S. A., la quale, essendo più tosto timida che
+                    altrimente, non difficilmente se gli persuadono queste cose.</p>
+                <p>Credo, che questo huomo pensasse di spender meco questa mercantia falsa, ma non
+                    gli è venuta fatta, ch’io gli feci resistenza in faccia et dissi ad alcuni che
+                    questa forma di parlare, oltre esser falsissima, quando pur fusse vera, non si
+                    dovrebbe in queste parti cosi pubblicamente magnificare. Et, volendo pur
+                    intendere dove consiste<pb xml:id="P1_0000031"/> questa disunione, le ho fatto
+                    toccar con mano che, mercè de la Sma natura di S. Stà tutta involta a la pace et
+                    quiete pubblica et ancora a la buona natura de principi, mai fu tanta unione fra
+                    di loro come al presente è, et che se ne le altri particolari erano uniti, molto
+                    maggiormente erano unitissimi nel pensiero et resolutione di estirpare le
+                    heresie. Et perché egli ha persuaso qua che il Re Christmo ha da cercare
+                    d’impatronirsi de la Fiandra, ancora in questo gli ho risposto quello che ho
+                    giudicato convenirsi tanto per confusion sua quanto per disingannare altri,
+                    perché in vero è cosa che io, che sto in fatto, vedo che è di grandissima
+                    importanza et di danno notabile.</p>
+                <p>Quanto poi a S. Stà io le ho risposto che ringrazio Dio benedetto, che pur
+                    confessano la bontà sua et il bene che gli fa, et che spero ne la S. Div. Mtà,
+                    che la conserverà longamente; ma quando gli piacerà fare altrimente, che non so
+                    che concetto habbiano del sacro collegio de’ cardinali, et se non lo sanno, che
+                    io gli lo dirò, che nel collegio sono cardinali et di pietà Christiana et di
+                    dottrina et d’esperienza tali, che non havremo a temere che li successori de S.
+                    Stà non habbino da seguitare li santissimi vestigii suoi.</p>
+                <p>Questo ragionamento si è divulgato, perché erano presenti il vicecancellero<note
+                        xml:id="FN1_00011_04" type="footnote">Dr. Wolfgang Schranz.</note>et il
+                    maggiordomo <note xml:id="FN1_00011_05" type="footnote">Wahrscheinlich Hans
+                        Ambros Graf von Thurn, 1580—1590 Verwalter des Obersthofmeisteramtes (Thiel,
+                        Zentralverwaltung, S. 203).</note>di S. A., ancora esso del consilio, et dui
+                    padri Giesuiti, buoni tutti et zelosi catholici et hanno referito ogni cosa al
+                    principe, al quale è piaciuto infinitamente, et è in vero cosa mirabile che
+                    questo principe conosce questo huomo et le attioni sue gli dispiacciono et con
+                    tutto ciò non ardisce levarselo da torno.</p>
+                <p>Tutto questo si trattò con una suavità et affabilità grandissima, et egli non mi
+                    replicò mai cosa alcuna. Ne la persona sua questo sta tanto peggio, quanto che
+                    egli è commendatore de l’ordine Theutonicorum et ha una buona commenda.<note
+                        xml:id="FN1_00011_06" type="footnote">Kobenzl besaß die
+                        Deutschordenskomturei Precenicco (Brixeney) in Friaul (Forstreuter, Der
+                        Deutsche Orden am Mittelmeer, S. 137 f.).</note>Intendo ancora che hieri in
+                    consilio mantenne questa propositione: che in temporalibus il papa non ha
+                    auttorità alcuna, ma non ho potuto penetrare a che proposito et spero di
+                    saperlo. Egli mi ha visitato et presentato vino et frutti et ha mostrato ne
+                    l’esteriore gran modestia.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

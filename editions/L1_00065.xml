@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00065">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-02-01" n="1">1581-02-01</title>
+                <title level="a">65. Malaspina an Gallio - Graz, 1581 Februar 1</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 247rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00065">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-02-01" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00064.xml">64.
+                        Gallio an Malaspina - Rom, 1581 Jänner 28</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00066.xml">66.
+                        Graz, 1581 Februar 10</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00064.xml">64. Gallio an Malaspina -
+                        Rom, 1581 Jänner 28</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00067.xml">67. Gallio an Malaspina -
+                        Rom, 1581 Februar 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Besonderer Ablaß für Erzherzog Karl und Erzherzogin Maria. Rechtfertigung
+                    bisherigen Verhaltens. Stetige Entschuldigungsversuche des Landesfürsten, der
+                    Prälaten und Räte bei Häretikern durch Abschieben aller Schuld an religiösen
+                    Neuerungen auf Nuntius; Differenzen zwischen Landesfürst und Prälaten; Verfall
+                    der kirchlichen Disziplin.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="65">Malaspina an Gallio - Graz, 1581 Februar 1</head>
+            <div>
+                <p>Ho ricevuto questa settimana due lettere di V. S. Illma delli 3 et 10 di
+                        decembre<note xml:id="FN1_00065_01" type="footnote">Nr. 42 und 48.</note>et
+                    con esse un breve per S. A., <note xml:id="FN1_00065_02" type="footnote">Siehe
+                        Nr. 42, Anm. 3.</note>il quale presentai subito. Et li fu molto grato, come
+                    è stato ancora la indulgenza che N. S. ha concesso a lei et alla principessa.
+                        <note xml:id="FN1_00065_03" type="footnote">Siehe Nr. 48, Anm.
+                    9.</note>Poiché S. A. mostra di portarmi molta affettione et ha meco singolar
+                    confidenza et il simile <pb xml:id="P1_0000186"/>hanno tutti li catholici zelosi
+                    et ancora politici, da questo V. S. Illma può far argomento che non ho fatto
+                    escesso né nella forma del parlare né nel’ operare, et havendo io havuto diversi
+                    ragionamenti con li provinciali,<note xml:id="FN1_00065_04" type="footnote">
+                        Vgl. Nr. 56.</note>li quali senza dubio venevono ut caperent me in sermone
+                    et non l’hanno potuto fare, et il tutto è passato con sodisfatione di S. A. et
+                    dignità di S. Stà, io spero perciò che conoscerà chiaramente che quando io
+                    havessi esceduto il modo ben parco et circonspetto, che se ne sarebbe sentito
+                    rumore, massime che il principe, il stato ecclesiastico et li consiglieri hanno
+                    sempre cercato di escusarsi con li provinciali et buttar la colpa sopra di me di
+                    ogni novità, che si sia fatta in materia di religione. Et chi è informato delle
+                    molte differenze, per non dir diffidenze, che sono tra S. A. et li
+                    ecclesiastici, et quanto sia tra loro corrotta la buona disciplina, torsi non
+                    stimarà poco che Dio benedetto habbia disposto in modo che io sia stato in
+                    confidenza con tutti loro et li habbia et mantenuti in amore verso la persona
+                    mia et nel debito timore. Io ringratio con ogni affetto S. D. Mtà che in questo
+                    negotio si è proceduto così canonicamente, che non solamente qua, ma in altre
+                    provincie, ancora sono assicurato da signori grandi, che si resta sodisfatto
+                    della forma, che si è tenuta. Io ho osservato nel scrivere a V. S. Illma
+                    ingenuità grande et nel trattar qua ho procurato che lor credino che io non
+                    habbia inanzi alli occhi, se non l’honore et gloria di Dio et l’utile loro et
+                    non ho mai scritto cosa che o S. A. o mons. di Gurgo o il Cobenzzolo o il
+                    concilliero o il stato ecclesiastico unito non mi habbiano detto, et non essendo
+                    stato qua nontio ordinario, ho giudicato debito mio di avisare in questi
+                    principii minutamente il stato delle cose, et credo d’esser stato fidelmente
+                    raguagliato, né perciò in verità ho fatto mai giudicio fermo et ho tra me stesso
+                    constituita gran diferenza tra il far giudicio et l’avisare quello che li
+                    consiglieri mi dicevano. Il che se bene a me era novo, nondimeno a loro non era
+                    così, che con la longa osservatione delle operationi di qua, havevano non solo
+                    penetrato, ma toccato con mano et sentito nelli consilii esser vero tutto quello
+                    che dicevono. Et sì come io l’ho accettato sotto sigillo di confessione per
+                    avisarne a S. Stà, così le ho mantenuto il secreto et manterò in perpetuo,
+                    dimodo ché V. S. Illma può in verità esser certissima che non solo non ho
+                    insin’hora perso la confidenza, ma che è in colmo grandissimo. Et perché circa
+                    il resto contenuto nelle lettere di V. S. Ilma ho già scritto et mandato li
+                    decreti di S. A. et sto aspettando risposta di giorno in giorno. ..</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00105">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-07-15" n="2">1581-07-15</title>
+                <title level="a">105. Gallio an Malaspina - Rom, 1581 Juli 15</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 46rv, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00105">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1581-07-15" n="2"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00104.xml"
+                        >104. (Malaspina an Visitatoren) - (Graz, 1581 vor Juli 15)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00106.xml">106.
+                        Malaspina an Gallio - Graz, 1581 Juli 15</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00102.xml">102. Malaspina an Gallio -
+                        Graz, 1581 Juli 4</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00106.xml">106. Malaspina an Gallio -
+                        Graz, 1581 Juli 15</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Aussprache Malaspinas mit Bischof von Gurk vor Mitteilung der päpstlichen
+                    Resolution an Erzherzog Karl. Approbation der Salzburg gegebenen Antwort.
+                    Intervention beim kaiserlichen Botschafter in Spanien wegen der von dessen
+                    Bruder hervorgerufenen Gefahren und Schäden für die katholische Religion.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="105">Gallio an Malaspina - Rom, 1581 Juli 15</head>
+            <div>
+                <pb xml:id="P1_0000299"/>
+                <p>L’essersi V. S. abboccata con mons. di Gurgo sopra il negotio che hanno per le
+                        mani<note xml:id="FN1_00105_01" type="footnote">Der Bischof von Gurk begab
+                        sich Anfang Juni, von Rom kommend, zuerst für einige Tage in seine Diözese,
+                        wo ihn Malaspina aufsuchte, und reiste dann nach Graz weiter, wo er am 20.
+                        Juli Erzherzog Karl Bericht erstattete, der inzwischen beim Kaiser und beim
+                        Kurfürsten von Sachsen gewesen war (Obersteiner, Aus dem Tagebuch des Gurker
+                        Weihbischofs und Dompropstes Karl von Griming I, S. 144; derselbe, Die
+                        Bischöfe von Gurk, S. 336; Venedig AS, Dispacci Germania, filza S, f. 52r
+                        ).</note>prima di communicar a S. A. la risolutione presa da N. S.,<note
+                        xml:id="FN1_00105_02" type="footnote"> Nr. 93.</note>è parso a S. Stà che
+                    sia stato molto opportuno, poiché doveranno haver contestato molti particolari,
+                    che non potranno se non facilitar l’executione de l’impresa. <note
+                        xml:id="FN1_00105_03" type="footnote">Vgl. Nr. 67.</note>Nel qual proposito
+                    a me non occorre dir altro a V. S., continuando N. S. ne la risolutione già
+                    fatta, se non che si starà aspettando d’intendere, come S. A. dopo il ritorno
+                    suo l’havrà intesa, et quello che haverà deliberato di fare.</p>
+                <p>La risposta fatta da V. S. a l’arcivescovo di Salzpurgo è stata approbata da N.
+                    S., massime havendone lei havuto così grande occasione et essendone stata
+                    essortata dal coadiutore et dal consigliero, mandato a lei dal detto
+                        arcivescovo;<note xml:id="FN1_00105_04" type="footnote">Siehe Nr. 102, S.
+                        289 f.</note>et di qua ancora non si mancherà in ogni occasione di
+                    sollecitarlo, in conformità a compiere al debito de l’officio suo.</p>
+                <p>Col primo ordinario di Spagna si scriverà al nuntio che facci, come V. S.
+                        ricorda,<note xml:id="FN1_00105_05" type="footnote">Der hier erwähnte
+                        Bericht Malaspinas ist nicht vorhanden; er dürfte Mitte Juni, nach dem
+                        Aufenthalt in Gurk, geschrieben worden sein, wo wahrscheinlich nicht nur
+                        über die Sendung des Gurker Bischofs nach Rom — worüber der erste Teil
+                        dieser Weisung handelt —, sondern auch über Kärntner Angelegenheiten — wie
+                        die Familie Khevenhüller — gesprochen wurde.</note>officio in nome di N. S.
+                    con l’ambasciatore Cesareo<pb xml:id="P1_0000300"/> appresso S. Mtà Cat.,<note
+                        xml:id="FN1_00105_06" type="footnote"> Johann Khevenhüller, geboren 1538 in
+                        Spittal an der Drau, war seit 1571 kaiserlicher Botschafter in Madrid, wo er
+                        1606 gestorben ist. Der Familienbesitz lag vor allem um Villach (Cerwenka,
+                        Die Khevenhüller, S. 78 ff.; Probszt, Villacher Bürger und Herren in ihren
+                        Münzen und Medaillen, S. 134 ff., 141 f.; Rainer, Nuntiaturberichte II/8, S.
+                        41 und 258, Anm. 15; Khevenhüller, Geheimes Tagebuch, S. VIII
+                    ff.).</note>acciò o rimova suo fratello dal governo de le sue terre o in altro
+                    modo rimedii a li pericoli et danni che patisce la religione catholica in quel
+                    suo paese per il governo di detto suo fratello. <note xml:id="FN1_00105_07"
+                        type="footnote">Bartholomäus Khevenhüller, geboren 1539 in Villach,
+                        gestorben 1613 in Spittal. Er wurde als Protestant nicht in der
+                        Familiengruft in der St. Jakobskirche zu Villach, sondern auf Schloß
+                        Landskron beigesetzt (Cerwenka, Die Khevenhüller, S. 116 ff.; Probszt a. a.
+                        O., S. 136—138; Khevenhüller, Geheimes Tagebuch, S. 2, 10 und 325).</note>Né
+                    ricercando altra risposta le lettere di V. S. di 11 del passato...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

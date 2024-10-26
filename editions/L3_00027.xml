@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00027">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1592-09-05" n="2">1592-09-05</title>
+                <title level="a">27. Minucci an Portia - Rom, 1592 September 5</title>
+                <author ref="#http://d-nb.info/gnd/102548781">Minucci, Minuccio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+                                Heinz</persName>
+                            <persName>Rainer Christian</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+                            Kobenzl; 1592-1595</title>
+                        <idno type="ISBN">3-7001-2964-5</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2001</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturinstitut
+                                    in Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="3">3. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="484">484 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturinstitut in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. F. Borg. III, vol. 48b, f. 11r—12v, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L3_00027">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/102548781">Minucci, Minuccio</persName>
+                    <date when="1592-09-05" n="2"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_033">Minucci,
+                        Minuccio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L3_00026.xml">26.
+                        Minucci an Portia - Rom, 1592 September 5</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L3_00028.xml">28.
+                        Minucci an Portia - Rom, 1592 September 12</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_033" target="L3_00026.xml">26. Minucci an Portia -
+                        Rom, 1592 September 5</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_033" target="L3_00028.xml">28. Minucci an Portia -
+                        Rom, 1592 September 12</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Die Venezianer wünschen sich vom Haus Österreich einen geeigneten Platz für eine
+                    Festung. Papst wartet sehr auf Erfolge an der Türkengrenze.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="27">Minucci an Portia - Rom, 1592 September 5</head>
+            <div>
+                <p>Con le precedenti fu scritto a V. S. R.ma il desiderio c’haveva N. S. che per
+                    servitio commune della christianità li signori venetiani potessero havere dalla
+                    casa d’Austria un sito opportuno al dissegno c’hanno di piantare una fortezza in
+                    difesa dello stato loro et di tutta Italia<note xml:id="FN3_00027_01"
+                        type="footnote">Die Regierung in Graz hatte so große Bedenken dagegen, dass
+                        die Venezianer auf eigenem Gebiet die Festung Palmanova erbauten: Nr. 21,
+                        42, 47 und Mosconi II, 36 f., 88 f.</note>, hor perché a lei si commetteva
+                    di trattarne con l’arciduca Ernesto, com’haverà veduto, et poi s’intese che S.
+                    A. se ne era andata alla corte Cesarea. V. S. R.ma haverà hora a governarsi
+                    conforme al tempo del ritorno suo a Gratz et al giuditio che potrà fare
+                    dell’arrivo delle nostre lettere, perché se ’l vescovo di Cremona potesse
+                    probabilmente havere havuto tempo di<pb xml:id="P3_0000053"/> trattare con S. A.
+                        <note xml:id="FN3_00027_02" type="footnote">Nicht vorhanden.</note>sopra ciò
+                    non importeria tanto che V. S. R.ma andasse a ritruovarla, ma quando pensasse
+                    altrimenti (et doverà di ragione intenderlo anco dal medesimo vescovo di Cremona
+                    con cui si presupone ch’ella tenga continua corrispondenza) bisogneria v’andasse
+                    in ogni modo. Et quel che si dice per quanto particolare può servire anco per
+                    norma nell’altro dell’occasione che N. S. come commun padre desiderava che si
+                    troncasse di disgusto o di rottura che potesse nascere tra la medesima casa
+                    d’Austria et la republica di Vinetia, ma per l’uno o per l’altro o per ’ambedue
+                    quei negocii insieme et per il terzo di mostrare all’arciduca con quanto
+                    desiderio aspetti N. S. d’intendere che si mostri la fronte a i turchi et si
+                    ricuperino tosto le cose perdute, par che in ogni modo convenga che V. S. R.ma,
+                    se non è andata, vada almeno una volta a ritruovare S. A. quand’ella sia in
+                    Gratz o in altro luoco di quel contorno, il che deve ella per molti rispetti
+                    fare volentieri. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

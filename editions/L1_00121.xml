@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00121">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-10-02" cert="low" n="2">vermutlich
+                    1581-10-02</title>
+                <title level="a">121. Malaspina an Gallio - (Graz, 1581 Oktober 2)</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 352rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00121">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-10-02" n="2" cert="low"/>
+                    <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00120.xml"
+                        >120. Malaspina an Gallio - Graz, 1581 Oktober 2</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00122.xml">122.
+                        Gallio an Malaspina - Rom, 1581 Oktober 7</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00120.xml">120. Malaspina an Gallio -
+                        Graz, 1581 Oktober 2</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00122.xml">122. Gallio an Malaspina -
+                        Rom, 1581 Oktober 7</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Versuche der Adeligen zur Beunruhigung der Prälaten von Neuberg, Vorau und
+                    Pöllau. Baldige Fortsetzung der Visitation in Steiermark. Gesundheitszustand des
+                    Papstes.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="121">Malaspina an Gallio - (Graz, 1581 Oktober 2)</head>
+            <div>
+                <pb xml:id="P1_0000334"/>
+                <p>Havendo li tre prelati verso l’Austria,<note xml:id="FN1_00121_01"
+                        type="footnote">Oswald Reibenstein, 1556—1585 Propst von Vorau, Stephan
+                        Mitterhauser, 1568—1585 Propst von Pöllau, und Georg Remer, 1578—1584 Abt
+                        von Neuberg (Lindner, Monasticon, S. 35, 30, 87; Pickl, Geschichte Neuberg,
+                        S. 108 f.).</note>quali restano per reformarsi in Stiria, significato a S.
+                    A. che a loro è stato scritto che io li ho già privati et che per questa causa
+                    non mi curo di visitarli et che più tosto aspettano il successore che la
+                        visita<note xml:id="FN1_00121_02" type="footnote"> Vgl. Nr. 126, S.
+                        346.</note>et che perciò ricorrono da l’A. S. che, essendo loro antichi
+                    prelati et disposti di ricevere ogni reformatione et penitentia, non lo permetta
+                    et faccia officio meco, che li habbia compassione, et essendosi scoperto che
+                    tutto questo è tramma de li provinciali, li quali havendo finto un scritto et
+                    publicatolo, nel quale si conteniva che li prelati vedendosi così strettamente
+                    riformati ricorrevano da li provinciali et giuravano che mai si volevano
+                    separare da loro, <note xml:id="FN1_00121_03" type="footnote">Auf dem am 27.
+                        November 1581 eröffneten Landtag wurde nicht nur von den evangelischen
+                        Ständen, sondern auch vom Abt von Neuberg heftig gegen Malaspina Klage
+                        geführt (Nr. 132; Graz LA, Landtagsakten 423 und 424/425). Auch der
+                        Erzpriester von Untersteiermark, Peter Muchitsch, nahm gegen die Visitation
+                        Stellung (Salzburg Konsistorialarchiv, Gurk 4/11; Loserth, Salzburg und
+                        Steiermark, S. 152 f.).</note>et volendo che’l vescovo di Secovia si
+                        sottoscrivesse,<note xml:id="FN1_00121_04" type="footnote"> Vgl. Nr. 114,
+                        Anm. 8.</note>egli rispose che non lo voleva fare et che non credeva che gli
+                    altri havessero questo pensiero.</p>
+                <p>Hora non ritrovando gl’heretici quello che credevano, anzi essendo cresciuta la
+                    confidentia verso la persona mia con li prelati si sono voltati a quelli che non
+                    sono ancora visitati et li metteno in terrore. Per il che S. A. desidera che si
+                    finischi la visita per tutta la Stiria et, quanto a li tre prelati et li più
+                    principali parochi, acciò che o li primi et substituischi soggetti, de’ quali
+                    non si possa dubitare, che siano per unirsi con gl’heretici overo cerchi di
+                    guadagnarli, in modo ché l’A. S. et tutti noi potiamo stare con l’animo
+                        riposato.<note xml:id="FN1_00121_05" type="footnote">Siehe Anm.
+                    3.</note>Onde tra 15 giorni al più, quando vederò il negotio de la religione ben
+                    consultato et determinato quello che si vuol fare, io mi partirò et non potrò
+                    spedirmi prima di 20 giorni, essendo lontani li lochi assai da Gratz et perciò
+                    tanto più son sforzato a movermi a domandare un buon aiuto a S. Bne, perché mi
+                    trovo essausto et le spese sono eccessive<note xml:id="FN1_00121_06"
+                        type="footnote"> Vgl. Nr. 102, S. 292.</note>et ho protestato a S. A. che,
+                    fornita la Stiria, senza nuova commissione di<pb xml:id="P1_0000335"/> S. Stà,
+                    non visitarò più <note xml:id="FN1_00121_07" type="footnote"/>et in verità,
+                    tolto il servitio di Dio, lo faccio mal volentieri.</p>
+                <p>Ho ricevuto le lettere di V. S. Illma de li 19 di agosto,<note
+                        xml:id="FN1_00121_08" type="footnote">Nr. 113.</note>a le quali non mi
+                    occorre altro che rispondere se non che essequirò quanto la mi ordina et che non
+                    so se mai in mia vita ho sentita maggiore consolatione di quella che ho fatto
+                    intendendo la quasi recuperata sanità di S. Bne, che invero li romori sono stati
+                    grandi. Sia lodato il Signor Dio, il quale mantenghi et conservi S. Stà per
+                    servitio de la christianità molto anni...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

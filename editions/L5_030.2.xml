@@ -1,251 +1,258 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_030.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-04-12" n="2">1599-04-12</title>
-                    <title level="a">30.2. Portia an Aldobrandini - Bamberg, 1599 April 12</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie IV 240, fol. 57r–58v,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="regest">
-						<lb/>Regest: BAUER, Quellen, S. 190f. (Nr. 26).</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_030.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-04-12" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2952984">Bamberg</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_030.1.xml">30.1. Portia an Aldobrandini - Bamberg, 1599 April 12</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_030.3.xml">30.3. Portia an Aldobrandini - Bamberg, 1599 April 13</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_030.1.xml">30.1. Portia an
-                            Aldobrandini - Bamberg, 1599 April 12</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_030.3.xml">30.3. Portia an
-                            Aldobrandini - Bamberg, 1599 April 13</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Bericht über die Zustände im Bistum Bamberg: Historischer Abriss, Aufbau,
-						Fehlverhalten der Kanoniker (Konkubinat, Pfründenkumulation, Missachtung der
-						Residenzpflicht und des Chorgebets, keine hoheren Weihen). Portia regt an,
-						dass die Bischöfe von Würzburg [Echter v. Mespelbrunn], Mainz [Dalberg] und
-						Bamberg [Gebsattel] gemeinsam die nötigen Reformen beschließen, die zur
-						Sicherung des katholischen Glaubens in diesem Gebiet nötig sind.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="30.2">Portia an Aldobrandini - Bamberg, 1599 April 12</head>
-				<div>
-					<p>Havend’io di già significato a V. S. Ill.ma con due altre mie lettere<note xml:id="FN5_030.2_01" type="footnote">Vermutlich Nr. 27.2 und 27.3, oder
-							30.1 und ein unauffindbarer Bericht selben Datums.</note> alcuna cosa
-						appartenente a questa Chiesa et all’elettione ultimamente seguita, ho
-						giudicato convenirsi di scriverle ancora con un puoca di diligenza maggiore
-						circa lo stato di questo Vescovado et sua Diocese. È questo Vescovado
-						constituito nella Provincia di Franconia, fondato da S. Henrico<pb xml:id="P5_0000060"/> Imperatore<note xml:id="FN5_030.2_02" type="footnote">Heinrich II. (973–1024), Herzog von Bayern (Heinrich
-							IV., 995), König (1002), König von Italien (1004), Kaiser (1014–1024).
-							Das von Heinrich 1007 gegründete Bistum Bamberg hat nach seinem Tod die
-							Verehrung des Kaisers gepflegt und 1146 dessen Heiligsprechung erwirkt:
-							vgl. LTHK II 4, Sp. 1375f.</note> et S. Kunigunda sua Sposa<note xml:id="FN5_030.2_03" type="footnote">Kunigunde (geb. um 975/985–1033),
-							heiratete 998/1000 Herzog Heinrich IV. von Bayern, Kaiserin (1014–1024).
-							Die Errichtung und Ausstattung des Bistums Bamberg erfolgte unter
-							anderem auch mithilfe ihrer Mitgift-Güter. Ab 1025 lebte sie als Nonne
-							in dem von ihr gegründeten Kloster Kaufungen. Heiligsprechung (1200):
-							vgl. LTHK II 6, Sp. 527.</note> circa l’anno millesimo et secondo,
-						immediamente raccommandato et sottoposto alla Santa Chiesa Romana, dalla
-						quale ha anco ottenuto l’uso del Pallio; ha questo Vescovado la sua Diocese
-						sparsa verso lo Stato del Duca di Sassonia, Marchese di Brandeburg, et la
-						Città di Norimberga, Dominii tutti Heretici, si restringe poi con le
-						giuriditioni et Diocese del Vescovo d’Herbipoli et Eistadio, ma da questo
-						canto anco egl’ha la minor parte. Sono questi Canonici et tutto ’l loro
-						Capitolo è assai collegato con quello d’Herbipoli et Magonza, essendo molti
-						di loro secondo l’uso di Germania Canonici in tutte tre le Chiese, cioè in
-						Magonza, Herbipoli et Bamberga, et per questo si communicano con questo mezo
-						molti de lor abusi, come è la multiplicità de beneficii senza dispensatione
-						Apostolica, il concubinato, il non usar l’habito Ecclesiastico, ma più tosto
-						vestirsi come laici et Nobili di questo paese et finalmente il non dir
-						neanche l’hore Canoniche, delle qual cose io penso che sarà stato scritto
-						costà alcuni anni sono da Monsig. Rev.mo di Tricarico<note xml:id="FN5_030.2_04" type="footnote">Ottavio Mirto Frangipani war von
-							1587–1596 Nuntius in Köln. Im September 1594 war er mit einer
-							Visitationsreise nach Trier, Mainz, Würzburg und Bamberg beauftragt
-							worden. Erst 1596 gelangte Frangipani nach Bamberg und berichtete im
-							August über die Missstände und die notwendigen Reformen in Bamberg: vgl.
-							ROBERG, Frangipani, S. 72, 193–196; WEISS, Bistum, S. 285–287. Vgl. Nr.
-							13.1.</note>, il quale benché facesse la parte sua della diligenza, non
-						ottenne però profitto corrispondente alle sue instanze et fatiche, sopra di
-						che mi son doluto con questi Signori Capitolari et principalmente con il
-						Decano creato ultimamente<note xml:id="FN5_030.2_05" type="footnote">Johann
-							Christoph Neustetter: vgl. Nr. 30.1.</note>, il qual è giovane di molto
-						buone qualità et dottrina et si dimostra sin hora molto contrario agli
-						sopradetti abusi et abominevoli peccati, sopr’i quali però non le dà l’animo
-						d’affaticarsi per la correttione et emendatione, desperando del frutto,
-						com’han fatto molt’altri sin hora a similitudine di quelli che disperati di
-						poter pagar li suoi debiti si vanno aggravando con interessi sempre
-						maggiori. Io però non disperarei di qualche frutto, se si potessero far
-						convenire questi tre Vescovi sopranominati, cioè l’Arcivescovo di
-							Magonza<note xml:id="FN5_030.2_06" type="footnote">Wolfgang von Dalberg
-							(1538/39–1601), Kurfürst-Erzbischof von Mainz (1582– 1601): vgl. GATZ,
-							1448–1648, S. 117f.</note>, Herbipoli et Bamberga, facendoli instanza
-						che volessero accordarsi nella riforma<pb xml:id="P5_0000061"/> de suoi
-						Capitolari almeno nelle cose più gravi et rilevanti, come nel rimuovere il
-						Concubinato, la moltiplicità de beneficii particolarmente di quelli c’hanno
-						cura d’anime o che richiedono residenza incompatibile, poiché da questo
-						procede il negletto del culto divino et della salute dell’anime et da questi
-						due disordini et peccati, congionti con il trascurare le hore Canoniche,
-						avviene assai spesso che tal Canonico lascia scorrer degl’anni senza
-						confessarsi et communicarsi. Hanno questi Canonici anche un altro abuso; che
-						nessun di loro si può dire ha altr’ordine sacro ch’il Subdiaconato, benché
-						sian Prepositi, Decani et tall’uno sarà stato Canonico trenta et
-						quarant’anni, in modo che ad alcuno de più idioti pare che non essendo
-						sacerdote non sia quasi neanco Ecclesiastico, et se queste cose et
-						molt’altre simili in questo genere, ch’io lascio per brevità et come
-						dipendenti dalle sopradette, restassero solamente nelle persone d’alcuni
-						puochi Canonici, non sarrebbe forsi necessario prendersene tanto fastidio o
-						timore di pregiudicio maggiore, ma il considerare che di questi Canonici
-						ogn’altro giorno si fanno Vescovi et Prencipi d’Imperio et che la Sede
-						Apostolica difficilmente può negarle la confermatione senza pericolo di
-						qualche disordine et danno nelle Chiese così circondate da Prencipi
-						Heretici, fa che questo stato presente sia più formidabile, oltre che di
-						continovo presso ’l Capitolo è gran parte et forsi la maggiore della
-						giuriditione tanto sopra gl’Ecclesiastici quanto sopra gl’altri laici. Et
-						perché il commemorare tutti questi disordini et descriverli a V. S. Ill.ma
-						non sarrebbe forsi grato se non si soggiongesse anche qualche modo per
-						procurarn’il rimedio, ho giudicato esser conveniente all’obligo et debito
-						della servitù mia di proporre a S. B.ne se il scriverne a tutti tre questi
-						Prelati sopranominati nel modo ch’io ho notato nel foglio aggionto<note xml:id="FN5_030.2_07" type="footnote">Heute in: Fondo Borghese, serie
-							III 92 A, fol. 286r (Regest: BAUER, Quellen, S. 191 (Nr. 27)).</note>
-						fosse per esser approvato et giudicato per rimedio opportuno, massime doppo
-						esser stato fatto loro convenienti instanze et ammonitioni dal Sig. Cardinal
-							Madrucci<note xml:id="FN5_030.2_08" type="footnote">Giovanni Ludovico
-							Madruzzo (1532–1600), Koadjutor des Bischofs von Trient (1550–1567),
-							Kardinal (1561), Bischof von Trient (1567–1600). Seit 1573 Mitglied der
-							Congregazione del Sant’Officio und Protector Germaniae: vgl. GATZ,
-							1448–1648, S. 446–450; DBI 67, S. 181–186; JAITNER, Prosopographie, S.
-							310. Zur Entsendung Madruzzos zum Reichstag in Regensburg 1594: vgl.
-							ROBERG, Türkenkrieg.</note> nella Dieta Imperiale del 1594 in Ratisbona
-						et doppo da Monsig. Vescovo di Tricarico ne luoghi delle lor residenze, et
-						non vedendosi il profitto, ma solo il pericolo che soprasta a questi
-						Vescovadi dagl’abusi et peccati del Clero, da quali vengono in gran parte
-						l’heresie et la perdita delle Chiese inferiori et maggiori in queste
-						Provincie è da temere che senza qualche simil rimedio non si potrà mai
-						assicurarsi dalle gravi molestie nelle quali ci pongono queste così gravi
-						negligenze et peccati, il che però humilmente rimetto al<pb xml:id="P5_0000062"/> santissimo giuditio di S. B.ne et d’ogn’altro mio
-						Ill.mo Padrone, a’ quali potess’esser communicato o rimesso la presente
-						propositione, havendo giudicato esser necessario per scarico della
-						conscienza et sodisfattione del debito mio di rifferir quel ch’io ho veduto
-						et considerato in questo transito et visita di questo tratto di Germania
-						…</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_030.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-04-12" n="2">1599-04-12</title>
+                <title level="a">30.2. Portia an Aldobrandini - Bamberg, 1599 April 12</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie IV 240, fol. 57r–58v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="regest">
+                        <lb/>Regest: BAUER, Quellen, S. 190f. (Nr. 26).</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_030.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-04-12" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2952984">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_030.1.xml"
+                        >30.1. Portia an Aldobrandini - Bamberg, 1599 April 12</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_030.3.xml">30.3.
+                        Portia an Aldobrandini - Bamberg, 1599 April 13</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_030.1.xml">30.1. Portia an
+                        Aldobrandini - Bamberg, 1599 April 12</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_030.3.xml">30.3. Portia an
+                        Aldobrandini - Bamberg, 1599 April 13</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bericht über die Zustände im Bistum Bamberg: Historischer Abriss, Aufbau,
+                    Fehlverhalten der Kanoniker (Konkubinat, Pfründenkumulation, Missachtung der
+                    Residenzpflicht und des Chorgebets, keine hoheren Weihen). Portia regt an, dass
+                    die Bischöfe von Würzburg [Echter v. Mespelbrunn], Mainz [Dalberg] und Bamberg
+                    [Gebsattel] gemeinsam die nötigen Reformen beschließen, die zur Sicherung des
+                    katholischen Glaubens in diesem Gebiet nötig sind.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="30.2">Portia an Aldobrandini - Bamberg, 1599 April 12</head>
+            <div>
+                <p>Havend’io di già significato a V. S. Ill.ma con due altre mie lettere<note
+                        xml:id="FN5_030.2_01" type="footnote">Vermutlich Nr. 27.2 und 27.3, oder
+                        30.1 und ein unauffindbarer Bericht selben Datums.</note>alcuna cosa
+                    appartenente a questa Chiesa et all’elettione ultimamente seguita, ho giudicato
+                    convenirsi di scriverle ancora con un puoca di diligenza maggiore circa lo stato
+                    di questo Vescovado et sua Diocese. È questo Vescovado constituito nella
+                    Provincia di Franconia, fondato da S. Henrico <pb xml:id="P5_0000060"
+                    />Imperatore <note xml:id="FN5_030.2_02" type="footnote">Heinrich II.
+                        (973–1024), Herzog von Bayern (Heinrich IV., 995), König (1002), König von
+                        Italien (1004), Kaiser (1014–1024). Das von Heinrich 1007 gegründete Bistum
+                        Bamberg hat nach seinem Tod die Verehrung des Kaisers gepflegt und 1146
+                        dessen Heiligsprechung erwirkt: vgl. LTHK II 4, Sp. 1375f.</note>et S.
+                    Kunigunda sua Sposa <note xml:id="FN5_030.2_03" type="footnote">Kunigunde (geb.
+                        um 975/985–1033), heiratete 998/1000 Herzog Heinrich IV. von Bayern,
+                        Kaiserin (1014–1024). Die Errichtung und Ausstattung des Bistums Bamberg
+                        erfolgte unter anderem auch mithilfe ihrer Mitgift-Güter. Ab 1025 lebte sie
+                        als Nonne in dem von ihr gegründeten Kloster Kaufungen. Heiligsprechung
+                        (1200): vgl. LTHK II 6, Sp. 527.</note>circa l’anno millesimo et secondo,
+                    immediamente raccommandato et sottoposto alla Santa Chiesa Romana, dalla quale
+                    ha anco ottenuto l’uso del Pallio; ha questo Vescovado la sua Diocese sparsa
+                    verso lo Stato del Duca di Sassonia, Marchese di Brandeburg, et la Città di
+                    Norimberga, Dominii tutti Heretici, si restringe poi con le giuriditioni et
+                    Diocese del Vescovo d’Herbipoli et Eistadio, ma da questo canto anco egl’ha la
+                    minor parte. Sono questi Canonici et tutto ’l loro Capitolo è assai collegato
+                    con quello d’Herbipoli et Magonza, essendo molti di loro secondo l’uso di
+                    Germania Canonici in tutte tre le Chiese, cioè in Magonza, Herbipoli et
+                    Bamberga, et per questo si communicano con questo mezo molti de lor abusi, come
+                    è la multiplicità de beneficii senza dispensatione Apostolica, il concubinato,
+                    il non usar l’habito Ecclesiastico, ma più tosto vestirsi come laici et Nobili
+                    di questo paese et finalmente il non dir neanche l’hore Canoniche, delle qual
+                    cose io penso che sarà stato scritto costà alcuni anni sono da Monsig. Rev.mo di
+                    Tricarico <note xml:id="FN5_030.2_04" type="footnote">Ottavio Mirto Frangipani
+                        war von 1587–1596 Nuntius in Köln. Im September 1594 war er mit einer
+                        Visitationsreise nach Trier, Mainz, Würzburg und Bamberg beauftragt worden.
+                        Erst 1596 gelangte Frangipani nach Bamberg und berichtete im August über die
+                        Missstände und die notwendigen Reformen in Bamberg: vgl. ROBERG, Frangipani,
+                        S. 72, 193–196; WEISS, Bistum, S. 285–287. Vgl. Nr. 13.1.</note>, il quale
+                    benché facesse la parte sua della diligenza, non ottenne però profitto
+                    corrispondente alle sue instanze et fatiche, sopra di che mi son doluto con
+                    questi Signori Capitolari et principalmente con il Decano creato
+                        ultimamente<note xml:id="FN5_030.2_05" type="footnote"> Johann Christoph
+                        Neustetter: vgl. Nr. 30.1.</note>, il qual è giovane di molto buone qualità
+                    et dottrina et si dimostra sin hora molto contrario agli sopradetti abusi et
+                    abominevoli peccati, sopr’i quali però non le dà l’animo d’affaticarsi per la
+                    correttione et emendatione, desperando del frutto, com’han fatto molt’altri sin
+                    hora a similitudine di quelli che disperati di poter pagar li suoi debiti si
+                    vanno aggravando con interessi sempre maggiori. Io però non disperarei di
+                    qualche frutto, se si potessero far convenire questi tre Vescovi sopranominati,
+                    cioè l’Arcivescovo di Magonza <note xml:id="FN5_030.2_06" type="footnote"
+                        >Wolfgang von Dalberg (1538/39–1601), Kurfürst-Erzbischof von Mainz (1582–
+                        1601): vgl. GATZ, 1448–1648, S. 117f.</note>, Herbipoli et Bamberga,
+                    facendoli instanza che volessero accordarsi nella riforma<pb xml:id="P5_0000061"
+                    /> de suoi Capitolari almeno nelle cose più gravi et rilevanti, come nel
+                    rimuovere il Concubinato, la moltiplicità de beneficii particolarmente di quelli
+                    c’hanno cura d’anime o che richiedono residenza incompatibile, poiché da questo
+                    procede il negletto del culto divino et della salute dell’anime et da questi due
+                    disordini et peccati, congionti con il trascurare le hore Canoniche, avviene
+                    assai spesso che tal Canonico lascia scorrer degl’anni senza confessarsi et
+                    communicarsi. Hanno questi Canonici anche un altro abuso; che nessun di loro si
+                    può dire ha altr’ordine sacro ch’il Subdiaconato, benché sian Prepositi, Decani
+                    et tall’uno sarà stato Canonico trenta et quarant’anni, in modo che ad alcuno de
+                    più idioti pare che non essendo sacerdote non sia quasi neanco Ecclesiastico, et
+                    se queste cose et molt’altre simili in questo genere, ch’io lascio per brevità
+                    et come dipendenti dalle sopradette, restassero solamente nelle persone d’alcuni
+                    puochi Canonici, non sarrebbe forsi necessario prendersene tanto fastidio o
+                    timore di pregiudicio maggiore, ma il considerare che di questi Canonici
+                    ogn’altro giorno si fanno Vescovi et Prencipi d’Imperio et che la Sede
+                    Apostolica difficilmente può negarle la confermatione senza pericolo di qualche
+                    disordine et danno nelle Chiese così circondate da Prencipi Heretici, fa che
+                    questo stato presente sia più formidabile, oltre che di continovo presso ’l
+                    Capitolo è gran parte et forsi la maggiore della giuriditione tanto sopra
+                    gl’Ecclesiastici quanto sopra gl’altri laici. Et perché il commemorare tutti
+                    questi disordini et descriverli a V. S. Ill.ma non sarrebbe forsi grato se non
+                    si soggiongesse anche qualche modo per procurarn’il rimedio, ho giudicato esser
+                    conveniente all’obligo et debito della servitù mia di proporre a S. B.ne se il
+                    scriverne a tutti tre questi Prelati sopranominati nel modo ch’io ho notato nel
+                    foglio aggionto <note xml:id="FN5_030.2_07" type="footnote">Heute in: Fondo
+                        Borghese, serie III 92 A, fol. 286r (Regest: BAUER, Quellen, S. 191 (Nr.
+                        27)).</note>fosse per esser approvato et giudicato per rimedio opportuno,
+                    massime doppo esser stato fatto loro convenienti instanze et ammonitioni dal
+                    Sig. Cardinal Madrucci<note xml:id="FN5_030.2_08" type="footnote"> Giovanni
+                        Ludovico Madruzzo (1532–1600), Koadjutor des Bischofs von Trient
+                        (1550–1567), Kardinal (1561), Bischof von Trient (1567–1600). Seit 1573
+                        Mitglied der Congregazione del Sant’Officio und Protector Germaniae: vgl.
+                        GATZ, 1448–1648, S. 446–450; DBI 67, S. 181–186; JAITNER, Prosopographie, S.
+                        310. Zur Entsendung Madruzzos zum Reichstag in Regensburg 1594: vgl. ROBERG,
+                        Türkenkrieg.</note>nella Dieta Imperiale del 1594 in Ratisbona et doppo da
+                    Monsig. Vescovo di Tricarico ne luoghi delle lor residenze, et non vedendosi il
+                    profitto, ma solo il pericolo che soprasta a questi Vescovadi dagl’abusi et
+                    peccati del Clero, da quali vengono in gran parte l’heresie et la perdita delle
+                    Chiese inferiori et maggiori in queste Provincie è da temere che senza qualche
+                    simil rimedio non si potrà mai assicurarsi dalle gravi molestie nelle quali ci
+                    pongono queste così gravi negligenze et peccati, il che però humilmente rimetto
+                    al <pb xml:id="P5_0000062"/>santissimo giuditio di S. B.ne et d’ogn’altro mio
+                    Ill.mo Padrone, a’ quali potess’esser communicato o rimesso la presente
+                    propositione, havendo giudicato esser necessario per scarico della conscienza et
+                    sodisfattione del debito mio di rifferir quel ch’io ho veduto et considerato in
+                    questo transito et visita di questo tratto di Germania … </p>
+            </div>
+        </body>
+    </text>
+</TEI>

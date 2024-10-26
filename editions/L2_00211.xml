@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00211">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-10-20" n="1">1584-10-20</title>
+                <title level="a">211. Gallio an Malaspina - Frascati, 1584 Oktober 20</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 172rv, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00211">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1584-10-20" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3176589">Frascati</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00210.xml"
+                        >210. Gregor XIII an Caligari - Rom, 1584 Oktober 15</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00212.xml">212.
+                        Malaspina an Gallio - Graz, 1584 Oktober 22</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00209.xml">209. Malaspina an Gallio -
+                        Graz, 1584 Oktober 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00212.xml">212. Malaspina an Gallio -
+                        Graz, 1584 Oktober 22</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Einverständnis mit Haltung Malaspinas gegenüber Universallandtag. Abreise
+                    Caligaris aus Rom. Intervention zugunsten der Heranziehung des Paulinerklosters
+                    St. Peter im Walde für Seminar der Diözese Parenzo.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="211">Gallio an Malaspina - Frascati, 1584 Oktober 20</head>
+            <div>
+                <pb xml:id="P2_0000320"/>
+                <p>Per risposta de la lettera di V. S. de li 8<note xml:id="FN2_00211_01"
+                        type="footnote">Nr. 206.</note>dirò brevemente che a N. S. è piacciuto che
+                    V. S. in occasione de la dieta universale, che ricercano li deputati de le
+                    provincie, habbi ricordato a S. A. quei quattro capi in caso che la dieta si
+                    facesse, et così speriamo o che la dieta non si farà et questo sarìa il meglio o
+                    che in essa non potranno gli adversarii nostri adoprar le lor arme venenose
+                    contra di lui.</p>
+                <p>Mons. di Bertinoro è partito di Roma et doverà esser costì al più lungo a S.
+                        Martino.<note xml:id="FN2_00211_02" type="footnote">Wahrscheinlich S.
+                        Martino am Cimino oder vielleicht S. Martino bei Perugia, denn Caligari
+                        begab sich von Rom zuerst in seine Bischofsstadt Bertinoro. Vgl. unten Nr.
+                        217.</note>Però la sequente io manderò a V. S. tutto il suo dispaccio per la
+                    corte Cesarea che arriverà a V. S. prima di lui.</p>
+                <p>Mons, vescovo di Parenzo di consenso di S. A. ha unito al suo seminario il
+                    monasterio di S. Pietro in Selva, come V. S. deve sapere.<note
+                        xml:id="FN2_00211_03" type="footnote">Malaspina berichtete am 4. Juli 1581
+                        nach Rom, daß Erzherzog Karl mit der Heranziehung der Einkünfte des
+                        Paulinerklosters St. Peter im Walde für die Alumnen der Diözese Parenzo sehr
+                        einverstanden sei (Rainer, Grazer Nuntiatur I, S. 293).</note>Hor pare che
+                    la M.tà de l’imperatore cerchi di disturbar questa unione per satisfar a li
+                    padri di S. Paulo primo heremita, <note xml:id="FN2_00211_04" type="footnote">Am
+                        22. September 1584 erteilte der Papst dem Paulinerorden die Erlaubnis, seine
+                        Besitzungen in Ungarn und Istrien zu verpachten (Arch. Vat. Segr. Brev. 60,
+                        f. 113rv).</note>che non vorrebbono lasciar quel luogo, però S. S.tà vuole
+                    che V. S. procuri che l’A. S. non si muova dal consenso già dato per
+                    qualsivoglia instanza che S. M.tà Ces. possa fare, et essendo l’opera del
+                    seminario tanto buona et tanto utile ancora per li proprii stati di S. A. è da
+                    sperare che V. S. otterà facilmente quel che si desidera . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

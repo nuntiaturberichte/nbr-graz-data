@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00150">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-02-08" n="1">1584-02-08</title>
+                <title level="a">150. Malaspina an Gallio - Graz, 1584 Februar 8</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 168r—170r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00150">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1584-02-08" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00149.xml"
+                        >149. Gallio an Malaspina - Rom, 1584 Februar 4</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00151.xml">151.
+                        Gallio an Malaspina - Rom, 1584 Februar 11</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00149.xml">149. Gallio an Malaspina -
+                        Rom, 1584 Februar 4</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00151.xml">151. Gallio an Malaspina -
+                        Rom, 1584 Februar 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Eingehende Beratungen mit Jesuiten über weiteres Verhalten in
+                    Religionsangelegenheiten. Dekret gegen Häretiker in der Grafschaft Görz.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="150">Malaspina an Gallio - Graz, 1584 Februar 8</head>
+            <div>
+                <p>Doppo che il padre provintiale et rettore<note xml:id="FN2_00150_01"
+                        type="footnote">P. Heinrich Blyssem S. J. und P. Emmerich Forsler S.
+                        J.</note>hanno pienamente inteso da me quello, che io ho insin hora detto a
+                    S. A. et a li consiglieri a bocca et in scritto et quel che ulteriormente
+                    disegno di fare in evento che si venisse al accimento del assicuratione,<note
+                        xml:id="FN2_00150_02" type="footnote"> Vgl. oben Nr. 127, Anm.
+                    2.</note>hanno giudicato che si è insin hora intieramente adempita la
+                    commissione di N. S. et sodisfatto a ogni debito et precipuamente a la parte che
+                    a me come ministro de la Santa Sede tocca. Ne in questo particulare si è havuta
+                    altra consideratione di maggior momento che la protestatione che io, venendosi
+                    ad atto pregiuditiale, voglio fare <note xml:id="FN2_00150_03" type="footnote"
+                        >Vgl. oben Nr. 136.</note>et in forma che si possa imprimere, se li heretici
+                    cercassero di maculare la innocentia mia col procurare che fosse creduto che io
+                    mi fossi accomodato di <pb xml:id="P2_0000231"/>consentire a bruttura alcuna ne
+                    la chiesa di Dio, massime che hora sono essi in opera, come mi scrivono da
+                    Augusta, di far imprimere tutte le concessioni che li son state date dal
+                    principe. <note xml:id="FN2_00150_04" type="footnote">Schreiben aus Augsburg
+                        betreffs Druck der Religionskonzession nicht vorhanden.</note>Perilche io
+                    son necessitato di non pretermettere per qualsivoglia rispetto di non fare per
+                    mio scarico la protestatione. Ma dal altra parte è attione degna di matura
+                    consideratione, non essendo stata messa in prattica con principi per l’adrieto
+                    in queste parti, onde forsi è da temere che sia per parere a S. A. che con
+                    qualche denigratione del candore del honor suo si tenghi più stretto modo di
+                    procedere con lei che non si è fatto con gl’altri. Ma io son di opinione che qua
+                    non si penetrarà tanto, oltre anzi quel rispetto politico, quale a questi tempi
+                    suol il più de le volte essere moderatore de li attioni de li principi, causarà
+                    che qua li consiglieri politici pensaranno di cavar commodo et utile da la
+                    protestatione mia, vedendo molto più caro a gl’heretici l’assicuratione et
+                    inducendo perciò li nobili ad allargare la mano con S. A., perché quanto più
+                    intenderanno che l’A. S. ha dispiaciuto a S. S.tà et che loro hanno ottenuto
+                    contra la mente del Sommo Pontefice l’intento loro, tanto maggiormente le sarà
+                    più caro et ne faranno più stima et capitale.</p>
+                <p>Hora questi padri vivendo con molta sollicitudine et timore per parerli, che
+                    tutto il carico di quest attione sia per riposare sopra le spalle loro, come
+                    quelli che confessano S. A.<note xml:id="FN2_00150_05" type="footnote">Vgl. oben
+                        Nr. 123, 140.</note>mi hanno con tanta instantia et con così pietoso affetto
+                    pregato a voler ritrovar modo di deviare l’animo del principe dal assicuratione,
+                    che mi son lasciato disponere a quello che per l’adrieto ho ricusato di fare. Si
+                    è perciò tra noi stabilito, che non sia bene di conculcare nel orecchie di S. A.
+                    il peccato più di quel che io mi habbi fatto,<note xml:id="FN2_00150_06"
+                        type="footnote"> Vgl. oben Nr. 140, Anm. 8.</note>lasciando che egli da se
+                    lo rumini procurare di farlo al presente capace, che l’A. S. non ha per ancora
+                    fatto quello che è tenuta che può et che ha promesso. Et perciò non è tempo di
+                    parlare di assicuratione dovendo prima procedere li tre sopradetti punti, et
+                    perché un altro rispetto non si possono assicurare li nobili, perché
+                    assicurandoli, se prima non si ha essequito perfettamente il decreto contra li
+                    cittadini et popolari, <note xml:id="FN2_00150_07" type="footnote">Vgl. oben Nr.
+                        21, Anm. 1, Nr. 34, Anm. 1.</note>non sarebbe altro che dare dal officina
+                    del principe il certo per l’incerto et commet<pb xml:id="P2_0000232"/>tere un
+                    peccato gravissimo per la speranza d’un incerto bene, et che perciò li nobili
+                    devono lasciare il patrocinio de li cittadini et unirsi con S. A. et fare
+                    osservare perfettamente il decreto et alhora si potrebbe far giuditio del
+                    assicuratione.</p>
+                <p>Ho messo in scritto questo mio parere<note xml:id="FN2_00150_08" type="footnote"
+                        >Nicht vorhanden.</note>approvato da li padri, non già per darlo né a S. A.
+                    né ad altri ma acciò considerandolo loro maturamente ne possiamo da esso insieme
+                    pigliar la norma come si dovremo sicuramente governare. Ma presupponendo che S.
+                    A. si riducesse in stato, che la non potesse né retrocedere né procedere ne le
+                    risolutioni prese, et che col retrocedere fosse per venire in contempto de li
+                    heretici, vedendo essi, che doppo tanti giuramenti di volere che li cittadini et
+                    popolari siano riservati a la dispositione di lei circa la religione, si mutasse
+                    da tal sua opinione, et dal altro canto nel promovere più oltre il negotio S. A.
+                    non potesse resistere a la oppositione de li provintiali. In questo stretto
+                    difficultoso et pericoloso partito ho pensato un modo di sodisfare a S. A. a li
+                    provintiali a la parte cattolica et togliere me di necessità di venire al atto
+                    de la protestatione, et se bene di quest omio parere, quale ho proposto al padre
+                    provintiale acciò sia ventilato maturato sicuramente risoluto et approvato o
+                    reprovato, non ho per ancora risposta dal detto padre, <note
+                        xml:id="FN2_00150_09" type="footnote">Antwort P. Blyssems nicht
+                        vorhanden.</note>lo referirò con tutto ciò a V. S. Ill.ma. Io non sarei
+                    molto alieno che S. A. in caso di necessità firmasse di sua mano et corroborasse
+                    col suo sigillo quel decreto, già doi anni fa publicato, conceputo in quella
+                    forma che sta per il consiglio dato da S. M.tà Ces. a S. A.<note
+                        xml:id="FN2_00150_10" type="footnote"> Malaspina war über die mäßigenden
+                        Ratschläge des Kaisers informiert und berichtete darüber nach Rom (Rainer,
+                        Grazer Nuntiatur I, S. 371f., 398f.).</note>veduto et comendato dal sig.
+                    duca di Baviera et mandato ancora a S. S.tà a la quale pare che non despiacesse
+                    et del essecutione del quale hora si affatichiamo, perché essendo esso uscito in
+                    nome di S. A., se ben non è sottoscritto è però authentico,<note
+                        xml:id="FN2_00150_11" type="footnote"> Sowohl das an den Ritter- und
+                        Herrenstand als auch das an die Grazer Bürgerschaft gerichtete Dekret vom 9.
+                        März bzw. 23. April 1582 war vom landesfürstlichen Sekretär Primus Wanzl
+                        unterschrieben (Loserth, FRA II/50, S. 274279, 296f.).</note>né pare che in
+                    esso si contenghi cosa che non sia in favore de la parte cattolica, se non che
+                    il principe dice di non volere molestare li nobili, ma questo però con alcune
+                    clausule restrittive ne perciò li promette per sempre. Ma perché la copia del
+                    decreto che ho io è in latino et è facil cosa che io sia a le volte ingannato da
+                    la cancel<pb xml:id="P2_0000233"/>laria, uso hora diligentia di farlo havere in
+                    tedesco al padre provintiale, il quale con aiuto de altri theologi lo
+                    considerarà et mi darà risposta, et alhora scriverò a V. S. Ill.ma di questo
+                    particolare con più fondamento <note xml:id="FN2_00150_12" type="footnote"/>et
+                    porrò ogni studio, diligentia et sollicitudine acciò il principe non incorri in
+                    attione che possa maculare la sua conscienza et essere di detrimento a quella
+                    sincerità che ne la fede cattolica si deve sempre conservare.</p>
+                <p>Il decreto contra li goritiani heretici<note xml:id="FN2_00150_13"
+                        type="footnote">Vgl. oben Nr. 148.</note>abbraccia tanto li nobili come
+                    altri l’inferiore conditione et S. A. questi giorni ha fatto una regia
+                    demostratione contra alcuni contadini, quali come capi di molti altri hanno
+                    havuto ardimento di voler seguire l’essercitio lutherano ancho essi non ostante
+                    che siano subditi di ecclesiastici . . .</p>
+                <p>Non mi par di dover lasciare di significare a V. S. Ill.ma che il decreto del
+                    quale sopra faccio mentione fu communicato per commissione di S. A. inanzi la
+                    publicatione a li padri de la Compagnia ne la lingua loro materna et fu alhora
+                    comendato da essi.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

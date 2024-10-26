@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00313">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1585-12-02" n="1">1585-12-02</title>
+                <title level="a">313. Caligari an Rusticucci - Rein, 1585 Dezember 2</title>
+                <author ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 68, f. 281rv, Orig.; Antwort am 24.
+                            Dezember.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00313">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                        Andrea</persName>
+                    <date when="1585-12-02" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2767724">Rein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/128766026">Rusticucci, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_025">Caligari,
+                        Giovanni Andrea - Rusticucci, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00312.xml"
+                        >312. Caligari an Rusticucci - Rein, 1585 November 25</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00314.xml">314.
+                        Caligari an (Azzolino) - (Görz, 1585 Ende)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_025" target="L2_00312.xml">312. Caligari an
+                        Rusticucci - Rein, 1585 November 25</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_025" target="L2_00316.xml">316. Caligari an
+                        Rusticucci - Görz, 1586 Jänner 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bemühungen um Beilegung der Differenzen zwischen Patriarch von Aquileia und
+                    Erzherzog Karl. Bischof von Triest unterwegs nach Rom. Dispens für
+                    gleichzeitigen Besitz zweier Seelsorgebenefizien für Pfarrer von Riegersburg.
+                    Delegiertentag in Worms. Wegen Pest bevorstehende Abreise Caligaris nach Görz.
+                    Verbleiben Erzherzog Karls in Graz.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="313">Caligari an Rusticucci - Rein, 1585 Dezember 2</head>
+            <div>
+                <p>Rispondo a la lettera di V. S. Ill.ma di 17 di novembre.<note
+                        xml:id="FN2_00313_01" type="footnote">Weisung Rusticuccis vom 17. November
+                        nicht vorhanden.</note>Ho scritto già due volte al patriarca d’Aquileia et
+                    datoli conto di tutto quello che è passato qui et spero sarà satisfatto de la
+                    mia diligenza, V. S. Ill.ma vedrà l’alligato capitolo sopra la sua intrata
+                    pontificale in Udine. <note xml:id="FN2_00313_02" type="footnote">Caligari hatte
+                        von Rom den Auftrag, sich um die Versöhnung Erzherzog Karls mit dem
+                        Patriarchen zu bemühen (Nr. 307; Arch. Vat. Nunz. Germ. 68, f. 283r; De
+                        Renaldis, Memorie, S. 384).</note>
+                </p>
+                <p>Il vescovo di Trieste ha purgata la contumaccia in Trieste et se ne viene di
+                    lungo a Roma et per aventura serà gionto avanti che questa mia arrivi.<note
+                        xml:id="FN2_00313_03" type="footnote">Vgl. oben Nr. 310, Anm. 8.</note>
+                </p>
+                <p>Farò la dispensa al Branthero per li dui curati esprimendo la causa che a ciò
+                    move la S.tà di N. S. a fine che la cosa non possa essere tirata in
+                        essempio.<note xml:id="FN2_00313_04" type="footnote">Vgl. oben Nr.
+                        303.</note>
+                </p>
+                <p>L’imperatore havea dimandato a S. A. il sign. Cobenzel per mandarlo a un convento
+                    di alquanti stati d’imperio, che si deve fare avanti la dieta universale
+                    intimata per li 17 di genaro prossimo in Vormatia et S. A. non ha voluto
+                    concederlo allegando che ne ha bisogno per lui.<note xml:id="FN2_00313_05"
+                        type="footnote">Es handelt sich um den Deputiertentag in Worms, der schon am
+                        Reichstag zu Augsburg 1582 in Aussicht genommen wurde und am 24. Jänner 1586
+                        mit der kaiserlichen Proposition eröffnet wurde (Bezold, Briefe II, Nr. 414;
+                        Reichenberger, Nuntiaturberichte, S. 190, 210, 223).</note>
+                </p>
+                <pb xml:id="P2_0000452"/>
+                <p>La peste è cresciuta in Gratz oltre modo et si va avicinando anco a la villa dove
+                    hora io mi ritrovo.<note xml:id="FN2_00313_06" type="footnote"/>Et
+                    l’ambasciatore Veneto, che risede in Praga, mi scrive che né anco li freddi di
+                    Boemia bastano ad estinguerla in quelle bande anzi il riscaldare de le stufe
+                    pare che la nutrisca. La onde per non stare sempre in questo pericolo mi partirò
+                    fra dui giorni per Obreburgo, Lubiana et Goritia luoghi tutti compresi ne la mia
+                    legatione et di là scriverò se vi serà via nissuna per mandare le lettere su la
+                    posta. <note xml:id="FN2_00313_07" type="footnote">Der nächste erhalten
+                        gebliebene datierte Bericht Caligaris stammt vom 9. Jänner 1586 aus Görz
+                        (Nr. 316).</note>S. A. mi ha dato un passaporto favorito et un gentilhuomo
+                    che mi accompagni et faccia allogiare bene per le miei danari. Già sono otto
+                    alabardieri di S. A. al lazaretto oltre gli altri molti, et è morto un figliuolo
+                    di un suo portiero, et con tutto questo S. A. non si vuole movere di Gratz, li
+                    suoi consiglieri ne stanno disperati et danno la colpa a li Giesuiti che lo
+                    ritengono per loro particolare interesse. V. S. Ill.ma seguiti pure mandare le
+                    sue lettere in mano di mons. nuntio di Venetia che esso me le farà capitare
+                    dovunque serò che già sta avertito del tutto . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

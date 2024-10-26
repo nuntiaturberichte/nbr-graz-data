@@ -1,211 +1,216 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_250.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-09-01" n="1">1601-09-01</title>
-                    <title level="a">250.1. San Giorgio an Portia - Rom, 1601 September 1</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 83v–84r,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_250.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-09-01" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_249.1.xml">249.1. Portia an Aldobrandini - Graz, 1601 August 27</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_250.2.xml">250.2. San Giorgio an Portia - Rom, 1601 September 1</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_248.1.xml">248.1. San Giorgio an
-                            Portia - Rom, 1601 August 25</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_250.2.xml">250.2. San Giorgio an
-                            Portia - Rom, 1601 September 1</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Clemens VIII. ist über die langsamen Kriegsvorbereitungen und
-						den dadurch entstehenden Zeitverlust enttäuscht. Das Ansehen des Erzherzogs
-						könnte darunter leiden. Der Sieg des Basta sollte den Kriegseifer anspornen.
-						Das Ausbleiben der vom Kaiser angekündigten Strafmaßnahmen hat die Linzer
-						Protestanten übermütig gemacht. Zufriedenheit über die Besetzung des Amtes
-						des Grenzobersten der kroatischen Grenze. Gute Wünsche für Portias
-						Gesundheit.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="250.1">San Giorgio an Portia - Rom, 1601 September 1</head>
-				<div>
-					<pb xml:id="P5_0000553"/>
-					<p>Puoco altro richiedono in risposta da me le lettere di V. S. delli 20 di
-							Agosto<note xml:id="FN5_250.1_01" type="footnote">Nicht
-							auffindbar.</note> communicate con N. S. conforme al solito, se non che
-						S. B.ne havria desiderata più celerità nella esecutione delle cose che
-						dependono dall’Arciduca o dai suoi ministri, importando troppo ogni picciola
-						perdita di tempo et offendendo altrettanto per la riputatione il sentirsi
-						che mancassero tuttavia le armi, quanto per il danno che si riceve.</p>
-					<p>La confirmatione della vittoria conseguita dal Basti ci fa credere che
-						soleciteranno tutti di moversi contra i Turchi<note xml:id="FN5_250.1_02" type="footnote">Vgl. Nr. 246.3.</note>, nei quali havrà accresciuto il
-						timore l’intender che gl’Imperiali rifiutino così costantemente la pace, ma
-						non si vorrebbe perder più tempo. È un pezzo che l’Arcivescovo Spinelli fece
-						offitii caldissimi con l’Imperatore perché si castigasse l’audacia et la
-						temerità degl’Heretici di Lintz et ne furono dati ordini per quello che
-						s’intese molto gagliardi, ma dalla loro non esecutione saranno poi nati in
-						gran parte nuovi inconvenienti di che V. S. scrive<note xml:id="FN5_250.1_03" type="footnote">Die im März 1600 eingerichtete
-							Reformationskommission für das Land ob der Enns, die die Unterbindung
-							des protestantischen Religionsexerzitiums und des protestantischen
-							Schulwesens zum Ziel hatte, konnte dies in Linz nicht dauerhaft
-							umsetzen. Schon kurze Zeit später öffnete die Landschaftsschule erneut
-							ihre Tore und ab Februar 1601 wurde der Landhausgottesdienst wieder
-							öffentlich gefeiert. Zwischen dem Landeshauptmann Hans Jakob Löbl und
-							den Ständen entwickelte sich eine Feindschaft, die auch die
-							Landesgeschäfte zum Erliegen brachte, sodass im September 1601 im
-							Auftrag des Kaisers eine Kommission für die Umsetzung der
-							Rekatholisierung eingerichtet wurde: vgl. EDER, S. 326–339.</note>, né
-						altro si può da noi che deplorare la miseria di questi tempi. Del Generalato
-						di Croatia ci rallegriamo che l’Arciduca habbia proveduta persona che ne sia
-						capace per valore et per ogn’altra conditione<note xml:id="FN5_250.1_04" type="footnote">Veit Khisl (gest. 1609), Sohn von Hans Khisl zu
-							Kaltenbrunn. Er diente unter spanischer Fahne in den Niederlanden und
-							wurde 1601 zum Grenzobersten der kroatischen Grenze mit Sitz in
-							Karlstadt/Karlovac ernannt: vgl. WISSGRILL 5, S. 104; VALVASOR 4, S. 56;
-							ADB 15, S. 708. Am 14. Juli 1601 schlug Eh. Ferdinand Kaiser Rudolf II.
-							Veit Khisl für das Amt des Grenzobersten der kroatischen Grenze vor und
-							bat um eine Entscheidung in dieser Angelegenheit: vgl. Ferdinand an
-							Rudolf II., Graz, 1601 Juli 14, StLA, Meillerakten XIII-C–21, fol.
-							270r–v und 283r–v. Die Verordneten von Krain und Kärnten hatten auf
-							Anordnung des Kaisers und Eh. Ferdinands bereits Anfang Juni mehrere
-							Personen für dieses Amt vorgeschlagen, dazu gehörten unter anderem Veit
-							Khisl, Josef Rabatta, Peter und Thomas Erdödy. Letztgenannter richtete
-							am 30. Juni und 13. Juli 1601 diesbezüglich auch direkte Bittschreiben
-							an Eh. Ferdinand: vgl. StLA, Meillerakten XIII-C–21, fol. 269r–283v. In
-							der neueren Literatur wird Daniel Frankol als Nachfolger Lenkoviés als
-							Grenzoberster der kroatischen Grenze angeführt, während er in der
-							älteren Literatur als Vizegeneral der kroatischen Grenze bezeichnet
-							wird: vgl. VALVASOR 4, S. 93, 128; PÀLFFY, Türkenabwehr, S. 129. Der
-							venezianische Botschafter am Kaiserhof, Pietro Duodo, bezeichnete
-							Frankol in seinen Berichten als Vizegeneral von Karlstadt/Karlovac und
-							Veit Khisl als Nachfolger Lenkoviés: vgl. Duodo an Grimani, Prag, 1601
-							September 24, HHStA, Dispacci di Germania 31/32, S. 178f.; Duodo an
-							Grimani, Prag, 1602 Februar 25, HHStA, Dispacci di Germania 31/32, S.
-							327. Auch Rabatta benannte Frankol Anfang Oktober 1601 in einem
-							Schreiben an Pasqualigo als Vizegeneral der kroatischen Grenze mit Sitz
-							in Karlstadt/Karlovac: vgl. HORVAT 1, S. 376. Portia berichtete Offredi
-							im Mai 1602: Il Chisel Generale di Croatia è aviso che d’Italia sia
-							ritornato in Cragno . : vgl. Portia an Offredi, Graz, 1602 Mai 13, ASV,
-							Fondo Borghese, serie III 48 A-F, fol. 57r (Avviso).</note>, né altro ho
-						che dir qui a V. S. se non ch’ella<pb xml:id="P5_0000554"/> ponga ogni cura
-						di ricuperare la sanità et conservarla per interesse anco degl’altri. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_250.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-09-01" n="1">1601-09-01</title>
+                <title level="a">250.1. San Giorgio an Portia - Rom, 1601 September 1</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 83v–84r,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_250.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-09-01" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_249.1.xml"
+                        >249.1. Portia an Aldobrandini - Graz, 1601 August 27</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_250.2.xml">250.2.
+                        San Giorgio an Portia - Rom, 1601 September 1</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_248.1.xml">248.1. San Giorgio an
+                        Portia - Rom, 1601 August 25</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_250.2.xml">250.2. San Giorgio an
+                        Portia - Rom, 1601 September 1</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Clemens VIII. ist über die langsamen Kriegsvorbereitungen und den
+                    dadurch entstehenden Zeitverlust enttäuscht. Das Ansehen des Erzherzogs könnte
+                    darunter leiden. Der Sieg des Basta sollte den Kriegseifer anspornen. Das
+                    Ausbleiben der vom Kaiser angekündigten Strafmaßnahmen hat die Linzer
+                    Protestanten übermütig gemacht. Zufriedenheit über die Besetzung des Amtes des
+                    Grenzobersten der kroatischen Grenze. Gute Wünsche für Portias Gesundheit.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="250.1">San Giorgio an Portia - Rom, 1601 September 1</head>
+            <div>
+                <pb xml:id="P5_0000553"/>
+                <p>Puoco altro richiedono in risposta da me le lettere di V. S. delli 20 di
+                        Agosto<note xml:id="FN5_250.1_01" type="footnote">Nicht
+                    auffindbar.</note>communicate con N. S. conforme al solito, se non che S. B.ne
+                    havria desiderata più celerità nella esecutione delle cose che dependono
+                    dall’Arciduca o dai suoi ministri, importando troppo ogni picciola perdita di
+                    tempo et offendendo altrettanto per la riputatione il sentirsi che mancassero
+                    tuttavia le armi, quanto per il danno che si riceve.</p>
+                <p>La confirmatione della vittoria conseguita dal Basti ci fa credere che
+                    soleciteranno tutti di moversi contra i Turchi<note xml:id="FN5_250.1_02"
+                        type="footnote">Vgl. Nr. 246.3.</note>, nei quali havrà accresciuto il
+                    timore l’intender che gl’Imperiali rifiutino così costantemente la pace, ma non
+                    si vorrebbe perder più tempo. È un pezzo che l’Arcivescovo Spinelli fece offitii
+                    caldissimi con l’Imperatore perché si castigasse l’audacia et la temerità
+                    degl’Heretici di Lintz et ne furono dati ordini per quello che s’intese molto
+                    gagliardi, ma dalla loro non esecutione saranno poi nati in gran parte nuovi
+                    inconvenienti di che V. S. scrive <note xml:id="FN5_250.1_03" type="footnote"
+                        >Die im März 1600 eingerichtete Reformationskommission für das Land ob der
+                        Enns, die die Unterbindung des protestantischen Religionsexerzitiums und des
+                        protestantischen Schulwesens zum Ziel hatte, konnte dies in Linz nicht
+                        dauerhaft umsetzen. Schon kurze Zeit später öffnete die Landschaftsschule
+                        erneut ihre Tore und ab Februar 1601 wurde der Landhausgottesdienst wieder
+                        öffentlich gefeiert. Zwischen dem Landeshauptmann Hans Jakob Löbl und den
+                        Ständen entwickelte sich eine Feindschaft, die auch die Landesgeschäfte zum
+                        Erliegen brachte, sodass im September 1601 im Auftrag des Kaisers eine
+                        Kommission für die Umsetzung der Rekatholisierung eingerichtet wurde: vgl.
+                        EDER, S. 326–339.</note>, né altro si può da noi che deplorare la miseria di
+                    questi tempi. Del Generalato di Croatia ci rallegriamo che l’Arciduca habbia
+                    proveduta persona che ne sia capace per valore et per ogn’altra conditione <note
+                        xml:id="FN5_250.1_04" type="footnote">Veit Khisl (gest. 1609), Sohn von Hans
+                        Khisl zu Kaltenbrunn. Er diente unter spanischer Fahne in den Niederlanden
+                        und wurde 1601 zum Grenzobersten der kroatischen Grenze mit Sitz in
+                        Karlstadt/Karlovac ernannt: vgl. WISSGRILL 5, S. 104; VALVASOR 4, S. 56; ADB
+                        15, S. 708. Am 14. Juli 1601 schlug Eh. Ferdinand Kaiser Rudolf II. Veit
+                        Khisl für das Amt des Grenzobersten der kroatischen Grenze vor und bat um
+                        eine Entscheidung in dieser Angelegenheit: vgl. Ferdinand an Rudolf II.,
+                        Graz, 1601 Juli 14, StLA, Meillerakten XIII-C–21, fol. 270r–v und 283r–v.
+                        Die Verordneten von Krain und Kärnten hatten auf Anordnung des Kaisers und
+                        Eh. Ferdinands bereits Anfang Juni mehrere Personen für dieses Amt
+                        vorgeschlagen, dazu gehörten unter anderem Veit Khisl, Josef Rabatta, Peter
+                        und Thomas Erdödy. Letztgenannter richtete am 30. Juni und 13. Juli 1601
+                        diesbezüglich auch direkte Bittschreiben an Eh. Ferdinand: vgl. StLA,
+                        Meillerakten XIII-C–21, fol. 269r–283v. In der neueren Literatur wird Daniel
+                        Frankol als Nachfolger Lenkoviés als Grenzoberster der kroatischen Grenze
+                        angeführt, während er in der älteren Literatur als Vizegeneral der
+                        kroatischen Grenze bezeichnet wird: vgl. VALVASOR 4, S. 93, 128; PÀLFFY,
+                        Türkenabwehr, S. 129. Der venezianische Botschafter am Kaiserhof, Pietro
+                        Duodo, bezeichnete Frankol in seinen Berichten als Vizegeneral von
+                        Karlstadt/Karlovac und Veit Khisl als Nachfolger Lenkoviés: vgl. Duodo an
+                        Grimani, Prag, 1601 September 24, HHStA, Dispacci di Germania 31/32, S.
+                        178f.; Duodo an Grimani, Prag, 1602 Februar 25, HHStA, Dispacci di Germania
+                        31/32, S. 327. Auch Rabatta benannte Frankol Anfang Oktober 1601 in einem
+                        Schreiben an Pasqualigo als Vizegeneral der kroatischen Grenze mit Sitz in
+                        Karlstadt/Karlovac: vgl. HORVAT 1, S. 376. Portia berichtete Offredi im Mai
+                        1602: Il Chisel Generale di Croatia è aviso che d’Italia sia ritornato in
+                        Cragno . : vgl. Portia an Offredi, Graz, 1602 Mai 13, ASV, Fondo Borghese,
+                        serie III 48 A-F, fol. 57r (Avviso).</note>, né altro ho che dir qui a V. S.
+                    se non ch’ella<pb xml:id="P5_0000554"/> ponga ogni cura di ricuperare la sanità
+                    et conservarla per interesse anco degl’altri. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

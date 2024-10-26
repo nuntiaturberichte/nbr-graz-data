@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00245">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1594-04-05" n="1">1594-04-05</title>
+                <title level="a">245. B. v. Laibach an Aldobrandini - Görz, 1594 April 5</title>
+                <author ref="#http://d-nb.info/gnd/119845911">Tavčar, Janez</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+                                Heinz</persName>
+                            <persName>Rainer Christian</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+                            Kobenzl; 1592-1595</title>
+                        <idno type="ISBN">3-7001-2964-5</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2001</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturinstitut
+                                    in Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="3">3. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="484">484 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturinstitut in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. F. Borg. III, vol. 68B, f. 138r—139v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L3_00245">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119845911">Tavčar, Janez</persName>
+                    <date when="1594-04-05" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3175986">Gorizia</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_052">Aldobrandini,
+                        Cinzio - Tavčar, Janez</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L3_00244.xml"
+                        >244. Kobenzl an Aldobrandini - Wiener Neustadt, 1594 April 2</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L3_00246.xml">246.
+                        Klemens VIII. an Ehzg Maximilian - Rom, 1594 April 6</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_052" target="L3_00206.xml">206. B. v. Laibach an
+                        Aldobrandini - Graz, 1593 Dezember 13</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>B. von Laibach bittet um Förderung der Errichtung eines auch der
+                    Priesterausbildung dienenden Jesuitenkollegs in Laibach und schlägt dafür das
+                    seinerzeit für das geplante Bistum Görz bestimmte Kartäuserkloster Franz
+                    vor.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="245">B. v. Laibach an Aldobrandini - Görz, 1594 April 5</head>
+            <div>
+                <p>Quod Ill.ma D. V. tam benigne mecum hic in religione reparanda studium se
+                    amplecti significat operamque suam tam liberaliter ad eadem perficienda offert;
+                    primum illi maximas, ut par est, ago gratias, deinde mihi ipsi de tantis
+                    auxiliis quam plurimum gratulor preterque enim quod <pb xml:id="P3_0000310"
+                    />hinc in spem erigatur animus precipue difficultatis istic facile superandae,
+                    etiam calcar mihi additur connitendi, ut rem tam salutarem quam citissime ad
+                    effectum deducam. Egi proinde ea in re interea quidquid agi potuit, verum, ob
+                    diuturnam ser.mi principis absentiam, <note xml:id="FN3_00245_01"
+                        type="footnote">Ehzg Maximilian, seit September 1593 Governator von
+                        Innerösterreich, war als Kommandant der kaiserlichen Truppen in Ungarn oft
+                        von Graz abwesend.</note>nihil omnino confici potuit, ut ob id etiam nunc
+                    tardius quam opinassem rescribam; nunc autem et ser.mum principem conveni et
+                    totam rem prospere confeci, omnibus quae in votis erant sine negocio impetratis.
+                    Tanta enim est omnium in Labacensi collegio promovendo propensio, tantusque
+                    preter spem nostram, ardor, ut Deus illam mentem illis ad nos confirmandos
+                    immisisse videatur. <note xml:id="FN3_00245_02" type="footnote">Siehe Nr. 182,
+                        317.</note>Superest igitur ut, quod reliquum est, Ill.mae D. V.
+                    benevolentiae ac curae singulariter commendemus cuius intercessione S. D. N.
+                    etiam votis nostris annuat, gratamque ac celerem expeditionem impetremus. Porro
+                    ut liquidius totam rationem dotandi collegii, quam nos hoc tempore unicam videre
+                    potuimus intelligat, rem paulo altius repetere opere pretium erit. Cum de
+                    collegii Labacensis necessitate constituissem, in dote invenienda magna se
+                    offerebat difficultas. Nam supputatis facultatibus et oneribus episcopatus
+                    Labaceum illi oneri plane imparem deprehendi, preterque enim quod ipse ex se ad
+                    tale onus perferendum pertenuis sit, etiam magnis, supra omnes harum partium
+                    episcopatus oneribus gravatus est, ut bonis episcopatus redimendis hactenus
+                    minime suffecerint; cui etiam et alia ex bellis temporumque iniuria varia
+                    accedunt onera.</p>
+                <p>Quamobrem ad alia media querenda me converti, istudque quod iam refecerim, tandem
+                    succurrit non incommodum, superioribus annis Carolo, piae memoriae archiduce
+                    adhuc superstite actum est hic de duobus novis episcopatibus erigendis uno in
+                        Carinthia<note xml:id="FN3_00245_03" type="footnote">Das für Kärnten
+                        geplante Bistum Völkermarkt kam nie zustande: Rainer, Völkermarkt 804
+                        ff.</note>altero Goritiae <note xml:id="FN3_00245_04" type="footnote">Das
+                        Bistum Görz wurde erst 1752 bei der Liquidierung des Patriarchates Aquileia
+                        errichtet, obwohl alle geforderten Voraussetzungen erfüllt waren: Rainer,
+                        Diözesaneinteilung 267 ff.</note>, quae res cum stae recordationis Sixto
+                    quinto vehementer placuisset, ex eiusdem consensu, Goritiensi episcopatui
+                    dotando destinata sunt bona coenobii Franz patrum ordinis Carthusiensis tunc, a
+                    longo tempore usque ad unum aut alterum religiosum pene deserti. <note
+                        xml:id="FN3_00245_05" type="footnote">Kartäuserkloster bei
+                    Laibach.</note>Quamobrem tunc etiam eadem bona a r.mo Tergestino <note
+                        xml:id="FN3_00245_06" type="footnote">Nikolaus Coreth, Bischof von
+                        Triest.</note>apostolico delegato ad valorem mille ducentorum flore<pb
+                        xml:id="P3_0000311"/>norum annuorum aestimata; huic usui applicata sunt
+                    atque occupata, ut integrum triennium sub administratore ab archiduce Carolo
+                    constituto permanserint. Haec consilia morte intermissa archiducis, <note
+                        xml:id="FN3_00245_07" type="footnote">Ehzg Karl starb überraschend, erst 50
+                        Jahre alt, im Juli 1590.</note>atque suspensa sunt; interea vero, cum
+                    auctoritate S. D. N. duo caenobia Carthusiani ordinis, quae alumnis Graecensibus
+                    assignata erant, Carthusianis patribus restituerentur, etiam dictum coenobium
+                    Franz iisdem petentibus restitutum fuit; <note xml:id="FN3_00245_08"
+                        type="footnote">Siehe Nr. 58: Schreiben Portias an
+                    Jesuitengeneral.</note>verum hac conditione, ut casu quo in usum episcopatus
+                    erigendi repeteretur, sine tergiversatione reddatur. Coenobium hoc in parochia
+                    mea situm est, quatuor, tantum miliaribus a Labaco distans, quo amnis
+                    placidissime defluens, ultro, citroque commeantibus commodissimam praebet
+                    navigationem huius coenobii proventus cum episcopatui fundando minime sufficiat
+                    et si de episcopatu erigendo agetur, non defuturae sunt ulteriores redditus et
+                    loca opportuniora illi tribuendi. Fundationi autem collegii Labacensis
+                    accommodatissimi satisque proportionati sint, maiorem in modum S.um D. N.
+                    rogatum velim, ut quod ser.mus archidux Maximilianus cum suis consultoribus e re
+                    harum provinciarum fore iudicavit atque probavit, idem S. S.tas ad religionis
+                    restaurationem, fidei hic Labacensis praesidium nec non in tot animarum pretioso
+                    Christi sanguine redemptarum, inter tot haeresum flagitiorumque tempestates
+                    fluctuantium, subsidium confirmare dictosque coenobii proventus Labacensi
+                    collegio benigne in perpetuum assignare dignetur quod si (ut omnes speramus)
+                    fecerit, non solum Deo rem gratissimam praestabit, verum etiam summo beneficio
+                    has provincias S. S.tas in perpetuum devinciet iustissimamque laudem apud omnes
+                    vel hoc nomine promerebitur, quod certum christianae fidei praesidium, divinitus
+                    orbi his tam calamitosis temporibus, subministratum obscurae spei de paucorum,
+                    religiosorum reformatione, non usque adeo necessarie sapientissime
+                        praeposuerit.<note xml:id="FN3_00245_09" type="footnote"> Vgl. Dolinar,
+                        Jesuitenkolleg.</note>
+                </p>
+                <p>Erit autem haec portio ut dixi collegio dotando utcunque sufficiens, non enim
+                    magnum molimur collegium sed tamen, uti confidimus, valde utile ac fructuosum
+                    nam etsi externarum disciplinarum professiones. Rhetorica classe concludere
+                    statuerimus, ut ii quibus ingenia et sumptus ad altiora percipienda suppetunt,
+                    reliqua in Graecensi academia, vel alibi querant; pro reliquis tamen, qui
+                    ecclesiae deservire volent, ut ibidem ad pastorale officium sufficienter
+                    institui possint, unam classem superaddendam censeo, in qua preter dialecticam,
+                    romanus catechismus et compendium rerum conscientiae annuo curriculo
+                    absolventur, superadditis dua<pb xml:id="P3_0000312"/>bus lectionibus
+                    extraordinariis hebdomadatim, una de ratione evangeliorum et epistolarum apud
+                    populum pro concione tractandarum, altera de precipuis in ecclesia ceremoniis.
+                        <note xml:id="FN3_00245_10" type="footnote">Vgl. Rainer, Anfänge 31
+                        ff.</note>Unde, ut nobis bonorum parochorum bonam copiam ex Dei benedictione
+                    expectamus, ita ad pium opus auspicandum vehementer cum piis omnibus anhelamus;
+                    quam ad rem, ut nobis quicquid poterit (poterit autem scio quam plurimum),
+                    conferat submisse rogo atque etiam obsecro. Quam opt. ter. max. Deus nobis et
+                    ecclesiae suae sanctae diu salvam et incolumem conservet, cui me etiam cum meo
+                    episcopatu humillime commendo.</p>
+                <p>Si Ill.mae D. V. expedire videbitur S.mo D. N. adiunctum meum libellum supplicem
+                    offerri, faciet id, pro ut commodum fore iudicaverit.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

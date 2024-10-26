@@ -1,181 +1,187 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_151.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-07-22" n="1">1600-07-22</title>
-                    <title level="a">151.1. San Giorgio an Portia - Rom, 1600 Juli 22</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>BNCF, Fondo nazionale II.II.511, fol. 131r–v, Orig.; ASV, Fondo
-								Borghese, serie III<lb/>48, 48 Bis, 49, 51 E, 52 A, fol. 39r–40v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_151.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1600-07-22" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_150.2.xml">150.2. Portia an Aldobrandini - Graz, 1600 Juli 17</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_151.2.xml">151.2. Aldobrandini an Portia - Rom, 1600 Juli 22</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_149.2.xml">149.2. San Giorgio an
-                            Portia - Rom, 1600 Juli 15</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_153.1.xml">153.1. San Giorgio an
-                            Portia - Rom, 1600 Juli 29</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Zufriedenheit über die Verhandlungen bezüglich der Uskoken. Der Nuntius von
-						Venedig [Offredi] empfiehlt, die Verhandlungen sowohl in Graz als auch in
-						Prag zu führen, da derzeit auch der Kaiser an einer Lösung interessiert zu
-						sein scheint. Portia soll weiter über die Pläne der protestantischen Fürsten
-						im Bezug auf die Wahl des Römischen Königs berichten. Bestürzung über den
-						Ausbruch der Pest. Posteingang.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="151.1">San Giorgio an Portia - Rom, 1600 Juli 22</head>
-				<div>
-					<p>Ha sodisfatto pienamente l’offitio fatto da V. S. con l’Arciduca nel negotio
-						degli Uscocchi, del quale intendendosi per lettere dell’Arcivescovo Spinelli
-						che anco a Praga si sentiva meglio del solito, et che l’Imperatore se ne
-						rimetteva quasi<note xml:id="SN151.1_a" type="siglum">Ersetzt für nel
-							nuntio.</note> in lui<ref target="#SN151.1_a">*a)</ref> et nel
-						Corraducci, cominciamo a sperarne quel<pb xml:id="P5_0000368"/> buon essito
-						di che habbiamo dubitato grandemente sin’adesso<note xml:id="FN5_151.1_01" type="footnote">Vgl. Spinelli an San Giorgio, Prag, 1600 Juli 3, ASV,
-							Fondo Borghese, serie III 87 D, fol. 105r–v.</note>. Ma perché i
-						Venetiani, benché inclinati anch’essi alla quiete, difficilmente
-						s’indurranno a rimettere parte alcuna del loro rigore finché non conoschino
-						bene l’animo et dell’Arciduca et dell’Imperatore da qualche effetto, che
-						così ci scrive a punto il Nuntio di Venetia, converrà far ogn’opera et costì
-						et a Praga che non si differisca più il comprobarglielo attualmente et che
-						però vi si impieghino con ugual studio V. S. et l’Arcivescovo Spinelli, al
-						quale se ne invia similmente Ordine particolare.</p>
-					<p>Dei disegni dei Principi Protestanti intorno la elettione del Re de Romani et
-						dei loro motivi perseveri di communicarci tutto quello che ne intenderà di
-						mano in mano, che se bene sono spesso piene di passione et di artificio le
-						voci che si spargono in simili materie, non disserve tuttavia l’haverne
-						notitia da più persone et da più parti.</p>
-					<p>Che la peste cominci a farsi sentire di nuovo in quei paesi ne habbiamo
-						sentito molto dispiacere per ogni rispetto, ma spetialmente per il travaglio
-						d’animo et per il danno che ne riceveria l’Arciduca quando facesse quel
-						progresso al quale presupponiamo che si metterà ogni impedimento.</p>
-					<p>Al Breve che V. S. presentò a S. A. nel particolare degli Uscocchi<note xml:id="FN5_151.1_02" type="footnote">Clemens VIII. an Ferdinand, Rom,
-							1600 Juni 17: NANNIIMRKONJIé 3, Nr. 13528.</note> non ci è risposta
-						sin’hora. Che essendo quanto ho da replicare alle lettere di V. S. delli
-							10<note xml:id="FN5_151.1_03" type="footnote">Nicht auffindbar.</note>
-						…</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_151.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-07-22" n="1">1600-07-22</title>
+                <title level="a">151.1. San Giorgio an Portia - Rom, 1600 Juli 22</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>BNCF, Fondo nazionale II.II.511, fol. 131r–v, Orig.; ASV, Fondo
+                            Borghese, serie III<lb/>48, 48 Bis, 49, 51 E, 52 A, fol. 39r–40v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_151.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1600-07-22" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_150.2.xml"
+                        >150.2. Portia an Aldobrandini - Graz, 1600 Juli 17</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_151.2.xml">151.2.
+                        Aldobrandini an Portia - Rom, 1600 Juli 22</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_149.2.xml">149.2. San Giorgio an
+                        Portia - Rom, 1600 Juli 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_153.1.xml">153.1. San Giorgio an
+                        Portia - Rom, 1600 Juli 29</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Zufriedenheit über die Verhandlungen bezüglich der Uskoken. Der Nuntius von
+                    Venedig [Offredi] empfiehlt, die Verhandlungen sowohl in Graz als auch in Prag
+                    zu führen, da derzeit auch der Kaiser an einer Lösung interessiert zu sein
+                    scheint. Portia soll weiter über die Pläne der protestantischen Fürsten im Bezug
+                    auf die Wahl des Römischen Königs berichten. Bestürzung über den Ausbruch der
+                    Pest. Posteingang.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="151.1">San Giorgio an Portia - Rom, 1600 Juli 22</head>
+            <div>
+                <p>Ha sodisfatto pienamente l’offitio fatto da V. S. con l’Arciduca nel negotio
+                    degli Uscocchi, del quale intendendosi per lettere dell’Arcivescovo Spinelli che
+                    anco a Praga si sentiva meglio del solito, et che l’Imperatore se ne rimetteva
+                        quasi<note xml:id="SN5_151.1_a" type="siglum">Ersetzt für nel
+                    nuntio.</note>in lui<ref target="#SN5_151.1_a"/> et nel Corraducci, cominciamo a
+                    sperarne quel<pb xml:id="P5_0000368"/> buon essito di che habbiamo dubitato
+                    grandemente sin’adesso <note xml:id="FN5_151.1_01" type="footnote">Vgl. Spinelli
+                        an San Giorgio, Prag, 1600 Juli 3, ASV, Fondo Borghese, serie III 87 D, fol.
+                        105r–v.</note>. Ma perché i Venetiani, benché inclinati anch’essi alla
+                    quiete, difficilmente s’indurranno a rimettere parte alcuna del loro rigore
+                    finché non conoschino bene l’animo et dell’Arciduca et dell’Imperatore da
+                    qualche effetto, che così ci scrive a punto il Nuntio di Venetia, converrà far
+                    ogn’opera et costì et a Praga che non si differisca più il comprobarglielo
+                    attualmente et che però vi si impieghino con ugual studio V. S. et l’Arcivescovo
+                    Spinelli, al quale se ne invia similmente Ordine particolare.</p>
+                <p>Dei disegni dei Principi Protestanti intorno la elettione del Re de Romani et dei
+                    loro motivi perseveri di communicarci tutto quello che ne intenderà di mano in
+                    mano, che se bene sono spesso piene di passione et di artificio le voci che si
+                    spargono in simili materie, non disserve tuttavia l’haverne notitia da più
+                    persone et da più parti.</p>
+                <p>Che la peste cominci a farsi sentire di nuovo in quei paesi ne habbiamo sentito
+                    molto dispiacere per ogni rispetto, ma spetialmente per il travaglio d’animo et
+                    per il danno che ne riceveria l’Arciduca quando facesse quel progresso al quale
+                    presupponiamo che si metterà ogni impedimento.</p>
+                <p>Al Breve che V. S. presentò a S. A. nel particolare degli Uscocchi<note
+                        xml:id="FN5_151.1_02" type="footnote">Clemens VIII. an Ferdinand, Rom, 1600
+                        Juni 17: NANNIIMRKONJIé 3, Nr. 13528.</note>non ci è risposta sin’hora. Che
+                    essendo quanto ho da replicare alle lettere di V. S. delli 10 <note
+                        xml:id="FN5_151.1_03" type="footnote">Nicht auffindbar.</note>… </p>
+            </div>
+        </body>
+    </text>
+</TEI>

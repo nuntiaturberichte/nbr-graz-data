@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00001">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1580-09-05" n="1">1580-09-05</title>
+				<title level="a">1. Gallio an Malaspina - Rom, 1580 September 5</title>
+				<author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Miscell. Arm. II, vol. 130, f. 183r—188v,
+							Minute.<lb/>Bibl. Vat. Barb. lat. 5744, f. 83r—89r, gleichzeitige
+							Kop.<lb/>Ebenda Ottob. lat. 2417, f. 392r—396r, gleichzeitige
+							Kop.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00001">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+					<date when="1580-09-05" n="1"/>
+					<placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00002.xml">2.
+						Gregor XIII. an Erzherzog Karl - Rom, 1580 September 6</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00004.xml">4. Malaspina an Gallio -
+						Rom, 1580 September 10</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Instruktion für Germanico Malaspina<note xml:id="FN1_00001_01" type="footnote"
+						>Die Instruktion war zuerst für Alessio Stradella, Bischof von Nepi,
+						bestimmt, der jedoch auf dem Weg nach Graz starb. Name und Datum wurden in
+						der Minute entsprechend korrigiert: di Nepi durchgestrichen und dafür
+						Germanico Malaspina geschrieben; ebenso wurde das ursprüngliche Datum 19.
+						Juni 1580 gestrichen und das neue eingesetzt.</note>als Nuntius bei
+					Erzherzog Karl: Erhaltung und Mehrung der katholischen Religion. Annullierung
+					der den Häretikern gewährten Religionsfreiheit. Einwirkung auf die an der
+					Ausbreitung der Häresie gutteils schuldigen Bischöfe zur Erfüllung ihrer
+					Pflicht. Einigung aller Katholiken mit Erzherzog Karl gegen die die Türkengefahr
+					für sich ausnützenden häretischen Adeligen. Entfernung aller Häretiker von Rat,
+					Hof und Regierung. Beilegung der Differenzen mit Patriarch und Kapitel von
+					Aquileia. Absetzung des häretischen bambergischen Vizedoms in Kärnten, Hans
+					Friedrich Hoffmann. Abstellung der Seeräuberei und anderer Untaten der Uskoken.
+					Bereitschaft des Papstes zur Unterstützung Erzherzog Karls bei Verteidigung und
+					Angriff gegen Türken. Widmungswidrige Verwendung der vom Papst zur Fortifikation
+					bestimmter Orte an der Türkengrenze gegebenen Gelder.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="1">Gallio an Malaspina - Rom, 1580 September 5</head>
+			<div>
+				<p>Havendo la Stà di N. S., per l’amor che porta al sermo arciduca Carlo d’Austria
+					et per la stima che fa la singular pietà, bontà et valore di S. A. et insieme
+					per il desiderio che tiene di giovare a lei et a suoi popoli, in tutto quello
+					che possa, deliberato di tener appresso di S. A. un nontio residente per qualche
+					tempo et fatto elettione de la persona di V. S., lei perciò doverà trasferirsi
+					da S. A. con la magior diligenza che con suo commodo potrà et quivi attendere a
+					rappresentar di continuo la paterna charità di S. Bne et procurar con tutte le
+					forze sue la conservatione et aumento de la religion catholica, la quale è<pb
+						xml:id="P1_0000004"/> così afflitta et depressa da alcun tempo in qua in
+					quelle bande, che ha gran bisogno d’esser aiutata et sollevata. <note
+						xml:id="FN1_00001_02" type="footnote">Auf der Münchner Konferenz wurde
+						beschlossen, den Papst zu bitten, zur Wiederherstellung der katholischen
+						Religion in der Steiermark einen gescheiten und erfahrenen Nuntius in Graz
+						zu unterhalten (Loserth, FRA II/50, S. 36).</note>
+				</p>
+				<p>Cominciando adunque da questa materia, come principale et più importante, V. S.
+					ha da sapere che la nobiltà di quei stati, quasi tutta infetta, dopo haver più
+					volte tentato d’allargarsi nel’ essercitio et libertà di religione publicò in
+					una dieta, che si fece circa tre anni sono, una scrittura in forma di manifesto
+					sottoscritta da molti di loro, ne la quale si diceva che S. A. haveva concessa
+					in voce un’ ampia libertà di religione et essercitio anco in alcune terre che
+					per prima erano eccettuate,<note xml:id="FN1_00001_03" type="footnote">Über das
+						hier gemeinte sogenannte Brucker Libell von 1578 vgl. Loserth, Zur
+						Geschichte des Brucker Libells, S. 7 ff.; derselbe, Die steirische
+						Religionspacification 1572—1578; derselbe, Die steirische
+						Religionspazifikation und die Fälschung des Vizekanzlers Dr. Wolfgang
+						Schranz, S. 1 ff.; derselbe, Eine Fälschung des Vizekanzlers Wolfgang
+						Schranz, S. 341 ff.; Schellhass, Zum richtigen Verständnis der Brucker
+						Religionspacification vom 9. Februar 1578, S. 266 ff.</note>la qual cosa,
+					venuta a le orecchie di N. S., lo commosse tanto che spedì subito il vescovo di
+					Scala a quella volta per querelarsi et, rimostrando gli inconvenienti et danni
+					che di ciò erano per seguire, instar per rimedio opportuno. <note
+						xml:id="FN1_00001_04" type="footnote">Über die Sendung Felician Ninguardas,
+						Bischofs von Scala, nach Graz: Schellhass, Der Dominikaner Felician
+						Ninguarda und die Gegenreformation in Süddeutschland und Österreich II, S. 1
+						ff.</note>L’arciduca udì volentieri il vescovo et promise di farvi il
+					rimedio che si desiderava, ma per alcune sue considerationi volse prima
+					communicarlo col duca di Baviera et con l’arciduca Ferdinando, come fece, <note
+						xml:id="FN1_00001_05" type="footnote">Auf der Münchner Konferenz im Oktober
+						1579 (Loserth, FRA II/50, S. 31—40).</note>onde et per questo et per altri
+					accidenti la cosa si tirò in longo senza venir mai a l’effetto; ma ultimamente,
+					havendo pur S. A. mostrato animo risoluto di farvi gagliarda provisione, se li
+					scrisse un breve non solo efficace ma aspro et comminatorio, acciò li servisse
+					per scudo contra chi la volesse dissuadere et levarla da l’impresa. <note
+						xml:id="FN1_00001_06" type="footnote">Wahrscheinlich Breve vom 11. Juni 1579
+						(Theiner, Annales eccl. III, S. 22).</note>Dopo il qual breve par che s’
+					intenda che S. A. ne li conventi che si sono fatti si sia molto apertamente
+					dechiarato in favor de’ catholici et contra gli heretici. <note
+						xml:id="FN1_00001_07" type="footnote">Auf dem für Montag nach Dreikönig 1580
+						einberufenen Landtag trat Erzherzog Karl den Forderungen des Herren- und
+						Ritterstandes energisch entgegen (Graz LA, Landtagsakten 421 und 422; ebenda
+						Landtagshandlungen 33; Rom Generalarchiv der Jesuiten, Germania 158, f.
+						60rc; ebenda Austria 1 l a, pag. 250 bis 252; Loserth, FRA II/50, S. 52 f.,
+						55—58; derselbe, Die Reformation und Gegenreformation in den
+						innerösterreichischen Ländern im XVI. Jahrhundert, S. 317—320).</note>
+				</p>
+				<pb xml:id="P1_0000005"/>
+				<p>Hor trovandosi la cosa in questi termini sarà impresa di V. S. di confermar
+					l’arciduca in questo proposito et accrescerli l’animo a far tutto quel che può
+					per la religione, non dubitando che Dio benedetto sarà per lui et per i stati
+					suoi; ma accioché V. S. possa trattar di questo capo con più fondamento sarà
+					bene che nel viaggio et di poi gionta anchora cerchi investigar come le cose
+					passano; di che le sarà dato fedel raguaglio da mons. vescovo di Gurgo<note
+						xml:id="FN1_00001_08" type="footnote">Christoph Andreas Freiherr von Spaur,
+						1573—1603 Bischof von Gurk, 1601—1613 Bischof von Brixen (Hierarchia
+						Catholica III, S. 141 und 207; Obersteiner, Die Bischöfe von Gurk, S.
+						332—350).</note>et dal p. rettore de’ Gesuiti di Graz,<note
+						xml:id="FN1_00001_09" type="footnote"> P. Emmerich Forsler.</note>et,
+					secondo il parer loro, doverà V. S. governarsi nel trattar con S. A., appresso
+					la quale non haverà solamente da far instanza per la dechiaratione de la mente
+					sua et annullation de la detta scrittura, <note xml:id="FN1_00001_10"
+						type="footnote">Das Brucker Libell, siehe oben Anm. 3.</note>ma anco di
+					tutte quelle libertà di religione che essi heretici hanno estorto da li principi
+					antecessori di S. A. mentre si trovavano in qualche necessità, <note
+						xml:id="FN1_00001_11" type="footnote">Duldung des Augsburger Bekenntnisses
+						im allgemeinen und insbesondere der Kommunion unter beiderlei Gestalt durch
+						Kaiser Ferdinand I. sowie Religionspazifikation von 1572 (Loserth,
+						Reformation und Gegenreformation, S. 103, 122, 156, 194—196; derselbe, Die
+						steirische Religionspacification, S. 32 ff.; Mayer, Der Brucker Landtag des
+						Jahres 1572, S. 469 ff.; Rainer, Nuntiaturberichte II/8, S. 247
+					f.).</note>et in somma far il più che si può in sollevamento de la religion
+					catholica; nel qual proposito a V. S. non mancheranno ragioni d’addurre circa li
+					mali che vengono a li principi et stati per causa del’ heresie, et quanto più S.
+					A. et i suoi stati hanno da temere, essendo così vicini a le forze et crudeltà
+					de’ Turchi.</p>
+				<p>Et perché una buona parte de la colpa del’ accrescimento de le heresie in quelle
+					bande si attribuisce a la negligenza de li ordinarii, li quali hanno lasciato
+					corrompere la disciplina et vita ecclesiastica, et da ciò sono nati molti
+					scandali, sarà perciò cura et officio di V. S. di eccitarli a far il debito loro
+					et indrizzarli secondo il bisogno, perché visitino et faccino metter in
+					essecutione molti buoni ordini, che sono stati proposti et risoluti altre volte,
+					ma non mai essequiti, al che S. A. darà volentieri, per quanto s’intende, il
+					braccio et favor suo,<note xml:id="FN1_00001_12" type="footnote">Siehe unten Nr.
+						107.</note>havendo buonissima intentione et desiderando che le cose caminino
+					per la<pb xml:id="P1_0000006"/> debita regola, dal che si può sperare
+					grandissimo frutto, imperoché se ben gli heretici provinciali procurano di far
+					resistenza et impedir la buona volontà del’ arciduca tenendolo in spavento,
+					parte con la vicinanza del Turco et parte con l’intelligentia de gli heretici
+					d’Austria, nondimeno quando l’ordine ecclesiastico con gli altri buoni et
+					principali catholici, che vi sono, stiano uniti con S. A. et s’intenda che N. S.
+					non li abbondoni, non è dubio che la parte catholica piglierà ogni dì maggior
+					piede et prevalerà sì che l’arciduca non haverà da star soggetto, come par che
+					sia stato sin qui a’ suoi provinciali.</p>
+				<p>Et però V. S. attenderà a quanto è detto con ogni industria et avvertirà
+					principalmente S. A. di non haver heretici nel suo conseglio né in casa né in
+					governo alcuno d’importanza, ma procurar di metter le cose sue in mano di
+					catholici, come s’intende che desidera et ha cominciato già di fare, di che si
+					doverà lodare et essortar a quel che manca.<note xml:id="FN1_00001_13"
+						type="footnote">P. Blyssem berichtete dem Jesuitengeneral am 16. April 1580
+						aus Graz, daß der lutherische Hofmeister, der Urheber vieler Übel, durch den
+						katholischen Marschall ersetzt worden sei (Loserth, FRA 11/50, S.
+						56).</note>
+				</p>
+				<p>V’è poi la pretensione del patriarcha d’Aquileia, il quale, dolendosi che la
+					giurisdittion et autorità sua sia occupata et oppressa da li ministri di S. A.,
+					s’è scusato sempre con questo di non far residenza et perciò le cose di quella
+					chiesa et clero sono in malissimo termine. Hebbe similmente mons. di Scala
+					commissione di trattar questo negotio et, nel passar da Venetia, hebbe
+					informatione particulare dal patriarcha, secondo la quale trattò, ma con poco
+					frutto, forse perché non si fermò molto appresso S. A.,<note
+						xml:id="FN1_00001_14" type="footnote">Ninguarda war im März 1576 und im Mai
+						1577 jeweils mehrere Tage in Graz (Schellhass, Ninguarda I, S. 234 und
+						262).</note>ma hora che V. S. vi starà un pezzo et che S. A. si troverà
+					forse in miglior dispositione potrà V. S. haver informatione dal predetto mons.
+					patriarca di quel che passa, <note xml:id="FN1_00001_15" type="footnote">Siehe
+						unten Nr. 5.</note>et andarne trattando con S. A. et far opera di
+					persuaderla che da la parte sua voglia rimovere gli impedimenti che si allegano,
+					et sia contenta porger favore et aiuto a fine che le cose del servitio di Dio et
+					benefitio de le anime possano aumentarsi. Et perché la materia sarà longa et non
+					senza difficoltà, ricercherà anco un poco di tempo et di buona maniera per
+					cavarne frutto.</p>
+				<p>Il capitolo d’Aquileia si querelò appresso N. S. l’anno passato che da li
+					ministri del’ arciduca gli erano imposte nove et durissime gravezze et sopra le
+					distributioni loro quotidiane, et fece opera d’intro<pb xml:id="P1_0000007"/>dur
+					la causa inanzi a l’auditore de la camera, dal quale uscì un monitorio che fu
+					mandato là, il che fu causa che S. A. scrisse a N. S. instando per la
+					rivocatione di detto monitorio et affermando che le dette essationi erano
+					antiche et non nove; <note xml:id="FN1_00001_16" type="footnote">Dazu Breve an
+						Erzherzog Karl vom, 25. August 1579 und Schreiben Erzherzog Karls an den
+						Papst vom 10. September 1579 (Theiner, Annales eccl. III, S. 22
+					f.).</note>et perché l’arciduca instà tuttavia per la rivocatione di detto
+					monitorio et si duole che per questa via li canonici vogliano sottrahersi dal
+					governo et separarsi da la convocatione antica del contado di Goritia, che è
+					membro d’imperio et si regola nel modo antico et generale de l’imperio, al quale
+					tutto si farebbe pregiuditio tolerandosi la separation di detti canonici. Però
+					V. S. vederà d’informarsi bene de le ragioni de l’una et l’altra parte et
+					potendo trovar mezo d’accommodarli, lo farà tenendo la debita protettione del
+					capitolo, altrimente scriverà qua il fatto et il suo parere, anchora ché S. Stà
+					vi porrà poi il rimedio che giudicherà conveniente.</p>
+				<p>Il vescovo di Bamberga ha certa prefettura pertinente a la sua chiesa ne i stati
+					del sermo arciduca,<note xml:id="FN1_00001_17" type="footnote">Der von Kaiser
+						Heinrich II. der Bamberger Kirche geschenkte ausgedehnte Besitz in Kärnten
+						um Villach und Wolfsberg. Vgl. Moro, Zur Entstehung und Ausdehnung
+						bambergischen Besitzes in Kärnten, S. 243 ff.;Jaksch, Geschichte Kärntens I,
+						S. 163 ff.</note>al governo de la quale ha posto un signore chiamato
+					Hoffman, di casa assai nobile, ma heretico perverso, et che ha fatto molti danni
+					a la religion catholica. <note xml:id="FN1_00001_18" type="footnote">Hans
+						Friedrich Hoffmann, Freiherr von Grünbüchel und Strechau, Erblandmarschall
+						von Steiermark (Huber, Hanns Friedrich Hoffmann, S. 64 ff.).</note>N. S.,
+					inteso questo, mandò il nuntio Horatio Malaspina a posta a trovar il vescovo per
+					ammonirlo et far che levasse colui dal governo, <note xml:id="FN1_00001_19"
+						type="footnote">Orazio Malaspina, Nuntius am Kaiserhof, war 1579 in Bamberg
+						(Arch. Vat. Nunz. Germ. 99, f. 164r—168v.</note>et l’imperatore anco gli
+					scrisse efficacemente del medesimo, onde il vescovo promise ad ogni modi di
+					levarlo, ma poi non l’ha essequito.<note xml:id="FN1_00001_20" type="footnote">
+						In dem an den Papst gerichteten Antwortschreiben des Bischofs Johann Georg
+						von Bamberg vom 11. Oktober 1579 auf die von Orazio Malaspina vorgebrachten
+						Vorstellungen bezüglich Hoffmanns wird auf die schwere Lage Innerösterreichs
+						wegen der dauernden Türkenbedrohung hingewiesen (Arch. Vat. Fondo Borghese
+						IV, 234A, f. 13r—15v). Am 11. Mai 1580 schrieb der Papst erneut wegen der
+						Absetzung Hoffmanns an den Bischof von Bamberg, desgleichen an den Bischof
+						von Augsburg und am 3. Juni an Kaiser Rudolf II. (Arch. Vat. Ep. ad
+						Principes 14, f. 113r—114r und 129r).</note>Questo Hoffman andò poi li dì
+					passati a la corte del’ imperatore, ove con favori et con menzogne ha sì ben
+					saputo aiutarsi, che non pare che’l<pb xml:id="P1_0000008"/> vescovo habbi più
+					animo di rimoverlo, et quel ch’è peggio, ha sparso voce che tiene quel governe
+					con consenso et volere di S. A., cosa che sapemo esser falsa. <note
+						xml:id="FN1_00001_21" type="footnote">Arch. Vat. Nunz. Germ. 99, f.
+						292r—293v.</note>Però V. S. trattarà di ciò con l’arciduca et operarà che
+					non solo non lo favorisca a mantenersi in quel governo, ma dia autorità et
+					braccio per scacciarlo ; anzi, quando così bisognasse, nomini S. A. qualche
+					signore catholico che V. S. in vigor d’un breve che se le darà sopra ciò, li
+					farà patente de la prefettura, volendo S. Stà far questo senza participatione
+					del vescovo di Bamberga in pena de l’error suo. <note xml:id="FN1_00001_22"
+						type="footnote">Siehe unten Nr. 3.</note>
+				</p>
+				<p>Havendo N. S. constituita una provisione a gli Uscochi di fiorini 2.000 l’anno,
+					con promessa fatta da S. A. et da loro stessi di non far danno a li luoghi et
+					sudditi di S. Chiesa né dar molestia a li mercanti ch’vanno a la volta de li
+					porti di S. Chiesa, V. S. haverà da procurare che sia osservata la promessa et,
+					secondo che lei o intenderà da sé o sarà avvisata da altri di qualche disordine
+					o caso successo, ne farà offitio con S. A., procurandone il rimedio,<note
+						xml:id="FN1_00001_23" type="footnote">Die Hauptschwierigkeit mit den um Senj
+						angesiedelten Uskoken lag darin, daß sie neben den Kriegsdiensten an der
+						Türkengrenze, an denen Erzherzog Karl und auch der Papst höchst interessiert
+						waren, auch noch Seeräuberei betrieben, durch die vor allem der Verkehr mit
+						Venedig, aber auch mit dem päpstlichen Ancona litt. Angeblich konnten sie
+						vom Ertrag des Landes nicht leben und waren auf Seeräuberei angewiesen.
+						Durch den im Mai 1579 nach Rom entsandten Johann Kobenzl ließ Erzherzog Karl
+						dem Papst u. a. das Uskokenproblem vortragen. Die Apostolische Kammer wurde
+						daraufhin beauftragt, Geld zur Beschaffung von Lebensmitteln, Munition und
+						Geräten für die Uskoken zu besorgen (Theiner, Annales eccl. III, S. 25 f.;
+						Arch. Vat. Arm. 44, vol. 28, f. 148re Horvat, Monumenta historiam
+						Uscocchorum illustrantia I, S. 22—25). Ausführlich berichtete der
+						venezianische Gesandte am Kaiserhof, A. Badoer, am 5. Juli 1580 über seine
+						Verhandlungen mit dem Kaiser über die Uskoken, der für die venezianischen
+						Interessen Verständnis zeigte (Venedig AS, Dispacci Germania, filza A.
+						Badoarus b. 19—b. 22). Wiederholt wurde im Hofkriegsrat unter Hinweis auf
+						die herrschende Not die Verwendung der vom Papst den Uskoken gewährten
+						Hilfsgelder für den Ankauf von Getreide behandelt (Wien Kriegsarchiv,
+						Innerösterreichischer Kriegsrat, Croatica 2, 1581 Jänner 6, 8, 12, 53; 1581
+						Februar 17).</note>et particolarmente avvertirà di raccommandar li
+					ecclesiastici di quei contorni, massime de la diocese di Nona, di dove a dì
+					passati li Uscocchi levorno un curato da la sua residenza et lo trattorno
+					malissimo, lasciando quelle anime senza governo spirituale.<note
+						xml:id="FN1_00001_24" type="footnote"> Im Februar 1580 wurde der Priester
+						Matthäus, Propst auf der Insel Pasman in der Diözese Nin (bei Zadar), von
+						den Uskoken mißhandelt und schließlich gefangen nach Senj mitgenommen (Arch.
+						Vat. Ep. ad Principes 14, f. 67r und 68r).</note>
+				</p>
+				<pb xml:id="P1_0000009"/>
+				<p>Resta il negotio de’ confini con Turchi, che importa estremamente non pur a la
+					conservatione et difesa di quei stati, ma de l’Italia et di tutto il
+					christianesmo, il quale negotio è a core a N. S. quanto meritamente deve. Et
+					però V. S. assicurerà S. A. che S. Stà non è per mancarli mai di quello che gli
+					ha offerto, in caso che un giorno si risolva di tentar impresa da la banda sua,
+					il che si dice sì perché S. A. sia più certa de la ferma deliberation di S. Stà,
+					come anco per risvegliar questi pensieri in S. A. per ogni occorrenza et
+					opportunità che potesse nascere.<note xml:id="FN1_00001_25" type="footnote"
+						>Allgemein über die Türkengrenze: Vaniček, Specialgeschichte der
+						Militärgrenze; Lopašić, Acta historiam confinii militaris croatici
+						illustrantia; Rothenberg, Die österreichische Militärgrenze in Kroatien 1522
+						bis 1881.</note>
+				</p>
+				<p>N. S. già dui anni sono donò a S. A. 40.000 scudi contanti per aiutar la
+					fortificatione di certi luoghi importanti ne li detti confini, li quali denari
+					fuor de l’espettatione di S. Stà furono spesi in altri bisogni, ma però S. A.
+					promise poi di far in ogni modo l’opera del suo, onde V. S. senza dir altro per
+					hora s’informerà se l’ha essequito et ne darà avviso.<note xml:id="FN1_00001_26"
+						type="footnote">Im Frühjahr 1577 wurde der Bischof von Triest zur Erlangung
+						päpstlicher Hilfe für den Ausbau der Türkengrenze nach Rom geschickt
+						(Theiner, Annales eccl. II, S. 265—267). Der Papst bewilligte 40.000
+						Goldscudi, zahlbar in vier Raten zu je 10.000, deren erste im Februar 1578
+						überwiesen wurde (Arch. Vat. Ep. ad Principes 12, f. 32r). Mit der
+						dringenden Ermahnung, das Geld nur zur Befestigung der Türkengrenze zu
+						verwenden, wurde bereits im September die letzte Rate überwiesen (Arch. Vat.
+						Arm. 44, vol. 28, f. 111r).</note>
+				</p>
+				<p>Non si ricorda a V. S. quanto sia necessario in simili luoghi vivere con quella
+					esemplarità di vita et santi costumi, tanto in publico quanto in privato, che
+					conviene a la persona d’un nuntio apostolico, sapendo che per se stessa lo
+					conosce et che di più lei non ha visso mai d’altro modo; ma solo dico che quello
+					che lei farà sia similmente imitato da la sua famiglia, non comportando che
+					alcuno de’ suoi dia pur un minimo scandalo, ma servino a V. S. et al ministerio
+					loro in edificatione di tutti gli altri et particolarmente in celebrar spesso
+					quelli che saranno sacerdoti.</p>
+				<p>A la signora arciduchessa V. S. presenterà il breve di N. S. con la benedittione
+					di S. Stà et dimostratione d’ogni paterno affetto.<note xml:id="FN1_00001_27"
+						type="footnote">Siehe unten Nr. 2, Anm. 1.</note>
+				</p>
+				<p>V. S. scriverà più spesso che potrà, dirizzando le lettere in mano <pb
+						xml:id="P1_0000010"/>del nuntio di N. S. in Venetia, se non haverà strada
+					migliore, et si servirà de la cifra quanto haverà cosa importante. <note
+						xml:id="FN1_00001_28" type="footnote">Vgl. Nr. 80, Anm. 2.</note>
+				</p>
+				<p>Dio N. S. la conduchi a salvamento.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

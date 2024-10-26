@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00116">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1583-08-18" cert="low" n="2">vermutlich
+					1583-08-18</title>
+				<title level="a">116. (zu 1583 August 18)</title>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 101, f. 101r—102v, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00116">
+				<correspAction type="sent">
+					<date when="1583-08-18" n="2" cert="low"/>
+				</correspAction>
+				<correspContext>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00115.xml"
+						>115. Malaspina an Gallio - Straßburg, 1583 August 18</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00117.xml">117.
+						Malaspina an Gallio - St. Lambrecht, 1583 August 27</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Nach eingehendem Gespräch mit Bischof von Gurk und anderen Persönlichkeiten
+					Bericht über den Stand der Religionsangelegenheit in Innerösterreich.
+					Vordringliche Aufgabe Trennung des Adels von den Bürgern und energisches
+					Vorgehen gegen Städte.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="116">(zu 1583 August 18)<note xml:id="FN2_00116_01" type="footnote">Das Datum
+					ergibt sich aus Nr. 115. Wahrscheinlich ist der Bericht während des Aufenthaltes
+					Malaspinas in Straßburg/Kärnten im Einvernehmen mit Bischof Christoph Andreas
+					Spaur entstanden, der damals dort war (Nr. 85; Obersteiner, Aus dem Tagebuch des
+					Gurker Weihbischofs, S. 147).</note>
+			</head>
+			<div>
+				<p>Ancorché non si possi negare che la religione cattolica nelle provintie del
+					Ser.mo arciduca Carlo non vadi da alcuni mesi in qua pigliando notabile
+					sollevamento, nondimeno ha per il passato il maledetto seme di Luthero fatte
+					così profonde et intricate radici, che per deradicare il male et siminare il
+					bene si scoprono d’hora in hora nove difficoltà. Et perché il nuntio al suo
+					ritorno ne ha ritrovate due di grandissima consideratione sopra de quali è stato
+					ricercato a dechiararsi, ha presa risolutione, servendosi del occasione del
+					tempo il quale per occuparsi nelle caccie l’arciduca non da luogho a
+					negotiatione di qualità,<note xml:id="FN2_00116_02" type="footnote">Vgl. Nr.
+						115, Anm. 2.</note>di rappresentarle alla S.tà di N. S. tanto per tempo che
+					possi et sodisfare quando bisognerà alla petitione del arciduca et accertare nel
+					dare risoluta et canonica risposta.</p>
+				<p>Quando l’arciduca ha ricercato la M.tà del imperatore buon parere come egli
+					potesse fruttuosamente opponersi alli progressi grandi del’heresia et aiutare
+					l’afflitto stato della religione cattolica,<note xml:id="FN2_00116_03"
+						type="footnote">Vgl. Nr. 21, Anm. 1 und 5.</note>tutti concorsero a quel
+					tempo, che ciò si dovesse fare non per via reggia, né direttamente né tutto in
+					un colpo, ma pianpiano giudicando che <pb xml:id="P2_0000171"/>sicome a poco a
+					poco et quasi per gradi haveva preso piedi l’heresia così per l’istessi termini
+					se dovessero porre ogni studio acciò diminuisse et se ben si crede che nel dare
+					il consiglio havessero molta mira alla natura timida del principe non mancano
+					ancora di quelli che si persuadeno che quelli principi si accorgessero che
+					l’arbore cresciuto in radice et in rami non si potesse gettare a terra in un
+					colpo. Ma a molti pare che o dessero il loro parere accomodandolo alla natura
+					del principe o alla qualità del negotio che quanto al fatto collationando
+					insieme l’uno et l’altro habbi l’istesso peso, poiché mutare la timidità del
+					principe a chi è in fatto pare impossibile doppo tanti mezzi per tal effetto
+					adoperati.</p>
+				<p>Hora fermandosi li cattolici sopra questo presupposto proposto dalli
+						principi<note xml:id="FN2_00116_04" type="footnote">Vgl. Nr. 36: Ratschläge
+						Herzog Wilhelms zur Wiederherstellung der katholischen Religion in
+						Innerösterreich.</note>che per gradi si dovesse procedere, non giudicorno
+					che fosse cosa più espediente né necessaria che dirigere ogni demostratione
+					contra li heretici a togliere la confusione, che la multiplicità delle
+					concessioni o permessioni del principe et le adultere interpretationi et
+					estensioni loro haveva partorito. <note xml:id="FN2_00116_05" type="footnote"
+						>Gemeint sind die religiösen Konzessionen von 1572 und 1578 sowie deren
+						verschiedene Interpretation (Rainer, Grazer Nuntiatur I, S. 41—46).</note>Il
+					che non si poteva far per altro più conveniente mezzo che col constituire un
+					limite chiaro che servisse come di sepe tra gl’heretici et cattolici, né piacque
+					al’hora che fosse quello che da principio a requisitione del nuntio si fece nel
+					primo decreto,<note xml:id="FN2_00116_06" type="footnote"> Religionsdekret vom
+						10. Dezember 1580 (ebenda, S. 145ff.).</note>ma si formò un secondo
+					moderando il primo nel quale si hebbe l’occhio inherendo al parere di S. M.tà de
+					disincorporare li cittadini et popolari dalli nobili con il prohibirli
+					l’essercitio lutherano, <note xml:id="FN2_00116_07" type="footnote"
+						>Religionsdekret vom 9. März und 23. April 1582, demzufolge dem Adel die
+						früher gewährten religiösen Konzessionen belassen wurden, den Bürgern aber
+						der Besuch evangelischer Gottesdienste verboten wurde (Loserth, FRA II/50,
+						S. 274ff., 296ff.; Rainer, Grazer Nuntiatur I, S. 371f., 410f.).</note>non
+					includendo però il cattolico et sollevare l’authorità et jurisdittione delli
+					ecclesiastici suffocata dalli adversarii, et tutto questo fu in quel tempo
+					communicato a S. B.ne et non fu dalla S.tà S. reprovato il consiglio di S.
+					M.tà.</p>
+				<p>Et se ben in questo ultimo decreto non si faceva mentione delli nobili né si
+					includeva l’essercitio cattolico alli cittadini et popolari per essere così
+					accremente ripreso il principe per haver tentato ciò <pb xml:id="P2_0000172"
+					/>infruttuosamente nel primo decreto, nondimeno li cattolici assentirno alla
+					publicatione del secondo non per fermarsi lungamente nel contenuto d’esso, ma
+					pensorno di cavarne alcune commodità di molta consideratione. La prima è che
+					ritrovandosi tutti li stati del arciduca escetto l’ecclesiastico incorporato con
+					li nobili sotto pretesto della religione con la separatione delli cittadini et
+					popolari da essi si veniva a debilitare la potentia de nobili col fare
+					cognoscere a quelli doi stati che li nobili non sono sufficienti di
+					patroncinarli quando S. A. s’oppone a loro et a poco a poco col trattarli
+					benignamente et gratiosamente ridurli a la vera obedientia et charità verso S.
+					A. Secondariamente si pensò di porre tali conditioni alla conniventia, che
+					tuttavia s’usava anco per vigore del decreto con li nobili, che transgredendola
+					potesse S. A. con giusta causa revocare quello che ha per il passato permesso,
+					al che di presente si va inherendo, poiché sebene alli nobili nelle quattro
+					città è permesso li predicatori heretici, <note xml:id="FN2_00116_08"
+						type="footnote">Graz, Judenburg, Klagenfurt und Laibach.</note>nondimeno S.
+					A. ne ha cacciato uno famoso hora di Gratz non sotto altro pretesto se non per
+					havere contravenuto alli limiti del decreto.<note xml:id="FN2_00116_09"
+						type="footnote"> Bernhard Egen predigte am Fronleichnamstag in Graz gegen
+						dieses Fest und wurde dafür am 26. Juli ausgewiesen (Graz LA, Landtagsakten
+						427; Loserth, FRA II/50, S. 484, Anm. 1, 486, 496f.).</note>Le sopradette
+					considerationi habbero li cattolici nel consentire alla publicatione del decreto
+					ultimamente publicato.</p>
+				<p>Al presente S. A. presente che li nobili si disponeranno a lasciare il patrocinio
+					delli cittadini, purché S. A. li assicuri con scrittura firmata del suo nome et
+					munita con il suo sigillo, che lei non è per rivocarli quello che ha promesso a
+						loro,<note xml:id="FN2_00116_10" type="footnote">Erzherzog Karl erklärte
+						wiederholt, daß er dem Adel die religiösen Konzessionen nicht nehmen werde
+						(Loserth, FRA II/50, S. 277, 353f., 532).</note>et se S. A. non fa questo,
+					non solo li politici consiglieri ma tutto il resto de cattolici prevedeno, che
+					mai li nobili s’acquietaranno, et non negano che non patrocinando loro li
+					cittadini senza la loro sponda non possono recalcitrare in modo che in breve non
+					ponghino il collo sotto al giogo della honesta obedientia, che da loro ricerca
+					il loro naturale signore. Non ostante questo pare cosa strana, che sebene in rei
+					veritate stanno nella loro fermezza le promesse del principe fatte alli nobili
+					in forma, che sono in una pacifica possessione, S. A. possa con sicura
+					conscientia ancora che habbi li fini sopradetti darli quella sicurezza che
+					s’intende che loro desiderano.</p>
+				<pb xml:id="P2_0000173"/>
+				<p>Perché si rappresenta prima difficultoso la forma del scritto, che si dovrà fare,
+					et le parole, che si dovranno usare, ne par che loro siano così simplici che
+					siano per permetter che si possi cautelare a nostro modo. La scrittura sarà
+					similmente dalli heretici publicata se saprà che sebene né S. B.ne né li
+					ministri suoi non né sono stati né authori né promotori che tuttavia era il
+					nuntio residente alla persona del arciduca.</p>
+				<p>Dal altra parte il principe presuppone di non poter fare altrimenti, et quando
+					pur potesse se havesse da alterare questo instituto, che ha tenuto nel promovere
+					il negotio col pigliarla con tutti li stati delli suoi subditi, in un istesso
+					tempo ricercarebbe tal aiuto pecuniario, che io non so dove si dovesse a questo
+					tempo cavare, poiché in altri negotii di non minore consequentia si toccha con
+					mano che li principi d’Alemagna si ritirano.<note xml:id="FN2_00116_11"
+						type="footnote">Vgl. oben Nr. 109 und 111.</note>
+				</p>
+				<p>Per il che alcuni giudicano, che sia cosa più salutare salvare così nobil membro
+					come li cittadini et populari potendosi fare senza strepito, che mentre si vuole
+					abracciare il tutto andare a periculo di non stringere niente. Et perché mons.
+					di Gurgo ha espressa la mente di N. S. che S. A. non può né deve assicurare li
+						nobili,<note xml:id="FN2_00116_12" type="footnote">Vgl. oben Nr.
+					71.</note>ha il nuntio giudicato essendo il negotio di tanto qualità et degno di
+					grandissima consideratione di rappresentare di novo a S. B.ne quello che lui ha
+					sottratto dal principe dalli consiglieri et da altri, et quando qua asseriscono
+					che hanno per ridotto a termine bonissimo quello che si è decretato, intendono
+					essere vero questo ogni volta che S. A. possi assicurare li nobili, altrimenti
+					non ci è né modo né forma di poterlo fare se S. A. non si dispone di mettere
+					mano alla via reggia et lasciare da parte la consulta mandatola dalla M.tà del
+					imperatore. <note xml:id="FN2_00116_13" type="footnote">Wie Anm. 3.</note>
+				</p>
+				<p>Se l’intelletto humano potesse fare certo giuditio delle cose, che hanno
+					d’avenire et del essito delli negotii, si potrebbe facilmente giudicare se il
+					principe può fare di manco d’assicurar li nobili, ma essendo li essiti incerti,
+					le congietture fallaci, non si può dare a S. A. quella assicuratione di non
+					doversi ruvinare non lo facendo che lei desidera, et perché da questa
+					resolutione pende il negotiato insin hora, et quello che si dovrà negotiare sarà
+					necessario di far sapere la mente di N. S., che io sarò più atto in essequirla
+					che in ardire di dire il mio parere in <pb xml:id="P2_0000174"/>praticca così
+					ardua et sopra la capacità della tenuità del mio ingeno. Ho ben io una lettera
+						<note xml:id="FN2_00116_14" type="footnote">Nicht bekannt.</note>in questo
+					proposito nella quale S. B.ne se dechiarava tanto quanto era per essere a
+					sodisfattione del principe, ma mi pare o revocata o alterato il senso d’essa per
+					la lettere diretta a mons. di Gurgo.</p>
+				<p>Venendo hora al secondo punto, il quale seben è di minor qualità è però anco esso
+					degno di molta consideratione, si ha da sapere che per finire di perfettionare
+					il negotio della religione S. A. et li consiglieri suoi non vorrebbono inhibire
+					al resto delli cittadini et popolari l’istesso che hanno fatto al senato se
+					prima non sono acquietati li nobili,<note xml:id="FN2_00116_15" type="footnote"
+						>Vgl. oben Nr. 55 und 60.</note>anzi quando ancora questo fosse inclinano al
+					non venire all’inhibitione, se non si sia guadagnato prima bene il senato et
+					assicuratasi della fede et obedientia d’esso, et in quel caso disegnano di usare
+					del opera delli senatori come instrumenti nel indurre al obedientia gl’altri, et
+					per persuadere al nuntio a condescendere a così fatta procrastinatione hanno
+					usati mille argumenti, et precipuamente mons. di Gurgo il quale è di questo
+					parere come più sicuro et di manco strepito. Ma al nuntio pare che ciò sia di
+					detrimento grandissimo, et giudica non solo che non si debbia tardare più a
+					farla inhibitione, ma che sarebbe stato molto a proposito che nella sua absentia
+					si fosse fatta, <note xml:id="FN2_00116_16" type="footnote">Während der
+						Abwesenheit Malaspinas wegen der Sendung nach Köln Februar—Juli
+					1583.</note>poiché mentre li nobili non vederanno perfetta l’essecutione sempre
+					si nutriranno di speranza di potere rimovere il principe dalla deliberatione
+					presa, né cessaranno li cittadini di molestarli a volerli defendere, ma quanto
+					già sarà la inhibitione comminatoria fatta a tutti nella forma estessa che al
+					senato alhora come d’impresa desperata di potere farla revocare, si escuseranno
+					con li cittadini et altrimenti forsi col procedere come disegnano mentre si
+					pensa di fuggire fastidii, importunationi et pericoli se ne incorrerà in
+					maggiori. Ma perché quasi presuppone che il nuntio habbi torto in instare sopra
+					questo et che sia periculosa attione, ilche però non si crede se S. B.ne
+					giudicarà che al ritorno di S. A. <note xml:id="FN2_00116_17" type="footnote"
+						>Vgl. oben Nr. 115, Anm. 2.</note>si insti, acciò si faccia la prohibitione
+					al resto delli cittadini senza più indugiare, sarà bene di darne commissione
+					quale bisognando si possa mostrare. <note xml:id="FN2_00116_18" type="footnote"
+						>Vgl. oben Nr. 119.</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00107">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-07-20" n="1">1581-07-20</title>
+                <title level="a">107. Graz, 1581 Juli 20</title>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 333r—334v, gleichzeitige
+                            Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00107">
+                <correspAction type="sent">
+                    <date when="1581-07-20" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00106.xml"
+                        >106. Malaspina an Gallio - Graz, 1581 Juli 15</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00108.xml">108.
+                        Malaspina an Gallio - Graz, 1581 Juli 27</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Dekret Erzherzog Karls betreffend die von Malaspina betriebene Visitation.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="107">Graz, 1581 Juli 20</head>
+            <div>
+                <p>Etsi sermus dominus archidux Carolus superiori adhuc mense Smi D. N. nuntio
+                    disertis verbis significaverit<note xml:id="FN1_00107_01" type="footnote"
+                        >Malaspina geht in seinem erhalten gebliebenen Bericht darauf nicht ein;
+                        möglicherweise ist aber das diesbezügliche Schreiben verlorengegangen. Vgl.
+                        Nr. 105, Anm. 5.</note>Sertem S. nunquam eius animi fuisse, ut revmis
+                    dominis ordinariis clerum suum in provinciis eius existentem quotiescunque illis
+                    consultum esse videretur rite legitimeque visitare ac reformare non liceret, ita
+                    tamen ut Serti eius iura sua, quae super monasteriis et aliis benefitiis
+                    quibuscunque pro sua archiducali auctoritate in temporalibus habet usquequaquam
+                    illibata permanerent. Quoniam tamen ipse revmus dominus nuntius nunc iterum quam
+                    diligentissime cum S. Serte egit <note xml:id="FN1_00107_02" type="footnote"
+                        >Siehe Nr. 109, S. 307 f.</note>et eam S. Stis nomine summe exhortatus est,
+                    ut sine omni conditione pure assentili dignaretur, quo diocesis Salzburgensis
+                    tam in spiritualibus quam temporalibus quam ociissime visitari et reformari
+                    posset, S. Sertas pro contestanda eius erga Stem illius perpetua constantique
+                    observantia atque adeo etiam pro declarando suo erga eccelentissimo Dei zelo
+                    eiusmodi revmi domini nuntii vel potius Stis ipsius tam paternis monitis ita
+                    annuere voluit, ut talis visitatio ac reformatio quoad eius fieri poterit
+                        ociissime<pb xml:id="P1_0000303"/> fiat ac in ea commissarii revmi domini
+                    archiepiscopi in mere spiritualibus ac personalibus praecipuam, in temporalibus
+                    vero pro hac vice salten donec et quousque visitatio perfecta sit et executioni
+                    de mandata aequalem ac parem <note xml:id="FN1_00107_03" type="footnote">Als
+                        Kommissare des Erzbischofs von Salzburg wurden Dr. Johann Fickler und Adam
+                        Schreindel bestellt; landesfürstliche Kommissare waren Johann Trattner, Abt
+                        von St. Lambrecht, und Dr. Georg Klain (Graz Diözesanarchiv, Sonderarchiv
+                        Stifte, Admont, Visitationen; St. Lambrecht Stiftsarchiv, Urk. Nr.
+                        1230).</note>cum S. Sertis deputatis potestatem habeant ac in tota tali
+                    visitatione reformationeque nihil aliud quam Dei Op. Max. honorem ac ecclesiae
+                    suae sanctae utilitatem respiciant et observent, relicta in medio quacunque vel
+                    S. Sertis vel S. Rmae Dnis circa dicta temporalia praetensione, de qua ad partem
+                    durante vel finita hac visitatione et reformatione suo loco utrique parti
+                    integrum erit ius suum omni meliori modo via ac forma prosequi, quod quidem S.
+                    Sertas eo lubentius fecit, cum ipsemet revmus dominus archiepiscopus haud
+                    gravatim confitebitur, Serti S. eiusmodi visitationem ac reformationem nunquam
+                    adversam fuisse, imo Sertcm S. statim ab initio sui regiminis a Rma D. eius
+                    requisitam de eo sine omni dilatione postulatis S. Rmae D. non solum actutum
+                    annuisse, verum etiam instructionem illam, quam super eo S. Rma D. composuerat
+                    et Serti eius de 25 Julii anni (15)65<note xml:id="FN1_00107_04" type="footnote"
+                        > Nicht vorhanden.</note>transmiserat usque quaquam laudasse perpetuoque
+                    paratissimum fuisse id quod in ca partium suarum erat debitae executioni sine
+                    omni mora demandare, nam Sertem S. constanter affirmare posse se iugiter nihil
+                    iniquius et christiana pietate indignius duxisse quam ab hoc vel illud temporale
+                    lucellum vel minimum spirituale emolumentum negligere. Itaque S. Sertas plane
+                    sibi pollicetur neque Sum D. N. neque ullum alium mortalium S. Serti
+                    imputaturum, quod dicta visitatio ac reformatio hactenus dilata procrastinataque
+                    fuerit, praesertim cum revmus dominus archiepiscopus ipsemet non poterit negare
+                    Sertem eius aliquot praelatorum ac aliorum spiritualium depravatos mores ei per
+                    literas significasse et eum pro eorum correctione amanter ac sedulo
+                    requisivisse, unde quilibet vel mediocri iuditio praeditus colligere potest an
+                    Sertas S. saepedictam reformationem impediverit vel promoverit, nec obstat, quod
+                    S. Sertas iuribus suis supradictis ab hominum memoria continue possessis
+                    renuntiare noluerit. Nam id facere neque tenebatur neque etiam in praeiuditium
+                    totius sermae domus Austriae atque adeo etiam omnium aliorum Sacri Romani
+                    Imperii principum, qui omnes eiusmodi iura super monasteriis ac aliis <pb
+                        xml:id="P1_0000304"/>benefitiis in eorum provinciis sitis sibi attribuunt,
+                    ullo pacto committere debuit, maxime cum videret revmum dominum archiepiscopum
+                    Caes. Mti, sermo archiduci Ferdinando et illmo duci Bavariae, in quorum
+                    provincias diocesis Salzburgensis quoque sese extendit, quinimo illis multo
+                    plura, quam S. Sertas in suis provinciis praetendit, concedere. <note
+                        xml:id="FN1_00107_05" type="footnote">Die strittigen Fragen zwischen Bayern
+                        und Salzburg, wie geistliche Gerichtsbarkeit, Rechtsverhältnisse des Klerus
+                        im bayerischen Diözesananteil Salzburgs, Visitationen, Einsetzung von
+                        Pfarrern und deren Nachlaß, wurden 1583 vertraglich beigelegt. Die
+                        Jurisdiktions- und Grenzstreitigkeiten zwischen Salzburg und den
+                        habsburgischen Landen haben nie ganz aufgehört (Dalham, Concilia
+                        Salisburgensia, S. 596—600; Widmann, Geschichte Salzburgs III, S.
+                        117—119).</note>Quae res fecit, ut S. Sertas in omnibus tanto maiorem
+                    cautionem hactenus adhibuerit ac plane decreverit cum sese in possessione vel
+                    quasi dictorum suorum iurium a divis suis progenitoribus acceptorum omnibus
+                    legitimis modis manutenere ac tueri tum de iis amplius nihil omnino sine
+                    praescitu ac adiutorio dictorum principum agnatorum S. Sertis ac S. Sedis
+                    Apostolicae fidei procul dubio nihilunquam tentabunt vel sibi vendicabunt, quod
+                    illis de iure ac antigua consuetudine aliisque legitimis titulis ac
+                    praerogativis non competet, in quo etiam sine omni controversia Stas illius eos
+                    conservare ac protegere paterne propensa erit. Id quod S. Sertas dicto revmo
+                    domino nuntio in praesentiarum respondere voluit et simul ab eo clementer
+                    petere, ut imprimis Smu D.N. de toto rei statu liquido edoceat et tantum
+                    efficiat, ut S. Stas de hac Sertis S. laudabili declaratione benigne sese
+                    contentet et, quod reliquum est, pro eius paterna voluntate disponat ac
+                    perficiat. <note xml:id="FN1_00107_06" type="footnote">Siehe Nr. 113, S.
+                        314.</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

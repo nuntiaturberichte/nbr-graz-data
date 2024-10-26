@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00136">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1583-12-14" n="1">1583-12-14</title>
+				<title level="a">136. Malaspina an Gallio - Graz, 1583 Dezember 14</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 101, f. 140r—143r, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00136">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1583-12-14" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00135.xml"
+						>135. Malaspina an Gallio - Graz, 1583 Dezember 7</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00137.xml">137.
+						Gallio an Malaspina - Rom, 1583 Dezember 17</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00135.xml">135. Malaspina an Gallio -
+						Graz, 1583 Dezember 7</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00137.xml">137. Gallio an Malaspina -
+						Rom, 1583 Dezember 17</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Ausführliche Darlegung des gegenwärtigen Standes der Religionsangelegenheit.
+					Schwierigkeiten bei der Publikation des neuen Kalenders. Eröffnung des
+					Landtages. Schritte zur Entfernung Hoffmanns.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="136">Malaspina an Gallio - Graz, 1583 Dezember 14</head>
+			<div>
+				<pb xml:id="P2_0000204"/>
+				<p>La lettera di V. S. Ill.ma diretta a me<note xml:id="FN2_00136_01"
+						type="footnote">Nr. 134.</note>et quella del Ill.mo sig. cardinale Madruzzo
+					a questo Ser.mo<note xml:id="FN2_00136_02" type="footnote"> Vgl. Nr. 134, Anm.
+						2.</note>ripiene di gravità, di circumspettione et di dolcezza hanno per
+					quanto ho potuto comprendere infiammato il petto di S. A. et di nuovo
+					accresciuto et acceso l’osservanza et amore verso la S. Sede Apostolica et la
+					S.tà di N. S. Perilche io ancora servendomi di così opportuna congiontura, ho
+					cercato di imprimere con quella authorità et efficacia che ho potuto nel animo
+					di S. A. l’obligo che lei deve havere a la S.tà S., che con occhi così paterni
+					non solo compatisce ma di continuo prega il Sig. Dio a voler porgere al A. S.
+					l’aiuto che ha di bisogno et ponderando quello che si scrive a S. A. et a
+					me.</p>
+				<p>Non si vol stringere ad impossibile ho rappresentato ingenuamente a S. A. il mio
+					parere, il quale è che discorrendosi di quello che può o non può, è necessario
+					constituire molta differenza tra la possibilità de la essecutione di fatti et
+					quella de le simplici parole, et sicome la prima non sta totalmente in potere di
+					S. A. così la seconda è in libera sua facoltà onde, io giudicavo che S. A. fosse
+					obligato di rivocare verbalmente astenendosi per hora da ogni essecutione tutte
+					le concessioni et toleranze date in materia di religione a ogni stato de li suoi
+					subditi, et perché quello che una volta è piaciuto et stato approvato non deve
+					più dispiacere né esser reprovato, che però non intendevo che S. A. venisse a
+					questa risolutione, se li provintiali accettando il decreto et contribuendo si
+					acquietassero, ma in caso che loro continuando la principiata inobedienza
+					volendola violentare a confessar di havere promesso quello che realmente non ha,
+					né admettendo che lei sia interprete de le parole sue et del senso di esse<note
+						xml:id="FN2_00136_03" type="footnote">Am Rand von anderer Hand vermerkt:
+						interpretatione negata da sudditi.</note>, et ritrovandosi perciò defraudata
+					de le promesse fatte da loro quando l’indussero a condescendere a le concessioni
+					antiche che per questi rispetti per ragione alcuna era tenuta a mantenere le
+					promesse havendo loro per tanti capi rotte le conditioni d’esse, et che con
+					ragione efficace S. A. in questa dieta in evento che non volessero contribuire
+					le poteva ragionevolmente manifestare l’ultima sua determinatione, la quale
+					dovrebbe essere in sustantia che S. A. le essorta et monisce di accettare il
+					decreto publicato circa la separatione di cittadini et popolari et restitutione
+					de le parocchie etc. de li ecclesiastici.<note xml:id="FN2_00136_04"
+						type="footnote"> Vgl. oben Nr. 12, Anm. 1, Nr. 65, 68.</note>
+				</p>
+				<pb xml:id="P2_0000205"/>
+				<p>Ma in evento che loro non si disponghino a questo che lei si dichiara che da quel
+					hora in poi si dispone di governarsi nel negotio de la religione conforme a la
+					dispositione de la pacificatione imperiale,<note xml:id="FN2_00136_05"
+						type="footnote">Vgl. oben Nr. 21, Anm. 1.</note>a la quale non si facendo
+					più mentione di concessioni sue si rimette, fatto questo si haverebbe da
+					convocare la dieta universale con l’assistenza de li commissarii del imperatore,
+					arciduca Ferdinando, Baviera et Salzburg, et l’A. S. a le due altre provintie
+						<note xml:id="FN2_00136_06" type="footnote">Kärnten und
+					Krain.</note>potrebbe esponere l’insolentia poco rispetto et inobedienza de li
+					Stiriaci verso l’A. S. et li aggravii che la parte cattolica con infinito
+					detrimento già da alcuni anni in qua patisce da loro et l’instantia che fanno a
+					l’A. S. d’essere sollevati, et se fatto questo instando le provintie et
+					humiliatosi in qualche parte li Stiriaci si giudicasse esser necessario il
+					pigliare qualche temperamento. In tal caso S. A. et quelli ambasciatori et li
+					suoi consiglieri potrebbono tra loro seculari risolversi sì se si ha da
+					rimettere qualche cosa et accomodare a quello che il fatto alhora mostrasse
+					essere di manco pericolo et più tolerabile, et noi altri ecclesiastici doppo
+					d’haver fatto l’offitio nostro non mancaressimo ancor che separati da loro in
+					questa attione di pregare il sig. Dio che l’inspirasse a prendere quella
+					risolutione che fusse di maggior servitio di S. D. M.tà.</p>
+				<p>Et in vero mi sovengono molti frutti quali indrizzandosi il negotio di questa
+					maniera coglierebbe et l’A. S. et la parte cattolica poiché di questa forma il
+					principe si assicura molto in conscienza, facendo almeno con le parole quello
+					che può, mette in oltre un gran terrore non solo a li nobili, quali frequentando
+					l’essercitio lutherano perderanno li privilegii, ma ancora a li predicatori
+					loro, che anco essi temeranno predicando contra il consenso del principe di
+					perdere la propria vita, et si può ancora ragionevolmente sperare che non
+					essendo per essere simplicemente penale così fatta determinatione del principe,
+					ma con la clausula che possino elegando l’altro partito schifare la revocatione,
+					che perciò non siano per essere così fuor di giuditio, almeno buona parte d’essi
+					che più tosto che lasciare il patrocinio li cittadini vogliano perdere quel che
+					possono pacificamente ottenere. Li fini poiché ho io come ministro di S. B.ne
+					sono di grandissimo momento e il più precipuo è che con il revocare S. A. le
+					concessioni tutto il mondo conoscerà che N. S. non ha pensato mai né ad
+					assicuramento né a temperamento né a toleranza alcuna, ma a togliere tutto il
+					tronco <pb xml:id="P2_0000206"/>insieme con la radice <note
+						xml:id="FN2_00136_07" type="footnote">Am Rand von anderer Hand vermerkt:
+						reputatione di papa.</note>et se il principe doppo confortato da li principi
+					attinenti et interessati havrà presa altra risolutione, che S. B.ne non ce ne ha
+					parte alcuna et che l’acquisto de li cittadini et popolari è parto di S. S.tà ma
+					quello del atto pregiuditiale per essere abortivo non può essere figliolo di
+					quella madre che mai seppe né può sapere che cosa fusse aborto.</p>
+				<p>Et havendo io indrizzato il filo de la tela che vo ordendo a questo fine ho con
+					ogni ingenuità significato a S. A. che se per caso si verrà a la assicuratione o
+					ad altro atto pregiuditiale che io con la parte ecclesiastica voglio protestare
+					contra di esso et forsi absentarmi,<note xml:id="FN2_00136_08" type="footnote"
+						>Vgl. oben Nr. 125, Anm. 4.</note>né mi posso persuadere che riducendosi il
+					negotio a questo individuo io ragionevolmente possi essere ripreso di havere
+					abandonato il campo, poiché con l’aiuto divino son disposto di fermarmeci
+					intrepidamente mentre però che li ecclesiastici et io potremo adoperare l’arme
+					nostre, ma quando vedrò che non solamente non posso valermi di esse ma né manco
+					ripararmi dal colpo de li avversarii, alhora dovrà essere non solo escusato ma
+					comendato riportando meco così gran parte de le spoglie loro et restando la
+					parte dipendente da me insieme con la persona mia senza cicatrice, né lesione
+					alcuna, né questa mia ferma deliberatione potrà dispiacere a la S.tà di N. S.,
+					né essere alterata per qualsivoglia instantia che di qua si facesse in
+					contrario, poiché la qualità del attione che si haverà da fare è tanto delicata
+					che non solamente è bene ma necessario che sia noto urbi et orbi che io non ci
+					ho parte alcuna, né communico, né con consenso espresso, né tacito, né con
+					conniventia, né sotto qualsivoglia altra forma a peccati aliene.</p>
+				<p>Hora havendo io acquiestato novo spirito con l’occasione de le littere scritte
+					ho, come di sopra ho detto, significato a S. A. con un puoco d’imperio
+					spirituale sopra di lei tutto questo et l’ho ritrovata ottimamente disposta a
+					volere essequire il consiglio mio, ma non si è già totalmente risoluta volendo
+					io prima participare a li consiglieri suoi. Vivo però con speranza che siano più
+					tosto per consolarmi che altrimenti, ma in ogni evento non son già mai per
+					mutarmi di parere. Onde io per confessar il vero non vorrei che li provintiali
+					contribuissero in questa dieta et aspetto l’assalto loro con desiderio, il quale
+					quanto sarà più impetuoso tanto più mi sarà di sodisfattione.</p>
+				<pb xml:id="P2_0000207"/>
+				<p>Mi rincresce grandemente di dover continuare la rubrica principiata de la
+					inobedienza circa il calendario.<note xml:id="FN2_00136_09" type="footnote">Vgl.
+						oben Nr. 135.</note>Ultimamente doppo l’altre insolentie usate è stato il
+					decreto del principe instercorato, attione che ha alterato non solo gl’animi di
+					cattolici ma ancora de li heretici, di modo che il regimento tutto unito, non
+					ostante che in esso sia buon numero di baroni lutherani, ha dato per parere a S.
+					A. che esperimentandosi ogni giorno il disprezzo che si ha a li mandati di lei
+					che lo consiglia a instituire un presidio di soldati in questa città per
+					raffrenare l’insolentia del popolo et di coloro che sono fautori et fanno spalla
+					ad esso. <note xml:id="FN2_00136_10" type="footnote">Vgl. oben Nr. 35, Anm. 3
+						und Nr. 36, Anm. 13.</note>Questo parere nel quale così prontamente sono
+					concorsi li heretici è piaciuto molto a noi altri et vedo gl’animi assai ben
+					disposti ad accettarlo, ma è ben cosa gratiosa che questi nobili asseriscono che
+					deponeranno le loro vite che tal sceleratezza è commessa da persona cattolica et
+					lo attribuiscono a qualche scolaro instigato da qualche spirito indiscreto
+					d’alcuno de li padri de la compagnia per irritare tanto maggiormente il principe
+					contra li heretici.</p>
+				<p>Questi nobili si sono mostrati assai obedienti al serioso et minatorio decreto di
+					S. A. nel proposito de li loro predicatori, se ardiranno di predicare per
+					l’avvenire mai più contra il summo pontifice o la religione cattolica,<note
+						xml:id="FN2_00136_11" type="footnote">Am 23. Dezember trugen die Stände dem
+						Kirchenministerium und Prädikanten, die sich mündlich und schriftlich gegen
+						die Einführung des neuen Kalenders gestellt hatten, die Einhaltung desselben
+						auf (Loserth, FRA II/50, S. 515).</note>et perciò li consiglieri vedendo la
+					loro prontezza non già nel accettare il calendario, che sono più ostinati che
+					mai, ma nel concorrere nel castigare colui che ha stracciato etc. li decreti di
+					S. A. et nel reprendere così publicamente il predicatore loro, son intrati in
+					speranza che la dieta si concluderà a sodisfattione di S. A.</p>
+				<p>Hieri si dette principio ad essa et S. A. doppo d’haver data la sua proposta<note
+						xml:id="FN2_00136_12" type="footnote">Vgl. Nr. 135.</note>a li provintiali
+					immediatamente chiamò li cittadini et li disse come loro di già sapevano
+					d’essere totalmente separati da li nobili, et che però se niun di loro havesse
+					havuto ricorso da essi per incorporarsi con loro, che sarebbono perduti li
+					privilegii che godono, ma loro malamente assuefatti per il passato mostrando con
+					parole gran obedienza battono il chiodo dove altre volte hanno fatto l’apertura
+					tentando di corrompere li consiglieri politici col offerire di voler dare al
+					principe gran somma di danari se non si molestano circa la<pb
+						xml:id="P2_0000208"/> religione. Tra quattro giorni li provintiali daranno
+					la risposta a la proposta del principe <note xml:id="FN2_00136_13"
+						type="footnote"/>et alhora si potrà con più fondamento scrivere.<note
+						xml:id="FN2_00136_14" type="footnote"/>
+				</p>
+				<p>Il sig. duca di Baviera mi ha per il mezzo de la sorella fatto sapere come
+					l’eletto di Bamberga ha mandati alcuni commissarii dal A. S., et che non ostante
+					che li habbino communicato diverse cose non facevano però mentione alcuna del
+						Hoffmam,<note xml:id="FN2_00136_15" type="footnote"/>et che egli vedendo
+					questo con molto suo dispiacere si risolse di volere vedere di sottrahere qual
+					fosse l’intentione del eletto, et hebbe per risposta da li commissarii che
+					l’eletto era disposto di fare ogni suo potere, perilche non restando il sig.
+					duca pienamente sodisfatto ha scritto qua, monendo in vero assai acremente S. A.
+					non solo a scrivere al eletto ma con la via regia rimovere quella pietra di
+					scandalo, offerendosi ogni volta che questa Altezza tema di venire al
+					essecutione che lui s’obliga di farla et senza strepito. L’arciduca ha scritto
+					in buona forma al eletto, circa il resto poi si è havuta buona intentione da
+					esso, ma l’attione de la dieta tiene suspesi tutti li altri negotii. É parso
+					ancora al sig. duca bene che io scrivi al eletto, il che non ho ricusato di fare
+					et ho scritto con quella maggior efficacia che ho potuto. Dio Sig. N. per sua
+					misericordia ne concedi gratia che si risolvi l’eletto in bene et presto <note
+						xml:id="FN2_00136_16" type="footnote">Vgl. oben Nr. 21, Anm. 9.</note>. .
+					.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

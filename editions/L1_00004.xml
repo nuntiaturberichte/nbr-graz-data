@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-09-10" n="1">1580-09-10</title>
+                <title level="a">4. Malaspina an Gallio - Rom, 1580 September 10</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 19rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00004">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-09-10" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00003.xml">3.
+                        Gregor XIII. an Malaspina - Rom, 1580 September 7</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00005.xml">5.
+                        Malaspina an Gallio - Venedig, 1580 September 19</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00001.xml">1. Gallio an Malaspina -
+                        Rom, 1580 September 5</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00005.xml">5. Malaspina an Gallio -
+                        Venedig, 1580 September 19</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bestätigt Erhalt der Kredenzbriefe, der Instruktion und Chiffre. Erwartet in
+                    Venedig Breve mit Fakultäten. Auf Rat Kardinal Madruzzos Bitte um weitere
+                    Kredenzbriefe. Informationen aus Brief an P. Olivero. Abreise.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="4">Malaspina an Gallio - Rom, 1580 September 10</head>
+            <div>
+                <p>Io ho ricecuti li tre brevi<note xml:id="FN1_00004_01" type="footnote"
+                        >Kredenzbreven an Erzherzog Karl, Erzherzogin Maria und Dr. Schranz (Nr.
+                        2).</note>et dal secretario Canobio <note xml:id="FN1_00004_02"
+                        type="footnote">Giovanni Francesco Canobio Mazza, Referendar beider
+                        Signaturen, 1580 Bischof von Forlì, 1587—1589 Nuntius in Florenz (Biaudet,
+                        Les Nonciatures, S. 258; Katterbach, Referendarii, S. 160; Hierarchia
+                        Catholica III, S. 198).</note>mi è stata data la instruttione <note
+                        xml:id="FN1_00004_03" type="footnote">Nr. 1.</note>et la cifra. <note
+                        xml:id="FN1_00004_04" type="footnote">Siehe oben S. XXIV.</note>Credo ancora
+                    che, in arrivando a Venetia, ritrovarò il breve delle facoltà, che in questo
+                    mentre si attenderà a espedirlo. <note xml:id="FN1_00004_05" type="footnote">Nr.
+                        3.</note>Non voglio lasciare di dire a V. S. Illma che il sig. cardinale
+                    Madruccio <note xml:id="FN1_00004_06" type="footnote">Lodovico Madruzzo, Bischof
+                        von Trient, 1573—1600 Kardinalprotektor für Deutschland, lebte zu dieser
+                        Zeit meist in Rom (Wodka, Zur Geschichte der nationalen Protektorate der
+                        Kardinäle an der römischen Kurie, S. 51).</note>giudica esser bene haver
+                    brevi, oltre a quelli che ho havuti, per il vescovo di Gurgo et di Secovia, per
+                    il sig.<pb xml:id="P1_0000013"/> Vito di Dorernberg et in spetie del
+                        Cobenzel,<note xml:id="FN1_00004_07" type="footnote"> Aller
+                        Wahrscheinlichkeit nach haben Bischof Christoph Andreas von Gurk, Veit von
+                        Dornberg und der Hofkammerpräsident Hans Kobenzl keine Kredenzbreven
+                        erhalten; weder in den Brevenregistem noch im Gurker Diözesanarchiv und im
+                        Steiermärkischen Landesarchiv konnte etwas davon gefunden werden.</note>non
+                    essendo loro di minor anzi maggior consideratione del vicecancelero.<note
+                        xml:id="FN1_00004_08" type="footnote"> Dr. Wolfgang Schranz.</note>Però V.
+                    S. Illma vederà se conviene che io non ho voluto lasciare di rapresentarlo a V.
+                    S. Illma per sodisfattione di mons. IlImo Madruccio, che mi ha scritto et
+                    avertito di questo.</p>
+                <p>Ho letto la lettera dirretta al p. Olivero et tolto in nota li capitoli per
+                    servirmene a suo tempo, conforme al’ordine di V. S. IlIma et di già l’ho
+                    restituita a S. Revtia.<note xml:id="FN1_00004_09" type="footnote">P. Olivero
+                        Manare S. J. war 1573—1581 Assistent für Deutschland (Duhr, Geschichte der
+                        Jesuiten I, S. 93, Anm. 1).</note>Ne ho poi ricevuto tanta consolatione per
+                    vedere quam viriliter agat l’arciduca, che invero spero che il sig. Dio aiutarà
+                    S. A. et le suministrarà spirito e forza da poter estirpare tutti li disordini
+                    del stato suo.</p>
+                <p>Io sto con li stivalli et partirò fra un hora, che saranno le X hore, et vado
+                    alegramente con ferma deliberatione di affaticarmi in merito, con aiuto del
+                    Signore, che corrispondi in qualche parte al testimonio, che V. S. Illma si è
+                    compiacciuta di rendere a S. Bne della persona mia et, facendomi humilmente
+                    raccomandato nella bona gratia di V. S. Illma, prego nostro sig. Dio che
+                    conservi la S. Illma persona in utroque homine longamente.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

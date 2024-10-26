@@ -1,175 +1,179 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_213.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-04-17" n="1">1601-04-17</title>
-                    <title level="a">213.1. Aldobrandini an Portia - Rom, 1601 April 17</title>
-                    <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 39, fol. 57r–v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_213.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                        <date when="1601-04-17" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_212.2.xml">212.2. (Portia an Aldobrandini) - (Graz, 1601 April 16)</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_214.1.xml">214.1. Portia an Aldobrandini - Graz, 1601 April 21</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_212.2.xml">212.2. (Portia an
-                            Aldobrandini) - (Graz, 1601 April 16)</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_214.1.xml">214.1. Portia an
-                            Aldobrandini - Graz, 1601 April 21</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Clemens VIII. hat sich entschlossen, Erzherzog Ferdinand mit einer Truppe von
-						10.000 Soldaten unter der Führung von Gian Francesco Aldobrandini in der
-						Türkenabwehr zu unterstützen, worüber das beigelegte Schreiben Aldobrandinis
-						die Erzherzöge unterrichten soll.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="213.1">Aldobrandini an Portia - Rom, 1601 April 17</head>
-				<div>
-					<p>Ultimamente N. S. ha dichiarato di voler soccorrere i presenti bisogni
-						dell’Arciduca Ferdinando et di coteste Provincie con mandarvi il Sig. Giovan
-							Francesco<note xml:id="FN5_213.1_01" type="footnote">Gian Francesco
-							Aldobrandini (1545–1601), Sohn von Giorgio Aldobrandini und Margherita
-							del Corno. Heiratete 1580 Olimpia Aldobrandini, die Nichte von Clemens
-							VIII. Generalkapitän der päpstlichen Garde (1592), General der Kirche
-							(1594), General der päpstlichen Truppen in Ungarn (1595, 1597, 1601). Er
-							erhielt am 31. Mai 1601 die Insignien eines Oberbefehlshabers des
-							päpstlichen Heeres, verlie/3 Rom am 1. Juni und verstarb am 17.
-							September in Warasdin/Varazdin am Fieber: vgl. PASTOR 11, S. 223f.; DBI
-							2, S. 104f.; JAITNER, Clemens VIII., S. CXXXIV– CXLV; WEBER, Genealogien
-							29.1, S. 29. Zur Unterstützung der Kurie gegen die Türkeneinfälle im
-							Jahr 1601: vgl. BRANCUCCI, Beitrag.</note> con diecimila fanti et già si
-						fa gente con ogni sollecitudine.<pb xml:id="P5_0000480"/> Di questa
-						resolutione mi è parso di rallegrarmene con cotesti Serenissimi con
-						l’alligate mie lettere<note xml:id="FN5_213.1_02" type="footnote">Nicht
-							auffindbar.</note>, quali prego V. S. a presentare et accompagnare con
-						quelli offitii che vogliono uscire dalla sua amorevolezza et cortesia,
-						facendo fede a cotesti Ser.mi Signori et del desiderio che ho havuto di
-						servirli et del contento indicibile che ricevo della satisfattione et
-						consolatione che doveranno l’A. A. loro sentire da questo effetto del
-						paterno amore di S. Stà verso la loro Casa Ser.ma; et in esso si può dire
-						che S. B.ne se sia spolpata per arrivare a questo segno, sopra di che prego
-						V. S. a dilatarsi et supplire a quello che lascio io di scrivere per il poco
-						tempo che mi dà questo Corriero, che spedisce costà il Conte Sigismondo
-						della Torre. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_213.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-04-17" n="1">1601-04-17</title>
+                <title level="a">213.1. Aldobrandini an Portia - Rom, 1601 April 17</title>
+                <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 39, fol. 57r–v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_213.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <date when="1601-04-17" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_212.2.xml"
+                        >212.2. (Portia an Aldobrandini) - (Graz, 1601 April 16)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_214.1.xml">214.1.
+                        Portia an Aldobrandini - Graz, 1601 April 21</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_212.2.xml">212.2. (Portia an
+                        Aldobrandini) - (Graz, 1601 April 16)</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_214.1.xml">214.1. Portia an
+                        Aldobrandini - Graz, 1601 April 21</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Clemens VIII. hat sich entschlossen, Erzherzog Ferdinand mit einer Truppe von
+                    10.000 Soldaten unter der Führung von Gian Francesco Aldobrandini in der
+                    Türkenabwehr zu unterstützen, worüber das beigelegte Schreiben Aldobrandinis die
+                    Erzherzöge unterrichten soll.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="213.1">Aldobrandini an Portia - Rom, 1601 April 17</head>
+            <div>
+                <p>Ultimamente N. S. ha dichiarato di voler soccorrere i presenti bisogni
+                    dell’Arciduca Ferdinando et di coteste Provincie con mandarvi il Sig. Giovan
+                        Francesco<note xml:id="FN5_213.1_01" type="footnote">Gian Francesco
+                        Aldobrandini (1545–1601), Sohn von Giorgio Aldobrandini und Margherita del
+                        Corno. Heiratete 1580 Olimpia Aldobrandini, die Nichte von Clemens VIII.
+                        Generalkapitän der päpstlichen Garde (1592), General der Kirche (1594),
+                        General der päpstlichen Truppen in Ungarn (1595, 1597, 1601). Er erhielt am
+                        31. Mai 1601 die Insignien eines Oberbefehlshabers des päpstlichen Heeres,
+                        verlie/3 Rom am 1. Juni und verstarb am 17. September in Warasdin/Varazdin
+                        am Fieber: vgl. PASTOR 11, S. 223f.; DBI 2, S. 104f.; JAITNER, Clemens
+                        VIII., S. CXXXIV– CXLV; WEBER, Genealogien 29.1, S. 29. Zur Unterstützung
+                        der Kurie gegen die Türkeneinfälle im Jahr 1601: vgl. BRANCUCCI,
+                        Beitrag.</note>con diecimila fanti et già si fa gente con ogni
+                        sollecitudine.<pb xml:id="P5_0000480"/> Di questa resolutione mi è parso di
+                    rallegrarmene con cotesti Serenissimi con l’alligate mie lettere<note
+                        xml:id="FN5_213.1_02" type="footnote"> Nicht auffindbar.</note>, quali prego
+                    V. S. a presentare et accompagnare con quelli offitii che vogliono uscire dalla
+                    sua amorevolezza et cortesia, facendo fede a cotesti Ser.mi Signori et del
+                    desiderio che ho havuto di servirli et del contento indicibile che ricevo della
+                    satisfattione et consolatione che doveranno l’A. A. loro sentire da questo
+                    effetto del paterno amore di S. Stà verso la loro Casa Ser.ma; et in esso si può
+                    dire che S. B.ne se sia spolpata per arrivare a questo segno, sopra di che prego
+                    V. S. a dilatarsi et supplire a quello che lascio io di scrivere per il poco
+                    tempo che mi dà questo Corriero, che spedisce costà il Conte Sigismondo della
+                    Torre. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

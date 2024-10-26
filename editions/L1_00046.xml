@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00046">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1580-12-08" n="1">1580-12-08</title>
+				<title level="a">46. Malaspina an Gallio - Graz, 1580 Dezember 8</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 167r—170r, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00046">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1580-12-08" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00045.xml">45.
+						Graz, 1580 Dezember 6</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00047.xml">47.
+						Kobenzl an Malaspina - (Graz, 1580 Dezember 9)</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00044.xml">44. Malaspina an Gallio -
+						Graz, 1580 Dezember 5</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00048.xml">48. Gallio an Malaspina -
+						Rom, 1580 Dezember 10</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Scharfes Memoriale der Prälaten gegen Übergriffe der Häretiker. Positive Antwort
+					Erzherzog Karls auf Anfrage wegen Durchführung eines Gutteils der vom Papst
+					approbierten Beschlüsse der Münchner Konferenz anläßlich des jetzt
+					stattfindenden Landtages. Auswärtiges Studium der Bürgersöhne. Vorbereitung für
+					Generalvisitation in Diözese Salzburg. Frage der Restitution Aquileias.
+					Rechtfertigung gegenüber Unzufriedenheit des Papstes wegen zu offener Sprache.
+					Zustimmung des Geheimen Rates zu Eheprojekt zwischen Erzherzogin Anna und
+					Sigmund III. von Polen.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="46">Malaspina an Gallio - Graz, 1580 Dezember 8</head>
+			<div>
+				<pb xml:id="P1_0000138"/>
+				<p>Essendosi S. A. assicurata per le demostrationi, che il stato ecclesiastico ha
+					fatto in voce, in scritto et in fatti,<note xml:id="FN1_00046_01"
+						type="footnote">Siehe Nr. 44, Anm. 4.</note>che sì come è per star saldo et
+					unito in deffendere la santa religione catholica, così ancora è per adherire
+					alle honeste et giuste sue petitioni, et havendo lei già in mani le gravezze,
+					che li heretici pretendono et quelle delli catholici, quali sono in numero et in
+					qualità senza comparatione maggiore che a noi, hanno insin’hora violentemente
+					occupato trecento parrochie <note xml:id="FN1_00046_02" type="footnote">Die Zahl
+						ist viel zu hoch, wenn dabei nur die Pfarren im streng kanonischen Sinn und
+						nicht auch die anderen Seelsorgestellen gemeint sind.</note>et quasi tutte
+					le intrate senza tante altre cose infinite, stando noi aspettando che il
+					principe, come giudice del’ una et l’altra parte, dovesse pronuntiare
+					apertamente chi ha ragione o torto ; il che tanto più facilmente può et deve
+					fare, poiché li heretici sono stati li primi a lamentarsi et noi siamo pronti
+					per restituirli tutto quello che abbiamo del loro, purché S. A. ne faccia ancora
+					a noi redintegrare quello che loro hanno del nostro. Habbiamo scoperto che il
+					principe è tanto timido et talmente intepidito, che ha chiamato mons. di Gurgo
+					et li ha voluto dar la norma come debba votare in questo fatto in consiglio. Et
+					si vede che è tutto intento acciò non si faccia novità alcuna né dal’una né
+					dal’altra parte, ma che il negotio stia nel pristino stato, cosa che quanto sia
+					pernitiosa, chi sa quel che da una dieta al’altra si sia sempre andato perdendo
+					et che in favore della religione catholica mai si perfettiona cosa alcuna et che
+					dal altra parte li heretici fanno de’ fatti, et senza consulte mettano in
+					esecutione ciò che vogliono, se lo può facilmente immaginare.</p>
+				<pb xml:id="P1_0000139"/>
+				<p>Hora essendo le cose ridotte a questo termine sono comparse le lettere di V. S.
+					Illma delli 5 del passato,<note xml:id="FN1_00046_03" type="footnote">Nr.
+						24.</note>dalle quali havendo inteso che la Stà di N. S. approva quella
+					consulta di Baviera et li racordi che da principio dedi io, mi sono risoluto di
+					voler chiarirmi bene se S. A. realmente ha in animo di fare o no. Et così,
+					havendo havuto audienza, le ho significato che S. Bne ha inteso con molta
+					sodisfattione d’animo quello che il cancelliere per commissione sua haveva
+					trattato meco circa il negotio della religione <note xml:id="FN1_00046_04"
+						type="footnote">Siehe Nr. 12, 13 und 14.</note>et sì come commendava
+					grandemente l’A. S. che l’havesse fatto consultare, così maturamente et da
+					principi di così singoiar pietà et prudenza et tanto interessati et ben affetti
+					a lei, così non poteva se non approvare li santi, utili et necessarii racordi,
+					che li havevano dati et che però sperava senz’altro, che l’A. S. fosse, con
+					l’occasione di questa dieta, per mettere in esecutione una buona parte d’essi,
+					massime havendo inteso per le mie lettere che lei si mostrava così pronta in
+					volere sollevare la religione catholica et dichiarare la buona mente sua, circa
+					le concessioni date alli heretici. Mi rispose che io haverei veduto che lei
+					haverebbe fatto tutto quello che potesse et che di questo ne fossi sicuro et
+					perché mi accorgo che lei va a camino di volermi far credere che non possi. Io
+					la supplicai che mi volesse favorire di far quello che altre volte era stata
+					ricercata, cioè di chiamare li consiglieri, a’ quali lei haveva dato carico di
+					questo negotio della religione, et trattare con loro che cosa la poteva et
+					quello che non poteva né doveva fare, assicurandola che S. Stà non ricercava che
+					facesse se non quello che poteva. In conformità di questo S. A. hieri consultò
+					con il vescovo di Seccovia et il sig. cancelliere et da parte ancora con mons.
+					di Gurgo et il padre provinciale <note xml:id="FN1_00046_05" type="footnote"
+						>Vgl. Nr. 40, Anm. 12, und Nr. 43, Anm. 2.</note>et si ha fatto refferire
+					quello che si era risoluto nella consulta secreta et il cancelliero li propose
+					dui punti : an princeps possit, 2° an velit. Il primo si trattò diffusamente et
+					in effetto, doppo molte repliche, conclusero che poteva et in che modo poteva
+					esequirlo. Circa il secondo quelli signori lo pregorno che volesse parlare
+					liberamente perché, non havendo animo di fare, non era bene di dar intentione né
+					a S. Stà né ad altri che lei vuol fare quello che può et sopra tutto non era
+					espediente di convocare una dieta doppo questa, perché il far venire qua oratori
+					de’ principi non è altro che burlarli, non si volendo poi far cosa alcuna. Li
+					parlorno così liberamente et lo strinssero tanto, che egli, non sapendo che
+					rispondere, disse che haverebbe fatto ogni cosa et li mandò da me a<pb
+						xml:id="P1_0000140"/> darmi delle speranze, ma con tutto ciò dubito che non
+					faccia niente. Questo è il stato, nel quale si ritrova il negotio et S. A. è
+					ridotta a termine che bisogna che confessi di non volere, se non fa qualche
+					cosa, poiché se insin’hora ha dato la colpa alli consiglieri et al stato
+					ecclesiastico, non lo può più fare, se ha allegato che non può al presente già è
+					constretto confessare che può. Darò hora risposta brevemente alla sopradeta
+					lettera di V. S. Illma.</p>
+				<p>Circa il negotio de’ figliuoli de’ cittadini<note xml:id="FN1_00046_06"
+						type="footnote">Siehe Nr. 17, 18 und 28, Anm. 19.</note>è stato molto a
+					tempo l’avertimento di N. S., perché al presente siamo a torno di dar forma a
+					una visita generale per tutta la diocese del’ arcivescovo di Salisburgo <note
+						xml:id="FN1_00046_07" type="footnote">Die Visitation begann erst im Sommer
+						1581 (Nr. 111).</note>et questi commissarii mandati qua mostrano di volersi
+					governare in ogni cosa, conforme al voler mio. <note xml:id="FN1_00046_08"
+						type="footnote">Vgl. Nr. 53.</note>Et io ho già molti memoriali de’ diversi
+					et ho ancora inteso il parere de’ padri Gesuiti et spero che sarà fruttuosa la
+					visita et si ordinerà che li parrochiani facciano la professione della fede et,
+					fatto questo, si darà tal ordine che si effetuarà quello che N. S. raccorda; se
+					però le città vorrano obedire, che insin’ hora non hanno voluto, anzi il decreto
+					di S. A. è stato di danno alli catholici.</p>
+				<p>Circa la restitutione d’Aquileia hoggi si è concluso in consiglio che non si
+					debba altrimenti scriverne al’imperatore, ma solamente a S. Stà et metterle in
+					consideratione le ragioni et rispetti, che hanno ritenuto S. A. a non
+					restituirla et pregarla a volerlo consigliare quello che debba fare.<note
+						xml:id="FN1_00046_09" type="footnote">Vgl. Nr. 47.</note>Et credo che sarà
+					una restitutione con dure conditioni, però non ho veduto per ancora il
+						decreto,<note xml:id="FN1_00046_10" type="footnote"> Nr. 51.</note>subito lo
+					mandarò a V. S. Illma, insieme con quello de’ canonici. <note
+						xml:id="FN1_00046_11" type="footnote">Siehe Nr. 55.</note>Quanto al toccar
+					io o in voce o in scritto quelli particolari che questi signori desideravano,
+					che S. Stà facesse per un breve, <note xml:id="FN1_00046_12" type="footnote"
+						>Siehe Nr. 16, S. 65.</note>mi pare che basti quello che io già dissi a S.
+					A. et ne ho dato parte a V. S. Illma per la mia delli 29 del passato,<note
+						xml:id="FN1_00046_13" type="footnote"> Wahrscheinlich ist der Bericht vom
+						30. November gemeint (Nr. 40).</note>non dimeno se vederò urgente bisogno lo
+					farò.</p>
+				<p>Io bascio humilmente le mani a V. S. Illma per li avertimenti che mi dà et spero
+					nella bontà del Signore Dio, che mi concederà gratia, che li metterò in
+					esecutione in modo che le conoscerà quanti io stimi <pb xml:id="P1_0000141"/>et
+					riconoschi questo favore. Ma invero potrei allegare molte ragioni
+					concludentissime, per le quali ero necessitato a parlare in quella forma, poiché
+					vedevo che li heretici per imprimere alli popoli che la mia venuta era cerimonia
+					del principe et era per esser infruttuosa, publicavano per ogni cantone quella
+					littera <note xml:id="FN1_00046_14" type="footnote">Vgl. Loserth, FRA 11/50, S.
+						65 und 73 f.</note>et volssero ancora che io lo sapessi ci sono ancora molte
+					altre circonstantie, le quali mi mossero ad alterare al’hora la mia natura
+					inclinata ad ogni altra cosa; ché al volere, con libertà di dire, pungere non
+					dico principi, ma ne’ qual si voglia per basso che sia, ma sono stato violentato
+					alcune volte a risentirmi per scoprire, che non si corresponde a quella paterna
+					charità che S. Bne con tante demostrationi manifesta verso questo principe, et
+					io perciò ho proccerato che essi non si diano a credere, che basti sodisfare con
+					parole, et ringratio S. D. Mtà che dà quella libertà di parlare; non si è
+					sminuito punto l’amore che S. A. mostra di portarmi, anzi va crescendo in modo
+					che ogniuno dice che ho mutato la natura sua et di più ne naque, che se richiamò
+					Hoffmam, <note xml:id="FN1_00046_15" type="footnote">Vgl. Nr. 43.</note>per la
+					quale attione egli si tiene così mal sodisfatto, che va dicendo che vuol vendere
+					ciò che ha et andare ad habitare in altri paesi, se bene io li credo poco. Et V.
+					S. Illma sia pur certissima che mi sforzzarò di governarmi in modo che sì come
+					insin’hora il principe, li ecclesiastici et seculari catholici mi amano et
+					confidano quasi ogni lor cosa meco, così per l’avenire habbiano occasione di
+					farlo...</p>
+				<p>(P. S.:)<note xml:id="FN1_00046_16" type="footnote">Siehe Nr. 47, Anm.
+					1.</note>Dalla inclusa police <note xml:id="FN1_00046_17" type="footnote">Nr.
+						47.</note>V. S. Illma potrà cognoscere in che stato sta il negotio della
+					restitutione d’Aquileia. È stato doppo da me il Cobenzzolo et mi assicura che la
+					mettà delle conditioni si toglieranno, ma che solamente hanno voluto che S. Stà
+					sapia le loro ragioni ; vederò d’haver quanto prima l’espeditione.</p>
+				<p>S. A. ha proposto in consiglio quello che il p. Possevino le disse circa il
+					maritare la figlia al principe di Suetia et tutti l’hanno approvato et stanno
+					aspettando che N. S. mi dia commissione, che io lo tratti.<note
+						xml:id="FN1_00046_18" type="footnote">Vgl. Nr. 44, Anm. 6.</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

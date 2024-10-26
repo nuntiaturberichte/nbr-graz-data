@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00300">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1585-09-09" n="1">1585-09-09</title>
+				<title level="a">300. Caligari an Rusticucci - Graz, 1585 September 9</title>
+				<author ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 68, f. 223r—225r, Orig.; Antwort am 21.
+							(Sep-<lb/>tember); Beilage ebenda f. 186r, Decifrat.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00300">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+						Andrea</persName>
+					<date when="1585-09-09" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/128766026">Rusticucci, Girolamo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_025">Caligari,
+						Giovanni Andrea - Rusticucci, Girolamo</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00299.xml"
+						>299. (Caligari an Rusticucci) - (Graz, 1585 September 2)</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00301.xml">301.
+						Caligari an Rusticucci - Graz, 1585 September 16</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_025" target="L2_00299.xml">299. (Caligari an
+						Rusticucci) - (Graz, 1585 September 2)</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_025" target="L2_00301.xml">301. Caligari an
+						Rusticucci - Graz, 1585 September 16</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Mißstände bei Dominikanern. Verhandlungen eines Vertrauten des Kardinals Bourbon
+					mit Erzherzog Karl. Bitte des Abtes von St. Lambrecht um Erneuerung des Ablasses
+					für Mariazell. Suche nach Breve oder Bulle Klemens VII. für Ferdinand I. mit
+					Erlaubnis zum Verkauf von Kirchengütern. Neuerliches Ersuchen um Expedition der
+					Ehedispens für Fortunato Catta.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="300">Caligari an Rusticucci - Graz, 1585 September 9</head>
+			<div>
+				<p>Accusai con la mia di 2 di questo<note xml:id="FN2_00300_01" type="footnote">Nr.
+						298.</note>la ricevuta de le crocette et per farle più pretiose supplicai
+					per un breve che dechiarasse le loro indulgenze et le accompagnasse ne la manera
+					che V. S. Ill.ma haverà visto. Hora mi tratterò di presentarle sin a la risposta
+					di V. S. Ill.ma, la quale secondo il mio conto serà qui poco prima o poco da poi
+					il ritorno de le loro Altezze. <note xml:id="FN2_00300_02" type="footnote">Vgl.
+						unten Nr. 305.</note>
+				</p>
+				<p>La causa de’ frati Dominicani che V. S. Ill.ma m’incarga da parte di N. S. per la
+					sua di 24 d’agosto<note xml:id="FN2_00300_03" type="footnote">Weisung
+						Rusticuccis nicht erhalten.</note>serà con ogni discretione possibile
+					rappezzata da me, dico rappezzata perché volendola decidere canonicamente
+					bisognarebbe castigare tutti quanti sono conforme a li loro delitti che non sono
+					né pochi né leggieri.<note xml:id="FN2_00300_04" type="footnote"> Vgl. oben Nr.
+						288.</note>Fra tanto serà bene che venga un provinciale che tenga di loro
+					migliore cura che non è stato fatto infin’ ad hoggi.</p>
+				<pb xml:id="P2_0000427"/>
+				<p>Va segretamente con un servitore solo a questi principi catholici un gentilhuomo
+					francese chiamato Metello, huomo maturo, buon catholico et sopra tutto instrutto
+					et versato ne gli affari de’ principi, costui dice essere mandato dal sig.
+					cardinale di Borbon et pare che venga anco di fresco da Roma. Egli dopo haver’
+					parlato qui con il cancelliero de l’arciduca et con li padri Giesuiti ha
+					cavalcato subito per trovare S. A. et se bene è stato ricercato instantemente
+					dal cancelliero, non ha però voluto dire mai per quel che vada.<note
+						xml:id="FN2_00300_05" type="footnote">Malaspina berichtete, daß der Gesandte
+						des Kardinals Bourbon und des Herzogs Guise in Wien Erzherzog Ernst zum
+						Eintritt in die Liga gegen die Häretiker gewinnen wollte (Reichenberger,
+						Nuntiaturberichte, S. 172f.).</note>Ma se è lecito torre a indovinare si può
+					conietturare dal suo parlare che va o per trattare matrimonio con questa
+					primogenita di S. A., <note xml:id="FN2_00300_06" type="footnote">Erzherzogin
+						Anna. Vgl. oben Nr. 277.</note>la quale ha fatto prova di volere vedere, o
+					per dare conto de la causa del cardinale suo et de consorti, o fosse per provare
+					di tirare in lega con loro tutti questi principi catholici et può essere che li
+					Francessi tentino questo forse più presto per valersi del nome spetioso di un
+					lega catholica Germanica a terrore et spavento de gli Ugonotti che per l’effetto
+					rilevante che ne possa resultare. Questo gentilhuomo va anco accennando nel suo
+					ragionare di alcuna impresa da farsi per li catholici contra Ginevra et contra
+					Inghilterra, del quale regno et regina mostra essere molto ben prattico. Io
+					parlo a mente ma a la tornata di S. A. farò prova d’intendere con più veri
+					fondamenti tutta questa prattica, et se bene debbo presupporre che V. S. Ill.ma
+					già la sappia meglio d’ogni altro, tuttavia in materia tale ho voluto più presto
+					essere superfluo che defettivo. <note xml:id="FN2_00300_07" type="footnote">Vgl.
+						unten Nr. 301.</note>
+				</p>
+				<p>É ne la giurisdittione de l’abbate di S. Lamberto, prelato soggetto
+					immediatamente a la Sede Apostolica et riputato in questi paesi il migliore
+					religioso che ci sia,<note xml:id="FN2_00300_08" type="footnote">Johann
+						Trattner, 1562—1591 Abt von St. Lambrecht, war Mitglied der
+						Visitationskommission von 1581 und ein energischer Sprecher des
+						Prälatenstandes im Landtag (Rainer, Grazer Nuntiatur I, S. 359; Rainer—Weiß,
+						Visitation, S. 13f.).</note>una chiesa parochiale chiamata S. Maria ad
+					Cellas, a la quale per antica devotione è tanto gran concorso nel ottava de
+					l’Assontione de la Madonna con li sette giorni subsequenti et ne li tre giorni
+					de le feste de la pentecoste così di gente catholica come anco di molti tinti di
+					heresia, che da Vienna gli è venuta altra volta in peregrinaggio la regina
+					vedova di Francia con l’arciduca <pb xml:id="P2_0000428"/>Matthias suo fratello.
+						<note xml:id="FN2_00300_09" type="footnote">Am Bartholomäustag 1583 sollen
+						gegen 10 000 Wallfahrer, darunter Elisabeth, Königinwitwe von Frankreich,
+						nach Mariazell gepilgert sein (Tomek, Kirchengeschichte II, S.
+					645).</note>Di qui vi è andato l’arciduca Carlo et da tutte queste provincie
+					circunvicine li concorre moltitudine infinita, et la maggior parte di essi non
+					si parte di la senza essersi prima confessata et communicata, et perché vi era
+					una indulgenza di papa Bonifacio IX già rivocata per havere la clausula
+					porrigendi manus adiutrices. <note xml:id="FN2_00300_10" type="footnote">Bonifaz
+						IX. verlieh 1399 allen Christgläubigen, die nach Ablegung der Beichte die
+						Pfarrkirche Mariazell am Oktavtag von Maria Himmelfahrt und den sieben
+						folgenden Tagen andächtig besuchen und für deren Erhaltung ein Almosen
+						spenden, den Ablaß der Markuskirche in Venedig am Christi Himmelfahrtstag
+						(Frankl, Papstschisma und Frömmigkeit, S. 57, 184ff. und 234f.).</note>L’
+					abbate è venuto fin qui a pregarmi che io voglia intercedere presso la S.tà di
+					N. S., perché questa indulgenza sia rinovata. Et per guadagnare maggiore numero
+					d’anime desidera anco di havere facultà per quelli otto giorni subsequenti a
+					l’ottava de l’Assontione et per le tre feste di pentecoste di potere deputare
+					sino a la somma di 24 confessori approbati da lui con potestà che possino
+					absolvere tutti li peregrini primeramente da l’heresia di poi anco da tutti gli
+					altri peccati etiandio reservati ne la bolla in Coena Domini come più amplamente
+					V. S. Ill.ma vedrà nel memoriale che perciò mando alligato. <note
+						xml:id="FN2_00300_11" type="footnote">Bitte des Abtes von St. Lambrecht für
+						die Oktav von Maria Himmelfahrt und die Pfingstfeiertage in Mariazell um
+						einen Ablaß und um die Vollmacht für 24 Beichtväter, von der Häresie und von
+						allen anderen Sünden, auch den in der Abendmahlsbulle dem Heiligen Stuhl
+						reservierten, lossprechen zu können (Arch. Vat. Nunz. Germ. 68, f. 196r).
+						Vom 4. September 1585 stammt ein siebenjähriger Ablaß Caligaris für
+						Mariazell (Stiftsarchiv St. Lambrecht, Urk. II 1274).</note>
+				</p>
+				<p>Io che per lunga prova so quanto giovi quivi essercitare più la potestà
+					apostolica dove è maggiormente oppugnata, credo che per beneficio de l’anime et
+					augumento de la fede catholica se li debba concedere quanto dimanda et presto et
+					gratis, et perciò ne supplico humilmente et voluntieri la S. B.ne. Mi pare bene
+					che la concessione non debba passare il termine di dieci anni, sì per andare più
+					ristretto et dispensare l’indulgenza con maggiore reputatione si per mettere in
+					obligo l’abbate di fare fornito il termine la medesma dimanda, et perciò
+					riconoscere la suprema potestà del Pontefice Romano, che molti etiandio
+					ecclesiastici et catholici si scordano facilmente.</p>
+				<p>Sono ricercato da questi ecclesiastici per beneficio de le loro chiese di fare
+					trovare una facultà che fu data ne l’anno 1529, 1530, 1531 da papa Clemente VII
+					a l’imperatore Ferdinando di potere alie<pb xml:id="P2_0000429"/>nare la quarta
+					parte de’beni stabili de le chiese, <note xml:id="FN2_00300_12" type="footnote"
+						>Bereits im Jahre 1524 gestattete Hadrian VI. die Einhebung der Terz von
+						allen geistlichen Einkünften eines Jahres; 1529/30 wurde die Geistlichkeit
+						mit der Quart belastet, die das Kirchenvermögen schwer angriff (Graz LA,
+						Urkunden 1524 Jänner 29, Februar 16 und 19; 1529 September 3 und 12; 1530
+						Februar 26, März 26 und Juni 11; Weinzierl, Die Quart in Kärntens Stiftern,
+						S. 139ff.).</note>la quale non so né sa questo clero che non l’ha mai potuta
+					vedere, se fosse espedita per breve o per bolla né con che conditioni. Se è per
+					breve m. Francesco Orselli mio nipote che ha servito già 20 anni et serve
+					tuttavia la S.tà di N. S. ne la segretaria de’brevi commandato da V. S. Ill.ma
+					la trovarà subito <note xml:id="FN2_00300_13" type="footnote">Memoriale für das
+						Suchen der von Klemens VII. Ferdinand I. gegebenen Vollmachten (Arch. Vat.
+						Nunz. Germ. 68, f. 194rv).</note>et ne farà coppia per mandarmi, se serà per
+					bolla egli dirà a chi si debba far capo. Questa facultà ruinò le chiese di
+					questi paesi et gravò la conscienza de l’imperatore, che di poi fu pentito di
+					haverla dimandata, et ottenuta vedendo che a lui ne era venuto in borsa molto
+					poco utile et molto grande guadagno a li suoi ministri, che robbarono et
+					assassinorono ogni cosa. <note xml:id="FN2_00300_14" type="footnote">Dieses
+						Problem wurde bereits 1580 an Malaspina herangebracht, der daraufhin in Rom
+						um Kopien der betreffenden Urkunden bat. Angeblich hat die päpstliche
+						Zustimmung zum Kirchengutverkauf niemand gefunden und gesehen; trotzdem
+						berief man sich auf ein darin enthaltenes Rückkaufsrecht (Rainer, Grazer
+						Nuntiatur I, S. 82).</note>
+				</p>
+				<p>La dispensa matrimoniale del sig. Fortunato Catta<note xml:id="FN2_00300_15"
+						type="footnote">Vgl. oben Nr. 254.</note>non fu mai espedita per le
+					difficultà che vi fa come intendo mons. dattario, il quale pensa forse che
+					questo sia un caso ordinario et non qualificato de la manera che è, ma perché se
+					non si espedisse hora dopo la voce uscita de la gratia già fatta da S. S.tà
+					darebbe scandalo doppio et disordine infinito. Supplico V. S. Ill.ma che ottenga
+					di novo gratia da N. S. che sia espedita senza contradittione et senza dilatione
+					. . .</p>
+				<p>Beilage:<note xml:id="FN2_00300_16" type="footnote">Die Beilage ist nicht
+						datiert, paßt aber dem Inhalt und der Altersangabe nach, daß Erzherzogin
+						Anna, geboren am 16. August 1573, ein wenig über 12 Jahre alt ist, zu diesem
+						Bericht. Anna wurde schließlich 1592 mit König Sigismund von Polen
+						vermählt.</note>Empfiehlt die älteste Tochter Erzherzog Karls für Ehe mit
+					König von Spanien oder mit Kaiser <note xml:id="FN2_00300_17" type="footnote"
+						>Vgl. oben Nr. 277.</note>. Poiché la christianità tutta sta in tanto
+					pericolo, come S. S.tà sa, non restarò di ricordare humilmente come qui è una
+					figlia del arciduca Carlo che passa poco più di 12 anni, bella come un angelo et
+					di razza di fare ogni di un figlio, la <pb xml:id="P2_0000430"/>quale si
+					potrebbe maritare o al re cattolico o al imperatore et in un tempo istesso
+					sollevare et accreditare questo principe et dar terrore a gli heretici et
+					insieme provedere a la solitudine di questi principi austriaci, li quali morendo
+					senza figli corrono pericolo di ruinare la casa sua et tutto il
+					christianesmo.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

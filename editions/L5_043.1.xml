@@ -1,220 +1,228 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_043.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-06-05" n="1">1599-06-05</title>
-                    <title level="a">43.1. Portia an Aldobrandini - Leoben, 1599 Juni 5</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 42r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilagen: fol. 43r, Avviso, Leoben, 1599 Juni 5.<lb/>fol. 38r–v,
-						Exemplarum literarum. Quas scripsit Episcopus Adriae Nuntius<lb/>Apostolicus
-						ad Canonicos Bambergenses in capitulo peremptorio congre-<lb/>gatos,
-						Regensburg, 1599 Mai 20.<lb/>fol. 39r, Exemplarum literarum. Quas scripsit
-						Episcopus Adriae Nuntius<lb/>Apostolicus ad rev.mum dominum Electum
-						Bambergensem, Regensburg,<lb/>1599 Mai 20.</bibl>
-					<bibl type="regest">
-						<lb/>Regesten der Beilagen: Bauer, Quellen, S. 197 (Nr. 44, 45).</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_043.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-06-05" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2772649">Leoben</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_042.1.xml">42.1. San Giorgio an Portia - Rom, 1599 Mai 29</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_044.1.xml">44.1. San Giorgio an Portia - Rom, 1599 Juni 5</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_041.2.xml">41.2. Portia an
-                            Aldobrandini - Regensburg, 1599 Mai 23</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_044.3.xml">44.3. Aldobrandini an
-                            Portia - Rom, 1599 Juni 5</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Bischof [Gebsattel] und die Kanoniker von Bamberg sollen sich nach Pfingsten
-						in einem Generalkapitel versammeln. Portia hat dafur erneut seine
-						Reformvorschläge nach Bamberg gesandt. Posteingang. Die Landtage in
-						Innerösterreich sind noch nicht abgeschlossen. Erzherzog Ferdinand erhält
-						keine Unterstützung von den Landständen, die religiöse Zugeständnisse
-						erpressen wollen. Angst um die Standfestigkeit des Erzherzogs, der sich in
-						finanzieller Not befindet.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="43.1">Portia an Aldobrandini - Leoben, 1599 Juni 5</head>
-				<div>
-					<pb xml:id="P5_0000089"/>
-					<p>Doppo haver scritto a V. S. Ill.ma di Ratisbona et inviatole insieme l’ultime
-							scritture<note xml:id="FN5_043.1_01" type="footnote">Nr. 41.1 und
-							Beilagen.</note> che m’è occorso di fare per beneficio del Vescovado di
-						Bamberga, ho anco giudicato che potesse giovar ad alcuna cosa il scrivere et
-						repetere sommariamente a quell’Eletto et a Canonici che dovran congregarsi
-						nel loro Capitolo peremptorio et generale circa l’ottava della Pentecoste le
-						cose che le son state considerate et proposte da me, acciò che più
-						facilmente se sia possibile si rissolvino ad esseguire anch’essi quella
-						parte che le appartiene, et di quanto io ho scritto invio anco le copie a V.
-						S. Ill.ma<note xml:id="FN5_043.1_02" type="footnote">Beilagen dieser
-							Nr.</note>, acciò più facilmente si possa trattar con cotesti mandati
-							dall’Eletto<note xml:id="FN5_043.1_03" type="footnote">Weihbischof
-							Ertlin und Johann Gregor Haarsee: vgl. Nr. 27.3.</note> costà per la
-						confermatione.</p>
-					<p>Per viaggio poi, mentr’io uscivo dalle Barche del Danubio per pigliar
-						alloggiamento in Linz, mi capitorono le lettere di V. S. Ill.ma del primo di
-							Maggio<note xml:id="FN5_043.1_04" type="footnote">Nr. 35.1, 35.2, 35.3.
-							Portia hatte Eh. Ferdinand am 24. Mai 1599 aus Linz nicht von der
-							Unmoglichkeit einer finanziellen Unterstutzung seitens des Hl. Stuhles
-							unterrichtet, sondern hatte ihn auf dessen Gnade und auf die persönliche
-							Berichterstattung bei der Rückkehr nach Graz vertröstet: vgl. Portia an
-							Eh. Ferdinand, Linz, 1599 Mai 24, HHStA, Familienkorr. A 7, fol.
-							17r.</note>, nelle quali ella mi considera alcuna cosa circa gl’aiuti
-						richieduti et pretesi dall’Arciduca Ferdinando et dalla maggior parte de
-						suoi; sopra di che, havend’io scritto et significato a V. S. Ill.ma quanto
-						havevo saputo et udito per inanti in questo proposito<note xml:id="FN5_043.1_05" type="footnote">Nr. 30.3.</note>, mi resta di
-						aggiongere quello ch’io ho inteso doppo ch’io son entrato nella Provincia
-						dell’Austria et Stiria, et è che sin’a quest’hora nelle Diete tenute da
-						Gennaro in qua et c’han durato cinque mesi continovi l’Arciduca non ha
-						potuto ottener cos’alcuna da suoi Provinciali, gli quali nell’ultima sua
-						scrittura si sono dichiarati di più di non voler contribuire cos’alcuna per
-						la guerra contr ’l Turco, se non sono assicurati di poter haver libero
-						l’essercitio luterano, in modo che l’Arciduca, per quanto si vede et
-						intende, non è per haver altr’aiuto quest’anno in tutte tre le sue
-						Provincie, Stiria, Carinthia et Carniola, che quello dello Stato
-						Ecclesiastico, né con quello solo sarà possibile al giudicio di tutti che
-						possan difender questi suoi Confini et gl’Heretici, che sanno et veggono le
-						difficoltà del Prencipe, aggionto il travaglio de Signori Venetiani, il
-						nuovo carico et spesa per la Prencipessa ritornata di<note xml:id="SN043.1_a" type="siglum">Ersetzt für Spagna.</note>
-							Transilvania<ref target="#SN043.1_a">*a)</ref>
-						<note xml:id="FN5_043.1_06" type="footnote">Maria Christierna, Fürstin von
-							Siebenbürgen: vgl. Nr. 39.1.</note>, gli danni ricevuti per il passato
-						dalla contagione dal transito de’ soldati et il nuovo presidio di<pb xml:id="P5_0000090"/> Graz<note xml:id="FN5_043.1_07" type="footnote">Die Besatzung am Grazer Schlossberg wurde im Jahr 1599 um insgesamt 200
-							Soldaten aufgestockt: vgl. HÖFER, Christentum, S. 117.</note> et altri
-						simili, non possono non persuadersi di non dover ottener alcuna cosa; il che
-						Dio non permetta mai et per l’honore et aumento della sua Santa Cattolica
-						Religione et per quello che può appartener di gloria et consolatione della
-						S.tà di N. S., nella quale confidano singolarmente tutti gl’Ecclesiastici et
-						buoni Cattolici di queste Provincie et a questi anco ’l ritorno mio (per
-						quant’ho potuto comprendere) è stato gratissimo et accettissimo, forsi solo
-						per la speranza c’hanno della protettione et aiuto di S. B.ne, et m’hanno
-						sin detto alcuni Prelati che se hora non si sostiene la Religione et
-						auttorità del Prencipe contra gl’ suoi Vasalli Heretici, che non vi sarà mai
-						più speranza di convertire et riformare queste Provincie et aiutare queste
-						pover’anime dagl’errori et miserie nelle quali si trovano per l’Heresie.</p>
-					<p>Che ho voluto significar a V. S. Ill.ma anco prima d’arrivar a Graz per non
-						perder l’occasione et opportunità dell’ordinario, proponendole solo per
-						obligo della servitù mia alla prudenza di V. S. Ill.ma …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_043.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-06-05" n="1">1599-06-05</title>
+                <title level="a">43.1. Portia an Aldobrandini - Leoben, 1599 Juni 5</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 42r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilagen: fol. 43r, Avviso, Leoben, 1599 Juni 5.<lb/>fol. 38r–v,
+                        Exemplarum literarum. Quas scripsit Episcopus Adriae Nuntius<lb/>Apostolicus
+                        ad Canonicos Bambergenses in capitulo peremptorio congre-<lb/>gatos,
+                        Regensburg, 1599 Mai 20.<lb/>fol. 39r, Exemplarum literarum. Quas scripsit
+                        Episcopus Adriae Nuntius<lb/>Apostolicus ad rev.mum dominum Electum
+                        Bambergensem, Regensburg,<lb/>1599 Mai 20.</bibl>
+                    <bibl type="regest">
+                        <lb/>Regesten der Beilagen: Bauer, Quellen, S. 197 (Nr. 44, 45).</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_043.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-06-05" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2772649">Leoben</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_042.1.xml"
+                        >42.1. San Giorgio an Portia - Rom, 1599 Mai 29</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_044.1.xml">44.1.
+                        San Giorgio an Portia - Rom, 1599 Juni 5</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_041.2.xml">41.2. Portia an
+                        Aldobrandini - Regensburg, 1599 Mai 23</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_044.3.xml">44.3. Aldobrandini an
+                        Portia - Rom, 1599 Juni 5</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bischof [Gebsattel] und die Kanoniker von Bamberg sollen sich nach Pfingsten in
+                    einem Generalkapitel versammeln. Portia hat dafur erneut seine Reformvorschläge
+                    nach Bamberg gesandt. Posteingang. Die Landtage in Innerösterreich sind noch
+                    nicht abgeschlossen. Erzherzog Ferdinand erhält keine Unterstützung von den
+                    Landständen, die religiöse Zugeständnisse erpressen wollen. Angst um die
+                    Standfestigkeit des Erzherzogs, der sich in finanzieller Not befindet.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="43.1">Portia an Aldobrandini - Leoben, 1599 Juni 5</head>
+            <div>
+                <pb xml:id="P5_0000089"/>
+                <p>Doppo haver scritto a V. S. Ill.ma di Ratisbona et inviatole insieme l’ultime
+                        scritture<note xml:id="FN5_043.1_01" type="footnote">Nr. 41.1 und
+                        Beilagen.</note>che m’è occorso di fare per beneficio del Vescovado di
+                    Bamberga, ho anco giudicato che potesse giovar ad alcuna cosa il scrivere et
+                    repetere sommariamente a quell’Eletto et a Canonici che dovran congregarsi nel
+                    loro Capitolo peremptorio et generale circa l’ottava della Pentecoste le cose
+                    che le son state considerate et proposte da me, acciò che più facilmente se sia
+                    possibile si rissolvino ad esseguire anch’essi quella parte che le appartiene,
+                    et di quanto io ho scritto invio anco le copie a V. S. Ill.ma<note
+                        xml:id="FN5_043.1_02" type="footnote"> Beilagen dieser Nr.</note>, acciò più
+                    facilmente si possa trattar con cotesti mandati dall’Eletto<note
+                        xml:id="FN5_043.1_03" type="footnote"> Weihbischof Ertlin und Johann Gregor
+                        Haarsee: vgl. Nr. 27.3.</note>costà per la confermatione.</p>
+                <p>Per viaggio poi, mentr’io uscivo dalle Barche del Danubio per pigliar
+                    alloggiamento in Linz, mi capitorono le lettere di V. S. Ill.ma del primo di
+                        Maggio<note xml:id="FN5_043.1_04" type="footnote">Nr. 35.1, 35.2, 35.3.
+                        Portia hatte Eh. Ferdinand am 24. Mai 1599 aus Linz nicht von der
+                        Unmoglichkeit einer finanziellen Unterstutzung seitens des Hl. Stuhles
+                        unterrichtet, sondern hatte ihn auf dessen Gnade und auf die persönliche
+                        Berichterstattung bei der Rückkehr nach Graz vertröstet: vgl. Portia an Eh.
+                        Ferdinand, Linz, 1599 Mai 24, HHStA, Familienkorr. A 7, fol. 17r.</note>,
+                    nelle quali ella mi considera alcuna cosa circa gl’aiuti richieduti et pretesi
+                    dall’Arciduca Ferdinando et dalla maggior parte de suoi; sopra di che, havend’io
+                    scritto et significato a V. S. Ill.ma quanto havevo saputo et udito per inanti
+                    in questo proposito <note xml:id="FN5_043.1_05" type="footnote">Nr.
+                    30.3.</note>, mi resta di aggiongere quello ch’io ho inteso doppo ch’io son
+                    entrato nella Provincia dell’Austria et Stiria, et è che sin’a quest’hora nelle
+                    Diete tenute da Gennaro in qua et c’han durato cinque mesi continovi l’Arciduca
+                    non ha potuto ottener cos’alcuna da suoi Provinciali, gli quali nell’ultima sua
+                    scrittura si sono dichiarati di più di non voler contribuire cos’alcuna per la
+                    guerra contr ’l Turco, se non sono assicurati di poter haver libero l’essercitio
+                    luterano, in modo che l’Arciduca, per quanto si vede et intende, non è per haver
+                    altr’aiuto quest’anno in tutte tre le sue Provincie, Stiria, Carinthia et
+                    Carniola, che quello dello Stato Ecclesiastico, né con quello solo sarà
+                    possibile al giudicio di tutti che possan difender questi suoi Confini et
+                    gl’Heretici, che sanno et veggono le difficoltà del Prencipe, aggionto il
+                    travaglio de Signori Venetiani, il nuovo carico et spesa per la Prencipessa
+                    ritornata di <note xml:id="SN5_043.1_a" type="siglum">Ersetzt für
+                        Spagna.</note>Transilvania<ref target="#SN5_043.1_a"/>
+                    <note xml:id="FN5_043.1_06" type="footnote">Maria Christierna, Fürstin von
+                        Siebenbürgen: vgl. Nr. 39.1.</note>, gli danni ricevuti per il passato dalla
+                    contagione dal transito de’ soldati et il nuovo presidio di <pb
+                        xml:id="P5_0000090"/>Graz <note xml:id="FN5_043.1_07" type="footnote">Die
+                        Besatzung am Grazer Schlossberg wurde im Jahr 1599 um insgesamt 200 Soldaten
+                        aufgestockt: vgl. HÖFER, Christentum, S. 117.</note>et altri simili, non
+                    possono non persuadersi di non dover ottener alcuna cosa; il che Dio non
+                    permetta mai et per l’honore et aumento della sua Santa Cattolica Religione et
+                    per quello che può appartener di gloria et consolatione della S.tà di N. S.,
+                    nella quale confidano singolarmente tutti gl’Ecclesiastici et buoni Cattolici di
+                    queste Provincie et a questi anco ’l ritorno mio (per quant’ho potuto
+                    comprendere) è stato gratissimo et accettissimo, forsi solo per la speranza
+                    c’hanno della protettione et aiuto di S. B.ne, et m’hanno sin detto alcuni
+                    Prelati che se hora non si sostiene la Religione et auttorità del Prencipe
+                    contra gl’ suoi Vasalli Heretici, che non vi sarà mai più speranza di convertire
+                    et riformare queste Provincie et aiutare queste pover’anime dagl’errori et
+                    miserie nelle quali si trovano per l’Heresie.</p>
+                <p>Che ho voluto significar a V. S. Ill.ma anco prima d’arrivar a Graz per non
+                    perder l’occasione et opportunità dell’ordinario, proponendole solo per obligo
+                    della servitù mia alla prudenza di V. S. Ill.ma …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

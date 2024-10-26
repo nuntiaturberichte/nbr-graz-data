@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00133">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-12-10" n="2">1581-12-10</title>
+                <title level="a">133. Malaspina an Gallio - Graz, 1581 Dezember 10</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Kunz. Germ. 100, j. 378’—379’, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00133">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-12-10" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00132.xml"
+                        >132. (Graz, 1581 vor Dezember 10)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00134.xml">134.
+                        Gallio an Malaspina - Rom, 1581 Dezember 29</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00131.xml">131. Gallio an Malaspina -
+                        Rom, 1581 Dezember 9</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00134.xml">134. Gallio an Malaspina -
+                        Rom, 1581 Dezember 29</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bisher feste Haltung Erzherzog Karls, der Räte und Prälaten auf dem Landtag.
+                    Überreichung von Beschwerdeartikeln der evangelischen Stände gegen Nuntius an
+                    Erzherzog Karl.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="133">Malaspina an Gallio - Graz, 1581 Dezember 10</head>
+            <div>
+                <p>Mentre S. A. et li consiglieri suoi se l’hanno passata con parole et offerte
+                    generali di voler essibii’e la roba, la vita et li figliuoli etc. per
+                    sollevatione de la religione catholica<note xml:id="FN1_00133_01"
+                        type="footnote">Vgl. Nr. 68, S. 191.</note>et non si sono ristretti ad
+                    individuo et particolare alcuixo sono pur andati di continuo dando qualche segno
+                    di voler proseguire il negotio de la religione animosamente, dandosi forse a
+                    credere che fosse difficile proponere in specie particolare alcuno, il quale non
+                    si potesse con ragioni, se non vere almeno apparenti, prolungare o ributtare. Ma
+                    poiché è piacciuto al Signor Dio che loro stessi hanno consultato et risoluto et
+                    con parole espresse promesso di voler, in caso di disobedientia, far la
+                    separatione de li stati et mettere il presidio <note xml:id="FN1_00133_02"
+                        type="footnote">Siehe Nr. 123, S. 338, Nr. 126, S. 348, und Nr. 136, S.
+                        368.</note>et che si sono ingannati de la vana opinione, che havevano, che
+                    li prelati in questa dieta fossero per alienarsi da me,<note
+                        xml:id="FN1_00133_03" type="footnote"> Vgl. Nr. 141, S. 381.</note>et che
+                    insieme hanno veduto che, contra la loro speranza, io non ho voluto consignare
+                    li danari del presidio, la quantità de’ quali a loi’o non è nota a nessuno, et
+                    che mi sono lassato intendere che più utilmente si hanno da dispensare che li
+                    quaranta milia di <pb xml:id="P1_0000363"/>Carlistot, <note
+                        xml:id="FN1_00133_04" type="footnote"/>et che io ho dato quel scritto al
+                    confessore di S. A., <note xml:id="FN1_00133_05" type="footnote"/>circa la
+                    sicurezza dela conscienza del principe per assicurarmi che non siano per
+                    mutarsi, come è loro costume, cosa che loro non si sarebbono forse mai persuaso,
+                    hanno tentato di negare d’haver promesso in specie cosa alcuna. Ma il
+                    cancelliero, il quale in nome di S. A. haveva fatta la relatione a me et dettala
+                    a diversi, non ha voluto in modo alcuno esser tenuto d’haver riferito il falso,
+                    anzi publicamente ha protestato che quando si metta in dubio quello ch’egli mi
+                    ha detto esser stato concluso in consiglio et approvato da S. A. et commandatole
+                    che in nome di lei me lo significasse, ch’egli in modo alcuno non vuole, non
+                    solo intervenire per l’avvenire nel consiglio, ma che non pensa di servire più.
+                    Tutto questo è passato senza participatione alcuna mia, cosa che a me è stata
+                    gratissima.</p>
+                <p>Dapoi S. A. mi ha promesso cose grandi, et che vuole fare in modo che resterò
+                    sodisfatto et edificato. Io aspettarò di far giudicio certo da li fatti
+                    istessi.</p>
+                <p>Li provinciali hanno dato li capitoli, che saranno con questa mia,<note
+                        xml:id="FN1_00133_06" type="footnote">Nr. 132.</note>a S. A. contra non dirò
+                    de la persona mia, che per gratia di Dio non toccano, ma del’ officio, et in
+                    effetto stanno fermi in voler che S. A. li prometta di scacciarmi, però per
+                    esser sofficientemente nota la impudenza loro, è poco stimata... </p>
+            </div>
+        </body>
+    </text>
+</TEI>

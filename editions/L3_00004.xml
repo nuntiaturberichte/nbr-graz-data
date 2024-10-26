@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00004">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1592-04-13" n="1">1592-04-13</title>
+				<title level="a">4. Zweite Instruktion für Portia - Rom, 1592 April 13</title>
+				<author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+								Heinz</persName>
+							<persName>Rainer Christian</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+							Kobenzl; 1592-1595</title>
+						<idno type="ISBN">3-7001-2964-5</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>2001</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Historisches Institut beim Österreichischen Kulturinstitut
+									in Rom</orgName>
+								<persName>Bösel Richard</persName>
+								<persName>Fillitz Hermann</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="3">3. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="484">484 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Historischen Instituts beim
+							Österreichischen Kulturinstitut in Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. F. Borg., vol. 758, f. 214r—247r, Kopie.<lb/>Druck:
+							Schuster, Brenner, Beilage; Benedik 25—28; Jaitner I,
+							33—52.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L3_00004">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/119022524" cert="low">Papst, VIII.,
+						Klemens</persName>
+					<date when="1592-04-13" n="1"/>
+					<placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+				</correspAction>
+				<correspContext>
+					<ref subtype="previous_letter" type="withinCollection" target="L3_00003.xml">3.
+						Klemens VIII. an Ehzg Ernst - Rom, 1592 April 8</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L3_00005.xml">5.
+						Klemens VIII. an Portia - Rom, 1592 April 28</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>I. Überblick über die konfessionelle Situation in Innerösterreich: 1.
+					Protestantische Argumente und ihre Widerlegung für Religionsfreiheit in
+					Steiermark, Kärnten und Krain. — 2. Zustandekommen des Brucker Libells. — 3.
+					Maßnahmen Gregors XIII. gegen Ausdehnung des Protestantismus: Sendung B. Portias
+					und Ninguardas; Errichtung einer ständigen Nuntiatur in Graz mit Nuntius
+					Malaspina; Beginn der Gegenreformation. — 4. Widerstände und Schwierigkeiten:
+					Entsendung von Nuntius Caligari; Verweigerung der Huldigung durch Stände nach
+					Tod von Ehzg Karl; weitere Ausbreitung des protestantischen
+					Religionsexerzitiums. — 5. Protestantische Forderungen auf Landtagen von Graz
+					und Klagenfurt; Eingreifen des Kaisers.</p>
+				<p>II. Visitation als Grundlage einer katholischen Reform: 1. Klerusreform durch
+					Visitation; Abstimmung mit Statthalter; Rechte des Landesfürsten und der
+					Ordinarien. — 2. Vor Visitation durch Nuntius Beratung mit Bischöfen. — 3.
+					Inhalt der Visitation: Abschaffung des Konkubinats, dem Grund allen Übels;
+					Vorsicht erforderlich; Hinzuziehung weltlicher Räte. — 4. Richtlinien: Sorge für
+					Ersatzgeistliche; Sicherstellung der geistlichen Versorgung der <pb
+						xml:id="P3_0000015"/>Gläubigen; Tolerierung von im Volk beliebten und
+					theologisch sonst zuverlässigen Konkubinariern. — 5. Häufig anzutreffende, von
+					Protestanten verursachte Zwangslage und Abhängigkeiten katholischer Pfarrer.
+					Vermeidung von finanziellen Belastungen der Pfarrer und Gemeinden bei
+					Visitation. — 6. Errichtung von katholischen Schulen und Jesuitenkollegien;
+					Ausstattung mit Einkünften vakanter Klöster. — 7. Katholische Schulen in
+					Friesach und Villach. — 8. Pläne zur Errichtung neuer Bistümer in Kärnten und
+					Görz.</p>
+				<p>III. Gegenreformatorische Maßnahmen: 1. Einschränkung der Protestanten, Rücknahme
+					der für sie günstigen landesherrlichen Dekrete. — 2. Möglichkeiten zur
+					faktischen Aufhebung der Dekrete: Neuinterpretation; Nichtigkeitserklärung durch
+					Kaiser; Vorwurf der Nichteinhaltung durch Protestanten; Ausnützen von
+					Reservatklauseln; Erneuerung der Dekrete durch neue Landesherren. — 3. Taktische
+					Überlegungen: keine direkten Aktionen durch Fürsten, sondern katholische
+					Beschwerden auf Landtagen. — 4. Stärkung des katholischen Selbstbewusstseins;
+					Bevorzugung von Katholiken in einflussreichen Positionen nach bayerischem
+					Vorbild. — 5. Verwendung von Steuern durch protestantische Amtsinhaber für
+					Bedürfnisse ihrer Konfession; Anrecht der Katholiken auf gerechten Anteil des
+					Aufkommens. — 6. Einquartierung von Truppen auf Grazer Schlossberg. — 7.
+					Anwendung des Cuius-regio-eius-religio-Prinzips auf Innerösterreich. -— 8.
+					Beschränkung des protestantischen Religionsexerzitiums des landständischen Adels
+					auf seine Sitze. — 9. Erziehung des jungen Ehzgs Ferdinands in Bayern.</p>
+				<p>IV. Generelle Informationen über Verhalten der Bevölkerung und einzelne
+					Persönlichkeiten: 1. Charakter der Deutschen; Unbeugsamkeit des Adels;
+					Widerstand der Städte gegen Fürsten; Bündnisse mit Adel. — 2. Einzelne Personen:
+					Bischöfe, Geistliche, weltliche Beamte. — 3. Schlussformeln.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="4">Zweite Instruktion für Portia - Rom, 1592 April 13</head>
+			<div>
+				<p>I. 1. Profitentur Stiriae, Carinthiae et Carniolae populi sese triplici de causa
+					non solum a sacrorum canonum praeseriptis in iis, quae fidem religionemque
+					attingunt, sed etiam ab imperialibus constitutionibus, quo jure tota Germania
+					uti consuevit, [esse] immunes. Prima causa est, quod se dicunt non bello domitos
+					aut fortiori potentia coactos, sed sponte in Austriacum jus Ottocarici durioris
+					imperii pertaesos concessisse ideoque aequum esse, ut ampliore etiam fruantur
+						libertate.<note xml:id="FN3_00004_01" type="footnote">König Ottokar II.
+						Přzemysl von Böhmen gewann 1251 Österreich, 1260 die Steiermark, 1269
+						Kärnten und Krain; er förderte den niederen Adel und die Städte: Zöllner 112
+						f.</note>Altera est, quod ab Imperatore Ferdinando factam sibi olim
+					Augustanae confessionis<note xml:id="FN3_00004_02" type="footnote"> Die
+						Confessio Augustana wurde auf dem 1530 von Karl V. nach Augsburg
+						einberufenen Reichstag vorgelegt.</note>per omnes ditiones illas exercendi
+					potestatem eamque postmodum ab Archiduce Carolo confirmatam iactitant. Tertio
+					illam rationem adducunt,<pb xml:id="P3_0000016"/> quod sese ex Turcarum
+					propinquitate continuis periculis expositos exactionibus gravibus oneratos
+					magnaque malorum mole pressos; <note xml:id="FN3_00004_03" type="footnote">Die
+						evangelischen Stände machten ihre Zustimmung zu den landesfürstlichen
+						Geldforderungen für die Türkenabwehr wiederholt von der Erfüllung
+						konfessioneller Forderungen abhängig: Rainer GN I, 381, 389; GN II/8, 217
+						f., 227, 241 f., 247 f.</note>haud deceat jugo etiam religionis ingrate
+					affligi.</p>
+				<p>Quae sane fundamenta ab iis allegata sunt absque dubio aut falsa aut absurda, ita
+					ut omnia torqueri in contrarium possint. Si enim maxime sese sponte in
+					Austriacae Domus; patrocinium dedidissent, potuissentne propterea aut pacisci
+					aut postulare, ut fidem a maioribus traditam liceret deserere? At si historicos
+					examinemus, nescio an dediticios an devictos an vero emptitios appellemus. Quae
+					vero a Turco vel pericula imminent vel calamitates premunt, profecto permoneri
+					magis magisque debent, ut per veram fidem verumque Christi cultum omnipotentem
+					Deum sibi reddant propitium et auxiliatorem, cum satis possint animadvertere
+					raro aut nunquam illas a Turcis provincias occupatas, in quibus vera catholica
+					religio viguit et floruit, sed plerumque plagam flagellumque illud in desertores
+					et perfidos intendi et schismata et haereses sic per coelestem vindictam puniri.
+					Exempla nobis ex Asia et Africa suppetunt plurima, utinam non etiam ex Europa:
+					sic Graecia sub iugum missa, sic Thracia, sic Mysia subactae, sic Ungaria fide
+					mutilata, sic Germaniae imminet hostis, quem nulla forte vi facilius, quam fide
+					vera et catholica religione integra propulsare et debellare liceret.</p>
+				<p>2. Jam vero quae de Ferdinandi Imperatoris concessione adducunt, probare nullo
+					modo possunt neque a sane religioso principe sunt verosimilia atque ab Archiduce
+					Carolo importunitate sua temporumque necessitate extorserunt. Sic [res] se
+					habent: Anno 1572, cum Stiriacorum Ordinum conventus Graetzii<note
+						xml:id="FN3_00004_04" type="footnote">Am steirischen Landtag im Februar 1572
+						erhielten nicht nur die Herren und Ritter samt Familienangehörigen, sondern
+						auch ihre Untertanen Gewissens- und Kultusfreiheit: Loserth, Reformation,
+						201; Rainer NB II/8, 248, 254.</note>haberetur finiumque tuendorum ratio per
+					haereticos denegatis contributionibus difficilis esset reddita, ipse Archidux
+					Carolus eo demum ipsorum pertinacia adactus est, ut nobilibus et baronibus illis
+					eorumque uxoribus, liberis, famulis et subditis liberum Augustanae confessionis
+					usum et exercitium in ipsorum dominiis permitteret, dumne illius sectae
+					concionatores, quos impunes alioquin habiturum pollicebatur, contra catholicam
+					religionem more suo debaccharentur, anno denique 1578 Carinthiae et Carniolae
+					nobiles idem sibi, quod Stiriacis, concedi postulavere, et nescio quem, non
+					tamen scriptum, extorsere consensum<note xml:id="FN3_00004_05" type="footnote">
+						Siehe Nr. 1 A 13.</note>. Supplicabat autem tota ditionum illarum nobilitas
+						<pb xml:id="P3_0000017"/>simul, ut idem etiam civibus, quod sibi, circa
+					religionem communiter indulgeretur, resque erat seditioni proxima, ni fuisset
+					illis aliquo modo satisfactum. Promisit igitur Princeps primo se nulli civi
+					circa ipsorum conscientiam capitis capillum velle attingere ac demum haereticae
+					abominationis cathedras passus est in quatuor civitatibus primariis, Graetzii
+					nempe et Juden[burgi] in Stiria, Labaci in Carniola et Clanfurti in Carinthia
+					constitui, ea semper adiecta conditione, ne quispiam catholicae religioni, in
+					qua Serenitas Sua constanter se vivere et mori velle profitebatur, auderet
+					maledicere. Sic postmodum coeperunt in illis regionibus haereses magis magisque
+					invalescere.</p>
+				<p>3. Quae res cum ad Gregorii XIII Pontificis Maximi notitiam venisset maiorumque
+					inde calamitatum initia praeviderentur, misit Sua Sanctitas statim illarum
+					perturbationum initio Bartholomaeum Comitem de Portia<note xml:id="FN3_00004_06"
+						type="footnote">Bartolomeo Portia, 1570 apostolischer Visitator für die
+						Diözese Aquileia; kam 1571 nach Graz, wurde 1573 als Nuntius nach
+						Süddeutschland geschickt und in Innsbruck, München, Salzburg und Graz
+						akkreditiert. Die meiste Zeit hielt er sich in Bayern auf, war aber
+						brieflich oder durch Entsendung seines Sekretärs Minutio Minucci über die
+						Zustände in Graz informiert: Schellhass, NB III/3, XIX f., XXIX f.; Rainer
+						GN I, IX ff.</note>, qui provinciis ipsis diligenter visitatis dataque
+					opera, ne catholica religio eiusmodi vulneribus dilaceretur, iussus est deinde
+					alias etiam Germaniae partes pedestrare, ut quae sana erant confirmaret et quae
+					infirma sanaret. Atque postea substituit ipsi Scalensem Episcopum, qui deinde
+					translatus ad ecclesiam Comensem fuit <note xml:id="FN3_00004_07"
+						type="footnote">Felizian Ninguarda, Generalvikar der Dominikaner für
+						Deutschland, 1577 B. von Scala, ausgedehnte Visitationsreisen, 1588 B. von
+						Como: H. C. III, 183; Schellhass, Ninguarda II, 1 ff., 8 ff.</note>, qui de
+					re cum Archiduce Ferdinando et cum Alberto Bavariae Duce <note
+						xml:id="FN3_00004_08" type="footnote">Ehzg Ferdinand von Tirol und Hzg
+						Albrecht V. von Bayern, gest. 1579.</note>discussis consiliis et comunicatis
+					et populorum saluti et principis conscientiae studuit consulere in eoque opere
+					aliquot annos haud inutiliter posuit. Postea ab eodem Gregorio missus eo fuit
+					eadem de causa Germanicus Marchio Malaspina <note xml:id="FN3_00004_09"
+						type="footnote">Marchese Germanico Malaspina, 1580 Nuntius in Graz, 1583 B.
+						von S. Severo in Apulien, 1584 Nuntius am Kaiserhof in Prag, 1591/92 Nuntius
+						in Neapel und 1592— 1599 Nuntius in Polen, gest. 1604: Rainer GN I,
+						XV—XX.</note>, nunc Sancti Severi Episcopus, quorum opera denique factum
+					est, ut abrogatis maiore ex parte supradictis haereticorum exitiosis impetratis
+					Augustani etiam praedicantes Graetzio expellerentur. Quod populi illi jam
+					falsitatis veneno imbuti usque adeo aegre tulerunt, ut non solum conferre
+					quicquam finium tuendorum causa deinceps recusarent, sed multa etiam seditionis
+					argumenta spargerent.</p>
+				<p>Quae cum contemnenda non viderentur, consultus fuit ab ipso Archiduce Caesar,
+					quidnam eiusmodi in re fieri conveniret. Et responsum <pb xml:id="P3_0000018"
+					/>est haud prudenter factum, quod Archidux uno eodem tempore nobiles, cives et
+					plebem abrogatione priorum decretorum concitaverit; procedendum igitur lenius
+					eoque inprimis exemplo, quo Maiestas Sua in Austria in revocandis Maximiliani
+						<note xml:id="FN3_00004_10" type="footnote">Maximilian II., 1564—1576
+						Kaiser, gewährte den Protestanten Nieder- und Oberösterreichs 1568 die
+						Religions-Konzession und 1571 die noch weiter gehende Religionsassekuration:
+						Zöllner, 197 f.</note>parentis sui concessionibus erat feliciter usa. Ut
+					igitur apud Austriacos principes et apud alios etiam indignum censetur, illud
+					rescindere, quod semel placuisse constet, satius esse judicabatur superiora
+					rescripta nova et genuina interpretatione corrigendo tueri, quam ea irrita
+					facere. Eoque tandem deventum, ut verba illa, quod princeps nullius civis in
+					iis, quae conscientiae sunt, capillum capitis attingeret, sic explicentur, quasi
+					Sua Serenitas eos ad catholicam religionem colendam cogere nollet, non tamen
+					cultum ullum contrarium concederet. Qua explicatione pronuntiata consultatum
+					insuper fuit, ne generali aliquo edicto omnes simul offenderentur, sed initium
+					obedientiae peteretur a Graetzensi senatu et gubernatoribus, qui iussu nobilium
+					ecclesiam, in qua haereticae conciones habebantur, non accedere obtemperarunt;
+					cum vero etiam simul civibus demandaretur, ne filios depravatas scholas ab
+					iisdem nobilibus institutas frequentare sinerent, in eo minus fuit
+					auscultatum.</p>
+				<p>4. Resque ab eo tempore variis fluctibus exagitatae, quotidie deteriores esse
+					coeperunt, ut solent haeretici minimam quamque indulgentiam in [uberiorem]
+					retorquere licentiam et libidinem; si quid vero vicissim praescribitur, unde
+					coerceantur, eius nullam unquam habere rationem. Quod permonere principes omnes
+					maxime deberet, ne quid illis indulgerent unquam aperte, etiam si maxime in
+					quibusdam foret necessario connivendum. Aliquando tanta autem illarum
+					provinciarum cura pium Gregorii Pontificis animum sollicitabat, ut post Comensem
+					et Sancti Severi episcopos etiam Bertinorensem<note xml:id="FN3_00004_11"
+						type="footnote">Giovanni Andrea Caligari begleitete Kardinal Commendone 1566
+						zum Augsburger Reichstag, 1574 Kollektor in Portugal, 1577—1581 Nuntius in
+						Polen, 1579 B. von Bertinoro in der Romagna, 1584 Nuntius in Graz, 1588
+						Sekretär und 1591 Sektionsleiter an der Röm. Kurie, 1593 Rückkehr nach
+						Bertinoro, gest. 1613; Rainer GN I, XII—XVII; De Caro DBI 16, 741
+					ff.</note>ad illas ablegaverit, quippe qui facile animadvertebat, corruptis
+					illis haud facile Italiam ab haeresum contagione diu posse [servari]. Mortuo
+					demum Carolo Archiduce tutoribus relictis Imperatore, Ferdinando Archiduce et
+					Guilhelmo Bavariae Duce, cum provinciae illae viduae Archiducissae <note
+						xml:id="FN3_00004_12" type="footnote">Ehzgin Maria, Tochter Albrechts V.,
+						1571 Heirat mit Ehzg Karl II., verwitwet 1590, gest. 1608: Wehner, Maria;
+						Schwennicke I, 27.</note>quod a Je<pb xml:id="P3_0000019"/>suiticis
+					consiliis pendere ipsam nimis dicerent, gubernationem ferre omnino nollent, de
+					tutorum communi consilio cura illa fuit Archiduci Ernesto demandata, qui cum
+					fidelitatis juramentum a subditis illis acciperet, requisitus vicissim, ut
+					ipsorum privilegia et priorum principum in primis circa religionem edicta rata
+					haberet et iureiurando confirmaret <note xml:id="FN3_00004_13" type="footnote"
+						>Die protestantischen Stände verlangten von Ehzg Ernst vor der Huldigung die
+						Bestätigung der ihnen von Ehzg Karl gewährten Religions-Konzessionen:
+						Mecenseffy, 71 ff.</note>. Abhorruit pius Princeps ab huiusmodi postulatis
+					eo magis, quod formam etiam juramenti ausi illi fuerant impio temerario exemplo
+					praescribere. Neque illa enim erant contenti, quae catholicis communior est, cum
+					sic iurant: Ita me Deus adiuvet et omnes sancti!, sed alteram flagitabant in
+					Passaviensi conventu <note xml:id="FN3_00004_14" type="footnote">Passauer
+						Verhandlung mit Kg. Ferdinand I., 1552.</note>protestantibus proprie
+					reservatam nempe: Ita me Deus adiuvet et sancta evangelia! Qua ipsorum
+					arrogantia stomacatus Archidux duriter cum iis egit, ac re infecta sic
+					discessit, ut videretur paulatim petulantia ipsorum et furor frangi posse. At
+					ipsi, cum hac via conatus non successissent, venerunt statim ad Imperatorem
+					variisque artibus apud ipsum tantum effecerunt, ut rescriptum quoddam elicerent,
+					quo quamvis illis nihil plus quam antea tribuatur, imo jubeantur, etiam modeste,
+					sese fideliter et obedienter adversus principes suos gerere, nihilominus quia
+					apparet simul etiam superiora ipsorum perniciosa privilegia confirmari, magnum
+					cecinere triumphum et laetabundi, quasi profligata iam catholica religione,
+					coeperunt se petulantius agere, ac paulo post haereticos concionatores tribus
+					aliis in oppidis Bruck, Friesach et Leoben, praeter quatuor antea nominata
+					induxisse dicuntur.</p>
+				<p>5. Interim habuit Serenissimus Ernestus illarum provinciarum conventus, alterum
+					Graetzii, cui ipse interfuit, alterum Clagenfurti, cui praeesse Episcopum
+						Gurcensem<note xml:id="FN3_00004_15" type="footnote">Christoph Andreas
+						Spaur, Neffe des Kardinals Christoph Madruzzo, 1574 B. von Gurk, 1577—1584
+						Statthalter in Graz, 1601 B. von Brixen, gest. 1613: Obersteiner, Bischöfe
+						332 ff., Rainer, Biographie 103 ff.</note>virum catholicissimum et optimum
+					iussit, ibique referunt varia contra catholicam religionem a populis illis
+					attentata. Imprimisque petitum, ut civibus et plebi pari iure cum nobilibus
+					liceret agere, alioquin iniquum esse dicentes polliceri neminem in sua
+					conscientia aggravandum et nihilominus divinum cultum secundum ipsam
+					conscientiam prohibere. Omnia propterea mala Carinthiani praecipue
+					comminabantur, ni sibi secundum eorum impietatem satisfieret. Eiusmodi tamen
+					terriculamentis haud moveri se passus est Gurcensis, sed ad Ernestum et ad
+					Caesarem res, prout gerebantur, denunciavit. Sua vero Maiestas temeritatem
+					illorum graviter compescuit severeque<pb xml:id="P3_0000020"/> mandavit, ut sui
+					officii et obedientiae esset unusquisque memor. Sic dimissa comitia sunt ac
+					fidelitatis iuramentum, quod antea recusari videbatur, tandem 19. martii proxime
+					praeteriti praestitum.</p>
+				<p>II. 1. Hic est illarum provinciarum, ad quas Comes de Portia Nuntius Apostolicus
+					a Sanctissimo Domino Nostro [est] ablegatus, hodiernus status. Jam vero
+					examinandum est, quaenam sint adversus tot mala opportuna remedia, per quae
+					labefactatae et collabenti catholicae religioni divina aspirante gratia
+					consulatur. Communis bonorum et malorum opinio est et lamentatio per corruptos
+					ecclesiasticorum mores haereses omnes gigni et foveri; non aliunde igitur quam
+					ex emendatione hac curatio instituenda videtur. Instituetur autem ipsa per
+					diligentem visitationem, in qua illud praecipue animadvertendum erit, ut quod
+					sanari subito non poterit, sic saltem coerceatur, ne serpere latius et
+					contagione quadam vicinos inficere queat. Erit autem necessarium de visitatione
+					ipsa cum Archiduce Ernesto prius convenire, non quidem eo modo, ut ipsius
+					consensus requiri manifesto appareat, sed per ipsius auctoritatem liceat cuncta
+					maiori cum fructu peragere. Quodsi adiungere Sua Serenitas aliquos velit, haud
+					forte erit ab re eos tamquam itineris duces et rectae intentionis testes, non
+					autem tamquam visitatores collegas aut ullo modo participes admittere. Ad quod
+					praecavendum singulari opus erit studio ac dexteritate. Consueverunt enim
+					Austriae archiduces et alii etiam Germaniae principes, quoties illorum locorum
+					ordinarii visitare volunt, suos adiungere ministros, qui coniunctim officium
+					faciant, quod se temporalium bonorum omnium, quibus ecclesiastici fruuntur,
+					patronos et dominos ex antiquis privilegiis vel consuetudinibus esse
+					profiteantur. Immo vero saepe factum est, ut ante visitationem ipsam conveniant
+					episcoporum et archiducum consiliarii modumque communi consilio praescripserint,
+					quo esset in visitatione progrediendum. Quod Austriaci archiduces sibi ob
+					privilegia antecessoribus suis a summis pontificibus concessa licere
+					profitentur. Ea vero, quomodo se habeant, dextere erit investigandum. Dicitur
+					enim nescio quid praecipue circa visitationis jus a Nicolao V imperatoribus
+						concessum<note xml:id="FN3_00004_16" type="footnote">Friedrich III. wurde im
+						sogenannten Wiener Konkordat von 1448 u. a. die Nominierung von
+						Klostervisitatoren zugestanden: Rainer, Kath. Reform 258 f.</note>. Hinc
+					vero antiquae haud leves tum Aquileiensium patriarcharum tum Salisburgensium
+					archiepiscoporum querelae sunt exortae, quarum origines et fundamenta operae
+					pretium erit penitus investigare simulque excogitare consilia, per quae eiusmodi
+					perniciosis compositis controversiis praelati munere suo fungi liberius queant.
+					In quam curam tamquam maxime utilem et necessariam erit diligentissime
+					incumbendum.</p>
+				<pb xml:id="P3_0000021"/>
+				<p>2. At in ipsa inchoanda visitatione eorundem etiam praelatorum consilia et
+					rationes erunt audiendae, ne si quid ipsis inconsultis aggredi contingat, in
+					aliquas incidant suspiciones, quae publicum impediant bonum. Neque haec solum
+					cum vicinis erunt sic disponenda, sed quoniam in iisdem provinciis sunt ditiones
+					aliquae, quae aliis praelatis sunt in temporalibus subiectae, petenda ab illis
+					per litteras omnia illa erunt, quae causae convenire videbuntur. Habet enim non
+					solum Salisburgensis Archiepiscopus temporale dominium in Friesach aliisque
+						locis,<note xml:id="FN3_00004_17" type="footnote">Der Vizedom für den
+						ausgedehnten Besitz in Kärnten saß in Friesach: Fräss-Ehrfeld I,
+						196—204.</note>sed aliae quoque ditiones subsunt Episcopis Bambergensi,
+						<note xml:id="FN3_00004_18" type="footnote">Kaiser Heinrich II. schenkte vor
+						allem Villach und Wolfsberg der Bamberger Kirche: Koller-Neumann, Bamberg 11
+						ff.; Rainer, GN I, 18 ff.</note>Frisingensi et Brixinensi, <note
+						xml:id="FN3_00004_19" type="footnote">Die Freisinger und Brixner Besitzungen
+						waren zurückgegangen und zu dieser Zeit nicht mehr sehr wichtig: Lackner,
+						Christian: Die Lehen des Hochstiftes Brixen in Kärnten und Steiermark, phil.
+						Diss. Innsbruck 1985.</note>quos omnes certum est libenter, quae ad
+					catholicam religionem instaurandam pertinent, consilio et opera adiuturos. Sunt
+					praeterea illis provinciis episcopatus quinque, Seccoviensis in Stiria,
+					Gurcensis et Lavantinus in Carinthia, Labacensis in Carniola et Tergestinus<note
+						xml:id="FN3_00004_20" type="footnote"> Die Bistümer Seckau, Gurk, Lavant,
+						Laibach und Triest umfassten aber nur den kleineren Teil von
+						Innerösterreich, der größere gehörte zu den Diözesen Salzburg und Aquileia:
+						Rainer, Diözesaneinteilung 267 ff.</note>in ea Fori Julii parte, quam
+					ducatum Tergestinum appellant. Hos autem omnes pios, doctos et cordatos esse
+					intelligimus, a quibus consilia sana et auxilia opportuna expectari queant,
+					praecipue a Gurcensi, cuius virtus et zelus insignis rerumque illarum exacta
+					notitia, quippe qui per plurimos annos locumtenentis officium supremum, quo nunc
+					Labacensis post eius spontaneam abdicationem fungitur, diu administravit. Cum
+					hoc igitur praecipue et cum aliis episcopis, quoties occasio feret, erit
+					diligenter fideliterque communicandum.</p>
+				<p>3. Primum studium atque adeo prima maiorque in tota visitatione difficultas circa
+					ecclesiasticorum concubinatum atque utinam etiam non putativa matrimonia
+					versabitur. Paucissimi enim maxime inter minores presbyteros caelibes
+					invenientur. Hoc morbo laborant parochi, laborant monachi et abbates multi,
+					estque is omnium malorum fomes. Offenduntur enim et scandalizantur boni atque
+					mali; nec non monasteriorum ac alia ecclesiastica bona dilapidantur, ut
+					concubinis et liberis de praesenti futuraque sustentatione quomodocunque
+					provideatur. Unde postmodum fuit, ut ad necessarias contra Turcam contributiones
+					erogandas difficiliores existant rationes omniaque caenobia ac alia
+					ecclesiastica beneficia <pb xml:id="P3_0000022"/>aere alieno premantur ac
+					obruantur, ut sic deinde disciplina omnis omnisque regula corruat. Remedia ad
+					mala haec iam inveterata haud quidem facilia, attamen non relinquenda sunt
+					intentata omnibusque elaborandum conatibus, ut visitationis solidi durabilesque
+					fructus ad omnipotentis Dei gloriam constent.</p>
+				<p>Inprimis vero praecavandum est diligenter, ne praelati aut parochi aliive
+					ecclesiastici viri, turpidinis suae conscii, irritari correctionem praesenserint
+					atque aut concubinam emandent, quam revocaturi postmodum sint, aut vero
+					vicinorum nobilium vel satraparum haereticorum patrocinio fulti, visitationem
+					evitare aut eludere praesumant. Ne illud contingat, opus erit sollertia quadam
+					et praecedenti singulari notitia per fideles viros; alterum non erit timendum,
+					si principis in visitatione accesserit auctoritas eaque de causa horum etiam
+					consiliariorum praesentia utilis ac propemodum necessaria esset. At si
+					concubinarii omnes pellendi sint, verendum est, ne quam paucissimi relinquantur
+					in tota provincia pastores.</p>
+				<p>4. Ideoque tria videntur hac in re observanda, quae etiam alibi observata saepe
+					fuere: Primum est, ut ante visitationis initium quaerantur aliunde operarii
+					aliqui idonei vel ex Graetzensi collegio<note xml:id="FN3_00004_21"
+						type="footnote">Dem 1573 gegründeten Jesuitenkolleg in Graz wurde 1578 ein
+						päpstliches Seminar angeschlossen: Rainer, Universität, 31 ff.</note>vel ex
+					aliis locis, habeaturque catalogus, quot et quales sint undeque avocari possint,
+					ut ubi opus fuerit statim constituantur, ad quem usum forte et Germanicum hoc,
+					quae Romae est, Collegium aliquam suppeditabit copiam. Alterum est, quando
+					nullus sit prae manibus, qui [constituatur parochus], binae ternaeve vicinae
+					parochiae uni comendentur pastori. Satius tamen est semel tantum in mense habere
+					plebem sacerdotis copiam quam continua cuiuspiam mali praesentia vel turpiter
+					offendi vel male doceri. Tertium est, ut si quis continentiam quidem clericalem
+					minus custodiat, plebs tamen inde alias non multum percipiat offendiculi, et is
+					ipse sanam doctrinam in omnibus profiteatur et officium suum diligenter
+					praestet, is tantisper toleretur, donec honestiorem substituere liceat. Eiusmodi
+					in genere etiam nemo ad munus, ad quod antea non inveniatur adhibitus, est de
+					novo ex quacunque necessitate promovendus, ac ne quidem in veteri functione
+					tolerandus, nisi per speciem dissimulationis aut per emendationis spem
+					quomodocunque conceptam.</p>
+				<p>5. Verum hoc insuper animadvertendum bonos etiam pastores, qui pauci quidem sunt,
+					plerumque duplici ratione impediri, vel quia per vicinos haereticos potentes
+					nobiles violentia nimis atque iniuriis ad haeresim docendam adiguntur, vel quia
+					iidemet nobiles eorumve subditi debi<pb xml:id="P3_0000023"/>tas decimas non
+					tribuunt sicque paupertate ac vi officium deserere aut alio modo necessitatibus
+					suis succurrere coguntur. Quas iniquitates principum auctoritate propulsare
+					omnino oportebit. In visitatione tota nihil est magis necessarium quam nemini
+					esse ullo modo onerosum et magnopere prohibere, ne ministrorum quispiam ullum
+					vel minimum munus accipiat neve parochi ipsi aut popoli ullo graventur hospitii
+					sumptu, sed omnia appareat cum illis liberaliter pro animarum tantum salute
+					procurari.</p>
+				<p>6. Rationes autem ineundae deinceps erunt, quomodo et catholicae scholae,
+					ubicumque fieri potest, instituantur ac de ludimagistrorum fide quam
+					diligentissima habeatur inquisitio. Tum vero si fieri ullo modo poterit, ut in
+					singulis saltem provinciis, in Stiria, Carinthia et Carniola, singula patrum
+					Societatis Jesu collegia collocentur et episcopi seminaria constituant atque
+					interim tum illi, tum abbates pro facultatum modo iuvenes vel Graetzium vel ad
+					vicinas alias catholicas academias mittant et alant.<note xml:id="FN3_00004_22"
+						type="footnote">Nach Graz wurden in Innerösterreich noch Jesuitenkollegien
+						in Klagenfurt, Laibach, Judenburg und Görz gestiftet.</note>Actum olim
+					fuerat de duobus Cartusianorum monasteriis vacuis, quae obtinuerat antea
+					Cardinalis Delfinus, Saitz et Gairach<note xml:id="FN3_00004_23" type="footnote"
+						> Die Kardinal Zaccaria Delfino als Kommenden zugeteilten Kartausen Seiz und
+						Geirach, damals Untersteiermark, heute Slowenien, wurden für das Grazer
+						Alumnat herangezogen, bald aber wieder den Kartäusern zurückgegeben: Rainer,
+						NB II/8, 58; Dolinar, Jesuitenkolleg, 30 f.; Nr. 317.</note>, eiusmodi operi
+					applicandis; at nescio quibus exortis controversiis iacent illa monasteria
+					fructusque occupantur a fisco; etiam Zagabrense capitulum ea sibi in cuiusdam
+					arcis compensationem concedi postulavit. Investigandum igitur diligenter, ad
+					quem usum maiori cum utilitate converti possint.</p>
+				<p>7. Inquirendum etiam, an ullae essent comoditates ad collegia Frisaci, qui locus
+					Salisburgensis, et Villaci<note xml:id="FN3_00004_24" type="footnote">Siehe Nr.
+						317; Rainer, Ausbildung, 858 ff.</note>, qui Bambergensis paret, construenda
+					vel scholas saltem catholicas erigendas, quarum curam iidem praesules
+					suscipiant. Villacum oppidum est valde opportunum et Italiae ita proximum, ut ex
+					ea haeretica pestis in hanc provinciam serpere facile posset, cum praecipue
+					frequens sit mercatorum transitus et consuetudo. Ideoque curandum quoque
+					studiosius, ut in eo catholica religio instauretur. Occupant haeretici per
+					magnam iniustitiam parochialem ecclesiam, cui saltem recuperandae operam dare
+					conveniet. Administrat nunc ditionem istam canonicus quidam Bambergensis, qui
+					Wolfspergae residet. <note xml:id="FN3_00004_25" type="footnote">Siehe Nr. 308,
+						312.</note>
+					<pb xml:id="P3_0000024"/>Eum dicunt esse catholicum et sacerdotem bonum; cum eo
+					igitur ineunda de omnibus erunt consilia.</p>
+				<p>8. Dispiciendum in eadem visitatione erit, quales fuerint de episcopatibus in
+					Carinthia et in comitatu Goricensi erigendis cogitationes et quare
+						intermissae,<note xml:id="FN3_00004_26" type="footnote">Für das Bistum
+						Völkermarkt war das Augustinerchorherrenstift Eberndorf und für das Bistum
+						Görz die Kartause Franz in Krain vorgesehen: Rainer, Diözesaneinteilung, 267
+						ff.; Nr. 301.</note>an res utilis aut necessaria esse videatur. Destinabatur
+					huic operi praeter alia monasterium Ebernstorffense, quod iam aere alieno
+					gravari quotidie intelligimus. Obstitit consiliis Aquileiensis Patriarcha et
+					Archiepiscopus Salisburgensis, ne silicet suae mutilarentur dioceses. Pertinet
+					tamen ad Apostolicae Sedis curam non privatas cuiuspiam rationes, sed bonum
+					publicum promovere, ut multi iudicant Italiae praesertim ab haeresum contagione
+					vindicandae haud parum prodesse posse, si episcopatus in finibus illis tamquam
+					arx aliqua limitanea construatur, cum maxime Patriarcha et Archiepiscopus variis
+					de causis, quominus ditiones illas visitent et corrigant, multis iam annis vel
+					sua vel aliena culpa impediantur. Cogitandum igitur diligenter et scribendum
+					sine mora, quae in utramque partem commoditates sint quidve videatur
+					expedire.</p>
+				<p>Totius autem et rei gestae seriem et futuri eventus spem atque utilitatem nemo
+					enarrare fidelius poterit quam Wolfgangus Schrantzius<note xml:id="FN3_00004_27"
+						type="footnote">Dr. Wolfgang Schranz, Studium in Wien, 1574 Geheimer Rat in
+						Graz, 1576—1591 Hofvizekanzler: Andritsch 78, 83 f.; Rainer GN II, 290, 297
+						ff.</note>olim cancellarius et consiliarius intimus Archiducis religione,
+					zelo atque prudentia clarus, qui iam consiliis non adhibetur, sed Graetzii apud
+					Archiducissam delitescit. Cuius viri consilia erunt et in reliquis magni
+					facienda.</p>
+				<p>Cogitandum autem, an pro eiusmodi episcopatus, quorum erectio magnis differtur
+					difficultatibus, satius esset eadem de re, quae iis destinabatur, patrum
+					Societatis Jesu collegia Goritiae praecipue instituere<note
+						xml:id="FN3_00004_28" type="footnote">Das Jesuitenkolleg in Görz wurde 1615
+						gegründet: Duhr II/1, 348 f.</note>; ab iis enim magnus absque dubio fructus
+					esset expectandus.</p>
+				<p>III. 1. Post peractam demum visitationem et post communicata oum prudentibus et
+					viris piis ulteriora consilia cogitationes erunt alio convertendae, nempe
+					quomodo haereticorum crescens perpetuo per quotidianas usurpationes insolentia
+					reprimatur. Qua quidem in re multa sunt animadvertenda, quae ignorata conatus
+					omnes irritos facerent. Atque illud inprimis, Austriacos principes, quod supra
+					etiam attigimus, prout et alios quoslibet haud facile induci, ut decreta per
+					illos semel sancita rescindant. Cum vero haeretici huiusmodi decretis semper
+					innitantur, aliae invenien<pb xml:id="P3_0000025"/>dae rationes [sunt], ut illa
+					antiquentur irritaque reddantur. Quod pluribus modis fieri posse creditur.</p>
+				<p>2. Primo per interpretationem, quae iure ad illummet spectat, qui legem condit,
+					prout etiam Archidux Carolus verba illa, quibus se nullius civis capillum
+					capitis circa conscientiam violaturum esse asseruit, explicavit deinde fuisse id
+					sibi in animo, quod neminem ad catholicam religionem colendam compellere, non
+					tamen propterea haereticum exercitium illis conoedere vellet. Altera ratio est,
+					ut per superiorem principem inferioris decreta rescindantur. Ideoque propositum
+					aliquando fuit, ut Imperator extortas malis artibus ab Archiduce Carolo
+					concessiones iniquas sua auctoritate abrogaret subditosque ad fidem et
+					obedientiam graviter admoneret. Tertius est etiam modus ob non servatas
+					conditiones iisdem edictis appositas, quod haeretici nunquam faciunt, si quid in
+					eorum commodum vergit, eo utuntur, si quid vero vicissim iniungitur, parum
+					curant, quemadmodum in eiusdem Caroli Archiducis constitutionibus videre est. In
+					iis enim praecavetur, ne concinionatores Lutherani blasphemias aut convitia
+					contra catholicos effutiant, utque barones et nobiles, quibus alia indulgentur,
+					sectarios cuiuscunque generis exceptos Augustanae confessionis et nominatim
+					Flaccianos, Calvinistas, Zwinglianos, Swenchfeldianos, Anabaptistas et Arianos
+					eiiciant atque veluti pestem publicam abominentur. Quibus tamen conditionibus
+					nequaquam obtemperatur; nam blaterones eo usque impietatis et temeritatis
+					pervenere, ut Graetzii praeter horrendas blasphemias Principem ipsum, fratres et
+					nepotes omnesque oatholicos idolatras, apostatas, mamelucos et desertores
+					christianae fidei publice e concione appellaverint. Sectarii verc multiplices ab
+					ipsis nobilibus tolerantur aut foveantur, ita ut merito adimi etiam ipsis,
+					quicquid per importunitatem fuerat concessum, oporteat. Quarta est etiam via ad
+					infringendas eiusmodi indulgentias ab ipsa indulgentiarum sententia. Consuevit
+					enim Archidux Carolus in plerisque et forte in omnibus clausulas apponere,
+					quibus sibi integrum reservabat, si quando tempora aliter ferrent, vel si
+					discordiae circa religionem componerentur, vel demum si qua controversia desuper
+					inter utriusque religionis consectatores emergeret, quod ad se vel arbitrium vel
+					iudicium vel cuiuscumque generis innovatio pertineret. Quintum demum consilium
+					ad eandem rem idoneum videtur, ut constitutiones aliquae pro temporum
+					necessitate et pro conscientiae debito a filiis moderentur, corrigantur vel
+					deleantur, quemadmodum etiam per Imperatorem Rudolphum circa nonnulla ab
+					Imperatore Maximiliano, eius parente, in religionis materia Austriacis populis
+					permissa et publicis litteris confirmata, meliori consilio postmodum antiquata
+					fuere.</p>
+				<p>3. Prout igitur quidpiam ab adversariis allegabitur, cogitandum erit, an
+					supradictis rationibus aliisque, quae rei ipsius natura praesensque <pb
+						xml:id="P3_0000026"/>notitia suppeditabit, irritum fieri possit. Est illud
+					animadvertendum insuper, quod quicquid principes adimere haereticis et in
+					catholicorum gratiam concedere maxime vellent, nunquam id sponte aut etiam ab
+					Ap.co Nuncio vel ab aliis privatim sollicitati facerent, sed necesse est
+					publicas catholicorum querelas concitare, ut Princeps inter utramque partem
+					iudex constitutus, postmodum quae magis convenire videbuntur, sua auctoritate
+					decernat. Atque id in provincialibus comitiis plerumque attentare conveniet, ut
+					cunctis innotescat debuisse Principem iustas subditorum lamentationes exaudire
+					neque id se in alterius religionis odium facere.</p>
+				<p>4. Ad hunc igitur finem in ipsa visitatione ecclesiastici erunt ad spem et
+					alacritatem aliquam erigendi, ne timeant ius suum et catholicam fidem tueri et
+					propugnare utque in eo se fortiter et audacter gerant, cum praesertim constet
+					ordinem illum unicum plus quam omnes alios simul in patriae necessitatibus
+					contribuere, propterea contemni aut indigne haberi non debere. Exemplis antiquis
+					et recentibus sumus edocti plurimum moveri populos principum beneficiis et
+					nobiles maxime in eo adlaborare, ut aliis sui ordinis praeferrentur; proinde si
+					ea quantum absque magno seditionis periculo cura susciperetur et praefecturae,
+					dignitates, officia, munia administrationesque omnes aut catholicis cederent aut
+					iis saltem, qui catholicae religionis non adversarentur, non dubium est, quin
+					cupiditas et ambitio primo dissimulationem, deinde animi mutationem gigneret. Ea
+					res creditur Bavariae imprimis salutem attulisse. Nam cum duces opera nobilium
+					illorum, quorum religio erat dubia, neo facile poterant ad catholicismi
+					certitudinem perduci, nulla in re uterentur nec filios in aulica ministeria
+					admitterent, factum est, ut paulatim unusquisque, dum domesticis et ornamentis
+					carere se aliosque sibi praeferri aegre patitur, paulatim principis voluntati
+					satisfacere ac demum suae ipsius animae saluti consulere inciperet.</p>
+				<p>5. Illud inter caetera mala etiam in provinciis illis exemplo deterrimo invaluit,
+					quod pecuniis, quae tuendorum finium aliarumque publicarum necessitatum causa
+					decernuntur, exigendis et erogandis, quamvis pars maior, ut dictum est, ab
+					ecclesiasticis et catholicis tribuatur, praeficiantur nihilominus et deputentur
+					haeretici nobiles, qui rem deinde pro libidine et perfidia sua gerunt, ita ut de
+					iisdem tributis ipsorum etiam concionatores et ludimagistri nutriantur et
+					oblationibus fidelium fides ipsa impugnetur. Huic igitur intolerabili morbo
+					medicina est omnino quaerenda dandaque opera, ut una cum haereticis catholici
+					quoque vel ecclesiastici vel saeculares pari numero aut pro contributionum
+					mensura huius pecuniae dispensationi destinentur, quod hactenus in usu semper
+					fuit et in Austria, quae pari iure regi solet, hodie quoque observatur. Ea autem
+						<pb xml:id="P3_0000027"/>ratione fiet, ut de pecunia utilius exponatur et
+					haeretici concionatores et ludimagistri vel stipendiis destituantur vel eorum
+					qui illis adhaerent, impendio ali debeant itaque pauciores forte
+					conducantur.</p>
+				<p>6. Exemplo etiam civitatibus Viennensis operae pretium forsitan esset militarem
+					capitaneum cum praesidio in civitate Graetzensi constituere, qui populum in
+					officio et fide contineret eiusque immineret cervici, quod non sine magno
+					beneficio per Ferrembergerum<note xml:id="FN3_00004_29" type="footnote">Hans
+						Fernberger, Verdienste in Türkenkriegen, 1581 Stadthauptmann von Wien. Von
+						Malaspina für die Besatzung von Graz vorgeschlagen: Rainer, GN I, 325, 329,
+						338.</note>, capitaneum Viennae, fuit superioribus annis factitatum.
+					Graetzii autem propter arcis opportunitatem maiori etiam cum fructu et
+					facilitate fieret.</p>
+				<p>7. Hoc vero habendum praecipue et perpetuo in mente, ut ubicumque opus fuerit,
+					instilletur non deberi Austriacis principibus minus iuris minusque auctoritatis
+					adversus subditos suos quam reliquis in toto Romano Imperio per ipsas imperii
+					constitutiones. Liceat per hasce autem diserte caveri, ne subditus quispiam
+					aliam possit publice profiteri religionem, nisi quam princeps ipse profiteatur.
+					Hoc iure usi Bavariae duces haereticos ab omni sua ditione eliminarunt; eodem
+					argumento Trevirensis archiepiscopus<note xml:id="FN3_00004_30" type="footnote"
+						>Johann VII. Schönberg, 1581 Eb. von Trier, gest. 1599: H. C. III,
+						317.</note>haereticum nullum in suo dominio tolerat; nec aliud fuit
+					Herbipolensis episcopi <note xml:id="FN3_00004_31" type="footnote">Julius Echter
+						von Mespelbrunn, 1573 B. von Würzburg, gest. 1617: H. C. III,
+					209.</note>fundamentum, cum nuper subditos omnes suos aut catholicam religionem
+					amplecti aut longe abire coegit. At non solum catholici hoc iure usi sunt, sed
+					haeretici ipsi vehementius etiam multo. Sic Palatini, sic Saxoni, sic
+					Brunsvicenses, sic Wurtembergenses, Pomerani, Mechelburgenses et alii multi
+					catholicum nullum in suis ditionibus ferunt, ac nec impune quispiam fidem hanc
+					profiteri multoque minus aliquod ius exercitii petere auderet; sed prout eorum
+					quilibet ab una secta ad aliam dilabitur, sic miseros subditos secum volentes
+					nolentes misere trahit. Quae exempla Palatinus dedit hisce temporibus successive
+					multa, si non ridicula saltem deploranda. Eaque iam nunc noverat etiam Saxonia
+					ipsa, suam etiam nunc magis patefacit inconstantiam.</p>
+				<p>In hanc autem sententiam allegant Augustanae confessionis pacta aliorumque
+					Augustanorum et Spirensium concessionum recessus, Passaviensem pacificationem
+					aliasque Imperii constitutiones, quae haud minus catholicis principibus in suis
+					dominiis patrocinantur. Eadem ratione deberent merito posse Austriaci archiduces
+					haereses omnes e suis ditionibus profligare unicumque catholicum cultum, cui
+					ipsi addicti sunt, aliis necessario praescribere, et quidquam in contrarium
+					extorquetur, certum est per summam iniustitiam populorumque arrogantiam,
+					contumaciam ac <pb xml:id="P3_0000028"/>infidelitatem extorqueri. Unde fit, ut
+					minus auctoritatis et imperii in populos sibi subditos Austriacis quam ceteris
+					vel minimis principibus relinquatur, cum tamen ipsorum magnitudo et ingentia in
+					christianam rempublicam merita plus deberent conciliare potentiae et dignitatis.
+					Quo argumento exprobrari opportune aliquorum inobedientia et temeritas, ipsique
+					principes iusta aemulatione ad suam tuendam auctoritatem excitari quandoque
+					possent.</p>
+				<p>8. His vero iisdem fundamentis, si maxime liberi aliqui barones et comites se in
+					propriis ditionibus agere imperiosius sibique principum potestatem vindicare
+					vellent, esto sane, ut in arcibus, castris oppidisque suis quamcumque
+					abominationem exercere praesumant, quo ore tandem, quod sibi temerarie arrogant
+					praeeripere, principi suo contendent, ut illi in oppidis civitatibusque suis
+					avitae religionis verum unicumque usum servare non liceat, cum praecipue Carolus
+					Archidux in omnibus fere decretis, quibus innituntur haeretici, integrum sibi
+					semper esse voluerit, et id diserte pronuntiavit in omnibus locis, quae sibi
+					erant immediate subiecta, divinum cultum pro arbitrio suo instituere, immo vero
+					in interpretatione promissi de non attingendo cuiquam capitis capillo aperte
+					etiam declaraverit malle se vitam et statum amittere quam quidquam in contrarium
+					permittere.</p>
+				<p>9. Archidux Ferdinandus puer, qui futurus est illarum provinciarum haeres et
+					dominus, in Bavaria educatur<note xml:id="FN3_00004_32" type="footnote">Ehzg
+						Ferdinand II. studierte 1590—1595 bei den Jesuiten in Ingolstadt; Nr. 326,
+						328, 329; Duhr I, 63.</note>; saepe autem postularunt populi illi, ut ipsum
+					praesentem haberent, et magnopere refert, ne prius eo veniat, quam firmior aetas
+					ab omni fraude possit esse secura. Admonuit ea de re Sanctissimus Dominus Noster
+					tum Caesarem, tum Bavariae Ducem, nunc si quae novae viderentur machinae ad illa
+					evitanda consilia, operae pretium erit, prout occasio tulerit, studiose
+					impedire. Quod etiam matri viduae ob excellentem ipsius pietatem cordi esse non
+					ignoratur. Eo vero magis in his cogitationibus inhaerere oportet, quod
+					adolescentis ipsius indoles, ingenium et educatio plurima videtur bona
+					polliceri.</p>
+				<p>IV. 1. Iam ne quis putet haec omnia quamvis iustissima et rationibus maxime
+					consentanea, ita subito ac facile executioni mandari posse, ponderanda etiam
+					sunt, quae ad dextere cauteque procedendum permovere magnopere queant. Ea est
+					enim Germanorum natura, ut suavitate quadam et honestis blandimentis facile
+					trahantur, minus vero vi aut metu [...] duriores et obstinatiores reddantur.
+					Atque id imprimis istorum nobilium, de quibus agimus, ingeniis est consentaneum.
+					Intumescunt siqui<pb xml:id="P3_0000029"/>dem tum ob arrogantissimae impietatis
+					continuam impunitatem, tum ob principum exploratam lenitatem, tum vero ob
+					ingentes divitias. Ideoque quotiescumque aliquid illis praeter voluntatem
+					imperatur, repente vel tributa se daturos negant vel seditiones concitant. Sunt
+					vero foedere illis in eadem malitia coniuncti Austriaci et Ungari nobiles,
+					quibuscum omnia sua communicant ac saepe professi sunt malle se Turcicam
+					tyrannidem pati quam catholicum iugum suavissimum subire, quod dicant sub Turca
+					aliquid posse circa facultates gravius contingere, conscientiam tamen
+					uniuscuiusque liberam permanere. Metuendum propterea, ne irritati extrema
+					quaeque aggrediantur. Neque enim ipsorum facile furori resistere esset. Sunt
+					enim, ut antea dicebatur, opulentissimi. Subditos quippe avare crudeliterque
+					emungunt et quoties conferenda, principi pecunia est, plus ab illis exigunt quam
+					dent. Praeter haereditarias ditiones sunt illis arces et oppida multa
+					oppignorata, nituntur, ut supra dictum est, vicinorum nobilium societate,
+					limitanea insuper praesidia, quae fines contra Turcam custodiunt, plerumque ab
+					ipsorum pendent voluntate, et simili laborant morbo. Sic facile omnia magno
+					involverentur tumultu, ad quem ruerent praecipites cives et rustici omnes,
+					deteriorem nullam metuentes conditionem, egeni nempe oberrati, omnibus destituti
+					praesidiis aut spe, nisi quae ex mutatione rebusque novis affulgeat;
+					exhauriuntur enim haec hominum genera tributis gravissimis nec minus etiam
+					nobilium usuris et iniquitate.</p>
+				<p>Quod si quis eos alienare a nobilibus et invicem opponere cogitaret, operam
+					omnino perderet; turbam enim tunc inermem, sine disciplina ulla, solum inopia et
+					desperatione ferocem, praedae tantum cupidam, quis compesceret, quin in unum
+					coacta cuncta pro libidine suaque deferrentur. In ecclesiasticis, si quid
+					eiusmodi contingeret, nulla esset spes; sunt enim plerique vecordes, utinam
+					religione potius innixi quam luxuria turpi effaeminati ac molles,
+					contributionibus insuper exhausti et quarta etiam bonorum parte, non ita pridem
+					divendita, enervati. Quibus quidem de causis quaecunque in provinciis illis
+					libeat attentare, magna opus est prudentia et lenitate, atque nihil omnino
+					videtur tutius quam eorum, qui haec per magnam experientiam nota et perspecta
+					habent, audire consilia adeoque, quantum fieri potest, animum accomodare.</p>
+				<p>2. Postrema igitur instructionis huius pars erit in praemonstrandis hominibus,
+					quorum et prudentiae et integritati fides adhiberi queat. Nominati autem
+					superius fuere Archiepiscopus Salisburgensis; tum vero episcopi quinque:
+					Gurcensis, Seccoviensis, Lavantinus, Labacensis, Tergestinus. Ab his omnibus
+					nonnisi sana salutariaque consilia subministrari poterunt; maximum autem omnium
+					praestabit Gurcensis, qui pietate ac zelo eximio praeditus est publicisque
+					muneribus diu et magna cum laude <pb xml:id="P3_0000030"/>adhibitus. Ad hos
+					igitur omnes brevia etiam a Sanctissimo Domino Nostro dabuntur, ut Ap.cum
+					Nuncium observent et colant magis.<note xml:id="FN3_00004_33" type="footnote">
+						Kredenzbreve an Ehzg Ernst vom 8. April 1592: Nr. 3; Arch. Vat. Arm 44. vol.
+						37, f. 232; die anderen Breven hier nicht eingetragen.</note>
+				</p>
+				<p>Laudatur praeter illos inter praelatos Abbas Hoffman<note xml:id="FN3_00004_34"
+						type="footnote">Johann Hofmann OSB, 1581 Abt von Admont, 1596 Geistlicher
+						Rat von Ehzg Ferdinand II., 1591 Administrator von St. Lambrecht, gest.
+						1614: Wichner 215 ff.</note>, Admontes et nuper Abbas ad D. Lambertum, quo
+					monasterio nullum in partibus illis aut numero aut disciplina est rectius
+					institutum. Erunt et patres Societatis, praesertim vero Emericus Forslerus,
+					Gratzensis collegii rector, et alii. Inter saeculares praecipue, et nominis et
+					auctoritatis, est Baro Cobenzelius <note xml:id="FN3_00004_35" type="footnote"
+						>Hans Kobenzl von Prosegg, 1575—1576 Kaiserlicher Gesandter in Moskau, 1576—
+						1591 Kammerpräsident in Graz, 1591—1594 Geheimer Rat, 1588/89 Kaiserlicher
+						Gesandter in Polen, Bekanntschaft mit dem späteren Papst Klemens VIII. und
+						dessen Neffen Cinzio, 1592 Kaiserlicher Botschafter in Rom, gest. 1594 als
+						Vertreter der Steiermark auf dem Reichstag zu Regensburg: Thiel 181, 206,
+						208; Andritsch 77 f., 82 f.; Noflatscher, Maximilian 95—98.</note>, vir
+					ingenio et politicis artibus excellens, magna rerum notitia praeditus, a quo
+					multa quae ad praeteritam rerum notitiam pertinent cognosci poterunt; plura vero
+					tum de praeteritis tum de futuris a Schrantzio supranominato; consilio, fide,
+					fortitudine et auctoritate valent etiam in illis partibus Ambrosius<note
+						xml:id="FN3_00004_36" type="footnote"> Hans Ambros Graf von Thurn (della
+						Torre), 1581 Geheimer Rat und Obersthofmarschall in Graz, 1581
+						Landeshauptmann in Krain, 1587—1590 Verwalter des Obersthofmeisteramtes:
+						Thiel 181, 203—205; Andritsch 77 f., 82 f.</note>et Sigismundus <note
+						xml:id="FN3_00004_37" type="footnote">Sigismund Graf von Thurn (della
+						Torre), Landeshauptmann in Görz, 1596 Kaiserlicher Botschafter in Rom: Nr.
+						196—198.</note>Comites de Turre, hic parentibus totaque cognitione
+					catholicis alteri, et uxor et fratres sunt haeretici, in ipso tamen integra
+					fides et prudentia est haud parvi facienda; apud ipsum Archiducem Ernestum
+					utilem et fidelem operam patriae et catholicae religioni [...] sunt semper
+					Bagherius, cancellarius, Tergestini episcopi frater<note xml:id="FN3_00004_38"
+						type="footnote"> Johann Bagarin (Wagenring), 1592 B. von Triest, Erzieher
+						Ferdinands II.: H. C. III, 310; Nr. 60, 249.</note>, et Westernachius <note
+						xml:id="FN3_00004_39" type="footnote">Österreichischer Hofsekretär und
+						Sekretär Ehzg Ernsts, gest. 1599: Gross, Reichskanzlei
+					382.</note>secretarius, tum vero Dominus a Bassai<note xml:id="FN3_00004_40"
+						type="footnote"> Hans von Basseyo, Vizedom in Kärnten, 1594 Geheimer Rat:
+						Thiel 206; Rainer GN I, 146 A 5.</note>Carniolus vir insignis sincerusque
+					catholicus ac ipsius Ernesti intimus consiliarius.</p>
+				<p>3. Haec sunt, quae potuerunt in praesentia venire in mentem; caetera ipse Comes
+					coram perspiciet ac industria sua indagabit dabitque operam, ut ex omnium rerum
+					notitia possit deinde ad singula quaeque negotia <pb xml:id="P3_0000031"
+					/>promptas habere rationes, per quas morum emendatio in catholicis instituatur
+					et vera religio dignitatem suam recuperet cunctaque ad omnipotentis Dei gloriam
+					ac in huius Sanctae Sedis Ap.cae auctoritatem redundet. Quae prout a Comite
+					singulari studio, fide et integritate procurabuntur, sic constabunt illi verae
+					virtuti et pietati debita amplissima praemia. Nec Sanctissimum Dominum Nostrum
+					huius poenitebit electionis, cuius iudicio benigno et expectationi piae nefas
+					esset non cumulatissime respondere.</p>
+				<p>Romae, Idibus Aprilis, anno Domini 1592, pontificatus Sanctissimi Domini Nostri
+					Clementis Octavi anno primo.<note xml:id="FN3_00004_41" type="footnote"/>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

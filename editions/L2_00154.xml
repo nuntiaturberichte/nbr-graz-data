@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-03-01" n="1">1584-03-01</title>
+                <title level="a">154. Malaspina an Gallio - Graz, 1584 März 1</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 173r—174v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00154">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1584-03-01" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00153.xml"
+                        >153. Gallio an Malaspina - Rom, 1584 Februar 18</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00155.xml">155.
+                        Gallio an Malaspina - Rom, 1584 März 7</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00153.xml">153. Gallio an Malaspina -
+                        Rom, 1584 Februar 18</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00155.xml">155. Gallio an Malaspina -
+                        Rom, 1584 März 7</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Von Ständen erbetene Gutachten der Universitäten Tübingen und Heidelberg sowie
+                    des Herzogs von Württemberg und des Pfalzgrafen Johann Kasimir wegen des neuen
+                    Kalenders. Wegnahme von Briefen und Einkerkerung des Boten der Stände auf
+                    landesfürstlichen Befehl. Inhalt dieser Briefe aufschlußreich für weiteres
+                    Verhalten gegenüber Häretikern.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="154">Malaspina an Gallio - Graz, 1584 März 1</head>
+            <div>
+                <p>Sono comparsi li deputati quali hanno de assistere a la trattatione<note
+                        xml:id="FN2_00154_01" type="footnote">Der auf Grund einer Einigung am Ende
+                        des Landtages beauftragte Ausschuß wurde für den 27. Februar 1584 einberufen
+                        (Graz LA, Landtagshandlungen 34, f. 41r).</note>et perché insin hora non
+                    hanno presentato a S. A. li gravamini per li quali si sono mossi a domandare la
+                    trattatione et nel convenire con li ecclesiastici si esshibiscono più trattabili
+                    et humani del solito, si fa però giuditio che non siano senza qualche
+                    perturbatione d’animo et sarebbono senza dubio molto più intricati se
+                    penetrassero quello che a questi giorni è occorso. Scrissi a V. S. Ill.ma che
+                    questi predicanti si volevano partire etc. <note xml:id="FN2_00154_02"
+                        type="footnote">Vgl. oben Nr. 142.</note>Hora non potendo li provintiali
+                    mitigare né il dolore conceputo da essi né rimoverli da la resolutione pressa,
+                    al fine che questi ministri diabolici hebbero et né le donne et né gl’huomini
+                    fatto intrare gelosia grandissima, convenirno insieme che si dovesse ricorrere
+                    al giuditio de le università di Tubingha lutherana<note xml:id="FN2_00154_03"
+                        type="footnote"> Bedenken der Theologen von Tübingen und aus Stuttgart über
+                        den neuen Kalender (Graz LA, Landtagshandlungen 35, f. 251v—263v).</note>et
+                    a quella di Heidelberg, <note xml:id="FN2_00154_04" type="footnote"
+                        >Möglicherweise war ein diesbezügliches Schreiben des Heidelberger Rektors
+                        Philipp Marbach unter der Post aus Tübingen und Heidelberg, die dem Boten
+                        der Stände unterwegs in Leoben auf landesfürstlichen Befehl gewaltsam
+                        abgenommen wurde (Loserth, FRA II/50, S. 520).</note>la quale è quasi tutta
+                    calvinista, et che si dovesse nel interim, mentre che si aspettasse il giuditio
+                    et de l’uni</p>
+                <pb xml:id="P2_0000237"/>
+                <p>versità et del duca di Bertemberg<note xml:id="FN2_00154_05" type="footnote"
+                        >Herzog Ludwig von Württemberg.</note>et quello del Casimiro, <note
+                        xml:id="FN2_00154_06" type="footnote">Pfalzgraf Johann
+                    Kasimir.</note>mettere ogni studio, acciò S. A. si deviasse dal far novità ne la
+                    religione, et perciò domandarno la trattatione et con tanta dilatione di tempo,
+                    quanto al computo loro li pareva che dovesse bastare per venire risposta, et
+                    acciò il negotio passasse con maggior authorità et fondamento espedirono un suo
+                    da quelli principi et università in molta diligenza et secreto. Hora è stata
+                    volontà del Signore che nel ritorno di questo loro ambasciatore carico di
+                    lettere et di consigli sia caduto ne le reti et collocato nel castello<note
+                        xml:id="FN2_00154_07" type="footnote"> Es handelte sich dabei nicht um einen
+                        Botschafter, sondern um den Fußboten Bartelmä Prunner (Graz LA,
+                        Landschaftliches Archiv, Reformation 75).</note>et con tanta secretezza, che
+                    li provintiali non l’hanno per ancora penetrato<note xml:id="FN2_00154_08"
+                        type="footnote"> Das stimmt nicht, denn die Verordneten der steirischen
+                        Stände baten bereits am 26. Februar um Aufklärung und am 29. Februar um
+                        Herausgabe der Briefe sowie Freilassung ihres Boten B. Prunner (Loserth, FRA
+                        II/50, S. 518f.).</note>anzi vanno freddamento et dilatando il proporre a S.
+                    A., aspettando vanamente tuttavia d’intendere la resolutione presa da quelli
+                    principi et università.<note xml:id="FN2_00154_09" type="footnote"> Vgl. oben
+                        Anm. 4.</note>
+                </p>
+                <p>Ma perché tarda più del dovero hieri si risolsero di unirse con li loro
+                    predicatori per consultare quello che in tanta loro disgratia si debba et possa
+                    fare, parendo cosa molto desdicevole che siano comparsi qua et fuor del costume
+                    non diano principio a la trattatione, et dal altra parte facendolo non vedono
+                    come poterlo fare essendo privi di partiti et di consigli, onde fu concluso che
+                    si ricorresse a le orationi et in conformità di questo, hieri il loro principal
+                        dottore<note xml:id="FN2_00154_10" type="footnote">Wahrscheinlich Jeremias
+                        Homberger (Mayer, Jeremias Homberger, S. 203ff.).</note>fece una predica
+                    grandemente comendata universalmente da gl’heretici, ne la quale essortò tutti a
+                    la pietà et a supplicare il Sig. Dio, che volesse in una necessità non mancarli
+                    del suo divino aiuto etc. et fu tanto facondo che dicono che commesse tutti a
+                    spargere molte lacrime, fatta la predica se retirorno a formare il scritto che
+                    si dovrà presentare a S. A., <note xml:id="FN2_00154_11" type="footnote"
+                        >Beschwerdeartikel vom 3. März 1583 (Loserth, FRA II/50, S.
+                    521f.).</note>del che, io essendo stato informato, son hora in opera per indurre
+                    gli prelati, che anco essi ne concepischino un altro <note xml:id="FN2_00154_12"
+                        type="footnote">Diesbezügliche Schrift der Prälaten nicht
+                    bekannt.</note>opponendosi al loro et mi servo di molti di quella gravezza che
+                    diede a contemplatione del ill.mo sig. card. Madruccio il stato ecclesiastico ne
+                        la<pb xml:id="P2_0000238"/> dieta imperiale a S. M.tà<note
+                        xml:id="FN2_00154_13" type="footnote"> Gemeint ist der Augsburger Reichstag
+                        von 1582.</note>et spero che la S.tà di N. S. haverà occasione di restare
+                    sodisfatta et edificata di quello che qua si procurarà per opponersi a li iniqui
+                    et impii conati di costoro, et è ben ragionevole che dependendo dal essito di
+                    questa trattatione tutto il negotiato insin hora vivere con molta et
+                    straordinaria sollicitudine et diligenza.</p>
+                <p>Si attende a leggere le lettere intercette le quali per essere numerose et molto
+                    prolisse non è stato possibile di leggerle tutte, si è però veduta la somma de
+                    la petione di questi predicatori, ma quella de li provintiali non si è per
+                    ancora ritrovata, essi argumentano in questa forma doppo d’haver deplorato il
+                    pericolo, nel quale si ritrova la purità evangelica et molto maggiormente le
+                    persone loro, se li provintiali non hanno potuto resistere a li commandamenti
+                    del principe ne la publicatione del calendario,<note xml:id="FN2_00154_14"
+                        type="footnote">Vgl. oben Nr. 138, 142.</note>et che non siano stati
+                    scacciati predicatori sectarii etc. tolte chiese possedute da essi,<note
+                        xml:id="FN2_00154_15" type="footnote"> Vgl. oben Nr. 2, Anm.
+                    2.</note>prohibito al senato l’ascoltare il verbo di Dio <note
+                        xml:id="FN2_00154_16" type="footnote">Vgl. oben Nr. 34, Anm. 1.</note>et
+                    quello che più d’ogni altra cosa importa et è insopportabile et contra la
+                    libertà evangelica l’essere vietato il parlare contra l’antichristo, <note
+                        xml:id="FN2_00154_17" type="footnote">Landesfürstliches Dekret vom 10.
+                        Dezember 1583 gegen den Prädikanten David Tonner, der den Papst einen
+                        Antichrist nannte (Graz LA, Landschaftliches Archiv, Reformation
+                    74).</note>se S. A. instigata dal ministro del papa <note xml:id="FN2_00154_18"
+                        type="footnote">Germanico Malaspina.</note>si disponerà di scacciarli o di
+                    procedere contra le persone loro senza dubio lo potrà fare né potranno li nobili
+                    patrocinarli onde non pare ragionevole che le loro persone che possono apportare
+                    tanta utilità et frutto in altre parti debbano fermarsi qua dove la parte loro è
+                    tanto debole etc.</p>
+                <p>La risposta data ma non pervenuta a le sue mani è tale che quanto al calendario,
+                    parocchie, espulsione etc. loro sono escusati in conscienza havendo fatto quel
+                    che hanno potuto. Quanto al resto che si scrive in buona forma a li provintiali
+                    è che si deve sperare che Dio non abandonerà la causa sua, et che perciò in modo
+                    alcuno si dovevano partire et lasciare la predicatione del verbo di Dio etc. che
+                    quanto a li mali offitii che faceva il cancelliero<note xml:id="FN2_00154_19"
+                        type="footnote">Wolfgang Schranz.</note>che S. D. M.tà l’havrebbe castigato
+                    senza dubio, che del ministro del papa si sarebbe proveduto come loro havrebbono
+                    inteso. Perilche questi consiglieri hanno<pb xml:id="P2_0000239"/> speranza di
+                    ritrovare qualche conventicula contra la persona et vita mia.</p>
+                <p>Noi facciamo giuditio che da la retentione di costui ne debba succedere doi
+                    effetti, che il principe scoprirà la poca fedeltà etiam in politicis de li
+                    provintiali et tutti li loro consigli, et haverà perciò ottima occasione di
+                    castigare severamente alcuni che hanno guidata così fatta prattica, che dal
+                    altra parte li provintiali, oltre il strepito grandissimo che faranno che si
+                    ritenghino li loro huomini et aprino le loro lettere, mai più siano per fidarsi
+                    di S. A.</p>
+                <p>V. S. Ill.ma ha inteso il stato de le cose di qua, il quale senza dubio è per
+                    pigliare a benefitio de la religione cattolica ottima piegha, se S. A. osservarà
+                    quello che con tanta solennità mi hanno promesso . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

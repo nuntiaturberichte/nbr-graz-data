@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00111">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-08-09" n="1">1581-08-09</title>
+                <title level="a">111. Malaspina an Gallio - Admont, 1581 August 9</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 341r-—343v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00111">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-08-09" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2782979">Admont</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00110.xml"
+                        >110. Erzherzog Karl an Malaspina - Eisenerz, 1581 August 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00112.xml">112.
+                        Malaspina an Acquaviva - Admont, 1581 August 9</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00109.xml">109. Malaspina an Gallio -
+                        Graz, 1581 Juli 30</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00113.xml">113. Gallio an Malaspina -
+                        Rom, 1581 August 19</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Guter Anfang der Visitation in Admont. Widerstand der Vasallen Hoffmanns gegen
+                    Einsetzung eines katholischen Pfarrers durch Erzherzog Karl. Umtriebe Hoffmanns
+                    in Prag. Gute Zusammenarbeit mit Kobenzl. Sendung des Jesuitenrektors von Graz
+                    nach Salzburg wegen Errichtung eines Bistums, Seminars und Kirchenrates in
+                    Graz.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="111">Malaspina an Gallio - Admont, 1581 August 9</head>
+            <div>
+                <pb xml:id="P1_0000310"/>
+                <p>Si è cominciata la visita di questo monasterio con l’assistentia de li
+                    commissarii di S. A. et del’ arcivescovo di Salisburgo<note
+                        xml:id="FN1_00111_01" type="footnote">Siehe Nr. 107, Anm. 3.</note>et
+                    insin’hora se bene hanno fatte tra di loro alcune proteste, nondimeno il tutto
+                    passa con molta uniformità et charità, la quale ridonderà in benefitio di questi
+                    paesi et io mi sforzo di conservarla quanto posso et l’una et l’altra parte si
+                    riposa volentieri sopra di me, non havendo havuto instruttione alcuna da loro
+                    signori, se non di governarsi secondo ch’io ordinarò, come sia fornita qua la
+                    visita, se ne instituirà una generale, ché così mi permette l’arcivescovo et io
+                    ne darò poi particolar avviso a V. S. Illma.<note xml:id="FN1_00111_02"
+                        type="footnote"> Siehe Nr. 114 und 117. Von den umfangreichen
+                        Visitationsprotokollen konnten Teile in Graz (Diözesanarchiv, Stifte,
+                        Visitationen), Rom (Nr. 115) und Salzburg (Konsistorialarchiv, Seckau 4/20,
+                        f. 1r—14v) gefunden werden.</note>Ho fatto venire qua un padre del’ ordine
+                    di S. Benedetto che si domanda Hoffmam,<note xml:id="FN1_00111_03"
+                        type="footnote"> Johann IV. Hofmann, 1581—1614 Abt von Admont (Lindner,
+                        Monasticon, S. 48; Wichner, Geschichte des Benediktinerstiftes Admont IV, S.
+                        586 f.). Vgl. Nr. 114.</note>nutrito in Italia et noto al p. Toledo, acciò
+                    mi aiuti ad applicar li rimedii che saranno necessarii a l’infirmità, secondo il
+                    spirito di quel glorioso santo et egli con alcuni altri, che mi verranno di
+                    Salisburgo, resteranno qua per ridurci la forma monastica smarita totalmente.
+                    Questo è un monasterio il più insigne et illustre che sia in questi paesi et ha
+                    sotto di sé 24 parochie et alcune città in temporale et spirituale,<note
+                        xml:id="FN1_00111_04" type="footnote"> Die Zahl ist zu hoch. Im 16.
+                        Jahrhundert gehörten zu dem 1234 errichteten Archidiakonat Admont nur 9
+                        Pfarren oder Vikariate (Erläuterungen zum histor. Atlas II/1, S. 14, 35 und
+                        47—49).</note>però si spera che dandosi qua una forma buona sarà più facile
+                    il risanare le piaghe degli altri, si convocaranno li parochi et non si mancarà
+                    di aiutarli, quanto la necessità richiede<pb xml:id="P1_0000311"/> et la
+                    conditione de tempi ci permette. Io ho condotto meco il padre rettore de
+                    Giesuiti, acciò mi aiuti in questa visitatione.<note xml:id="FN1_00111_05"
+                        type="footnote"> Siehe Nr. 112.</note>
+                </p>
+                <p>Li vassalli di Hoffmam non hanno voluto ritenere il parocho posto da S. A. et
+                    hanno, con l’instigatione del loro padrone, fatta tale resistenza a la volontà
+                    et commissione di S. A., che si sono dechiarati per rebelli.<note
+                        xml:id="FN1_00111_06" type="footnote">Siehe Nr. 108, Anm. 9.</note>Questo
+                    negotio mi ha afflitto grandemente et ha perturbato la consolatione che ho per
+                    la speranza dela reformatione generale. Però V. S. Illma si persuada che sì come
+                    io ho questo senso et l’ho scritto a S. A. <note xml:id="FN1_00111_07"
+                        type="footnote">Schreiben nicht vorhanden.</note>che se a Hoffomam vien
+                    fatto questo, la parte de’ catholici né il principe istesso potrà mai sperare di
+                    perfettionare cosa che tenti, poiché ognuno ardirà di far ciò che l’appetito li
+                    dettarà senza paura di pena; così io non lasciarò di vigilare quanto potrò et
+                    con le supplichevoli mie importunationi vederò di riscaldare la natura di S. A.
+                    et deli ministri, acciò si rimedii al disordine seguito. Il nuntio Cesareo mi
+                    scrive che Hoffmam mostrò in Praga una lettera di S. A. scritta al vescovo di
+                    Bamberga morto, approvando l’elettione fatta de la persona sua per il governo di
+                    Vilacco, lodandolo assai. <note xml:id="FN1_00111_08" type="footnote">Schreiben
+                        nicht vorhanden.</note>Io con buona occasione ne ho scritto una parola a S.
+                    A., non nominando però il nuntio et mi ha rescritto che non è vero, anzi che lei
+                    desidera che sia rimosso, come mi ha più volte detto.<note xml:id="FN1_00111_09"
+                        type="footnote"> Beide erwähnte Schreiben nicht vorhanden.</note>S. A. mi ha
+                    scritto la lettera che sarà con questa mia et il Cobenzolo, in nome di S. A. et
+                    suo, mi raccommanda con ogni affetto il negotio.<note xml:id="FN1_00111_10"
+                        type="footnote"> Nr. 110.</note>Però io non posso lassare di supplicare V.
+                    S. Illma ad haverlo per raccomandato appresso la Stà di N. S. et tanto più
+                    volentieri mi movo, quanto che il Cobenzolo mi aiuta al presente da dovero et
+                    praecipue nel particolare di Hoffmam<note xml:id="FN1_00111_11" type="footnote">
+                        Vgl. Nr. 116.</note>. ..</p>
+                <p>Essendo io tanto vicino a Salisburgo, mi è venuto pensiero di mandare il padre
+                    rettore per intendere la mente del’ arcivescovo circa l’errettione del vescovato
+                    in Gratz et del seminario et de l’instituire la visitatione generale. Non
+                    potendo io, come egli mi accenna, caricarmi più di quello che ultimamente
+                    scrissi a V. S. Illma, il restante è necessario che lo faccia esso,<note
+                        xml:id="FN1_00111_12" type="footnote">Vgl. Nr. 72, S. 197 f., Nr. 85, S.
+                        234, und Nr. 109, S. 308.</note>poiché oltre che li negotii che
+                        occorrono,<pb xml:id="P1_0000312"/> non permettono ch’io sia molto lontano
+                    da S. A. Sarebbe il visitar mio una spesa a N. S. intollerabile, facendosi ne la
+                    forma che si è comminciata. <note xml:id="FN1_00111_13" type="footnote"
+                    />Desidererei ancora che si facesse un consiglio in Gratz ecclesiastico, nel
+                    quale si trattassero et si risolvessero infiniti negotii et querelle de’ parochi
+                    et altri che ogni giorno vengono et S. A. me li fa rimettere et io non posso né
+                    so espedirli solo. <note xml:id="FN1_00111_14" type="footnote"/>Giudica ancora
+                    S. A. che io faccia sapere a l’arcivescovo per huomo fidato il stato del negotio
+                    dela religione, ultimamente havrà cura il rettore di penetrare come si potrebbe
+                    aiutare li buoni pensieri che ha il coadiutore, il quale già per sue lettere mi
+                    ha fatto instantia che desiderarebbe che io le mandassi un mio. <note
+                        xml:id="FN1_00111_15" type="footnote"/>Tutto questo tratterà il rettore,
+                    prima col coadiutore et, secondo il parere et consiglio suo, si governarà. <note
+                        xml:id="FN1_00111_16" type="footnote"/>Ma perché li sopradetti negotii per
+                    perfettionarli ricercano il consenso ancora di S. A., il quale se bene ho havuto
+                    altre volte a bocca, nondimeno lo desiderarci inscritto, ritardarò il mandare il
+                    padre sin tanto che mi consta chiaramente la mente di S. A. et ho così
+                    immaturamente dato parte a V. S. Illma di questo perché il padre mi ha detto
+                    haver scritto al generale suo, <note xml:id="FN1_00111_17" type="footnote"/>che
+                    egli è per andar a Salisburgo a mia instantia et perciò non ho voluto che
+                    pervenghi a la notitia di V. S. Illma, senza mie lettere ancora.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,200 +1,205 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_175.4"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-12-02" n="4">1600-12-02</title>
-                    <title level="a">175.4. San Giorgio an Portia - Rom, 1600 Dezember 2</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 48, 48 Bis, 49, 51 E, 52 A, fol.
-								86r–87r, Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_175.4">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1600-12-02" n="4"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_175.3.xml">175.3. San Giorgio an Portia - Rom, 1600 Dezember 2</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_175.5.xml">175.5. San Giorgio an Portia - Rom, 1600 Dezember 2</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_175.3.xml">175.3. San Giorgio an
-                            Portia - Rom, 1600 Dezember 2</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_175.5.xml">175.5. San Giorgio an
-                            Portia - Rom, 1600 Dezember 2</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Schon vor längerer Zeit wurde durch päpstliche Breven den
-						Kapiteln und Mönchen der von Kardinal von Österreich [Andreas] innegehabten
-						Bistümer und Abteien die freie Wahl eines Nachfolgers zugesichert. Daran
-						kann der am päpstlichen Hof erfolgte Tod des Kardinals nichts ändern. Doch
-						versucht Rom, die jeweiligen Wahlen hinauszuzögern, um eventuell gemäß den
-						Wünschen der Erzherzogin Maria eingreifen zu können.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="175.4">San Giorgio an Portia - Rom, 1600 Dezember 2</head>
-				<div>
-					<pb xml:id="P5_0000427"/>
-					<p>È giunto questa sera, dopo l’esser quasi spedito lo spaccio, il corriero
-						rimandato da V. S. dal quale si sono ricevute le tre lettere sue delli 24 di
-							Novembre<note xml:id="FN5_175.4_01" type="footnote">Nicht
-							auffindbar.</note>, quelle della Ser.ma Arciduchessa Madre<note xml:id="FN5_175.4_02" type="footnote">Nicht auffindbar.</note> et il
-						piego del Vescovo di Seccovia<note xml:id="FN5_175.4_03" type="footnote">Es
-							könnte sich dabei um ein Schreiben Brenners an Kardinal San Giorgio vom
-							21. November 1600 handeln: Carinthia eodem plane modo sicut Styria a
-							nobis reformata est. …, im Volltext gedruckt in: SCHÖFFMANN, S. 111 und
-							SCHUSTER, S. 483 (Anm. 1). Ein iihnlicher Bericht Brenners vom 21.
-							November 1600 befindet sich in: ASDPn, Archivio Porcia-Ricchieri
-							IX.2.54.</note>. In tanta strettezza di tempo non è possibile di
-						scrivere ad altri che a V. S. anco scarsamente, et nel particolare solo
-						della Vacanza del Cardinal d’Austria pia memoria. Intorno alla quale se le
-						dice in sostanza che se ben’è vero che a N. S. ne toccheria per l’ordinaria
-						la collatione come di vacanza di un Cardinale morto in Corte, avviene
-						nondimeno altrimente nel presente caso, havendo ottenuti Brevi un pezzo fa i
-						capitoli delle Chiese elettive che si possedevano da lui, et così li Monaci
-							dell’Abbatie<note xml:id="FN5_175.4_04" type="footnote">Derartige Breven
-							wurden für den Dekan und das Domkapitel von Konstanz, den Dekan und das
-							Domkapitel von Brixen sowie das Kapitel und die Mönche der Klöster
-							Murbach und Lüders/Lure am 5. März 1591 ausgefertigt: ASV, Secr. Brev.,
-							Reg. 177, 27r–29v. Aus einem Schreiben Portias an Eh. Maria geht hervor,
-							dass es sich dabei um Breven aus dem Pontifikat Papst Gregors XIV.
-							handelte: vgl. Portia an Maria, Admont, 1600 Dezember 25, HHStA,
-							Familienkorr. A 42, fol. 24r–25r.</note> che né per il Cardinalato, né
-						per morte che si potesse succedere in Roma si venga a pregiudicare alla loro
-						libera elettione. L’ispediente che si è potuto prendere, morto il Cardinale,
-						per interesse di quei Principi si è preso et è stato di commandare ai
-						capitoli et monaci sudetti, come si commandò per Brevi spediti<note xml:id="FN5_175.4_05" type="footnote">Ein diesbezügliches Breve
-							adressiert an das Kapitel und die Mönche der Klöster Murbach und
-							Lüders/Lure vom 16. November 1600: ASV, Secr. Brev., Reg. 301, fol.
-							312r–313r. Vgl. Nr. 185.1.</note> in diligenza a Monsig. di Veglia
-						Nuntio ai Svizzeri che non venis<pb xml:id="P5_0000428"/> sero alla loro
-						elettione se non un mese dopo la presentatione di essi Brevi, li quali si
-						avverti che non si intimassero o presentassero se non vicino al fine del
-						termine dentro al quale non è loro lecito di eleggere per constitutioni o
-						consuetudini particolari che s’intende essere un altro mese, di maniera che
-						ci fosse maggior spatio di tempo per aspettare la risposta che ci ha portata
-						il corriero. Hora che si è havuta et si è inteso l’animo dell’Arciduchessa,
-						vi si farà sopra la debita consideratione et si delibererà. Et a V. S.
-						soggiungo in questo mentre che è tanta dispositione in N. S. di gratificare
-						alla Ser.ma Arciduchessa et ai Figliuoli che s’indurria facilmente a
-						conceder loro quello che domandano nonostante alcuna cosa in contrario,
-						quando non ci fosse pericolo di tumulto, ma confida S. B.ne che l’autorità
-						dei medesimi Principi farà che sieno eletto et habbiano il loro intento per
-						quella via della quale S. B.ne è anco per gustare maggiormente. Et
-						rimettendomi a quel di più che le dirò con le seguenti in questa et
-						nell’altre materie …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_175.4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-12-02" n="4">1600-12-02</title>
+                <title level="a">175.4. San Giorgio an Portia - Rom, 1600 Dezember 2</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 48, 48 Bis, 49, 51 E, 52 A, fol.
+                            86r–87r, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_175.4">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1600-12-02" n="4"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_175.3.xml"
+                        >175.3. San Giorgio an Portia - Rom, 1600 Dezember 2</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_175.5.xml">175.5.
+                        San Giorgio an Portia - Rom, 1600 Dezember 2</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_175.3.xml">175.3. San Giorgio an
+                        Portia - Rom, 1600 Dezember 2</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_175.5.xml">175.5. San Giorgio an
+                        Portia - Rom, 1600 Dezember 2</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Schon vor längerer Zeit wurde durch päpstliche Breven den Kapiteln
+                    und Mönchen der von Kardinal von Österreich [Andreas] innegehabten Bistümer und
+                    Abteien die freie Wahl eines Nachfolgers zugesichert. Daran kann der am
+                    päpstlichen Hof erfolgte Tod des Kardinals nichts ändern. Doch versucht Rom, die
+                    jeweiligen Wahlen hinauszuzögern, um eventuell gemäß den Wünschen der
+                    Erzherzogin Maria eingreifen zu können.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="175.4">San Giorgio an Portia - Rom, 1600 Dezember 2</head>
+            <div>
+                <pb xml:id="P5_0000427"/>
+                <p>È giunto questa sera, dopo l’esser quasi spedito lo spaccio, il corriero
+                    rimandato da V. S. dal quale si sono ricevute le tre lettere sue delli 24 di
+                        Novembre<note xml:id="FN5_175.4_01" type="footnote">Nicht
+                    auffindbar.</note>, quelle della Ser.ma Arciduchessa Madre <note
+                        xml:id="FN5_175.4_02" type="footnote">Nicht auffindbar.</note>et il piego
+                    del Vescovo di Seccovia<note xml:id="FN5_175.4_03" type="footnote"> Es könnte
+                        sich dabei um ein Schreiben Brenners an Kardinal San Giorgio vom 21.
+                        November 1600 handeln: Carinthia eodem plane modo sicut Styria a nobis
+                        reformata est. …, im Volltext gedruckt in: SCHÖFFMANN, S. 111 und SCHUSTER,
+                        S. 483 (Anm. 1). Ein iihnlicher Bericht Brenners vom 21. November 1600
+                        befindet sich in: ASDPn, Archivio Porcia-Ricchieri IX.2.54.</note>. In tanta
+                    strettezza di tempo non è possibile di scrivere ad altri che a V. S. anco
+                    scarsamente, et nel particolare solo della Vacanza del Cardinal d’Austria pia
+                    memoria. Intorno alla quale se le dice in sostanza che se ben’è vero che a N. S.
+                    ne toccheria per l’ordinaria la collatione come di vacanza di un Cardinale morto
+                    in Corte, avviene nondimeno altrimente nel presente caso, havendo ottenuti Brevi
+                    un pezzo fa i capitoli delle Chiese elettive che si possedevano da lui, et così
+                    li Monaci dell’Abbatie<note xml:id="FN5_175.4_04" type="footnote"> Derartige
+                        Breven wurden für den Dekan und das Domkapitel von Konstanz, den Dekan und
+                        das Domkapitel von Brixen sowie das Kapitel und die Mönche der Klöster
+                        Murbach und Lüders/Lure am 5. März 1591 ausgefertigt: ASV, Secr. Brev., Reg.
+                        177, 27r–29v. Aus einem Schreiben Portias an Eh. Maria geht hervor, dass es
+                        sich dabei um Breven aus dem Pontifikat Papst Gregors XIV. handelte: vgl.
+                        Portia an Maria, Admont, 1600 Dezember 25, HHStA, Familienkorr. A 42, fol.
+                        24r–25r.</note>che né per il Cardinalato, né per morte che si potesse
+                    succedere in Roma si venga a pregiudicare alla loro libera elettione.
+                    L’ispediente che si è potuto prendere, morto il Cardinale, per interesse di quei
+                    Principi si è preso et è stato di commandare ai capitoli et monaci sudetti, come
+                    si commandò per Brevi spediti <note xml:id="FN5_175.4_05" type="footnote">Ein
+                        diesbezügliches Breve adressiert an das Kapitel und die Mönche der Klöster
+                        Murbach und Lüders/Lure vom 16. November 1600: ASV, Secr. Brev., Reg. 301,
+                        fol. 312r–313r. Vgl. Nr. 185.1.</note>in diligenza a Monsig. di Veglia
+                    Nuntio ai Svizzeri che non venis<pb xml:id="P5_0000428"/>sero alla loro
+                    elettione se non un mese dopo la presentatione di essi Brevi, li quali si
+                    avverti che non si intimassero o presentassero se non vicino al fine del termine
+                    dentro al quale non è loro lecito di eleggere per constitutioni o consuetudini
+                    particolari che s’intende essere un altro mese, di maniera che ci fosse maggior
+                    spatio di tempo per aspettare la risposta che ci ha portata il corriero. Hora
+                    che si è havuta et si è inteso l’animo dell’Arciduchessa, vi si farà sopra la
+                    debita consideratione et si delibererà. Et a V. S. soggiungo in questo mentre
+                    che è tanta dispositione in N. S. di gratificare alla Ser.ma Arciduchessa et ai
+                    Figliuoli che s’indurria facilmente a conceder loro quello che domandano
+                    nonostante alcuna cosa in contrario, quando non ci fosse pericolo di tumulto, ma
+                    confida S. B.ne che l’autorità dei medesimi Principi farà che sieno eletto et
+                    habbiano il loro intento per quella via della quale S. B.ne è anco per gustare
+                    maggiormente. Et rimettendomi a quel di più che le dirò con le seguenti in
+                    questa et nell’altre materie …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

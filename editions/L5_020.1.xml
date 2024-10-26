@@ -1,173 +1,182 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_020.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-03-06" n="1">1599-03-06</title>
-                    <title level="a">20.1. Aldobrandini an Portia - Rom, 1599 März 6</title>
-                    <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 39, fol. 37r, Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_020.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                        <date when="1599-03-06" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_019.2.xml">19.2. Portia an Aldobrandini - Rein, 1599 Februar 28</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_020.2.xml">20.2. Aldobrandini an Portia - Rom, 1599 März 6</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_019.2.xml">19.2. Portia an
-                            Aldobrandini - Rein, 1599 Februar 28</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_020.2.xml">20.2. Aldobrandini an
-                            Portia - Rom, 1599 März 6</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Die Forderungen des protestantischen Adels stellen eine
-						Bedrohung für Innerösterreich dar. Hofft auf baldige Nachricht von Portias
-						Reise nach Bamberg. Kardinalsernennung.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="20.1">Aldobrandini an Portia - Rom, 1599 März 6</head>
-				<div>
-					<pb xml:id="P5_0000039"/>
-					<p>Con l’Ordinario solito di Venetia ho ricevuto due lettere di V. S., una delli
-						29 di gennaro, l’altra delli 21 di febraro<note xml:id="FN5_020.1_01" type="footnote">Nr. 6.1, 16.1.</note>. Con la prima continua di
-						significarme lo stato di coteste Provincie et il pericolo in che stanno per
-						l’ostinatione della Nobiltà heretica circa le solite contributioni. Sopra di
-						che non saprei dirle d’avantaggio di quel che le scrissi l’ordinario
-						passato, che questo era negotio di Dio et che si doveva sperare che non
-						l’haverebbe destituito del suo santo aiuto et della sua divina protettione,
-						tanto più vedendo la saldezza con la quale il ser.mo Arciduca camina nelle
-						risolutioni prese contro gli heretici et nemici di S. D. M.tà. Con l’altra
-						lettera delli 21 V. S. dà conto della risolutione che haverà fatta di
-						partire per Bamberga conforme all’ordine datole da N. S., et perché haveva
-						fatto pensiero che la sua partita fosse il secondo o terzo giorno di
-						quadragesima, vi doverà a quest’hora non<note xml:id="SN020.1_a" type="siglum">Ergänzt nach Kopie in DAG.</note> solo essere<ref target="#SN020.1_a">*a)</ref> arrivato, ma cominciato anco a scrivermi
-						di particolari che haverà<note xml:id="SN020.1_b" type="siglum">Ergänzt nach
-							Kopie in DAG.</note> trovati degni di essere<ref target="#SN020.1_b">*b)</ref> intesi da S. S.tà. Per ciascuna delle sudette lettere ho
-						ricevuto un foglio di Cifra<note xml:id="FN5_020.1_02" type="footnote">Beide
-							Chiffrenschreiben sind nicht auffindbar: vgl. Nr. 6.1, 16.1.</note> et
-							con<note xml:id="SN020.1_c" type="siglum">Ergänzt nach Kopie in
-							DAG.</note> l’acclusa mia<note xml:id="FN5_020.1_03" type="footnote">Nr.
-							20.2.</note> va la risposta<ref target="#SN020.1_c">*c)</ref>. Mercordì
-						mattina havessemo la Promotione di tredici Cardinali, come ella vedrà
-						nell’alligata lista<note xml:id="FN5_020.1_04" type="footnote">Konsistorium
-							vom 3. März 1599: vgl. HC 4, S. 5f. Die angekündigte Liste der Kardinale
-							ist nicht auffindbar.</note> che le mando. So che per amor mio ella ne
-						godrà particolarmente …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_020.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-03-06" n="1">1599-03-06</title>
+                <title level="a">20.1. Aldobrandini an Portia - Rom, 1599 März 6</title>
+                <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 39, fol. 37r, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_020.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <date when="1599-03-06" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_019.2.xml"
+                        >19.2. Portia an Aldobrandini - Rein, 1599 Februar 28</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_020.2.xml">20.2.
+                        Aldobrandini an Portia - Rom, 1599 März 6</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_019.2.xml">19.2. Portia an
+                        Aldobrandini - Rein, 1599 Februar 28</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_020.2.xml">20.2. Aldobrandini an
+                        Portia - Rom, 1599 März 6</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Die Forderungen des protestantischen Adels stellen eine Bedrohung
+                    für Innerösterreich dar. Hofft auf baldige Nachricht von Portias Reise nach
+                    Bamberg. Kardinalsernennung.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="20.1">Aldobrandini an Portia - Rom, 1599 März 6</head>
+            <div>
+                <pb xml:id="P5_0000039"/>
+                <p>Con l’Ordinario solito di Venetia ho ricevuto due lettere di V. S., una delli 29
+                    di gennaro, l’altra delli 21 di febraro<note xml:id="FN5_020.1_01"
+                        type="footnote">Nr. 6.1, 16.1.</note>. Con la prima continua di significarme
+                    lo stato di coteste Provincie et il pericolo in che stanno per l’ostinatione
+                    della Nobiltà heretica circa le solite contributioni. Sopra di che non saprei
+                    dirle d’avantaggio di quel che le scrissi l’ordinario passato, che questo era
+                    negotio di Dio et che si doveva sperare che non l’haverebbe destituito del suo
+                    santo aiuto et della sua divina protettione, tanto più vedendo la saldezza con
+                    la quale il ser.mo Arciduca camina nelle risolutioni prese contro gli heretici
+                    et nemici di S. D. M.tà. Con l’altra lettera delli 21 V. S. dà conto della
+                    risolutione che haverà fatta di partire per Bamberga conforme all’ordine datole
+                    da N. S., et perché haveva fatto pensiero che la sua partita fosse il secondo o
+                    terzo giorno di quadragesima, vi doverà a quest’hora non <note
+                        xml:id="SN5_020.1_a" type="siglum">Ergänzt nach Kopie in DAG.</note>solo
+                    essere <ref target="#SN5_020.1_a"/>arrivato, ma cominciato anco a scrivermi di
+                    particolari che haverà<note xml:id="SN5_020.1_b" type="siglum"> Ergänzt nach
+                        Kopie in DAG.</note>trovati degni di essere <ref target="#SN5_020.1_b"
+                    />intesi da S. S.tà. Per ciascuna delle sudette lettere ho ricevuto un foglio di
+                        Cifra<note xml:id="FN5_020.1_02" type="footnote"> Beide Chiffrenschreiben
+                        sind nicht auffindbar: vgl. Nr. 6.1, 16.1.</note>et con<note
+                        xml:id="SN5_020.1_c" type="siglum"> Ergänzt nach Kopie in
+                    DAG.</note>l’acclusa mia<note xml:id="FN5_020.1_03" type="footnote"> Nr.
+                        20.2.</note>va la risposta<ref target="#SN5_020.1_c"/> . Mercordì mattina
+                    havessemo la Promotione di tredici Cardinali, come ella vedrà nell’alligata
+                        lista<note xml:id="FN5_020.1_04" type="footnote"> Konsistorium vom 3. März
+                        1599: vgl. HC 4, S. 5f. Die angekündigte Liste der Kardinale ist nicht
+                        auffindbar.</note>che le mando. So che per amor mio ella ne godrà
+                    particolarmente …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

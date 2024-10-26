@@ -1,175 +1,179 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_089.3"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-11-22" n="2">1599-11-22</title>
-                    <title level="a">89.3. Portia an San Giorgio - Graz, 1599 November 22</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 171r,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_089.3">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-11-22" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_089.2.xml">89.2. Portia an San Giorgio - Graz, 1599 November 22</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_089.4.xml">89.4. Portia an San Giorgio - Graz, (1599 November 22)</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_089.2.xml">89.2. Portia an San
-                            Giorgio - Graz, 1599 November 22</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_089.4.xml">89.4. Portia an San
-                            Giorgio - Graz, (1599 November 22)</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Dank für die bisherige Unterstützung in der Auseinandersetzung mit den
-						Karmelitern von Venedig mit Hilfe des Nuntius von Venedig [Offredi]. Portia
-						bittet um weitere Maßnahmen, da er sich vor allem um seinen Onkel [Girolamo
-						d. Ä.] sorgt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="89.3">Portia an San Giorgio - Graz, 1599 November 22</head>
-				<div>
-					<pb xml:id="P5_0000231"/>
-					<p>Per la causa, ch’io ho tuttavia con li Frati del Carmine V. S. Ill.ma di già
-						mi fece gratia di sue lettere a Monsig. Nontio di Venetia a cui fu commessa
-							l’espeditione<note xml:id="FN5_089.3_01" type="footnote">Vgl. Nr.
-							64.3.</note>, ma il medesimo Monsignore, considerando certi capi et
-						difficoltà che vi si opponevano per esser la cosa stata impedita da altro
-						giuditio, consigliò che si venisse a qualch’accordo et io me ne contentai;
-						con tutto ciò non si è mai potuto venir ad un capo et quando pure lo speravo
-						et che a questo fine è stato chiamato a Venetia il Conte Hieronimo mio zio
-						hormai due mesi sono. Mi scrivono che le cose sono più intricate che mai et
-						che li Frati con loro solite machinationi et mezi straordinari attendono
-						alla prolongatione senz’haver riguardo a qual si voglia suprema auttorità,
-						li quali, se s’anderanno così habituando et che venghino comportati, si
-						potrebbe con tempo in cose maggiori sentire gravissimo danno et pregiuditio.
-						Per tanto supplico V. S. Ill.ma che, parendole spediente di dar conto a S.
-						S.tà di questi continovati andamenti, vogli di nuovo et seriosamente
-						commettere a Monsig. Nontio che senz’altra dilatione debba spedire, perché
-						mi duole in estremo di veder penare in quella Città il sudetto mio zio di
-						età hormai di oltre settant’anni, massime havend’egli cura intiera della mia
-						Chiesa, la quale non può essere ch’in questa lontananza non senta detrimento
-						et non patisca in più modi; et pregando riverentemente V. S. Ill.ma a
-						perdonare il fastidio …<note xml:id="SN089.3_a" type="siglum">Dorsalvermerk
-							des Staatssekretariates, fol. 174v: Faremo informar’ del negotio perché
-							sarà meglio tentar la via del Generale se per questa strada si possa far
-							più facilmente.</note>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_089.3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-11-22" n="2">1599-11-22</title>
+                <title level="a">89.3. Portia an San Giorgio - Graz, 1599 November 22</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 171r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_089.3">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-11-22" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_089.2.xml"
+                        >89.2. Portia an San Giorgio - Graz, 1599 November 22</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_089.4.xml">89.4.
+                        Portia an San Giorgio - Graz, (1599 November 22)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_089.2.xml">89.2. Portia an San
+                        Giorgio - Graz, 1599 November 22</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_089.4.xml">89.4. Portia an San
+                        Giorgio - Graz, (1599 November 22)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Dank für die bisherige Unterstützung in der Auseinandersetzung mit den
+                    Karmelitern von Venedig mit Hilfe des Nuntius von Venedig [Offredi]. Portia
+                    bittet um weitere Maßnahmen, da er sich vor allem um seinen Onkel [Girolamo d.
+                    Ä.] sorgt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="89.3">Portia an San Giorgio - Graz, 1599 November 22</head>
+            <div>
+                <pb xml:id="P5_0000231"/>
+                <p>Per la causa, ch’io ho tuttavia con li Frati del Carmine V. S. Ill.ma di già mi
+                    fece gratia di sue lettere a Monsig. Nontio di Venetia a cui fu commessa
+                        l’espeditione<note xml:id="FN5_089.3_01" type="footnote">Vgl. Nr.
+                        64.3.</note>, ma il medesimo Monsignore, considerando certi capi et
+                    difficoltà che vi si opponevano per esser la cosa stata impedita da altro
+                    giuditio, consigliò che si venisse a qualch’accordo et io me ne contentai; con
+                    tutto ciò non si è mai potuto venir ad un capo et quando pure lo speravo et che
+                    a questo fine è stato chiamato a Venetia il Conte Hieronimo mio zio hormai due
+                    mesi sono. Mi scrivono che le cose sono più intricate che mai et che li Frati
+                    con loro solite machinationi et mezi straordinari attendono alla prolongatione
+                    senz’haver riguardo a qual si voglia suprema auttorità, li quali, se s’anderanno
+                    così habituando et che venghino comportati, si potrebbe con tempo in cose
+                    maggiori sentire gravissimo danno et pregiuditio. Per tanto supplico V. S.
+                    Ill.ma che, parendole spediente di dar conto a S. S.tà di questi continovati
+                    andamenti, vogli di nuovo et seriosamente commettere a Monsig. Nontio che
+                    senz’altra dilatione debba spedire, perché mi duole in estremo di veder penare
+                    in quella Città il sudetto mio zio di età hormai di oltre settant’anni, massime
+                    havend’egli cura intiera della mia Chiesa, la quale non può essere ch’in questa
+                    lontananza non senta detrimento et non patisca in più modi; et pregando
+                    riverentemente V. S. Ill.ma a perdonare il fastidio … <note xml:id="SN5_089.3_a"
+                        type="siglum">Dorsalvermerk des Staatssekretariates, fol. 174v: Faremo
+                        informar’ del negotio perché sarà meglio tentar la via del Generale se per
+                        questa strada si possa far più facilmente.</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

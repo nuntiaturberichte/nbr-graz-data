@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00049">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-12-10" n="2">1580-12-10</title>
+                <title level="a">49. Malaspina an Gallio - Graz, 1580 Dezember 10</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Val. Kunz. Germ. 100, f. 176r—177r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00049">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-12-10" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00048.xml">48.
+                        Gallio an Malaspina - Rom, 1580 Dezember 10</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00050.xml">50.
+                        Graz, 1580 Dezember 10</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00048.xml">48. Gallio an Malaspina -
+                        Rom, 1580 Dezember 10</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00052.xml">52. Malaspina an Gallio -
+                        Graz, 1580 Dezember 14</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Umarbeitung des an die Häretiker gerichteten landesfürstlichen Dekretes. Drängen
+                    auf klare landesfürstliche Entscheidung zugunsten der Prälaten. Neubesetzung der
+                    bambergischen Haupitmannschaft in Kärnten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="49">Malaspina an Gallio - Graz, 1580 Dezember 10</head>
+            <div>
+                <pb xml:id="P1_0000145"/>
+                <p>Havendo io presentito che S. A. stava in procinto di dar risposta al memoriale
+                    de’ provinciali<note xml:id="FN1_00049_01" type="footnote">Siehe Nr. 43, Anm.
+                        4.</note>et che di già un decreto, fatto dal Cobenzolo <note
+                        xml:id="FN1_00049_02" type="footnote">Vgl. Nr. 47.</note>in questo
+                    proposito, era stato approvato dal consiglio, il quale non era indrizzato ad
+                    altro fine che a placare li heretici et non fare novità alcuna in materia di
+                    religione, ma lasciare le cose nel pristino stato, mi risolsi di resentirmene
+                    con il Cobenzolo in forma quasi minatoria, ma mescolata con prieghi ancora,
+                    acciò egli mutasse parere et doppo hebbi audienza da S. A. et piaque a Dio
+                    benedetto che ritrovai un modo sicuro, che il principe conobbe, che era
+                    necessitato non solo di non publicare quello decreto, ma di ordinarne un altro
+                    tutto al opposito, come si è fatto, nel quale S. A. separa totalmente le città
+                    dalli nobili et commanda che in tutti li suoi luoclii non si predichi né si
+                    insegni altra fede che la catholica romana et altre cose buone et necessarie. Et
+                    presto lo <note xml:id="FN1_00049_03" type="footnote">Nr. 50.</note>manderò a V.
+                    S. Illma et è stato formato dal Cobenzolo con maraviglia di S. A. et di tutti li
+                    catholici et il principe dice che ha potuto più l’autorità et timore di S. Stà
+                    con questo huomo, che niuna altra cosa al mondo et tengono questa mutatione
+                    miracolosa.</p>
+                <p>Fra doi giorni S. A. convocherà tutti li provinciali insieme con l’stato
+                    ecclesiastico et lo notificarà. Staremo aspettando che cosa risponderano. Quello
+                    che ho detto in sustanza a S. A. è questo, ciré io havevo già dato parte a S.
+                    S,à come il stato de’ nobili et ecclesiastico havevono dato a lei li
+                        gravamini<note xml:id="FN1_00049_04" type="footnote">Loser Ih, FRA 11/50, S.
+                        70—75 und 76 f.</note>che pretendono et che si stava aspettando che come
+                    principe giusto et di timorata coscienza dovesse solevare quella parte, che
+                    contra ragione era aggravata dal’altra, et che se N. S. havesse inteso che S. A.
+                    non solo non fa questo, ma ciré risponde alli nobili così humanamente et non si
+                    tiene conto delle<pb xml:id="P1_0000146"/> giuste querelle de’ prelati, che S.
+                    Bne sarebbe stata sforzzata, come capo loro, di pigliarci qualche espedienti,
+                    massime che andavo intendendo che li prelati erano risoluti d’haver ricorso alla
+                    Sede Apostolica et che la cosa si sarebbe forsi ridotta a tal stato, che si
+                    sarebbe sospeso che il stato ecclesiastico non contribuisse insin tanto che S.
+                    Stà non havesse inteso le ragioni sue et dato remedio opportuno. Et che però S.
+                    A. che sa molto bene che li prelati non desiderano altro che questo, et che
+                    conosce di quanto detrimento sarebbe il lasciare ridurre il negotio a questo
+                    termine, poiché né il vescovo di Bamberga, né l’arcivescovo di Salisburgo, né
+                    altri che hanno dominii nelli suoi lochi, né li regolari né li ecclesiastici
+                    haverebbeno voluto contribuire, et che vedendo loro che li provinciali non usano
+                    altre armi per ottenere li lor iniqui intenti, che di protestare, che non
+                    contribuirano, che hormai pareva tempo che l’stato ecclesiastico facesse il
+                    moderno ancor’esso. Et che S. Stà non haveva mandato un nontio, perché dubitasse
+                    che S. A. fosse per concedere di nuovo alli heretici, ma acciò revocasse il già
+                    concesso, questo ragionamento, come dice il sig. cancelliero, è stata una
+                    medicina, che ha fatto buona operatione, et che di afflitti ci ha tutti resi
+                    aiegri.</p>
+                <p>Mando a V. S. Illma li nomi de’ tre nobili,<note xml:id="FN1_00049_05"
+                        type="footnote">Di Carintia: Il Raidhaupt vechio provinciale di quella
+                        provincia. Il Baseyo ancora provinciale della medema. Di Styria: Il Traupitz
+                        nativo provinciale di quella provincia; questo signore è al presente
+                        governatore delli lochi del arcivescovo di Salisburgo ma fra un mese
+                        fornisse il tempo (Arch. Vat. Nunz. Germ. 100, f. 178v). Susanne, eine
+                        Tochter W. Schranz’, war seit 1580 mit Hans Raidhaupt zu Rosenperg
+                        verheiratet (Pfaff, Beiträge zur Lebensgeschichte des Hofvizekanzlers Dr. W.
+                        Schranz, S. 102 und 105 f., Anm. 3).</note>che sarebbeno molto a proposito
+                    per governatori nelli luochi del vescovo di Bamberga, et però se le parerà
+                    quando egli domandarà la confirmatione di proponerli. Credo che sarà di servitio
+                    de Dio...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

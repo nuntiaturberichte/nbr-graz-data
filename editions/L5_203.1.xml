@@ -1,192 +1,198 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_203.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-03-17" n="1">1601-03-17</title>
-                    <title level="a">203.1. San Giorgio an Portia - Rom, 1601 März 17</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 52r–53r,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_203.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-03-17" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_202.1.xml">202.1. Aldobrandini an Portia - Parma, 1601 März 16</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_203.2.xml">203.2. San Giorgio an Portia - Rom, 1601 März 17</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_200.1.xml">200.1. San Giorgio an
-                            Portia - Rom, 1601 März 10</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_203.2.xml">203.2. San Giorgio an
-                            Portia - Rom, 1601 März 17</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Freude über die Rückkehr Portias nach Graz. Posteingang. Die Bestätigung der
-						Wahl des Brixner Bischofs [Spaur] ist erfolgt und die Breven an den Kaiser,
-						Erzherzog Ferdinand und das Kapitel von Brixen werden abgesandt. Den vom
-						Weihbischof von Brixen [Feurstein] überbrachten Forderungen des gewählten
-						Bischofs kann nicht nachgekommen werden. Man freut sich über die
-						Bereitschaft des Erzherzogs, sich persönlich an der Grenzsicherung zu
-						beteiligen und hofft auf eine möglichst rasche diesbezügliche Entscheidung
-						am Kaiserhof, sodass Jakob von Breuner aus Prag zurückkehren kann. Der
-						Bischof von Zengg/Senj [De Dominis] berichtet<pb xml:id="P5_0000462"/>
-						Positives, hofft auf die Abberufung des Hauptmannes [Barbo] und die weitere
-						Anwesenheit Rabattas.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="203.1">San Giorgio an Portia - Rom, 1601 März 17</head>
-				<div>
-					<p>Il ritorno di V. S. con salute a Gratz ha quietato in me quel pensiero con
-						che io stavo di sentirlo et hanno le lettere sue delli 5<note xml:id="FN5_203.1_01" type="footnote">Vom 5. Méirz 1601 ist nur ein
-							Bericht Portias an Aldobrandini auf.findbar: Nr. 199.1.</note> che ne
-						portano l’avviso portato insieme argomenti non ordinarii della sua
-						diligenza.</p>
-					<p>Nelle cose di Bressinone non ci è che dirle di qua, se non che al nuovo
-						Vescovo, la confirmatione del quale seguì nell’ultimo concistoro, s’inviano
-						i Brevi che per ricordo di V. S. si sono scritti in favor suo
-						all’Imperatore, all’Arciduca Ferdinando et al Capitolo<note xml:id="FN5_203.1_02" type="footnote">Clemens VIII. an Rudolf II., Rom,
-							1600 März 16: NANNIIMRKONJIé 3, Nr. 13864; Clemens VIII. an Ferdinand,
-							Rom, 1600 März 16: NANNIIMRKONJIé 3, Nr. 13865; Clemens VIII. an das
-							Domkapitel von Brixen, Rom, 1600 März 16: NANNIIMRKONJIé 3, Nr.
-							13867.</note> et che si spedirà il suffraganeo che venne in suo nome et
-						diede un memoriale con diverse petitioni, nelle quali tutte sarà quasi
-						impossibile di sodisfarlo.</p>
-					<p>Il pensiero dell’Arciduca d’intervenire alla guerra in persona è pieno di
-						generosità alla quale è da desiderare che corrisponda la buona fortuna, et
-						se ben crediamo che l’Imperatore non possa se non confirmarcelo, s’intenderà
-						nondimeno volontieri a suo tempo la deliberatione con che ritornerà il
-							Prainer<note xml:id="FN5_203.1_03" type="footnote">Jakob von Breuner
-							(1565–1606), Freiherr von Stübing, Hofmarschall am Grazer Hof
-							(1597–1601), Obersthofmarschall am Kaiserhof (1602–1606). Nur wenige
-							Monate vor seinem Tod wurde er zum Obersthofmeister am Kaiserhof
-							ernannt: vgl. LOSERTH, Akten 2, S. 154; THIEL 1, S. 204; LANJUS, T. 2;
-							SCHWARZ, S. 208f.; WALTEN, S. 132–136; HAUSENBLASOVÁ, S. 207.</note> da
-						Praga, dove non sono così poco note le arti d’Ibraim Bassa<note xml:id="FN5_203.1_04" type="footnote">Damad Ibrahim Pascha (gest. 10.
-							Juli 1601), Großwesir des Osmanischen Reiches (April–Oktober 1596,
-							Dezember 1596–November 1597, Januar 1599–Juli 1601): vgl. ENCYCLOPÉDIE
-							DE L’ISLAM 3, S. 1025f.; EI 3, S. 1000f.</note> che debbano mostrarsi
-						manco accurati nelle provisioni della guerra per la pratica della pace
-						ch’egli rinuova.</p>
-					<p>Da Segna continua quel Vescovo in darci le solite buone nuove delle cose
-						degl’Uscocchi et, quando da quella Piazza si parta il Capitano che la
-						custodiva, sarà facilmente la salute del negotio, affermando così di nuovo
-						il Vescovo medesimo et insistendo che si dia ordine al Rabatta di fermarvisi
-						in ogni modo per qualche tempo<note xml:id="FN5_203.1_05" type="footnote">Vgl. Nr. 197.2.</note>. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_203.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-03-17" n="1">1601-03-17</title>
+                <title level="a">203.1. San Giorgio an Portia - Rom, 1601 März 17</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 52r–53r,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_203.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-03-17" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_202.1.xml"
+                        >202.1. Aldobrandini an Portia - Parma, 1601 März 16</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_203.2.xml">203.2.
+                        San Giorgio an Portia - Rom, 1601 März 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_200.1.xml">200.1. San Giorgio an
+                        Portia - Rom, 1601 März 10</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_203.2.xml">203.2. San Giorgio an
+                        Portia - Rom, 1601 März 17</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Freude über die Rückkehr Portias nach Graz. Posteingang. Die Bestätigung der Wahl
+                    des Brixner Bischofs [Spaur] ist erfolgt und die Breven an den Kaiser, Erzherzog
+                    Ferdinand und das Kapitel von Brixen werden abgesandt. Den vom Weihbischof von
+                    Brixen [Feurstein] überbrachten Forderungen des gewählten Bischofs kann nicht
+                    nachgekommen werden. Man freut sich über die Bereitschaft des Erzherzogs, sich
+                    persönlich an der Grenzsicherung zu beteiligen und hofft auf eine möglichst
+                    rasche diesbezügliche Entscheidung am Kaiserhof, sodass Jakob von Breuner aus
+                    Prag zurückkehren kann. Der Bischof von Zengg/Senj [De Dominis] berichtet <pb
+                        xml:id="P5_0000462"/>Positives, hofft auf die Abberufung des Hauptmannes
+                    [Barbo] und die weitere Anwesenheit Rabattas.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="203.1">San Giorgio an Portia - Rom, 1601 März 17</head>
+            <div>
+                <p>Il ritorno di V. S. con salute a Gratz ha quietato in me quel pensiero con che io
+                    stavo di sentirlo et hanno le lettere sue delli 5<note xml:id="FN5_203.1_01"
+                        type="footnote">Vom 5. Méirz 1601 ist nur ein Bericht Portias an
+                        Aldobrandini auf.findbar: Nr. 199.1.</note>che ne portano l’avviso portato
+                    insieme argomenti non ordinarii della sua diligenza.</p>
+                <p>Nelle cose di Bressinone non ci è che dirle di qua, se non che al nuovo Vescovo,
+                    la confirmatione del quale seguì nell’ultimo concistoro, s’inviano i Brevi che
+                    per ricordo di V. S. si sono scritti in favor suo all’Imperatore, all’Arciduca
+                    Ferdinando et al Capitolo<note xml:id="FN5_203.1_02" type="footnote">Clemens
+                        VIII. an Rudolf II., Rom, 1600 März 16: NANNIIMRKONJIé 3, Nr. 13864; Clemens
+                        VIII. an Ferdinand, Rom, 1600 März 16: NANNIIMRKONJIé 3, Nr. 13865; Clemens
+                        VIII. an das Domkapitel von Brixen, Rom, 1600 März 16: NANNIIMRKONJIé 3, Nr.
+                        13867.</note>et che si spedirà il suffraganeo che venne in suo nome et diede
+                    un memoriale con diverse petitioni, nelle quali tutte sarà quasi impossibile di
+                    sodisfarlo.</p>
+                <p>Il pensiero dell’Arciduca d’intervenire alla guerra in persona è pieno di
+                    generosità alla quale è da desiderare che corrisponda la buona fortuna, et se
+                    ben crediamo che l’Imperatore non possa se non confirmarcelo, s’intenderà
+                    nondimeno volontieri a suo tempo la deliberatione con che ritornerà il
+                        Prainer<note xml:id="FN5_203.1_03" type="footnote">Jakob von Breuner
+                        (1565–1606), Freiherr von Stübing, Hofmarschall am Grazer Hof (1597–1601),
+                        Obersthofmarschall am Kaiserhof (1602–1606). Nur wenige Monate vor seinem
+                        Tod wurde er zum Obersthofmeister am Kaiserhof ernannt: vgl. LOSERTH, Akten
+                        2, S. 154; THIEL 1, S. 204; LANJUS, T. 2; SCHWARZ, S. 208f.; WALTEN, S.
+                        132–136; HAUSENBLASOVÁ, S. 207.</note>da Praga, dove non sono così poco note
+                    le arti d’Ibraim Bassa <note xml:id="FN5_203.1_04" type="footnote">Damad Ibrahim
+                        Pascha (gest. 10. Juli 1601), Großwesir des Osmanischen Reiches
+                        (April–Oktober 1596, Dezember 1596–November 1597, Januar 1599–Juli 1601):
+                        vgl. ENCYCLOPÉDIE DE L’ISLAM 3, S. 1025f.; EI 3, S. 1000f.</note>che debbano
+                    mostrarsi manco accurati nelle provisioni della guerra per la pratica della pace
+                    ch’egli rinuova.</p>
+                <p>Da Segna continua quel Vescovo in darci le solite buone nuove delle cose
+                    degl’Uscocchi et, quando da quella Piazza si parta il Capitano che la custodiva,
+                    sarà facilmente la salute del negotio, affermando così di nuovo il Vescovo
+                    medesimo et insistendo che si dia ordine al Rabatta di fermarvisi in ogni modo
+                    per qualche tempo<note xml:id="FN5_203.1_05" type="footnote">Vgl. Nr.
+                        197.2.</note>. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

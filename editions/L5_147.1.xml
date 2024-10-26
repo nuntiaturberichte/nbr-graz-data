@@ -1,171 +1,178 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_147.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-07-03" n="1">1600-07-03</title>
-                    <title level="a">147.1. Portia an Aldobrandini - Graz, 1600 Juli 3</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 68 CD, fol. 123r,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_147.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1600-07-03" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_146.5.xml">146.5. Aldobrandini an Portia - Rom, 1600 Juli 1</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_148.1.xml">148.1. San Giorgio an Portia - Rom, 1600 Juli 8</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_146.5.xml">146.5. Aldobrandini an
-                            Portia - Rom, 1600 Juli 1</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_148.2.xml">148.2. Aldobrandini an
-                            Portia - Rom, 1600 Juli 8</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia bedauert, Aldobrandini nicht persönlich dienen zu können, wie er es
-						sich gewünscht hatte. Dank Erzherzog Ferdinands für die Zuneigung des<pb xml:id="P5_0000359"/> Kardinalnepoten. Beigelegt wird ein Portrait von
-						Michael dem Tapferen, dem Wojwoden der Walachei.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="147.1">Portia an Aldobrandini - Graz, 1600 Juli 3</head>
-				<div>
-					<p>Poiché per la presente carica non posso havere occasione di servire di vicino
-						a V. S. Ill.ma come è mio singolar pensiero, anderò almeno continuando in
-						questo mio humil et divoto desiderio con quei puochi et deboli effetti di
-						servitù che di lontano potranno derivare da me sinché V. S. Ill.ma<note xml:id="SN147.1_a" type="siglum">Eigenhändige Einfügung Portias.</note>
-							mi<ref target="#SN147.1_a">*a)</ref> commanderà altro, conoscendomi in
-						tanto molto ben aggratiato della benigna volontà che V. S. Ill.ma si degna
-						di mostrare verso di me<note xml:id="FN5_147.1_01" type="footnote">Vgl. Nr.
-							143.3.</note>.</p>
-					<p>Questo Ser.mo Arciduca è rimasto consolatissimo dell’ultima ramentatione
-						ch’io le ho fatta del buono et cortese affetto di V. S. Ill.ma, alla quale
-						perciò m’ha imposto ch’a nome suo aggionga, come faccio, un baciamano, dopo
-						’l quale humilmente alla gratia di V. S. Ill.ma mi raccomando con pregare S.
-						D. M.tà per ogni sua maggior felicità et contento.</p>
-					<p>V. S. Ill.ma et Rev.ma<note xml:id="SN147.1_b" type="siglum">Eigenhändige
-							Ergänzung Portias.</note> alla quale con queste penso di inviare un
-						ritratto di Michele Vaivoda di Valacchia<note xml:id="FN5_147.1_02" type="footnote">Michael der Tapfere (Mihai Viteazul) (1558–1601),
-							Wojwode der Walachei (1593– 1601), Fürst von Siebenbürgen (1599–1600),
-							Wojwode der Moldau (Mai-September 1600). Michael hatte sich 1598 im
-							Vertrag von Tfrgovi�te der Oberhoheit Rudolfs II. unterstellt, dennoch
-							wurde er im Auftrag Giorgio Bastas ermordet: vgl. BLGSO 3, S. 188f.;
-							SCHWENNICKE 3.1, T. 195.</note>, ne ho potuto trovarne più d’uno ch’ho
-						voluto sii di V. S. Ill.ma …<ref target="#SN147.1_b">*b)</ref>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_147.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-07-03" n="1">1600-07-03</title>
+                <title level="a">147.1. Portia an Aldobrandini - Graz, 1600 Juli 3</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 68 CD, fol. 123r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_147.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1600-07-03" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_146.5.xml"
+                        >146.5. Aldobrandini an Portia - Rom, 1600 Juli 1</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_148.1.xml">148.1.
+                        San Giorgio an Portia - Rom, 1600 Juli 8</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_146.5.xml">146.5. Aldobrandini an
+                        Portia - Rom, 1600 Juli 1</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_148.2.xml">148.2. Aldobrandini an
+                        Portia - Rom, 1600 Juli 8</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia bedauert, Aldobrandini nicht persönlich dienen zu können, wie er es sich
+                    gewünscht hatte. Dank Erzherzog Ferdinands für die Zuneigung des <pb
+                        xml:id="P5_0000359"/>Kardinalnepoten. Beigelegt wird ein Portrait von
+                    Michael dem Tapferen, dem Wojwoden der Walachei.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="147.1">Portia an Aldobrandini - Graz, 1600 Juli 3</head>
+            <div>
+                <p>Poiché per la presente carica non posso havere occasione di servire di vicino a
+                    V. S. Ill.ma come è mio singolar pensiero, anderò almeno continuando in questo
+                    mio humil et divoto desiderio con quei puochi et deboli effetti di servitù che
+                    di lontano potranno derivare da me sinché V. S. Ill.ma<note xml:id="SN5_147.1_a"
+                        type="siglum">Eigenhändige Einfügung Portias.</note>mi<ref
+                        target="#SN5_147.1_a"/> commanderà altro, conoscendomi in tanto molto ben
+                    aggratiato della benigna volontà che V. S. Ill.ma si degna di mostrare verso di
+                    me <note xml:id="FN5_147.1_01" type="footnote">Vgl. Nr. 143.3.</note>.</p>
+                <p>Questo Ser.mo Arciduca è rimasto consolatissimo dell’ultima ramentatione ch’io le
+                    ho fatta del buono et cortese affetto di V. S. Ill.ma, alla quale perciò m’ha
+                    imposto ch’a nome suo aggionga, come faccio, un baciamano, dopo ’l quale
+                    humilmente alla gratia di V. S. Ill.ma mi raccomando con pregare S. D. M.tà per
+                    ogni sua maggior felicità et contento.</p>
+                <p>V. S. Ill.ma et Rev.ma<note xml:id="SN5_147.1_b" type="siglum">Eigenhändige
+                        Ergänzung Portias.</note>alla quale con queste penso di inviare un ritratto
+                    di Michele Vaivoda di Valacchia <note xml:id="FN5_147.1_02" type="footnote"
+                        >Michael der Tapfere (Mihai Viteazul) (1558–1601), Wojwode der Walachei
+                        (1593– 1601), Fürst von Siebenbürgen (1599–1600), Wojwode der Moldau
+                        (Mai-September 1600). Michael hatte sich 1598 im Vertrag von Tfrgovi�te der
+                        Oberhoheit Rudolfs II. unterstellt, dennoch wurde er im Auftrag Giorgio
+                        Bastas ermordet: vgl. BLGSO 3, S. 188f.; SCHWENNICKE 3.1, T. 195.</note>, ne
+                    ho potuto trovarne più d’uno ch’ho voluto sii di V. S. Ill.ma …<ref
+                        target="#SN5_147.1_b"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

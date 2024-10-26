@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-09-06" n="1">1580-09-06</title>
+                <title level="a">2. Gregor XIII. an Erzherzog Karl - Rom, 1580 September 6</title>
+                <author ref="#http://d-nb.info/gnd/118697390">Papst, XIII., Gregor</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Ep. ad Principes 22, f. 10r, Minute.<lb/>Ebenda Arm. 44,
+                            vol. 29, f. 10rv, Register.<lb/>Druck: Theiner, Annales eccl. III, S.
+                            135.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00002">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118697390">Papst, XIII., Gregor</persName>
+                    <date when="1580-09-06" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118560069">Österreich, Erzherzog,
+                        Karl</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_002">Papst, XIII.,
+                        Gregor - Österreich, Erzherzog, Karl</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00001.xml">1.
+                        Gallio an Malaspina - Rom, 1580 September 5</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00003.xml">3.
+                        Gregor XIII. an Malaspina - Rom, 1580 September 7</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_002" target="L2_00207.xml">207. Gregor XIII an
+                        Erzherzog Karl - Rom, 1584 Oktober 13</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Beglaubigt Germanico Malaspina als Nuntius am Grazer Hof.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="2">Gregor XIII. an Erzherzog Karl<note xml:id="FN1_00002_01" type="footnote"
+                    >Breven desselben Inhalts und vom gleichen Tag ergingen auch an Erzherzogin
+                    Maria und an Wolfgang Schranz: Arch. Vat. Ep. ad Principes 22 f. 10v, 11r;
+                    ebenda Arm. 44, vol. 29, f. 11r—12r.</note> - Rom, 1580 September 6</head>
+            <div>
+                <p>Fecimus semper omnia libenter quaecunque velle te animadvertimus, hoc autem quod
+                    non tua ipsius causa, immo vero hoc nomine maxime tua, quia Dei ipsius causa
+                    percupere nobilitatem tuam cognovimus, facimus libentissime. Nihil enim potest
+                    nobis iucundius accidere quam ea a catholicis principibus laborari, quae maxime
+                    pertinent ad Dei gloriam catholicaeque religionis amplitudinem, nihil optatius
+                    quam posse nostra auctoritate atque opera illorum pietate inserviri nostroque
+                    muneri satisfieri. Quia igitur cognovimus decrevisse te pro tua praestante
+                    pietate catholicae religionis rebus in tua ditione providere, quaeque adhuc
+                    integra essent conservare, quae depravata restituere, cupere vero aliquem
+                    habere, cuius opera et consilio ad haec uti posses, misimus Alexium Nepesinae
+                    ecclesiae episcopum, quia vero ille in itinere obiit,<note xml:id="FN1_00002_02"
+                        type="footnote">Siehe oben Nr. 1, Anm. 1.</note>mittimus nunc dilectum
+                    filium Germanicum ex marchionibus Malaspinae, utriusque nostrae signaturae
+                        referendarium,<note xml:id="FN1_00002_03" type="footnote"> Siehe oben S. XV
+                        f.</note>nuncium nostrum, quem semper plurimi fecimus propter praestantem
+                    tum generis, tum animi nobilitatem, prudentiam, modestiam, humanitatem,
+                    integritatem, cuius operam ad tam necessarium tamque praeclarum negotium
+                    fructuosissimam fore in Domino confidimus. Non dubitamus nobilitatem tuam
+                    omnibus in rebus, de quibus et in adventu ipso et in posterum tecum aget nostris
+                    verbis, omnem ei fidem tributuram...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

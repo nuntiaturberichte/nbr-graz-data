@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00012">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-10-06" n="1">1580-10-06</title>
+                <title level="a">12. Malaspina an Gallio - Graz, 1580 Oktober 6</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 49r—50r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00012">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-10-06" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00011.xml">11.
+                        Malaspina an Gallio - Graz, 1580 Oktober 4</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00013.xml">13.
+                        Malaspina an Gallio - Graz, 1580 Oktober 9/10</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00011.xml">11. Malaspina an Gallio -
+                        Graz, 1580 Oktober 4</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00013.xml">13. Malaspina an Gallio -
+                        Graz, 1580 Oktober 9/10</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Eingehende Erörterungen mit Vizekanzler Schranz über religiöse Lage. Kämpfe an
+                    Türkengrenze in Kroatien. Beabsichtigte Klage Hoffmanns an Nürnberger Konvent
+                    gegen Papst wegen Einmischung in weltliche Angelegenheiten der deutschen
+                    Fürsten. Beratungen über eventuellen Verkauf der Grafschaft Pisino zur Besserung
+                    der Lage Erzherzog Karls.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="12">Malaspina an Gallio - Graz, 1580 Oktober 6</head>
+            <div>
+                <pb xml:id="P1_0000032"/>
+                <p>S. A. deputò come già scrissi a V. S. Illma il sig. vicecancellero, acciò me
+                    informasi del stato della religione di queste provincie<note
+                        xml:id="FN1_00012_01" type="footnote">Siehe oben Nr. 10.</note>et così S. S.
+                    è stata da me et ha cominciato a mettere in esecutione la mente di S. A., molto
+                    fidelmente a mio parere. Et, perché la materia è longa et è pericolo di
+                    confondersi, si siamo risoluti di trattare il primo giorno l’origine del male et
+                    poi l’argumento et stato suo et quello che si è insin hora fatto per cacciarlo,
+                    et il terzo giorno parlare delli remedii, et qua sta il punto; et domani si
+                    trattarà di questo et io andarò mettendo in ordine ogni cosa per poterne dar
+                    parte a V. S. Illma, come prima potrò, et restò insin hora molto sodisfatto
+                    della risolutione che io feci di ricorrere a S. A. per la informatione di questa
+                    materia.</p>
+                <p>Oggi è venuto aviso a S. A. che il conte de Strinco, figliuolo di quell gran
+                    capitano che si trovò nella presa di Siggetto, essendo andato a depredare nelli
+                    confini della Crovaccia contra Turchi, come qua si suole, si è rincontrato a
+                    caso con un beeg de Bossega Turco, il quale ancora esso andava a danni di
+                    christiani, sì come il conte andava a danni delli Turchi et, essendo venuti alle
+                    mani, il conte ha roto et morto il beeg et ha preso il figliolo et genero suo
+                    con ducenti Turchi et altri tanti cavalli vivi et ha amazzato da trecento
+                    Turchi, attione che qua è piacciuta assai.<note xml:id="FN1_00012_02"
+                        type="footnote">Georg Zriny, Sohn des berühmten Nikolaus Zriny, fügte den
+                        Türken unter Iskender, Sandschak von Posega, eine Niederlage bei. Iskender
+                        fand den Tod, 430 Türken wurden gefangen (Hammer, Geschichte des Osmanischen
+                        Reiches II, S. 511 f.). — Am 11. Oktober 1580 berichtete der venezianische
+                        Gesandte am Kaiserhof bereits über dis Ankunft von Abgesandten des Paschas
+                        von Buda, die sich über die Grenzüberfälle beschwerten, und über
+                        Gegenmaßnahmen der Türken bei Tokaj (Venedig AS, Dispacci Germania, filza 7,
+                        b. 82).</note>
+                </p>
+                <pb xml:id="P1_0000033"/>
+                <p>S. A. ha ancora nova della corte del imperatore ché, havendo il Gran Turco dato
+                    carico a Belerbet, figliolo di Meemet bassa già morto, di un gran numero di
+                    cavalli, venne costui in tanta discordia con un altro bassa, che venero a fatto
+                    d’arma tra di loro et dal’ una et l’altra parte morssero bona quantità de
+                    Turchi. Ma al fine restò superiore Belerbec, il quale, dubitando di non esser
+                    castigato del Gran Turco, se ne passò con quatro milia cavalli al Persiano.<note
+                        xml:id="FN1_00012_03" type="footnote">Vielleicht ist der nach dem Tod des
+                        Großwesirs Sokoli ausgebrochene Streit gemeint (Khevenhiller, Annales
+                        Ferdinandei I, Sp. 182—186; Jorga, Geschichte des Osmanischen Reiches III,
+                        S. 241 f.).</note>
+                </p>
+                <p>Di Fiandra hanno bonissime nove, le quali costà si devono sapere,<note
+                        xml:id="FN1_00012_04" type="footnote">Die optimistischen Hoffnungen über die
+                        Entwicklung in Flandern erfüllten sich aber nicht (Pirenne, Geschichte
+                        Belgiens IV, S. 224 f., 231 f., 248 f., 251 f.).</note>et perciò credono che
+                    non si farà altrimenti il convento in Orrimberga, <note xml:id="FN1_00012_05"
+                        type="footnote">Am 20. September meldete der Nuntius vom Kaiserhof, daß der
+                        geplante Kurfürstentag in Nürnberg von der Entwicklung in Flandern abhänge
+                        (Arch. Vat. Nunz. Germ. 99, f. 343r). Trotz der günstigen Nachrichten wurde
+                        der Plan aber erst Mitte November aufgegeben (Nunz. Germ. 99, f. 369v und
+                        372r).</note>massime aggiongendosi il felice sucesso di Portogallo. <note
+                        xml:id="FN1_00012_06" type="footnote">Am 26. September 1580 war die
+                        Nachricht von der Eroberung Lissabons und ganz Portugals an den Kaiserhof
+                        gekommen (Arch. Vat. Nunz. Germ. 99, f. 349v).</note>
+                </p>
+                <p>La temerità di quell Offmam è ridota a tal termine, che scrive qua che vuol
+                    andare a dare una querela a S. Stà in questo convento di Orrimberga, perché S.
+                    Bne se intromette nelle cose temporali delli principi di Germania, et qua in
+                    consiglio proponendosi questo suo proposito non ha lasciato | : Giovanni
+                    Cobenzel : | al solito di mantenere che ha ragione et che egli non cognosce
+                    manco nelle cose temporali per superiore S. Stà, ma come vescovo sì, et questo è
+                    quello che scrivo nel altra mia,<note xml:id="FN1_00012_07" type="footnote">Nr.
+                        11.</note>che havrei procurato di sapere.</p>
+                <p>Si è trattato nel consiglio hieri che S. A., et per pagare delli debiti et per
+                    desimpegnarsi et per poter resistere a questi provinciali, parlò de’ baroni et
+                    nobili, quali, vedendolo in tanta necessità, lo astrengono a condescendere a
+                    cose senza dubio aliene dalla mente di S. A. in materia della religione,<note
+                        xml:id="FN1_00012_08" type="footnote">Schon am Landtag 1572 wurde Erzherzog
+                        Karl genötigt, für finanzielle Bewilligungen der Stände religiöse
+                        Konzessionen zu gewähren (Loserth, Reformation und Gegenreformation, S. 177
+                        ff.; derselbe, Religionspacification, S. 1 ff.; Rainer, Nuntiaturberichte
+                        II/8, S. 247 f.).</note>che S. A. debba vendere un contato<pb
+                        xml:id="P1_0000034"/> domandato Pissino nella provincia d’Histria,<note
+                        xml:id="FN1_00012_09" type="footnote"> Grafschaft Pisino.</note>che frutta
+                    14 mila scudi de intrata et è richo de boschi con legnami boni per armate. Sono
+                    in ogni modo risoluti di venderlo, ma non vorrebbono darlo |: a Venetiani :| in
+                    modo alcuno, se bene sano che sarebbe paggato benissimo. Se il granduca o altri
+                    volessero attender a questa pratica, riuscirebbe senza dubio et sarebbe di
+                    grandissimo servitio per la religione, non essendo certissimo che se questo
+                    principe fosse desimpegnato et non in tanta necessità, farebbe qualche bona
+                    risolutione.</p>
+                <p>Ho voluto che per ogni rispetto V. S. Illma lo sapia; dicono che in un giorno et
+                    in una notte si può andare in Ancona.<note xml:id="FN1_00012_10" type="footnote"
+                        >Pisino wurde nicht verkauft, sondern blieb bis 1918 österreichisch. Vgl.
+                        Nr. 74.</note>...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

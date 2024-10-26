@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00016">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1580-10-17" n="1">1580-10-17</title>
+				<title level="a">16. Malaspina an Gallio - Graz, 1580 Oktober 17</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 73r—81r, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00016">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1580-10-17" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00015.xml">15.
+						Gallio an Malaspina - Rom, 1580 Oktober 15</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00017.xml">17.
+						Graz, 1580 Oktober 21</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00015.xml">15. Gallio an Malaspina -
+						Rom, 1580 Oktober 15</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00019.xml">19. Malaspina an Gallio -
+						Graz, 1580 Oktober 30</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Aussprachen mit Kanzler Schranz und Erzherzog Karl über Vorverlegung des
+					Landtages, sich dabei eventuell ergebende Gefahren sowie Maßnahmen zum Wohle der
+					katholischen Religion. Bitte um Instruktion für Verhalten am Landtag. Frage der
+					Bischofswürde für umstrittenen Polydor de Montagnana. Erzherzogliches Ersuchen
+					um päpstliche Hilfe für Türkengrenze. Bestätigung des Salzburger Koadjutors.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="16">Malaspina an Gallio - Graz, 1580 Oktober 17</head>
+			<div>
+				<pb xml:id="P1_0000060"/>
+				<p>Dalla mia lettera delli 12 del presente<note xml:id="FN1_00016_01"
+						type="footnote">Nr. 14: Ausführlicher Bericht über die Verhandlungen
+						Malaspinas mit dem Hofvizekanzler — so der offizielle Titel — Wolfgang
+						Schranz.</note>V. S. Illma havrà potuto vedere quello che con la
+					participatione di S. A. si era concluso tra il sig. cancellerò et me, in materia
+					di ritrovar forma per sollevare in qualche parte l’afflita religione catholica
+					di questi stati. Doi giorni doppo S. A. mandò da me il sig. cancellerò et mi
+					fece intendere che haveva maturamente considerato sopra quello che tra noi si
+					era trattato, et sì come mi haveva fatto dire che approvava ogni cosa et che le
+					pareva unico et necessario remedio et che mi restava obligato che mi fossi
+					affaticato con tanto zelo et charità per suo servitio, che così al presente era
+					del medemo senso; ma che, essendo la dieta così prossima<note
+						xml:id="FN1_00016_02" type="footnote"> Der Landtag wurde am folgenden 21.
+						November eröffnet (Nr. 37).</note>et non si potendo in modo alcuno
+					differire, che giudicava che non si poteva a quel tempo havere in pronto quelli
+					remedii da noi stabiliti, et che però egli haveva pensato di anticipare il tempo
+					della dieta, nella quale mi prometteva che non havrebbe permesso cosa in
+					detrimento della religione catholica, anzi sarebbe andato pensando di romperla
+					con li heretici, o vero che havrebbe lasciato ogni cosa suspeso, dicendo alli
+					provinciali che vuol fare un’altra dieta et che alhora si tratterà della materia
+					della religione, et servirsi a quell tempo delli mezzi da noi proposti per
+					reprimere l’arogantia di costoro et revocare le concessioni già date. Et in
+					evento che non volessero contribuire alli confini del Turco, che era parato per
+					far la separatione delli stati da noi propostela, ma molto prima dalli principi
+					suoi parenti. <note xml:id="FN1_00016_03" type="footnote">Die Separation der
+						Stände wurde auf der Münchner Konferenz vorgeschlagen (Loserth, FRA II/50,
+						S. 38).</note>Et che nella seconda dieta si sarebbe poi trattato del modo di
+					castigare quelli doi stati di baroni et nobili con autorità et aiuto delli
+					principi soi amici, parenti et convicini; et che non si poteva se non fermamente
+					persuadere che in questo caso le città non fossero perseparare dalli doi stati,
+					se bene sono infetate, et che il simile credeva del stato ecclesiastico, tanto
+					più se io l’havessi inanimato et tenuto fermo nella bona intelligentia seco. Et
+					quanto al suplemento de’ danari, che le bastava l’animo di trattenere sei mesi
+					con solo le contributioni delli doi altri stati, et che interim Dio l’havrebbe
+					aiutato, et che di più sapeva che li provinciali havevono tanta paura della
+					venuta del nontio, <note xml:id="FN1_00016_04" type="footnote">Die evangelischen
+						Stände verlangten später die Entfernung des Nuntius, einer unerhörten
+						Neuerung, von der sie nichts Gutes erwarteten (Nr. 42; Graz LA,
+						Landtagsakten 421; Loserth, FRA II/50, S. 65 und 73).</note>che credeva che
+					pochi d’essi sarebbono venuti alla dieta.<pb xml:id="P1_0000061"/> Mi rifferisse
+					il sig. cancellero che allora le rispose: Signore, li altri consiglieri mei
+					compagni non dicono così, et in spetie il Cobenzzolo, il quale dice che vorebbe
+					che le sopravenesse la febre, per non ritrovarsi presente alli rumori, che hanno
+					da fare li provinciali in questa dieta. <note xml:id="FN1_00016_05"
+						type="footnote">Über die Haltung Kobenzls vgl. unten Nr. 40.</note>
+				</p>
+				<p>S. A. disse che se immaginava che li consiglieri, et particolarmente il
+					Cobenzzolo, havessero per il passato scritto alli provinciali, secondo il loro
+						costume,<note xml:id="FN1_00016_06" type="footnote">Kobenzl hatte sich
+						bereits 1572 sehr um das Zustandekommen der Religionspazifikation bemüht und
+						dafür von den evangelischen Ständen ein Ehrengeschenk bekommen (Loserth,
+						Reformation und Gegenreformation, S. 203). Dem Nuntius am Kaiserhof war er
+						damals schon suspekt (Rainer, Nuntiaturberichte II/8, S. 202).</note>che
+					stessero saldi et fermi che havrebbono ottenuto ogni cosa et che, vedendo hora
+					il nontio presente et che ha spirito da resisterle, che temono, et in spetie il
+					Cobenzzolo, il quale, havendo interesse con S. Bne, non potendo in presentia del
+					nontio favere partes hereticorum, perciò essendo confuso vorebbe essere
+					absente.</p>
+				<p>Io, veduta questa repentina non dico mutatione, ma alteratione del negocio, mi
+					turbai grandemente et tutto pieno di suspittione et timore di non esser burlato
+					et che S. A. non havesse fatti partecipi quelli del consiglio di ogni cosa tra
+					il sig. cancellero et me trattata, massime che, quando fu concluso di anticipare
+					la dieta, non fu chiamato in consiglio il sig. cancellero et a me non fu dato
+					parte, se non dopo il fatto, dissi chiaramente al sig. cancellero che si
+					gardassero per amore di Dio di non canonizzare quello che Offmam scrive, cioè
+					che S. A. non diceva da dovero in materia di religione, et ciò che faceva era
+					tutto indrizzato per dare tratenimenti a S. Stà, et che io, come ministro che fo
+					professione d’homo da bene et fidele al mio padrone, se havessi subodorato cosa
+					simile, non havrei potuto dissimulare et sarei stato sforzzato di scrivere il
+					vero, et che in questo havrei contra mia volontà alterata la mia massima che è
+					di conservare et augumentare la bona intelligentia che è tra S. A. et S. Bne,
+					dalla quale è amata et stimata con uno singular affetto di paterna charità, che
+					io non dicevo già queste parole, perché lo credessi, anzi che speravo nella
+					bontà et pietà di S. A. ogni altra cosa; ma che, havendo osservato che nelle
+					diete passate li heretici havevono al fine ottenuto ogni loro iniquo intento, et
+					che S. A. se l’era passata con un re buffo, che hormai era tempo di mettere mano
+					ad altri mezzi; che se nella dieta S. A. <pb xml:id="P1_0000062"/>havesse
+					presente il nontio condeseso alla volontà loro sotto qualsivoglia urgente
+					pretesto, che l’autorità di S. Stà havrebbe patito detrimento notabile et
+					sarebbe cresciuto l’orgoglio delli heretici, in modo che, essendoli sucessa
+					questa attione, per l’avenire non temerobbono potestà alcuna.</p>
+				<p>Et che se nelle diete passate costoro havevano fatto rumore grandissimo, non
+					havendoli data occasione alcuna il principe, quanto maggiormente l’havrebbono
+					fatto hora che S. A. haveva fatto attioni de direto contra la libertà loro et
+					concessioni, che pretendono d’havere, come nel’altra mia ho avisato a V. S.
+					Illma, de’ quali sono così ardenti defensori, et che perciò io temevo che il
+					rumore loro non fosse notabile ché, come sono tochi, fanno apunto come è
+					scritto. Tange montes et fumigabunt. Et che se S. A. pensava che il nontio
+					potesse a poco a poco andar remediando egli solo, che sapeva bene che era
+					impossibile, et se voleva con questo mezzo far cognoscere al nontio che non
+					poteva resistere, et che perciò era non solo escusato di quello che per il
+					passato haveva concesso, ma se per l’avenire havesse fatto di più ; che quanto a
+					me sarei stato in perpetuo di opinione contraria et sì come quelli principi, con
+					quali S. A. haveva consultato,<note xml:id="FN1_00016_07" type="footnote"
+						>Gemeint sind die Beratungen Erzherzog Karls mit Erzherzog Ferdinand und
+						Herzog Wilhelm auf der Münchner Konferenz (Loserth, FRA II/50, S.
+						36).</note>havevono concluso, che il remediare era cosa fattibile, che al
+					simile S. Stà et tutti li principi christiani sarebbono stati del medemo senso
+					et parere et havrebbono espressamente cognosciuto che non la impossibiltà, ma
+					altri rispetti impedivono che non si facesse qualche notabile frutto a beneficio
+					della religione catholica.</p>
+				<p>Io parlai al corde et core totalmente rivuolto a beneficio di S. A. et de tutti
+					li populi suoi, et le soggionsi ancora che, oltre al’ essere ministro di S. Stà
+					che desidera così affettuosamente l’utile et quiete di S. A., che io, come
+					vassallo del’imperatore<note xml:id="FN1_00016_08" type="footnote">1514 wurde
+						von Kaiser Maximilian I. festgestellt, daß die Malaspina gemäß allem Recht
+						unmittelbar vom Reiche abhingen (Litta, Famiglie celebri IV, tav.
+						XI).</note>et per consequentia di tutta la serenissima sua familia, sentivo
+					particular dolore di vedere le cose come insin’hora erano passate. Fu il
+					ragionamento novo, ma gratissimo al sig. cancellero et lo non poté dissimular
+					meco. Et chi sa quanto necessario sia di riscaldare questo principe et
+					conculcare nelle orrechie sue simili concetti quotidianamente non farà a mio
+					parere giuditio che si sia trapassato li termini della debita modestia et
+					rispetto, poiché et la natura del principe, che si muta facilmente lo<pb
+						xml:id="P1_0000063"/> ricerca, la perfidia delli heretici lo vuole,
+					l’importantia del negotio lo desidera, la forma del loro trattare, che non è
+					senza qualche occasione di ragionevole timore lo comporta, l’esperienza delle
+					cose passate lo mostra et al fine il pericolo iminente sforza a parlare di
+					questa forma.</p>
+				<p>Et io, poiché havevo questo suspetto già conceputo nel’ animo, non potei
+					contetermi di non significarlo; et è stato ancora un modo di assicurarsi ben
+					bene, ché al fine, alla peggio che la possi andare in questa dieta, non si
+					perderà più di quello si è perso, et forsi si guadagnerà. Et il principe ha
+					ancora occasione di far intendere alli heretici le suspittioni mie causate per
+					loro colpa, et che perciò egli per desinganarmi acciò non faccia consapevole S.
+					Stà è obligato a far qualche demostrationi, per le quali si cognoschi certo non
+					essere vero quello che di S. A. si suspica et dicono et scrivono li
+					heretici.</p>
+				<p>Fu tutto questo, come ho detto, et grato al sig. cancellero et accettato in quell
+					senso che io veramente dicevo, che era con una ingenuità grandissima et martellò
+					che le cose non passassero a modo mio et non fossero per passare peggio, se una
+					volta non si risolvessero di svegliarsi et maturamente considerare il pericolo,
+					nel quale stanno tanto nel spirituale come nel temporale. Et sicome fu ben
+					inteso da S. Sria, così fu rapresentato a S. A. in manera che piutosto ha
+					augumentato assai la bona opinione, che lei ha di me, che l’habbia punto scemata
+					S. A. diffusuamente discorsse con il cancellero et lo rimandò da me, et in
+					effetto han cercato di persuadermi che tutto quello che si è fatto è stato a
+					fine di bene, et perché si giudicava che non fosse possibile che si potesse
+					esser a tempo di operare et effettuare quello che tra noi si era pensato. Et io
+					ancora sono di questo parere, ma il non havere chiamato in consilio il sig.
+					cancellero et il non havermi fatto sapere cosa alcuna, se non doppo il fatto, me
+					ha dato segno non bono et massime che hanno anticipato un mese la dieta, cioè a
+					20 del mese che viene, et si suol cominciare al primo del’ anno.</p>
+				<p>Io hebbi poi audientia da S. A. et le refferì alcune cose di quelle che havevo
+					dette al sig. cancellero; et quando venni a significarle che con mio grandissimo
+					dispiacere havevo inteso che li heretici, et in spetie Hoffmam, scriveva che
+					tutte le dimostrationi che lei faceva in favore delli catholici et segni che
+					dava di volere estirpare le heresie non erano perché sentisse cosi, ma per dar
+					sottisfattione a S. Stà et per usare la propria parola ut deludat Pontificem
+					Romanum. S. A., nel esagerare che io facevo la impudentia di costoro che
+					cercassero de masculare et denigrare la candidezza della conscientia di lei, si
+						misse<pb xml:id="P1_0000064"/> a lacrimare di modo che, sicome io hebbi
+					grandissima vergogna, così feci singularissimo concetto della bontà et pietà
+					sua. Et mi disse: „Se voi sapesti nel tormento et crutio che io sto vivendo tra
+					costoro, vi stupireste et mi havresti compasione! Et assicurate S. Stà che non
+					son mai per lasciar quella fede, nella quale son stato nutrito et educato, et di
+					più prometteteli che li heretici non sono mai per ottenere cosa da me, che sia
+					in pregiuditio della religione catholica, anzi, come vi havrà in mio nome
+					refferito il mio cancellero, voglio vedere di ritrovar modo di rivocare il già
+					concesso.“ Et mi disse che voleva scrivere al sig. cardinale Madrutio, <note
+						xml:id="FN1_00016_09" type="footnote">Der Bischof von Trient, Kardinal
+						Lodovico Madruzzo, war 1573—1600 Protektor für Deutschland (Wodka, Zur
+						Geschichte der nationalen Protektorate, S. 51).</note>che in suo nome
+					dicesse a S.Stà che sperava si sarebbe fatto qualche cosa di bono et, vedendo la
+					sua inclinatione, non vuoisi far officio, acciò scrivesse a S. Bne, come prima
+					havevo pensato, non mi parendo occasione de importunarlo.</p>
+				<p>Intrassimo poi in altri regionamenti, et io cominciai a lodare infinitamente S.
+					A. per le demostrationi che haveva fatto a beneficio della religione catholica,
+					et racontai quello delli predicatori et del comandamento alli padri circa alli
+					figliuoli suoi.<note xml:id="FN1_00016_10" type="footnote">Die Söhne Erzherzog
+						Karls wurden von Jesuiten erzogen (Hurter, Geschichte Ferdinands II, S. 231
+						ff.; Duhr, Geschichte der Jesuiten II/1, S. 338 ff.).</note>Et parlassimo di
+					questo et del’ amplo et sontuoso edificio che fa edificare per li Jesuiti <note
+						xml:id="FN1_00016_11" type="footnote">Am Grazer Jesuitenkolleg wurde seit
+						1572 gebaut (Kohlbach, Der Dom zu Graz, S. 34—36).</note>et le dissi che ne
+					davo parte a S. Bne et che sapevo ne havrebbe sentito grandissima consolatione.
+					Et perché il sig. cancellero non mi dava risposta al secondo motivo, che io li
+					dei, d’espurgare la casa et consiglii di heretici, et mi acorgevo che andava
+					molto ritenuto in questo particulare, come poi ho inteso, per degni rispetti ne
+					parlai a S. A. longamente nel senso et forma, che nel’ altra mia ho significato
+					a V. S. Illma. <note xml:id="FN1_00016_12" type="footnote">Nr. 13.</note>Et mi
+					rispose che lo desiderava più che qual si voglia altra cosa, et che già l’haveva
+					cominciato a mettere in esecutione, che haveva un maggiordomo molto a suo gusto
+					et che, per esser heretico, se ne era privato, <note xml:id="FN1_00016_13"
+						type="footnote">Georg Freiherr von Khevenhüller, 1574—1580 Obersthofmeister
+						(Probszt, Villacher Bürger und Herren in ihren Münzen und Medaillen, S.
+						138—141).</note>che tutta la sua guardia era catholica, che li soldati di
+					castello erano ancora essi et quasi tutta la sua famiglia, che quanto al
+					consiglio che il maggiordomo era da prima che fosse in esso, et che ci andava
+					pensando, ma che non lo poteva <pb xml:id="P1_0000065"/>fare senza occasione, et
+					che col tempo havrebbe ritrovato via di espurgare ogni cosa.</p>
+				<p>Io vo pigliando in nota tutti li nobili catholici et per cognoscerli a questa
+					dieta et per informarmi bene se sono persone atte per consilio et governo et,
+					ritrovandoli tali, metterli a suo tempo in consideratione a S. A., et il simile
+					faccio delle altre classi d’homini minori.</p>
+				<p>S. A. mi racordò che sarebbe bene che S. Stà mandasse un breve minatorio nella
+					forma che fu l’altro, ma vorebbono ch’in esso si esprimesse che quando S. A. non
+					si disponerà di pigliar remedio alle heresie del suo stato, che S. Stà intende
+					che li signori Venetiani, interessati nelli confini, pigliarano qualche
+					espediente loro, poco a sodisfattione di S. A. et de tutto il stato suo.<note
+						xml:id="FN1_00016_14" type="footnote">Dieser Hinweis auf Venedig in einem
+						Breve wurde vom Papst abgelehnt (Nr. 24).</note>Et si lamentono che mons.
+					della Scala non intendesse la mente loro quando si ottenne l’altro, che, per non
+					contenere questo particolare, se ne servirono poco.<note xml:id="FN1_00016_15"
+						type="footnote"> Siehe Nr. 14, Anm. 25.</note>Ma io mi persuado che
+					monsignore facesse il debito suo, ma che per degni rispetti si giudicasse non
+					convenire. Nondimeno ho voluto che V. S. Illma saprà di novo la volontà et
+					desiderio che hanno. In ogni modo, sia sotto qual si voglia forma, è bene che si
+					mandi questo particolare delli signori Venetiani<note xml:id="FN1_00016_16"
+						type="footnote"> Bereits Anfang 1579 war die Rede von einem kriegerischen
+						Einschreiten Venedigs gegen das Einschleichen der Häresie in der Grafschaft
+						Görz (Loserth, FRA II/50, S. 41, Nr. 12).</note>et di mons. della Scala; S.
+					A. non mel ha detto, ma solamente il sig. cancellero.</p>
+				<p>Et perché, come di sopra ho detto, la dieta si cominciarà alli 20 del mese che
+					vienne, se ben dura un mese intero, riceverei per favore singulare che V. S.
+					Illma mi facesse gratia di avisarmi come me ho da governare in questa dieta, et
+					precipue in quest casi:<note xml:id="FN1_00016_17" type="footnote">Siehe unten
+						Nr. 25 und 28.</note>Se il principe sotto qual si voglia pretesto
+					condesendesse a concedere nove libertà di vivere, overo ratificasse le già
+					concesse ; se la passassero in silentio tanto il principe come li heretici, et
+					di questo temo se devo far resintimento, acciò S. A. faccia qualche
+					demostratione et in particular venghi alla dechiaratione della mente sua nella
+					concessione del 1578, overo debbia io aspettare insino alla seconda dieta, che
+					promette di voler fare. In evento che S. A. faccia demostratione contra li
+					heretici, overo li heretici contra lei, se si venesse alla separatione delli
+					stati, et che l’ecclesiastico defficeret et si congiongesse con li nobili,
+						che<pb xml:id="P1_0000066"/> sorte di demostratione ho io da fare contra
+					loro? 0, non volendosi le città separarsi, et che il principe mi dicesse che non
+					sa che fare, et che però è astretto di concedere ciò che domandono, come in
+					questo caso mi devo regere? Se scoprissi chiaramente che questa dieta si è
+					anticipata a posta, per farmi toccar con mano la necessità del principe et per
+					consequentia fossi certo che tanto S. A. come li altri fossero d’acordo per
+					questo effetto, se io devo scoprire al principe ogni cosa et, non ci pigliando
+					remedio, se tuttavia devo asistere alla dieta, et che devo fare? Et questo lo
+					dico, perché S. A. non attende volontieri alli negocii et si scarica sopra le
+					spale d’homini poco secreti et boni et si muta facilmente et, essendo la parte
+					de’ catholici et in numero et in qualità et in valore et in favore assai minore
+					delli heretici, essendo per pusilus grex, et questa altra grandissima, se a caso
+					il principe le ha dato o darà parte di quello che io ho trattato seco actum est;
+					perché, havendo tempo, sono per ottenere ogni cosa. Io per poter acertare,
+					vorrei havere una legge scritta et mi sarà di grandissima consolatione. Io
+					havevo cominciato a scrivere alli vescovi, esortandoli a voler attendere al
+					ministerio loro con diligentia et vigilantia, ma perché è tanto tra di loro
+					corrota la disciplina ecclesiastica che, come se le intona questa antifona, si
+					mettono subito in suspitione et in diffese, et me acorgo che una esortatione
+					ancora in spiritu lenitatis è tenuto cosa dura, mi son risoluto di passarmela in
+					silentio insin che sia fornita la dieta, acciò mi siano più propitii. Fornita la
+					dieta parlarò a tutti et vederò di pigliar quella risolutione che giudicarò
+					esser più utile et fruttuosa; il simile dico de tutte dignità inferiori.</p>
+				<p>Solamente al presente, in materia de ecclesiastici, voglio far sapere a V. S.
+					Illma che in modo alcuno convienne che quello mons. Polidoro sia fatto vescovo
+					titolare. Et mons. patriarcha d’Aquileia ha portato seco costà il processo,<note
+						xml:id="FN1_00016_18" type="footnote">Polydor de Montagnana war als
+						Erzpriester von Tüffer, das damals zur Diözese Aquileia gehörte, eifrig für
+						die katholische Sache tätig (Loserth, Reformation und Gegenreformation, S.
+						243). Der hier erwähnte, für jede Bischofsernennung vorgeschriebene
+						Informationsprozeß ist nicht mehr vorhanden.</note>et si promette di S. S.
+					Revma et di mons. Illmo Delfino <note xml:id="FN1_00016_19" type="footnote"
+						>Giovanni Delfino, 1571—1578 Nuntius am Kaiserhof (Rainer, Nuntiaturberichte
+						II/8, S. VIII—X).</note>cose grande. Et certo sarebbe stato meglio che mons.
+					patriarcha non si fosse mai servito di lui. Egli tiene una donna et ne ha
+					figliuoli et non sarebbe, come ho detto al principe che me l’ha raccontato,
+					altro se si facesse questo che publicare un canone, in <pb xml:id="P1_0000067"
+					/>favore delli heretici, che tutti li preti possono pigliare moglie, poiché S.
+					Stà fa vescovo uno che ha la putana, et sarebbe un scandalo grande. Io l’ho
+					fatto venire da me et le ho detto quello che mi è parso, minanciandoli
+					aspramente et, se havessi havuto le mie facultà, non mi sarei forsi potuto
+					contenere che non havessi fatto demostratione contra la persona sua. Massime che
+					ci è mille altre cose brutesato <note xml:id="SN1_00016_a" type="siglum">=
+						bruttegiato?</note>di simonie et donni, ma io ho rebustato gagliardamente
+					che mi ha parlato di questo, ma perché egli ha dato nel’ esteriore molti segni
+					di emendatione et humiltà, cosa che qua è stata tenuta per singulare, et ha
+					servito molto ad terrorem aliorum essendo egli molto principiale et di dotrina
+					et di richezze et in effetto potens sermone et opere, et essendomi io lasciato
+					intendere che de’ peccati vecchi non voglio far inquisitione, purché transeant
+					vetera et nova sint omnia, et havendo già mandato via la putana et essendosi
+					confessato, credo perciò che sarà bene di non darli la total esclusione circa il
+					titolo, ma darli bone parole insin tanto che la dieta sia fornita, accioché,
+					havendo voto, non in sia contrario et de impedimento, ché potrebbe essere che
+					qua ognuno può nel far male; et sarà bene che non si sapia che io scrivo sopra
+					questo. Ha desinato questa mattina meco, insieme con li signori del regimento,
+					et io, stimulato da quelli signori, ho quasi dato parola di non scrivere et egli
+					si è butato alli mei pedi acciò io non scrivi. Però in vero per qualche mesi non
+					convienne che S. Stà le dia questa dignità; se perseverarà nella bona vita et
+					mantenerà quello che a mia requisitione ha fatto, allora S. Bne potrà haver
+					consideratione alla penuria de homini di questo paese et farle ogni favore.
+						<note xml:id="FN1_00016_20" type="footnote">Malaspina hat den Fall Polydor
+						de Montagnana an sich gezogen und am 21. November 1580 ein mildes Urteil
+						gefällt (Nr. 35, 36, 37 und 40).</note>
+				</p>
+				<p>S. A. me ha pregato che io faccia officio con S. Bne che, in evento che sia
+					necessitato a rompere con li heretici et che non siano bastante le sue forze,
+					per ritrovare modo di suplire a quell residuo che mancasse per guardare li
+					confini del Turco, che in questo caso S. Stà le facesse gratia di contentarsi
+					ché quello che già più volte et hora per me le haveva fatto con tanta charità
+					proferire, cioè che quando si disponesse di tentare impresa dalla banda sua
+					contro il Turco ch’el havrebbe dato qualche aiuto che si convertisse in quell
+					bisogno, che forsi potrebbe havere contra li heretici, essendo questo non meno
+					utile che necessario et urgente et che non domanda al presente danari né fuor
+					del caso della necessità, ma un credito in Venetia, del quale se ne potesse
+						valere<pb xml:id="P1_0000068"/> al bisogno con il consenso et approbatione
+					del nontio. Io non ho potuto negare di non farne parola con V. S. Illma,
+					havendomelo detto S. A. con molto affetto.<note xml:id="FN1_00016_21"
+						type="footnote"> Diese Bitte wurde zunächst nicht erfüllt (Nr. 24), und erst
+						am 11. Februar 1581 kam aus Rom die Mitteilung, daß für den Fall dringenden
+						Bedarfes 15.000 Scudi in Venedig bereitgestellt worden seien (Nr.
+						67).</note>
+				</p>
+				<p>Me hanno fatto instantia che io scrivi a V. S. Illma, supplicandola ad haver per
+					racomandata l’espeditione della confirmatione del’ eletto de Salisburgo,<note
+						xml:id="FN1_00016_22" type="footnote">Georg von Kuenburg wurde als Koadjutor
+						mit Nachfolgerecht am 7. November 1580 bestätigt und am 28. Jänner 1581 dazu
+						vom Salzburger Domkapitel beglückwünscht (Hierarchia Catholica III, S. 291;
+						Salzburg Konsistorialarchiv, Urkunden, B 303; Widmann, Geschichte Salzburgs
+						III, S. 108, Anm. 2).</note>et io lo faccio tanto più volentieri quanto che
+					ho bona relatione della persona sua. Et in vero hormai quella chiesa ha ben
+					necessità d’havere un prelato pio et zeloso, et massime hora che l’arcivescovo
+					vecchio è quasi fuor di sé. <note xml:id="FN1_00016_23" type="footnote"
+						>Erzbischof Johann Jakob von Kuen-Belasy starb erst am 4. Mai 1586
+						(Hierarchia Catholica III, S. 291).</note>Et se sarà confirmato a tempo che
+					possi intervenire alla dieta, che speriamo si debia fare tra doi mesi, S. A.
+					desidera che S. Stà le ordini che non lascia di venire, se bene il suo
+					antecessore ha mai voluto ritrovarsi presente et lo esorti a tenere bona
+					corrispondentia et intelligentia con S. A. et meco. Et perché intendo che ha
+					mandato un suo costà per solicitare l’espeditione, se V. S. Illma le vorrà ancho
+					dire qualche cosa a bocca, sarà molto a proposito ; et se S. S. Rma et io
+					staremo uniti, bisognarà che tutti li prelati mettino il collo sotto il gioggo
+					della rifforma. <note xml:id="FN1_00016_24" type="footnote">Georg von Kuenburg
+						nahm am Landtag nicht persönlich teil.</note>Io desidero che V. S. Illma mi
+					scrivi un capitolo tutto pieno di ringratiamenti et bona volontà verso il sig.
+					cancellero, che certo si è portato meco fidelmente.<note xml:id="FN1_00016_25"
+						type="footnote"> Umgehend wurde Malaspina ermächtigt, Wolfgang Schranz die
+						Zufriedenheit des Papstes mit seinen Bemühungen für die katholische Religion
+						mitzuteilen (Nr. 24).</note>Il simile hanno fatto li padri Jesuiti in quello
+					che hanno potuto.</p>
+				<p>S. A. desidera similmente un breve per li vescovi, abbati, provosti in genere
+					esortandoli a deffendere in questa dieta la religione catholica et la causa del
+					principe. Le ho detto che ordinasse che mi fosse dato in nota il nome di ognuno
+					d’essi, acciochè se a caso non si acostumasse di scrivere così in generale, si
+					potesse scrivere in particulare. Insin’hora non me hanno mandato cosa alcuna,
+					però non si facendo breve si potrà forsi suplire con un bon capitolo in una
+						lettera,<pb xml:id="P1_0000069"/> ché io me ne servirò alle occasioni.<note
+						xml:id="FN1_00016_26" type="footnote"/> Questa settimana verrà mons. di
+					Gurgo et il p. rettore <note xml:id="FN1_00016_27" type="footnote">Bereits in
+						der Instruktion wurden Malaspina enge Beziehungen zu Bischof Christoph
+						Andreas Spaur von Gurk und dem Rektor des Grazer Jesuitenkollegs, P.
+						Emmerich Förster, nahegelegt (Nr. 1, S. 5).</note>et, pregando V. S. Illma a
+					perdonarmi se et questa mia et le altre saranno troppo prolisse et mal scritte,
+					per ritrovarmi senza secretario, et bisogna che io porti la somma... La strada
+					di Pragga è troppo longa et il negotio non patisce molta prolissità; però mi son
+					risoluto di mandare uno a posta a Venetia et S. A. desidera infinitamente il
+					secreto in questo negotio et me ha detto che io vedi a chi do le lettere.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

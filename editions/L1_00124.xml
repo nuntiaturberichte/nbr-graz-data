@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00124">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" notAfter="1581-10-22" cert="low" n="1">vermutlich vor
+                    1581-10-22</title>
+                <title level="a">124. Malaspina an Erzherzog Karl - (Graz, 1581 vor Oktober
+                    22)</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 357r—358v, gleichzeitige
+                            Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00124">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date notAfter="1581-10-22" n="1" cert="low"/>
+                    <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118560069">Österreich, Erzherzog,
+                        Karl</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_012">Malaspina,
+                        Germanico - Österreich, Erzherzog, Karl</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00123.xml"
+                        >123. Malaspina an Gallio - Graz, 1581 Oktober 21</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00125.xml">125.
+                        Gallio an Malaspina - Rom, 1581 Oktober 28</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_012" target="L1_00110.xml">110. Erzherzog Karl an
+                        Malaspina - Eisenerz, 1581 August 6</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_012" target="L1_00128.xml">128. Malaspina an
+                        Erzherzog Karl - Graz, 1581 vor November 27</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Stellungnahme zur Relation des Kanzlers Schranz über nach Auffassung der Geheimen
+                    Räte im Religionsgeschäft zu ergreifende Maßnahmen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="124">Malaspina an Erzherzog Karl - (Graz, 1581 vor Oktober 22)<note
+                    xml:id="FN1_00124_01" type="footnote">Das Datum ergibt sich aus der Bemerkung in
+                    Nr. 126, S. 345, daß dieser Brief vor der Abreise zur Visitation, die nach Nr.
+                    123, S. 339, am 22. Oktober erfolgte, geschrieben wurde.</note>
+            </head>
+            <div>
+                <pb xml:id="P1_0000341"/>
+                <p>Da la relatione, che’l sig. cancelliero m’ha fatto di quello, che da li
+                    consiglieri di V. A. è stato consultato nel negocio de la religione,<note
+                        xml:id="FN1_00124_02" type="footnote">Siehe Nr. 123, S. 336 f.</note>ho
+                    inteso con molta mia sodisfattione la uniformità loro nel far una certa et soda
+                    determinatione, che il stato presente per li abusi, che porta seco la diversità
+                    de la religione, non può lungamente durare, poiché minaccia una evidente et
+                    manifesta ruina del dominio et potestà temporale. Et in questo io non posso se
+                    non lodare il giuditio et pietà loro, et non dubito che V. A., sì come hanno
+                    fatto altri principi, che sono ne l’istesso stato, toccarà ogni giorno più con
+                    mano, che gl’arbori, che nascono dal seme di Luthero, non apportano a li
+                    coltivatori suoi altro che un appetito sfrenato di non riconoscere né in cielo
+                    né in terra potestà né superiorità alcuna. Per il che, se bene l’intelletto
+                    humano non può far giuditio certo de le cose, che hanno da venire, essendo
+                    sottoposte a molti pericoli, nondimeno governandosi il tutto non a caso, ma da
+                    la giusta previdenza di Dio, il quale non suole abbandonare li suoi ne le
+                    honeste et giuste imprese, è cosa facilissima da giudicare, che l’A. V. deve più
+                    tosto cercare ogni via di cavarsi dal pericolo certo con incertezza di incorrere
+                    in maggiore, anzi con speranza di liberarsi affatto che viver ne la certezza del
+                    pericolo presente con certo dubio del futuro.</p>
+                <p>Et acciò V. A. possa far questo, è necessario haver dui considerationi
+                    essentiali: l’una è quello, che si deve tentare et in questo, considerata la
+                    conditione de’ tempi, approvo ciò che li consiglieri hanno consultato.
+                    Secondariamente, et in questo sta la difficoltà, è necessario considerare la
+                    forma, che si deve tenere, acciò quello che si tenta si possi essequire per non
+                    incorrere in quella riprensione, che non havendo fatto buoni computi si dichi di
+                    noi: incaeperunt aedificare et non <pb xml:id="P1_0000342"/>potuerunt consumare;
+                    nel qual caso sarebbe senza dubio meglio il non tentare che, tentando, non
+                    perfettionare, massime che l’esperienza de la dieta passata ne può haver dato
+                    molti documenti, li quali non si osservando, non si deve aspettare altro che un
+                    simil miserabil essito del passato, il quale tanto maggiore danno farà, poiché
+                    sarà con notabile detrimento de l’auttorità di V. A., de li consiglieri suoi et
+                    di S. Stà et altri principi, <note xml:id="FN1_00124_03" type="footnote">Vgl.
+                        Nr. 75 und Nr. 82.</note>di V. A. perché havendo lei scritto a S. Bne le
+                    cause, per le quali non haveva potuto essequire il decreto passato, <note
+                        xml:id="FN1_00124_04" type="footnote">Siehe Nr. 80, Anm. 5.</note>et essendo
+                    tolti gli impedimenti per li aiuti ottenuti, <note xml:id="FN1_00124_05"
+                        type="footnote">Siehe Nr. 93, S. 258.</note>et havendole anco con parole
+                    espresse significato che si voleva governare, conforme al suo consiglio, se
+                    vederà che di presente non si fa quello che si è promesso, potrebbe facilmente
+                    mutare in qualche cosa l’opinione conceputa de l’A. V. Li consiglieri saranno
+                    notati, che habbino errato o per volontà o per difetto di scienza, di volontà
+                    che non potendo negare, anzi confessando che si deve tentare qualche cosa,
+                    habbino in modo guidato il negotio, che in apparentia possono dare
+                    sodisfattione, ma che in essistentia non si faccia niente, et quando non sia,
+                    come credo certo, non potranno fugire di non incorrere in opinione di persone di
+                    poca pratica, havendo già due volte principiato il negotio et, lassando da parte
+                    li consigli et aiuti di tanti principi, habbino attribuito più al loro senso,
+                    che al gravissimo giudicio di potentati così grandi. Di S. Stà, chi è quello che
+                    dubiti che, havendo lei dati aiuti, tenuto qua un nuntio, il quale devendosi
+                    partire senza far frutto alcuno, anzi con l’occasione de la sua venuta,
+                    essendosi mossi gl’humori, et essendo anco perciò per venire le cose in peggior
+                    stato, che non potrà se non l’auttorità apostolica patire detrimento grande, et
+                    non havrà servito il chiamare il nuntio qua, se non per publicare a tutto ’l
+                    mondo, che la piaga di queste provincie o è infestolita, di modo ché non ci è
+                    speranza di sanarla, in qual caso non devevano cercare remidii coloro che
+                    l’havevano per insanabile, overo che l’infermo non vuole essere curato et pare
+                    che il medico, che in altri lochi fa cure più desperate, havrà grande occasione
+                    di escusar sé et incolpare l’infermo, del quale giudicio gli inconvenienti
+                    miserabili che succederanno ogn’uno se lo può imaginare.</p>
+                <p>Hora Sermo Sig., ho voluto toccare questi punti per l’occasione che mi è paruta
+                    d’havere da la determinatione che hanno fatta li consiglieri nel modo di
+                    essequire quello che pensano di tentare, nel <pb xml:id="P1_0000343"/>qual
+                    proposito, essendo materia gravissima, desidero che si faccia risolutione matura
+                    et utile, et ho le infrascritte considerationi contra quello che si è
+                    consultato, poiché si presuppone di sospendere il presidio et venire ad un
+                    colloquio dopo la dieta. <note xml:id="FN1_00124_06" type="footnote">Vgl. Nr.
+                        123, S. 337 f.</note>Io son quasi certo, intendendo da ogni parte che li
+                    provinciali dicono che in questa dieta o che V. A. li ha d’assicurare, overo che
+                    non vogliono contribuire cosa alcuna ; sapendo ancora che hanno mandato
+                    trombetti a li prelati che hanno finto memorabili alienare gli animi loro da V.
+                    A., parendoli di havere ottima occasione per la riforma che si fa, argomenti non
+                    buoni né di fedeltà né d’altro, et incominciandosi la dieta, diranno che prima
+                    bisogna tentare quello che spetta al regno de’ cieli et poi trattar il
+                    temporale, <note xml:id="FN1_00124_07" type="footnote">Vgl. Nr. 123, Anm.
+                        8.</note>io in questo caso vorrei sapere quello che V. A. pensa di fare. Con
+                    parole già ha provato et non vagliono; gli altri remedii non saranno parati et
+                    so si vorrà alhora ricorrere a li remedii del presidio, oltre che non si potrà
+                    mettere con quella celerità che il caso forse richiederà, certo sarà ben a
+                    l’hora manifesto et non si potrà celare, che V. A. lo mette per rispetto loro,
+                    che di presente pur sono molte cause anco urgenti, che li possono far credere il
+                    contrario. Quando ancora si contentassero che il colloquio si instituisse dopo
+                    la dieta, chi dubita che li nominati come si sentissero aggravati diriano che
+                    non hanno auttorità di risolvere cosa alcuna, et che rifeririano; et in quel
+                    caso io prevedo una lunghezza grande et si ridurrebbe senza dubio il negotio ad
+                    un’altra dieta et sarebbe come la cosa del concilio, et io, come ministro, se
+                    ben indegno, del vicario di Christo, ricordo a chi toccarà rendere conto et
+                    tremendo giudicio di Dio, che ogni anno per il computo, che si è fatto,
+                    deficiunt a vera religione quattro milia in cinque milia anime, <note
+                        xml:id="FN1_00124_08" type="footnote">Etwa einen Monat später wird in einem
+                        Schreiben Malaspinas an Erzherzog Karl zwar die Meinung erwähnt, daß mehr
+                        als die Hälfte der Einwohner dem Luthertum anhänge, dann aber behauptet, daß
+                        fast alle Bauern katholisch seien (Nr. 128, S. 350 f.).</note>et però è ben
+                    necessario che ogn’uno essamini la sua conscienza et non defraudi il sangue di
+                    Christo, che non solo per tante anime, ma per una sola sarebbe incarnato et
+                    morto per redimerla. Però per pigliar qualche temperamento sofficiente in questo
+                    negotio, si mette in consideratione di consultare bene se è necessario di metter
+                    subito il presidio overo far il colloquio inanzi la dieta et sospender il
+                    presidio, insin tanto che s’intenda quello che diranno li provinciali chiamati
+                    al colloquio. Se loro si acquetaranno <pb xml:id="P1_0000344"/>a la
+                    determinatione di V. A., se in tal caso si deve lasciar il presidio, se non
+                    acquetano, se è necessario che in ogni modo si metta il presidio, et perché la
+                    dieta instà et il negotio è ridotto a tanta brevità, è necessario far tal
+                    risolutione che et l’honor di Dio et la conscienza di V. A. resti in buon stato,
+                    et che il negotio pigli buona forma.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00135">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-01-04" n="1">1582-01-04</title>
+                <title level="a">135. Malaspina an Gallio - Graz, 1582 Jänner 4</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Kunz. Germ. 100, f. 397r—399v, Orig.<lb/>Ebenda f.
+                            401r—403v, Duplikat.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00135">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-01-04" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00134.xml"
+                        >134. Gallio an Malaspina - Rom, 1581 Dezember 29</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00136.xml">136.
+                        Malaspina an Gallio - Graz, 1582 Jänner 16</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00134.xml">134. Gallio an Malaspina -
+                        Rom, 1581 Dezember 29</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00136.xml">136. Malaspina an Gallio -
+                        Graz, 1582 Jänner 16</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Zeichen keines ernsten Wollens zur Exekution des Religionsdekretes. Aus Rücksicht
+                    auf Häretiker Entschluß Erzherzog Karls und der Räte, keine Besatzung nach Graz
+                    zu legen. Bemühungen zur Verhinderung der Absicht der Häretiker, das
+                    Religionsgeschäft vor den Kaiser zu bringen. Vorschläge für weiteres
+                    Verhalten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="135">Malaspina an Gallio - Graz, 1582 Jänner 4</head>
+            <div>
+                <p>Se il negotio che si ha qua per le mani concernesse interesse alcuno temporale,
+                    certo che per desiderio grande, che si havesse d’ottenerlo, sarebbe hormai tempo
+                    di levarsi di speranza et pensar ad altro, poiché non più da congettura, ma da
+                    argomenti chiari si tocca con mano che non si procede con quella sincerità et
+                    candore, che si devrebbe, et che se bene in apparentia si mostra pronta volontà,
+                    come V. S. Illma ha potuto vedere da alcune lettere di S. A.,<note
+                        xml:id="FN1_00135_01" type="footnote">Siehe Nr. 129, Anm. 5.</note>et
+                    massime dopo il ritorno di mons. di Gurgo, quante promesse hanno fatte di voler
+                    seguire in ogni caso il consiglio di S. Bnc et inanzi l’aiuto ottenuto,<pb
+                        xml:id="P1_0000365"/> andavano dicendo: „Che fa S. Stà, che non soccorre al
+                    stato nostro?“ Ma quando hanno veduto che non sono abbandonati, ma che si vuole
+                    che si dispensi fruttuosamente li danari,<note xml:id="FN1_00135_02"
+                        type="footnote"> Vgl. Nr. 108.</note>alhora, non potendo buttarla colpa
+                    adosso a S. Stà hanno cominciato a dar segni del spirito che havevano, il quale
+                    è di non voler venire in essistentia a nessuna reale et vera essecutione. Ma
+                    essendo il negotio di servitio di Dio et trattandosi de la salute de le anime,
+                    pare che si debba così perfettamente fare l’officio di sollicito et patiente
+                    coltivatore, che o si coglia il frutto de le fatiche overo si possa poi dire:
+                    vinea mea quid debui facere tibi et non feci, massime che l’Alemagna di giorno
+                    in giorno vede tanti segni di carità verso lei di S. Bne, che li pare che non
+                    sia mai per astraccarsi in farle benefitio. Et se bene io, dopo d’haver
+                    sodisfatto a la mia conscienza in quello che tocca al ministerio mio, ho ancora
+                    per maggiore giustificatione convocato tutti li catholici confidenti<note
+                        xml:id="FN1_00135_03" type="footnote"> Vgl. Nr. 43, Anm. 2.</note>et datole
+                    tre giorni a pensare se io potessi fare per sollevatione de la religione con
+                    questi frigidi et mutabili humori più di quello che ho tentato, essibendomi a
+                    far ogni cosa prontamente, et che ogn’uno habbia risposto che insino le pietre
+                    rendono testimonio che non si può far più. Nondimeno io sto tuttavia con
+                    speranza che S. D. Mtà sia per dare incremento buono a li conati santi di S. Bne
+                    et a li sospiri et gemiti di alcuni veri servi di Dio, che sono qua. Per il che
+                    mi movo con ogni debita humiltà a supplicare a li smi piedi di S. Stà che non
+                    ostante che per mie lettere s’intenda il poco sincero modo di procedere di qua,
+                    S. Bne voglia per ancora perseverare ne la paterna sua carità verso questo
+                    principe, che forse non s’havrà quella risposta usquequo luges Saul. <note
+                        xml:id="FN1_00135_04" type="footnote">1 Könige 16, 1.</note>Et se bene qua,
+                    per quanto posso penetrare, si va a camino di straccar S. Stà et non si volendo
+                    non solo mettere a picolo alcuno, ma né incommodarsi punto per la religione, non
+                    si possa perciò far giuditio alcuno in bene. Nondimeno in simili negotii suole
+                    Dio superare le nostre congetture, per ben fondate che a noi paiano.</p>
+                <p>Hora io verrò a quello che dopo l’ultima mia scritta a V. S. Illma è passato,
+                    essendo S. A. insieme con li consiglieri risoluta di non mettere il presidio né
+                    venire a la separatione,<note xml:id="FN1_00135_05" type="footnote">Vgl. Nr.
+                        133, S. 362.</note>unichi remedii per contenere li heretici nel debito
+                    officio né inanzi la dieta né dopo, se bene li nobili fossero inobedienti. Et
+                    risentendomi che mancassero<pb xml:id="P1_0000366"/> de le promesse fatte a me
+                    et scritte a S. Stà, <note xml:id="FN1_00135_06" type="footnote">Wahrscheinlich
+                        Schreiben Erzherzog Karls anläßlich der Sendung des Bischofs von Gurk nach
+                        Rom (Loserth, FRA II/50, S. 241—243).</note>et che insieme con questo
+                    volessero ruinare il negotio de la religione, poiché con semplici parole è
+                    impossibile superare l’ostinatione loro, essendo così persuasi che S. A. più
+                    tosto per stimolo altrui che per propria elettione faccia contra la loro falsa
+                    religione dimostratione alcuna, onde non prestano fede a parole, le quali per
+                    acre et seriose che escano dal principe sono poi indolcite et mollificate da li
+                    consiglieri, hanno ritrovato una nova inventione di voler consultare ancora di
+                    presente il negotio con l’imperatore, <note xml:id="FN1_00135_07"
+                        type="footnote">Vgl. Nr. 62, Anm. 6.</note>quasi che l’opere, che va facendo
+                    S. Mtà in sollevatione de la religione catholica, non siano bastevoli senz’altre
+                    consulte per penetrare quale sia il senso suo. Ma loro, oltre che ogni dilatione
+                    li piace, pensano dipponere a S. Mtà tante difficoltà circa l’essecutione del
+                    negotio che la Mtà S. sia necessitata di darle una risposta secondo il loro
+                    depravato gusto, la quale poi le serva per scudo contra chi volesse riprenderli,
+                    se non fanno. <note xml:id="FN1_00135_08" type="footnote">Vgl. Nr. 136, S.
+                        368.</note>
+                </p>
+                <p>A questo loro spirito io mi sono opposto gagliardamente et ho sodisfatto et a me
+                    et a li zelosi et pii catholici. Ma vedendo la loro ferma ostinatione, ho
+                    cercato di obviare quanto mi è stato possibile, che non li venga fatto quello
+                    che pensano, et perché forse ad alcuni sarebbe parso inconveniente che io così
+                    risolutamente contravenissi al desiderio del principe di consultarsi con
+                    l’imperatore, parendo che io difidassi de la pietà singolar di quella Mtà. In
+                    questo io mi sono et in scritto et in voce esteso insino a quelli termini, che
+                    ho giudicato convenirsi a un ministro di S. Bne ben affetta a quella Mtà, et
+                    perciò, vedendo di non poterli rimovere, non ho voluto assentire a la
+                    consultatione, se non con tre conditioni. La prima è che non si aspetti la
+                    risposta da S. Mtà, ma che si cominci il negotio, et dopo molte difficoltà ho
+                    ottenuto il mio intento et così lunedì, piacendo al Signor Dio, si comminciarà a
+                    dar principio. Et questo l’ho fatto perché, intendendo la Mtà S. che già siamo
+                    in opera, più volentieri s’induchi a consigliere il principe che, in evento che
+                    non obedissero, non faccia come si fece ne la dieta passata, che si dete la
+                    dilatione, ma che seguiti virilmente et venghi a la separatione et al presidio;
+                    et tanto più m’induco a creder che S. Mtà lo farà, perché il tentare et non
+                    perfettionare è a la Mtà S. di pregiuditio grande per le cose d’Austria, et io
+                    scrivo al nuntio Ces. et l’informo minutamente acciò rappresenti<pb
+                        xml:id="P1_0000367"/> con ogni fedeltà il stato del negotio. <note
+                        xml:id="FN1_00135_09" type="footnote">Schreiben an den Nuntius am Kaiserhof
+                        nicht vorhanden.</note>Secondariamente ho voluto che mi promettano di
+                    essequire inviolabilmente il parere di S. Mtà, et in questo ancora sono passate
+                    de le difficoltà. Al fine mi ha risposto S. A. che promette di farlo, ma vi
+                    aggiunge: purché non sia cosa impossibile, et non mi contentando di questo,
+                    hanno aggiunto che la cosa sia in forma impossibile che io la confessi per tale,
+                    et in conformità di questo S. A. scriverà a S. Bne.<note xml:id="FN1_00135_10"
+                        type="footnote"> Nicht vorhanden.</note>Terza perché qua usavano il vocabolo
+                    di colloquio parlando di quello che si ha da tentare. Io non ho voluto in modo
+                    alcuno consentire che si usi tale vocabolo o sia in essentia o in apparentia,
+                    perché oltre che da li colloquii non nacque mai successo buono, ma solamente
+                    confusione. Li heretici d’Austria ne fanno hora instantia a S. et lei non vuole
+                    in modo alcuno concedere che si faccia, et perciò, per non esser per se stesso
+                    espediente il farlo et per non pregiudicare a la Mtà S., io mi sono opposto et
+                    sono stato compiacciuto senza molta difficoltà. S. A. presuppone che io non
+                    babbi giusta causa di risentirmi et vivere con gran mestitia, perché lei dice
+                    che il mutare cons(igli)o non è male, et che se bene ha promesso, ha poi pensato
+                    più oltre, ma che io restarò infine consolato et sodisfatto di lei et non dubita
+                    punto di non ottenere qualche cosa notabile in questa dieta in favore de la
+                    religione. Ma io le rispondo che se S. A. con nude parole può farsi obedire,
+                    perché fu data la dilatione del decreto publicato ne la dieta passata, et
+                    allegato che S. A. non poteva con parole farsi obedire. A questo né lei né altri
+                    mi sanno dare sofficiente risposta...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

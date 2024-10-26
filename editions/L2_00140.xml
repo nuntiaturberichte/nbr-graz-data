@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00140">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1583-12-24" n="1">1583-12-24</title>
+                <title level="a">140. Malaspina an Gallio - Graz, 1583 Dezember 24</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 147r—148r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00140">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1583-12-24" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00139.xml"
+                        >139. Gallio an Malaspina - Rom, 1583 Dezember 23</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00141.xml">141.
+                        Malaspina an Gallio - Graz, 1583 Dezember 26</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00139.xml">139. Gallio an Malaspina -
+                        Rom, 1583 Dezember 23</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00141.xml">141. Malaspina an Gallio -
+                        Graz, 1583 Dezember 26</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Trotz dringenden Bedarfes an der Türkengrenze kein Fortschritt im Landtag.
+                    Rehabilition Hoffmanns auf Drängen der Stände. Entsendung eines zuvor von dort
+                    ausgewiesenen Häretikers in die Grafschaft Görz von Erzherzog Karl mit Mangel an
+                    geeigneten katholischen Fachleuten entschuldigt. Versuche Malaspinas, durch
+                    Jesuitenprovinzial in der Beichte auf Erzherzog Karl einzuwirken.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="140">Malaspina an Gallio - Graz, 1583 Dezember 24</head>
+            <div>
+                <p>Non ostante che il generale<note xml:id="FN2_00140_01" type="footnote"
+                        >Wahrscheinlich Veit von Hallegg.</note>de li confini faccia di continuo
+                    instantia grandissima che senza dilatione si venghi a la conclusione de la dieta
+                    proponendo li pericoli che instano al paese per la mala sodisfattione de li
+                    soldati etc., con tutto ciò questi provintiali non hanno insin hora proceduto a
+                    consultare la risposta de li articoli proposti da S. A. <note
+                        xml:id="FN2_00140_02" type="footnote">Vgl. oben Nr. 136, Anm. 13.</note>, né
+                    si sono occupati in altro che in importunare S. A. <pb xml:id="P2_0000212"/>a
+                    volere restituire l’Hoffmam nel pristino stato di potere come marescial de la
+                    Stiria et assistere a la dieta et haver libero l’ingresso a la presentia di S.
+                    A., <note xml:id="FN2_00140_03" type="footnote">Vgl. oben Nr. 9, Anm.
+                    6.</note>et se ben la parte contraria ad esso non ha pretermesso offitio alcuno
+                    per impedire che egli non fosse habilitato non si essendo purgato del infamia de
+                    la quale è accusato, perilche ne manco l’imperatore che a instantia mia ne la
+                    dieta imperiale lo escluse dal ingresso de la camera, <note
+                        xml:id="FN2_00140_04" type="footnote">Vgl. oben Nr. 19.</note>l’ha
+                    restituito. Con tutto ciò questi consiglieri senza mio prescito havevano per
+                    mezzo de la principessa <note xml:id="FN2_00140_05" type="footnote">Erzherzogin
+                        Maria.</note>indotto S. A. a contentarsi, onde io avertito di questa pessima
+                    risolutione in tempo che se ben l’Hoffmam sapeva d’esser stato gratiato, non era
+                    però il decreto uscito de la cancellaria né feci resentimento conforme a la
+                    qualità del fatto, et non si potendo totalmente retrocedere da la risolutione
+                    presa non poter far altro che voltare ogni mio pensiero a limitare et
+                    conditionare la gratia, cosa che fu essequita in così buona forma che l’Hoffmam
+                    non ha voluto accettare l’habilitatione nel modo che la se l’offeriva. Ma seben
+                    il negotio è passato bene a me però ha conturbato il nomato grandemente
+                    parendomi cosa molto essorbitante che essendosi offerta occasione legitima non
+                    violenta ma flegmatica conforme al paese et sicura di cavarsi il serpente del
+                    seno castigando il maggior nemico che hebbi la santa fede et S. A., se l’habbi
+                    di nuovo per quanto è stato in lei senza necessità, anzi voluntariamente rimesso
+                    in esso.</p>
+                <p>Hora mentre io mi occupavo in applicare opportuno et sufficiente rimedio in
+                    questo disordine ne è occorso nel istesso tempo un altro di non minor qualità et
+                    forsi di peggior consequentie, havendo S. A. approvato un parere del consiglio
+                    suo de la camera, nel quale non è cattolico alcuno di mandare per conto di certi
+                    boschi a residere in Goritia per alcuni mesi un heretico, altre volte cacciato
+                    di quel contado per causa de la religione, et seben S. A. le ha fatto promettere
+                    che non parlarà mai ne le cose de la fede, che amalandosi non si farà né
+                    confessare né communicare conforme al essercitio heretico, con tutto ciò essendo
+                    l’heresia non senza grandissima cagione stata da li santi padri comparata a la
+                    peste, è perciò impossibile che un heretico possi conversare in mezzo d’un
+                    popolo cattolico et non causare effetto di contagione non ostante qualsivoglia
+                    promessa, poiché il medemo diabolico spirito che lo aggita et domina, lo traherà
+                    ad <pb xml:id="P2_0000213"/>ogni voglia sua in tutto quel che sarà di maggior
+                    detrimento del honore di Dio et de la santa religione. Di questo particolare
+                    ancorche io ne habbi fatto in viva voce et in scritto efficacissimi offitii non
+                    ho per ancora risolutione, perché S. A. si escusa con la premuria de li huomini
+                    atti a tal carico et dice d’havere ricercato l’arciduca Ferdinando suo fratello,
+                    che li provedesse di uno, et che li ha risposto che non ne ha per se, et per
+                    consistere quasi tutte le rendite di S. A. in legnami non sanno dove voltarsi
+                    massime che quel cattolico che al presente ha tal cura è stato poco fidele ne la
+                    sua administratione.</p>
+                <p>Questi doi accidenti nati con mio grandissimo dispiacere et fuor d’ogni mia
+                    aspettatione mi hanno messo con l’occasione che S. A. si suol confessar in
+                    questi s.mi giorni di Natale di communicare con il padre provintiale de la
+                        compagnia<note xml:id="FN2_00140_06" type="footnote">P. Heinrich Blyssem,
+                        Beichtvater Erzherzog Karls.</note>alcuni punti spettanti a la conscientia
+                    di S. A., accioché lui in mio nome li proponghi al A. S. et sappia doppo come
+                    governarsi circa quello che concerne l’offitio suo. Egli seben si mostrava
+                    renitente da principio si è però acquietato a la volontà che io potrò far
+                    argumento che S. A. le ha dato sodisfattione . . . <note xml:id="FN2_00140_07"
+                        type="footnote">Loch im Papier, ein Wort dürfte fehlen.</note>non dovendo né
+                    potendo egli communicarmi doppo cosa alcuna.</p>
+                <p>Mando a V. S. Ill.ma li punti dati al detto padre<note xml:id="FN2_00140_08"
+                        type="footnote">Von Malaspina für P. Blyssem ausgearbeitete Punkte, die bei
+                        der bevorstehenden Weihnachtsbeichte Erzherzog Karls beachtet werden sollen
+                        (Arch. Vat., Nunz. Germ. 101, f. 125r—126r).</note>et spero ne la bontà del
+                    Sig. Dio, il quale cognosce et la retta mia volontà et la necessità che ho di
+                    tentare tutte le vie che faccio, che la S.tà di N. S. accetterà in buona parte
+                    quello che io ho procurato che si communichi con S. A., poiché non potendo noi
+                    qua giù sapere quando piacerà a S. D. M.tà di concedere la pienezza di tempi et
+                    dare l’incremento a quel poco che si pianta et si rigga, non ostante l’obice che
+                    da tante parti si pone è ben almeno offitio nostro procurando di fare tutto
+                    quello che si può assicurare la conscienza nostra et fuggire il castigo, quale
+                    giustamente si potrebbe temere per non haver parlato et annuntiato la verità
+                    insieme con li errori che si commettono, et in vero sarebbe troppo desdicevole
+                    esser circondato da profeti falsi, li quali non essendo mandati pur corrono, non
+                    li parlando il Signore pur profetezzano che il ministro del vicario di Christo
+                    fosse come un cane muto, et non si resentisse de le offese che si commettono
+                    contra l’honore di<pb xml:id="P2_0000214"/> Dio. Et perché del essito de la
+                    dieta non si può per ancora far certo giuditio, seben si spera che non faranno
+                    mentione di religione ma contribuiranno . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

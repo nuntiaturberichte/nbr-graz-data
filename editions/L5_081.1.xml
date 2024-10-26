@@ -1,196 +1,204 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_081.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-10-09" n="1">1599-10-09</title>
-                    <title level="a">81.1. Portia an San Giorgio - Passau, 1599 Oktober 9</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 176r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilage: fol. 177r, Avviso, an San Giorgio adressiert, Passau, 1599
-						Oktober 9.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_081.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-10-09" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2855328">Passau</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_080.2.xml">80.2. San Giorgio an Portia - Frascati, 1599 Oktober 2</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_082.1.xml">82.1. San Giorgio an Portia - Rom, 1599 Oktober 9</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_080.2.xml">80.2. San Giorgio an
-                            Portia - Frascati, 1599 Oktober 2</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_082.1.xml">82.1. San Giorgio an
-                            Portia - Rom, 1599 Oktober 9</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Keine Postsendung in der vergangenen Woche erfolgt. Die Uskokenfrage liegt in
-						den Händen des Kaisers. Ankunft Portias in Passau am 6. Oktober, wo die
-						kaiserlichen Kommissare bereits eingetroffen waren. Der Dompropst [Pötting]
-						wurde im Sinne des Heiligen Stuhles zum Administrator des Bistums erklärt.
-						Erzherzogin Maria, der Portia die Schreiben San Giorgios nachgesandt hat,
-						befindet sich auf der Reise nach Polen. Wenige Informationen über die
-						Situation in Ungarn. Posteingang.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="81.1">Portia an San Giorgio - Passau, 1599 Oktober 9</head>
-				<div>
-					<pb xml:id="P5_0000216"/>
-					<p>Ho tralasciato la precedente settimana di scriver a V. S. Ill.ma perché ero
-						in viaggio per Possa et perché anco non mi veniva somministrata materia di
-						farlo.</p>
-					<p>Del scrabroso negotio degl’Uscocchi Dio sa quanto io ne sia sollecito et
-						quanti uffici et tentativi io habbia continovamente fatti acciò si venisse
-						una volta a qualch’appuntamento, ma come altre volte ho scritto<note xml:id="FN5_081.1_01" type="footnote">Vgl. Nr. 68.1, 72.1, 74.2,
-							76.1.</note>, se ben si scuopre buona volontà nell’Arciduca, tuttavia
-						quando si parla di venir all’effetto non si sente altro che debolezza di non
-						poter farlo, et in Corte Cesarea, dove la cosa dovrebb’esser essaminata per
-						il suo dritto et rissoluta finalmente, come si converebbe, pare che passi
-						con ogni sorte di tepidezza et con puoco pensiero. Il Sig. Delfini con
-						lettere de 22 del passato<note xml:id="FN5_081.1_02" type="footnote">Nicht
-							auffindbar.</note> mi avvisa d’haver fatto presentare il Breve di N. S.
-						a S. M.tà per mezo del suo Segretario<note xml:id="FN5_081.1_03" type="footnote">Clemens VIII. an Rudolf II., Rom, 1599 August 29:
-							NANNIIMRKONJIé 3, Nr. 13268. Delfini berichtete San Giorgio am 20.
-							September 1599 von der Entsendung seines Sekretiirs nach Pilsen/Plzen.
-							Kaiser Rudolf II. antwortete Clemens VIII. und Kardinal San Giorgio am
-							27. September 1599: vgl. HORVAT 1, S. 271, S. 273f.</note>,
-						poich’allhora non haveva veduto tempo opportuno di chieder audienza; se in
-						quella Corte cominciasse una volta il negotio a pigliar qualche segno di
-						bona piega, non temerei poiché gl’altri non fossero per fare la parte
-						loro.</p>
-					<p>Gionsi qui sotto li 6 dove erano già arrivati li Commissarii Cesarei
-						interessati per la giurisdittione temporale, et da me secondo la mente di N.
-						S. si è dichiarato per Amministratore di questa Chiesa il Preposito, persona
-						di buone qualità et che spero dover esser di molto profitto et utile così al
-						governo Ecclesiastico com’al temporale, nel possesso de quali s’attende hora
-						d’introdurlo, dovend’io poi metter studio in riordinare molte cose spettanti
-						al culto divino et al stato Ecclesistico, di che di mano in mano ne verrò a
-						dar conto a V. S. Ill.ma.</p>
-					<p>Con la Ser.ma Arciduchessa che hormai s’era incaminata al suo viaggio di
-						Polonia ho complito per via di lettere l’officio che V. S. Ill.ma mi
-						commandava et holle inviate medesimamente quelle di V. S. Ill.ma<note xml:id="FN5_081.1_04" type="footnote">Nicht auffindbar.</note>, le quali
-						so che le saranno molto grate per l’affettione, che le mostra di
-						portare.</p>
-					<p>Se bene il tempo è così inanti che si dovrebbe sentire qualche fattione in
-						Ungheria con tutto ciò parendo che gl’uni et gl’altri stiano fin hora su la
-						difesa, ma non si ha avviso però degno di darsi a V. S. Ill.ma, alla cui
-						lettera de 18 del passato<note xml:id="FN5_081.1_05" type="footnote">Nr.
-							75.4.</note> è quant’io posso risponder …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_081.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-10-09" n="1">1599-10-09</title>
+                <title level="a">81.1. Portia an San Giorgio - Passau, 1599 Oktober 9</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 176r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilage: fol. 177r, Avviso, an San Giorgio adressiert, Passau, 1599
+                        Oktober 9.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_081.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-10-09" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2855328">Passau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_080.2.xml"
+                        >80.2. San Giorgio an Portia - Frascati, 1599 Oktober 2</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_082.1.xml">82.1.
+                        San Giorgio an Portia - Rom, 1599 Oktober 9</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_080.2.xml">80.2. San Giorgio an
+                        Portia - Frascati, 1599 Oktober 2</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_082.1.xml">82.1. San Giorgio an
+                        Portia - Rom, 1599 Oktober 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Keine Postsendung in der vergangenen Woche erfolgt. Die Uskokenfrage liegt in den
+                    Händen des Kaisers. Ankunft Portias in Passau am 6. Oktober, wo die kaiserlichen
+                    Kommissare bereits eingetroffen waren. Der Dompropst [Pötting] wurde im Sinne
+                    des Heiligen Stuhles zum Administrator des Bistums erklärt. Erzherzogin Maria,
+                    der Portia die Schreiben San Giorgios nachgesandt hat, befindet sich auf der
+                    Reise nach Polen. Wenige Informationen über die Situation in Ungarn.
+                    Posteingang.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="81.1">Portia an San Giorgio - Passau, 1599 Oktober 9</head>
+            <div>
+                <pb xml:id="P5_0000216"/>
+                <p>Ho tralasciato la precedente settimana di scriver a V. S. Ill.ma perché ero in
+                    viaggio per Possa et perché anco non mi veniva somministrata materia di
+                    farlo.</p>
+                <p>Del scrabroso negotio degl’Uscocchi Dio sa quanto io ne sia sollecito et quanti
+                    uffici et tentativi io habbia continovamente fatti acciò si venisse una volta a
+                    qualch’appuntamento, ma come altre volte ho scritto<note xml:id="FN5_081.1_01"
+                        type="footnote">Vgl. Nr. 68.1, 72.1, 74.2, 76.1.</note>, se ben si scuopre
+                    buona volontà nell’Arciduca, tuttavia quando si parla di venir all’effetto non
+                    si sente altro che debolezza di non poter farlo, et in Corte Cesarea, dove la
+                    cosa dovrebb’esser essaminata per il suo dritto et rissoluta finalmente, come si
+                    converebbe, pare che passi con ogni sorte di tepidezza et con puoco pensiero. Il
+                    Sig. Delfini con lettere de 22 del passato<note xml:id="FN5_081.1_02"
+                        type="footnote"> Nicht auffindbar.</note>mi avvisa d’haver fatto presentare
+                    il Breve di N. S. a S. M.tà per mezo del suo Segretario <note
+                        xml:id="FN5_081.1_03" type="footnote">Clemens VIII. an Rudolf II., Rom, 1599
+                        August 29: NANNIIMRKONJIé 3, Nr. 13268. Delfini berichtete San Giorgio am
+                        20. September 1599 von der Entsendung seines Sekretiirs nach Pilsen/Plzen.
+                        Kaiser Rudolf II. antwortete Clemens VIII. und Kardinal San Giorgio am 27.
+                        September 1599: vgl. HORVAT 1, S. 271, S. 273f.</note>, poich’allhora non
+                    haveva veduto tempo opportuno di chieder audienza; se in quella Corte
+                    cominciasse una volta il negotio a pigliar qualche segno di bona piega, non
+                    temerei poiché gl’altri non fossero per fare la parte loro.</p>
+                <p>Gionsi qui sotto li 6 dove erano già arrivati li Commissarii Cesarei interessati
+                    per la giurisdittione temporale, et da me secondo la mente di N. S. si è
+                    dichiarato per Amministratore di questa Chiesa il Preposito, persona di buone
+                    qualità et che spero dover esser di molto profitto et utile così al governo
+                    Ecclesiastico com’al temporale, nel possesso de quali s’attende hora
+                    d’introdurlo, dovend’io poi metter studio in riordinare molte cose spettanti al
+                    culto divino et al stato Ecclesistico, di che di mano in mano ne verrò a dar
+                    conto a V. S. Ill.ma.</p>
+                <p>Con la Ser.ma Arciduchessa che hormai s’era incaminata al suo viaggio di Polonia
+                    ho complito per via di lettere l’officio che V. S. Ill.ma mi commandava et holle
+                    inviate medesimamente quelle di V. S. Ill.ma<note xml:id="FN5_081.1_04"
+                        type="footnote">Nicht auffindbar.</note>, le quali so che le saranno molto
+                    grate per l’affettione, che le mostra di portare.</p>
+                <p>Se bene il tempo è così inanti che si dovrebbe sentire qualche fattione in
+                    Ungheria con tutto ciò parendo che gl’uni et gl’altri stiano fin hora su la
+                    difesa, ma non si ha avviso però degno di darsi a V. S. Ill.ma, alla cui lettera
+                    de 18 del passato<note xml:id="FN5_081.1_05" type="footnote">Nr. 75.4.</note>è
+                    quant’io posso risponder …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00322">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1595-03-04" n="1">1595-03-04</title>
+                <title level="a">322. Aldobrandini an Portia - Rom, 1595 März 4</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+                                Heinz</persName>
+                            <persName>Rainer Christian</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+                            Kobenzl; 1592-1595</title>
+                        <idno type="ISBN">3-7001-2964-5</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2001</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturinstitut
+                                    in Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="3">3. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="484">484 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturinstitut in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. F. Borg. III, vol. 48 c, f. 9r—10r, Kopie.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L3_00322">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1595-03-04" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L3_00321.xml"
+                        >321. Aldobrandini an Portia - Rom, 1595 Februar 25</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L3_00323.xml">323.
+                        Carillo an Aldobrandini - Graz, 1595 März 6</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00321.xml">321. Aldobrandini an
+                        Portia - Rom, 1595 Februar 25</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00326.xml">326. Aldobrandini an
+                        Portia - Rom, 1595 März 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Auftrag zum Einschreiten gegen Vereinigung der Klöster von Sitten und Wettingen.
+                    Ehedispens für Oberst Pfiffer. Zum Regierungsantritt Ehzgs Ferdinand nach
+                    Graz.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="322">Aldobrandini an Portia - Rom, 1595 März 4</head>
+            <div>
+                <p>L’Ill.mo signor cardinale d’Austria scrisse poi assai tardi dell’enorme unione
+                    fatta da svizzeri del monasterio di Sion<note xml:id="FN3_00322_01"
+                        type="footnote">Sion/Sitten, Wallis.</note>alla badia di Vettinga <note
+                        xml:id="FN3_00322_02" type="footnote">Wettingen O.Cist. Aargau.</note>et
+                    supplicò N. S. a porvi rimedio per la ingiustizia del fatto et per il danno
+                    dell’essempio; sopradiché considerando S. B.ne a quel che convenga et le male
+                    consequenze che derivano dalle medicine applicate indanno, ha risoluto che V. S.
+                    medesima si trasferisca in quel luoco <note xml:id="FN3_00322_03"
+                        type="footnote">Siehe Nr. 327, 328.</note>che più le parerà opportuno per il
+                    buono indrizzo del negotio che potria essere per aventura la medesima badia di
+                    Vettinga, mandandosi breve in sua credenza princi<pb xml:id="P3_0000397"
+                    />palmente per l’abbate et poi per li cantoni cattolici a quali niuno meglio di
+                    V. S. saprà mostrare quanto denigri una simile stravaganza la fama della loro
+                    religione et il titolo che portano, il quale gli obliga a difendere le
+                    giurisditioni della chiesa, non confonderle, massime potendosi persuadere che di
+                    qua non dimanderanno gratia alcuna che possa giovare al culto divino et alla
+                    loro consolatione spirituale, che S. B.ne non sia per farla volontieri l’abbate
+                    mentre che si trattasse seco molto duramente, facendogli perdere quello che
+                    posside con ragione, poiché senza ragione ha voluto usurpare quella d’altri ma
+                    V. S. sa ciò che ricerca il tempo et il luoco; però alla sua prudenza si rimette
+                    il modo di maneggiare tutta la facenda, la quale siamo quasi securi che debba
+                    passare come si desidera; raccomandandosi alla destrezza et felicità della sua
+                    mano, nella quale per ché si confida molto, se le danno anco molti fastidii, et
+                    io la prego a pigliar anco questo volontieri, assicurandola che sto col pensiero
+                    attento, acciò le proveda di stanza più quieta et di commodità maggiore di
+                    sostenerla, né ella tarderà a vederne l’effetto, se Dio benedetto favorirà li
+                    miei desiderii. Si scrive all’Ill.mo signor cardinale d’Austria questa
+                    risolutione <note xml:id="FN3_00322_04" type="footnote">Siehe Nr. 326.</note>che
+                    si è presa, acciò vi aggiunga quelli offitii che pareranno a proposito et
+                    spedisca con diligenza le lettere con li brevi, sperando che siano per ritrovare
+                    V. S. o in S. Gallo o in Costanza che non sarà poi lungo camino quel che le
+                    resterà da fare. Et perché ella possa anco ritrovare più pronti gli amici in
+                    questa occorenza, spero che con le presenti se le manderà il breve della
+                    dispensa dimandata dal colonello Pfiffer spedita totalmente gratis, come V. S.
+                    desiderava, la quale se udirà che l’arciduca Ferdinando sia per pigliare il
+                    governo degli stati suoi conforme alla fretta che vederà in altri per tal
+                    essecutione, potia anco regolare li viaggi suoi mostrando N. S. inchinatione che
+                    V. S. si truovi per qualche mese presso quel prencipe giovane per aiutare a ben
+                    incaminar li principii dell’aministratione; <note xml:id="FN3_00322_05"
+                        type="footnote">Siehe Nr. 330. Mit Breve vom 13. November 1595 wurde Graf
+                        Giovanni della Torre zum Nuntius in der Schweiz ernannt, angekommen Anfang
+                        1596, abberufen mit Breve vom 1. Juli 1606: Pfister II, 325 f.</note>se bene
+                    di questo non le do per hora cosa più certa, et il tempo servirà ancora perché
+                    intendiamo in lettere a parte ciò che a lei pare . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

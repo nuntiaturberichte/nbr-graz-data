@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00322">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1586-06-12" n="1">1586-06-12</title>
+                <title level="a">322. Caligari an Pellevé - Görz, 1586 Juni 12</title>
+                <author ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Congreg. Vescovi e Regolari, Pos. 1586, Lett. A.,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00322">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                        Andrea</persName>
+                    <date when="1586-06-12" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3175986">Gorizia</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#https://viaf.org/viaf/7543468/">Pellevé, Nicolas de</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_028">Caligari,
+                        Giovanni Andrea - Pellevé, Nicolas de</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00321.xml"
+                        >321. Caligari an Pellevé - Görz, 1586 Mai 22</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00323.xml">323.
+                        Caligari an Pellevé - Görz, 1586 Juli 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_028" target="L2_00321.xml">321. Caligari an Pellevé -
+                        Görz, 1586 Mai 22</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_028" target="L2_00323.xml">323. Caligari an Pellevé -
+                        Görz, 1586 Juli 17</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Widerlegung der Beschwerden der Nonnen von Aquileia gegen Anordnungen des
+                    Visitators, Mißbrauch päpstlicher Privilegien, Verletzung der Klausur. Nonnen
+                    sollen während der heißen Jahreszeit aus Gesundheitsrücksichten nach Cividale
+                    übersiedeln und nicht zu ihren Verwandten gehen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="322">Caligari an Pellevé - Görz, 1586 Juni 12</head>
+            <div>
+                <p>Ritrovandomi in letto amalato sono venuti gli agenti de le monache d’Aquileia a
+                    darmi gl’aggravii, che pretendono havere ricevuti da la visita del vescovo di
+                    Parenzo visitatore apostolico,<note xml:id="FN2_00322_01" type="footnote">Vgl.
+                        oben Nr. 321.</note>sopra li quali che vengono alligati dirò al meglio et
+                    più brevemente che potrò il parer mio, sì come V. S. Ill.ma mi commanda
+                    rimettendomi però sempre al suo prudentissimo giudicio.</p>
+                <p>1.) Dico adunque che l’essentione di queste rev. monache dal suo ordinario et li
+                    privilegi apostolici abusati da loro sono stati causa <pb xml:id="P2_0000463"
+                    />de la totale dissolutione del loro monasterio et chi volesse hoggi levarle la
+                    essentione et sottoporle al patriarca d’Aquileia non potrebbe senza gran rumore,
+                    essendo che il ser.mo arciduca Carlo signore de la città d’Aquileia non lo
+                    comportarebbe per interessi di Stato, che passano tra S. A. et la Ser.ma Sig.ria
+                    di Venetia. <note xml:id="FN2_00322_02" type="footnote">Vgl. oben Nr.
+                        273.</note>Però è necessario pensare ad alto remedio.</p>
+                <p>La lettera di V. S. Ill.ma de 11 di marzo diretta a me<note xml:id="FN2_00322_03"
+                        type="footnote">Nicht vorhanden.</note>è stata ritenuta artificiosamente da
+                    le monache in sino adesso, accioché se io ben fosse sano non potessi però andare
+                    a visitare il monasterio essendo già quel aria infetta. Et quanto più elle
+                    conoscano la impossibilità d’andarvi et per l’aria infetta et per la mia
+                    indispositione, tanto fanno più gagliarda instanza, che io vada, malitia che ben
+                    mostra con che mente caminino et le monache et gl’ agenti loro.</p>
+                <p>2.) Tenere aperte le porte che vanno dal monasterio in chiesa et da la chiesa in
+                    publico, non è altro che aprire et violare totalmente la clausura. Et perché le
+                    monache non fanno stima de le censure poste da sacri canoni et manco de la
+                    scommunica messa dal vescovo di Parenzo in questo particolare, et non si degnano
+                    manco dimandare l’assolutione V. S. Ill.ma consideri, che corruptela è la
+                    loro.</p>
+                <p>3.) Essendo gl’ altri abusi molto maggiori et in gran coppia per condescendere a
+                    l’infirmità di questi madri, pare che si potrebbono tolerare per adesso, che le
+                    fenestre stessino come stavano senza alterarle altrimente.</p>
+                <p>4.) Il decreto di mons. di Parenzo è buono et santo, ma considerando a gl’altri
+                    infiniti abusi, che sono in quel monasterio pare, che si potrebbe andare
+                    dissimulando per un poco l’usanza vecchia, se bene non buona, non essendo
+                    possibile per natura, essequire in un monasterio dissoluto tante reformationi in
+                    un subito.</p>
+                <p>5.) Che le monache vadano al tempo de la estate vagando fuori del monasterio in
+                    casa di parenti et di amici<note xml:id="FN2_00322_04" type="footnote">Die
+                        Nonnen wichen der Malaria aus, die in und um Aquileia so stark verbreitet
+                        war, daß sich der Patriarch gezwungen sah, während der warmen Jahreszeit von
+                        den 12 Priestern an der Kathedrale abwechselnd jeweils nur zwei für den
+                        Gottesdienst dort zu belassen, weil sonst durch Krankheit und Tod fallweise
+                        alle ausgefallen waren (Arch. Vat. Cong. Vesc. e Regol. Pos. 1586 Lett.
+                        A—C).</note>è cosa pericolosissima et di tale natura che terrà sempre in
+                    disordine quel monasterio, con dispendio de la salute de l’anime et de la
+                    pudicitia de le monache, et però è buono il decreto di mons. di Parenzo, che
+                    vadano tutte, se non <pb xml:id="P2_0000464"/>in una volta al manco in due al
+                    monasterio di Cividale. Il quale monasterio per quanto sono informato è capace
+                    di ricevere commodamente tutte le monache professe, che sono 22 et mandare le
+                    novitie a casa de lor parenti. Dire che non ponno fabricare il monasterio di
+                    Cividale per rispetto de le guerre etc. è una scusa magra per non volere servare
+                    clausura, né disciplina regolare, né in Aquileia né in Cividale.</p>
+                <p>6.) et 7.) Non pare hora che sia loco di disputare di questi abusi minori, ma
+                    passare a la provisione de maggiori, et massime che le monache non vadano
+                    vagando liberamente per il paese, come sono solite et come dissegnano di
+                    fare.</p>
+                <p>La coppia de privilegi apostolici, che le monache mandano,<note
+                        xml:id="FN2_00322_05" type="footnote">Ebenda Abschriften von Urkunden
+                        Bonifaz IX., Alexanders VI. und Klemens VII.</note>è superflua, poiché sono
+                    già tutti rivocati et dal sacro concilio di Trento et da la bolla di Pio V come
+                    ben sa V. S. Ill.ma.</p>
+                <p>Mando la coppia de la visita del vescovo di Parenzo, accioché V. S. Ill.ma veda,
+                    che tutti li suoi decreti sono salutari et fatti canonicamente, et che le
+                    monache si lamentano senza ragione.<note xml:id="FN2_00322_06" type="footnote"
+                        >Ebenda Anordnungen des apostolischen Visitators für die Nonnen von Aquileia
+                        vom 11. März 1585, 11 Folien.</note>Supplico bene V. S. Ill.ma a tener
+                    secreta questa mia lettera, che faccio per mera obedienza et per debito de la
+                    fede et de l’ufficio mio con ogni sincerità, imperoché sendo queste monache
+                    interessate con tutta la nobiltà et signori de la provincia, rivelandosi la mia
+                    relatione, io non là passerei senza pericolo . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00304">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1585-10-07" n="1">1585-10-07</title>
+                <title level="a">304. Caligari an Rusticucci - Graz, 1585 Oktober 7</title>
+                <author ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 68, f. 241rv, Orig.; Antwort am 19.
+                            Oktober.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00304">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                        Andrea</persName>
+                    <date when="1585-10-07" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/128766026">Rusticucci, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_025">Caligari,
+                        Giovanni Andrea - Rusticucci, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00303.xml"
+                        >303. Caligari an Rusticucci - Graz, 1585 September 30</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00305.xml">305.
+                        Caligari an Rusticucci - Graz, 1585 Oktober 7</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_025" target="L2_00303.xml">303. Caligari an
+                        Rusticucci - Graz, 1585 September 30</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_025" target="L2_00305.xml">305. Caligari an
+                        Rusticucci - Graz, 1585 Oktober 7</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Empfiehlt Überarbeitung und Publikation eines nützlichen Traktates eines
+                    französischen Kalviners gegen Macchiavelli.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="304">Caligari an Rusticucci - Graz, 1585 Oktober 7</head>
+            <div>
+                <pb xml:id="P2_0000435"/>
+                <p>Fra tutti i libri che uscirono mai da qualsivoglia perverso heretico o impio
+                    atheo non credo siano li peggiori ne li maggiori nimici a cotesta Santa Sede et
+                    a tutta la religione Christiana che li libri di Nicolo Macchiavelli Fiorentino.
+                    Et per nostra mala ventura hoggidì non è libro niuno più letto né più celebrato
+                    in Italia et fuori, né le Corti de’ principi et né le republiche, et che stia
+                    più assiduamente non ostante qualsivoglia prohibitione ne le mani di coloro che
+                    fanno professione d’intendere bene le cose de’ stati che questo perniciosissimo
+                    authore. Questa cosa ha fatto stomaco non solo a catolici ma etiandio a gli
+                    heretici istessi.</p>
+                <p>La onde un Calvinista Francese senza nome, huomo di molta lettione et di elegante
+                    stile ma di prava mente, vi ha fatto un trattato contra con questo titolo:
+                    Commentariorum de Regno aut quovis Principatu recte et tranquille administrando
+                    libri tres adversus Nicolaum Macchiavellum Florentinum. Et perché con molte
+                    ragioni politice et essempii cavati da l’historie cerca di confutare le
+                    prepositioni impie et l’atheismo del Macchiavello, se bene a l’usanza de gli
+                    heretici, fa spesso digressioni et sparge in molte parti il suo veleno, pare a
+                    me che l’argumento del libro et la principale intentione di confutare il
+                    Macchiavello non sia mala, et che si potrebbe espurgare facilmente anzi cavare,
+                    come si dice, l’oro del sterco et corroborarlo et accrescerlo con più forti et
+                    efficcaci ragioni, et con migliore et maggiore coppia d’essempii reducendolo
+                    ancora a più bello ordine et più perfetta forma. Et tutto questo senza molto
+                    travaglio si effettuarebbe presto, quando piacesse a la S.tà di N. S. darne la
+                    cura a una congregatione d’huomini valenti, de li quali per Dio gratia non è
+                    carestìa in Roma, tra li quali oltre li theologi fossero persone ben versate ne
+                    la politica et ne l’historia et massime ecclesiastica et sopra tutto uno di
+                    bello et ornato stile latino. Et perché il libro usci prima in lingua francese
+                    et poi fu fatto latino il nostro parimente si potrebbe fare latino et italiano.
+                    Sel non fosse stato visto prima costì, piaciendo a N. S. lo mandarò io subito
+                    per la posta perché non è gran volume<note xml:id="FN2_00304_01" type="footnote"
+                        >Vgl. unten Nr. 310.</note>. . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

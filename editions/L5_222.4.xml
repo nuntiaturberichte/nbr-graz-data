@@ -1,179 +1,185 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_222.4"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-05-19" n="4">1601-05-19</title>
-                    <title level="a">222.4. San Giorgio an Portia - Rom, 1601 Mai 19</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 67r–v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_222.4">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-05-19" n="4"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_222.3.xml">222.3. San Giorgio an Portia - Rom, 1601 Mai 19</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_222.5.xml">222.5. Aldobrandini an Portia - Rom, 1601 Mai 19</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_222.3.xml">222.3. San Giorgio an
-                            Portia - Rom, 1601 Mai 19</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_224.1.xml">224.1. San Giorgio an
-                            Portia - Rom, 1601 Mai 26</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Beziiglich Arnoldstein soll jeglicher Konflikt mit dem Bischof von Bamberg
-						[Gebsattel] vermieden werden. Portia soll sich vielmehr um ein Übereinkommen
-						bemühen. Die päpstlichen Truppen werden bald abmarschieren, auch aus Mailand
-						kommen gute Nachrichten. Zufriedenheit über die neuen Anordnungen Erzherzog
-						Ferdinands bezüglich der Vorbereitungen für die Türkenabwehr. Das den
-						österreichischen Baron [Schönkirchen] betreffende Breve wird dem Kaiser
-						zugesandt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="222.4">San Giorgio an Portia - Rom, 1601 Mai 19</head>
-				<div>
-					<p>Fu già risposto a V. S. che si havrà risguardo di non metterla in diffidenza
-						co ’l Vescovo di Bamberga per la esecutione del negotio di Orlestain et il
-						medesimo se le replica di nuovo<note xml:id="FN5_222.4_01" type="footnote">Vgl. Nr. 217.2.</note>, ma se le replica tuttavia ancora, che mentre
-						ella tratta come mediatrice faccia ogni opera che non nasca inconveniente
-						alcuno per questa causa et resti persuaso il Vescovo, se possibile è che gli
-						convenga di quietarsi<note xml:id="FN5_222.4_02" type="footnote">Portia
-							hatte sich am 9. und 20. Mai 1601 an Bischof Gebsattel gewandt und ihn
-							um seine Zustimmung für die Übergabe Arnoldsteins an den Jesuitenorden
-							gebeten sowie seine Position als Ausführender der päpstlichen Befehle
-							untermauert: vgl. Portia an Gebsattel, Graz, 1601 Mai 9, KLA, Stift
-							Arnoldstein I, Fasz. 23, fol. 46r; Portia an Gebsattel, Graz, 1601 Mai
-							20, KLA, Stift Arnoldstein I, Fasz. 23, fol. 47r–v (beide Schreiben als
-							Abschriften erhalten).</note>.<pb xml:id="P5_0000497"/>
-					</p>
-					<p>Dei nuovi ordini che si danno dal Ser.mo Arciduca per servitio della guerra
-						riceverà S. A. più servitio et più commodo di alcun altro onde è ben dovere
-						che vi si riscaldi. Di qua non si pretermette diligenza alcuna perché le
-						genti si possano incaminare quanto prima et quello che ci piace grandemente
-						pare che s’intenda anco da Milano che gl’aiuti Regii verranno in tempo.</p>
-					<p>Per il Barone di Austria del quale V. S. ha rimesso il memoriale si scrive
-						all’Imperatore il Breve che viene qui incluso con la copia<note xml:id="FN5_222.4_03" type="footnote">Hans Wilhelm von Schönkirchen
-							(gest. 1615), kaiserlicher Rat, Erbtürhüter in Österreich unter der
-							Enns. Er konvertierte 1585 zur katholischen Religion: vgl. MAYER, S. 109
-							(Anm. 3). Schönkirchen wird dem Kaiser mit Breve vom 19. Mai 1601 für
-							seine Verdienste um den katholischen Glauben empfohlen: vgl. ASV, Arm.
-							XLIV, 45, fol. 145v–146v (NANNIIMRKONJIé 3, Nr. 13943 [Fehllesung des
-							Namens als Schirchenius]).</note>. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_222.4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-05-19" n="4">1601-05-19</title>
+                <title level="a">222.4. San Giorgio an Portia - Rom, 1601 Mai 19</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 67r–v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_222.4">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-05-19" n="4"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_222.3.xml"
+                        >222.3. San Giorgio an Portia - Rom, 1601 Mai 19</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_222.5.xml">222.5.
+                        Aldobrandini an Portia - Rom, 1601 Mai 19</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_222.3.xml">222.3. San Giorgio an
+                        Portia - Rom, 1601 Mai 19</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_224.1.xml">224.1. San Giorgio an
+                        Portia - Rom, 1601 Mai 26</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Beziiglich Arnoldstein soll jeglicher Konflikt mit dem Bischof von Bamberg
+                    [Gebsattel] vermieden werden. Portia soll sich vielmehr um ein Übereinkommen
+                    bemühen. Die päpstlichen Truppen werden bald abmarschieren, auch aus Mailand
+                    kommen gute Nachrichten. Zufriedenheit über die neuen Anordnungen Erzherzog
+                    Ferdinands bezüglich der Vorbereitungen für die Türkenabwehr. Das den
+                    österreichischen Baron [Schönkirchen] betreffende Breve wird dem Kaiser
+                    zugesandt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="222.4">San Giorgio an Portia - Rom, 1601 Mai 19</head>
+            <div>
+                <p>Fu già risposto a V. S. che si havrà risguardo di non metterla in diffidenza co
+                    ’l Vescovo di Bamberga per la esecutione del negotio di Orlestain et il medesimo
+                    se le replica di nuovo<note xml:id="FN5_222.4_01" type="footnote">Vgl. Nr.
+                        217.2.</note>, ma se le replica tuttavia ancora, che mentre ella tratta come
+                    mediatrice faccia ogni opera che non nasca inconveniente alcuno per questa causa
+                    et resti persuaso il Vescovo, se possibile è che gli convenga di quietarsi<note
+                        xml:id="FN5_222.4_02" type="footnote"> Portia hatte sich am 9. und 20. Mai
+                        1601 an Bischof Gebsattel gewandt und ihn um seine Zustimmung für die
+                        Übergabe Arnoldsteins an den Jesuitenorden gebeten sowie seine Position als
+                        Ausführender der päpstlichen Befehle untermauert: vgl. Portia an Gebsattel,
+                        Graz, 1601 Mai 9, KLA, Stift Arnoldstein I, Fasz. 23, fol. 46r; Portia an
+                        Gebsattel, Graz, 1601 Mai 20, KLA, Stift Arnoldstein I, Fasz. 23, fol. 47r–v
+                        (beide Schreiben als Abschriften erhalten).</note>.</p>
+                <pb xml:id="P5_0000497"/>
+                <p>Dei nuovi ordini che si danno dal Ser.mo Arciduca per servitio della guerra
+                    riceverà S. A. più servitio et più commodo di alcun altro onde è ben dovere che
+                    vi si riscaldi. Di qua non si pretermette diligenza alcuna perché le genti si
+                    possano incaminare quanto prima et quello che ci piace grandemente pare che
+                    s’intenda anco da Milano che gl’aiuti Regii verranno in tempo.</p>
+                <p>Per il Barone di Austria del quale V. S. ha rimesso il memoriale si scrive
+                    all’Imperatore il Breve che viene qui incluso con la copia<note
+                        xml:id="FN5_222.4_03" type="footnote">Hans Wilhelm von Schönkirchen (gest.
+                        1615), kaiserlicher Rat, Erbtürhüter in Österreich unter der Enns. Er
+                        konvertierte 1585 zur katholischen Religion: vgl. MAYER, S. 109 (Anm. 3).
+                        Schönkirchen wird dem Kaiser mit Breve vom 19. Mai 1601 für seine Verdienste
+                        um den katholischen Glauben empfohlen: vgl. ASV, Arm. XLIV, 45, fol.
+                        145v–146v (NANNIIMRKONJIé 3, Nr. 13943 [Fehllesung des Namens als
+                        Schirchenius]).</note>. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

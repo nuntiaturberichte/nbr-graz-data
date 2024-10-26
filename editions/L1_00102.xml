@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00102">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1581-07-04" n="1">1581-07-04</title>
+				<title level="a">102. Malaspina an Gallio - Graz, 1581 Juli 4</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 325r—327r, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00102">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1581-07-04" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00101.xml"
+						>101. Malaspina an Abt von St. Lambrecht - St. Lambrecht, 1581 Juni 20</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00103.xml">103.
+						Malaspina an Santa Croce - Graz, 1581 Juli 8</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00100.xml">100. Gallio an Malaspina -
+						Rom, 1581 Juni 3</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00105.xml">105. Gallio an Malaspina -
+						Rom, 1581 Juli 15</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Maßnahmen zur Wiederherstellung der kirchlichen Disziplin und zur Durchführung
+					der Synodalbeschlüsse von 1569 in der Salzburger Diözese. Zahlreiche
+					Konversionen. Starke Zunahme der Kommunikanten und der Teilnehmer an
+					Fronleichnamsprozession. Wallfahrten nach Mariazell. Bemühungen um Beichte des
+					Klerus. Entfernung und Einkerkerung des Pfarrers von Judenburg. Verbot der
+					Zulassung Unehelicher zu den Weihen. Landesfürstliches Dekret gegen Kanoniker
+					von Aquileia. Schwere finanzielle Belastungen der Pfarrer und geringer Erfolg
+					bei Visitation im Patriarchat Aquileia. Frage eines Darlehens Hoffmanns an
+					Bistum Bamberg und dessen Entfernung von bambergischer Hauptmannschaft in
+					Kärnten. Exekution der Bulle in Coena Domini. Häretiker in der Grafschaft
+					Pisino. Heranziehung des Klosters S. Pietro in Selve für Alumnen des Bischofs
+					von Parenzo.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="102">Malaspina an Gallio - Graz, 1581 Juli 4</head>
+			<div>
+				<p>hanno pigliato per bene et approvato ciò<pb xml:id="P1_0000290"/> che io le
+					scrissi a li giorni passati<note xml:id="FN1_00102_02" type="footnote"> Vgl. Nr.
+						89, S. 248 f., Nr. 94, S. 260, und Nr. 99, S. 284.</note>et ne mandai
+						copia<note xml:id="FN1_00102_03" type="footnote"> Nicht vorhanden.</note>a
+					V. S. Illma, intorno a quello che giudicavo esser offitio et debito de’ prelati,
+					in tanta corruttione de la disciplina regolare et ecclesiastica, et acciò V. S.
+					Illma possi più chiaramente conoscere a che termine si è ridotto questo negotio,
+					tanti anni desiderato et aspettato da tutti li buoni et dali principi vicini, le
+					mando la lettera di mons. coadiutore_1) et del consigliero, <note
+						xml:id="FN1_00102_05" type="footnote">Name des Rates nicht
+					bekannt.</note>che venne da me per questo effetto, et supplico V. S. Illma con
+					ogni humiltà et efficacia che si degni di aiutare la dispositione che di
+					presente si ritrova ne l’arcivescovo con operar che N. S. lo monischi et stringa
+					a venire a l’executione, accioché non intervenghi dopo tante fatiche quello che
+					accenna il consigliero ne la sua et quello che a tempo dela s. me. di Pio V.,
+					che si celebrò il sinodo, <note xml:id="FN1_00102_06" type="footnote"
+						>Provinzialsynoden von 1569 und 1573 (Dalham, Concilia Salisburgensia, S.
+						348 ff.; Hübner, Die salzburgischen Provinzialsynoden, S. 112 ff.;
+						Schellhass, Ninguarda I, S. 53 ff. und 120 ff.).</note>si fecero sante
+					constitutioni et mai non si è in una minima parte osservato cosa alcuna, <note
+						xml:id="FN1_00102_07" type="footnote">Die von Ninguarda in Steiermark,
+						Kärnten und Salzburg 1578 durchgeführte Visitation bestätigte weitgehend
+						diese Behauptung, daß zwar auf den Synoden viel beschlossen wurde, in
+						Wirklichkeit dann aber wenig geschah (Schellhass, Ninguarda II, S. 24
+						ff.).</note>et invero sì come li settarii di queste parti non hanno havuto
+					altro pretesto più apparente per acreditare la loro diabolica dottrina, che la
+					mala vita de’ ecclesiastici et regolari, così se quando cominciorno a seminare
+					il loro seme fosse stata fatta una mediocre reformatione, non havrebbono mai
+					persuaso a la nobiltà, né ad altri quello che hanno fatto, ma non essendo
+					seguito mutatione alcuna de’ costumi, non è maraviglia se durante la causa dura
+					ancora l’effetto d’essa.</p>
+				<p>Et essendo non solo a li heretici, ma a li demonii formidabile la imaculata vita
+					de’ buoni servi di Dio, perciò dobbiamo sperare ne l’infinita misericordia di S.
+					D. Mtà, che se si farà una essentiale reformatione di questo paese, et che S. A.
+					faccia dal canto suo anco ella quello che può et deve, in breve si ridurrà la
+					religione al candore antico, et sono entrato in maggiore speranza dopo la
+					publicatione del decreto et la dimostratione che S. A. fa verso li catolici
+					servendosi d’essi in offitii,<note xml:id="FN1_00102_08" type="footnote">Vgl.
+						Nr. 68, S. 190 f., Nr. 72, S. 197, und Nr. 80, S. 219.</note>cosa che non si
+					è fatta più, dal che è causato che ogni giorno ritornano al gremio dela santa
+					fede molti et in gran numero<pb xml:id="P1_0000291"/> et hora, per opera di
+					quello predicatore convertito,<note xml:id="FN1_00102_09" type="footnote"> Siehe
+						Nr. 94, S. 261, und Nr. 100, S. 288.</note>habbiamo acquistato 10 gioveni di
+					molta speranza.</p>
+				<p>È piacciuto ancora a Dio che io habbia persuaso a lassare la vita heretica al
+					dottor Gema, Venetiano, medico, di questa nobiltà con molta sodisfattione de la
+					nostra natione.<note xml:id="FN1_00102_10" type="footnote">Wahrscheinlich
+						identisch mit dem späteren Hofarzt Dr. Johann Baptist Gemma (Thiel,
+						Zentralvenoaltung, S. 183). Vgl. Nr. 6, Anm. 6.</note>
+				</p>
+				<p>Ho fatto asservare la differenza che è stata da li anni passati a questo circa le
+					communioni et processioni del Santissimo Sacramento et, senza comparatione
+					alcuna, sono state molto più numerose; et mi pare cosa degna di far sapere a V.
+					S. Illma quello che si è saputo per cosa certissima.<note xml:id="FN1_00102_11"
+						type="footnote">1572 fand in Graz nach 20 Jahren zum erstenmal wieder die
+						Fronleichnamsprozession statt; in den folgenden Jahren wurden auch andere
+						Prozessionen und Wallfahrten wiedereingeführt (Schuster, Martin Brenner, S.
+						152 und 310).</note>
+				</p>
+				<p>È una devotione in questi paesi dela Madonna che si chiama S. Maria de Cell, la
+					quale a tempi passati è stata in grandissima veneratione et frequentata, et è
+					sotto la giurisdittione del’ abbate di S. Lamperto. Solevano molte communita
+					ogn’anno andar processionalmente a visitare quella chiesa et la maggior parte
+					d’esse, per esser infettate d’heresie, hanno intermesso questo instituto et
+					particolarmente tre communità per spatio di 25 anni non erano state. Questo
+					anno, non sapendo l’una de l’altra, sono andate et si sono ritrovate nel
+					medesimo tempo a quella santa devotione et non solo si sono convertite, ma con
+					lacrime con elemosine hanno dato tali segni di vera penitentia, che spero
+					havranno ancora ottenuto in dono altri popoli, da quella gloriosa Vergine; li
+					coloqii che tra quelle communità sono passati sono tali, che non si possono
+					sentire senza compuntione grande.<note xml:id="FN1_00102_12" type="footnote">Am
+						Bartholomäustag 1583 sollen gegen 10.000 Wallfahrer, darunter Elisabeth,
+						Schwester Kaiser Rudolfs II. und Königinwitwe von Frankreich, aus Wien nach
+						Mariazell gekommen sein (Tomek, Kirchengeschichte Österreichs II, S.
+						645).</note>
+				</p>
+				<p>Con l’occasione che mi è presentata da mons. coadiutore, il quale mi ha fatto
+					instantia che, desiderando egli far una confessione generale le dessi facoltà di
+					elegersi un confessore et esser assoluto da casi reservati, ho essortato li
+					prelati che ho veduto ne la mia absentia da Gratz a far il medesimo, et così
+					hanno promesso di voler fare et di procurare che il medesimo facciano tutti li
+					parochi, che sono sotto di loro insieme con le loro famiglie.<note
+						xml:id="FN1_00102_13" type="footnote">Vgl. Nr. 101.</note>Mons. di Gurgo è
+					stato il primo a <pb xml:id="P1_0000292"/>mettere in essecutione et, se bene non
+					è restato sodisfatto di alcuni curati, ha però operato qualche cosa. Io non ho
+					altro inanzi agl’occhi che con soave modo persuadere a li prelati et altri a non
+					vivere in stato di peccato mortale, et chiudo gl’occhi a molte cose che in lochi
+					riformati non si deverebbe fare. L’essempio del parocho di Judemburgo, quale
+					scrissi si fece privare, havrà dato di ragione gran terrore a li altri de la
+					medesima farina, poiché havendo egli dopo la privatione predicato in case
+					particolari, dove concorreva tutto ’l popolo, S. A. ha ordinato seriamente che
+					sia preso et mandato qua prigione et lo stiamo aspettando et se le darà castigo
+						conveniente.<note xml:id="FN1_00102_14" type="footnote"> Vgl. Nr. 99, S.
+						284.</note>
+				</p>
+				<p>Ho ultimamente prohibito, con consenso di S. A., a li prothonotarii apostolici
+					che non habilitino bastardi ad ordines. Però se a caso ricorresse qualch’uno da
+					N. S. che si lamentasse, mi è parso far sapere a V. S. Illma che mi son mosso
+					per urgentissime cause. Da la copia del decreto di S. A., che sarà con questa
+						mia,<note xml:id="FN1_00102_15" type="footnote">Nicht vorhanden. Siehe Nr.
+						113, S. 314.</note>V. S. Ilma potrà vedere il desiderio che S. A. ha che sia
+					fatto seriosa dimostratione contra quelli canonici di Aquileia incolpati di così
+					enormi delitti.</p>
+				<p>Per quanto ancora intendo da alcuni padri Giesuiti, il suffraganeo di mons.
+					patriarca aggrava molto li parochi ne la visita con farli pagare, oltra le
+					spese, dui fiorini per ciascheduno et, se bene forse è così usanza, cosa che io
+					non ho veduto osservare, nondimeno in queste parti, dove non solo li heretici,
+					ma alcuni buoni tra catolici sono così persuasi che molte cose sostituiscano per
+					interesse del guadagno, bisognarebbe astenersi da ogni minima attione, che
+					potesse accrescere questo loro sospetto.<note xml:id="FN1_00102_16"
+						type="footnote">Vgl. Nr. 113, S. 314, Nr. 119, S. 330, und Nr. 125.</note>Io
+					l’ho avvisato <note xml:id="FN1_00102_17" type="footnote">Schreiben Malaspinas
+						an den Auxiliarbischof des Patriarchen, Franz Zupan von Cattaro, nicht
+						vorhanden.</note>et di questo et del poco frutto che si va prevedendo debba
+					partorire la sua visita, essendo più tosto un viaggio con una Ospitalità dura et
+					visita quanto a la borsa a li preti che riformatione di costumi.</p>
+				<p>Io non ho lassato di cercare con diligentia per sapere la quantità del prestito
+					d’Hoffmam al vescovato di Bamberga et, dopo d’haver inteso il parer di molti, il
+					quale è che non sia vero, ma una inventione de l’Hoffmam con intelligentia de
+					l’eletto, io l’ho comunicato con S. A., la quale inclina a crederlo, et massime
+					non si trovando fondamento alcuno né quanto a le possibilità né quanto al resto,
+					che pur alcuno lo <pb xml:id="P1_0000293"/>saprebbe.<note xml:id="FN1_00102_18"
+						type="footnote"> Siehe Nr. 81, Anm. 2.</note>S. A. di buona voglia si
+					eshibisce di scrivere a l’eletto, promettendole di favorire et protegere senza
+					comparatione più li lochi, che ha nel suo dominio, se farà un governatore
+					catholico, ma dice che le pare che si debba aspettare che l’eletto per conto de
+					la jurisdictione ricorra da lei, che non può tardare et che le darà occasione di
+					farlo et che al’hora farà l’offitio et sarà più fruttuoso et che nel’ interim io
+					scrivi al nuntio Ces. che, in nome suo, lo scrivi a l’eletto, venendo occasione,
+					et lo dichi ad altri dove giudicarà convenirsi. <note xml:id="FN1_00102_19"
+						type="footnote">Am 7. Juni 1581 meldete der Nuntius am Kaiserhof, daß er mit
+						dem „Großkanzler“ Erzherzog Karls, nämlich Dr. Schranz, eingehend über den
+						Bischof von Bamberg und Hoffmann gesprochen habe (Arch. Vat. Nunz. Germ. 91,
+						f. 468v), Vgl. Nr. 81, S. 221 f, und Nr. 103.</note>
+				</p>
+				<p>Ho ricevuto le lettere di V. S. Illma de li 13 et 27 di maggio<note
+						xml:id="FN1_00102_20" type="footnote">Nr. 97. Weisung vom 13. Mai nicht
+						vorhanden. Da die darin wahrscheinlich erwähnte Bulle In Coena Domini in Nr.
+						90 (Mai 9), der zeitlich nächstgelegenen Weisung, nicht vorkommt, ist auch
+						ein Irrtum beim Schreiben des Datums auszuschließen.</note>et non mancarò di
+					essequire quanto la mi ordina circa il procurare, per quanto potrò, fon il
+					vescovi et prelati, acciò la bolla In Coena Domini habbia quella executione che
+					et il servitio divino et la Stà di N. S. desidera.</p>
+				<p>Quanto al negotio di Pisino,<note xml:id="FN1_00102_21" type="footnote">Siehe Nr.
+						97.</note>V. S. Illma havrà inteso et per mie lettere et forse dal vescovo
+					quello che qua si è fatto per resistere et opprimere li conati di quelli
+					heretici, li quali havendo in pegno quel contado con conditione che non ci
+					introducano heretici, non solamente non osservano a S. A. la promessa, ma si
+					mostrano difficili ad obedire a dui decreti assai seriosi che si sono mandati a
+						loro.<note xml:id="FN1_00102_22" type="footnote"> Die beiden Dekrete nicht
+						vorhanden.</note>Ma io spero che non prevaleranno, ché così mi promette S.
+					A., a la quale però non ho per ancora presentato il breve di N. S.</p>
+				<p>Il vescovo mi fa instantia ch’io renda testimonio a V. S. Illma de la volontà di
+					S. A. circa l’applicar l’intrato del monasterio di S. Pietro per nutrire
+						alumni,<note xml:id="FN1_00102_23" type="footnote">Das im österreichischen
+						Anteil der Diözese Parenzo gelegene Paulinerkloster St. Peter im Wald (San
+						Pietro in Selve) wurde erst 1782 aufgehoben (Kušej, Joseph II. und die
+						äußere Kirchenverfassung Innerösterreichs, S. 105).</note>et perché S. A. mi
+					ha detto che è contentissima et che darà per tal’effetto ogni aiuto, ho voluto
+					farlo sapere a V. S. IIlma...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

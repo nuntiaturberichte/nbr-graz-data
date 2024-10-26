@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00011">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-07-28" n="1">1582-07-28</title>
+                <title level="a">11. Malaspina an Gallio - Augsburg, 1582 Juli 28</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 489r—490v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00011">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-07-28" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00010.xml">10.
+                        Gallio an Malaspina - Rom, 1582 Juli 21</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00012.xml">12.
+                        (Malaspina an Erzherzog Karl) - (Augsburg), 1582 August 3</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00010.xml">10. Gallio an Malaspina -
+                        Rom, 1582 Juli 21</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00013.xml">13. Gallio an Malaspina -
+                        Rom, 1582 August 4</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Darlegung des Standes der Religion in Innerösterreich. Zunehmende Ängstlichkeit
+                    Erzherzog Karls. Römische Königswahl. Hoffnung auf bevorstehende Reise Herzog
+                    Wilhelms nach Graz. Beispielgebendes Verhalten Madruzzos auf Reichstag.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="11">Malaspina an Gallio - Augsburg, 1582 Juli 28</head>
+            <div>
+                <p>Per esser la lettera di V. S. Ill.ma de li 7 del presente<note
+                        xml:id="FN2_00011_01" type="footnote">Nr. 9.</note>in risposta di una mia
+                    non mi occorre che replicar altro, senon che per quanto potrò et starà in me,
+                    non mancarò, come insin’hora ho anco procurato, di deviare l’animo di S. A. et
+                    de’ consiglieri suoi da quelle petitioni, che non possono senon apportare
+                    incommodità a la S.tà di N. S. <note xml:id="FN2_00011_02" type="footnote"
+                        >Wahrscheinlich handelt es sich um päpstliche Hilfsgelder für Erzherzog
+                        Karl.</note>Circa poi al negotio principale, <note xml:id="FN2_00011_03"
+                        type="footnote">Religionsangelegenheit.</note>ho giudicato esser bene di far
+                    sapere a V. S. Ill.ma che l’A. S., ne l’esponere qua in voce et in scritto il
+                    stato de la religione de le sue provintie, pare che habbia inclinato in voler
+                    rappresentare la piaga così infistollita, che difficilmente se li possa
+                    applicare rimedio sofficiente di modo che quelli che, essendo informati de la
+                    verità non si sono lasciati facilmente persuadere tal cosa, et hanno voluto più
+                    tosto attribuire a la educatione et natura ogni tepidezza che a la volontà,
+                    hanno fatto giuditio che la persona di S. A. sia dominata da una timidità
+                    grandissima, <note xml:id="FN2_00011_04" type="footnote">Malaspina selbst
+                        schrieb schon im März 1581 von der „natura timida“ Erzherzog Karls (Rainer,
+                        Grazer Nuntiatur I, S. 213).</note>la quale essendo cresciuta con l’età et
+                    fatta naturale è da equiparare et di tanto peso come quasi l’istessa
+                    impossibilità.</p>
+                <p>Ho poi sotratto che li consiglieri de l’A. S., havando presa occasione da la pace
+                    seguita tra ’l Polacco et Moscovita,<note xml:id="FN2_00011_05" type="footnote"
+                        >Am 15. Jänner 1582 war unter Mitwirkung P. Possevinos zwischen Polen und
+                        Moskau ein Waffenstillstand abgeschlossen worden (BoratyńskiKuntze—Nanke,
+                        Bolognetti Epistolae, Teil 1, S. 173f.).</note>hanno cercato<pb
+                        xml:id="P2_0000017"/> d’imprimere ne la mente di lei di quanto pregiuditio
+                    possi essere a la conservatione de li stati et pace de la ser.ma famiglia
+                    d’Austria, et quanto convenghi che mentre non si veda che piega sia per pigliare
+                    quello che ha fatto penetrare qua il re di Polonia<note xml:id="FN2_00011_06"
+                        type="footnote"> Stephan Bathory, 1575—1586 König von Polen, hat
+                        möglicherweise den über Augsburg nach Rom zurückreisenden P. Possevino
+                        beauftragt, mit Kaiser Rudolf II. zu verhandeln, auf welche Weise Friede
+                        zwischen ihnen hergestellt werden könne (Hansen, Nuntiaturberichte III/2, S.
+                        468, Anm. 3).</note>il non alterare gli animi de li sudditi per se stessi
+                    purtroppo poco ben intentionati, et con questo pretesto è per essersi nominato
+                    l’eletto d’Aquileia et conferito il decanato hanno cercato di deviare, per
+                    quanto è stato in loro, l’animo di S. A. da quella impresa, che a contemplatione
+                    di S. B.ne ha presa di sollevare et promovere la religione. <note
+                        xml:id="FN2_00011_07" type="footnote">Siehe unten Nr. 15; vgl. Rainer,
+                        Grazer Nuntiatur I, S. 424.</note>Ma poiché S. A. non mi ha accennato cosa
+                    alcuna in tal proposito, può essere che per se stessa sia informata de la retta
+                    mente, che dal canto di S. S.tà si è havuta in tal trattatione et del bene che a
+                    benefitio publico se ne può et deve sperare. Con tutto ciò non lasciarò a suo
+                    tempo di fare quelli offitii che giudicarò essere espedienti.</p>
+                <p>Io per queste cause, le quali sono incaminate a rompere il filo di quella tela,
+                    che pur con qualche speranza di perfettionarsi insin’hora si è andata ordendo et
+                    per haver penetrato che tra S. M.tà et l’arciduca non è forse quella
+                    intelligentia che per il passato è stata, per la petitione insolita che l’A. S.
+                    fa per le contributioni,<note xml:id="FN2_00011_08" type="footnote">Von den
+                        erbetenen 60 Römermonaten wurden zuerst 20 und weitere 10 für den Fall eines
+                        plötzlichen Türkenangriffes in Aussicht gestellt und schließlich 40 zu je
+                        100.000 Gulden, verteilt auf fünf Jahre, bewilligt (Hansen,
+                        Nuntiaturberichte III/2, S. 475f.).</note>et per confirmarmi ogni giorni più
+                    che l’arciduca allettato da le promesse del duca di Sassonia è più che mai in
+                    prattica et speranza che possi cadere ne la persona sua l’elettione di re di
+                    Romani, <note xml:id="FN2_00011_09" type="footnote">Da Kaiser Rudolf II. nicht
+                        heiratete und im Frühjahr 1581 lebensgefährlich erkrankte, wurde die Wahl
+                        eines Römischen Königs betrieben (Rainer, Grazer Nuntiatur I, S. 94 und
+                        332f.).</note>sarei privo d’ogni speranza di poter al ritorno mio mantener
+                    l’arciduca ne la dispositione, che è stato per prima, di voler inherire
+                    perpetuamente al decreto publicato et cercar ogni via di metterlo in
+                    essecutione, se il sig. duca di Baviera non mi havesse assicurato di voler al
+                    settembre venir a Gratz<note xml:id="FN2_00011_10" type="footnote"> Siehe unten
+                        Nr. 32.</note>et promesso di interponersi, acciò, con l’occasione de la
+                    presentia sua, si faccia qualche notabile dimostratione in favore de la
+                    religione ca<pb xml:id="P2_0000018"/>tholica, onde con questo così buono et
+                    sicuro aiuto et con la speranza che mi resta che ’l consiglio de l’imperatore
+                    sia per essere uniforme col parere che l’ill.mo legato ha dato a
+                        l’arciduca,<note xml:id="FN2_00011_11" type="footnote"/> nel qual proposito
+                    S. S. Ill.ma non mancarà di fare ogni efficace offitio. Mi vo pur nutrendo di
+                    speranza di poter, con l’aiuto di Dio principalmente, essequire in qualche
+                    particella la santa mente di S. B.ne nel ministerio mio, et ringratio S. D. M.tà
+                    che mi ha concesso tanta gratia, che io mi ritrovi in questa dieta, ne la quale
+                    con l’osservatione di quello che l’ill.mo legato ha ne la trattatione de la
+                    causa Brandeburgense fatto, <note xml:id="FN2_00011_12" type="footnote">Der
+                        protestantische Administrator von Magdeburg, Joachim Friedrich von
+                        Brandenburg, verlangte für seinen Vertreter das Präsidium im Fürstenrat
+                        (Lossen, Der Magdeburger Sessionsstreit auf dem Augsburger Reichstag von
+                        1582, S. 637ff.).</note>mi pare che li ministri di S. S.tà habbino occasione
+                    di prender il modello et forma di governarsi ne le diete che ne le provintie a
+                    loro commesse si celebrano, per sapersi opponere con dignità et sodi fondamenti
+                    a li conati degli heretici . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

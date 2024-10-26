@@ -1,196 +1,201 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_058.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-07-24" n="1">1599-07-24</title>
-                    <title level="a">58.1. San Giorgio an Portia - Rom, 1599 Juli 24</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 14v–15v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_058.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1599-07-24" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_057.4.xml">57.4. Portia an San Giorgio - Graz, 1599 Juli 19</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_058.2.xml">58.2. Aldobrandini an Portia - Rom, 1599 Juli 24</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_057.4.xml">57.4. Portia an San
-                            Giorgio - Graz, 1599 Juli 19</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_059.1.xml">59.1. Portia an San
-                            Giorgio - Graz, 1599 Juli 26</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Krankheit des Papstes. Noch keine Entscheidung bezüglich des Priorats von
-						Millstatt. Die Erlaubnis zur Feier der Messe außerhalb der Kirche mit einem
-						Tragaltar für Portia, wird auch auf die Kapläne ausgedehnt werden. Von den
-						Kommissaren, die in der Uskokenfrage nach Rom gesandt werden sollen, ist in
-						Rom nichts bekannt, zudem bezweifelt man dort die Sinnhaftigkeit einer
-						solchen Mission. Antwort für den Bischof von Seckau [Brenner] wird nach
-						Behandlung in der Congregazione del Concilio erfolgen. Wird sich um die
-						Einführung des Kapuzinerordens in Innerösterreich bemühen. Geduld wegen P.
-						Ludwig von Einsiedel. Posteingang. Hofft auf weitere Informationen über
-						Zengg/Senj.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="58.1">San Giorgio an Portia - Rom, 1599 Juli 24</head>
-				<div>
-					<pb xml:id="P5_0000142"/>
-					<p>Non ci essendo stata intiera commodità di trattar con N. S. per un poco di
-						travaglio di Chiragra che S. B.ne ha patito, non posso dir altro per hora a
-						V. S. in materia del Priorato di Millestadio applicato dal ser.mo Arciduca
-						al Collegio de Padri Giesuiti se non che farò tutti gl’offitii che desidera
-						S. A. per stabilimento del negotio del quale mi parlò pur anco il P.
-						Cariglio prima della sua partita.</p>
-					<p>A V. S. concede facoltà S. B.ne di poter celebrare fuori di Chiesa con Altare
-						portatile, essendo persuasa che non se ne valerà se non in caso di bisogno
-						et con la debita circospettione, et se bene non fa questa gratia di presente
-						se non per la sola sua persona, io procurerò nondimeno che si estenda anco
-						ai suoi Capellani quando la Messa devrà esser ascoltata da lei.</p>
-					<p>Nel negotio degl’Uscocchi non ho che aggiungere a quanto scrissi a V. S. con
-						le precedenti<note xml:id="FN5_058.1_01" type="footnote">Nr. 56.3.</note>,
-						se non che saranno care tutte le diligenze che si faranno da lei per
-						facilitarlo. Et quanto ai commissarii ch’ella conferma doversi mandar qua
-						per l’accomodamento universale delle controversie dei Signori Austriaci et
-						Venetiani, non se ne sente anco parlare da altra parte, ma la verità è che
-						il caso particolare degli Uscocchi ricerca celerità et per quello che
-						intendessimo già da Venetia ricercherebbe rimedii più efficaci.</p>
-					<p>Al Vescovo di Seccovia si risponderà ben presto, né da altro nasce la
-						tardanza che dall’essersi proposte le materie nella Congregatione del
-						Concilio, il parer della quale devremo hora havere. Et poiché i disordini
-						della Provincia Salisburgense nelle cose spirituali sono quelli che V. S.
-						rappresenta, non è poco che vi si trovino Prelati di quel zelo che si scopre
-						in lui.</p>
-					<p>Parlerò dei Capuccini per quelle parti già che V. S. è di parere che fossero
-						per farvi tanto frutto, ma quanto alla persona di Fra Ludovico Sassone
-						converrà come tengo che costì se ne quietino per adesso. Perseveri V. S. in
-						dar conto di quel più che scoprirà nelle materie et della pace et di Segna
-						delle quali scrive di suo pugno, ch’è quanto mi occorre di rispondere alle
-						lettere sue delli 12 del presente<note xml:id="FN5_058.1_02" type="footnote">Nr. 55.1, 55.2.</note>.</p>
-					<p>Mercordì che furno li 21 si fece la solita Congregatione di Germania innanzi
-						al Sig. Cardinal Madruzzi, ma perché non è stata per anco commodità di
-						riferire a N. S. le cose trattate et discusse che si farà un giorno della
-						seguente settimana, diferisco di dar conto a V. S. delle risolutioni di S.
-							B.ne<note xml:id="FN5_058.1_03" type="footnote">Ein Protokoll der
-							Sitzung der Congregazione di Germania vom 21. Juli 1599, in der
-							bezüglich Eh. Leopold und der Koadjutorie in Straßburg sowie der Dispens
-							für Eh. Karl verhandelt wurde, befindet sich in: ASV, Fondo Borghese,
-							serie III 113 B, fol. 100r–v.</note> …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_058.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-07-24" n="1">1599-07-24</title>
+                <title level="a">58.1. San Giorgio an Portia - Rom, 1599 Juli 24</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 14v–15v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_058.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1599-07-24" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_057.4.xml"
+                        >57.4. Portia an San Giorgio - Graz, 1599 Juli 19</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_058.2.xml">58.2.
+                        Aldobrandini an Portia - Rom, 1599 Juli 24</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_057.4.xml">57.4. Portia an San
+                        Giorgio - Graz, 1599 Juli 19</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_059.1.xml">59.1. Portia an San
+                        Giorgio - Graz, 1599 Juli 26</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Krankheit des Papstes. Noch keine Entscheidung bezüglich des Priorats von
+                    Millstatt. Die Erlaubnis zur Feier der Messe außerhalb der Kirche mit einem
+                    Tragaltar für Portia, wird auch auf die Kapläne ausgedehnt werden. Von den
+                    Kommissaren, die in der Uskokenfrage nach Rom gesandt werden sollen, ist in Rom
+                    nichts bekannt, zudem bezweifelt man dort die Sinnhaftigkeit einer solchen
+                    Mission. Antwort für den Bischof von Seckau [Brenner] wird nach Behandlung in
+                    der Congregazione del Concilio erfolgen. Wird sich um die Einführung des
+                    Kapuzinerordens in Innerösterreich bemühen. Geduld wegen P. Ludwig von
+                    Einsiedel. Posteingang. Hofft auf weitere Informationen über Zengg/Senj.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="58.1">San Giorgio an Portia - Rom, 1599 Juli 24</head>
+            <div>
+                <pb xml:id="P5_0000142"/>
+                <p>Non ci essendo stata intiera commodità di trattar con N. S. per un poco di
+                    travaglio di Chiragra che S. B.ne ha patito, non posso dir altro per hora a V.
+                    S. in materia del Priorato di Millestadio applicato dal ser.mo Arciduca al
+                    Collegio de Padri Giesuiti se non che farò tutti gl’offitii che desidera S. A.
+                    per stabilimento del negotio del quale mi parlò pur anco il P. Cariglio prima
+                    della sua partita.</p>
+                <p>A V. S. concede facoltà S. B.ne di poter celebrare fuori di Chiesa con Altare
+                    portatile, essendo persuasa che non se ne valerà se non in caso di bisogno et
+                    con la debita circospettione, et se bene non fa questa gratia di presente se non
+                    per la sola sua persona, io procurerò nondimeno che si estenda anco ai suoi
+                    Capellani quando la Messa devrà esser ascoltata da lei.</p>
+                <p>Nel negotio degl’Uscocchi non ho che aggiungere a quanto scrissi a V. S. con le
+                        precedenti<note xml:id="FN5_058.1_01" type="footnote">Nr. 56.3.</note>, se
+                    non che saranno care tutte le diligenze che si faranno da lei per facilitarlo.
+                    Et quanto ai commissarii ch’ella conferma doversi mandar qua per l’accomodamento
+                    universale delle controversie dei Signori Austriaci et Venetiani, non se ne
+                    sente anco parlare da altra parte, ma la verità è che il caso particolare degli
+                    Uscocchi ricerca celerità et per quello che intendessimo già da Venetia
+                    ricercherebbe rimedii più efficaci.</p>
+                <p>Al Vescovo di Seccovia si risponderà ben presto, né da altro nasce la tardanza
+                    che dall’essersi proposte le materie nella Congregatione del Concilio, il parer
+                    della quale devremo hora havere. Et poiché i disordini della Provincia
+                    Salisburgense nelle cose spirituali sono quelli che V. S. rappresenta, non è
+                    poco che vi si trovino Prelati di quel zelo che si scopre in lui.</p>
+                <p>Parlerò dei Capuccini per quelle parti già che V. S. è di parere che fossero per
+                    farvi tanto frutto, ma quanto alla persona di Fra Ludovico Sassone converrà come
+                    tengo che costì se ne quietino per adesso. Perseveri V. S. in dar conto di quel
+                    più che scoprirà nelle materie et della pace et di Segna delle quali scrive di
+                    suo pugno, ch’è quanto mi occorre di rispondere alle lettere sue delli 12 del
+                        presente<note xml:id="FN5_058.1_02" type="footnote">Nr. 55.1,
+                    55.2.</note>.</p>
+                <p>Mercordì che furno li 21 si fece la solita Congregatione di Germania innanzi al
+                    Sig. Cardinal Madruzzi, ma perché non è stata per anco commodità di riferire a
+                    N. S. le cose trattate et discusse che si farà un giorno della seguente
+                    settimana, diferisco di dar conto a V. S. delle risolutioni di S. B.ne<note
+                        xml:id="FN5_058.1_03" type="footnote">Ein Protokoll der Sitzung der
+                        Congregazione di Germania vom 21. Juli 1599, in der bezüglich Eh. Leopold
+                        und der Koadjutorie in Straßburg sowie der Dispens für Eh. Karl verhandelt
+                        wurde, befindet sich in: ASV, Fondo Borghese, serie III 113 B, fol.
+                        100r–v.</note>…</p>
+            </div>
+        </body>
+    </text>
+</TEI>

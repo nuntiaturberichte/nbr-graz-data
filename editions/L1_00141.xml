@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00141">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-02-07" n="1">1582-02-07</title>
+                <title level="a">141. Malaspina an Gallio - Graz, 1582 Februar 7</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 425r—427r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00141">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-02-07" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00140.xml"
+                        >140. Gallio an Malaspina - Rom, 1582 Februar 3</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00142.xml">142.
+                        Gallio an Malaspina - Rom, 1582 Februar 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00140.xml">140. Gallio an Malaspina -
+                        Rom, 1582 Februar 3</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00142.xml">142. Gallio an Malaspina -
+                        Rom, 1582 Februar 17</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Völlige Sinnesänderung Erzherzog Karls und der Räte nach Erhalt der kaiserlichen
+                    Ratschläge. Bereitschaft der Stände zur Zahlung der Gelder für die Türkengrenze
+                    gegen landesfürstliches Versprechen, keinerlei Neuerungen einzuführen. Wahl
+                    ständischer Gesandter der Steiermark für ausgeschriebenen Reichstag. Sendung
+                    Malaspinas zum Reichstag. Geheime Inquisition gegen Hoffmann in Kärnten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="141">Malaspina an Gallio - Graz, 1582 Februar 7</head>
+            <div>
+                <p>La mente di S. A. et de li consiglieri suoi, dopo d’haver ricevuto la
+                    consultatione di S. Mtà Ces.,<note xml:id="FN1_00141_01" type="footnote">Vgl.
+                        Nr. 137, S. 371.</note>è stata tutta involta in operare che inanzi a
+                    l’attentare cosa alcuna nel negotio de la religione si assicurassero del
+                    temporale, del quale questa nobiltà si suole servire per scudo per far
+                    condiscendere S. A., a quelle tollerantie, che et per ragione divina et humana
+                    sono illecite et pernitiose. Et qua facevano un giuditio tale che le pareva
+                    d’haver alhora quasi la certezza de la vittoria, quando havessero ottenuto circa
+                    questo l’intento loro. Et se bene da principio ci cominciò haver gran speranza
+                    che le cose fossero per pigliare buona piega, per havere contra ’l costume loro
+                        antico<pb xml:id="P1_0000381"/> tollerato che’l principe a li gravamini da
+                    essi dati circa il spirituale et temporale habbia solamente risposto al capo
+                    politico, et non hanno perciò replicato che prima bisogna quaerere regnum Dei,
+                        <note xml:id="FN1_00141_02" type="footnote">Diesbezügliche Schreiben vom
+                        18., 25., 26. und 30. Jänner 1582 (Graz LA, Landtagsakten
+                    426).</note>nondimeno quando siamo stati nel concludere, hanno presentata una
+                    ultima risolutione loro, ne la quale concludevano la dieta,<note
+                        xml:id="FN1_00141_03" type="footnote"> Der am 27. November 1581 eröffnete
+                        Landtag wurde am 5. Februar 1582 geschlossen (Graz LA, Landtagshandlungen
+                        33, f. 170r—252v).</note>che loro havrebbono contribuito a li confini una
+                    certa somma di danari, con conditione però che S. A. santamente promettesse che
+                    non è per innovare cosa alcuna, et quando lo facesse che le oblationi da loro
+                    fatte si intendano nulle, et la scrittura fu composta così ambigua, che li
+                    prelati la sottoscrissero. Per il che Dio benedetto sa quello che io ho operato
+                    per rimediare a così grande inconveniente. Hora S. A. si è opposta
+                    gagliardamente a questa loro conditione, parendole dura cosa che se li prescriva
+                    legge tale, che di libero lo facciano servo. Ma per severa dimostratione che
+                    habbia fatto, non si sono mossi punto da quello che havevano già proposto et
+                    concluso et sono andati tirando il negotio in lungo insin tanto, che l’hanno
+                    ridotto a li giorni del carnevale osservato da loro con quella debita
+                    veneratione che l’è stata prescritta dal loro precettore Luthero, cuius Deus
+                    venter fuit. Per il che S. A. è stata, come qua dicono, necessitata a sospendere
+                    la dieta insino a la prima dominica di quaresima et il decreto già formato nel
+                    negotio de la religione, qual mando a V. S. Illma, si terrà così insino a quel
+                    tempo. <note xml:id="FN1_00141_04" type="footnote">Auf dem am 4. März eröffneten
+                        Landtag wurde besonders die religiöse Frage behandelt (Hurter, Geschichte
+                        Kaiser Ferdinands I, S. 449; Graz LA, Landtagshandlungen 33, f.
+                        253r—275v).</note>
+                </p>
+                <p>La Mtà de l’imperatore ha intimata la dieta imperiale a S. A. et si crede che
+                        andarà.<note xml:id="FN1_00141_05" type="footnote">Erzherzog Karl hat am
+                        Reichstag zu Augsburg teilgenommen (Hurter, Geschichte Kaiser Ferdinands 1,
+                        S. 453 ff.; Hansen, Nuntiaturberichte III/2, S. 432, 436,
+                    449—451).</note>Questi nobili heretici, con infinito disgusto di lei, hanno di
+                    subito intendendo questo fatta elettione de l’Hoffmam et di un altro per
+                    ambasciatori de la provincia ne la dieta, <note xml:id="FN1_00141_06"
+                        type="footnote">Am 22. August 1582 kam die Gesandtschaft der
+                        innerösterreichischen Länder in Augsburg an; Hoffmann, der ihr offiziell
+                        nicht angehörte, war schon einige Tage früher eingetroffen (Hansen,
+                        Nuntiaturberichte III/2, S. 511; Loserth, FRA Il/50, S. 347 f., Anm. 1 und
+                        2, S. 348, Anm. 1).</note>cosa che fa star S. A. con molta sospensione
+                    d’animo. Né per molto che si sia attentato si è potuto rimover gli animi loro da
+                    la risolutione che hanno <pb xml:id="P1_0000382"/>fatta, onde l’A. S., dubitando
+                    che non siano per fare prattiche pernitiose in detrimento de la religione, et
+                    parendole ancora quando questo rispetto non concorresse che sia per esser
+                    necessario che con l’occasione de la dieta, la quale rare volte si celebra,
+                        <note xml:id="FN1_00141_07" type="footnote">1576 war der letzte Reichstag
+                        gehalten worden (Ritter, Deutsche Geschichte I, S. 573 ff.).</note>si
+                    procuri di cavarne qualche costrutto in sollevamento de l’infelice stato de la
+                    persona et sudditi di lei, ha, per quanto mi ha riferto il concelliero hoggi,
+                    pensato che sia cosa espediente che S. Bne mi ordini ch’io vada a la dieta per
+                    molte cause,<note xml:id="FN1_00141_08" type="footnote"> Siehe Nr. 149, S. 401,
+                        und Nr. 157, S. 412.</note>de’ quali loro ne hanno raccolto un integro
+                    fascicolo. Et li pare che, quando non si ottenesse altro che persuadere a quelli
+                    principi che facessero un gagliardo risentimento contra questa Altezza per haver
+                    con le tollerantie permesse pregiudicato al stabilimento de l’imperio in materia
+                    de la religione, che questo sarebbe di grandissima importanza et se insieme si
+                    facesse fare una riprensione agli ambasciatori de la provincia per la poca
+                    obedienza loro non solo quanto a la religione, ma quanto al resto, che
+                    servirebbe per contenerli nel debito offìtio et non sarebbe bisogno di pensare
+                    ad altri remidii di spesa et di qualche pericolo. Ma quello che più forse di
+                    ogn’altra cosa preme al principe et a li consiglieri è che si persuadeno che
+                    facendo io una inquisitione in Carintia secretamente contra l’Hoffmam, provando
+                    che perseguita li catholici etc., che potessi stringer il vescovo di Bamberga a
+                    rimovere quella pietra di scandalo dal governo di Villacco et con un simil
+                    affronto, congionto con quello che S. A. è in opera di farle, ordinandoli che
+                    non venghi inanzi la sua presenza per esser stato in scritto et in voce trattato
+                    da traditore et da bugiardo da un’altro nobile, si potrebbe ragionevolmente
+                    sperare che si distaccarebbe da l’edificio, col quale è così conglutinata, et si
+                    spezzarebbe overo si humiliarebbe in modo che se ne potrebbe cavare qualche buon
+                    costrutto. <note xml:id="FN1_00141_09" type="footnote">Siehe Nr. 138.</note>Io
+                    ho risposto al concelliero in forma, clic ho mostrato prontezza dal canto mio di
+                    non subterfugere fatica alcuna per servitio di Dio, de l’A. S. et di queste
+                    provincie. Ma non mi sono disteso molto in discorrere se sia cosa, a la quale S.
+                    Bne debba applicar l’animo rimettendomi a la risposta, che loro havranno da la
+                    Stà S. Et in quello che tocca al transferirmi in Carintia per formare un
+                    processo contra l’Hoffmam, non mi sono risoluto se è espediente ch’io vada,
+                    overo che mandi uno secretamente, et insin’hora sto con l’animo sospeso <note
+                        xml:id="FN1_00141_10" type="footnote">Siehe Nr. 151, S. 403 f.</note>...
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

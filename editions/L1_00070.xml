@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00070">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-02-13" n="1">1581-02-13</title>
+                <title level="a">70. Graz, 1581 Februar 13</title>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 255rv, gleichzeitige
+                            Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00070">
+                <correspAction type="sent">
+                    <date when="1581-02-13" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00069.xml">69.
+                        Malaspina an Gallio - Graz, 1581 Februar 11</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00071.xml">71.
+                        Gallio an Malaspina - Rom, 1581 Februar 19</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>An Präsident und Verordnete der steirischen Landschaft gerichtetes Mandat
+                    Erzherzog Karls zum strengen Vorgehen gegen Schmäher der katholischen
+                    Geistlichkeit.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="70">Graz, 1581 Februar 13</head>
+            <div>
+                <p>Nomine sermi principis domini nostri clementissimi ab excelso Inferioris Austriae
+                    regimine domino praesidi provinciarum Styriacarum<note xml:id="FN1_00070_01"
+                        type="footnote">Christoph Andreas Spaur, Bischof von Gurk, 1577—1584
+                        Statthalter (Thiel, Zentralverwaltung, S. 207).</note>et dominis ibidem
+                    constitutis indicendum quaerelis plurimorum deferri, ut etiam quotidiana
+                    experientia edocet, quomodo ignobile vulgus, ut sunt famuli, servi et alii,
+                    sacerdotes catholicae religionis ordinumque religiosorum homines, dum in
+                    civitate negociorum pertractandorum causa comparent, contumeliis sibilis et
+                    probris afficiant haecque sane quotidie magis magisque invalescant (cuius rei
+                    iam proinde hoc tempore Graecensibus speciali severitate iniunctum fuit), <note
+                        xml:id="FN1_00070_02" type="footnote">Am 9. Februar 1581 befahl Erzherzog
+                        Karl dem Magistrat von Graz, gegen Verspotter der katholischen Geistlichkeit
+                        streng vorzugehen (Loserth, FRA II/50, S. 220 f.).</note>ut praedictam
+                    improbitatem e medio, quo quomodo severe tollant atque hinc inde per civitatem
+                    diligentem eius rei observationem in <pb xml:id="P1_0000194"/>similes personas
+                    et detractores, qui supradictos sacerdotes tanto ludibrio et contemptui habere
+                    solent, pro necessitate instituant et si fortasse quispiam vel plures etiam
+                    huius ordinationis violatores perspecti et inventi fuerint, ut iidem publico in
+                    foro ignominiae loco destinentur, ferramentis constricte ad collonnam lapideam
+                    alligantur verberibusque per civitatem agantur atque insuper omnibus S. Sertis
+                    hereditariis terris ipsis interdictis perpetuo exilio damnentur. Quin etiam pro
+                    qualitate eorundem praevaricationis severiori etiam nonnunquam supplicio
+                    afficiantur. Ne vero quispiam de ignorantia eiuscemodi rei conqueri possit,
+                    etiam praedictis Graecensibus demandatum fuit, ut rem tam intra quam extra
+                    civitatem publicent. Ad haec S. Sertas quoque severe mandat, ut provinciarum
+                    praeses et constitutae personae suae jurisdictioni subiectae equalem curam et
+                    inspectionem adhibeant, haec enim S. Sertis voluntas est etiam haud displicet
+                    animi sententiam...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

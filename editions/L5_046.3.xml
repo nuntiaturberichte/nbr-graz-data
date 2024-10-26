@@ -1,226 +1,230 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_046.3"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-06-14" n="3">1599-06-14</title>
-                    <title level="a">46.3. Portia an San Giorgio - Graz, 1599 Juni 14</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 50r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_046.3">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-06-14" n="3"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_046.2.xml">46.2. Portia an San Giorgio - Graz, 1599 Juni 14</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_046.4.xml">46.4. Portia an San Giorgio - Graz, 1599 Juni 14</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_046.2.xml">46.2. Portia an San
-                            Giorgio - Graz, 1599 Juni 14</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_046.4.xml">46.4. Portia an San
-                            Giorgio - Graz, 1599 Juni 14</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Bischof von Lavant [Stobaeus] hat beim Aufenthalt in Ferrara den Papst
-						dahingehend verstanden, dass er und die anderen Salzburger Suffragane zum Ad
-						Limina-Besuch verpflichtet seien. Stobaeus selbst berichtet brieflich an die
-						Kurie über seine Kirche und einige Klöster. Portia regt an, dass für Lavant
-						die jährliche Visitation und Errichtung eines Seminars angeordnet werden
-						soll. Im Erzbistum Salzburg würden die Konzilsbeschlüsse keineswegs
-						umgesetzt. Bischof von Seckau [Brenner] will persönlich in Rom uber sein
-						Bistum berichten. Portia empfiehlt ihn.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="46.3">Portia an San Giorgio - Graz, 1599 Juni 14</head>
-				<div>
-					<p>Il Vescovo di San Andrea o di Lavant<note xml:id="FN5_046.3_01" type="footnote">Georg Stobaeus von Palmburg (1532–1618), Bischof von
-							Lavant (1584–1618), Generalvikar des Erzbischofs von Salzburg für
-							Kärnten (1593–1618), Geheimer Rat und Statthalter in Innerösterreich
-							(1597–1608). Stobaeus begleitete Eh. Margarete auf ihrer Brautfahrt, die
-							über Ferrara nach Spanien führte, bis nach Mailand: vgl. GATZ,
-							1448–1648, S. 681f.; RAINER, Margarethe, S. 35. Zur Problematik der
-							verpflichtenden Visitatio liminum Apostolorum durch die
-							Suffraganbischöfe des Erzbistums Salzburg: vgl. SCHUSTER, S. 671–688,
-							insbesondere S. 675–677.</note>, ch’accompagnò la ser.ma Regina di
-						Spagna sin a Ferrara et Milano col ritorno c’ha fatto in queste parti, ha
-						communicato a questi suoi Coepiscopi et Suffraganei dell’Arcivescovado di
-						Salzburg d’haver ex vivae vocis oraculo dalla S.tà di N. S. inteso ch’essi
-						ancora sian tenuti visitare SS. Apostolorum limina conform’alla Bolla della
-						santa memoria di Sisto V<note xml:id="FN5_046.3_02" type="footnote">Sixtus
-							V. (1585–1590), Felice Peretti (1521–1590), Sohn von Piergentile Peretti
-							und Marina da Frontillo, Franziskaner, Inquisitor in Venedig (1557),
-							Kardinal (1570): vgl. PASTOR 10; EP 3, S. 202–222; WEBER, Genealogien
-							29.2, S. 745. Die Bulle Romanus Pontifex stammte vom 20. Dezember 1585:
-							vgl. BULLARIUM ROMANUM 8, S. 641–645. Die Frage, ob die Salzburger
-							Suffraganbischöfe gemäß dieser Bulle alle vier Jahre persönlich nach Rom
-							reisen müssen, um über den Zustand der Diözese Bericht zu erstatten, war
-							vom Erzbischof von Salzburg bereits im Jahr 1588 verneint worden.
-							Nachdem der Bischof von Lavant im Jahr 1599 während der Brautfahrt
-							Margaretes nach Spanien in Ferrara auf Clemens VIII. getroffen war,
-							wurde diese Frage aber erneut aufgerollt: vgl. SCHUSTER, S. 674–677;
-							RAUCH, S. 20–25.</note> et perch’esso ha dato principio (com’ho inteso
-						da lui medesimo) a significar per lettere lo stato della sua Chiesa et
-							d’alcuni<pb xml:id="P5_0000097"/> Monasterii vicini al luoco della sua
-							residenza<note xml:id="FN5_046.3_03" type="footnote">Die Abschrift eines
-							derartigen Berichtes des Bischofs von Lavant an Clemens VIII. vom 23.
-							April 1599 befindet sich in: SLA, Domkapitel, Akten 44 A.</note>, se
-						bene sottoposti all’Arcivescovo di Salzburg come ordinario, mi sarebbe stato
-						caro havern’havuto un puoco prima notitia, perch’io havrei potuto significar
-						a V. S. Ill.ma et agl’Ill.mi della Congregazione sopra gli Vescovi<note xml:id="FN5_046.3_04" type="footnote">Die Congregazione dei Vescovi e
-							Regolari (Sacra Congregatio negotiis et consultationibus Episcoporum et
-							Regularium praeposita) entstand durch die Zusammenlegung zweier
-							Kongregationen wiihrend des Pontifikates von Clemens VIII. Ihre
-							Zustiindigkeiten waren sehr umfangreich und reichten weit über die
-							Belange der Bischöfe und Ordensleute hinaus. Wie auch in den Grazer
-							Nuntiaturberichten ersichtlich, wurde die Kongregation in der Praxis
-							meist nach dem jeweiligen Personenkreis (Bischöfe, Ordensleute), um den
-							es sich im speziellen Fall handelte, bezeichnet (vgl. z. B. Nr. 288.1).
-							1908 wurde die Kongregation aufgelöst und deren Aufgabenbereiche anderen
-							Kongregationen zugewiesen: vgl. DEL RE, Curia Romana, S. 369–372.</note>
-						quello che si sarebbe potuto introdurre et ordinare per beneficio di quel
-						Vescovado, il quale, se ben è assai piccolo et ristretto di Diocese, ha però
-						bisogno d’un puoco di diligenza maggiore nel reggerlo et ordinarlo, et
-						poich’esso et quest’altri Vescovi si son rallegrati di questa dichiaratione
-						di S. B.ne giudicherei che fosse bene che si conservassero in quest’ossequi
-						et obligatione vedendosi massime che la larghezza et quasi vastità della
-						Diocese Salisburgense impedisce molti buon’effetti che si caverebbono se ci
-						fosse diligenza et attentione maggiore, però al creder mio si potrebbe
-						commetter al Vescovo di Lavant sudetto che introducesse per hora il costume
-						usato dai buoni Vescovi di visitar ogn’anno la sua Diocese et di eriger un
-						piccol Seminario di giovani et Alunni corrispondente alla sua Diocese per
-						haver nell’occasioni buoni Parochi, havendo massime commodità in questa
-						Provincia d’alcuni Collegi di Jesuiti, accomodati all’institutione de
-						giovani particolarmente Ecclesiastici, et introducendosi poi con un poco di
-						diligenza maggiore di quella che si sia fatta sin hora in questo
-						Arcivescovato Salisburgense et l’uso et l’osservanza de’ Decreti del Sacro
-						Concilio di Trento, spererei ch’in breve questi Vescovadi minori potrebbon
-						aiutare più facilemente il suo Metropolitano.</p>
-					<p>Con quest’essempio ancora il Vescovo di Seccovia scrive questa settimana alla
-						S.tà di N. S.<note xml:id="FN5_046.3_05" type="footnote">Brenner an Clemens
-							VIII., Graz, 1599 Juni 12, ASV, Fondo Borghese, serie III 113 B, fol.
-							200r–v.</note> di voler obedire et di voler venire in persona a sodisfar
-						a quest’obligatione, et in questo mentre egli dimanda l’assolutione per la
-						negligenza passata et termine di alcuni mesi per dover presentarsi costì,
-						nel che al creder mio merita di esser gratificato, perché è Prelato di molta
-						bontà et è Vicario Generale Salisburgense in questa Provincia di Stiria et
-						ha havuto et ha molte occupationi per servitio publico et di questi stati.
-						Né lascierò a suo tempo di significar anco quello ch’io giudicherò
-						convenirsi per beneficio anco di questo Vescovado .</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_046.3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-06-14" n="3">1599-06-14</title>
+                <title level="a">46.3. Portia an San Giorgio - Graz, 1599 Juni 14</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 50r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_046.3">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-06-14" n="3"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_046.2.xml"
+                        >46.2. Portia an San Giorgio - Graz, 1599 Juni 14</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_046.4.xml">46.4.
+                        Portia an San Giorgio - Graz, 1599 Juni 14</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_046.2.xml">46.2. Portia an San
+                        Giorgio - Graz, 1599 Juni 14</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_046.4.xml">46.4. Portia an San
+                        Giorgio - Graz, 1599 Juni 14</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bischof von Lavant [Stobaeus] hat beim Aufenthalt in Ferrara den Papst
+                    dahingehend verstanden, dass er und die anderen Salzburger Suffragane zum Ad
+                    Limina-Besuch verpflichtet seien. Stobaeus selbst berichtet brieflich an die
+                    Kurie über seine Kirche und einige Klöster. Portia regt an, dass für Lavant die
+                    jährliche Visitation und Errichtung eines Seminars angeordnet werden soll. Im
+                    Erzbistum Salzburg würden die Konzilsbeschlüsse keineswegs umgesetzt. Bischof
+                    von Seckau [Brenner] will persönlich in Rom uber sein Bistum berichten. Portia
+                    empfiehlt ihn.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="46.3">Portia an San Giorgio - Graz, 1599 Juni 14</head>
+            <div>
+                <p>Il Vescovo di San Andrea o di Lavant<note xml:id="FN5_046.3_01" type="footnote"
+                        >Georg Stobaeus von Palmburg (1532–1618), Bischof von Lavant (1584–1618),
+                        Generalvikar des Erzbischofs von Salzburg für Kärnten (1593–1618), Geheimer
+                        Rat und Statthalter in Innerösterreich (1597–1608). Stobaeus begleitete Eh.
+                        Margarete auf ihrer Brautfahrt, die über Ferrara nach Spanien führte, bis
+                        nach Mailand: vgl. GATZ, 1448–1648, S. 681f.; RAINER, Margarethe, S. 35. Zur
+                        Problematik der verpflichtenden Visitatio liminum Apostolorum durch die
+                        Suffraganbischöfe des Erzbistums Salzburg: vgl. SCHUSTER, S. 671–688,
+                        insbesondere S. 675–677.</note>, ch’accompagnò la ser.ma Regina di Spagna
+                    sin a Ferrara et Milano col ritorno c’ha fatto in queste parti, ha communicato a
+                    questi suoi Coepiscopi et Suffraganei dell’Arcivescovado di Salzburg d’haver ex
+                    vivae vocis oraculo dalla S.tà di N. S. inteso ch’essi ancora sian tenuti
+                    visitare SS. Apostolorum limina conform’alla Bolla della santa memoria di Sisto
+                        V<note xml:id="FN5_046.3_02" type="footnote"> Sixtus V. (1585–1590), Felice
+                        Peretti (1521–1590), Sohn von Piergentile Peretti und Marina da Frontillo,
+                        Franziskaner, Inquisitor in Venedig (1557), Kardinal (1570): vgl. PASTOR 10;
+                        EP 3, S. 202–222; WEBER, Genealogien 29.2, S. 745. Die Bulle Romanus
+                        Pontifex stammte vom 20. Dezember 1585: vgl. BULLARIUM ROMANUM 8, S.
+                        641–645. Die Frage, ob die Salzburger Suffraganbischöfe gemäß dieser Bulle
+                        alle vier Jahre persönlich nach Rom reisen müssen, um über den Zustand der
+                        Diözese Bericht zu erstatten, war vom Erzbischof von Salzburg bereits im
+                        Jahr 1588 verneint worden. Nachdem der Bischof von Lavant im Jahr 1599
+                        während der Brautfahrt Margaretes nach Spanien in Ferrara auf Clemens VIII.
+                        getroffen war, wurde diese Frage aber erneut aufgerollt: vgl. SCHUSTER, S.
+                        674–677; RAUCH, S. 20–25.</note>et perch’esso ha dato principio (com’ho
+                    inteso da lui medesimo) a significar per lettere lo stato della sua Chiesa et
+                    d’alcuni <pb xml:id="P5_0000097"/>Monasterii vicini al luoco della sua residenza
+                        <note xml:id="FN5_046.3_03" type="footnote">Die Abschrift eines derartigen
+                        Berichtes des Bischofs von Lavant an Clemens VIII. vom 23. April 1599
+                        befindet sich in: SLA, Domkapitel, Akten 44 A.</note>, se bene sottoposti
+                    all’Arcivescovo di Salzburg come ordinario, mi sarebbe stato caro havern’havuto
+                    un puoco prima notitia, perch’io havrei potuto significar a V. S. Ill.ma et
+                    agl’Ill.mi della Congregazione sopra gli Vescovi <note xml:id="FN5_046.3_04"
+                        type="footnote">Die Congregazione dei Vescovi e Regolari (Sacra Congregatio
+                        negotiis et consultationibus Episcoporum et Regularium praeposita) entstand
+                        durch die Zusammenlegung zweier Kongregationen wiihrend des Pontifikates von
+                        Clemens VIII. Ihre Zustiindigkeiten waren sehr umfangreich und reichten weit
+                        über die Belange der Bischöfe und Ordensleute hinaus. Wie auch in den Grazer
+                        Nuntiaturberichten ersichtlich, wurde die Kongregation in der Praxis meist
+                        nach dem jeweiligen Personenkreis (Bischöfe, Ordensleute), um den es sich im
+                        speziellen Fall handelte, bezeichnet (vgl. z. B. Nr. 288.1). 1908 wurde die
+                        Kongregation aufgelöst und deren Aufgabenbereiche anderen Kongregationen
+                        zugewiesen: vgl. DEL RE, Curia Romana, S. 369–372.</note>quello che si
+                    sarebbe potuto introdurre et ordinare per beneficio di quel Vescovado, il quale,
+                    se ben è assai piccolo et ristretto di Diocese, ha però bisogno d’un puoco di
+                    diligenza maggiore nel reggerlo et ordinarlo, et poich’esso et quest’altri
+                    Vescovi si son rallegrati di questa dichiaratione di S. B.ne giudicherei che
+                    fosse bene che si conservassero in quest’ossequi et obligatione vedendosi
+                    massime che la larghezza et quasi vastità della Diocese Salisburgense impedisce
+                    molti buon’effetti che si caverebbono se ci fosse diligenza et attentione
+                    maggiore, però al creder mio si potrebbe commetter al Vescovo di Lavant sudetto
+                    che introducesse per hora il costume usato dai buoni Vescovi di visitar ogn’anno
+                    la sua Diocese et di eriger un piccol Seminario di giovani et Alunni
+                    corrispondente alla sua Diocese per haver nell’occasioni buoni Parochi, havendo
+                    massime commodità in questa Provincia d’alcuni Collegi di Jesuiti, accomodati
+                    all’institutione de giovani particolarmente Ecclesiastici, et introducendosi poi
+                    con un poco di diligenza maggiore di quella che si sia fatta sin hora in questo
+                    Arcivescovato Salisburgense et l’uso et l’osservanza de’ Decreti del Sacro
+                    Concilio di Trento, spererei ch’in breve questi Vescovadi minori potrebbon
+                    aiutare più facilemente il suo Metropolitano.</p>
+                <p>Con quest’essempio ancora il Vescovo di Seccovia scrive questa settimana alla
+                    S.tà di N. S.<note xml:id="FN5_046.3_05" type="footnote">Brenner an Clemens
+                        VIII., Graz, 1599 Juni 12, ASV, Fondo Borghese, serie III 113 B, fol.
+                        200r–v.</note>di voler obedire et di voler venire in persona a sodisfar a
+                    quest’obligatione, et in questo mentre egli dimanda l’assolutione per la
+                    negligenza passata et termine di alcuni mesi per dover presentarsi costì, nel
+                    che al creder mio merita di esser gratificato, perché è Prelato di molta bontà
+                    et è Vicario Generale Salisburgense in questa Provincia di Stiria et ha havuto
+                    et ha molte occupationi per servitio publico et di questi stati. Né lascierò a
+                    suo tempo di significar anco quello ch’io giudicherò convenirsi per beneficio
+                    anco di questo Vescovado .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

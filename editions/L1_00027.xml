@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00027">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-11-09" n="1">1580-11-09</title>
+                <title level="a">27. Malaspina an Gallio - Graz, 1580 November 9</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 124r—126v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00027">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-11-09" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00026.xml">26.
+                        Malaspina an Gallio - Graz, 1580 November 7</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00028.xml">28.
+                        Malaspina an Gallio - Graz, 1580 November 11</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00026.xml">26. Malaspina an Gallio -
+                        Graz, 1580 November 7</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00028.xml">28. Malaspina an Gallio -
+                        Graz, 1580 November 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bemühungen der katholischen Räte um Standhaftigkeit Erzherzog Karls gegen
+                    religiöse Forderungen der Häretiker auf kommendem Landtag. Konferenz führender
+                    Katholiken mit Malaspina für vorsichtiges Vorgehen und Beschränkung auf
+                    Verwerfung des von den Häretikern gefälschten Textes der Religionskonzession von
+                    1578, Abschaffung der Prädikanten in Städten und Fortsetzung des
+                    Schulgeschäftes.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="27">Malaspina an Gallio - Graz, 1580 November 9</head>
+            <div>
+                <pb xml:id="P1_0000099"/>
+                <p>Questi signori del consiglio catholici, ma principalmente il sig.
+                        cancilliero,<note xml:id="FN1_00027_01" type="footnote">Vgl. Nr. 14, S.
+                        40.</note>a’ quali S. A. più volte ha fatto consultare quello che si
+                    potrebbe fare per sollevar la religion catholica tanto afflitta et oppressa in
+                    queste parti, conoscendo la natura del principe, temendo per la esperientia
+                    delle cose passate et sapendo la vigilantia et astutia delli heretici, si sono
+                    risoluti unitamente di parlar a S. A. et portarli di nuovo la consulta approvata
+                    et augumentata dal’arciduca, suo fratello et duca di Bavera,<note
+                        xml:id="FN1_00027_02" type="footnote"> Gemeint sind die Beschlüsse der
+                        Münchner Konferenz (Loserth, FRA 11/50, S. 31—40).</note>et dirle: „Signore
+                    ecco qua quello che si è concluso da noi, vostri fidelissimi servi, tutti
+                    intenti al benefìcio di V. A. et di questi stati, de’ quali noi ancora siamo
+                    membra et habbiamo la causa commune. Si è cominciato a mettere in esecutione
+                    alcuni capi di questa consulta, ma perché un de principali è che S. Stà mandasse
+                    nontio, <note xml:id="FN1_00027_03" type="footnote">Ebenda, S. 36, Punkt
+                        13.</note>acciò che potesse V. A. consigliarsi seco etc., egli è già venuto
+                    et, subito giungendo, ha rapresentato et a lei e a tutti noi la charità paterna
+                    di S. Stà verso lei et popoli suoi, protestandosi che egli non ha mai per havere
+                    altro fine che l’honore et gloria de Dio et beneficio della salvatione delle
+                    anime, di più, potendo egli investigare per molte parti il stato della
+                    religione, non ha voluto, ma sapendo che la causa deve a noi premere più che a
+                    niun altri, et non desiderando egli di saper questo per curiosità né per altro
+                    rispetto che per utile nostro, ha supplicato V. A. a farlo fidelmente informare
+                    tanto dell’origine della heresia quanto del progresso et stato suo et delli
+                    remedii, che si potrebbano applicare, né ha egli portato seco mezzi alcuni, ma
+                    ha approvato li nostri, propostoli in nome di V. A., et ha dato parte a S. Stà
+                    di quello che è passato et non ha mancato per quanto referisce di far ogni buono
+                    officio, acciò tutto quello che depende da S. Stà sia effetuato. Hora noi, alli
+                    quali è molto ben noto li impeti delli provinciali et sapendo con quanta
+                    temerità et poco rispetto essi abusano della clementia di V. A., come zelosi
+                    del’ honore et reputatione di lei, non potiamo se non metterle in consideratione
+                    che li mezzi da noi trovati sono quelli che V. A. ha tante volte approvati col
+                    parere et consiglio de più attinenti suoi parenti, quali son stati fidelmente
+                    rapresentati al nontio et egli ha tenuti per facili et hor più che mai li tiene.
+                    Quando V. A. si è mossa ricercare a S. Stà che mandi nontio non è stato per
+                    altro effetto, se non per consultar seco del remedio a tanti mali. Hora se,
+                    essendo venuto et havendo <pb xml:id="P1_0000100"/>approvato quello che noi
+                    habbiamo proposto, vederà che non si venghi alla esecutione, egli non potrà se
+                    non avisare S. Bne di quello che già ha dato segno di suspicare, ciovè che noi
+                    non diciamo da dovero cosa che quanto possi denigrare il candore della bontà et
+                    pietà di V. A. ogniuno lo può considerare. Però noi giudichiamo per servitio suo
+                    espediente, che un’altra volta la rivedi la consulta et si risolvi a queste
+                    diete, conforme al’ intentione che si è data al nontio et si è scritto a Roma al
+                    cardinale Madrutio di far qualche notabile demostratione, <note
+                        xml:id="FN1_00027_04" type="footnote">Siehe oben Nr. 16, Anm. 9.</note>acciò
+                    li principi catholici, a notitia de’ quali è già pervenuto che S. Stà ha mandato
+                    nontio ricercato da lei, possino conoscere che V. A. sì come nella persona sua
+                    professa con vive opere di voler vivere et morire nella religione, nella quale è
+                    stata battizata, nutrita et educata, che similmente la procura con ogni sua
+                    possibilità nelle provincie, che Dio benedetto le ha dato in dominio. Et perché
+                    queste diete, che si sono per fare, sono le pietre di approvatione, et mostrando
+                    il nontio di non sperare di poter far frutto di qualità né manco nel stato
+                    ecclesiastico a poco a poco, anzi dubita che non si facendo al presente qualche
+                    notabile demostratione, che l’autorità sua non sia per declinare et patir
+                    detrimento, et pone ogni speranza nelle diete, potrebbe esser che S. Bne,
+                    essendo informata del’ opinion sua, si risolvesse, non intendendo che si sia
+                    fatto frutto alcuno in esse, di revocarlo, cosa che sì come sarebbe a tutti noi
+                    di detrimento, così a V. A. di poca reputatione et senza dubio sarebbe stato
+                    meglio di non l’havere mai ricercato etc“. Questi signori hanno fatto ogni cosa,
+                    perché io non sapessi questo lor proposito, acciò non si potesse con verità dire
+                    che il nontio li ha instigati a questo, ma io l’ho saputo et ne ho sentito
+                    grandissima consolatione et subito ho mostrato di saperlo et li ho confirmati
+                    nel proposito et suministratole alcune cose, et di qui è nato che mi hanno
+                    esortato con tanto affetto a chiamar il vescovo di Secovia, che ancor esso fu
+                    nominato nella consulta.</p>
+                <p>Stando scrivendo questa mia a V. S. Illma, mons. di Gurgo, il sig. cancelliero et
+                    il secretario di S. A. et il padre predicatore sono venuti a desinar meco et
+                    habbiamo fatto una consulta insieme et hanno cercato di persuadermi che non è
+                    bene che S. A. rompi a fatto con li provinciali in questa prima dieta, poiché
+                    sarebbe un voler violentare troppo la natura timida et tarda del principe. Io,
+                    sì come prima ero di questo medemo parere, già tra noi concluso, che si dovesse
+                    aspettare alla seconda, così facilmente sono venuto nella loro<pb
+                        xml:id="P1_0000101"/> opinione, ma li ho interrogati se in questa prima se
+                    la passeremo in silentio. Mi hanno risposto che credono certissimo che ancora
+                    che li provinciali tacciano, S. A. farà tre cose: Prima che dichiararà la
+                    scrittura del 1578, che li heretici hanno publicata esser falsa et come falsa
+                    che totalmente la riprova.<note xml:id="FN1_00027_05" type="footnote"> Siehe
+                        oben Nr. 14, Anm. 13.</note>(2) Che toglierà alle città li predicatori
+                    heretici. <note xml:id="FN1_00027_06" type="footnote">Wegen der Entfernung
+                        evangelischer Prädikanten aus Fürstenfeld, Cilli und Rottenmann war es schon
+                        vorher zu Beschwerden der Landschaft gekommen (Loserth, FRA II/50, S. 45 f.
+                        und 58, Anm. 1).</note>(3) Che perfettionerà il negotio de’ figliuoli, <note
+                        xml:id="FN1_00027_07" type="footnote">Siehe oben Nr. 17 und 18.</note>et che
+                    doppo si anderà attendendo al resto et che quando S. A. non si mostri ardente in
+                    favore della religione catholica, che da parte della maggior parte de catholici
+                    mi fanno sapere che sono risoluti di protestare al principe, che loro non
+                    vogliono più habitare le sue provincie et che si vogliono partire, et realmente
+                    lo faranno. Io ho ricevuto grandissima consolatione vedendo il gran spirito di
+                    questi signori et li ho commendati et ringratiati con tutto l’affetto che ho
+                    potuto, et in spetie il sig. cancelliero, come autore di tutto il bene che si fa
+                    qua, ché se non fosse lui che deffende li Jesuiti, che protegge li catholici et
+                    tutti li buoni, che parla al principe et ha autorità et gratia da poterlo et
+                    saperlo fare, certo che non so come le cose si passassero; io sto assai più
+                    quieto col’animo con così buone speranze et forsi il Sig. Dio ne vorrà
+                    consolare. Dal’altra parte li provinciali non dormano, non lasciano di far gran
+                    pratiche con le città, acciò resistino; et le fanno animo et le promettono la
+                    vittoria et procurano il medemo per subornare il stato ecclesiastico, ma spero
+                    che S. D. Mtà dissiparà li consiglii loro iniqui et impii. Io vo facendo un
+                    memoriale de alcuni punti essentiali per dare a S. A. inanzi la dieta, et credo
+                    non sarà infruttuoso. <note xml:id="FN1_00027_08" type="footnote">Nicht
+                        vorhanden.</note>Il far pronostico del’ esito di questo negotio è
+                    pericolosissimo et a me non basta l’animo, ma solo posso promettere diligentia,
+                    vigilantia et una pronta et ardente volontà di far quello che humanamente potrò,
+                    acciò ne segua qualche bene conforme alla santissima mente di N. S. Non dimeno,
+                    poiché la causa è de Dio, dobbiamo sperare che, essendo padre di misericordia et
+                    Dio d’ogni consolatione, non lasciarà di aprire il tesoro infinito della
+                    misericordia sua sopra tanto gran numero de popoli, quali habitano veramente
+                    nelle tenebre.</p>
+                <p>Hoggi si farà consiglio et si tratterà che aiuto deve S. A. domandare a tutti li
+                    stati de’ provinciali in questa dieta...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

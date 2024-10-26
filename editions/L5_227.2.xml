@@ -1,189 +1,193 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_227.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-06-04" n="2">1601-06-04</title>
-                    <title level="a">227.2. Portia an Aldobrandini - Graz, 1601 Juni 4</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 60r–v, Orig.
-								[Eigenh.]</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_227.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1601-06-04" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_227.1.xml">227.1. Portia an Aldobrandini - Graz, 1601 Juni 4</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_227.3.xml">227.3. (Portia an Aldobrandini) - (Graz, 1601 Juni 4)</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_227.1.xml">227.1. Portia an
-                            Aldobrandini - Graz, 1601 Juni 4</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_227.3.xml">227.3. (Portia an
-                            Aldobrandini) - (Graz, 1601 Juni 4)</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia übermittelt Kardinal Aldobrandini und Gian Francesco Aldobrandini
-						Informationen über die Verhandlungen des Kaisers mit Erzherzog Ferdinand
-						über die Zusammenlegung kaiserlicher und innerösterreichischer Truppen. In
-						Graz und Wien werden Vorbereitungen für den Feldzug getroffen. Portia
-						sichert Kardinal Aldobrandini seine vollkommene Ergebenheit zu und dankt für
-						dessen Bemühungen um die ausstehenden Rechnungen bei der Apostolischen
-						Kammer.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="227.2">Portia an Aldobrandini - Graz, 1601 Juni 4</head>
-				<div>
-					<p>Invio a V. S. Ill.ma l’incluso foglio<note xml:id="FN5_227.2_01" type="footnote">Nr. 227.3.</note> per avviso di quanto passa tra la M.tà
-						dell’Imperatore et questo ser.mo Arciduca sopra l’unir gl’esserciti, di che
-						mando copia anco all’Ecc.mo Sig. Giovan Francesco per via di Monsig. Nuntio
-						di Venetia conforme all’ordine datomi per l’indrizzo delle sue lettere,
-						acciò che parendole di commandarmi alcuna cosa in questo proposito lo possa
-						fare anco prima della sua venuta in queste parti.</p>
-					<p>In Vienna et qui si sono fatte molte provisioni di Padiglioni, Cavalli et
-						carri per servitio di S. E. et così si attende et segue con ogni diligenza.
-						Supplico V. S. Ill.ma ad havermi nella sua benigna gratia et protettione
-						raccommandato et tener per fermo che non ha servitore di maggior fede et
-						devotione di me verso la sua Ill.ma persona et Casa, sì come non lascierò
-						mai occasione di comprobarlo et dimostrarlo con gl’effetti. Di questo mi
-						occorre di supplicarla al presente, accioché ella si degni di tener
-							memoria<pb xml:id="P5_0000510"/> d’impiegarmi et valersi della servitù
-						et obligation mia, dove ella può conoscere ch’io possa esser atto et
-						accommodato al suo servitio, poiché posso dire che quest’unica ragione et
-						rispetto mi fa aquietar nell’animo et stato mio in sì lunga Nuntiatura et
-						quasi la stessa, presumendo tra me stesso che V. S. Ill.ma così giudichi
-						convenirsi et complirsi al suo servitio, né io penso di travagliar con altro
-						fine che della conservatione della gratia et protettione di V. S. Ill.ma
-						nella quale unicamente spero. Rimetto per tanto ogni mio volere nella
-						dispositione et commando di V. S. Ill.ma per dipendere et dover regolarmi
-						con quella tutto ’l tempo di mia vita, né altro più desidero et bramo che di
-						haver occasione di servire all’intentione et commandamenti di V. S.
-						Ill.ma.</p>
-					<p>Rendo anco humilmente gratie a V. S. Ill.ma del favore et gratia che ’lla si
-						degna di prestarmi nel parlarle di que restanti con la rev. Camera, conforme
-						a quello che assai spesso mi significa il Pico mio Agente costì, di che
-						scrivo anco alcuna cosa per informatione a Monsig. rev.mo Zacchia
-							Commissario<note xml:id="FN5_227.2_02" type="footnote">Nicht auffindbar.
-							Vgl. Nr. 96.3, 122.2, 129.1, 132.1, 132.2, 138.4, 140.3, 143.2, 150.1,
-							189.1, 209.3.</note>, et V. S. Ill.ma si persuada et tenga per fermo che
-						sì come ne miei incommodi et travagli di questa carica passati et presenti
-						non ho havuto altro termine di consolatione che nella protettione et
-						benignità di V. S. Ill.ma, che così io non ho né son per haver alcuna cosa
-						in questo Mondo che non sia per valermene et impiegarla in servitio et
-						essecutione d’ogni cenno et commando di V. S. Ill.ma …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_227.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-06-04" n="2">1601-06-04</title>
+                <title level="a">227.2. Portia an Aldobrandini - Graz, 1601 Juni 4</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 60r–v, Orig.
+                            [Eigenh.]</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_227.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1601-06-04" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_227.1.xml"
+                        >227.1. Portia an Aldobrandini - Graz, 1601 Juni 4</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_227.3.xml">227.3.
+                        (Portia an Aldobrandini) - (Graz, 1601 Juni 4)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_227.1.xml">227.1. Portia an
+                        Aldobrandini - Graz, 1601 Juni 4</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_227.3.xml">227.3. (Portia an
+                        Aldobrandini) - (Graz, 1601 Juni 4)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia übermittelt Kardinal Aldobrandini und Gian Francesco Aldobrandini
+                    Informationen über die Verhandlungen des Kaisers mit Erzherzog Ferdinand über
+                    die Zusammenlegung kaiserlicher und innerösterreichischer Truppen. In Graz und
+                    Wien werden Vorbereitungen für den Feldzug getroffen. Portia sichert Kardinal
+                    Aldobrandini seine vollkommene Ergebenheit zu und dankt für dessen Bemühungen um
+                    die ausstehenden Rechnungen bei der Apostolischen Kammer.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="227.2">Portia an Aldobrandini - Graz, 1601 Juni 4</head>
+            <div>
+                <p>Invio a V. S. Ill.ma l’incluso foglio<note xml:id="FN5_227.2_01" type="footnote"
+                        >Nr. 227.3.</note>per avviso di quanto passa tra la M.tà dell’Imperatore et
+                    questo ser.mo Arciduca sopra l’unir gl’esserciti, di che mando copia anco
+                    all’Ecc.mo Sig. Giovan Francesco per via di Monsig. Nuntio di Venetia conforme
+                    all’ordine datomi per l’indrizzo delle sue lettere, acciò che parendole di
+                    commandarmi alcuna cosa in questo proposito lo possa fare anco prima della sua
+                    venuta in queste parti.</p>
+                <p>In Vienna et qui si sono fatte molte provisioni di Padiglioni, Cavalli et carri
+                    per servitio di S. E. et così si attende et segue con ogni diligenza. Supplico
+                    V. S. Ill.ma ad havermi nella sua benigna gratia et protettione raccommandato et
+                    tener per fermo che non ha servitore di maggior fede et devotione di me verso la
+                    sua Ill.ma persona et Casa, sì come non lascierò mai occasione di comprobarlo et
+                    dimostrarlo con gl’effetti. Di questo mi occorre di supplicarla al presente,
+                    accioché ella si degni di tener memoria <pb xml:id="P5_0000510"/>d’impiegarmi et
+                    valersi della servitù et obligation mia, dove ella può conoscere ch’io possa
+                    esser atto et accommodato al suo servitio, poiché posso dire che quest’unica
+                    ragione et rispetto mi fa aquietar nell’animo et stato mio in sì lunga
+                    Nuntiatura et quasi la stessa, presumendo tra me stesso che V. S. Ill.ma così
+                    giudichi convenirsi et complirsi al suo servitio, né io penso di travagliar con
+                    altro fine che della conservatione della gratia et protettione di V. S. Ill.ma
+                    nella quale unicamente spero. Rimetto per tanto ogni mio volere nella
+                    dispositione et commando di V. S. Ill.ma per dipendere et dover regolarmi con
+                    quella tutto ’l tempo di mia vita, né altro più desidero et bramo che di haver
+                    occasione di servire all’intentione et commandamenti di V. S. Ill.ma.</p>
+                <p>Rendo anco humilmente gratie a V. S. Ill.ma del favore et gratia che ’lla si
+                    degna di prestarmi nel parlarle di que restanti con la rev. Camera, conforme a
+                    quello che assai spesso mi significa il Pico mio Agente costì, di che scrivo
+                    anco alcuna cosa per informatione a Monsig. rev.mo Zacchia Commissario<note
+                        xml:id="FN5_227.2_02" type="footnote">Nicht auffindbar. Vgl. Nr. 96.3,
+                        122.2, 129.1, 132.1, 132.2, 138.4, 140.3, 143.2, 150.1, 189.1,
+                    209.3.</note>, et V. S. Ill.ma si persuada et tenga per fermo che sì come ne
+                    miei incommodi et travagli di questa carica passati et presenti non ho havuto
+                    altro termine di consolatione che nella protettione et benignità di V. S.
+                    Ill.ma, che così io non ho né son per haver alcuna cosa in questo Mondo che non
+                    sia per valermene et impiegarla in servitio et essecutione d’ogni cenno et
+                    commando di V. S. Ill.ma …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,213 +1,218 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_021.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-03-07" n="1">1599-03-07</title>
-                    <title level="a">21.1. Portia an Aldobrandini - Salzburg, 1599 März 7</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 92 A, fol. 266r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_021.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-03-07" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2766824">Salzburg</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_020.2.xml">20.2. Aldobrandini an Portia - Rom, 1599 März 6</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_022.1.xml">22.1. Aldobrandini an Portia - Rom, 1599 März 13</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_020.2.xml">20.2. Aldobrandini an
-                            Portia - Rom, 1599 März 6</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_022.1.xml">22.1. Aldobrandini an
-                            Portia - Rom, 1599 März 13</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia befürchtet, erst nach der erfolgten Wahl des Domdekans [Gebsattel] zum
-						Bischof nach Bamberg zu gelangen, zudem hat er von der Besetzung der
-						Propstei Würzburg durch den Propst von Bamberg [W. A. v. Würtzburg]
-						erfahren. In Bamberg wird er sich über die Person des neuen Bischofs
-						informieren. Empfiehlt den Postweg uber Eichstiitt oder Wurzburg bzw. über
-						Dr. Brandt und den Bischof von Eichstätt [Gemmingen].</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="21.1">Portia an Aldobrandini - Salzburg, 1599 März 7</head>
-				<div>
-					<p>Io dubito che con tutta la diligenza c’ho fatto et son per fare nel mio
-						viaggio verso Bamberga forse non potrò arrivare in tempo prima
-						dell’elezione, intendendo ch’il Decano di quella Cathedrale<note xml:id="FN5_021.1_01" type="footnote">Johann Philipp von Gebsattel
-							(1555–1609), seit 1592 Domdekan in Bamberg. Er führte im Domkapitel die
-							Opposition gegen Bischof von Thüngen und dessen rekatholisierende
-							Politik an. Die Wahl zum Bischof von Bamberg erfolgte am 4. Februar
-							1599, die päpstliche Wahlbestätigung am 19. Juli 1599, die kaiserliche
-							Belehnung am 5. Januar 1600: vgl. GATZ, 1448–1648, S. 212f.; WEISS,
-							Bistum, S. 305–345.</note> si trovava molto fa<pb xml:id="P5_0000041"/>
-						vorito dalla maggior parte de Canonici et che si teneva che sarebbe stato
-						eletto, sí come si dice anco che gli Canonici d’Herbipoli habbino eletto il
-						Preposito di Bamberga<note xml:id="FN5_021.1_02" type="footnote">Wolf
-							Albrecht von Würtzburg (1546–1610), Neffe von Veit von Würtzburg,
-							Bischof von Bamberg (1561–1577). Propst des Bamberger Domkapitels
-							(1591). Die Wahl zum Propst des Würzburger Domkapitels erfolgte am 20.
-							Januar 1599, obwohl Ferdinand von Bayern, der Sohn Herzog Wilhelms V.
-							von Bayern, seit 1588 im Besitz einer Provisionsbulle von Sixtus V. für
-							die Würzburger Dompropstei war. Der erbitterte Streit wurde erst im Jahr
-							1602 durch einen Vergleich beendet, in Folge dessen Ferdinand
-							verzichtete: vgl. STIEVE, Politik Baierns 4, S. 380f. (Anm. 2); HOTZELT,
-							S. 340–375; WENDEHORST, S. 177.</note> alla Prepositura d’Herbipoli
-						ancora, la quale rende circa ventimila fiorini d’entrata, con tutto che
-						altre volte (come io ho inteso) quella Prepositura sia stata conferita dalla
-						Sede Apostolica al Sig. Duca Ferdinando di Baviera Coadiutore in
-							Colonia<note xml:id="FN5_021.1_03" type="footnote">Ferdinand
-							(1577–1650), Sohn von Herzog Wilhelm V. von Bayern und Renata von
-							Lothringen, Koadjutor des Fürstpropstes von Berchtesgaden (1591–1595),
-							Fürstpropst von Berchtesgaden (1595–1650), Koadjutor des Erzbischofs von
-							Köln (1596– 1612), Koadjutor des Fürstabtes von Stablo-Malmedy
-							(1599–1612), Koadjutor des Fürstbischofs von Lüttich (1602–1612),
-							Koadjutor des Fürstbischofs von Hildesheim und Münster (1611–1612).
-							Kurfürst-Erzbischof von Köln, Fürstbischof von Lüttich, Hildesheim und
-							Münster, Fürstabt von Stablo-Malmedy (1612–1650), Koadjutor des
-							Fürstbischofs von Paderborn (1612–1618), Fürstbischof von Paderborn
-							(1618–1650): vgl. NDB 5, S. 90; GATZ, 1648–1803, S. 107–111. Vgl.
-							vorangehende Anmerkung.</note>. Io però seguirò secondo l’ordine di N.
-						S. et di V. S. Ill.ma, et quando trovassi anco l’elezion fatta procurerò
-						d’informarmi delle qualità della persona eletta, sendo certo che del Decano
-						et d’altri di quel Capitolo ci è stato per il passato dei sospetti assai
-						gravi nel particolare della Religione, et trovando che ci sia disordine o
-						pericolo alcuno lo significherò a V. S. Ill.ma et anderò nel medesimo tempo
-						trattenendo il negozio nel meglior modo che si potrà senza pregiudizio, et
-						se in questo mentre parerà a V. S. Ill.ma di commettermi alcuna cosa circa
-						questo particolare<note xml:id="SN021.1_a" type="siglum">Marginalie des
-							Staatssekretariates links: Trattatene nella Congregatione et si faccia
-							quanto prima.</note> in evento che si trovasse eletta persona sospetta,
-						potrà commettere l’indirizzo delle lettere verso Eistadio o Herbipoli,
-						trovandosi costì il Dottor Brand Canonico d’Augusta<note xml:id="FN5_021.1_04" type="footnote">Georg Brandt (gest. 1627), Dr.,
-							Domherr in Augsburg seit 1591, bischoflich eichstiittischer Rat,
-							Verfasser einer Schrift über die Konkordate des Apostolischen Stuhles
-							mit Deutschland (Rom 1600): vgl. HAEMMERLE, S. 31 (Nr. 139); ZOEPFL, S.
-							721 (Anm. 82).</note>, che potrà facilmente indrizzarle verso Franconia
-						con raccommandarle in particolare a Monsig. Vescovo d’Eistadio,<pb xml:id="P5_0000042"/> co ’l cui mezzo il ricapito sarà molto più facile
-						et commodo per diversi rispetti …</p>
-					<p>
-						<note xml:id="SN021.1_b" type="siglum">Eigenhändige Ergänzung
-							Portias.</note> Io ho avviso da certa parte di Svevia che il Decano di
-						Bamberga sia stato di già eletto, però havendo scritto a quel Capitolo che
-						io ero per venir a quella parte di ordine di N. S. anderò per far quel che
-						Dio N. S. mi farà gratia di poter esseguire per servitio et honor suo et di
-						Sua Santa Chiesa.<ref target="#SN021.1_b">*b)</ref>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_021.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-03-07" n="1">1599-03-07</title>
+                <title level="a">21.1. Portia an Aldobrandini - Salzburg, 1599 März 7</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 92 A, fol. 266r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_021.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-03-07" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2766824">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_020.2.xml"
+                        >20.2. Aldobrandini an Portia - Rom, 1599 März 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_022.1.xml">22.1.
+                        Aldobrandini an Portia - Rom, 1599 März 13</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_020.2.xml">20.2. Aldobrandini an
+                        Portia - Rom, 1599 März 6</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_022.1.xml">22.1. Aldobrandini an
+                        Portia - Rom, 1599 März 13</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia befürchtet, erst nach der erfolgten Wahl des Domdekans [Gebsattel] zum
+                    Bischof nach Bamberg zu gelangen, zudem hat er von der Besetzung der Propstei
+                    Würzburg durch den Propst von Bamberg [W. A. v. Würtzburg] erfahren. In Bamberg
+                    wird er sich über die Person des neuen Bischofs informieren. Empfiehlt den
+                    Postweg uber Eichstiitt oder Wurzburg bzw. über Dr. Brandt und den Bischof von
+                    Eichstätt [Gemmingen].</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="21.1">Portia an Aldobrandini - Salzburg, 1599 März 7</head>
+            <div>
+                <p>Io dubito che con tutta la diligenza c’ho fatto et son per fare nel mio viaggio
+                    verso Bamberga forse non potrò arrivare in tempo prima dell’elezione, intendendo
+                    ch’il Decano di quella Cathedrale<note xml:id="FN5_021.1_01" type="footnote"
+                        >Johann Philipp von Gebsattel (1555–1609), seit 1592 Domdekan in Bamberg. Er
+                        führte im Domkapitel die Opposition gegen Bischof von Thüngen und dessen
+                        rekatholisierende Politik an. Die Wahl zum Bischof von Bamberg erfolgte am
+                        4. Februar 1599, die päpstliche Wahlbestätigung am 19. Juli 1599, die
+                        kaiserliche Belehnung am 5. Januar 1600: vgl. GATZ, 1448–1648, S. 212f.;
+                        WEISS, Bistum, S. 305–345.</note>si trovava molto fa<pb xml:id="P5_0000041"
+                    />vorito dalla maggior parte de Canonici et che si teneva che sarebbe stato
+                    eletto, sí come si dice anco che gli Canonici d’Herbipoli habbino eletto il
+                    Preposito di Bamberga<note xml:id="FN5_021.1_02" type="footnote"> Wolf Albrecht
+                        von Würtzburg (1546–1610), Neffe von Veit von Würtzburg, Bischof von Bamberg
+                        (1561–1577). Propst des Bamberger Domkapitels (1591). Die Wahl zum Propst
+                        des Würzburger Domkapitels erfolgte am 20. Januar 1599, obwohl Ferdinand von
+                        Bayern, der Sohn Herzog Wilhelms V. von Bayern, seit 1588 im Besitz einer
+                        Provisionsbulle von Sixtus V. für die Würzburger Dompropstei war. Der
+                        erbitterte Streit wurde erst im Jahr 1602 durch einen Vergleich beendet, in
+                        Folge dessen Ferdinand verzichtete: vgl. STIEVE, Politik Baierns 4, S. 380f.
+                        (Anm. 2); HOTZELT, S. 340–375; WENDEHORST, S. 177.</note>alla Prepositura
+                    d’Herbipoli ancora, la quale rende circa ventimila fiorini d’entrata, con tutto
+                    che altre volte (come io ho inteso) quella Prepositura sia stata conferita dalla
+                    Sede Apostolica al Sig. Duca Ferdinando di Baviera Coadiutore in Colonia <note
+                        xml:id="FN5_021.1_03" type="footnote">Ferdinand (1577–1650), Sohn von Herzog
+                        Wilhelm V. von Bayern und Renata von Lothringen, Koadjutor des Fürstpropstes
+                        von Berchtesgaden (1591–1595), Fürstpropst von Berchtesgaden (1595–1650),
+                        Koadjutor des Erzbischofs von Köln (1596– 1612), Koadjutor des Fürstabtes
+                        von Stablo-Malmedy (1599–1612), Koadjutor des Fürstbischofs von Lüttich
+                        (1602–1612), Koadjutor des Fürstbischofs von Hildesheim und Münster
+                        (1611–1612). Kurfürst-Erzbischof von Köln, Fürstbischof von Lüttich,
+                        Hildesheim und Münster, Fürstabt von Stablo-Malmedy (1612–1650), Koadjutor
+                        des Fürstbischofs von Paderborn (1612–1618), Fürstbischof von Paderborn
+                        (1618–1650): vgl. NDB 5, S. 90; GATZ, 1648–1803, S. 107–111. Vgl.
+                        vorangehende Anmerkung.</note>. Io però seguirò secondo l’ordine di N. S. et
+                    di V. S. Ill.ma, et quando trovassi anco l’elezion fatta procurerò d’informarmi
+                    delle qualità della persona eletta, sendo certo che del Decano et d’altri di
+                    quel Capitolo ci è stato per il passato dei sospetti assai gravi nel particolare
+                    della Religione, et trovando che ci sia disordine o pericolo alcuno lo
+                    significherò a V. S. Ill.ma et anderò nel medesimo tempo trattenendo il negozio
+                    nel meglior modo che si potrà senza pregiudizio, et se in questo mentre parerà a
+                    V. S. Ill.ma di commettermi alcuna cosa circa questo particolare<note
+                        xml:id="SN5_021.1_a" type="siglum"> Marginalie des Staatssekretariates
+                        links: Trattatene nella Congregatione et si faccia quanto prima.</note>in
+                    evento che si trovasse eletta persona sospetta, potrà commettere l’indirizzo
+                    delle lettere verso Eistadio o Herbipoli, trovandosi costì il Dottor Brand
+                    Canonico d’Augusta <note xml:id="FN5_021.1_04" type="footnote">Georg Brandt
+                        (gest. 1627), Dr., Domherr in Augsburg seit 1591, bischoflich
+                        eichstiittischer Rat, Verfasser einer Schrift über die Konkordate des
+                        Apostolischen Stuhles mit Deutschland (Rom 1600): vgl. HAEMMERLE, S. 31 (Nr.
+                        139); ZOEPFL, S. 721 (Anm. 82).</note>, che potrà facilmente indrizzarle
+                    verso Franconia con raccommandarle in particolare a Monsig. Vescovo d’Eistadio,
+                        <pb xml:id="P5_0000042"/>co ’l cui mezzo il ricapito sarà molto più facile
+                    et commodo per diversi rispetti …</p>
+                <p>
+                    <note xml:id="SN5_021.1_b" type="siglum">Eigenhändige Ergänzung
+                    Portias.</note>Io ho avviso da certa parte di Svevia che il Decano di Bamberga
+                    sia stato di già eletto, però havendo scritto a quel Capitolo che io ero per
+                    venir a quella parte di ordine di N. S. anderò per far quel che Dio N. S. mi
+                    farà gratia di poter esseguire per servitio et honor suo et di Sua Santa
+                        Chiesa.<ref target="#SN5_021.1_b"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,176 +1,180 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_244.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-08-06" n="2">1601-08-06</title>
-                    <title level="a">244.2. Portia an Aldobrandini - Graz, 1601 August 6</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 88r, Orig.
-								[Eigenh.]</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_244.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1601-08-06" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_244.1.xml">244.1. Portia an Aldobrandini - Graz, 1601 August 6</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_244.3.xml">244.3. Portia an Aldobrandini - Graz, 1601 August 6</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_244.1.xml">244.1. Portia an
-                            Aldobrandini - Graz, 1601 August 6</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_244.3.xml">244.3. Portia an
-                            Aldobrandini - Graz, 1601 August 6</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Gian Francesco Aldobrandini wird jene Neuigkeiten nach Rom berichtet haben,
-						die er von Portia durch den Grafen Zrinski erfahren hatte. Man weiß, dass
-						die Türken Kanizsa entsprechend sichern, die Friedensverhandlungen werden
-						fortgesetzt, jedoch ohne große Zuversicht. Die Pest wurde von Triest nach
-						Laibach/Ljubliana übertragen, die päpstlichen Soldaten be.finden sich jedoch
-						bereits in Agram/Zagreb.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="244.2">Portia an Aldobrandini - Graz, 1601 August 6</head>
-				<div>
-					<pb xml:id="P5_0000542"/>
-					<p>Penso che l’Ecc.mo Sig. Generale nostro significherà a V. S. Ill.ma alcune
-						nuove ch’io le ho procurato per certo mezzo di corrispondenza del Conte di
-							Serino<note xml:id="FN5_244.2_01" type="footnote">Georg (Juraj) Zrinski
-							(ungarisch Györg Zrínyi) (1549–1603), Sohn des Helden von Szigetvár,
-							Nikolaus Zrinski, und der Catharina Frangipan. Kaiserlicher Kämmerer und
-							Rat, Kreisoberster jenseits der Donau (1574, 1582–1598), Schatzmeister
-							des Königreiches Ungarn. Durch seine Grundherrschaft auf der Murinsel
-							spielte er auch bei der Verteidigung der Steiermark eine führende Rolle:
-							vgl. PÀLFFY, Osmanen, S. 10f.; SCHEUTZ/TERSCH, S. 151 (Anm. 62).</note>,
-						però sopra quelle non mi occorre che dir altro, solo che doppo non si sente
-						la confermatione che Hassan Bassa si sia alloggiato co’ suoi ne Borghi di
-						Canisa, ben si ha che sia vero che gli Turchi habbin ben munita Canisa et
-						che vi sian dentro duemila buoni archibugieri et cinquecento cavalli di
-						presidio, che però non si senta gran numero di gente preparata in Campagna
-						dal canto loro, se ben alla fine di questo potrebbe apparirne. In tanto qui
-						si sta con li medesimi pensieri et apparati per Canisa, nonostante le
-						difficoltà che son state considerate et dette.</p>
-					<p>Il trattato di pace cominciò a tre del corrente ne contorni di Strigonia et
-						seguì con sodisfattione degl’Hungari che desideran la pace, ma però con poca
-						speranza di vederne il fine che desiderano. S’intende che per colpa d’alcuni
-						Somieri del Cragno sia stato portato di Trieste il contagio ne contorni et
-						villaggi verso Lubiana, ma si è fatto grandissima diligenza et si spera che
-						non seguirà maggior danno, et di già gli soldati di S. E. son incaminati
-						tutti verso Zagabria. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_244.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-08-06" n="2">1601-08-06</title>
+                <title level="a">244.2. Portia an Aldobrandini - Graz, 1601 August 6</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 88r, Orig.
+                            [Eigenh.]</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_244.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1601-08-06" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_244.1.xml"
+                        >244.1. Portia an Aldobrandini - Graz, 1601 August 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_244.3.xml">244.3.
+                        Portia an Aldobrandini - Graz, 1601 August 6</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_244.1.xml">244.1. Portia an
+                        Aldobrandini - Graz, 1601 August 6</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_244.3.xml">244.3. Portia an
+                        Aldobrandini - Graz, 1601 August 6</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Gian Francesco Aldobrandini wird jene Neuigkeiten nach Rom berichtet haben, die
+                    er von Portia durch den Grafen Zrinski erfahren hatte. Man weiß, dass die Türken
+                    Kanizsa entsprechend sichern, die Friedensverhandlungen werden fortgesetzt,
+                    jedoch ohne große Zuversicht. Die Pest wurde von Triest nach Laibach/Ljubliana
+                    übertragen, die päpstlichen Soldaten be.finden sich jedoch bereits in
+                    Agram/Zagreb.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="244.2">Portia an Aldobrandini - Graz, 1601 August 6</head>
+            <div>
+                <pb xml:id="P5_0000542"/>
+                <p>Penso che l’Ecc.mo Sig. Generale nostro significherà a V. S. Ill.ma alcune nuove
+                    ch’io le ho procurato per certo mezzo di corrispondenza del Conte di Serino<note
+                        xml:id="FN5_244.2_01" type="footnote">Georg (Juraj) Zrinski (ungarisch Györg
+                        Zrínyi) (1549–1603), Sohn des Helden von Szigetvár, Nikolaus Zrinski, und
+                        der Catharina Frangipan. Kaiserlicher Kämmerer und Rat, Kreisoberster
+                        jenseits der Donau (1574, 1582–1598), Schatzmeister des Königreiches Ungarn.
+                        Durch seine Grundherrschaft auf der Murinsel spielte er auch bei der
+                        Verteidigung der Steiermark eine führende Rolle: vgl. PÀLFFY, Osmanen, S.
+                        10f.; SCHEUTZ/TERSCH, S. 151 (Anm. 62).</note>, però sopra quelle non mi
+                    occorre che dir altro, solo che doppo non si sente la confermatione che Hassan
+                    Bassa si sia alloggiato co’ suoi ne Borghi di Canisa, ben si ha che sia vero che
+                    gli Turchi habbin ben munita Canisa et che vi sian dentro duemila buoni
+                    archibugieri et cinquecento cavalli di presidio, che però non si senta gran
+                    numero di gente preparata in Campagna dal canto loro, se ben alla fine di questo
+                    potrebbe apparirne. In tanto qui si sta con li medesimi pensieri et apparati per
+                    Canisa, nonostante le difficoltà che son state considerate et dette.</p>
+                <p>Il trattato di pace cominciò a tre del corrente ne contorni di Strigonia et seguì
+                    con sodisfattione degl’Hungari che desideran la pace, ma però con poca speranza
+                    di vederne il fine che desiderano. S’intende che per colpa d’alcuni Somieri del
+                    Cragno sia stato portato di Trieste il contagio ne contorni et villaggi verso
+                    Lubiana, ma si è fatto grandissima diligenza et si spera che non seguirà maggior
+                    danno, et di già gli soldati di S. E. son incaminati tutti verso Zagabria. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

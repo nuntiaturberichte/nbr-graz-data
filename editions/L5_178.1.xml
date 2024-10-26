@@ -1,172 +1,177 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_178.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-12-22" n="1">1600-12-22</title>
-                    <title level="a">178.1. Aldobrandini an Portia - Lyon, 1600 Dezember 22</title>
-                    <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>BNCF, Fondo nazionale II.II.511, fol. 257r, Orig.; ASV, Fondo
-								Borghese, serie III 39,<lb/>fol. 54v–55r, Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_178.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                        <date when="1600-12-22" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2996944">Lyon</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_177.2.xml">177.2. San Giorgio an Portia - Rom, 1600 Dezember 16</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_179.1.xml">179.1. San Giorgio an Portia - Rom, 1600 Dezember 23</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_174.1.xml">174.1. San Giorgio an
-                            Portia - Rom, 1600 November 25</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_182.1.xml">182.1. Aldobrandini an
-                            Portia - Lyon, 1601 Januar 9</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Kardinal Aldobrandini bedankt sich für die Benachrichtigung der
-						Erzherzöge über seine Legation sowie die Informationen über die drohende
-						Türkengefahr in Innerösterreich und über die Gesandtschaft des Erzherzogs
-						zum Grafen von Fuentes.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="178.1">Aldobrandini an Portia - Lyon, 1600 Dezember 22</head>
-				<div>
-					<p>Due lettere di V. S. mi trovo con quest’ultimi Ordinarii, una delli 6 et
-						l’altra delli 13 del passato<note xml:id="FN5_178.1_01" type="footnote">Nicht auffindbar.</note>. Dalla prima ho inteso con quanta diligenza
-						ella haveva prevenuto nel dar conto a coteste A. A. della mia legatione,
-						prima ch’io le ne scrivessi, et con tal occasione la prattica che ha tenuta
-						perché in proposito di questa pace si facessero efficaci offitii con le M.tà
-						Cattoliche come è poi seguito, così piaccia a Dio che sieno altrettanto
-						fruttuosi quanto erano necessarii. Rendo a V. S. molte gratie dell’amorevol
-						volontà che in ciò ha voluto mostrarmi, della quale glie ne conservarò
-						sempre gratissima memoria.</p>
-					<p>Il discorso che V. S. fa nell’altra sua lettera sopra i pericoli che portano
-						coteste Provincie d’esser depredate dal Turco et dell’aiuto che dovrebbe dar
-						S. M.tà Cattolica all’A. S. è degno della prudenza di lei et la ringratio
-						della parte che me n’ha voluto dare, assecurandola che non potrà esser che
-						di giovamento in quest’occorrenze, come potrà anco esser fruttuosa la
-							missione<pb xml:id="P5_0000435"/> di quel Gentilhuomo di S. A. al Sig.
-						Conte di Fontes<note xml:id="FN5_178.1_02" type="footnote">Pedro Enríquez de
-							Acevedo (1525–1610), Conde de Fuentes, General der Armee in Portugal
-							(1588–1592) und Flandern (1592). Ernennung zum Capitán General de España
-							(1596) und Granden von Spanien (1598), Staats- und Kriegsrat Philipps
-							III., Gouverneur von Mailand (1600–1610): vgl. JAITNER, Clemens VIII.,
-							S. 643 (Anm. 1); GIORDANO, Filippo III, S. 28 (Anm. 17). Der Gesandte
-							Eh. Ferdinands ist nicht bekannt.</note>. Ringratio anco di questo la
-						cortesia sua …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_178.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-12-22" n="1">1600-12-22</title>
+                <title level="a">178.1. Aldobrandini an Portia - Lyon, 1600 Dezember 22</title>
+                <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>BNCF, Fondo nazionale II.II.511, fol. 257r, Orig.; ASV, Fondo
+                            Borghese, serie III 39,<lb/>fol. 54v–55r, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_178.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <date when="1600-12-22" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2996944">Lyon</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_177.2.xml"
+                        >177.2. San Giorgio an Portia - Rom, 1600 Dezember 16</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_179.1.xml">179.1.
+                        San Giorgio an Portia - Rom, 1600 Dezember 23</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_174.1.xml">174.1. San Giorgio an
+                        Portia - Rom, 1600 November 25</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_182.1.xml">182.1. Aldobrandini an
+                        Portia - Lyon, 1601 Januar 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Kardinal Aldobrandini bedankt sich für die Benachrichtigung der
+                    Erzherzöge über seine Legation sowie die Informationen über die drohende
+                    Türkengefahr in Innerösterreich und über die Gesandtschaft des Erzherzogs zum
+                    Grafen von Fuentes.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="178.1">Aldobrandini an Portia - Lyon, 1600 Dezember 22</head>
+            <div>
+                <p>Due lettere di V. S. mi trovo con quest’ultimi Ordinarii, una delli 6 et l’altra
+                    delli 13 del passato<note xml:id="FN5_178.1_01" type="footnote">Nicht
+                        auffindbar.</note>. Dalla prima ho inteso con quanta diligenza ella haveva
+                    prevenuto nel dar conto a coteste A. A. della mia legatione, prima ch’io le ne
+                    scrivessi, et con tal occasione la prattica che ha tenuta perché in proposito di
+                    questa pace si facessero efficaci offitii con le M.tà Cattoliche come è poi
+                    seguito, così piaccia a Dio che sieno altrettanto fruttuosi quanto erano
+                    necessarii. Rendo a V. S. molte gratie dell’amorevol volontà che in ciò ha
+                    voluto mostrarmi, della quale glie ne conservarò sempre gratissima memoria.</p>
+                <p>Il discorso che V. S. fa nell’altra sua lettera sopra i pericoli che portano
+                    coteste Provincie d’esser depredate dal Turco et dell’aiuto che dovrebbe dar S.
+                    M.tà Cattolica all’A. S. è degno della prudenza di lei et la ringratio della
+                    parte che me n’ha voluto dare, assecurandola che non potrà esser che di
+                    giovamento in quest’occorrenze, come potrà anco esser fruttuosa la missione<pb
+                        xml:id="P5_0000435"/> di quel Gentilhuomo di S. A. al Sig. Conte di
+                        Fontes<note xml:id="FN5_178.1_02" type="footnote"> Pedro Enríquez de Acevedo
+                        (1525–1610), Conde de Fuentes, General der Armee in Portugal (1588–1592) und
+                        Flandern (1592). Ernennung zum Capitán General de España (1596) und Granden
+                        von Spanien (1598), Staats- und Kriegsrat Philipps III., Gouverneur von
+                        Mailand (1600–1610): vgl. JAITNER, Clemens VIII., S. 643 (Anm. 1); GIORDANO,
+                        Filippo III, S. 28 (Anm. 17). Der Gesandte Eh. Ferdinands ist nicht
+                        bekannt.</note>. Ringratio anco di questo la cortesia sua …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

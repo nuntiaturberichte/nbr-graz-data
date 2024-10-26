@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00056">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1583-01-13" n="1">1583-01-13</title>
+                <title level="a">56. Gallio an Malaspina - Rom, 1583 Jänner 13</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 96rv, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00056">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1583-01-13" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00055.xml">55.
+                        Malaspina an Gallio - Graz, 1583 Jänner 9</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00057.xml">57.
+                        Gallio an Malaspina - Rom, 1583 Jänner 15</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00055.xml">55. Malaspina an Gallio -
+                        Graz, 1583 Jänner 9</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00057.xml">57. Gallio an Malaspina -
+                        Rom, 1583 Jänner 15</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Auftrag an Malaspina, sich umgehend nach Innsbruck zu begeben und von dort als
+                    Begleiter des Kardinals Andreas von Österreich nach Köln zur Beilegung der
+                    Wirren aufzubrechen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="56">Gallio an Malaspina - Rom, 1583 Jänner 13</head>
+            <div>
+                <p>Havendo N. S. per questo arduissimo et pericolosissimo negotio di Colonia<note
+                        xml:id="FN2_00056_01" type="footnote">Am 5. Dezember 1577 war Gebhard
+                        Truchseß gegen seinen Konkurrenten Herzog Ernst von Bayern zum Erzbischof
+                        von Köln gewählt worden. Aus Rücksicht auf das Haus Wittelsbach zog sich die
+                        päpstliche Bestätigung hinaus und erfolgte erst am 29. Februar 1580. In Rom
+                        war man zunächst mit der Haltung und Tätigkeit des neuen Erzbischofs
+                        zufrieden; während des Augsburger Reichstages im Sommer 1582 erfuhr aber
+                        Kardinallegat Madruzzo, was in Deutschland schon viele wußten, daß der
+                        Kölner Erzbischof eine Geliebte hatte, die er zu heiraten gedenke, deswegen
+                        protestantisch werden und das Erzstift säkularisieren wolle (Hansen,
+                        Nuntiaturberichte III/1, S. XLIVff.).</note>creato nel ultimo concistorio
+                    due legati di latere, ill.mo<pb xml:id="P2_0000082"/> Madruzzo et l’ill.mo
+                    cardinale Andrea d’Austria,<note xml:id="FN2_00056_02" type="footnote"> Kardinal
+                        Madruzzo und Kardinal Andreas von Österreich, ein Sohn Erzherzog Ferdinands
+                        von Tirol, wurden im Geheimen Konsistorium vom 10. Jänner 1583 mit der
+                        Legation nach Köln betraut (Hansen, Nuntiaturberichte III/1, S.
+                    348).</note>et volendo che quanto primo il detto d’Austria per esser vicino et
+                    commodo si transferisca a Colonia per dar principio a le cose che occorrerano di
+                    fare per essecutione del carico suo, S. S.tà vuole che V. S. vada quanto prima a
+                    trovar S. S. Ill.ma in Inspruch <note xml:id="FN2_00056_03" type="footnote"
+                        >Kardinal Andreas von Österreich lebte bei seinem Vater in Innsbruck (Hirn,
+                        Erzherzog Ferdinand II. von Tirol, II, S. 377—408).</note>come anco ha
+                    ordinato al nuntio vescovo di Vercelli<note xml:id="FN2_00056_04"
+                        type="footnote"> Giovanni Francesco Bonomi, 1581—1584 Nuntius am Kaiserhof,
+                        war bereits am 18. Dezember 1582 zur Regelung der Kölner Angelegenheit
+                        vorgesehen (Hansen, Nuntiaturberichte III/1, S. 332—334).</note>et a mons.
+                    Orano auditor di Rota<note xml:id="FN2_00056_05" type="footnote"> Francesco
+                        Orano, sein ursprünglicher Name war Gilles-Francois d’Heur, stammte aus
+                        Lüttich und war 1581—1599 Auditor der Rota (Cerchiari, Capellani Papae et
+                        Apostolicae Sedis auditores Sacri Palatii Apostolici seu Sacra Romana Rota
+                        II, S. 113f.).</note>, qual parte choggi di qui per questo effetto acciò
+                    tutti tre assistano a questa legatione et la seguiti et le assista col consiglio
+                    et con l’opera aiutivo in tutto quello che bisognerà questa causa. Ma prima di
+                    partire V. S. darà parte a S. A. di quanto le scrive et la ricercherà et
+                    pregherà strettamente in nome de la S.tà S. che voglia haver a core questo
+                    negotio et causa publica, et favorirla in tutti i modi che potrà secondo che
+                    conviene al grande interesse del quale in essa si tratta pertinente a la gloria
+                    di Dio, al servitio de la religion catholica, al mantenimento del imperio, a la
+                    quiete et salute di Germania et di tutta christianità, assicurando l’A. S. che
+                    S. B.ne haverà gratissima ogni vera dimostratione di pio zelo che farà in tale
+                    occasione. <note xml:id="FN2_00056_06" type="footnote">Siehe unten Nr.
+                        65.</note>Oltra di ciò V. S. farà ogni opera perché S. A. perseveri nel bene
+                    comunicato quanto a le cose de la religione et che questa poca absenza di V. S.
+                    non faccia danno a quel che dopo tanto tempo et fatica s’è indrizzato per la
+                    buona strada.</p>
+                <p>Ho ricordato a S. S.tà qualche sussidio a V. S. per conto di questo viaggio et S.
+                    S.tà si è contentata di donargli scudi 200 d’oro, li quali si faranno pagar
+                    insieme con la provisione ordinaria . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,196 +1,202 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_007.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-01-30" n="1">1599-01-30</title>
-                    <title level="a">7.1. Aldobrandini an Portia - Rom, 1599 Januar 30</title>
-                    <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 39, fol. 34r–v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_007.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                        <date when="1599-01-30" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_006.1.xml">6.1. Portia an Aldobrandini - Graz, 1599 Januar 29</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_007.2.xml">7.2. Aldobrandini an Portia - Rom, 1599 Januar 30</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_006.1.xml">6.1. Portia an
-                            Aldobrandini - Graz, 1599 Januar 29</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_007.2.xml">7.2. Aldobrandini an
-                            Portia - Rom, 1599 Januar 30</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Betroffenheit des Papstes über die an den Kardinal von
-						Österreich [Andreas] und einige Prälaten Schwabens gesandte kaiserliche
-						Resolution. Breve für den Kaiser wird über den Nuntius am Kaiserhof
-						[Spinelli] übermittelt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="7.1">Aldobrandini an Portia - Rom, 1599 Januar 30</head>
-				<div>
-					<p>Può credere V. S. che habbia grandemente afflitto l’animo di N. S. l’avviso
-						venuto con la sua lettera de 11 di questo<note xml:id="FN5_007.1_01" type="footnote">Nicht auffindbar.</note> circa le resolutioni
-							uscite<note xml:id="SN007.1_a" type="siglum">Ergänzt nach Kopie in
-							DAG.</note> et scritte<ref target="#SN007.1_a">*a)</ref> dall’Imperatore
-						al Cardinal d’Austria Vescovo di Costanza<note xml:id="FN5_007.1_02" type="footnote">Andreas von Österreich (1558–1600), Sohn von Eh.
-							Ferdinand II. von Tirol und Philippine Welser, Kardinal (1576), Bischof
-							von Konstanz (1589–1600), Fürstbischof von Brixen (1591–1600),
-							Statthalter der spanischen Niederlande (1598–1599): vgl. JAITNER,
-							Clemens VIII., S. 312f.; GATZ, 1448–1648, S. 21–23.</note> et ad alcuni
-						Prelati di Svevia, nelle quali viene impedito quel frutto che si sperava
-						dalle visite et riforme de Nuntii Apostolici et Prelati di Germania<note xml:id="FN5_007.1_03" type="footnote">Die Zisterzienserinnen in Schwaben
-							verzögerten mithilfe der schwäbischen Reichsritterschaft erfolgreich die
-							Umsetzung der Klausurbestimmungen des Tridentinums über mehrere Jahre.
-							Als der Abt von Salem im Jahr 1598 von Clemens VIII. mit der Visitation
-							der Klöster betraut und Kardinal Andreas von Österreich zum Kommissar
-							ernannt und mit der Reform der Frauenklöster beauftragt worden war,
-							sprach sich Kaiser Rudolf II. auf Veranlassung der Ritterschaft im
-							September 1598 für einen Aufschub der Maßnahmen bis zum Ende der
-							diesbezüglichen kaiserlichen Verhandlungen mit Rom aus. Die vier
-							Frauenabteien Wald, Heiligenkreuztal, Gutenzell und Baindt wies Rudolf
-							II. im November 1598 an, niemanden eine Visitation vornehmen und von
-							keiner Seite Neuerungen einführen zu lassen: vgl. KUHN-REHFUS, S. 271–
-							281.</note>. Se ne è<pb xml:id="P5_0000014"/> in vero comossa
-						grandemente S. B.ne et subito ha risoluto di scriverne con un suo Breve
-						risentitamente alla M.tà Cesarea<note xml:id="FN5_007.1_04" type="footnote">Clemens VIII. an Rudolf II., Rom, 1599 Januar 30: NANNIIMRKONJIé 3, Nr.
-							12953.</note> et con ordine all’Arcivescovo Spinello Nuntio<note xml:id="FN5_007.1_05" type="footnote">Filippo Spinelli (gest. 1616),
-							Koadjutor im Bistum Policastro und Titularerzbischof von Rhodos (1592),
-							Nuntius am Kaiserhof (1598–1603), Vizelegat von Ferrara (1604), Kardinal
-							(1604), Bischof von Aversa (1605–1616). Er wurde am 26. August 1598 zum
-							Nuntius am Kaiserhof ernannt. Da sich seine Abreise um einige Monate
-							verzögerte, traf er erst am 7. März 1599 in Prag ein, wo er dieses Amt
-							bis April 1603 inne hatte. Von der Abreise des vorangegangenen Nuntius
-							Cesare Speciano (1539–1607, Nuntius am Kaiserhof 1592–1597) im September
-							1597 bis zum März 1599, der Ankunft Spinellis in Prag, führte der
-							Auditor der Nuntiatur am Kaiserhof, Sebastiano Lamberto de’ Fornari, die
-							Geschäfte: vgl. JAITNER, Clemens VIII., S. CCLI–CCLIV. Zur Übermittlung
-							des oben erwähntes Breves: vgl. Aldobrandini an Spinelli, Rom, 1599
-							Januar 30, ASV, Fondo Borghese, serie III 57 [E], fol. 109r–v.</note>
-						che nel rendere il breve a S. M.tà l’accompagni con offitii tali che si
-						venga a procurare il rimedio necessario et opportuno alli gravi danni che
-						senza dubio alcuno porteranno l’essecutioni delle sudette risolutioni, alle
-						quali è necessario di opporsi gagliardamente, et V. S. non lascierà di
-						scriverne anco in nome di S. B.ne a chi tocca, animandoli alla conservatione
-						della giurisditione ecclesiastica conforme all’obligo che tengo di
-						defenderla sin con la vita propria. Si starà aspettando il frutto che farà
-						questo breve, et in tanto è bene di raccomandare a Dio benedetto questo
-						negotio a finchè ci ponga la sua santa mano. .</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_007.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-01-30" n="1">1599-01-30</title>
+                <title level="a">7.1. Aldobrandini an Portia - Rom, 1599 Januar 30</title>
+                <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 39, fol. 34r–v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_007.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <date when="1599-01-30" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_006.1.xml"
+                        >6.1. Portia an Aldobrandini - Graz, 1599 Januar 29</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_007.2.xml">7.2.
+                        Aldobrandini an Portia - Rom, 1599 Januar 30</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_006.1.xml">6.1. Portia an
+                        Aldobrandini - Graz, 1599 Januar 29</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_007.2.xml">7.2. Aldobrandini an
+                        Portia - Rom, 1599 Januar 30</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Betroffenheit des Papstes über die an den Kardinal von Österreich
+                    [Andreas] und einige Prälaten Schwabens gesandte kaiserliche Resolution. Breve
+                    für den Kaiser wird über den Nuntius am Kaiserhof [Spinelli] übermittelt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="7.1">Aldobrandini an Portia - Rom, 1599 Januar 30</head>
+            <div>
+                <p>Può credere V. S. che habbia grandemente afflitto l’animo di N. S. l’avviso
+                    venuto con la sua lettera de 11 di questo<note xml:id="FN5_007.1_01"
+                        type="footnote">Nicht auffindbar.</note>circa le resolutioni uscite <note
+                        xml:id="SN5_007.1_a" type="siglum">Ergänzt nach Kopie in DAG.</note>et
+                        scritte<ref target="#SN5_007.1_a"/> dall’Imperatore al Cardinal d’Austria
+                    Vescovo di Costanza <note xml:id="FN5_007.1_02" type="footnote">Andreas von
+                        Österreich (1558–1600), Sohn von Eh. Ferdinand II. von Tirol und Philippine
+                        Welser, Kardinal (1576), Bischof von Konstanz (1589–1600), Fürstbischof von
+                        Brixen (1591–1600), Statthalter der spanischen Niederlande (1598–1599): vgl.
+                        JAITNER, Clemens VIII., S. 312f.; GATZ, 1448–1648, S. 21–23.</note>et ad
+                    alcuni Prelati di Svevia, nelle quali viene impedito quel frutto che si sperava
+                    dalle visite et riforme de Nuntii Apostolici et Prelati di Germania <note
+                        xml:id="FN5_007.1_03" type="footnote">Die Zisterzienserinnen in Schwaben
+                        verzögerten mithilfe der schwäbischen Reichsritterschaft erfolgreich die
+                        Umsetzung der Klausurbestimmungen des Tridentinums über mehrere Jahre. Als
+                        der Abt von Salem im Jahr 1598 von Clemens VIII. mit der Visitation der
+                        Klöster betraut und Kardinal Andreas von Österreich zum Kommissar ernannt
+                        und mit der Reform der Frauenklöster beauftragt worden war, sprach sich
+                        Kaiser Rudolf II. auf Veranlassung der Ritterschaft im September 1598 für
+                        einen Aufschub der Maßnahmen bis zum Ende der diesbezüglichen kaiserlichen
+                        Verhandlungen mit Rom aus. Die vier Frauenabteien Wald, Heiligenkreuztal,
+                        Gutenzell und Baindt wies Rudolf II. im November 1598 an, niemanden eine
+                        Visitation vornehmen und von keiner Seite Neuerungen einführen zu lassen:
+                        vgl. KUHN-REHFUS, S. 271– 281.</note>. Se ne è<pb xml:id="P5_0000014"/> in
+                    vero comossa grandemente S. B.ne et subito ha risoluto di scriverne con un suo
+                    Breve risentitamente alla M.tà Cesarea <note xml:id="FN5_007.1_04"
+                        type="footnote">Clemens VIII. an Rudolf II., Rom, 1599 Januar 30:
+                        NANNIIMRKONJIé 3, Nr. 12953.</note>et con ordine all’Arcivescovo Spinello
+                    Nuntio <note xml:id="FN5_007.1_05" type="footnote">Filippo Spinelli (gest.
+                        1616), Koadjutor im Bistum Policastro und Titularerzbischof von Rhodos
+                        (1592), Nuntius am Kaiserhof (1598–1603), Vizelegat von Ferrara (1604),
+                        Kardinal (1604), Bischof von Aversa (1605–1616). Er wurde am 26. August 1598
+                        zum Nuntius am Kaiserhof ernannt. Da sich seine Abreise um einige Monate
+                        verzögerte, traf er erst am 7. März 1599 in Prag ein, wo er dieses Amt bis
+                        April 1603 inne hatte. Von der Abreise des vorangegangenen Nuntius Cesare
+                        Speciano (1539–1607, Nuntius am Kaiserhof 1592–1597) im September 1597 bis
+                        zum März 1599, der Ankunft Spinellis in Prag, führte der Auditor der
+                        Nuntiatur am Kaiserhof, Sebastiano Lamberto de’ Fornari, die Geschäfte: vgl.
+                        JAITNER, Clemens VIII., S. CCLI–CCLIV. Zur Übermittlung des oben erwähntes
+                        Breves: vgl. Aldobrandini an Spinelli, Rom, 1599 Januar 30, ASV, Fondo
+                        Borghese, serie III 57 [E], fol. 109r–v.</note>che nel rendere il breve a S.
+                    M.tà l’accompagni con offitii tali che si venga a procurare il rimedio
+                    necessario et opportuno alli gravi danni che senza dubio alcuno porteranno
+                    l’essecutioni delle sudette risolutioni, alle quali è necessario di opporsi
+                    gagliardamente, et V. S. non lascierà di scriverne anco in nome di S. B.ne a chi
+                    tocca, animandoli alla conservatione della giurisditione ecclesiastica conforme
+                    all’obligo che tengo di defenderla sin con la vita propria. Si starà aspettando
+                    il frutto che farà questo breve, et in tanto è bene di raccomandare a Dio
+                    benedetto questo negotio a finchè ci ponga la sua santa mano. .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00174">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-06-13" n="1">1584-06-13</title>
+                <title level="a">174. Malaspina an Gallio - Graz, 1584 Juni 13</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 205rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00174">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1584-06-13" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00173.xml"
+                        >173. Malaspina an Gallio - Graz, 1584 Juni 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00175.xml">175.
+                        (Graz, 1584 Juni 13)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00173.xml">173. Malaspina an Gallio -
+                        Graz, 1584 Juni 6</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00176.xml">176. Malaspina an Gallio -
+                        Graz, 1584 Juni 19</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Ersuchen Erzherzog Karls um päpstliche Hilfsgelder für Besatzung in Graz.
+                    Landesfürstliches Verbot des Erwerbes der Häuser ausgewiesener Bürger durch
+                    adelige Landleute. Demütige Versuche der Bürger, die vier eingesperrten
+                    Mitbürger frei zu bekommen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="174">Malaspina an Gallio - Graz, 1584 Juni 13</head>
+            <div>
+                <p>Quando S. A. partì di qua per Ispruch<note xml:id="FN2_00174_01" type="footnote"
+                        >Am 6. Juni 1584 (Nr. 173).</note>discorrendo meco de la necessità, ne la
+                    quale era l’A. S. posta per conservatione del authorità sua di perseverare insin
+                    a la perfetta essecutione intorno a li cittadini non ostante qualsivoglia
+                    difficultoso rincontro, mi ricercò che io dovessi star preparato con danari in
+                    evento che al ritorno suo continuando la disobedientia fosse lei necessitata a
+                    porre presidio. <note xml:id="FN2_00174_02" type="footnote">Vgl. oben Nr.
+                        171.</note>Et se ben io mi mostrai pronto a voler essequire quanto l’A. S.
+                    mi ricercava per quella portione, che già li fu promessa, <note
+                        xml:id="FN2_00174_03" type="footnote">Vgl. oben Nr. 151.</note>non vuolsi
+                    però <pb xml:id="P2_0000271"/>movermi se prima non ero ben fatto capace da li
+                    consiglieri de la causa di questo motivo per poterne poi con fondamento scrivere
+                    a V. S. Ill.ma. Ma mentre io son andato cunctando per questo rispetto, ecco che
+                    questi ministri, per quanto intendo, hanno espedito un correro in diligentia a
+                    Ispruch con lettere dirette a la S.tà di N. S. et al ill.mo sig. cardinale
+                    Madruccio, <note xml:id="FN2_00174_04" type="footnote">Briefe an Papst und
+                        Kardinal Madruzzo.</note>ne le quali mi dicono farsi mentione come l’A. S.
+                    mi ha dimandato li danari.</p>
+                <p>Onde io son in vero restato con qualche disgusto, ma spero tuttavia che N. S.
+                    riceverà in buona parte quello, che io con buona intentione et per servitio de
+                    la S.tà S. ho fatto, et che si sarà forsi sopraseduto a dar risposta a S. A.
+                    aspettando che comparino mie lettere. Io acciò si sappia il vero stato del
+                    negotio et le cause, le quali possono haver mosso l’A. S. a pensare al presidio,
+                    et come mi pare che sia a proposito di governarsi circa la somma de li danari et
+                    resto ho formato il scritto, che sarà con questa mia, al quale mi rimetto.<note
+                        xml:id="FN2_00174_05" type="footnote">Nr. 175.</note>Et accioché qua non
+                    habbino occasione di lamentarsi di me o buttarmi la colpa adosso se volendo
+                    mettere il presidio io non havessi pronto li danari mi son risoluto di mandare
+                    il mio ministro di casa con un altro mio familiare a Venetia, li quali però non
+                    partiranno se non tra otto giorni, perché disegnando io che da V. S. Ill.ma li
+                    sia ordinato quello che doveranno fare, ho perciò voluto che più tosto restino
+                    qua che fermarsi Venetia con spesa et però V. S. Ill.ma mi farà singular gratia
+                    di significare a mons. nuntio di Venetia la volontà et ordine di N. S. in questo
+                        particolare.<note xml:id="FN2_00174_06" type="footnote"> Vgl. unten Nr. 176,
+                        183.</note>
+                </p>
+                <p>Nel resto qua si ha havuto che travagliare con li nobili, li quali hanno tentato
+                    che li sia permesso di comprare o almeno poter dare danari sopra le case de li
+                    cittadini, parendoli cosa inaudita et impossibile che loro che vogliono partire
+                    siano tenuti a ritrovare suggetti qualificati et obedienti, a quali solamente
+                    possino vendere le facultà loro, ma non hanno ottenuto cosa alcuna et hora
+                        tacciono.<note xml:id="FN2_00174_07" type="footnote">Das landesfürstliche
+                        Dekret vom 24. Mai 1584 bestimmte u. a., daß die Bürger, die wegziehen
+                        wollten, dies sechs Monate vorher melden mußten und ihre bürgerlichen Häuser
+                        nicht an Adelige verkaufen durften (Loserth, FRA II/50, S. 544f.).</note>La
+                    disobedienza va continuando et questi consiglieri eletti per la essecutione
+                    vanno inherendo a la forma, che si è osservata quando S. A. era qua, cioè di
+                    bandire et incarcerare.</p>
+                <pb xml:id="P2_0000272"/>
+                <p>Quelli cittadini, che vennero in così buon numero a ingenocchiarsi a S. A. per
+                    questa loro commune afflittione, come scrissi ne le antecedenti mie, hora per
+                    liberare li quattro, che farno incarcerati,<note xml:id="FN2_00174_08"
+                        type="footnote">Vgl. oben Nr. 167, Anm. 8 und Nr. 171, Anm.
+                    6.</note>promettono di voler accettare di buona voglia un parrocho cattolico dal
+                    che si può comprendere che humiliandosi questi Grecensi non si haverà molto che
+                    travagliare con gl’altri . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

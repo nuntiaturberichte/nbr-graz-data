@@ -1,0 +1,723 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00095">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" notAfter="1581-05-16" cert="low" n="1">vermutlich vor
+					1581-05-16</title>
+				<title level="a">95. (1581 vor Mai 16)</title>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 304r—317v, Orig.<lb/>Ebenda f.
+							290r—300r, Duplikat; f. 272: Karte.<lb/>Druck: Rainer, Discorso dello
+							stato dei confini col Turco, S. 286—298.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00095">
+				<correspAction type="sent">
+					<date notAfter="1581-05-16" n="1" cert="low"/>
+				</correspAction>
+				<correspContext>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00094.xml">94.
+						Malaspina an Gallio - Graz, 1581 Mai 15</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00096.xml">96.
+						Malaspina an Gallio - Graz, 1581 Mai 16</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Über Ersuchen Malaspinas von der innerösterreichischen Regierung verfaßte und
+					nach Rom gesandte Beschreibung des Zustandes und der Erfordernisse der nicht nur
+					im Interesse Österreichs und Deutschlands, sondern der ganzen Christenheit und
+					vor allem Italiens gehaltenen windischen und kroatischen Militärgrenze.
+					Notwendigkeit finanzieller Unterstützung Erzherzog Karls für Verteidigung und
+					Angriff. Hinweise auf Möglichkeit zur Vertreibung der Türken aus Europa durch
+					Bündnisse und großräumige militärische Aktionen.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="95">(1581 vor Mai 16)</head>
+			<div>
+				<p>Discorso del stato deli confini col Turco.</p>
+				<p>Grandissima infelicità è quella de la misera Europa tanto al presente da le
+					discordie ne la religione travagliata, havendola quelle pervagata quasi tutta
+					quanta et spetialmente l’Alemagna alta et bassa, la Francia, l’Inghilterra,
+					Scotia, Dania, Suetia, item l’Ungaria, Boemia, Polonia, la Lituania, Livonia,
+					Prussia, et voglia Dio che non in parte ancora l’Italia,<note
+						xml:id="FN1_00095_01" type="footnote">Vgl. Nr. 6, S. 17.</note>cosa che
+					tutti i buoni svisceratissimamente deveriano depiangere. Ma maggior è molto la
+					sua calamità et sciagura in questo <pb xml:id="P1_0000263"/>che la è al sicuro
+					restando le cose un poco di tempo nel stato d’adesso per diventar schiava et
+					serva del Granturco, et così per venir a termini li quali benpresto gli
+					riccaranno la total ruina per la perdita che la farà non solamente dela libertà
+					sua ma ancora de la santa fede Christiana la quale capitando nela tirannide
+					d’esso Turco sarà necessitata pian piano d’abbandonar et d’apprender invece di
+					quella la ampia setta macometana.</p>
+				<p>Il che forse molti et molti non crederanno anzi riguardando a certa apparentia de
+					la potentia christiana si persuaderanno che massime li principi d’Italia non
+					habbiano da dubitar niente. Ma chi ha notitia che esso Turco dal 1465<note
+						xml:id="FN1_00095_02" type="footnote">Richtig: 1453.</note>anno in qua ha
+					sogiogato l’imperio Costantinopolitano et Trapezuntino, item l’Egitto, l’Arabia,
+					il Peloponeso, Ponto, la Morea, Bulgaria, Servia, Valachia, Moldavia, Tracia,
+					Macedonia, Albania, Ungaria, Croatia, Schiavonia, Dalmatia, Bosna, Rodi, Cipro
+					et Tunisi, quel tale di ragione non potrà inferir altro, se non che volendo esso
+					Turco proceder più oltra senza alcun fallo lo potrà fare et come agevolmente
+					occupar il resto de la Ungaria, così ancora la Polonia già sua serva, la
+					Schiavonia con la Croatia et poi non solamente l’Alemagna ma altresì tutto il
+					resto d’essa Europa ; havendolo potuto far anticamente, trovandosi ancora
+					l’imperio Romano in fiore et d’un solo principe comandato, li Vandali, Gotti,
+					Lombardi, Unni et altri; maggiormente trovandosi hora quasi tanti principi et
+					signori in quella, quante provincie et terre. Et certo in tanta emulatione, gara
+					et gelosia che alcuni di loro istessi volentieri anderiano in malhora, purché
+					potessero altresì ruinar i lor vicini per non passar più oltre in questa odiosa
+					materia et dire cose molto più disdicevoli, come sariano le manifeste pratiche
+					de li Ugonotti di Francia et Fiandra con esso Turco d’un tempo in qua tramate,
+						<note xml:id="FN1_00095_03" type="footnote">Die französisch-türkischen
+						Beziehungen waren damals im Abkühlen. Schuld daran waren u. a. die
+						sonderbaren Vorschläge, die während der Religionskriege von Gesandten und
+						Projektemachern den vorsichtigen osmanischen Staatsmännern vorgetragen
+						wurden; so sollten einmal 200 türkische Schiffe gemeinsam mit den Hugenotten
+						Spanien bekämpfen, und ein anderes Mal erbot sich der Herzog von Anjou, ein
+						türkisches Heer zur Eroberung Italiens zu führen (Jorga, Geschichte des
+						Osmanischen Reiches III, S. 250 f.).</note>li quali se lo havessero potuto
+					fare già guari l’haveriano condotto in Francia et Fiandra per suo padrone et
+					signore solamente per la malevolentia che portano a tutti quelli che non sono de
+					la lor religione. Dal che tanto manco sì è da maravigliare havendolo altre volte
+					i lor maggiori condotto et albergato in suoi porti et regni <pb
+						xml:id="P1_0000264"/>a li danni de li lor vicini, non cessando oggidì ancora
+					per altre minor passioni di ragguagliarlo di tutte le cose che possano tornar al
+					esterminio de la infelice christianità di maniera che havendo egli tanti
+					avantagi in mano et non trovando chi li faccia resistentia, sì come ancora non
+					gli fa più mestieri di trapassar il Bosforo, la Propontide o altri mari. Ma
+					essendo già quasi complito possessor de li detti regni et così imediato vicino
+					d’essa Alemagna et Italia et spetialmente de la Austria, Stiria, Carniola,
+					Carintia et il contado di Goritia et non vi essendo più chi li possa resistere
+					purché egli la pigli da dovero con lui, come già senza fallo haveria fatto, se
+					non fosse stato divertito da esso Persiano,<note xml:id="FN1_00095_04"
+						type="footnote"> Vgl. Nr. 96, Anm. 2.</note>facilmente si può concluder,
+					ch’egli a suo piacere accomodate le cose d’Oriente, potrà spinger manzi et
+					quanto prima sogiogar non solamente essa Alemagna ma ancora l’Italia, massime
+					potendola assalir per mar et per terra, havendo già posto il pie in tanti porti
+					del mar Adriatico et avicinatosi in terra tanto al Friuli, porta patentissima
+					d’Italia, che da le sue ordinarie stationi in tre giorni può scorrer fin al
+					Tagliamento, sì come ha fatto al tempo del Ludovico Moro, <note
+						xml:id="FN1_00095_05" type="footnote">1477/78 waren die verheerenden
+						Türkeneinfälle in Steiermark, Kärnten, Krain und Friaul. Zu dieser Zeit
+						führte Lodovico Moro für seinen Neffen Gian Galeazzo die Herrschaft über das
+						Herzogtum Mailand.</note>benché non haveva ancora occupato la Bosna et
+					Croatia, et di la passar poi la Livenza et Piava, scorrendo per la Marca
+					Trevisana fin in Lombardia senza punto d’impedimento per esser il Frioli
+					pianissimo et non havendo né fortezza, né altro che lo possa impedire. <note
+						xml:id="FN1_00095_06" type="footnote">Seit 1532 wurde in Venedig viele Male
+						über die Notwendigkeit, hier Befestigungen zu errichten, gesprochen;
+						geschehen ist aber nichts (Rainer, Discorso, S. 284, Anm. 46).</note>Laonde,
+					se li potentati et popoli d’Italia prevedessero il pericolo che per questa causa
+					gli ha a sopragiungere, in verità eglino non riposariano finché non havessero
+					assicuratosi a bastanza, sì come et la Sede Apostolica et la serma signoria di
+					Venetia per il passato et spetialmente al tempo del re Mattia d’Ungaria hanno
+					piamente fatto, <note xml:id="FN1_00095_07" type="footnote">Im September 1463
+						kam ein gegen die Türken gerichtetes Offensivbündnis zwischen Venedig und
+						Ungarn zustande, das Pius II. zu erweitern und finanziell zu stärken
+						erfolgreich bemüht war (Pastor, Geschichte der Päpste II, S. 248
+						ff.).</note>vedendo che esso Turco al’hora prima si metteva in ordine di
+					prender la Bosna, Croatia et Dalmatia, hora havendole dapoi in qua occupate et
+					avicinatosi tanto a Italia, come è detto, quantopiù lo deveriano far adesso,
+					massime trovandosi ancora certi luoghi di detti regni ne <pb xml:id="P1_0000265"
+					/>le mani di S. Mtà Ces. et del sermo arciduca Carlo dove si può fermar et
+					riprimer la sua furia con poco presidio, di sorte che tutta quanta la sua
+					potentia non potria passarvi signanter per l’asprezza d’essi luoghi, li quali
+					senza fallo Iddio misericordioso ab eterno haverà predestinato per tal effetto,
+					purché noi altri se ne accorgessimo et li guardassimo come bisogna. Il che tanto
+					più doveriano fare et procurar li potentati et popoli d’Italia, poiché esso
+					Turco per terra non li può assalire, se non da quella parte et se cotali luoghi
+					fossero mediocremente presidiati, quel solo presidio col tempo lo potria
+					scacciar di quelli luoghi ancora, da li quali egli per mar a la isprovista
+					cominciarà infestar l’Italia di modo che con poca cosa si potria effettuar l’un
+					et l’altro et in somma assicurarsi l’Italia si fattamente con la gratia di Dio,
+					che in eterno non haveria da dubitar di esso Turco niente, né per il golfo
+					Adriatico né per il Friuli.</p>
+				<p>Qui senza fallo tantosto desiderarà il cupido lettore d’intender detti luoghi et
+					la quantità del necessario presidio, però non si mancarà di contentarlo con
+					conditione, che suspenda il suo giuditio, finché totalmente havrà inteso la cosa
+					con le sue qualità et circonstantie. Ma bisogna per maggior lume de la cosa
+					descriver brevemente tutta la frontiera de la Schiavonia et Croatia, accioché
+					poi si possa toccar con le mani quello che è detto essere il vero.</p>
+				<p>De li confini d’Ungaria non accade dir nulla, perché da quelli non può intravenir
+					a l’Italia nessun male, se prima esso nemico non sogiogasse tutta l’Alemagna. Ma
+					da li confini d’essa Schiavonia et Croatia può intrar subito, come già è detto,
+					il Friuli et poi passar altro a suo piacere.</p>
+				<p>Cominciando dunque da essa Schiavonia prima si offerisce la Principal fortezza
+						Copriunizza<note xml:id="FN1_00095_08" type="footnote">Koprivnica
+						(Kopreinitz). Eine eingehende Darstellung der Zustände an der Türkengrenze,
+						vor allem im Jahre 1578, bei Roth, Wihitsch und Weitschawar.</note>contigua
+					quasi a la Drava fiume grande die partisce l’Ungaria da essa Schiavonia. Il
+					luogo è capace, ameno, fertile di vino, grano, de la carne, del pesce et d’ogni
+					altra cosa, et passano trenta anni che si è principiato a fortificare ma egli è
+					hoggidì ancora tanto mal in ordine et sì aperto che massime d’inverno quando li
+					fossi sono agiacciati con poca fatica o pericolo si potria prendere, non havendo
+					né bastioni né cortine fornite, se non certi terrapieni sì fatti, che si è da
+					maravigliar sommamente come il Turco già guari non lo habbia preso. Questa
+					fortezza ha altre sei sotto di sé chiamate<pb xml:id="P1_0000266"/> Dernic,
+						<note xml:id="FN1_00095_09" type="footnote">Drnje. Lag ungünstig nieder an
+						der Drau und dem Bach Rasina (Wien Kriegsarchiv, Innerösterreichischer
+						Hofkriegsrat, Vindica 51).</note>Jelecouaz, <note xml:id="FN1_00095_10"
+						type="footnote">Gjelekovac.</note>Rassing, <note xml:id="FN1_00095_11"
+						type="footnote">Rasinja (Rasina).</note>Novigrad, <note
+						xml:id="FN1_00095_12" type="footnote">Novigrad.</note>S. Georgio <note
+						xml:id="FN1_00095_13" type="footnote">Djurdjevac (St. Georgen).</note>et
+						Lubrich,<note xml:id="FN1_00095_14" type="footnote"> Ludbreg.</note>tutti
+					castelli et ciascaduno al manco da 50, 90, 100 più et manco forti guardato.</p>
+				<p>Di là da la Drava in Ungheria fu S. A. sforzata edificar di nuovo una altra
+					fortezza Weizamar<note xml:id="FN1_00095_15" type="footnote">Weitschawar (vgl.
+						Roth, Wihitsch und Weitschawar II, S. 153 ff.).</note>chiamata con un
+					castello Rerestur <note xml:id="FN1_00095_16" type="footnote"
+						>Murakeresztúr.</note>nominato, volendo il Turco per quella volta sfogar e
+					proromper a furia ne la vicina Stiria, essendo tanto quel tratto del Cesareo
+					presidio di Canisa <note xml:id="FN1_00095_17" type="footnote">Kanizsa.</note>sì
+					mal guardato, il nemico venne et volse impedir tal opera ma fu valorosamente non
+					solo sostenuto anzi rotto et con suo gran danno del essercito di S. A. fugato di
+					maniera che si compli la cominciata fortezza et fu da quel tempo in qua con esso
+					detto castello Rerestur cioè dal 1578 anno da S. A. con 300 fanti et 200 cavalli
+					legieri guardata et è comun opinione se ciò non seguiva che un quarto de la
+					Stiria di qua da la Mura hormai saria d’esso Turco desolato et ruinato. <note
+						xml:id="FN1_00095_18" type="footnote">Als im Sommer 1581 eine Kommission
+						diesen Abschnitt inspizierte, überschritten 80 Türken, von den Wachen zuerst
+						für eigene Leute gehalten, die hier an vielen Stellen offene Grenze. Erst
+						als die Türken schossen, wurden sie als Feinde erkannt, worauf die Wache ins
+						Schloß floh und die Türken fünf Grenzbauern und sechs Kinder wegführten,
+						ohne daß der Versuch unternommen wurde, ihnen diese wieder abzujagen (Graz
+						LA, Militaria, Diverse, Grenzmusterung 1581).</note>Impercioché i villani
+					già cominciavano ad abbandonare le loro possessioni et di retirarsi verso i
+					monti di esso paese, sì come molti villaggi d’Ungaria contigua già havevano
+					fatta per le continue scorrerie d’esso nemico, ma fatta da S. A. la detta
+					fortezza sono ritornati et li villaggi di nuovo si popolati come erano trenta o
+					più anni fa, perché ne ringratiano S. A. infinitamente.</p>
+				<p>Ma ritornando in Schiavonia l’altra principal fortezza è Varasdino<note
+						xml:id="FN1_00095_19" type="footnote">Varazdin.</note>una terra honestamente
+					grande, sita in una bellissima et amplissima campagna, già molti anni cinta di
+					certi terrapieni, li quali si sono di maniera assettati che un cavallo Frisone
+					li potria trapassare. <note xml:id="FN1_00095_20" type="footnote">Soll
+						wahrscheinlich heißen, daß die Befestigungen ungenügend waren.</note>
+				</p>
+				<pb xml:id="P1_0000267"/>
+				<p>La terza principal fortezza in Schiavonia è Crisio<note xml:id="FN1_00095_21"
+						type="footnote">Križevci (Kreutz). Bei der Gebews Beratschlagung windischer
+						Grenzen im Junio 1580 wurde festgestellt, wäre weil so zu keiner sondern
+						Festen zu bringen allein nachzubessern (Wien Kriegsarchiv,
+						Innerösterreichischer Hofkriegsrat, Vindica 51).</note>loco parimente
+					popoloso ancora lui con certi terrapieni circondato et sì ruinoso che non si può
+					credere, sì come questi giorni prima fu scritto a S. A. che la prima porta con
+					esso terrapieno di sopra era per cascar in terra d’hora in hora, se tantosto non
+					se li rimediava. Questa fortezza ha sotto di sé altre sette come Cirquena, <note
+						xml:id="FN1_00095_22" type="footnote">Cirkvena.</note>Topolouaz, <note
+						xml:id="FN1_00095_23" type="footnote">Topolovac.</note>S. Pietro, <note
+						xml:id="FN1_00095_24" type="footnote">Sv. Petar.</note>S. Joanni, <note
+						xml:id="FN1_00095_25" type="footnote">Sv. Ivan.</note>Tepliza, <note
+						xml:id="FN1_00095_26" type="footnote">Toplice.</note>Remetinez <note
+						xml:id="FN1_00095_27" type="footnote">Remetinec.</note>et Gradaz, <note
+						xml:id="FN1_00095_28" type="footnote">Gradec.</note>tutte ben
+					presidiate.</p>
+				<p>La quarta principal fortezza poi Juaniz<note xml:id="FN1_00095_29"
+						type="footnote">Ivanić.</note>nominata è altresì di maniera conditionata et
+					ruinata, che il capitaneo nuovamente ha tolto licenza da S. A. solamente per
+					questa causa, che non gli basta l’animo di conservarla più in alcun modo,
+					cascando tutta la cinta per terra. Là ha un altro castello S. Croce <note
+						xml:id="FN1_00095_30" type="footnote">Sv. Križ.</note>chiamato sotto di sé
+					ma ancora quello di poca valuta.</p>
+				<p>Queste sono le principali fortezze con i suoi castelli in Schiavonia presidiate
+					da S. A. con honesto numero di soldati a pie et a cavallo, cioè con 100 huomini
+					d’arme, 50 archibugieri, con 564 lanze, ussaroni o cavalli legieri 600, haramie
+					o pedoni schiavi 1590,<note xml:id="FN1_00095_31" type="footnote">Das sind
+						zusammen 2904 Mann gegenüber 2271 ein Jahr vorher (Lopašić, Acta confinii I,
+						S. 103).</note>li quali costano ogni anno più di centocinquanta milia
+					fiorini, <note xml:id="FN1_00095_32" type="footnote">Vom 1. März 1580 bis zum
+						28. Februar 1581 wurden für die windische Grenze 139.803 fl. 40 Kreuzer
+						ausgegeben (Graz LA, Militaria 1580/81, Rechnungen, Raith Libel, f.
+						37v).</note>quantunque la tal frontiera di Schiavonia non sia più larga che
+					circa diece o undici legue <note xml:id="FN1_00095_33" type="footnote">Ca. 80
+						km.</note>cominciando da la Drava et mancando al lito de la Sava fiume
+					grande, imperoché essa Sava distermina la Croatia da la Schiavonia come quella
+					la Drava da la Ungaria et tanto da la Schiavonia. Hor venimo a la Croatia.</p>
+				<pb xml:id="P1_0000268"/>
+				<p>A la confluenza de la Sava et Collapi<note xml:id="FN1_00095_34" type="footnote"
+						>Save und Kulpa.</note>è posto il luogo Sisser <note xml:id="FN1_00095_35"
+						type="footnote">Sisek. Wiederholt wurden Bischof und Kapitel von Agram
+						aufgefordert, bei ihren Gütern und Burgen Wachen zu stellen (Wien
+						Kriegsarchiv, Vindica 58, 1580 November 18; ebenda, Croatica 2, 1580
+						Dezember 31).</note>chiamato universalmente assai stimato ma senza alcuna
+					fortezza, eccetto che le dette fiumare lo bagnano, et pertiene al capitolo di
+					Zagrabia, che lo guarda a sue spese, et voglia Dio che lo perpetui, altrimente
+					se ’l Turco l’occupasse, egli sogiogaria indi subito la Zagrabia terra metropoli
+					di Schiavonia et tutte quel tratto che è tra la Sava et Colapi fin a
+					Lubiana.</p>
+				<p>Da Sisser circa una legua è la celebre terra Hiastovizza<note
+						xml:id="FN1_00095_36" type="footnote">Hrastovica (Crastowitz). Die Stände
+						Krains verhinderten die aus Ersparungsgründen geplante Demolierung dieser
+						Festung in bedenchung, das hierdurch dem feind in die laender zu derselben
+						verderblichen schaden die päß und gleichsamb thür und thor auffgetan und
+						geöffnet würden (Graz LA, Militaria 1580/81, Diverse).</note>da S. A.
+					presidiata, ma havendo il Turco già guari et massime dopo la presa di
+					Costagnoviza <note xml:id="FN1_00095_37" type="footnote"
+					>Kostajnica.</note>ruinato tutto il suo territorio S. A. ha determinato
+					d’abbandonarla di retirarsi di qua de la Collapi et di comunir o fortificar et
+					presidiar invece di quella tre castelli contigui a la Collapi Brest, <note
+						xml:id="FN1_00095_38" type="footnote">Brest.</note>Sredisce <note
+						xml:id="FN1_00095_39" type="footnote">Sredice.</note>et Lituaniz <note
+						xml:id="FN1_00095_40" type="footnote">Litovanić. Der Innerösterreichische
+						Hofkriegsrat empfahl, der Kaiser möge die Stände Krains ermahnen, die Kulpa
+						durch den Bau dieser drei Burgen zu sichern (Wien Kriegsarchiv, Vindica
+						58,1580 November 20). Vgl. oben Anm. 36.</note>nominati per non lassar
+					trapassar il nemico et ruinar parimente il tratto adiacente chiamato
+					Turrouopeglie, <note xml:id="FN1_00095_41" type="footnote">Turopolje.</note>come
+					già ha cominciato a fare.</p>
+				<p>Seguita poi la fortezza Carolostadio<note xml:id="FN1_00095_42" type="footnote"
+						>Karlovac (Karlstadt). Vgl. Nr. 1, Anm. 26, und Nr. 28, Anm.
+					3.</note>nominata, l’anno 1579 da S. A. in una campagna rasa cominciata et
+					hormai col aiuto di S. Stà a la diffesa elevata di sei bravi bastioni prima per
+					l’ordinaria residenza del generale et poi per soccorrere da quella Slum, <note
+						xml:id="FN1_00095_43" type="footnote">Slunj.</note>Bihach<note
+						xml:id="FN1_00095_44" type="footnote"> Bihać. Vgl. unten Anm. 63.</note>et
+					tutti i altri luoghi di quella frontiera, come ancora per vietar o impedir a
+					esso Turco il scorrer in Carniola, essendo tal fortezza quasi come nel centro de
+					la larghezza d’essa Croatia, in mezodì alquante fiumare sita, che le sono de
+					grandissimo riparo massime verso il nemico et la è<pb xml:id="P1_0000269"/> però
+					bastevole non solamente di resister a ogni grande impeto suo, ma ancora
+					d’impedirli il passo de le dette fiumare verso la Carniolacon poca forza,
+					massime inondando esse fiumare sovente di modo die è impossibile passarle a
+					sguazzo. Di tal luogo dipendono altri sei castelli, cioè Kladussa. <note
+						xml:id="FN1_00095_45" type="footnote">Kladuša.</note>Smercovez, <note
+						xml:id="FN1_00095_46" type="footnote">Smrković.</note>Blagai, <note
+						xml:id="FN1_00095_47" type="footnote">Blagaj.</note>Budaschi, <note
+						xml:id="FN1_00095_48" type="footnote">Budački.</note>Petrovogora <note
+						xml:id="FN1_00095_49" type="footnote">Petrova Gora.</note>et Hrisno <note
+						xml:id="FN1_00095_50" type="footnote">Hrsina.</note>tutti ben presidiati et
+					spetialmente al sig. generale commese.</p>
+				<p>Slum<note xml:id="FN1_00095_51" type="footnote">Slunj.</note>fortezza et loco
+					importante è quasi a meza strada verso Bihach; se il Turco lo prendesse ci
+					seraria il passo verso esso Bihach et così si perderia non solamente quella
+					terra, ma ancora il più de le fortezze di Croatia fin a Carolostadio et però S.
+					A. lo fa guardar a tutto suo potere, et ha sotto di sé altri cinque castelli,
+					cioè Zetin, <note xml:id="FN1_00095_52" type="footnote">Cetingrad.</note>Tersaz,
+						<note xml:id="FN1_00095_53" type="footnote">Trzić.</note>Dresnich, <note
+						xml:id="FN1_00095_54" type="footnote">Drežnik.</note>Dabar <note
+						xml:id="FN1_00095_55" type="footnote">Dabar.</note>et Jessenaz. <note
+						xml:id="FN1_00095_56" type="footnote">Jesenica.</note>
+				</p>
+				<p>Bihach<note xml:id="FN1_00095_57" type="footnote">Bihać.</note>è una terra
+					antichissima et prima frontiera che non fu presa Costantinopoli, imperoché
+					occupando il Turco Adrianopoli spinse manzi et prese Kamengrad <note
+						xml:id="FN1_00095_58" type="footnote">Kamengrad, ca. 50 km östlich von
+						Bihać.</note>quattro legue solamente discosto da Bihach, da quel tempo in
+					qua dunque Bihach fu sempre frontiera et d’essi Turchi perpetuamente infestato.
+					Donde fu fatta sempre maggior occisione d’essi che di nessun altro luogo et
+					tante scorrerie ne la dition loro, che se ne potriano empir grandi libri
+					volendole descrivere. Il luogo è sito in una isola, quasi una legua grande,
+					bagnata da la Una principalissimo fiume di Croatia. Il che dopo Iddio et li
+					tanti valent huomini, che sempre costì si sono ritrovati et hoggidì ancora si
+					trovano l’ha conservato fin hora, altrimente per la fortificazione de la cinta
+					et altre cose già buon pezzo la saria stata persa. Non essendo la città altro
+					che una schietta muraglia tutta crepata, et sì marza che con un tiro di canone
+					senza fallo un gran pezzo si buttaria per terra. Il sito<pb xml:id="P1_0000270"
+					/> suo è amenissimo et fertilissimo d’ogni cosa et per via di quello solamente
+					si può entrar nel paese del Turco, havendo egli occupato tutti gli altri paesi
+					et fortezze secondo l’Una come Crapa,<note xml:id="FN1_00095_59" type="footnote"
+						> Bosanska Krupa, 1565 von den Türken erobert (Roth, Wihitsch und
+						Weitschawar I, S. 222).</note>Novi,<note xml:id="FN1_00095_60"
+						type="footnote"> Bosanska Novi.</note>Castagnoviza <note
+						xml:id="FN1_00095_61" type="footnote">Bosanska Kostajnica.</note>et
+					Jessenovaz <note xml:id="FN1_00095_62" type="footnote">Jasenovac.</note>di
+					maniera che perdendosi quel luogo <note xml:id="FN1_00095_63" type="footnote"
+						>Bihać wurde 1592 von den Türken erobert und blieb bis 1878 unter ihrer
+						Herrschaft (Lopašić, Bihać i Bihaćka krajina, S. 96 ff.; Roth, Wihitsch und
+						Weitschawar I, S. 202 ff.).</note>il Turco vi metteria dentro subito tutti i
+					suoi presidii de la Bosna et in poco tempo sogiogaria d’indi non solamente il
+					resto de la Croatia ma ancora de la Carinola et poi l’Italia, l’haveria per
+					vicino non come a le volte i Francesi et altri ma come un rapidissimo fiume, il
+					quale fra poco inonderia tanto inanzi, che ne saria una compassione, et però
+					guardici Dio de la detta perdita. Sotto questo capitaneato vi sono solamente due
+					altre fortezze, cioè Repitsch <note xml:id="FN1_00095_64" type="footnote"
+						>Ripać.</note>et Isazitseh, <note xml:id="FN1_00095_65" type="footnote"
+						>Izačić.</note>logi ancora lor d’importanza.</p>
+				<p>Ci è poi la fortezza principal Segna<note xml:id="FN1_00095_66" type="footnote"
+						>Senj (Zengg).</note>per le prodezze et i gran fatti de li Uskoki tanto
+					celebre città maritima et luogo asprissimo ma opportunissimo per dannegiar il
+					nemico, massime per mare. Il che indi si può comprendere che hoggidì ancora ha
+					tributarii certi Murlacchi sudditi del Turco cento et più legue da sé discosti.
+					Vi è poi tanto vicino a tutti porti do la Bosna che hor per terra hor per mare
+					gli può estremamente infestare sì come fa di continuo mandando per terra una o
+					più compagnie di fanti et alcune per mare con ordine che a tal et tal luogo si
+					congiungano et così passando quelli che sono usciti per terra, questa et quel
+					contorno lo brucciano et depredano tutto et prima giungono benché carichi di
+					buona preda da le barche, che i presidii Turcheschi se ne accorgono, et poi gli
+					vendono da le barche i schiavi et altre depredate cose con smisuratissimo lor
+					dolore. Il luogo è asprissimo di maniera che bisogna vittovagliarlo dal tutto
+					per mare eccetto un poco di vino che vi cresce. Quanto a la fortezza non si può
+					dir altro se non che tra di sopra la terra (è) una torre senza fianchi et ogni
+					altra diffesa. La terra di sotto ha la sua cinta di muraglia lata con alcuni
+					torri tonde, et massime una fatta col danaro del papa Leon X, il tutto <pb
+						xml:id="P1_0000271"/>a la antiqua, et che hoggidì non è stimato niente. La
+					tramontana et altri grandi venti, che in quel golfo antiquamente phanatico et
+					hoggi quarnier chiamato di continuo quasi regnano, sono i miglior presidii del
+					loco, altamente la armata del Turco già guari l’haveria occupato, se non
+					dubitava di tal venti, et de le isole, che vi sono di rimpetto vicinissime et
+					tanto pericolose a li naviganti quanto altro luogo di tutto il golfo Adriatico.
+					Tal fortezza ha altresì sotto di sé alcuni altri luoghi come Pago,<note
+						xml:id="FN1_00095_67" type="footnote"> Bag (Karlobag).</note>Ledeniza, <note
+						xml:id="FN1_00095_68" type="footnote">Ledenice.</note>Tersat, <note
+						xml:id="FN1_00095_69" type="footnote">Trsat.</note>Berlag, <note
+						xml:id="FN1_00095_70" type="footnote">Brlog.</note>Brima <note
+						xml:id="FN1_00095_71" type="footnote">Brinje.</note>et Otozaz, <note
+						xml:id="FN1_00095_72" type="footnote">Otočac.</note>tutti bene
+					presidiati.</p>
+				<p>Finalmente vi è la principal fortezza Ugulin<note xml:id="FN1_00095_73"
+						type="footnote">Ogulin.</note>sita ne li monti che tirano verso la Piuca et
+					il Carso et ha sotto di sé altre dui fortezze Modrusa <note
+						xml:id="FN1_00095_74" type="footnote">Modruš.</note>et Suetiza <note
+						xml:id="FN1_00095_75" type="footnote">Svetice.</note>honestamente
+					presidiate.</p>
+				<p>Le dette fortezze di Croatia sono guardate da 300 archibugieri, 400 cavalli
+					legieri, lanze 400 et fanti Croati 1410<note xml:id="FN1_00095_76"
+						type="footnote">Das sind 2510 Mann gegenüber 2485 im Jahre 1579 (Lopašić,
+						Acta confinii 1, S. 80).</note>che costano l’anno quasi 189.460<note
+						xml:id="FN1_00095_77" type="footnote"> Vom 1. März 1580 bis zum 28. Februar
+						1581 wurden für die kroatische Grenze 210.722 fl. 14 Kreuzer ausgegeben
+						(Graz LA, Militaria 1580/81, Rechnungen, Raith Bibel, f. 40r).</note>et così
+					ambedue le frontiere la di Schiavonia et Croatia solamente quanto ai ordinarii
+					presidii senza la spesa de la munitione, vittovaglia, il conseglio de la guerra
+					et altre simili cose circa 329.460 fiorini tacendosi de li ordinarii soccorsi
+					che in ogni necessità bisogna mandar ne li confini di essi paesi, cioè di Stiria
+					almanco 2000 fanti et 800 cavalli, di Carintia fin a 700 fanti et 150 cavalli et
+					poi di Carniola fin a 600 fanti et 120 cavalli di continuo per tutto l’anno a
+					tal effetto in ordine con segnalata spesa tenuti. <note xml:id="FN1_00095_78"
+						type="footnote">Vgl. Nr. 74, Anm. 28.</note>
+				</p>
+				<p>Tanto sia detto sommariamente di una et del’altra frontiera con questo appendice,
+					che tutti i luoghi di quelle siano in malissimo essere, imperoché essendone
+					tanti et le spese che sin hora s’hanno havute da le contributioni de li paesi sì
+					poche non s’hanno potuto né fortificare né mantenere nel stato pristino di
+					maniera che si trovano quasi tutti <pb xml:id="P1_0000272"/>senza coverti et sì
+					mal conditionati che ben presto non si potranno inhabitare. La causa di tal cosa
+					è questa ancora, quantunque a le volte si deputava qualche somma di danaro per
+					restauratione di tal luoghi come hoggidì ancora si fa nientedimeno la fu sempre
+					sì piccola et scarsa, che non si poteva far cosa buona, anzi a le volte i
+					offitiali constituiti a tal restauratione hanno ingiotito la maggior parte di
+					tal danaro overo se si è principiata qualche cosa nel maggior moto di quella il
+					danaro mancava et così restando imperfetta l’opera l’andava di mal in peggio
+					prima che si deputasse altra spesa. Il che continuando come non potrà esser
+					altrimente finché i detti poveri paesi non siano soccorsi et aiutati da altri.
+					Si può affermar sicuramente, che tutte le sopradette fortezze d’una et l’altra
+					frontiera fra pochi anni saranno per terra, et che poi il nemico scorrerà là et
+					qua senza alcuno impedimento con ireparabile danno di tutta la christianità.
+					Massime essendo il nemico tanto terribile a chi ne è avezzo che ben maschi
+					vedendolo si perdono et non sano che farsi. Donde si può dire che egli sia il
+					flagello di Dio come lo era il Totila et Atila et ciò tutto tanto maggiormente
+					essendo le dette due frontiere larghe fin a cinquanta legue<note
+						xml:id="FN1_00095_79" type="footnote"> Ca. 400 km.</note>per la diffensione,
+					de la quali accommodando il Turco le cose del Oriente, <note
+						xml:id="FN1_00095_80" type="footnote">Vgl. Nr. 96, Anm. 2, und Nr. 128, Anm.
+						11.</note>altritanti presidii non ci basteranno volendosi solamente
+					diffendere et non offendere. Et però è molto necessario, che per tempo si
+					facciano le convenienti provisioni et la cosa non si lassi venir a termini, come
+					erano quelli del Constantino ultimo <note xml:id="FN1_00095_81" type="footnote"
+						>Konstantin XI. Palaeologus.</note>et suoi sudditi Greci, li quali
+					finalmente per la salute commune contribuir gran tesori, ma il tutto in vano et
+					havendoli il nemico sogiogati tacendosi portar i detti tesori inanzi gli sputò
+					in faccia et rimproverandoli la lor dapocagine gli disse che con total tesori
+					non solamente da lui deffendersi ma che lo potevano ancora offendere se lo
+					volevano fare. Però guardisi l’Alemagna et l’Italia, che non gl’intravenga il
+					medesimo. L’Alemagna haverà da far assai di prestarlo per esser molto più
+					esposta al pericolo potendo il Turco penetrar in quella per la Polonia già sua
+					serva, <note xml:id="FN1_00095_82" type="footnote">Seitdem Stephan Bathory mit
+						türkischer Unterstützurig vom siebenbürgischen Fürstenstuhl auf den
+						polnischen Königsthron gekommen war, maßte sich Sultan Murad III. die Rechte
+						eines Schutzherrn über Polen an (Hammer, Geschichte des Osmanischen Reiches
+						II, S. 460).</note>per l’Austria et Boemia lassando Viena suo unico
+					propugnacolo da parte senza che li possa far danno veruno massime essendo essa
+					Alemagna signoregiata<pb xml:id="P1_0000273"/> da tanti et essendo hormai
+					l’impero luteo come lo provide il Daniel profeta. <note xml:id="FN1_00095_83"
+						type="footnote">Daniel 2, 41.</note>L’Italia non è in tanto risico volendo
+					per tempo far le debite provissioni cioè spender più presto al anno qualche
+					migliaia di scudi, che lassarlo venir dentro et sopportar poi da lui quello che
+					sopportano li Greci con suo ineffabil aggravio, et però tenendosi per fermo che
+					tanti et sì grandi principi d’Italia, et massime la Sede Apostolica con la serma
+					Signoria di Vinetia come li più esposti a tal pericolo in questa et ogn’altra
+					parte non mancheranno al debito suo anzi che ben informati del satto de le cose
+					gli pesarà molto che prima di questo non siano stati avvertiti per haver potuto
+					già guari far le necessarie provisioni incontro. Ma dechiariamo brevemente di
+					che luoghi et con che presidii si potria sicuramente stagnar et reprimer il
+					proromper d’esso Turco come di sopra al cupido lettore fu promesso, et per farlo
+					senza altra essageratione sappiasi che esso Turco non può passare o scorrer
+					verso Friuli se non presso Segna sotto Ledenizza un castello per l’asprezza del
+					sito inespugnabile et con tre o quattro pezzi d’artiglieria può impedir il passo
+					di sotto a tutta la potentia d’esso Turco, imperoehé non ponno passar se non a
+					uno a uno menando i cavalli a mano con tanta difficoltà quanto può esser la
+					maggiore. Se poi il presidio fosse un poco più gagliardo come a dire di 200
+					overo 300 fanti, la mità di loro si potria metter in certi passi lì di sotto et
+					con i suoi archibugi senza ogni suo pericolo amazzar tanti nemici quanti ne
+					venissero di modo che quel luogo meritaria essere presidiato da tutta la
+					christianità, se poi si fortificassero un poco meglio altri due vicini castelli
+					Berna et Otozaz con mettere dentro altri 200 fanti quei tali con li de Ledeniza
+					et li Uscochi di Segna, li quali altre si bisognaria in parte accrescere,
+					sariano bastevoli di rovinar con le lor scorrerie tutta la Bosna con essi luoghi
+					maritimi del nemico come saria Obravazo, <note xml:id="FN1_00095_84"
+						type="footnote">Obrovac.</note>Castelnuovo, <note xml:id="FN1_00095_85"
+						type="footnote">Ercegnovi.</note>Dulcigno, <note xml:id="FN1_00095_86"
+						type="footnote">Ulcinj.</note>Antivari <note xml:id="FN1_00095_87"
+						type="footnote">Bar.</note>et altri o almeno tenergli dentro sì chiusi che
+					senza fallo la fame li faria uscir fora et abbandonar i detti luoghi et questo
+					del passo che vi è dirittamente da la Bosna verso l’Istria, Piuca, Carso et
+					Frioli. Hora diremo del altra parte cioè de la banda di Croatia, ne la quale
+					lassando il nemico a man manca Segna, Ledeniza, Otozaz et Berna può commodamente
+						venire<pb xml:id="P1_0000274"/> havendo già in mano li passi del una eccetto
+					Bihach et voltarsi verso Las <note xml:id="FN1_00095_88" type="footnote"
+						>Lož.</note>et la vale di Zirkniza <note xml:id="FN1_00095_89"
+						type="footnote">Cerknica.</note>a la volta de la Piuca et il Carso, Calameo
+					poi in Friuli. Et però chi presidiasse honestamente detto Las castello honesto
+					et tagliasse alquanti pochi arbori traverso la strada di quel foltissimo bosco
+					gli tonda di certo anco quel passo et l’escluderia totalmente da li confini
+					d’Italia, imperochè tra Las et Lideniza vi sono per tutto montagne insuperabili.
+					Da Las poi verso la man destra a la volta di Lubiana et Carniola superiore certi
+					gran boschi et montagne che non si ponno penetrare se non da qualche pedone con
+					grandissima difficoltà.</p>
+				<p>Di maniera che fortificandosi un poco almanco di detti doi castelli Ledeniza et
+					Las quantunque saria bonissimo di fortificar et presidiar ancora meglio Segna,
+					Otozaz et Bergna l’Italia s’assicuraria per mar et per terra d’esso Turco et se
+					i principi di quella una volta volessero i potriano al sicuro con poca fatica et
+					spesa per via di tal luoghi recuperar tutta la Croatia, Bosna, Macedonia,
+					Albania, Morea et quelle altre provincie essendo quelle maggiormente da
+					christiani possedute et non desiderando quelli altra cosa al mondo più che
+					vendicarsi ne la pristina libertà christiana havendo un poco d’apoggio di
+					christiani. Il quale unitamente per mar et per terra se li potria dare et far
+					tanto profitto a la christianità che quei potentati et principi che ne fossero
+					auttori riportariano molto maggior laude che non hano riportato quelli che
+					anticamente passorno a la recuperatione de la Terra Santa massime concorrendovi
+					più l’interesse spirituale che il temporale et essendo certissimo se Dio
+					benedetto si contentasse di darci tanta gratia che ricuperassimo la Bosna sola
+					che indi la Servia, Moldavia, Valacchia, Bulgaria et tutta l’Ungaria facilmente
+					si rihaveriano, maggiormente se S. Stà si degnasse di far et procurar caldamente
+					di confederar il Moscovita, il re di Polonia, l’imperatore, S. A., la serma
+					Signoria di Vinetia, il re di Spagna et li altri principi d’Italia contra esso
+						Turco<note xml:id="FN1_00095_90" type="footnote">Vom Anfang seines
+						Pontifikates an war Gregor XIII. in besonderer Weise um die Bildung einer
+						Liga zur Zurückdrängung der Türken bemüht (Pastor, Geschichte der Päpste IX,
+						S. 238 ff.).</note>di modo che unitamente per mar et per terra l’assalissero
+					et s’ingegnassero di darli una buona botta, la qual cosa S. Stà massime
+					cercandolo adesso il Moscovita istesso <note xml:id="FN1_00095_91"
+						type="footnote">Vgl. Nr. 82 und 86.</note>et essendo il re di Polonia come
+					si dice a ciò inclinatissimo et non desiderando l’imperatore più altra cosa al
+					mondo vedendo chiaramente che dal impero<pb xml:id="P1_0000275"/> da qui inanzi
+					poco o niente può sperare in questa parte essendo hormai ancora loro stuffì di
+					tante contributioni per veder che con quella mai si fa niente <note
+						xml:id="FN1_00095_92" type="footnote">Vgl. Nr. 72, Anm. 3.</note>e
+					trovandosi S. Mtà et Altezza con i suoi sudditi tanto essausta che li bisognarà
+					ben presto o socomber sotto il peso, che già più di cinquanta anni cioè da la
+					morte del re Ludovico d’Ungaria<note xml:id="FN1_00095_93" type="footnote">
+						Gestorben 1526.</note>gravemente portano, overo entrar in qualche accordo
+					con esso Turco estremamente preiudicante a tutta la christianità et massime a
+					Italia.</p>
+				<p>Per tanto S. Stà come comun padre di tutti li christiani non mancarà di procurare
+					tal cosa estremamente non havendo riguardo né al denaro ne ad altra cosa al
+					mondo, il che tanto più si può sperare da lei sapendosi per certo che l’ha già
+					cominciato a fare et la può essere sicurissima con tutti i altri principi
+					christiani che facendosi una tal confederatione et dandosi adosso a esso Turco
+					in un medesimo tempo da tanti et sì grandi principi come d’esso Moscovita verso
+						Cafa<note xml:id="FN1_00095_94" type="footnote">Coffa, Don und
+						Dnjepr.</note>et quella riviera che è tra la Danai (confini del Asia et
+					Europa), et il Boristene. Dal re di Polonia et suo fratello il Transilvano tra
+					il Boristene, Nestelet Tibisco <note xml:id="FN1_00095_95" type="footnote"
+						>Dnjepr, Dnjestr, Theiß.</note>per la Valacchia, Moldavia et Transilvania ;
+					dall’imperatore, il sermo arciduca Carlo, il granduca di Toscana, il duca di
+					Savoia, Ferrara, Mantova, Parma et Urbino per la Ungaria, Schiavonia et Croatia;
+					poi da la St4 S., dal re Catholico et la Signoria di Vinetia per mare, che in
+					pochi mesi esso Turco sarà totalmente fuora d’Europa et forse contento di ceder
+					ancora l’impero Trapezuntino purché se li lasci la sua signoria Caramania et
+					Natolia di maniera che quei benedetti esserciti christiani potriano finalmente
+					congiungersi vittoriosi a Costantinopoli forse da le debite accoglienze
+					costituir a lor piacere come altre volte hanno fatto i Francesi et Vinetiani un
+					imperatore d’Oriente et darli tanto che pottria resister ad esso Turco et
+					detenerlo di là del Bosforo perpetualmente la qual cosa i signori Venetiani et
+					Genovesi deveriano procurare a tutto suo potere, poiché a tal modo potriano
+					rihavere il lor regno di Cipro <note xml:id="FN1_00095_96" type="footnote">1571
+						verloren die Venezianer Zypern an die Türken.</note>con altre tante
+					segnalate isole et terre che erano de l’una et l’altra signoria inanzi che ’l
+					Turco trapassasse il detto Bosforo a danni deli imperatori Constantinopolitani.
+					Essendo dunque il tutto verissimo et appresso certissimo che molti predecessori
+					di S. Stà non erano in tanto pretio appresso i potentati de la christianità come
+					è lei et ciò per la smisuratissima bontà,<pb xml:id="P1_0000276"/> pietà et
+					integrità sua, che in tutte le sue attioni più del sole risplendono, potiano
+					esser quasi sicurissimi degnandosi Stà S. procurar la tal cosa, che Dio
+					benedetto li darà la sua gratia che non solamente la potrà dedur in opera anzi
+					assistere lei stessa personalmente a tal sacrosanta impresa.</p>
+				<p>Ma non come Pio III,<note xml:id="FN1_00095_97" type="footnote">Richtig: Pius II.
+						(vgl. Pastor, Geschichte der Päpste II, S. 287 ff.).</note>che volendola
+					tentar morse in Ancona, se non passarà Constantinopoli et dopo il devinto Turco
+					castigar ancora il perpetuo emulo de la Sede Apostolica il patriarca di quel
+					luogo et far con la gratia di Dio che la sua chiesa santa habbia solamente un
+					pastore et un ovile. Con la qual cosa l’avanzaria il Gregorio Magno et tutti i
+					altri pontifici benché meritissimi ne la santa chiesa, et sì come le sue laudi
+					perpetuamente in terra più di tutte le altre ribombariano così l’acquistaria
+					ancora commodità multifaria di essaltar et promover i suoi diletti et benemeriti
+					a principati et altri grandi gradi senza numero et misura, ma potendosi tal cosa
+					per molte et molte considerationi a tempo d’hoggi solamente desiderar et a gran
+					pena sperare. Benché là è di tentar a tutto potere da tutti quelli che
+					desiderano la salute de la republica Christiana, S. Stà, come senza ogni dubio
+					si spera, non mancarà di fare et procurare almeno tanto che le povere reliquie
+					del regno di Croatia et Schiavonia con i paesi di S. A., come unico propugnacolo
+					d’Italia perpetua domatrice et rebutatrice de li barbari, si possano fra tanto
+					cioè finché il Turco mediante la detta universal impresa o come meglio piacerà a
+					Dio omnipotente sia scacciato dal’Europa mantener et diffender da la sua
+					tirannide per non perder affatto tutti i vantagi che finalmente contra di lui si
+					potessero havere et massime per conservare i sopradetti passi li quali come è
+					detto humanamente non potrà trapassare se pur mediocremente saranno
+					guardati.</p>
+				<p>Nel che a comun giuditio si potriano tener due strade cioè degnandosi S. Stà per
+					la sua innata bontà fare che S. A. ogni anno habbia se non d’altri principi
+					d’Italia et massime li signori Vinetiani come i più interessanti almanco de la
+					Sede Apostolica una honesta quantità di danari per la conveniente diffesa de li
+					detti confini, non bastando più S. A. et li suoi paesi di mantenerli del suo,
+					overo se S. Stà si contentasse per una volta sola di dar a S. A. un sì fatto
+					aiuto, che con quello si potesse ricuperare il fiume Una con li suoi passi et
+					fortezze, cioè Crupa, Novi, Costagnoviza et Jessenovaz. Imperoché se ciò si
+					potesse effettuar certissimo è che ancora da quella parte non<pb
+						xml:id="P1_0000277"/> saria più da dubitare niente di esso Turco essendo
+					quel fiume sì fatto che non si può passar se non ne li detti quattro luoghi
+					sopra i suoi ponti il che indi si può comprendere che in tre anni dopo che si
+					perse Costagnoviza che fu ne l’anno 1556 oltra settanta mille villani furono
+					menati via da esso Turco <note xml:id="FN1_00095_98" type="footnote">Vgl.
+						Bidermann, Die Serben-Ansiedlungen in Steiermark und im Warasdiner
+						Grenz-Generalate, S. 3 ff.</note>overo costretti di retirarsi et andarsene
+					in Austria et Pononia dove hoggidì se ne ritrovano fin a quaranta mille non
+					desiderando cosa maggiormente da Dio che poter ripatriare et viver ne la sua
+					patria in quella religione ne la quale nacquero et furono battezzati cioè la
+					sacrosanta catholica romana. Il che fariano subito et tantosto come si
+					recuperaria il detto fiume Una con le dette quattro fortezze, le quali per
+					tradimenti, perfidia et smisuratissima negligentia di coloro che le guardavano
+					furono perse et per tal predita riunata affatto la Croatia. <note
+						xml:id="FN1_00095_99" type="footnote">Krupa, Novi, Kostajnica und Jasenovac
+						(Roth, Wihitsch und Weitschawar I, S. 222, 240, 257 und 266 f.).</note>Sì
+					come l’anno 1578 sentendo detti villani solamente che l’essercito di S. A.
+					doveva passare a quella volta cominciarono a fare marchiando loro ancora in gran
+					schiere verso la sua patria non potendoli i Austriaci in nessun modo da ciò
+					detinere o rimovere. Pertanto se S. Stà si degnasse fare che detto fiume Una con
+					le sue fortezze si potesse ricuperare et honestamente rifortificare et
+					presidiare l’assicuraria con ciò et la Italia et questi afflitti paesi da esso
+					Turco in perpetuo et ridurla subito al grembo de la santa madre chiesa catholica
+					oltra quarantamilla Croati che come l’lsraelitani sono dispersi et quasi in
+					captività egiptiaca, la quale gli pesa tanto più essendo sforzati di creder
+					quello che a lor patroni li Austriaci et Pannoni piace, cosa che depiangono
+					svisceratissimente di maniera che al mondo per ogni rispetto nessun danaro si
+					potria spender meglio di quello che si spenderia in tal recuperatione. Il che
+					senza fallo Stà S. farà tanto più volentieri concorrendosi universalmente in
+					questa opinione che la cosa si potria effettuar in quattro mesi al più che dieci
+					milla fanti et mille archibugieri a cavallo con una honesta quantità di danari
+					per la spesa necessaria a condur l’artigleria et la vittovaglia oltra quello che
+					S. A. et li suoi paesi dal suo potriano fare. Dio omnipotente adunque inspiri S.
+					Stà a tal opere che la non potria far maggior benefitio a la christianità, se la
+					spendesse altrove per suo commodo il sangue, la vita et tutti li tesori de la
+					chiesa de Dio come il tutto se li potrà più ampiamente dimostrare ogni volta che
+					S. Stà sarà servita d’intenderlo.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

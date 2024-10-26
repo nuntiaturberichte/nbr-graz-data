@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00142">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-02-17" n="1">1582-02-17</title>
+                <title level="a">142. Gallio an Malaspina - Rom, 1582 Februar 17</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 60rv, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00142">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1582-02-17" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00141.xml"
+                        >141. Malaspina an Gallio - Graz, 1582 Februar 7</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00143.xml">143.
+                        (Malaspina an Erzherzog Karl) - Graz, 1582 Februar 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00141.xml">141. Malaspina an Gallio -
+                        Graz, 1582 Februar 7</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00145.xml">145. Malaspina an Gallio -
+                        Graz, 1582 Februar 25</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Gesetze des Reiches und Autorität des Reichstages für das Religionsgeschäft
+                    Erzherzog Karls von Nutzen. Genauere Weisungen nicht möglich; Gesetz des
+                    Handelns in der Macht der anderen. Tod Orazio Malaspinas.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="142">Gallio an Malaspina - Rom, 1582 Februar 17</head>
+            <div>
+                <pb xml:id="P1_0000383"/>
+                <p>Da le due ultime lettere di V. S. di 16 et 24 del passato<note
+                        xml:id="FN1_00142_01" type="footnote">Nr. 136 und 137.</note>N. S. ha
+                    conosciuto a pieno il termine in che si trovava il negotio publico de la
+                    religione, et quel che era stato communicato con lei de la risposta de
+                    l’imperatore, la quale poiché non si può haverla a modo nostro, non è affatto
+                    dispiacciuta a S. Stà, parendole che non sia mal partito di far una buona
+                    dechiaratione et interpretatione de le concessioni già fatte a li heretici per
+                    farli retirar dentro li debiti termini, in modo che non habbino più da uscire,
+                    perché quando questo fosse fatto S. A. potrebbe farsi con assai buon fondamento
+                    obedire, et in ciò gli suffragarebbono le leggi de l’imperio et l’autorità de la
+                    dieta imperiale, a la quale potrebbe il principe haver ricorso.<note
+                        xml:id="FN1_00142_02" type="footnote"> Vgl. Nr. 148, S. 398 f.</note>Per
+                    tanto se non si potrà far di meglio V. S. potrà insister sopra questo et
+                    parimente sopra quell’altre cose, che dice haver ricordato a S. A., le quali
+                    quando pur si mettano in essecutione, è da sperar che non faranno poco
+                    giovamento a la causa nostra, et in somma V. S. ha da navigar secondo il vento
+                    et procurar quel bene che può, ricordandosi che questo negotio non depende dal
+                    voler o consiglio nostro, ma è tutto in poter d’altri et ha grandissimo bisogno
+                    de la gratia et misericordia di Dio. Non lascierò di dir a V. S. che mons. di
+                    Vercelli, nuntio Ces., ne l’ultime sue lettere, che sono di 23 del passato dice
+                    che del negotio di Gratz non s’era fatto altro; il che mi ha messo in qualche
+                    dubio de la verità de la risposta, ch’è stata mostrata a V. S., ma può esser
+                    anco che a lui sia stata celata, come è più verisimile. <note
+                        xml:id="FN1_00142_03" type="footnote">Siehe Nr. 148.</note>
+                </p>
+                <p>Ho da condolermi con V. S. della perdita che havemo fatto del nostro marchese
+                    Horatio, il quale ne la sua legatione di Francia ha lasciato Fossa in
+                        Parigi.<note xml:id="FN1_00142_04" type="footnote">Orazio Malaspina war
+                        Nuntius am Kaiserhof und wurde 1581 als außerordentlicher Nuntius nach
+                        Frankreich geschickt (Biaudet, Les Nonciatures, S. 151; Pastor, Geschichte
+                        der Päpste IX, S. 393).</note>Dio benedetto gli doni pace et a V. S. ogni
+                    contento, a la quale mi offero di core...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

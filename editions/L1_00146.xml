@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00146">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-03-01" n="1">1582-03-01</title>
+                <title level="a">146. (Malaspina) an Erzherzog Karl - Graz, 1582 März 1</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Graz LA, Meillerakten XIX C-1, Duplikat.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00146">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658" cert="low">Malaspina,
+                        Germanico</persName>
+                    <date when="1582-03-01" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118560069">Österreich, Erzherzog,
+                        Karl</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_012">Malaspina,
+                        Germanico - Österreich, Erzherzog, Karl</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00145.xml"
+                        >145. Malaspina an Gallio - Graz, 1582 Februar 25</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00147.xml">147.
+                        Gallio an Malaspina - Rom, 1582 März 3</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_012" target="L1_00143.xml">143. (Malaspina an
+                        Erzherzog Karl) - Graz, 1582 Februar 17</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_012" target="L2_00012.xml">12. (Malaspina an
+                        Erzherzog Karl) - (Augsburg), 1582 August 3</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Klagen gegen Bischof von Triest. Reform und Visitation der Mendikantenklöster,
+                    insbesondere der Augustiner in Fiume. Visitation der Diözese Triest.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="146">(Malaspina) an Erzherzog Karl - Graz, 1582 März 1</head>
+            <div>
+                <pb xml:id="P1_0000396"/>
+                <p>Quanto importi che coloro, che sono stati posti per pastori da Christo S. N. per
+                    pascere il gregge, che ha acquistato col sangue suo proprio, siano di vita
+                    immaculata l’esperienza del stato nostro presente lo mostra apertamente, et da
+                    l’altra parte quanto sia grave peccato il detrahere a la buona fama et
+                    essistimation loro le sacre historie ne rendono ampio testimonio. Per il che
+                    essendomi stato presentato un memoriale<note xml:id="FN1_00146_01"
+                        type="footnote">Nicht vorhanden.</note>contra la persona del vescovo di
+                    Trieste <note xml:id="FN1_00146_02" type="footnote">Nikolaus von Coreth,
+                        1575—1590 Bischof von Triest (Hierarchia Catholica III, S. 310).</note>et
+                    havendo io per esso inteso che altre volte le medesime querele sono venute
+                    inanzi a V. A., et non mi costando che alhora fosse fatta dimostratione alcuna
+                    per ritrovare la verità, ho giudicato convenirsi a l’officio mio et a l’obligo
+                    che ho da una parte di rimediare pro virili a li scandali de gli ecclesiastici
+                    tam in capite quam in membris di queste provincie, et da l’altra, quando sono
+                    innocenti, di conservare l’honore et buon nome loro, senza il quale poco frutto
+                    si può sperare di mettere in consideratione a l’A. V. che’l memoriale contrai
+                    vescovo contiene in sé capi et calumnie molto enormi et che però o siano vere o
+                    false le imputationi è necessario venirne ad un fine et l’istesso vescovo
+                    devrebbe egli instare per tal effetto, poiché Dio commanda et la natura ci
+                    insegna che debbiamo haver cura de l’honor nostro. Ma acciò l’opera si faccia
+                    con fondamento et con le debite circonstanze, desidero che V. A. si compiaccia
+                    di farmi sapere il buon parere di lei et de li suoi consiglieri et insieme
+                    quello che da principio, quando fu data la querela, fu fatto nel negotio,
+                    accioché io possi poi pigliare qualche risolutione buona et fruttuosa.</p>
+                <p>S’intende ancora da diversi parti che gli ordini Mendicanti di queste provincie
+                    hanno bisogno d’una essentiale riforma tanto circa la vita loro quanto a quello
+                    che spetta al buon governo del temporale, il quale essendo subordinato et quasi
+                    concatenato col spirituale, se <pb xml:id="P1_0000397"/>ne deve tener gran
+                    conto. Ma fra tutti li conventi mi vien referto che quel di Fiume, de l’ordine
+                    di S. Agostino, è in tal stato che se presto non se li applica rimedio, che
+                    andarà totalmente in ruina. <note xml:id="FN1_00146_03" type="footnote"/>Però io
+                    havevo pensato di nominare il vescovo di Parenzo, <note xml:id="FN1_00146_04"
+                        type="footnote"/>del quale io ho da canonici testimonio che è prelato, che
+                    non ha inanzi gli occhi se non l’honore et gloria di Dio, acciò riformasse quel
+                    convento, et ancora se intendesse dal capitanio che ci fossero tra cittadini o
+                    altri qualche sospetti ne la fede o ci rimediasse o mandasse qua il suo buon
+                    parere, acciò V. A. potesse dare il braccio per prevenire a così gran male.
+                        <note xml:id="FN1_00146_05" type="footnote"/>
+                </p>
+                <p>Et non mi parebbe fuor di proposito che, essendo il sopradetto vescovo vicino a
+                    Trieste, egli visitasse quella diocesi poiché, havendo io cominciato a
+                    instituire la visita generale<note xml:id="FN1_00146_06" type="footnote"/>et non
+                    potendo transferirmi in ogni loco, è bene di fare per substituto quello che non
+                    si può fare immediate, et il vescovo di Trieste ne fa instantia che sia visitata
+                    la sua diocesi. <note xml:id="FN1_00146_07" type="footnote">Diesbezügliche
+                        landesfürstliche Schreiben an den Hauptmann in Fiume vom 4. und 7. März 1582
+                        (Graz LA, Meillerakten XIX C-2 und XIX C-3).</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

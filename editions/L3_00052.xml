@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00052">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1592-11-14" n="1">1592-11-14</title>
+                <title level="a">52. Aldobrandini an Portia - Rom, 1592 November 14</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+                                Heinz</persName>
+                            <persName>Rainer Christian</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+                            Kobenzl; 1592-1595</title>
+                        <idno type="ISBN">3-7001-2964-5</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2001</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturinstitut
+                                    in Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="3">3. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="484">484 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturinstitut in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. F. Borg. III, vol. 49 a, f. 11r–14r, Kopie.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L3_00052">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1592-11-14" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L3_00051.xml">51.
+                        Aldobrandini an Portia - Rom, 1592 November 7</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L3_00053.xml">53.
+                        Aldobrandini an Portia - Rom, 1592 November 21</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00051.xml">51. Aldobrandini an Portia
+                        - Rom, 1592 November 7</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00053.xml">53. Aldobrandini an Portia
+                        - Rom, 1592 November 21</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Auftrag an Portia zur Prüfung der gegen B. von Eichstätt vorgebrachten
+                    Beschuldigungen und zur Sendung der für den Prozess Berchtesgaden gebrauchten
+                    Unterlagen. Auftrag an den B. von Gurk zur Berichterstattung über die vier
+                    außerhalb des Klosters lebenden Berchtesgadener Mönche. Stets zu Diensten für
+                    Hzg Wilhelm und seine in Rom erwarteten Söhne bereit.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="52">Aldobrandini an Portia - Rom, 1592 November 14</head>
+            <div>
+                <p>Quest’ultimo ordinario ha portato una lettera di V. S. Ill.ma per N. S. de 21 et
+                    quatro per me due de 21 et due de 24 del passato<note xml:id="FN3_00052_01"
+                        type="footnote">Alle fünf Schreiben nicht vorhanden.</note>, nell’ultima
+                    delle quali erano poche linee di cifra, con l’aviso ch’è stato ben inteso da N.
+                    S. et questo basterà di risposta a quella parte, all’altre si risponderà per
+                    ordine.</p>
+                <p>Le cose d’Eistadio<note xml:id="FN3_00052_02" type="footnote">Beschuldigungen
+                        gegen den B. von Eichstätt. Siehe Nr. 46.</note>si nominavavano dopo ’l
+                    primo aviso havuto da lei, et altri offitii fattone dal signor duca di Baviera
+                    con le seguenti a V. S. i raccommanderà quella cura che le inviaranno i brevi
+                    necessarii <note xml:id="FN3_00052_03" type="footnote">Breven von 1592 November
+                        21 an B., Suffragan und Kapitel von Eichstätt: Arch. Vat, Arm. 44, vol 38,
+                        f. 137r–138r.</note>, a fine che quando il negotio Berchdesgadense lo
+                    permetta vi si trasferisca in persona <note xml:id="FN3_00052_04"
+                        type="footnote">Portia begab sich erst im März 1593 nach Eichstätt: Sax, Die
+                        Bischöfe II, 475.</note>, poiché ’l luoco è vicino et procuri di mettere
+                    buoni ordini et buon rimedio a quei mali, in tanto senza dichiararsi di dover
+                    andare, potrà con qualche speranza che con l’autorità di N. S. sia per
+                    ritrovarsi modo di finire quei pericolosi contrasti tenere così ’l vescovo come
+                    ’l capitolo in sospeso, a fine che non si precipitino in qualche pericolosa<pb
+                        xml:id="P3_0000091"/> risolutione mostrando in specie al vescovo che le
+                    accuse contro di lui o non arrivano qua tutte o non si credano tutte, et
+                    mostrandosi suo affettionato per guadagnarsi seco credito et autorità in modo
+                    però che non si dia ombra alcuna al capitolo che in questo modo potrà poi ella
+                    reggere la barca con maggiore speranza di condurla in porto.</p>
+                <p>Quanto al processo che si forma nella causa Berchdesgadense N. S. vorria che
+                    s’andasse per via certa et ch’ella sollicitasse le parti quanto è possibile a
+                    spedirsene dichiarando loro d’havere commissione d’avvisare, da chi deriva la
+                    colpa della tardanza, et che da questo S. S.tà sia per far giuditio che quella
+                    parte confide meno nelle ragioni sue; in questo modo si doverà tosto venirne a
+                    fine mediante la diligenza sua, et le proteste di non volervi ne potervi perdere
+                    più tempo per havere da evacuare altrove altre commissione di S. B.ne, et
+                    raccolte che sieno le scritture con la commodità che le da l’alcune tardanza di
+                    farne doppia copia ne potrà inviare una qua in diligenza o anco parte per parte
+                    quando le paresse convenire et che potesse servire di lume securo nella
+                    causa.</p>
+                <p>Intanto haverà a dichiarare in quella forma che le parerà migliore che a quei
+                    quatro frati scandalosi non competa ragione o participatione alcuna nel
+                    monistero di Berchdesgaden, né possa competere nell’avvenire fin ch’essa non
+                    haveranno purgati le colpe che vengono loro apposte, né sarà se non bene
+                    avertire il vescovo di Gurg che osservi bene i portamenti loro, li faccia stare
+                    in obendienza; né li tenga tutti in un luoco solo et avisi con confidenza et
+                    rogando la sua conscienza o V. S. Rev.ma o N. S. quali saranno i meriti, i
+                    demeriti di costoro, aciò conforme a quelli sappiamo poi regolare nel fine della
+                    causa; et perché si levi ogni occasione di . . . (?) si potrà nel medesimo tempo
+                    inhibire anco a quelli che rimangono in Berchdesgaden che in occasione di morte
+                    del preposito ne anco essi ardiscano di trattare o pensare ad altra elettione,
+                    il che però s’ha da fare di maniera che a i primi paia questa specie di castigo
+                    a gl’altri no. Et perché non resti il monistero fra questo mezzo in diminuatione
+                    del divino culto, solleciti ella di rimettervi almeno qualche buon religioso che
+                    sia di sodisfattione al vecchio preposito et di buon essempio a gl’altri. Alla
+                    riforma sì come hanno giudicato gl’illustrissimi miei signori della
+                    congregatione Germanica, così pare veramente convenevole che non si pensi fin al
+                    fine della causa, aciò all’hora si possa instituire con buon ordine et durabile
+                    quando conosceranno quei monaci l’insegna certa sotto la quale hanno da
+                    militare.</p>
+                <p>V. S. Rev.ma m’ha fatto singolar piacere in certificare il ser.mo signor duca di
+                    Baviera dell’animo ch’io tengo inchinatissimo al suo servitio con ogni pienezza
+                    di devotione, quale, mentre m’ingegnarò di mostrare qui in ogn’ cosa sua o de
+                    ser.mi figliuoli che sono aspettati da tutti con incredi<pb xml:id="P3_0000092"
+                    />bile desiderio <note xml:id="FN3_00052_05" type="footnote">Die beiden
+                        bayerischen Prinzen Ferdinand und Philipp kamen erst am 8. Dezember 1592 in
+                        Rom an: Nr. 38.</note>s’ella andarà anco confirmando co’l suo testimonio,
+                    non la lascierò mai in debito di pagare la segurtà perché sarei cieco se non
+                    conoscessi i meriti della virtù, pietà et grandezza di quel prencipe, co’l qual
+                    offitio mi venirò anco obligando più a V. S. Rev.ma . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

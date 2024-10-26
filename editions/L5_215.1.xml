@@ -1,186 +1,193 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_215.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-04-21" n="2">1601-04-21</title>
-                    <title level="a">215.1. San Giorgio an Portia - Rom, 1601 April 21</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 59r–60v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_215.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-04-21" n="2"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_214.1.xml">214.1. Portia an Aldobrandini - Graz, 1601 April 21</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_215.2.xml">215.2. San Giorgio an Portia - Rom, 1601 April 21</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_211.1.xml">211.1. San Giorgio an
-                            Portia - Rom, 1601 April 14</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_215.2.xml">215.2. San Giorgio an
-                            Portia - Rom, 1601 April 21</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Posteingang. Portia hatte San Giorgio über Bedenken Erzherzogs Ferdinands
-						bezüglich der Verschwiegenheit von Angestellten des päpstlichen
-						Staatssekretariates unterrichtet. Kardinal San Giorgio bittet um
-						Nachforschungen iiber den vermuteten Informationsfluss.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="215.1">San Giorgio an Portia - Rom, 1601 April 21</head>
-				<div>
-					<p>Scrive V. S. con una delle lettere sue delli 9<note xml:id="FN5_215.1_01" type="footnote">Vom 9. April 1601 sind drei Berichte Portias an
-							Aldobrandini vorhanden, zwei davon sind Kopien der Berichte an San
-							Giorgio. Ein Schreiben dieses Inhaltes ist nicht auf.findbar: vgl. Nr.
-							210.2, 210.3.</note> che l’Arciduca, dandole certa lettera secreta per
-						N. S.<note xml:id="FN5_215.1_02" type="footnote">Nicht auffindbar.</note>,
-						le haveva accennato di haver qualche ombra della publicità delle cose della
-						Secretaria di S. B.ne, et soggiuntoli ch’ella si meraviglierebbe se vedesse
-						le scritture et gl’avvisi, che se le mandano, come usciti dalla medesima
-						secretaria, et dice poco appresso V. S. in un aggiunto di sua mano che tutto
-						ciò se le era scoperto da quelle A. A. mentre che le animava a communicar
-						con S. B.ne le cose più importanti dell’Imperio et della guerra. Ch’ella
-						l’habbia inteso più in un proposito che nell’altro io le resto grandemente
-						tenuto che le sia piacciuto di avvertirmene, perché sì come non mi è
-						difficile il sopportare qualche imperfettione in molti servitori, così
-						sarebbe impossibile che tolerassi una minima ombra d’infedeltà in alcuno. Ma
-						perché servirebbe a poco l’avvertimento se anco non si penetrasse più
-						innanzi, non sapendo io che diligenza fare per la parte mia per venire in
-						chiarezza del fatto sopra una relatione tanto generale et pretendendo che<pb xml:id="P5_0000482"/> bastino gl’ordini dati et che presuppongo
-						osservati in quanto alla cautela, la prego con ogni maggiore affetto ad
-						investigare diligentemente quali particolari sieno arrivati alla notitia
-						dell’Arciduca, et, se possibile sarà, per qual via se ci fosse stata qualche
-						lettera o scrittura, se volgare o latina et ogni cosa simile, et in tutti i
-						casi se quello che si troverà sarà capitato loro direttamente di qua o
-						indirettamente per altra mano et per via d’altri Principi o di persone
-						publiche o private, perché ogni picciola scoperta, anco lontana che si
-						facesse, delle materie o delle persone o dei mezi somministrerebbe il modo
-						di arrivare tutto il negotio che sarebbe con mio singolar contento. Con
-						l’Arciduca non giudicherà forsi bene V. S. de venire a tante sottilità, né
-						pur d’entrare in tal materia se non con gran destrezza, in che mi riporto
-						alla sua prudenza; ma con più libertà et più sicurezza potrebbe ben tentare
-						in ogni caso qualche Ministro confidente di quelli che sanno le cose più
-						intime et massime che essendo il Principe ingenuo et di un candore
-						incomparabile, non si userà forsi la tenacità che si userebbe in qualche
-						altra Corte. Et se bene sopra la copia della lettera et relatione del Sig.
-						Cardinal Diatricstain che V. S. dice haver saputo che fu mandata costì<note xml:id="FN5_215.1_03" type="footnote">Nicht auffindbar.</note> non si fa
-						gran riflesso per qualche ragione, mi sarebbe nondimeno di gran piacere
-						ch’ella cercasse di sapere per qual mano l’habbia l’A. S. havuta …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_215.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-04-21" n="2">1601-04-21</title>
+                <title level="a">215.1. San Giorgio an Portia - Rom, 1601 April 21</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 59r–60v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_215.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-04-21" n="2"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_214.1.xml"
+                        >214.1. Portia an Aldobrandini - Graz, 1601 April 21</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_215.2.xml">215.2.
+                        San Giorgio an Portia - Rom, 1601 April 21</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_211.1.xml">211.1. San Giorgio an
+                        Portia - Rom, 1601 April 14</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_215.2.xml">215.2. San Giorgio an
+                        Portia - Rom, 1601 April 21</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Posteingang. Portia hatte San Giorgio über Bedenken Erzherzogs Ferdinands
+                    bezüglich der Verschwiegenheit von Angestellten des päpstlichen
+                    Staatssekretariates unterrichtet. Kardinal San Giorgio bittet um Nachforschungen
+                    iiber den vermuteten Informationsfluss.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="215.1">San Giorgio an Portia - Rom, 1601 April 21</head>
+            <div>
+                <p>Scrive V. S. con una delle lettere sue delli 9<note xml:id="FN5_215.1_01"
+                        type="footnote">Vom 9. April 1601 sind drei Berichte Portias an Aldobrandini
+                        vorhanden, zwei davon sind Kopien der Berichte an San Giorgio. Ein Schreiben
+                        dieses Inhaltes ist nicht auf.findbar: vgl. Nr. 210.2, 210.3.</note>che
+                    l’Arciduca, dandole certa lettera secreta per N. S.<note xml:id="FN5_215.1_02"
+                        type="footnote"> Nicht auffindbar.</note>, le haveva accennato di haver
+                    qualche ombra della publicità delle cose della Secretaria di S. B.ne, et
+                    soggiuntoli ch’ella si meraviglierebbe se vedesse le scritture et gl’avvisi, che
+                    se le mandano, come usciti dalla medesima secretaria, et dice poco appresso V.
+                    S. in un aggiunto di sua mano che tutto ciò se le era scoperto da quelle A. A.
+                    mentre che le animava a communicar con S. B.ne le cose più importanti
+                    dell’Imperio et della guerra. Ch’ella l’habbia inteso più in un proposito che
+                    nell’altro io le resto grandemente tenuto che le sia piacciuto di avvertirmene,
+                    perché sì come non mi è difficile il sopportare qualche imperfettione in molti
+                    servitori, così sarebbe impossibile che tolerassi una minima ombra d’infedeltà
+                    in alcuno. Ma perché servirebbe a poco l’avvertimento se anco non si penetrasse
+                    più innanzi, non sapendo io che diligenza fare per la parte mia per venire in
+                    chiarezza del fatto sopra una relatione tanto generale et pretendendo che <pb
+                        xml:id="P5_0000482"/>bastino gl’ordini dati et che presuppongo osservati in
+                    quanto alla cautela, la prego con ogni maggiore affetto ad investigare
+                    diligentemente quali particolari sieno arrivati alla notitia dell’Arciduca, et,
+                    se possibile sarà, per qual via se ci fosse stata qualche lettera o scrittura,
+                    se volgare o latina et ogni cosa simile, et in tutti i casi se quello che si
+                    troverà sarà capitato loro direttamente di qua o indirettamente per altra mano
+                    et per via d’altri Principi o di persone publiche o private, perché ogni
+                    picciola scoperta, anco lontana che si facesse, delle materie o delle persone o
+                    dei mezi somministrerebbe il modo di arrivare tutto il negotio che sarebbe con
+                    mio singolar contento. Con l’Arciduca non giudicherà forsi bene V. S. de venire
+                    a tante sottilità, né pur d’entrare in tal materia se non con gran destrezza, in
+                    che mi riporto alla sua prudenza; ma con più libertà et più sicurezza potrebbe
+                    ben tentare in ogni caso qualche Ministro confidente di quelli che sanno le cose
+                    più intime et massime che essendo il Principe ingenuo et di un candore
+                    incomparabile, non si userà forsi la tenacità che si userebbe in qualche altra
+                    Corte. Et se bene sopra la copia della lettera et relatione del Sig. Cardinal
+                    Diatricstain che V. S. dice haver saputo che fu mandata costì <note
+                        xml:id="FN5_215.1_03" type="footnote">Nicht auffindbar.</note>non si fa gran
+                    riflesso per qualche ragione, mi sarebbe nondimeno di gran piacere ch’ella
+                    cercasse di sapere per qual mano l’habbia l’A. S. havuta …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00091">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-05-09" n="2">1581-05-09</title>
+                <title level="a">91. Malaspina an Possevino - Graz, 1581 Mai 9</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 93, f. 73r—74r, Orig.,
+                            eigenhändig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00091">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-05-09" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118595954">Possevino, Antonio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_009">Malaspina,
+                        Germanico - Possevino, Antonio</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00090.xml">90.
+                        Gallio an Malaspina - Rom, 1581 Mai 9</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00092.xml">92.
+                        Possevino an Gallio - (Wien, 1581 vor Mai 10)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Dank für zum Austeilen erhaltene katholische Bücher. Gute Fortschritte im Grazer
+                    Seminar. Konversion eines Prädikanten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="91">Malaspina an Possevino - Graz, 1581 Mai 9</head>
+            <div>
+                <p>Hoggi ho ricevuto le lettere<note xml:id="FN1_00091_01" type="footnote">Nicht
+                        vorhanden.</note>di V. S. insieme con li libri et spero che li racordi a
+                    bocca dettomi<note xml:id="FN1_00091_02" type="footnote"> Vgl. Nr. 85, S.
+                        235.</note>et quelli, che hora me ha scritto, non saranno seminati in
+                    terreno affato sterile con l’aiuto del Sig. Dio et forsi al ritorno suo ne
+                    vederà il frutto. Ho in verità letto con grandissimo gusto et sodisfattione il
+                    discorso circa il ministerio mio <note xml:id="FN1_00091_03" type="footnote"
+                        >Nicht vorhanden.</note>et voglio che mi servi spesso per far oratione et
+                    spechiarmi in esso, ché facilmente potrò discernere qual dovria essere et qual
+                    sono .Non dubiti V. S. che li libri stiano otiosi, poiché insin’hora con il
+                    consiglio de questi padri sono destinati et io, con l’occasione l’andar a S.
+                    Lamberto, ne distribuirò molti in Carinthia et farò venire da me il p.
+                    Bonaventura et li lasciarò qualche bon ordine et intelligentia con il nostro
+                    vizzedomo di Clanfurt, al qual signore consignaro alchuni libri.<note
+                        xml:id="FN1_00091_04" type="footnote"> Siehe Nr. 99, S. 284.</note>
+                </p>
+                <p>Circa il seminario delli poveri, si va facendo la scielta de’ più maturi di età
+                    et de più espettatione et, piacendo al Signore, si farà qualche bene,<note
+                        xml:id="FN1_00091_05" type="footnote">Vgl. Nr. 85, S. 233.</note>et se le
+                    darà forma tale, che V. S. havrà occasione di restare edificato, ho ritrovato la
+                    casa quasi unita con il monasterio, dove io habito<note xml:id="FN1_00091_06"
+                        type="footnote"> Der heutige Stadtpfarrhof Herrengasse—Mesnergasse war bis
+                        1586 Dominikanerkloster (Popelka, Geschichte der Stadt Graz I, S.
+                        551—567).</note>et di affito pago 40 fiorini l’anno. Similmente ho stabilito
+                    un sacerdote che li accompagna alla scola et habbia cura di loro <pb
+                        xml:id="P1_0000250"/>costumi,<note xml:id="FN1_00091_07" type="footnote">
+                        Vgl. Nr. 99, S. 285 f.</note>mi son risoluto di vestirli, cioè farle una
+                    veste lunga per un uno et farli andar nel modo che fanno in Roma, <note
+                        xml:id="FN1_00091_08" type="footnote">Im Wiener Seminar hatte man mit der
+                        Kleidung nach römischem Muster große Schwierigkeiten; nach Ansicht P.
+                        Villers hielt sie viele vom Eintritt ab, weil die Jugend Talar und Birett
+                        verabscheute (Duhr, Geschichte der Jesuiten I, S. 301).</note>perché in
+                    effetto S. A. mi assicura che se io darò bona forma a questo seminario, che
+                    restaranno pochi scolari alli heretici, che tutti si convertiranno, et hora
+                    solamente con la voce di questo, un scolar loro, de’ più introdoti nelle
+                    lettere, spontaneamente è venuto dalli padri et il giorno delle Pentecoste
+                    abiurarà publicamente insieme con quell predicatore, <note xml:id="FN1_00091_09"
+                        type="footnote">Vgl. Nr. 94, S. 261, und Nr. 100, S. 288.</note>cosa che
+                    insin hora non si è più fatto. Et io, per animare delli altri, li ho donati
+                    dieci fiorini, dicendole che faccia pratica con li altri suoi compagni et non
+                    dubitino che li sia per mancar cosa alcuna, quanto ne ha fatto. Cadrà in
+                    opinione che sia necessario haver una certa somma de danari per questi tali, che
+                    si convertono, li quali nel principio han bisogno di late et non solido cibo,
+                    voglio dire che non bisogna contristarli né lasciarli mancare cosa alchuna et
+                    non tutti sono scolari né dati alle virtù, ma senza lettere et mistero alcuno,
+                    ma tuttavia sono creature de Dio. V. S. ha scvegliato in me molti pensieri et
+                    scopertomi una strada incognita, la quale ho abbrazzato con tutto il spirito, ma
+                    la facultà è tenue né posso suplire a ogni cosa, massime in questo loco dove
+                    ogniuno fa recapito da me, non dimeno mi voglio restrenggere de alchune spese et
+                    farò quello che potrò, ma non vorrei metterne in disordine di debiti, più di
+                    quello che sono.</p>
+                <p>Ho fatto di già recopiare la scrittura et fra doi giorni la mandarò al sig.
+                        Canolai<note xml:id="FN1_00091_10" type="footnote">Wahrscheinlich Canobio.
+                        Siehe Nr. 4, S. 12.</note>et, intendendo che mons. Campeggio sia in
+                        Venetia,<note xml:id="FN1_00091_11" type="footnote"> Lorenzo Campeggio kam
+                        am 11. Mai 1581 in Venedig an, wo er bis Ende Juni 1585 als Nuntius blieb
+                        (Ritzler, Visita Apostolica, S. 165, Anm. 42 und 44).</note>pigliarò bona
+                    occasione di farle venire voglia d’haverla, et in Polonia terrò l’ordine che lei
+                    mi dà, et la mandarò ancora al nontio de l’imperatore<note xml:id="FN1_00091_12"
+                        type="footnote"> Orazio Malaspina.</note>quando cominciaremo a trattar
+                    insieme, come è necessario, essendo le nonciature molto concatenate.</p>
+                <p>V. S. mi faccia gratia di scrivermi spesso et sapia che son amico d’intendere
+                    quello che pertiene et alla mia salvatione et al ministerio mio, però la mi
+                    avisi pure liberamente et tanquam potestatem habens...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

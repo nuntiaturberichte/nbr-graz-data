@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00088">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1581-05-05" n="1">1581-05-05</title>
+				<title level="a">88. Possevino an (Gallio) - Wien, 1581 Mai 5</title>
+				<author ref="#http://d-nb.info/gnd/118595954">Possevino, Antonio</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 93, f. 63r—64v, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00088">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118595954">Possevino, Antonio</persName>
+					<date when="1581-05-05" n="1"/>
+					<placeName ref="#http://www.geonames.org/2761369">Vienna</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266" cert="low">Gallio,
+						Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_008">Gallio, Tolemeo
+						- Possevino, Antonio</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00087.xml">87.
+						(Rom, 1581 Ende April/Anfang Mai)</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00089.xml">89.
+						Malaspina an Gallio - Graz, 1581 Mai 7</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_008" target="L1_00085.xml">85. Possevino an Gallio -
+						Graz, 1581 April 29</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_008" target="L1_00092.xml">92. Possevino an Gallio -
+						(Wien, 1581 vor Mai 10)</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Bericht über Aussprachen mit Erzherzog Ernst in Angelegenheiten Erzherzog
+					Karls.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="88">Possevino an (Gallio) - Wien, 1581 Mai 5</head>
+			<div>
+				<p>Reso il breve di mia credenza a S. A.<note xml:id="FN1_00088_01" type="footnote"
+						>Arch. Vat. Ep. ad Principes 15, f. 44rv.</note>et salutatolo in nome di N.
+					S., hebbi assai lungo ragionamento con lei, il quale si riduse a ricercarlo
+					minutamente se penserebbe, venendosi dal sig. arciduca Carlo all’essecutione del
+					decreto etc., che gli Austriaci, i Boemi et gli Ungheri fossero per muoversi
+					insieme con quei della Stiria et di Carintia contea il detto arciduca. <note
+						xml:id="FN1_00088_02" type="footnote">Vgl. Nr. 77, S. 212.</note>Dapoi gli
+					parlai circa il pigliare modo et temperamento, perché si potessero visitare le
+					parochie dall’arcivescovo<pb xml:id="P1_0000240"/> di Salzburgo, accioché S. A.
+					animasse il sig. arciduca Carlo all’esecutione di questo, quando passerebbe di
+						qua.<note xml:id="FN1_00088_03" type="footnote"> Siehe Nr. 107 und
+						109.</note>Oltre ciò l’animai alla promotione delle cose della religione qui
+					nell’Austria, mostrando quanta confidentia S. Stà haveva in S. A., della cui
+					persona andava pensando molto più sollecitamente per beneficio della
+					Christianità, di quel che forse non si pensava. <note xml:id="FN1_00088_04"
+						type="footnote">Vgl. Nr. 79, Anm. 6 und 7.</note>Finalmente communicatole
+					quel che pareva spediente circa il negotio di Moscovia et dimandatole lettere
+					per quel gran duca, <note xml:id="FN1_00088_05" type="footnote">Siehe Nr. 82 und
+						86. Einige diesbezügliche Schreiben sind gedruckt (Theiner, Schweden II, S.
+						63—71; Turgenev, Historica Russiae Monumenta I, S. 299; Karttunen, Antonio
+						Possevino, S. 171).</note>il quale haveva mostrato particolare affettione a
+					S. A. nel procurare che fosse già eletto re di Polonia, <note
+						xml:id="FN1_00088_06" type="footnote">Iwan IV. war anfangs selbst einer der
+						Kandidaten für den polnischen Thron, riet aber dann 1573 zur Wahl Erzherzog
+						Ernsts (Uebersberger, Österreich und Rußland, S. 403).</note>esso mi
+					rispuose così a tutti i capi :</p>
+				<p>Ch’egli ringratiava con tutto l’animo S. Stà di questa paterna benevolenza, la
+					quale continuava et con lettere et visite di mostrargli. Ch’esso parimente
+					sarebbe sempre figliuolo ubidiente a cotesta S. Sede et a S. Stà con animo di
+					farle ogni servitio.</p>
+				<p>Che quanto all’essecutione del decreto nella Stiria et Carintia si poteva
+					conoscere il buon animo del sig. arciduca Carlo suo zio, ma che l’essersi
+					promulgato senza prima communicarlo con S. Mtà Ces. haveva dato qualche molestia
+					a quei consiglieri et anco a S. Mtà et a se stesso, sì perche il decreto era
+					assai grave sì anco perché in questo negocio non meno si trattava dello stato
+					del sig. arciduca Carlo che dell’Austria et di questi altri paesi, per la
+					consequenza che esso fu in Praga quando venne la nuova della detta
+					promulgatione, della quale con sé quei consiglieri Cesarei si dolsero.<note
+						xml:id="FN1_00088_07" type="footnote">Erst als sich heftigster Widerstand
+						der evangelischen Stände gegen das Religionsdekret vom 10. Dezember 1580
+						bemerkbar machte, wandte sich Erzherzog Karl am 23. Dezember mit dem
+						Hinweis, er habe nur gemäß der Münchner Beschlüsse die Reformation in
+						Städten und Märkten begonnen, an den Kaiser um Hilfe (Loserth, FRA II/50, S.
+						134—137).</note>
+				</p>
+				<p>Quanto alla mossa degli Ungheri et Boemi egli non sapeva che per conto di quel
+					decreto n’havessero fatto alcuna, né che quei provinciali della Stiria et
+					Carintia n’havessero trattato con loro.<note xml:id="FN1_00088_08"
+						type="footnote">Die innerösterreichischen Stände schickten Bevollmächtigte
+						zu den Landtagen nach Agram (1580), Warasdin (1581) und Preßburg (1582) zur
+						Sollizitirung ergiebiger Hilfsrobot zu Festungsbauten in Kroatien, zur
+						Unterstützung bei Besetzung fester Plätze und in anderen Vertheidigungs- und
+						Kriegsorfordernissen (Vaniček, Specialgeschichte der Militärgrenze I, S.
+						73).</note>Et che <pb xml:id="P1_0000241"/>essendosi esso trovato in molte
+					diete delle cose di Ungheria da alquanti anni in qua, per havere con questo
+					dell’Austria il governo di quella provincia, non haveva mai udito ch’essi per
+					conto della religione (fuori che una volta, la quale furono ben pochi che alcuna
+					cosa propuosero) havessero proposta difficoltà. Et allhora parimente que’pochi
+					non passarono più oltre.</p>
+				<p>Quanto poi a Boemi, ch’osso parimente non vedeva che dovessero muoversi, poiché
+					non era specie di heresia et di peste, la quale essi nell’istessa Praga
+					liberamente non usassero, se bene più volte havevano tentato di spuntare più
+					inanti nelle diete fatte a Praga.<note xml:id="FN1_00088_09" type="footnote">Die
+						steirischen Stände hatten damals Gesandte am Kaiserhof in Prag (Loserth, FRA
+						II/50, S. 175).</note>
+				</p>
+				<p>Quanto agli Austriaci egli molto bene sapeva che quei di Stiria et Carintia
+					havevano trattato con loro,<note xml:id="FN1_00088_10" type="footnote">Am 10.
+						Jänner 1581 wurden die Gesandten der steirischen Stände in Prag über die
+						Vorkommnisse in Graz informiert mit dem Zusatz, dass alles den andern landen
+						Kharntten und Crain auch Ob- unnd Unterösterreich communiciert werde
+						(Losertli, FRA II/50, S. 177).</note>i quali se giuntamente facessero
+					qualche movimento, potrebbe dubitarsi che vedutosi acceso il fuoco parimente gli
+					Ungheri et i Boemi si solleverebbono et che farebbono qualche bestiale
+					risolutione, insino col darsi a’ Turchi, in che l’essempio di Fiandra et di
+					Francia et la facilità di fare qui ogni scappata per la vicinanza del Turco non
+					poco gli spronerebbe, se bene per essere questo negocio di Dio, potrebbe
+					sperarsi qualche essito. Però quanto a questo non poteva egli essere auttore, sì
+					perché qui non haveva se non l’administratione dell’imperatore, dal cui
+					indirizzo le cose dipendevano, sì anco perché in breve qui sarebbe S. Mtà, colla
+					quale il sig. arciduca Carlo potrebbe conferire questo negocio. <note
+						xml:id="FN1_00088_11" type="footnote">Erzherzog Karl kam Ende Mai zu Rudolf
+						II. nach Prag, wo er sich bis Mitte Juni aufhielt (Venedig AS, Dispacci
+						Germania, filza 8, f. 48r—49r, 50rv).</note>Oltre ciò disse che sapeva che
+					questi Austriaci tenterebbono di riporre in questa città il loro nido delle
+					prediche heretiche, ma che sperava non solo conservare, ma migliorare lo stato
+					nel quale questa città si ritrova. <note xml:id="FN1_00088_12" type="footnote"
+						>Der evangelische Gottesdienst in der Landhauskirche zu Wien wurde 1578
+						abgestellt und die drei Prädikanten ausgewiesen. Damit war das Problem aber
+						noch nicht gelöst, und noch 1585 wirkten in Wien heimlich mehrere
+						Prädikanten, die in Winkeln ziemlichen Schaden taten (Mayr, Wiener
+						Protestantengeschichte, S. 67 und 73 f.; Bibl, Die Einführung der
+						katholischen Gegenreformation, S. 46, 52 f., 98 f.).</note>Et questo due
+					volte replicò. Aggiunse che fra tanto non vedeva più <pb xml:id="P1_0000242"
+					/>sicura strada che di attendere per mezo delle parochie a porre il piede dentro
+					il terreno usurpato degli heretici, sì come in questo contorno, non senza
+					notabile frutto, si faceva. <note xml:id="FN1_00088_13" type="footnote">So
+						wurden 1581/82 für die Pfarren Judenburg, Pöls, Neumarkt und Trofaiach
+						katholische Kandidaten präsentiert (Graz Diözesanarchiv, Urkunden II, 484,
+						485, 488 und 489).</note>
+				</p>
+				<p>Dalle quali parole pigliando io occasione di dire quel che detto si era al sig.
+					arciduca Carlo per conto della visita et del temperamento proposto da mons.
+					Germanico Malaspina, circa la visita dell’arcivescovo di Salzburg, et animando
+					io S.A. a conoscere che S. Stà non pretendeva altro in questo che la salute
+					delle anime et la conservatione istessa dei privilegi dati a questa serma casa,
+					la quale finalmente non havrebbe alcuno uso de’ privilegi detti, se l’anime et
+					le parochie non fussero conservate in fede, mi rispuose per due volte ch’esso
+					non pretendeva l’uso di detti privilegi né di volergli, se non in quanto
+					servissero a maggiore gloria di Dio, et mostrando di approvare il detto
+					temperamento, del quale anco per le cose dell’Austria potrebbe trattarsi
+					coll’imperatore et finalmente significando di approvare un altro mezo ch’io gli
+					propuosi, circa la confidenza che poteva haversi in mons. Germanico per le
+					qualità da Dio concedutegli, sì che S. Mtà et l’arciduca Carlo potrebbono usare
+					anco di lui confidentissimamente per contrapesare il dubbio che havessero
+					dell’arcivescovo di Salzburgo, mi promise che et per conto della promotione
+					della religione in Stiria et per questo altro fatto della visita farebbe col
+					sig. arciduca suo zio ogni buono ufficio che potesse.<note xml:id="FN1_00088_14"
+						type="footnote">Siehe oben Anm. 3.</note>
+				</p>
+				<p>Quanto al negocio et missione in Moscovia mostrò di sentire assai internamente
+					questo ufficio, che S. Stà si era contentata ch’io facessi con S. A. con
+					dargliene parte confidentemente. Et così non solo mi promise di scrivere a quel
+					grande duca, ma insieme volle ch’io dettassi la lettera nel modo che giudicherei
+					più convenire, il che fu del tenore di quella del sig. arciduca Carlo, la cui
+					copia lasciai a mons. Germanico, perché desiderava mandarla a V. S. Illma.<note
+						xml:id="FN1_00088_15" type="footnote">Kopie des Schreibens Erzherzog Karls
+						an Iwan IV. nicht vorhanden. Vgl. Nr. 86.</note>
+				</p>
+				<p>Al fine disse che risponderebbe a N. S. pe ’l breve da me portatogli,<note
+						xml:id="FN1_00088_16" type="footnote">Siehe oben Anm. 1.</note>se bene hieri
+					haveva risposto ad un altro breve, <note xml:id="FN1_00088_17" type="footnote"
+						>Wahrscheinlich Breve vom 18. Februar 1581 mit Aufforderung zur
+						Unterstützung Erzherzog Karls (Arch. Vat. Ep. ad Principes 15, f.
+						27rv).</note>mandato<pb xml:id="P1_0000243"/>gli dal sig. nuncio, ch’è alla
+					corte dell’imperatore, a cui le dette risposte si darebbono a Praga.</p>
+				<p>Or può essere che queste dilationi anco nascano dal volere dare qualche
+					stabilimento alle cose della casa di Austria, forse per l’elettione del re di
+					Romani. Et con tutto ciò, questo principe Ernesto pare dignissimo per cui si
+					faccia particolare oratione a Dio et si aiuti con ogni possibile mezo,
+					conservando questa communicatione et confidenza con lui, qualhora si presenti
+					buona occasione.<note xml:id="FN1_00088_18" type="footnote">Vgl. Nr. 74, Anm.
+						8.</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

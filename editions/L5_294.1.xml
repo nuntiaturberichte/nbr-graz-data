@@ -1,184 +1,191 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_294.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1602-01-28" n="1">1602-01-28</title>
-                    <title level="a">294.1. Portia an Aldobrandini - Graz, 1602 Januar 28</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 184r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_294.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1602-01-28" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_293.1.xml">293.1. Aldobrandini an Portia - Rom, 1602 Januar 26</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_294.2.xml">294.2. (Portia an Aldobrandini) - (Graz, 1602 Januar 28)</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_293.1.xml">293.1. Aldobrandini an
-                            Portia - Rom, 1602 Januar 26</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_294.2.xml">294.2. (Portia an
-                            Aldobrandini) - (Graz, 1602 Januar 28)</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Pompeo Mattei hat beschlossen, mit den marschfähigen päpstlichen Soldaten
-						nach Italien zurückzukehren und die Kranken und Verletzten in Hospitälern
-						von Pettau/Ptuj und Laibach/Ljubliana zurückzulassen. Für den<pb xml:id="P5_0000643"/> Rückzug wurde er mit entsprechenden
-						Begleitschreiben ausgestattet. Man erwartet die Rückkehr Erzherzog
-						Ferdinands aus Prag. Die vorherrschende Krankheit erfordert viele
-						Todesopfer, vor allem unter jenen, die an der Belagerung Kanizsas beteiligt
-						waren. Auch der aus Rom zurückgekehrte Ainhkürn ist erkrankt. Kein
-						Posteingang.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="294.1">Portia an Aldobrandini - Graz, 1602 Januar 28</head>
-				<div>
-					<p>Il Capitano Pompeo Mattei<note xml:id="FN5_294.1_01" type="footnote">Pompeo
-							Mattei, stammte aus Forlì. Er zog mit den päpstlichen Truppen sowohl
-							1597 als auch 1601 gegen die Türken: vgl. BRUNELLI, S. 93 (Anm. 69), 183
-							(Anm. 215). Er war während des Rückeroberungsversuches von Kanizsa als
-							Quartiermeister tätig: vgl. Serra an Aldobrandini, Görz 1601 Dezember
-							20, ASV, Fondo Borghese, serie III 93 A, fol. 208r; ASV, Fondo Borghese,
-							serie IV 232 Bis, fol. 41r–v (Copia de Gradi distribuiti).</note>, che
-						fu lasciato in Pettovia soprastante alla Soldatesca inferma, vedendo che se
-						si volesse aspettare il fine de tutti la cosa non si compirebbe si può dir
-						mai, s’è risoluto d’incaminarsi alla volta d’Italia conducendo seco quelli
-						che potranno portare gl’incommodi del viaggio et lasciando gl’altri con
-						qualche dinaro raccommandati parte nelli Hopitali di Pettovia et parte in
-						quelli di Lubiana, et acciò potesse questo seguire con qualche fermezza et
-						che nell’andare con facilità truovasse ricapito de carri, d’alberghi et
-						d’altro, se gli sono fatte dare lettere per li Giudici delle sodette Città
-						et Patenti per il viaggio dalla ser.ma Arciduchessa, che gratiosamente ha
-						concesso quanto si è dimandato, di modo ch’io spero che alli viandanti
-						succederà il camino prospero et a quelli che saranno restati non si mancarà
-						di opera caritativa et pia.</p>
-					<p>Qui si sta in aspettatione del ser.mo Arciduca, il cui ritorno da Praga si
-						tiene dover essere di corto, com’anco che sia per venire sodisfatto di ciò
-						che bramava dalla M.tà dell’Imperatore<note xml:id="FN5_294.1_02" type="footnote">Vgl. Nr. 287.2.</note>.</p>
-					<p>Quell’influsso di febre maligna che n’ha morti tanti dopo la ritirata da
-						Canisa ancora non rimette della sua fierezza sendo anco entrata nelle genti
-						del Madrucci<note xml:id="FN5_294.1_03" type="footnote">Giannangelo
-							Gaudenzio Madruzzo: vgl. Nr. 187.1.</note>, che morono al pari di quello
-						ch’hanno fatto gl’Italiani, et il Gentilhuomo detto Ainchirn, che
-						ultimamente fu in Roma mandato da questo Prencipe, s’è parimente li giorni
-						adietro truovato in pericolo di vita.</p>
-					<p>Con l’ultimo ordinario d’Italia non si sono vedute lettere di V. S. Ill.ma
-						onde perciò non rimanendo a me che aggiunger altro fuori del Dupplicato<note xml:id="FN5_294.1_04" type="footnote">Nr. 294.2.</note> …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_294.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1602-01-28" n="1">1602-01-28</title>
+                <title level="a">294.1. Portia an Aldobrandini - Graz, 1602 Januar 28</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 184r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_294.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1602-01-28" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_293.1.xml"
+                        >293.1. Aldobrandini an Portia - Rom, 1602 Januar 26</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_294.2.xml">294.2.
+                        (Portia an Aldobrandini) - (Graz, 1602 Januar 28)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_293.1.xml">293.1. Aldobrandini an
+                        Portia - Rom, 1602 Januar 26</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_294.2.xml">294.2. (Portia an
+                        Aldobrandini) - (Graz, 1602 Januar 28)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Pompeo Mattei hat beschlossen, mit den marschfähigen päpstlichen Soldaten nach
+                    Italien zurückzukehren und die Kranken und Verletzten in Hospitälern von
+                    Pettau/Ptuj und Laibach/Ljubliana zurückzulassen. Für den <pb
+                        xml:id="P5_0000643"/>Rückzug wurde er mit entsprechenden Begleitschreiben
+                    ausgestattet. Man erwartet die Rückkehr Erzherzog Ferdinands aus Prag. Die
+                    vorherrschende Krankheit erfordert viele Todesopfer, vor allem unter jenen, die
+                    an der Belagerung Kanizsas beteiligt waren. Auch der aus Rom zurückgekehrte
+                    Ainhkürn ist erkrankt. Kein Posteingang.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="294.1">Portia an Aldobrandini - Graz, 1602 Januar 28</head>
+            <div>
+                <p>Il Capitano Pompeo Mattei<note xml:id="FN5_294.1_01" type="footnote">Pompeo
+                        Mattei, stammte aus Forlì. Er zog mit den päpstlichen Truppen sowohl 1597
+                        als auch 1601 gegen die Türken: vgl. BRUNELLI, S. 93 (Anm. 69), 183 (Anm.
+                        215). Er war während des Rückeroberungsversuches von Kanizsa als
+                        Quartiermeister tätig: vgl. Serra an Aldobrandini, Görz 1601 Dezember 20,
+                        ASV, Fondo Borghese, serie III 93 A, fol. 208r; ASV, Fondo Borghese, serie
+                        IV 232 Bis, fol. 41r–v (Copia de Gradi distribuiti).</note>, che fu lasciato
+                    in Pettovia soprastante alla Soldatesca inferma, vedendo che se si volesse
+                    aspettare il fine de tutti la cosa non si compirebbe si può dir mai, s’è
+                    risoluto d’incaminarsi alla volta d’Italia conducendo seco quelli che potranno
+                    portare gl’incommodi del viaggio et lasciando gl’altri con qualche dinaro
+                    raccommandati parte nelli Hopitali di Pettovia et parte in quelli di Lubiana, et
+                    acciò potesse questo seguire con qualche fermezza et che nell’andare con
+                    facilità truovasse ricapito de carri, d’alberghi et d’altro, se gli sono fatte
+                    dare lettere per li Giudici delle sodette Città et Patenti per il viaggio dalla
+                    ser.ma Arciduchessa, che gratiosamente ha concesso quanto si è dimandato, di
+                    modo ch’io spero che alli viandanti succederà il camino prospero et a quelli che
+                    saranno restati non si mancarà di opera caritativa et pia.</p>
+                <p>Qui si sta in aspettatione del ser.mo Arciduca, il cui ritorno da Praga si tiene
+                    dover essere di corto, com’anco che sia per venire sodisfatto di ciò che bramava
+                    dalla M.tà dell’Imperatore<note xml:id="FN5_294.1_02" type="footnote">Vgl. Nr.
+                        287.2.</note>.</p>
+                <p>Quell’influsso di febre maligna che n’ha morti tanti dopo la ritirata da Canisa
+                    ancora non rimette della sua fierezza sendo anco entrata nelle genti del
+                        Madrucci<note xml:id="FN5_294.1_03" type="footnote">Giannangelo Gaudenzio
+                        Madruzzo: vgl. Nr. 187.1.</note>, che morono al pari di quello ch’hanno
+                    fatto gl’Italiani, et il Gentilhuomo detto Ainchirn, che ultimamente fu in Roma
+                    mandato da questo Prencipe, s’è parimente li giorni adietro truovato in pericolo
+                    di vita.</p>
+                <p>Con l’ultimo ordinario d’Italia non si sono vedute lettere di V. S. Ill.ma onde
+                    perciò non rimanendo a me che aggiunger altro fuori del Dupplicato<note
+                        xml:id="FN5_294.1_04" type="footnote">Nr. 294.2.</note>…</p>
+            </div>
+        </body>
+    </text>
+</TEI>

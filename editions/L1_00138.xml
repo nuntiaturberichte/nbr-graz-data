@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00138">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-01-31" n="1">1582-01-31</title>
+                <title level="a">138. Malaspina an Erzherzog Karl - Graz, 1582 Jänner 31</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 413rv und 424v,
+                            Duplikat.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00138">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-01-31" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118560069">Österreich, Erzherzog,
+                        Karl</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_012">Malaspina,
+                        Germanico - Österreich, Erzherzog, Karl</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00137.xml"
+                        >137. Malaspina an Gallio - Graz, 1582 Jänner 24</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00139.xml">139.
+                        Bischof Georg von Seckau an Malaspina - Graz, 1582 Jänner 31</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_012" target="L1_00128.xml">128. Malaspina an
+                        Erzherzog Karl - Graz, 1581 vor November 27</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_012" target="L1_00143.xml">143. (Malaspina an
+                        Erzherzog Karl) - Graz, 1582 Februar 17</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Günstige Möglichkeit zum Vorgehen gegen Hoffmann auf Grund der von einem Adeligen
+                    gegen ihn vorgebrachten Klagen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="138">Malaspina an Erzherzog Karl - Graz, 1582 Jänner 31</head>
+            <div>
+                <pb xml:id="P1_0000377"/>
+                <p>Io son sicuro, che l’A. V. da la ferma, che ho tenuto nel negotiare con lei,
+                    havrà potuto comprendere, che io rare volte m’intrometto in quelle cose, che mi
+                    paiono praeter il ministerio mio, se ben son quasi certo, confidato ne la
+                    benignità di V. A., che quando anco non havessi osservato questo, non havrei
+                    perciò patita repulsa da lei. Hora in quello ch’io sono per supplicare a V. A.
+                    non mi par manco d’uscire fuori de l’instituto mio per essere negotio se bene
+                    politico, però così subordinato al spirituale et tanto mixto con esso, che mi dà
+                    animo di poter dire il parere et senso mio. Senza dubio l’A. V. havrà inteso le
+                    querele congionte con parole, che infamiam irogant, che quel nobile dice et
+                    scrive pubicamente contra l’Hoffmam,<note xml:id="FN1_00138_01" type="footnote"
+                        >Siehe Nr. 141, S. 382.</note>le quali sono tali che, quando Hoffmam fosse
+                    il più ben affetto servitore che V. A. habbia, sarebbe ragionevole ch’egli da
+                    per sé si ritirasse et si guardasse di comparire inanzi a la presenza di lei,
+                    che così mi pare d’haver veduto per quel rispetto che si deve a li principi
+                    naturali osservare. Ma poiché egli non solo non fa questo, ma tuttavia continua
+                    di non procedere con sincerità ne li negotii concernenti il servitio de l’A. V.,
+                    abusando de la molta sua benignità, pare che sarebbe molto espediente che V. A.
+                    ordinasse a li consiglieri che consultassero quello che lei è tenuta come
+                    principe, il quale porta il gladio dato da Dio ad vindictam malorum, di fare in
+                    questo fatto, et se V. A. farà qualche dimostratione o questa pietra di scandalo
+                    si distaccarà in modo da l’edificio, col quale è così conglutinata che si
+                    spezzarà et sarà forse rimosso ancora per tal infamia dal governo di
+                        Villaco,<note xml:id="FN1_00138_02" type="footnote"> Vgl. Nr. 3.</note>overo
+                    si humiliarà in modo che se ne caverà qualche costrutto; et pare che sarebbe
+                    bene, inanzi la publicatione del decreto nel negotio de la religione haver fatto
+                    qualche dimostratione circa la persona sua.</p>
+                <p>f. 424v : S. A. ha decretato che Hoffmam<note xml:id="FN1_00138_03"
+                        type="footnote">Hoffmann selbst erwähnt in einer Eingabe vom 31. August
+                        1582, daß ihm Erzherzog Karl den Zutritt zu den Hof - und Landrechten
+                        verboten habe (Huber, Hoffmann, S. 136).</note>non entri più in corte né
+                    venghi a la presenza di S. A. se prima non si purga de le querele dategli. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

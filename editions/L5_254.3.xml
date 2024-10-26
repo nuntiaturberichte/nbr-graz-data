@@ -1,193 +1,198 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_254.3"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-09-15" n="3">1601-09-15</title>
-                    <title level="a">254.3. Aldobrandini an Portia - Rom, 1601 September 15</title>
-                    <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 39, fol. 64v–65v,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_254.3">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                        <date when="1601-09-15" n="3"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_254.2.xml">254.2. San Giorgio an Portia - Rom, 1601 September 15</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_255.1.xml">255.1. Portia an Aldobrandini - Graz, 1601 September 17</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_253.3.xml">253.3. (Portia an
-                            Aldobrandini) - (Graz, 1601 September 10)</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_255.1.xml">255.1. Portia an
-                            Aldobrandini - Graz, 1601 September 17</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Beunruhigung aufgrund der Berichte über den Gesundheitszustand des Gian
-						Francesco Aldobrandini, dessen Unterstützung dem Erzherzog beim
-						Rückeroberungsversuch der Festung Kanizsa fehlen wird. Portia sollte in Graz
-						bleiben, da er vor Ort von großer Bedeutung ist. Dankt Portia für dessen
-						Bemühungen, das Problem des Vorranges zwischen Gian Francesco und dem Herzog
-						von Mantua [Vincenzo I.] diskret zu lösen. In die Schwierigkeiten zwischen
-						dem Herzog von Mantua und Giovanni de’ Medici soll Portia sich nicht
-						einmischen. Aldobrandini verweist auf seine Intervention zu Gunsten Portias
-						bezüglich der fehlenden Zahlungen der Apostolischen Kammer und des
-						Zehents.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="254.3">Aldobrandini an Portia - Rom, 1601 September 15</head>
-				<div>
-					<p>Sono molte le cagioni per le quali sentiamo qua grande afflittione d’animo
-						dell’indispositione del Sig. Giovan Francesco, ma oltre le private della
-						Casa mia, creda pur V. S. che molto particolare è quella dell’impedimento
-						che ha S. E. di non poter servire con la propria vita il Ser.mo Arciduca
-						Ferdinando in questa impresa, se però il male non è cessato in tempo che
-						l’E. S. possa trovarsi in Campo con le sue genti. Questo rispetto mi
-						accresce la passione oltre quella per altro ne sentirei et che ne sento;
-						nondimeno spero nella bontà di Dio che si degnerà di far gratia a S. E.
-						delle pristina salute, acciò possa faticare per la sua santa causa.
-						Ringratio V. S. del particolar raguaglio che me ne ha voluto dare et della
-						buona volontà che mi ha rappresentata di havere con la sua lettera<note xml:id="FN5_254.3_01" type="footnote">Vermutlich handelt es sich um die
-							Berichte Portias an Aldobrandini vom 3. September 1601: Nr. 251.1,
-							251.2.</note> di andare in persona ad assistere a S. E. quando così
-						fusse stato bisogno; onde io spero nella Divina bontà che farà cessare il
-						bisogno, oltre che la persona di V. S. è necessariissima a Gratz per molti
-						rispetti, come ella stesso può molto ben considerare con la sua prudenza
-							che<pb xml:id="P5_0000571"/> è quanto posso dire in risposta della prima
-						sua lettera. Dall’altra di V. S. ho visto il pensiero che ha tenuto et che
-						tiene, perché al Sig. Giovan Francesco sia dato il luogo che per tutti le
-						ragioni se li deve, nel che certo che io non so trovar difficoltà, né credo
-						che nessuno (fuori di passione) possa giudicare altrimente; tuttavia i
-						ricordi dati da Lei sono stati opportunissimi et io glieli gradisco molto,
-						come so che farà S. E. in particolar memoria della sua bontà et
-						amorevolezza. Non occorre ricordarli il continuare nei medesimi offitii,
-						perché so che lo farà senz’altro, et però senz’altro me le offero per fine
-						con tutto l’animo, ringratiandola de soliti duplicati et avvisi<note xml:id="FN5_254.3_02" type="footnote">Nicht auffindbar.</note>.</p>
-					<p>In questa materia delle preminenze del Signore io veramente desidero et per
-						il rispetto publico et privato di S. E. che le cose passino con quella
-						reputatione che conviene al grado che sostiene. Vorrei bene che ciò si
-						facesse con destrezza et senza incontrarsi con nessuno, se fusse possibile,
-						et in particolare senza pigliar pena con il Sig. Duca di Mantova, et in ciò
-						V. S. di gratia habbia l’occhio particolarmente avertendo che gente maligna
-						non entri di mezzo a far mali offitii et V. S. ci può rimediare col pigliare
-						i passi inanzi et metter sempre bene. Io spero haver servito V. S. con
-						qualche suo utile nelle pretensioni con la Camera et nelle decime.
-						Degl’altri disgusti che passano in Campo tra il Sig. Duca di Mantova et Don
-						Giovanni de’ Medici credo sia bene lasciar fare a loro et star bene con
-						tutti, intricandosi poco nelle passioni particolari.</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_254.3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-09-15" n="3">1601-09-15</title>
+                <title level="a">254.3. Aldobrandini an Portia - Rom, 1601 September 15</title>
+                <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 39, fol. 64v–65v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_254.3">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <date when="1601-09-15" n="3"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_254.2.xml"
+                        >254.2. San Giorgio an Portia - Rom, 1601 September 15</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_255.1.xml">255.1.
+                        Portia an Aldobrandini - Graz, 1601 September 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_253.3.xml">253.3. (Portia an
+                        Aldobrandini) - (Graz, 1601 September 10)</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_255.1.xml">255.1. Portia an
+                        Aldobrandini - Graz, 1601 September 17</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Beunruhigung aufgrund der Berichte über den Gesundheitszustand des Gian Francesco
+                    Aldobrandini, dessen Unterstützung dem Erzherzog beim Rückeroberungsversuch der
+                    Festung Kanizsa fehlen wird. Portia sollte in Graz bleiben, da er vor Ort von
+                    großer Bedeutung ist. Dankt Portia für dessen Bemühungen, das Problem des
+                    Vorranges zwischen Gian Francesco und dem Herzog von Mantua [Vincenzo I.]
+                    diskret zu lösen. In die Schwierigkeiten zwischen dem Herzog von Mantua und
+                    Giovanni de’ Medici soll Portia sich nicht einmischen. Aldobrandini verweist auf
+                    seine Intervention zu Gunsten Portias bezüglich der fehlenden Zahlungen der
+                    Apostolischen Kammer und des Zehents.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="254.3">Aldobrandini an Portia - Rom, 1601 September 15</head>
+            <div>
+                <p>Sono molte le cagioni per le quali sentiamo qua grande afflittione d’animo
+                    dell’indispositione del Sig. Giovan Francesco, ma oltre le private della Casa
+                    mia, creda pur V. S. che molto particolare è quella dell’impedimento che ha S.
+                    E. di non poter servire con la propria vita il Ser.mo Arciduca Ferdinando in
+                    questa impresa, se però il male non è cessato in tempo che l’E. S. possa
+                    trovarsi in Campo con le sue genti. Questo rispetto mi accresce la passione
+                    oltre quella per altro ne sentirei et che ne sento; nondimeno spero nella bontà
+                    di Dio che si degnerà di far gratia a S. E. delle pristina salute, acciò possa
+                    faticare per la sua santa causa. Ringratio V. S. del particolar raguaglio che me
+                    ne ha voluto dare et della buona volontà che mi ha rappresentata di havere con
+                    la sua lettera<note xml:id="FN5_254.3_01" type="footnote">Vermutlich handelt es
+                        sich um die Berichte Portias an Aldobrandini vom 3. September 1601: Nr.
+                        251.1, 251.2.</note>di andare in persona ad assistere a S. E. quando così
+                    fusse stato bisogno; onde io spero nella Divina bontà che farà cessare il
+                    bisogno, oltre che la persona di V. S. è necessariissima a Gratz per molti
+                    rispetti, come ella stesso può molto ben considerare con la sua prudenza che <pb
+                        xml:id="P5_0000571"/>è quanto posso dire in risposta della prima sua
+                    lettera. Dall’altra di V. S. ho visto il pensiero che ha tenuto et che tiene,
+                    perché al Sig. Giovan Francesco sia dato il luogo che per tutti le ragioni se li
+                    deve, nel che certo che io non so trovar difficoltà, né credo che nessuno (fuori
+                    di passione) possa giudicare altrimente; tuttavia i ricordi dati da Lei sono
+                    stati opportunissimi et io glieli gradisco molto, come so che farà S. E. in
+                    particolar memoria della sua bontà et amorevolezza. Non occorre ricordarli il
+                    continuare nei medesimi offitii, perché so che lo farà senz’altro, et però
+                    senz’altro me le offero per fine con tutto l’animo, ringratiandola de soliti
+                    duplicati et avvisi <note xml:id="FN5_254.3_02" type="footnote">Nicht
+                        auffindbar.</note>.</p>
+                <p>In questa materia delle preminenze del Signore io veramente desidero et per il
+                    rispetto publico et privato di S. E. che le cose passino con quella reputatione
+                    che conviene al grado che sostiene. Vorrei bene che ciò si facesse con destrezza
+                    et senza incontrarsi con nessuno, se fusse possibile, et in particolare senza
+                    pigliar pena con il Sig. Duca di Mantova, et in ciò V. S. di gratia habbia
+                    l’occhio particolarmente avertendo che gente maligna non entri di mezzo a far
+                    mali offitii et V. S. ci può rimediare col pigliare i passi inanzi et metter
+                    sempre bene. Io spero haver servito V. S. con qualche suo utile nelle
+                    pretensioni con la Camera et nelle decime. Degl’altri disgusti che passano in
+                    Campo tra il Sig. Duca di Mantova et Don Giovanni de’ Medici credo sia bene
+                    lasciar fare a loro et star bene con tutti, intricandosi poco nelle passioni
+                    particolari.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

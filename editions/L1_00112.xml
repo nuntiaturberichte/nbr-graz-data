@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00112">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-08-09" n="2">1581-08-09</title>
+                <title level="a">112. Malaspina an Acquaviva - Admont, 1581 August 9</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Rom. Generalarchiv der Jesuiten, Epp. Principum 28, f. 182rv,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00112">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-08-09" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2782979">Admont</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/11917894X">Acquaviva, Claudio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_013">Acquaviva,
+                        Claudio - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00111.xml"
+                        >111. Malaspina an Gallio - Admont, 1581 August 9</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00113.xml">113.
+                        Gallio an Malaspina - Rom, 1581 August 19</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_013" target="L2_00159.xml">159. Aquaviva an Malaspina
+                        - Rpm, 1584 März 23</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Gute Zusammenarbeit mit Jesuiten. Teilnahme P. Forslers an Visitation und seine
+                    Entsendung nach Salzburg.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="112">Malaspina an Acquaviva - Admont, 1581 August 9</head>
+            <div>
+                <p>La penuria de le persone ecclesiastiche che si ha in questi paesi che habbiano
+                    altre il grado la pietà et prudentia è tale et in così publicamente si sa che
+                    non dubito che non sia molto ben nota a V. P. Rma. Perilché mi persuado che
+                    quando lei intende che io mi vaglio in caso di necessità del opera de li padri
+                    de la sta Compagnia per servitio di Dio et per sollevatione de la religione et
+                    de la disciplina regolare et <pb xml:id="P1_0000313"/>ecclesiastica che lei non
+                    solo debba approvare quello che io faccio, ma che come zelosa del ben publico
+                    sia per ordinare che da li padri di Gratz, io sia aiutato in presso mio
+                    ministerio quanto honestamente possono potendosi assicurare che qualsivoglia
+                    interesse non mi farà mai pretendere che si alteri li santi ordini che loro
+                    hanno. <note xml:id="FN1_00112_01" type="footnote">Vgl. Nr. 1, S. 5, und Nr.
+                        54.</note>Perciò essendosi instituita la visita in questo monasterio tanto
+                    insigne, et essendo di grandissima importanza di vivere con molta solecitudine
+                    acciò il principio sia tale che dia speranza che’l restante debba havere buona
+                    perfettione, io ho sforzato il p. rettore di Gratz a farmi compagnia et ne sono
+                    ogni giorno più sodisfatto, et parendomi ancora molto necessario per negotii di
+                    religione et ecclesiastici che egli si transferisca in Salisburgo ho cercato di
+                    persuaderlo che si pigli questa fatica, la quale egli et per sapere la qualità
+                    de li negotii et necessità di essi e per affettione che mi porta si è al fine
+                    contentato di consolarmi. <note xml:id="FN1_00112_02" type="footnote">Siehe Nr.
+                        111, S. 312.</note>Sarà però offitio degno de la pietà et zelo di V. P. Rma
+                    et de la affettione che mi ha sempre mostrato di ricevere tutto questo in buona
+                    parte et farmene certo con sue lettere <note xml:id="FN1_00112_03"
+                        type="footnote">Antwort Acquavivas nicht vorhanden.</note>. . .</p>
+                <p>Al p. Maggio V. P. Rma mi farà raccomandato con ogni affetto facendole fede che
+                    io osservo la persona sua quanto ricercano le sante et rare sue qualità<note
+                        xml:id="FN1_00112_04" type="footnote">Vgl. Nr. 61, S. 177.</note>...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

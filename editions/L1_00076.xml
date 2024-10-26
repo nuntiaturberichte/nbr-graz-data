@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00076">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-03-14" n="1">1581-03-14</title>
+                <title level="a">76. Malaspina an Gallio - Graz, 1581 März 14</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 257r—258r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00076">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-03-14" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00075.xml">75.
+                        Gallio an Malaspina - Rom, 1581 März 11</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00077.xml">77.
+                        (Graz, 1581 März 14 oder 24)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00075.xml">75. Gallio an Malaspina -
+                        Rom, 1581 März 11</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00078.xml">78. Gallio an Malaspina -
+                        Rom, 1581 März 18</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Überreichung eines Breves betreffs Durchführung des Religionsdekretes.
+                    Bevorstehende Abreise des Bischofs von Gurk nach Rom. Frage der Rückstellung
+                    Aquileias an Patriarchen und der Steuerfreiheit des dortigen Kapitels.
+                    Seeräuberei der Uskoken.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="76">Malaspina an Gallio - Graz, 1581 März 14</head>
+            <div>
+                <p>Le lettere di V. S. Illma delli 28 di genaro<note xml:id="FN1_00076_01"
+                        type="footnote">Nr. 64.</note>mi sono capitate alii 12 di questo, et però in
+                    tempo che già S. A. era stata necessitata a condescendere al suspendere per
+                    adesso l’esecutione del decreto. Nondimeno io ho presentato il breve<note
+                        xml:id="FN1_00076_02" type="footnote"> Siehe Nr. 64, Beilage A, Anm.
+                        3.</note>et le ho significato quanto sia stata accetta a S. Stà la pia
+                    risolutione di publicare il decreto et come stava aspettando con desiderio di
+                    vederne il frutto con l’esecutione et per servitio de Dio et per la
+                    conservatione del stato et autorità del’ A. S., et non ho lasciato di tocharli
+                    alcuni punti contenuti nel foglio che se mi è mandato, <note
+                        xml:id="FN1_00076_03" type="footnote">Nr. 64, Beilage A.</note>se bene mons.
+                    di Gurgo haveva ad verbum nelle lettere del sig. cardinale Madruzzi il medemo et
+                    S. A. le havea già vedute, et perché nel foglio qui incluso <note
+                        xml:id="FN1_00076_04" type="footnote">Vielleicht Nr. 77.</note>scrivo nel
+                    stato che sta questo negotio, non starò a estendermi in questo, massime che
+                    mons. di Gurgo partirà domani per cotesta volta <note xml:id="FN1_00076_05"
+                        type="footnote">Siehe Nr. 84, 87 und 90.</note>et havrà piena
+                        instruttione<note xml:id="FN1_00076_06" type="footnote"> Bischof Christoph
+                        von Gurk dürfte planmäßig von Graz aufgebrochen sein, zog am 17. März in
+                        seine Residenz Straßburg ein und reiste erst am 30. März nach Loreto und Rom
+                        weiter (Obersteiner, Aus dem Tagebuch des Gurker Weihbischofs und
+                        Dompropstes Karl von Griming I, S. 144). Die Instruktion ist vom 18. März;
+                        Zweck der Sendung war, vom Papst eine möglichst große Geldhilfe zu erhalten
+                        so woll zu schütz- und fürsehung der gränitzen auf den fall, da daselbst
+                        durch unserer widerspännigen ungehorsamen underthonen rebellion und
+                        halsstarrigkeit ainicher mangl erscheinen wolte als zu dempf- und ausraitung
+                        der eingerissnen khetzereyen. .. (Loserth, FRA II/50, S.
+                    235—241).</note>d’ogni cosa et è fedele a S. Stà et dirà quello che in
+                    conscienza sente. Li principi <pb xml:id="P1_0000208"/>convicini hanno opinione
+                    che qua si sia errato in non haver tentata la esecutione subito doppo la
+                    publicatione del decreto et che sia stato errore il multiplicare tante repliche,
+                    ma qua hanno altro senso et perché li esiti delle cose sono incerti, non si può
+                    far certo giudicio et in specie in negocii di stato et di tanto momento, che
+                    tutti li principi sogliono haver tanta zelosia et io suspendo in questo il mio
+                    giudicio.</p>
+                <p>Quanto al decreto circa la restitutione di Aquileia,<note xml:id="FN1_00076_07"
+                        type="footnote">Nr. 51; vgl. Nr. 55, S. 158—160.</note>io non ho mai fatto
+                    fondamento alcuno in esso, se non per due cause, l’una è che mi pare si sia
+                    guadagnato assai, che il principe confessa in esso di esser tenuto in conscienza
+                    alla restitutione; del che io sono a suo tempo per valermi grandemente, poiché
+                    con questa sola confessione si butta a terra molti presuppositi che fanno questi
+                    ministri, l’altra è che qua me hanno sempre dato ferma speranza di pigliarci
+                    temperamento ragionevole, come di già hanno comminciato per il scritto che sarà
+                    con questa mia,<note xml:id="FN1_00076_08" type="footnote"> Arch. Vat. Nunz.
+                        Germ. 100, f. 250r: Sermus d. archidux civitatem Aquileae in gratiam S. D.
+                        N. revmo d. patriarchae ad extremum ita forte restituero posset.</note>et in
+                    questo negotio non vorei che mons. patriarcha si affaticasse molto in voler
+                    disputare, perché non faremo cosa buona, anzi non si fa altro che rinovare cose
+                    odiose et è purtroppo vero che egli ha tutte le ragioni del mondo et che li
+                    fondamenti allegati dalla parte di S. A. sono più apparenti che veri. Nondimeno
+                    è meglio di venire a qualche temperamento che mettendo il negotio in disputte,
+                    esasperare li animi forsi in forma che si toglia la speranza di poterlo mai
+                    accomodare, però io in verità dico ingenuamente il mio parere, che sarebbe che
+                    mons. patriarcha, consideratis considerandis, maturamente si risolvessi di
+                    mandarmi una forma di restitutione, la quale havesse non tanto l’occhio alla
+                    giustitia che pretende, quanto a quello che si può sperare di qua. Nel resto V.
+                    S. Illma sia sicura, che io non mancherò dal canto mio di far il debito. Quando
+                    ancora mons. patriarca non giudicasse espediente di tentar questo, lo
+                    persuaderei a soprasedere insin tanto che si vedesse che piega piglia il negotio
+                    delle differenze che ha S. A. con li signori Venetiani, <note
+                        xml:id="FN1_00076_09" type="footnote">Vgl. Nr. 74, Anm. 14.</note>perché
+                    sono cose concate<pb xml:id="P1_0000209"/>natte che, accommodandosi quelle, per
+                    consequenza si fornisce et in bene questo altro.</p>
+                <p>Circa il decreto delli canonici io non so per ancora intendere quello che
+                    desideranno, perché quando mi hanno nel principio scritto, hanno detto che sono
+                    aggravati da impositioni nove, straordinarie et insuportabili, in forma che
+                    ancora toccavano le distributioni quotidiane. Nel decreto chiaramente si
+                    togliono le impositioni nove, le straordinarie et insuportabili poiché dice che
+                    non teneantur nisi ad ordinariarum steurarum exsolutionem eatenus uti ceteri
+                    etc. et quanto al resto li fa ancora esenti. Et io di più feci aggiongere delli
+                    beni d’Aquileia, se pensano come mi accennano di esser totalmente liberati dalle
+                    impositioni o delli beni di Gradisca o di quelli di Goritia, è cosa che tratta
+                    del’ impossibile, et io non sono per farne parola con S. A. senza espresso
+                    ordine di V. S. Illma et son sicuro che non si ottenerà niente, né la ragione lo
+                    comporta, et loro dovevano pensar meglio quello che da principio
+                        domandavano.<note xml:id="FN1_00076_10" type="footnote">Siehe Nr. 45 und Nr.
+                        55, S. 158—161.</note>
+                </p>
+                <p>È tornato il Molzza da Segna et ha fatto restituire buona parte delle robbe tolte
+                    dalli Uschochi<note xml:id="FN1_00076_11" type="footnote">Vgl. Nr. 68, S.
+                        191.</note>alla barca Venetiana et ne ha fatto incarcerare cinque, ma le
+                    mercantie tolte alli Turchi, che erano in essa, si sono ritrovate in minore
+                    numero. Io non havendo havuto né per il passato né hora aviso dal commissario di
+                    N. S. né sentendo che li signori Venetiani facciano rumore alcuno, mi sono
+                    ritenuto di far nova instanza che si faccia segnalata demostratione contra le
+                    persone colpate...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

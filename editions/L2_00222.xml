@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00222">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-11-12" n="1">1584-11-12</title>
+                <title level="a">222. Malaspina an Gallio - Graz, 1584 November 12</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 251r-252r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00222">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1584-11-12" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00221.xml"
+                        >221. Caligari an Gallio - Venedig, 1584 November 10</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00223.xml">223.
+                        Malaspina an Aquaviva - Graz, 1584 November 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00219.xml">219. Gallio an Malaspina -
+                        Rom, 1584 November 10</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00224.xml">224. Gallio an Malaspina -
+                        Rom, 1584 November 17</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Empfang der Post für Nuntius Bonomi. Erzherzog Karl für Heranziehung des
+                    Paulinerklosters St. Peter im Walde für Seminar der Diözese Parenzo. Beseitigung
+                    der Schwierigkeiten bei Visitation des Bischofs von Parenzo auf österreichischem
+                    Gebiet. Auseinandersetzung mit Ständen A. B. wegen Versehung eines zum Tode
+                    Verurteilten auf katholische oder evangelische Art. Sieg über Türken.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="222">Malaspina an Gallio - Graz, 1584 November 12</head>
+            <div>
+                <p>Ho ricevuto il spaccio per mons. di Vercelli et per me che V. S. Ill.ma ha
+                    mandato con la sua de li 27 del passato<note xml:id="FN2_00222_01"
+                        type="footnote">Vgl. oben Nr. 214.</note>et conforme al ordine che V. S.
+                    Ill.ma mi da m’affatticarò di porre ogni studio et diligentia inherendo a la
+                    instruttione etc. di essequire la mente di N. S., né dubiti V. S. Ill.ma che io
+                    mi tratenghi qua doppo l’arrivo di mons. di Bertinoro, né nel camino se non
+                    quanto sarò sforzato da la necessità et quanto a me già giorni sono mi son messo
+                    in ordine.</p>
+                <pb xml:id="P2_0000331"/>
+                <p>S. A. m’ha data ferma intentione che non ostante l’istantia di S. M.tà lei non
+                    revocarà il consenso già dato de la unione al seminario di mons. di Parenzo del
+                    monasterio di S. Pietro in Selva,<note xml:id="FN2_00222_02" type="footnote"
+                        >Vgl. oben Nr. 211, Anm. 3.</note>ma pare bene che S. A. dubiti che li padri
+                    de la Compagnia non siano per accettare con le conditioni, che se li propongono
+                    quel loco, et per questo non si vedendo principio di essecutione alcuna doppo
+                    molti anni del pensiero di quel vescovo, dispiace al A. S. di sostenere molestie
+                    et importunationi da la dilatione.<note xml:id="FN2_00222_03" type="footnote">
+                        Das Paulinerkloster St. Peter im Walde, im österreichischen Anteil der
+                        Diözese Parenzo gelegen, wurde erst 1782 aufgehoben (Kušej, Joseph II. und
+                        die äußere Kirchenverfassung, S. 105).</note>
+                </p>
+                <p>Questo particulare di mons. di Parenzo mi porge occasione di significarne a V. S.
+                    Ill.ma un altro di non minore qualità ma si bene di consequentie più
+                    pregiudiciali: V. S. Ill.ma sa che altre volte me ha ordinato che io facci
+                    officio con li ser.mi archiduchi Ferdinando et questo, acciò diano ogni aiuto et
+                    brazzo al detto monsignore ne la visitatione che per commissione di S. B.ne deve
+                    fare ne li loro dominii.<note xml:id="FN2_00222_04" type="footnote">Vgl. oben
+                        Nr. 180.</note>Hora S. S.ria senza dar parte alcuna a me del suo arrivo ne
+                    li confini di quest Altezza ha ricorso più volte al A. S., la quale, non
+                    ricordandosi del offitio fatto già da me, <note xml:id="FN2_00222_05"
+                        type="footnote">Vgl. oben Nr. 187.</note>non li ha dato risposta. Ma questo
+                    sarebbe stato sopportabile se li consiglieri non fossero intrati in diverse
+                    suspitioni, per parerli cosa dura et di molto loro pregiuditio, che un suddito
+                    venetiano intrasse ne li dominii di S. A., senza che a S. A. in nome di N. S. le
+                    sia significato cosa alcuna, per il che si risolssero di farle intendere che non
+                    intendevono di permetterli che mettesse il piede in questi stati.</p>
+                <p>Questa loro risolutione mi è dispiaciuta assai et se bene non mi è venuta a
+                    notitia, se non hoggi con l’occasione di ragionare con l’A. S. del negotio del
+                    seminario, ho con tutto ciò obviato a così fatto disordine mettendo in
+                    consideratione al A. S. tutto quello che ho giudicato convenirsi et per honore
+                    di Dio, per conservatione de la iurisdittione ecclesiastica et per escusa di
+                    quel prelato ne la persona del quale non deve cadere suspittione che circa
+                    questo non habbi havuto una retta intentione. Mi doglio bene insino al cuore che
+                    non si sia compiaciuto di scrivermi una parola, poiché quando ancho non ci fosse
+                    stato mescolato il servitio publico, mi pare quasi che ogni ragione ricerchi
+                        che<pb xml:id="P2_0000332"/> dovendosi dar principio a visite o ad altro
+                    atto di iurisdittione in diocesi raccomandati a ministri apostolici, che si
+                    dovria se non per l’informatione, la quale è pur grandemente necessaria, almeno
+                    per civilità darne qualche parte ad essi. Ma poiché il disordine è già nato né
+                    ci è più rimedio, mi basta di far sapere a V. S. Ill.ma che S. A. udite le mie
+                    consideratione si è contentata che S. S.ria visiti senza prohibitione et se li
+                    darà ancho per quanto S. A. me ha detto un comissario che gli assisti et non li
+                    manchi del brazzo seculare conforme al bisogno. <note xml:id="FN2_00222_06"
+                        type="footnote">Bei größeren Visitationen wurden nach Möglichkeit
+                        landesfürstliche Kommissare beigegeben (Rainer-Weiß, Die Visitation
+                        steirischer Klöster und Pfarren im Jahre 1581, S. 13ff.).</note>
+                </p>
+                <p>Questi giorni siamo stati a le mani con li nobili con l’occasione d’un homicidio
+                    commesso da un di loro, il quale essendo perciò condennato a morte, S. A. non ha
+                    voluto permettere che li predicatori heretici siano admessi a parlare con esso,
+                    ma solo li padri de la Compagnia, et perché li nobili si sono grandemente
+                    lamentati che S. A. contra le sue promesse li molesti in conscientia, se li è
+                    replicato che l’A. S. non procede con l’incarcerato come persona nobile ma come
+                    a un certo modo mancipio suo per havere per il delitto comesso perso il
+                    privilegio de la nobiltà, al che se bene loro hanno replicato si sono niente
+                    dimeno esclusi totalmente li ministri heretici et indotto l’incarcerato a
+                    confessarsi et hoggi si comunicarà et speriamo ancora che S. A. le donarà la
+                    vita. Questa poca di iurisdittione che la parte catholica ha acquistata sopra le
+                    persone de li nobili non è da essere poco stimata.<note xml:id="FN2_00222_07"
+                        type="footnote">Vgl. das landesfürstliche Dekret vom 5. November 1584, mit
+                        dem das Ansuchen der steirischen Verordneten, dem zum Tod verurteilten Karl
+                        Fritsch das Abendmahl nach Gebrauch der Augsburger Konfession zu reichen,
+                        abgelehnt und diesem die Gelegenheit geboten wird, seine Seele durch den
+                        Empfang des Altarsakramentes nach allgemeinem christlichen katholischen
+                        Brauch zu retten (Loserth, FRA II/50, S. 564-566).</note>
+                </p>
+                <p>Ne li confini de la Crovatia duoi millia de nostri hanno rotto otto millia Turchi
+                    con perdita solamente di quattro persone et de Turchi di più di mille oltre una
+                    gran quantità di pressi. Questa fattione è parsa assai maravigliosa, massime che
+                    eranno essi gente eletta et il fiore de soldati che tiene il Turcho in questi
+                        contorni<note xml:id="FN2_00222_08" type="footnote">Genauere Angaben bei
+                        Khevenhiller, Annales I Sp. 328f. - Eine der letzten Handlungen Malaspinas
+                        in Graz war die Bestätigung der Reformbestimmungen des Klosters St.
+                        Lambrecht, die er am 12. November 1584 vornahm (Stiftsarchiv St. Lambrecht,
+                        Urk. II 1260a).</note>. . . </p>
+            </div>
+        </body>
+    </text>
+</TEI>

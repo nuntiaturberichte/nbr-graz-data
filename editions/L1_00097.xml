@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00097">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-05-27" n="1">1581-05-27</title>
+                <title level="a">97. Gallio an Malaspina - Rom, 1581 Mai 27</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 41r—42r, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00097">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1581-05-27" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00096.xml">96.
+                        Malaspina an Gallio - Graz, 1581 Mai 16</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00098.xml">98.
+                        Gallio an Malaspina - Rom, 1581 Mai 27</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00096.xml">96. Malaspina an Gallio -
+                        Graz, 1581 Mai 16</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00098.xml">98. Gallio an Malaspina -
+                        Rom, 1581 Mai 27</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Auftrag zur Entfernung der Häretiker aus der Grafschaft Pisino.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="97">Gallio an Malaspina - Rom, 1581 Mai 27</head>
+            <div>
+                <pb xml:id="P1_0000281"/>
+                <p>Mons. vescovo di Parenzo mi scrive<note xml:id="FN1_00097_01" type="footnote"
+                        >Vgl. Nr. 94, Anm. 7.</note>che, quando fu provisto di quella chiesa, trovò
+                    alcuni luoghi de la sua diocesi, che sono nel contado di Pisino, sottoposto al
+                    sermo arciduca Carlo, molto infetti d’heresia et quasi alienati affatto da la
+                    sua iurisdittione, <note xml:id="FN1_00097_02" type="footnote">Die Grafschaft
+                        Mitterburg-Pisino, 1374 an die Habsburger gefallen und von ihnen fast
+                        ununterbrochen verpfändet, gehörte teilweise zur Diözese Parenzo, die dort
+                        auch reichen Besitz hatte (De Franceschi, Storia documentata della contea di
+                        Piscino, S. 43 ff. Wiesflecker, Die politische Entwicklung der Grafschaft
+                        Görz, S. 352. Erläuterungen zum histor. Atlas der Alpenländer I/4, S.
+                        514—516, 525 f.; Kušej, Joseph II. und die äußere Kirchenverfassung
+                        Innerösterreichs, S. 105).</note>et che con la diligenza che ci ha usata et
+                    con l’aiuto che ha havuto da S. A. et da li capitani catholici, che sin qui
+                    hanno governato il detto contado, li ha ridutti a termine che hora sono di più
+                    sinceri luoghi, che habbi sotto la sua custodia. Ma che, essendo hora capitato
+                    quel governo in mano di certi signori potenti, ma di perversa religione,
+                    chiamati i Cachioker, <note xml:id="FN1_00097_03" type="footnote">Keutschacher,
+                        seit 1578. (De Franceschi a. a. 0., S. 86 f.)</note>li quali hanno condutto
+                    con loro in quelle bande una grossa compagnia d’ogni sorte gente et licentiato
+                    il luogotenente catholico, che ci stava per S. A., et richiamati alcuni
+                    heretici, che il vescovo haveva fatti uscir del paese, et in somma cercano per
+                    ogni via et modo di turbar et atterrar quanto possono la religione catholica,
+                    dubita che se non vi si rimedia presto, con rimoverli et mandar in lor cambio
+                    persone catholiche et pie, quel stato habbi a tornar di breve in peggior termini
+                    che prima, et però supplica N. S. a favorir il negotio appresso l’A. S. Però S.
+                    Stà scrive allegato breve a S. A. credentiale in V. S.,<note
+                        xml:id="FN1_00097_04" type="footnote"> Breve vom 26. Mai 1581 (Arch. Vat.
+                        Ep. ad Principes 15, f. 119r; Theiner, Annales eccl. III, S. 261
+                    f.).</note>a la quale mi ha commesso di ordinar, come faccio, per sua parte che
+                    in presentarlo non manchi di far ogn’opera, afinché li detti Cachioker siano
+                    levati da quel governo, poiché si vede manifestamente che, continuando in esso,
+                    sarà la ruina di quel stato, con perdita di tante anime et con disservitio di
+                    Dio et de la religione sua santa, et che però, potendo S. A. rimediar a tanti
+                    mali, con manderci<pb xml:id="P1_0000282"/> persone di sana religione, conviene
+                    a la gran pietà sua di farlo et dar a S. Bno questa honesta satisfattione. Et
+                    sapendo che V. S. non mancharà di far questo offitio con ogni caldezza, non mi
+                    estenderò in dirle altro sopra ciò, se non che S. Stà sentirà gran piacere che
+                    la cosa habbi buon successo <note xml:id="FN1_00097_05" type="footnote"/>...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,212 +1,221 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_085.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-10-31" n="1">1599-10-31</title>
-                    <title level="a">85.1. Portia an San Giorgio - München, 1599 Oktober 31</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 155r–156r,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilage: fol. 157r, Avviso, München, 1599 Oktober 31.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_085.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-10-31" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2867714">Munich</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_084.1.xml">84.1. Aldobrandini an Portia - Dalla Villa (Frascati), 1599 Oktober
-                            16</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_086.1.xml">86.1. San Giorgio an Portia - Rom, 1599 November 5</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_083.1.xml">83.1. Portia an San
-                            Giorgio - Passau, 1599 Oktober 15</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_086.1.xml">86.1. San Giorgio an
-                            Portia - Rom, 1599 November 5</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia wurde in Passau über Auseinandersetzungen zwischen dem Domkapitel von
-						Passau und dem Herzog von Bayern [Maximilian I.] unterrichtet,<pb xml:id="P5_0000221"/> die er nun in München besprechen will. Kündigt
-						einen genauen Bericht über seine Anordungen in Passau an. Proteste des
-						Domkapitels gegen die Ernennung Pottings zum Administrator durch Portia, da
-						eine Einflussnahme seitens des Kaisers vermutet und die Vollmacht Portias
-						angezweifelt wird. Notwendigkeit einer Visitation des Klosters Griffen.
-						Entsprechende Breven wurden angekündigt, sind aber nicht bei Portia
-						eingelangt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="85.1">Portia an San Giorgio - München, 1599 Oktober 31</head>
-				<div>
-					<p>Prima ch’io partissi da Possa hebbi da Canonici secondo ’l loro desiderio
-						informationi et scritture spettanti alle controversie c’hanno col Sig. Duca
-						di Baviera, col quale, essendo arrivato appunto questa sera a Monaco,
-						attenderò per quanto mi sarrà possibile<note xml:id="SN085.1_a" type="siglum">Im Original unterstrichen.</note> in mandar ad effetto<ref target="#SN085.1_a">*a)</ref> la commissione destinatami da N. S. in
-						questo proposito<note xml:id="FN5_085.1_01" type="footnote">Dieser Konflikt
-							zwischen den beiden Territorien bestand vor allem bezuglich
-							wirtschaftlicher Aspekte: vgl. Memorial Portias, Graz, 1599 November 19,
-							HHStA, Hs B 66; StLA, Meillerakten XV-G–1.</note>.</p>
-					<p>Degl’ordini ch’io ho lasciati in Possa et di quello che mi sono affaticato di
-						fare per beneficio di quella Chiesa et decoro del Clero, ne inviarò a V. S.
-						Ill.ma con la prima commodità ch’io habbia di fermarmi relatione chiara
-						insieme con le scritture che è occorso di formarsi in tal occasione, se bene
-						non lascio hora di farle sapere che, doppo essersi diputato et hormai
-						publicato per Amministratore il Preposito Pettingero, alcuni di quel
-						Capitolo si sono scoperti di sentirsi poco gustati della nominatione, non
-						essendo stato ciò chiesto in Capitolo perentorio, affine si fosse udita la
-						loro propositione, et erano entrati in opinione non solo ch’il sogetto fosse
-						stato portato inanti da favori particolari di Corte Cesarea, ma anco hanno
-						havuto dubbio se io havessi ordine o commandamento di costà, et m’hanno
-						fatta instanza grande ch’io gli dovessi mostrare il Breve particolare che mi
-						commetesse la deputatione attorno che sono stati molestati parimente li
-						Commissarii Cesarei, et ho durata non puoca fatica a renderli capaci, che di
-						questo era già stato concertato et fermata conclusione tra N. S. et S. M.tà
-						Cesarea. Havutosi in consideratione la persona del Preposito per maggior
-						beneficio et honore che si è stimato da lui poter senza dubbio derivare
-						nella loro Chiesa et Capitolo, né invero per le buone qualità et destrezza
-						ch’egli dimostra ne governi si poteva, al creder mio, venire ad elettione
-						più profittevole; et questo attraversamento non pare c’habbi havuto origine
-						da altro che da dispiacere di non haver havuto essi, come solevano, la
-						nominatione, cosa che quando se gli<pb xml:id="P5_0000222"/> fosse passata,
-						sarebbe stata di pregiudicio grande all’auttorità Apostolica et alla dignità
-						della comissione di S. B.ne, benché posso dire a V. S.Ill.ma che in simil
-						affari, ne quali mi son incontrato di spedire in questa Provincia, ho
-						toccato con mano che è sempre bene in cose gravi et importanti di haverne
-						presso di sé Breve Apostolico o altro mezo di auttorità con che si possa
-						ovviare a simil sospittioni. …</p>
-					<p>Significai sin li mesi passati a V. S. Ill.ma che in Carinthia la Prepositura
-						Griffense dell’ordine Premostratense immediate soggetta alla Sede
-						Apostolica, seben sotto la giurisdittione temporale del Vescovo di Bamberga
-						et della Diocese di Salzburg, era malissimo governata et che non havendo
-						Preposito che ne la regga, vi si viveva senza regola et senza disciplina, et
-						che perciò era necessario che fosse visitata et riordinata a qualche buona
-							forma<note xml:id="SN085.1_b" type="siglum">Marginalie des
-							Staatssekretariates links: Facciasi.</note> prima che rovinasse del
-							tutto<note xml:id="FN5_085.1_02" type="footnote">In dieser Angelegenheit
-							lässt sich kein vorangehendes Schreiben Portias an San Giorgio
-							nachweisen, wohl aber ein undatiertes Schreiben Portias an Clemens
-							VIII., in dem er die Missstände des Klosters beschreibt: Nr.
-							62.1.</note>, et perché ad effettuar questo conviene haver Breve diretto
-						al Vicedomo di Bamberga, V. S. Ill.ma benignamente mi avvisò che ne
-						l’havrebbe ordinato et fatto inviare in mia mano con impormi la visita<note xml:id="FN5_085.1_03" type="footnote">In dieser Angelegenheit sind
-							Breven an die Bischöfe von Salzburg und Bamberg vom 20. September 1599
-							vorhanden: vgl. Nr. 65.2. Das Breve für Portia stammt vom 17. September
-							1599: Nr. 75.1.</note>, ma non essendo sin hora successo, né patendo
-						simil negotio senza danno dilatione, mi è parso di nuovo con ogn’humiltà di
-						doverne far moto a V. S. Ill.ma.</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_085.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-10-31" n="1">1599-10-31</title>
+                <title level="a">85.1. Portia an San Giorgio - München, 1599 Oktober 31</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 155r–156r,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilage: fol. 157r, Avviso, München, 1599 Oktober 31.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_085.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-10-31" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2867714">Munich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_084.1.xml"
+                        >84.1. Aldobrandini an Portia - Dalla Villa (Frascati), 1599 Oktober
+                        16</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_086.1.xml">86.1.
+                        San Giorgio an Portia - Rom, 1599 November 5</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_083.1.xml">83.1. Portia an San
+                        Giorgio - Passau, 1599 Oktober 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_086.1.xml">86.1. San Giorgio an
+                        Portia - Rom, 1599 November 5</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia wurde in Passau über Auseinandersetzungen zwischen dem Domkapitel von
+                    Passau und dem Herzog von Bayern [Maximilian I.] unterrichtet, <pb
+                        xml:id="P5_0000221"/>die er nun in München besprechen will. Kündigt einen
+                    genauen Bericht über seine Anordungen in Passau an. Proteste des Domkapitels
+                    gegen die Ernennung Pottings zum Administrator durch Portia, da eine
+                    Einflussnahme seitens des Kaisers vermutet und die Vollmacht Portias
+                    angezweifelt wird. Notwendigkeit einer Visitation des Klosters Griffen.
+                    Entsprechende Breven wurden angekündigt, sind aber nicht bei Portia
+                    eingelangt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="85.1">Portia an San Giorgio - München, 1599 Oktober 31</head>
+            <div>
+                <p>Prima ch’io partissi da Possa hebbi da Canonici secondo ’l loro desiderio
+                    informationi et scritture spettanti alle controversie c’hanno col Sig. Duca di
+                    Baviera, col quale, essendo arrivato appunto questa sera a Monaco, attenderò per
+                    quanto mi sarrà possibile<note xml:id="SN5_085.1_a" type="siglum">Im Original
+                        unterstrichen.</note>in mandar ad effetto <ref target="#SN5_085.1_a"/>la
+                    commissione destinatami da N. S. in questo proposito<note xml:id="FN5_085.1_01"
+                        type="footnote"> Dieser Konflikt zwischen den beiden Territorien bestand vor
+                        allem bezuglich wirtschaftlicher Aspekte: vgl. Memorial Portias, Graz, 1599
+                        November 19, HHStA, Hs B 66; StLA, Meillerakten XV-G–1.</note>.</p>
+                <p>Degl’ordini ch’io ho lasciati in Possa et di quello che mi sono affaticato di
+                    fare per beneficio di quella Chiesa et decoro del Clero, ne inviarò a V. S.
+                    Ill.ma con la prima commodità ch’io habbia di fermarmi relatione chiara insieme
+                    con le scritture che è occorso di formarsi in tal occasione, se bene non lascio
+                    hora di farle sapere che, doppo essersi diputato et hormai publicato per
+                    Amministratore il Preposito Pettingero, alcuni di quel Capitolo si sono scoperti
+                    di sentirsi poco gustati della nominatione, non essendo stato ciò chiesto in
+                    Capitolo perentorio, affine si fosse udita la loro propositione, et erano
+                    entrati in opinione non solo ch’il sogetto fosse stato portato inanti da favori
+                    particolari di Corte Cesarea, ma anco hanno havuto dubbio se io havessi ordine o
+                    commandamento di costà, et m’hanno fatta instanza grande ch’io gli dovessi
+                    mostrare il Breve particolare che mi commetesse la deputatione attorno che sono
+                    stati molestati parimente li Commissarii Cesarei, et ho durata non puoca fatica
+                    a renderli capaci, che di questo era già stato concertato et fermata conclusione
+                    tra N. S. et S. M.tà Cesarea. Havutosi in consideratione la persona del
+                    Preposito per maggior beneficio et honore che si è stimato da lui poter senza
+                    dubbio derivare nella loro Chiesa et Capitolo, né invero per le buone qualità et
+                    destrezza ch’egli dimostra ne governi si poteva, al creder mio, venire ad
+                    elettione più profittevole; et questo attraversamento non pare c’habbi havuto
+                    origine da altro che da dispiacere di non haver havuto essi, come solevano, la
+                    nominatione, cosa che quando se gli<pb xml:id="P5_0000222"/> fosse passata,
+                    sarebbe stata di pregiudicio grande all’auttorità Apostolica et alla dignità
+                    della comissione di S. B.ne, benché posso dire a V. S.Ill.ma che in simil
+                    affari, ne quali mi son incontrato di spedire in questa Provincia, ho toccato
+                    con mano che è sempre bene in cose gravi et importanti di haverne presso di sé
+                    Breve Apostolico o altro mezo di auttorità con che si possa ovviare a simil
+                    sospittioni. …</p>
+                <p>Significai sin li mesi passati a V. S. Ill.ma che in Carinthia la Prepositura
+                    Griffense dell’ordine Premostratense immediate soggetta alla Sede Apostolica,
+                    seben sotto la giurisdittione temporale del Vescovo di Bamberga et della Diocese
+                    di Salzburg, era malissimo governata et che non havendo Preposito che ne la
+                    regga, vi si viveva senza regola et senza disciplina, et che perciò era
+                    necessario che fosse visitata et riordinata a qualche buona forma<note
+                        xml:id="SN5_085.1_b" type="siglum">Marginalie des Staatssekretariates links:
+                        Facciasi.</note>prima che rovinasse del tutto <note xml:id="FN5_085.1_02"
+                        type="footnote">In dieser Angelegenheit lässt sich kein vorangehendes
+                        Schreiben Portias an San Giorgio nachweisen, wohl aber ein undatiertes
+                        Schreiben Portias an Clemens VIII., in dem er die Missstände des Klosters
+                        beschreibt: Nr. 62.1.</note>, et perché ad effettuar questo conviene haver
+                    Breve diretto al Vicedomo di Bamberga, V. S. Ill.ma benignamente mi avvisò che
+                    ne l’havrebbe ordinato et fatto inviare in mia mano con impormi la visita <note
+                        xml:id="FN5_085.1_03" type="footnote">In dieser Angelegenheit sind Breven an
+                        die Bischöfe von Salzburg und Bamberg vom 20. September 1599 vorhanden: vgl.
+                        Nr. 65.2. Das Breve für Portia stammt vom 17. September 1599: Nr.
+                        75.1.</note>, ma non essendo sin hora successo, né patendo simil negotio
+                    senza danno dilatione, mi è parso di nuovo con ogn’humiltà di doverne far moto a
+                    V. S. Ill.ma.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

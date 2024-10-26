@@ -1,224 +1,229 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_358.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1602-09-30" n="2">1602-09-30</title>
-                    <title level="a">358.2. (Portia an Aldobrandini) - Graz, 1602 September
-                        30</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie IV 238, fol. 29r–30r, Kop. <note xml:id="FN5_358.2_1" type="footnote">Kopie eines nicht
-									auf.findbaren Berichtes an San Giorgio.</note>
-							</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_358.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775" cert="low">Portia,
-                            Girolamo</persName>
-                        <date when="1602-09-30" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707" cert="low">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_358.1.xml">358.1. Portia an Aldobrandini - Graz, 1602 September 30</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_359.1.xml">359.1. Aldobrandini an Portia - Rom, 1602 Oktober 5</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_358.1.xml">358.1. Portia an
-                            Aldobrandini - Graz, 1602 September 30</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_359.1.xml">359.1. Aldobrandini an
-                            Portia - Rom, 1602 Oktober 5</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Das türkische Heer hat in Stuhlweißenburg/Székesfehérvár eine starke Garnison
-						zurückgelassen und zwischen Ofen/Buda und Pest ein Lager aufgeschlagen,
-						weitere Teile des Heeres sind nach Temeswar/TimiJoara weitergezogen. In
-						Siebenbürgen herrscht zudem Gefahr durch die Tataren, die über Polen
-						vordringen wollten. Die Rückkehr von Erzherzog Matthias zum Heer ist
-						ungewiss, Ferrante Gonzaga nach Italien abgereist. Die Gefahr an den
-						innerösterreichischen Grenzen besteht weiterhin, da türkische Truppen in der
-						Nähe von Karlstadt/Karlovac aufmarschiert sind. Portia weist erneut auf den
-						Geldmangel für die Grenzsicherung Innerösterreichs hin.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="358.2">[Portia an Aldobrandini] - Graz, 1602 September 30</head>
-				<div>
-					<pb xml:id="P5_0000740"/>
-					<p>Levò il General Turco da Albaregale il Campo, havendo lasciato presidio di
-						seimila persone che guardino et instaurino il luoco, dopoché s’intende
-						essersi alloggiato tra Pest et Buda et havere incaminati trentamila soldati
-						alla volta di Temisvar, la qual Piazza, sendo aviso ch ’l Basta sia stato
-						interrotto di assediare per essere in tempo dello apparecchio penetrato in
-						Valachia gran numero de Tartari, è verisimile che anco questi trentamila
-						siano per voltarsi contro Transilvania, i cui stretti ha deliberato il Basta
-						di guardare et di prohibire con ogni potere lo ingresso a Tartari, il cui
-							Chane<note xml:id="FN5_358.2_02" type="footnote">Gazi Giray (1554–1608),
-							Khan der Tataren (1588–1596, 1596–1608), Dichter, Komponist und
-							Instrumentalist: vgl. JACOV, S. 265.</note> dicendosi di consenso della
-						Porta, che gli ha fatto dono della Provincia, venire con gran sforzo per
-						impadronirsene et piantarvi la sede, è aviso che dal medesimo fosse stato
-						chiesto che Polacchi gli dessero passaggio per il loro stato, ma che
-						apertamente gl’habbino data ripulsa et che per farlo ritornare adietro
-						l’havessero mandato a presentare di buona somma di dinaro, da lui però non
-						accettato, con supposto di voler spingersi innanzi. Onde si crede ch ’l
-						Regno di Polonia farà ogni resistenza acciò non passi per non haversi a
-						nutrire sì di vicino nemico che di continuo lo terrebbe in moti di guerra,
-						et in spese grandissime con pericolo evidente di perdita et di danno, per
-						non essere dal lato verso Transilvania fortezze né siti che fossero bastanti
-						di vietare a Tartari l’essercitio delle loro scorrerie et depredationi. Con
-						occasione della andata<note xml:id="SN358.2_a" type="siglum">Hinzugefügt:
-							questi particolari son incerti se ben vengono scritti da alcuni di
-							Hungaria.</note> a Temisvar delli trentamila sodetti et delli seimila
-						lasciati ad Albaregale (con che viene non poco a debilitarsi il Campo
-						Turchesco), vien scritto che li Cesarei siano d’animo di combattere in
-						Campagna et che a tal fine l’essercito si andava avicinando a Strigonia et
-						d’Austria et d’altre Provincie continuava di calar gente alla volta di
-						Ungheria.</p>
-					<p>Del ritorno del ser.mo Mattias all’essercito non si ha cosa certa et non
-						vedendosi comparire a Vienna li Provinciali et Nobili di Austria, ch’erano
-						stati intimati per li 18 di questo a seguitare l’A. S., è indicio che la
-						cosa si raffreddi, pure se sarà vero che i nostri disegnino qualche impresa
-						prima ch ’l tempo si muti, è da credere ch ’l medesimo Prencipe vorrà
-						truovarsi presente et haver parte delle fatiche et della gloria che ne
-						potesse risaltare<note xml:id="FN5_358.2_03" type="footnote">Eh. Matthias
-							hatte am 4. September 1602 im Kriegsrat, der im Lager der kaiserlichen
-							Truppen bei Raab/Györ abgehalten wurde, die Belagerung Ofens/Budas
-							beschlossen. Die Truppen rückten Anfang Oktober unter dem Kommando von
-							Feldmarschall Rußworm gegen Ofen/Buda vor, Eh. Matthias traf nach ersten
-							Erfolgen am 18. Oktober im befestigten Lager bei Altofen/Altbuda ein:
-							vgl. STROMER, S. 122, 124f.</note>.</p>
-					<p>Il Sig. Ferante Gonzaga poco sodisfatto si licentiò dall’Arciduca Mathias et
-						ultimamente senza piegare a questa Città se n’è andato a dritto camino verso
-							Italia.<pb xml:id="P5_0000741"/>
-					</p>
-					<p>In questi Confini non cessa ancora intieramente il sospetto che Turchi
-						debbano scorrere et fu voce di poco che a Canisa fossero giunte a tal
-						effetto diecimila persone, ma con tutto ciò non s’è ancora sentito movimento
-						alcuno oltre quello che seguì in Croatia per via di Saffer Begh<note xml:id="FN5_358.2_04" type="footnote">Nicht identi.fiziert.</note>, il
-						quale, uscito con duemila combattenti, si fece vedere passato il fiume Culpa
-						con trecento Cavalli, abbrucciando et predando sino a due leghe sotto
-						Carlestat, alla qual fortezza si è temuto li dì passati di qualche sinistro,
-						non solo per il presidio che tuttavia strepita per le paghe et perciò poco
-						pronto sarebbe a sostennere assedio, ma anco per la facilità che rimaneva al
-						nemico di condurvi gente, sendo a meraviglia decresciuti i fiumi, i quali
-						hora per cadute piogge sono aventurosamente gonfiati oltre ’l solito et le
-						cose restano in securezza maggiore, et spero che si confermeranno meglio con
-						la provisione del dinaro che pur si va procurando in sodisfattione de
-						soldati, et io non manco ordinariamente di raccordare quello che occorre per
-						mantenimento de Confini et in specie di quelli che sono più vicini
-						all’Italia al ser.mo Arciduca, il quale secondo ’l costume mostra
-						prontissima volontà, né resta alle volte senza effetto per altro che per
-						mancamento et strettezza del dinaro necessario a chi ha di continuo guerra
-						et nemico vicino. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_358.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1602-09-30" n="2">1602-09-30</title>
+                <title level="a">358.2. (Portia an Aldobrandini) - Graz, 1602 September 30</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie IV 238, fol. 29r–30r, Kop. <note
+                                xml:id="FN5_358.2_01" type="footnote">Kopie eines nicht auffindbaren
+                                Berichtes an San Giorgio.</note>
+                        </collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_358.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775" cert="low">Portia,
+                        Girolamo</persName>
+                    <date when="1602-09-30" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707" cert="low">Aldobrandini,
+                        Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_358.1.xml"
+                        >358.1. Portia an Aldobrandini - Graz, 1602 September 30</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_359.1.xml">359.1.
+                        Aldobrandini an Portia - Rom, 1602 Oktober 5</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_358.1.xml">358.1. Portia an
+                        Aldobrandini - Graz, 1602 September 30</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_359.1.xml">359.1. Aldobrandini an
+                        Portia - Rom, 1602 Oktober 5</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Das türkische Heer hat in Stuhlweißenburg/Székesfehérvár eine starke Garnison
+                    zurückgelassen und zwischen Ofen/Buda und Pest ein Lager aufgeschlagen, weitere
+                    Teile des Heeres sind nach Temeswar/TimiJoara weitergezogen. In Siebenbürgen
+                    herrscht zudem Gefahr durch die Tataren, die über Polen vordringen wollten. Die
+                    Rückkehr von Erzherzog Matthias zum Heer ist ungewiss, Ferrante Gonzaga nach
+                    Italien abgereist. Die Gefahr an den innerösterreichischen Grenzen besteht
+                    weiterhin, da türkische Truppen in der Nähe von Karlstadt/Karlovac aufmarschiert
+                    sind. Portia weist erneut auf den Geldmangel für die Grenzsicherung
+                    Innerösterreichs hin.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="358.2">[Portia an Aldobrandini] - Graz, 1602 September 30</head>
+            <div>
+                <pb xml:id="P5_0000740"/>
+                <p>Levò il General Turco da Albaregale il Campo, havendo lasciato presidio di
+                    seimila persone che guardino et instaurino il luoco, dopoché s’intende essersi
+                    alloggiato tra Pest et Buda et havere incaminati trentamila soldati alla volta
+                    di Temisvar, la qual Piazza, sendo aviso ch ’l Basta sia stato interrotto di
+                    assediare per essere in tempo dello apparecchio penetrato in Valachia gran
+                    numero de Tartari, è verisimile che anco questi trentamila siano per voltarsi
+                    contro Transilvania, i cui stretti ha deliberato il Basta di guardare et di
+                    prohibire con ogni potere lo ingresso a Tartari, il cui Chane<note
+                        xml:id="FN5_358.2_02" type="footnote">Gazi Giray (1554–1608), Khan der
+                        Tataren (1588–1596, 1596–1608), Dichter, Komponist und Instrumentalist: vgl.
+                        JACOV, S. 265.</note>dicendosi di consenso della Porta, che gli ha fatto
+                    dono della Provincia, venire con gran sforzo per impadronirsene et piantarvi la
+                    sede, è aviso che dal medesimo fosse stato chiesto che Polacchi gli dessero
+                    passaggio per il loro stato, ma che apertamente gl’habbino data ripulsa et che
+                    per farlo ritornare adietro l’havessero mandato a presentare di buona somma di
+                    dinaro, da lui però non accettato, con supposto di voler spingersi innanzi. Onde
+                    si crede ch ’l Regno di Polonia farà ogni resistenza acciò non passi per non
+                    haversi a nutrire sì di vicino nemico che di continuo lo terrebbe in moti di
+                    guerra, et in spese grandissime con pericolo evidente di perdita et di danno,
+                    per non essere dal lato verso Transilvania fortezze né siti che fossero bastanti
+                    di vietare a Tartari l’essercitio delle loro scorrerie et depredationi. Con
+                    occasione della andata<note xml:id="SN5_358.2_a" type="siglum"> Hinzugefügt:
+                        questi particolari son incerti se ben vengono scritti da alcuni di
+                        Hungaria.</note>a Temisvar delli trentamila sodetti et delli seimila
+                    lasciati ad Albaregale (con che viene non poco a debilitarsi il Campo
+                    Turchesco), vien scritto che li Cesarei siano d’animo di combattere in Campagna
+                    et che a tal fine l’essercito si andava avicinando a Strigonia et d’Austria et
+                    d’altre Provincie continuava di calar gente alla volta di Ungheria.</p>
+                <p>Del ritorno del ser.mo Mattias all’essercito non si ha cosa certa et non
+                    vedendosi comparire a Vienna li Provinciali et Nobili di Austria, ch’erano stati
+                    intimati per li 18 di questo a seguitare l’A. S., è indicio che la cosa si
+                    raffreddi, pure se sarà vero che i nostri disegnino qualche impresa prima ch ’l
+                    tempo si muti, è da credere ch ’l medesimo Prencipe vorrà truovarsi presente et
+                    haver parte delle fatiche et della gloria che ne potesse risaltare<note
+                        xml:id="FN5_358.2_03" type="footnote">Eh. Matthias hatte am 4. September
+                        1602 im Kriegsrat, der im Lager der kaiserlichen Truppen bei Raab/Györ
+                        abgehalten wurde, die Belagerung Ofens/Budas beschlossen. Die Truppen
+                        rückten Anfang Oktober unter dem Kommando von Feldmarschall Rußworm gegen
+                        Ofen/Buda vor, Eh. Matthias traf nach ersten Erfolgen am 18. Oktober im
+                        befestigten Lager bei Altofen/Altbuda ein: vgl. STROMER, S. 122,
+                        124f.</note>.</p>
+                <p>Il Sig. Ferante Gonzaga poco sodisfatto si licentiò dall’Arciduca Mathias et
+                    ultimamente senza piegare a questa Città se n’è andato a dritto camino verso
+                    Italia.</p>
+                <pb xml:id="P5_0000741"/>
+                <p>In questi Confini non cessa ancora intieramente il sospetto che Turchi debbano
+                    scorrere et fu voce di poco che a Canisa fossero giunte a tal effetto diecimila
+                    persone, ma con tutto ciò non s’è ancora sentito movimento alcuno oltre quello
+                    che seguì in Croatia per via di Saffer Begh<note xml:id="FN5_358.2_04"
+                        type="footnote">Nicht identi.fiziert.</note>, il quale, uscito con duemila
+                    combattenti, si fece vedere passato il fiume Culpa con trecento Cavalli,
+                    abbrucciando et predando sino a due leghe sotto Carlestat, alla qual fortezza si
+                    è temuto li dì passati di qualche sinistro, non solo per il presidio che
+                    tuttavia strepita per le paghe et perciò poco pronto sarebbe a sostennere
+                    assedio, ma anco per la facilità che rimaneva al nemico di condurvi gente, sendo
+                    a meraviglia decresciuti i fiumi, i quali hora per cadute piogge sono
+                    aventurosamente gonfiati oltre ’l solito et le cose restano in securezza
+                    maggiore, et spero che si confermeranno meglio con la provisione del dinaro che
+                    pur si va procurando in sodisfattione de soldati, et io non manco ordinariamente
+                    di raccordare quello che occorre per mantenimento de Confini et in specie di
+                    quelli che sono più vicini all’Italia al ser.mo Arciduca, il quale secondo ’l
+                    costume mostra prontissima volontà, né resta alle volte senza effetto per altro
+                    che per mancamento et strettezza del dinaro necessario a chi ha di continuo
+                    guerra et nemico vicino. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

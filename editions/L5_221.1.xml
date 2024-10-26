@@ -1,200 +1,205 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_221.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-05-14" n="1">1601-05-14</title>
-                    <title level="a">221.1. Portia an Aldobrandini - Graz, 1601 Mai 14</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 56r–57r,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_221.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1601-05-14" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_220.2.xml">220.2. Aldobrandini an Portia - Rom, 1601 Mai 12</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_222.1.xml">222.1. San Giorgio an Portia - Rom, 1601 Mai 19</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_220.2.xml">220.2. Aldobrandini an
-                            Portia - Rom, 1601 Mai 12</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_222.5.xml">222.5. Aldobrandini an
-                            Portia - Rom, 1601 Mai 19</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Erzherzog Ferdinand dankt erneut für die päpstlichen Bemühungen zur
-						Aufstellung einer Armee gegen die Türken. Kardinal San Giorgio hat angeregt,
-						die päpstlichen Truppen dort aufzustellen, wo das türkische Heer am
-						stärksten sein dürfte. Dieser Plan wird aus strategischen Gründen in Graz
-						abgelehnt, da die Grenzen Innerösterreichs gesichert werden müssen. Die
-						Bedrohung nicht nur der italienischen Staaten, sondern auch Wiens und des
-						Reiches ist zu bedenken.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="221.1">Portia an Aldobrandini - Graz, 1601 Mai 14</head>
-				<div>
-					<p>Questo ser.mo Arciduca confessa ch’ogni giorno se gli augumentano gl’oblighi
-						con la S.tà di N. S. poiché non solo si mostra desiderosa della<pb xml:id="P5_0000493"/> conservatione del Stato di S. A. co ’l mandare in
-						sua difensione il soccorso delli diecimila Fanti, ma con voler anco far
-						officio che ’l Gran Duca di Toscana concorra con qualche aiuto nella Causa
-						commune, sì come scrive l’Ill.mo Sig. Cardinale San Giorgio che S. B.ne
-						habbia determinato di fare<note xml:id="FN5_221.1_01" type="footnote">Nr.
-							217.4.</note>. Et perché S. S. Ill.ma accenna in un tempo medesimo che
-						in caso che ’l Turco si mostrasse più forte da un altro canto che da questo
-						che converrebbe all’Arciduca di lasciar passare là le genti forastiere e le
-						forze radunate, m’è parso di dire a V. S. Ill.ma come a quella in cui mano è
-						la somma delle cose ch’è opinione d’intelligenti che non si debba in modo
-						alcuno lasciar sprovisti i confini di queste Provincie, perché co ’l tenervi
-						questa state l’essercito non solo si procurerà di assicurare le parti
-						pericolose et di procurare che l’inimico non s’impadronisca di qualche
-						fortezza dalla quale si possa poi temere disturbo all’Italia, come averrebbe
-						perdendosi Carlestat o Segna, ma si verrà anco a tenere in sospetto il Turco
-						et a renderlo irresoluto di spingersi ad impresa importante, avertendo che
-						un Campo di quarantamila persone, che tale si tiene dover essere in queste
-						parti, sarà bastante a divertire ogni assedio che disegnasse, né delibererà
-						così di facile d’impegnarsi sotto fortezza, vedendo pronta gente atta a
-						distornarlo et a stringere quale una delle sue maggiori Piazze.</p>
-					<p>A questo si aggiunge che quando bene il Turco disponesse di passare in
-						Austria all’impresa di Vienna, l’Imperio per la vicinanza non lasciarebbe
-						d’impiegare le sue forze in aiuto et mantenimento di quella Città o d’altra,
-						per timore che perdendosi l’inimico non entrasse più oltre in Germania, cosa
-						che non averrebbe al Stato dell’Arciduca Ferdinando stimato di minor
-						pericolo ai Prencipati dell’Imperio, anzi che, vedendo li Alemani più tosto
-						importare alli Potentati d’Italia che ad altri la conservatione di queste
-						provincie, non se ne prenderebbono pensiero et haverebbono a caro di mettere
-						in obligo l’Italia a far continua spesa che le sarebbe necessaria ogni volta
-						che cadesse in mano del nemico l’una delle sodette fortezze, Carlestat o
-						Segna, i quai luochi sono così debolmente proveduti che non essendo
-						essercito che quest’anno si mostri di volerli guardare sarà agevol cosa al
-						Turco d’impadronirsene et di calare sopra ’l Mare Adriatico et sopra ’l
-						Friuli, di maniera che si conclude che non si debbano muovere da queste
-						Provincie le genti che verranno di fuori, se peraventura il nemico steso in
-						Campagna et convocando da tutti i confini le forze non risolvesse di fare
-						giornata, nel qual caso non si potrebbe far di meno di non unirsi et di
-						giuntare insieme la potenza dopo che si fossero ben presidiate et munite le
-						frontiere et assicurati con nuovi forti i passi che potessero dar adito a’
-						Turchi d’entrare in queste parti, le quali restando spogliate d’essercito in
-						tempo che l’hoste possa spin<pb xml:id="P5_0000494"/> gersi a suoi danni et
-						che Canisa haverà nervo di farsi sentire fuori è chiara cosa che anderebbono
-						tutte in ruina et che ’l nemico se ne impadronirebbe, potendo poi a suo
-						piacere accostarsi ai luochi più finitimi al Friuli et al Mare. Le quai
-						considerationi, stimandosi di molta conseguenza, ho giudicato mio debito
-						doverne dar conto a V. S. Ill.ma, che a luogo et tempo con la singolar sua
-						prudenza vederà se potranno essere di qualche profitto. .</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_221.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-05-14" n="1">1601-05-14</title>
+                <title level="a">221.1. Portia an Aldobrandini - Graz, 1601 Mai 14</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 56r–57r,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_221.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1601-05-14" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_220.2.xml"
+                        >220.2. Aldobrandini an Portia - Rom, 1601 Mai 12</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_222.1.xml">222.1.
+                        San Giorgio an Portia - Rom, 1601 Mai 19</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_220.2.xml">220.2. Aldobrandini an
+                        Portia - Rom, 1601 Mai 12</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_222.5.xml">222.5. Aldobrandini an
+                        Portia - Rom, 1601 Mai 19</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Erzherzog Ferdinand dankt erneut für die päpstlichen Bemühungen zur Aufstellung
+                    einer Armee gegen die Türken. Kardinal San Giorgio hat angeregt, die päpstlichen
+                    Truppen dort aufzustellen, wo das türkische Heer am stärksten sein dürfte.
+                    Dieser Plan wird aus strategischen Gründen in Graz abgelehnt, da die Grenzen
+                    Innerösterreichs gesichert werden müssen. Die Bedrohung nicht nur der
+                    italienischen Staaten, sondern auch Wiens und des Reiches ist zu bedenken.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="221.1">Portia an Aldobrandini - Graz, 1601 Mai 14</head>
+            <div>
+                <p>Questo ser.mo Arciduca confessa ch’ogni giorno se gli augumentano gl’oblighi con
+                    la S.tà di N. S. poiché non solo si mostra desiderosa della <pb
+                        xml:id="P5_0000493"/>conservatione del Stato di S. A. co ’l mandare in sua
+                    difensione il soccorso delli diecimila Fanti, ma con voler anco far officio che
+                    ’l Gran Duca di Toscana concorra con qualche aiuto nella Causa commune, sì come
+                    scrive l’Ill.mo Sig. Cardinale San Giorgio che S. B.ne habbia determinato di
+                        fare<note xml:id="FN5_221.1_01" type="footnote"> Nr. 217.4.</note>. Et
+                    perché S. S. Ill.ma accenna in un tempo medesimo che in caso che ’l Turco si
+                    mostrasse più forte da un altro canto che da questo che converrebbe all’Arciduca
+                    di lasciar passare là le genti forastiere e le forze radunate, m’è parso di dire
+                    a V. S. Ill.ma come a quella in cui mano è la somma delle cose ch’è opinione
+                    d’intelligenti che non si debba in modo alcuno lasciar sprovisti i confini di
+                    queste Provincie, perché co ’l tenervi questa state l’essercito non solo si
+                    procurerà di assicurare le parti pericolose et di procurare che l’inimico non
+                    s’impadronisca di qualche fortezza dalla quale si possa poi temere disturbo
+                    all’Italia, come averrebbe perdendosi Carlestat o Segna, ma si verrà anco a
+                    tenere in sospetto il Turco et a renderlo irresoluto di spingersi ad impresa
+                    importante, avertendo che un Campo di quarantamila persone, che tale si tiene
+                    dover essere in queste parti, sarà bastante a divertire ogni assedio che
+                    disegnasse, né delibererà così di facile d’impegnarsi sotto fortezza, vedendo
+                    pronta gente atta a distornarlo et a stringere quale una delle sue maggiori
+                    Piazze.</p>
+                <p>A questo si aggiunge che quando bene il Turco disponesse di passare in Austria
+                    all’impresa di Vienna, l’Imperio per la vicinanza non lasciarebbe d’impiegare le
+                    sue forze in aiuto et mantenimento di quella Città o d’altra, per timore che
+                    perdendosi l’inimico non entrasse più oltre in Germania, cosa che non averrebbe
+                    al Stato dell’Arciduca Ferdinando stimato di minor pericolo ai Prencipati
+                    dell’Imperio, anzi che, vedendo li Alemani più tosto importare alli Potentati
+                    d’Italia che ad altri la conservatione di queste provincie, non se ne
+                    prenderebbono pensiero et haverebbono a caro di mettere in obligo l’Italia a far
+                    continua spesa che le sarebbe necessaria ogni volta che cadesse in mano del
+                    nemico l’una delle sodette fortezze, Carlestat o Segna, i quai luochi sono così
+                    debolmente proveduti che non essendo essercito che quest’anno si mostri di
+                    volerli guardare sarà agevol cosa al Turco d’impadronirsene et di calare sopra
+                    ’l Mare Adriatico et sopra ’l Friuli, di maniera che si conclude che non si
+                    debbano muovere da queste Provincie le genti che verranno di fuori, se
+                    peraventura il nemico steso in Campagna et convocando da tutti i confini le
+                    forze non risolvesse di fare giornata, nel qual caso non si potrebbe far di meno
+                    di non unirsi et di giuntare insieme la potenza dopo che si fossero ben
+                    presidiate et munite le frontiere et assicurati con nuovi forti i passi che
+                    potessero dar adito a’ Turchi d’entrare in queste parti, le quali restando
+                    spogliate d’essercito in tempo che l’hoste possa spin<pb xml:id="P5_0000494"
+                    />gersi a suoi danni et che Canisa haverà nervo di farsi sentire fuori è chiara
+                    cosa che anderebbono tutte in ruina et che ’l nemico se ne impadronirebbe,
+                    potendo poi a suo piacere accostarsi ai luochi più finitimi al Friuli et al
+                    Mare. Le quai considerationi, stimandosi di molta conseguenza, ho giudicato mio
+                    debito doverne dar conto a V. S. Ill.ma, che a luogo et tempo con la singolar
+                    sua prudenza vederà se potranno essere di qualche profitto. .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

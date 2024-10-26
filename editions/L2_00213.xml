@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00213">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-10-22" n="2">1584-10-22</title>
+                <title level="a">213. Malaspina an Gallio - Graz, 1584 Oktober 22</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 253r-254r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00213">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1584-10-22" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00212.xml"
+                        >212. Malaspina an Gallio - Graz, 1584 Oktober 22</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00214.xml">214.
+                        Gallio an Malaspina - Rom, 1584 Oktober 27</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00212.xml">212. Malaspina an Gallio -
+                        Graz, 1584 Oktober 22</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00214.xml">214. Gallio an Malaspina -
+                        Rom, 1584 Oktober 27</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bewilligung des Universallandtages, jedoch mit Ausschluß der Religionsfrage.
+                    Probleme bei Durchführung des Verbotes der Sakramentenspendung an Bürger durch
+                    Prädikanten. Heranzie<pb xml:id="P2_0000322"/> hung des Prälatenstandes zum
+                    Unterhalt der Hofkapelle und Verwendung der bisher dafür bereitgestellten
+                    landesfürstlichen Gelder zur Aufstellung einer Leibwache für Erzherzog Karl.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="213">Malaspina an Gallio - Graz, 1584 Oktober 22</head>
+            <div>
+                <p>La dieta universale fu da l’A. S. concessa<note xml:id="FN2_00213_01"
+                        type="footnote">Die landesfürstliche Resolution ist mit 18. Oktober datiert,
+                        war aber den ständischen Verordneten am 23. Oktober noch nicht bekannt
+                        (Loserth, FRA II/50, S. 563, Nr. 438).</note>con due restrictioni, cioè che
+                    non si faccia in essa mentione di religione pretestando etc.<note
+                        xml:id="FN2_00213_02" type="footnote"> Vgl. oben Nr. 206, Anm. 2.</note>et
+                    che coloro che in nome de le provincie saranno eletti habbino plenaria auttorità
+                    di risolvere et concludere senza aspettare assenso o confirmatione de li loro
+                    principali. L’A. S. vive con speranza et dice di haverne anco rincontri buoni
+                    che le limitationi proposte sono per essere di tanto momento et peso appresso li
+                    nobili che non si curaranno più di tal dieta,<note xml:id="FN2_00213_03"
+                        type="footnote"> Vor allem die steirischen Stände drängten aber weiter auf
+                        die Einberufung eines Universallandtages (Loserth, FRA II/50, S. 563, Anm.
+                        2).</note>et però qua al presente si vive senza sollicitudine quanto a
+                    questo particulare.</p>
+                <p>A la inhibitione fatta a li predicatori heretici circa l’astenersi di
+                    administrare li sacramenti<note xml:id="FN2_00213_04" type="footnote">Vgl. oben
+                        Nr. 209, Anm. 4.</note>hanno risposto li nobili che loro non possono
+                    chiudere la loro chiesa né impedire li cittadini et populari che non ci entrino
+                    a loro posta, al che si è replicato che S. A. suplirà in ciò a la impossibilità
+                    loro. Perilche stiamo con desiderio, aspettando che naschi qualche occasione o
+                    di copulare o di altro, per fare una prova del ardire di questi predicatori,
+                    contra quali S. A. mi promette di volere procedere se transgrediranno il
+                    precetto che li è stato fatto.</p>
+                <p>L’A. S. desidera una gratia da S. B.ne, la quale oltreché apportarà utile al A.
+                    S. sarà ancora subordinata al commodo del negotio de la religione. Tiene S. A.
+                    per servitio de la chiesa una capella con alcuni capellani et musici et altri
+                    officiali, ne quali spende ogni anno da XVIII in XX milia fiorini,<note
+                        xml:id="FN2_00213_05" type="footnote">Vgl. Thiel, Zentralverwaltung, S. 179,
+                        183, 194f.; siehe unten Nr. 219.</note>desiderarebbe di convertire questi
+                    dannari per ampliare la guardia de la persona sua, la quale però se non
+                    diretamente almeno indiretamente verrebbe a servire quasi per un mezzo presidio
+                    sufficiente a castigare li disobedienti et precipuamente li predicatori
+                    heretici, a quali al presente se contraveniranno al commandamento di S. A. forsi
+                    sarà altretanto difficile come pericoloso<pb xml:id="P2_0000323"/> il metterci
+                    le mani adosso. Ma perché non sarebbe né di decoro né di edificatione che l’A.
+                    S. si privasse di quella unica consolatione, che dice che resta in questo mondo,
+                    et ciò è d’una continua assistentia a li sacri officii, dal che lei afferma di
+                    ricevere tanta solevatione che senza essa malamente potrebbe suffrire non solo
+                    il peso, ma né il pensamento di esso di dover si guardare in casa da li heretici
+                    et di fuori di Turchi. <note xml:id="FN2_00213_06" type="footnote">Ende 1580
+                        gewährte der Papst Erzherzog Karl und Erzherzogin Maria auf ihre Bitte hin
+                        jedesmal, wenn sie in dieser Kapelle kommunizierten, einen vollkommenen
+                        Ablaß (Rainer, Grazer Nuntiatur I, S. 105f., 144).</note>L’uno et l’altro de
+                    quali stanno come arpie per ingiotirlo. Perciò col mezzo et favore di S. B.ne
+                    vorrebbe che li ecclesiastici et regulari pagassero la spesa, che fa ne la
+                    capella, et lei si obligarebbe a spendere altre tanta somma in stipendiare
+                    soldati per guardia de la persona sua. Né voglio tralasciare di significare a V.
+                    S. Ill.ma quello che me ha insinuato l’A. S., che si reputarebbe a gran vergogna
+                    quando N. S. cadesse in suspicione che lei si fosse indotta per interesse alcuno
+                    a promovere il negotio de la religione, et in verità me ha con tanto rispetto et
+                    verecondia ragionato di questo particolare che me ha fatto grandamente
+                    maravigliare, se bene mi son edificato non poco de la modestia et
+                    circonspettione sua, in effetto se si darà sodisfattione a S. A. in questo, sarà
+                    un obligarla a far ciò che si vorrà in servitio publico. Né al stato
+                    ecclesiastico sarà ciò di molto interesse, poiché includendo li parrochi et
+                    abbrazzando tutti indiferentemente verrà a toccare a ciascheduno di essi sì poca
+                    somma, che apena ascenderà ad un reale la portione di un anno.<note
+                        xml:id="FN2_00213_07" type="footnote"> Vgl. oben Nr. 187, Anm. 4.</note>Et
+                    poiché la maggior parte di essi convertono in usi poco leciti le intrate che
+                    hanno, sarà bene però conveniente che s’induchino a porgere voluntieri aiuto al
+                    A. S. in cosa che concerne il servitio et ben publico. Per li rispetti detti di
+                    sopra giudico veramente che sia espediente utile et necessario di dare ogni
+                    possibile sodisfattione al A. S., la quale è di natura et quando non fosse è
+                    hora in tal stato per la stretezza ne la quale si ritrova, che stimarà ogni
+                    gratia per picciola che sia mirabilmente, et per il contrario si servirà a suo
+                    tempo de le negative che li saranno date per palesare l’impossibilità sua, se
+                    non può essequire quello che li viene da li attinenti suoi et da altri
+                    raccordato <note xml:id="FN2_00213_08" type="footnote">Vgl. oben Nr.
+                    195.</note>. . . </p>
+            </div>
+        </body>
+    </text>
+</TEI>

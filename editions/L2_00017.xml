@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00017">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" notAfter="1582-08-15" cert="low" n="2">vermutlich vor
+                    1582-08-15</title>
+                <title level="a">17. (Augsburg, 1582 vor August 15)</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 537rv, 540v, gleichzeitige
+                            Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00017">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date notAfter="1582-08-15" n="2" cert="low"/>
+                    <placeName ref="#http://www.geonames.org/2954172" cert="low"
+                        >Augsburg</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00016.xml">16.
+                        (Augsburg, 1582 vor August 15)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00018.xml">18.
+                        Malaspina an Gallio - Augsburg, 1582 August 15</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Von Malaspina nach Absprache mit Kardinal Madruzzo den katholischen Reichsfürsten
+                    mitgeteilte Überlegungen über das Religionsgeschäft in Innerösterreich.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="17">(Augsburg, 1582 vor August 15)</head>
+            <div>
+                <p>Queritur an subditi illi, qui ad imperatorem et imperium confugiunt conquerendi
+                    gratia in religionis negotio de suo naturali et legitimo principe, qui non modo
+                    in iis, quae spectant ad religionem, sed neque in politicis quicquam tentavit
+                    unquam aut egit contra constitutiones imperii et pacificationem de religione
+                    admittendi et audiendi sint.<note xml:id="FN2_00017_01" type="footnote"
+                        >Augsburger Religionsfrieden.</note>
+                </p>
+                <pb xml:id="P2_0000025"/>
+                <p>Et primo videtur, quod non propterea quod nulla ratione imperium pati deberet
+                    eiusmodi aditum aperiri, ut scilicet subditis liceat ad imperium appellare
+                    contra voluntatem principis et contra pacificationem, per quam disponitur, ut
+                    dispositio religionis sit penes principem non subditos.<note
+                        xml:id="FN2_00017_02" type="footnote">Am Rand vermerkt: „Quamquam res ita
+                        sese habeat, tamen difficile erit impedire, ne audiantur“.</note>Si tamen
+                    admittendi audita eorum petitione reiiciendi essent, eo quod licet a principe
+                    omnia nobilibus, quae quidem appetunt, concessa sint, suscipiunt tamen
+                    patrocinium civium et popularium, qui sunt principi immediate subiecti. Nec
+                    referret si ipsi dicerent habere ab eis legitimum mandatum, nam cum petitio
+                    civium sit contra imperii pacificationem in causa religionis, non possunt
+                    nobiles iusto et legitimo aliquo titulo causam illorum patrocinari.<note
+                        xml:id="FN2_00017_03" type="footnote"> Am Rand vermerkt: „In hoc erit
+                        magnopere insistendum“.</note>
+                </p>
+                <p>Et casu, quod admittantur, an non modo sint illis, quas postulant literae
+                    concedendae, sed potius ab imperatore et aliis principibus scribendum principi
+                    eum admonendo, ut quod caepit perficere contendat.<note xml:id="FN2_00017_04"
+                        type="footnote">Am Rand vermerkt: „Hic praestabunt catholici
+                        principes“.</note>
+                </p>
+                <p>An accepta eorum petitione catholici principes ab haereticis disiuncti vel
+                    invicem debeant illis respondere.<note xml:id="FN2_00017_05" type="footnote">Am
+                        Rand vermerkt: „De hoc non est adhuc deliberatum“.</note>
+                </p>
+                <p>An sit agendum cum imperatore, electoribus ceterisque principibus, ne quenquam
+                    illorum ad se accedere patiantur.<note xml:id="FN2_00017_06" type="footnote">Am
+                        Rand vermerkt: „Videtur maxime expedire“.</note>
+                </p>
+                <p>An principibus haereticis possit inhiberi, ne eorum nomine, qui sunt novae
+                    religionis, dent literas, quibus principem a decreti promulgati executione
+                        deterreant.<note xml:id="FN2_00017_07" type="footnote">Am Rand vermerkt:
+                        „Nullo pacto fieri potest“.</note>
+                </p>
+                <p>An nuntius oretenus sicut fecit ita scriptis etiam imperatorem et alios principes
+                    informare debeat vel id a procuratore S. Ser.tis faciendum sit.<note
+                        xml:id="FN2_00017_08" type="footnote">Am Rand vermerkt: „Nondum est
+                        consultatum“.</note>
+                </p>
+                <p>In causa Hoffmanni</p>
+                <p>An mittendus sit aliquis ad episcopum<note xml:id="FN2_00017_09" type="footnote"
+                        >Martin von Eyb, 1581—1583 Bischof von Bamberg.</note>cum processu formato a
+                    commissariis nuntii <note xml:id="FN2_00017_10" type="footnote">Im Auftrag
+                        Malaspinas wurde im Frühjahr 1582 die Inquisition gegen Hoffmann begonnen,
+                        wobei aber aus Angst nur wenige auszusagen wagten (Rainer, Grazer Nuntiatur
+                        I, S. 395, 398 und 403f.).</note>et cum memoriali hic principibus exhibito
+                        <pb xml:id="P2_0000026"/>presertim cum iam advenerit Hoffmanus. Qua in re ea
+                    fuit sententia nuntii, quod si Summus Pontifex, postquam viderit suas
+                    admonitiones inanes fuisse, aget contra episcopum, sicuti eius inobedientia
+                    exiget, omnino mittendus esset aliquis, qui hanc S. S.tis mentem episcopo
+                    indicaret. Sin autem gravioribus de causis non videtur aliquid momenti contra
+                    episcopum attentandum, iudicatur magis expedire, ne mittatur, cum nulla sit spes
+                    fore, ut hac re effecta amoveatur ab eo Hoffmanus.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

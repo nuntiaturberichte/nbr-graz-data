@@ -1,226 +1,234 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_050.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-06-26" n="1">1599-06-26</title>
-                    <title level="a">50.1. San Giorgio an Portia - Rom, 1599 Juni 26</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 8r–10v,
-								Reg.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="druck">
-						<lb/>Teildruck: VERESS, Epistolae, S. 333 (Anm. 1).</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_050.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1599-06-26" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_049.6.xml">49.6. (Portia an Aldobrandini) - (Graz, 1599 Juni 21)</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_050.2.xml">50.2. Aldobrandini an Portia - Rom, 1599 Juni 26</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_049.2.xml">49.2. Portia an San
-                            Giorgio - Graz, 1599 Juni 21</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_051.1.xml">51.1. Portia an San
-                            Giorgio - Graz, 1599 Juni 28</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Bischof von Lavant [Stobaeus] hat möglicherweise der Konzilskongregation
-						Bericht erstattet, nicht aber an San Giorgio. An den Bischof von Seckau
-						[Brenner] wird mit einer späteren Postsendung ein Breve ergehen.
-						Verhandlungen zwischen Kardinal von Lothringen [Karl] und Erzherzog Leopold
-						wegen des Bistums Straßburg. Die Angelegenheit von Passau ist hoffentlich
-						inzwischen erledigt. Eine Übereinkunft in der Uskokenfrage scheint nur
-						schwer erreichbar zu sein. Flaminio Delfini befindet sich in Prag. Ankunft
-						P. Carrillos in Rom. P. Ludwig von Einsiedel wird so bald als möglich nach
-						Graz geschickt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="50.1">San Giorgio an Portia - Rom, 1599 Juni 26</head>
-				<div>
-					<p>Se è vero che il Vescovo di Lavant habbia cominciato a dar conto a Roma dello
-						stato della sua chiesa et de Monasterii vicini, l’haverà dato facilmente
-						alla Congregatione del Concilio<note xml:id="FN5_050.1_01" type="footnote">Nach dem Konzil von Trient hatte Pius IV. 1564 die Sacra Congregatio
-							super executione et observantia sacri Concilii Tridentini et aliarum
-							reformationum mit der Aufgabe der Einhaltung und Interpretation der
-							Dekrete des Konzils von Trient eingerichtet. Mit zahlreichen Fakultäten
-							ausgestattet, nahm die Konzilskongregation innerhalb der Kurie eine
-							bedeutende Rolle ein. Ab dem 17. Jahrhundert wurden die
-							Zuständigkeitsbereiche zunehmend eingeschränkt, 1967 wurde sie in die
-							Congregazione per il Clero umbenannt und ihre Aufgaben neu definiert:
-							vgl. DEL RE, Curia Romana, S. 161–173. Zum Bericht des Bischofs von
-							Lavant an Clemens VIII.: vgl. Nr. 46.3.</note>, della quale sono proprie
-							materie<pb xml:id="P5_0000112"/> simili, perché a me almeno non sono
-						capitate lettere sue sino adesso. Procurerò tuttavia di chiarirmene meglio
-						della via ch’egli ha presa havendone presa alcuna, et come farei sin qui con
-						poca occasione l’officio che V. S. propone di esortarlo a visitare la sua
-						diocese ogn’anno et ad erigere il Seminario<note xml:id="FN5_050.1_02" type="footnote">Nr. 46.3.</note>, così lo farò tanto più pienamente
-						all’hora o procurerò che lo faccia la Congregatione se ad essa havrà
-						scritto. Alla lettera del Vescovo di Seccovia si risponde col Breve qui
-							aggiunto<note xml:id="FN5_050.1_03" type="footnote">Clemens VIII. an
-							Brenner, Rom, 1599 Juni 26: NANNIIMRKONJIé 3, Nr. 13225. Vgl. Nr.
-							46.3.</note> et se ben N. S. resta edificato del suo zelo et inclina o
-						più tosto è disposta alla gratia della prorogatione et assolutione ch’egli
-						domanda, vuole nondimeno che passi per la ordinaria via della predetta
-						Congregatione, et così si dice a lui medesimo.</p>
-					<p>Di quello che passò fra il Sig. Cardinale di Lorena et l’Arciduca Leopoldo in
-						materia della Chiesa di Argentina si hebbe qui la notitia che presuppone V.
-						S., ma non si è poi inteso che si sia venuto fra loro a più stretta
-						trattatione, et come se sia ha meritato lode di gran pietà il ser.mo
-						Arciduca col rispondere nel senso che V. S. rappresenta a chi gl’ha riferto
-						che non comportarebbero alcun Ministro Apostolico nella predetta Chiesa
-						quando succedesse a Leopoldo di entrar nelle ragioni del Cardinale.
-						Altretanto biasimo merita bene quel Decano<note xml:id="FN5_050.1_04" type="footnote">Franz zu Criechingen und Pittingen: vgl. Nr.
-							46.2.</note> il quale sicome si mostra temerariissimo co’ l’esibirsi per
-						instromento della inobedienza di quel Capitolo, così riuscirebbe forsi
-						bugiardo se il caso avenisse et conservasse la sua constanza il ser.mo
-						Arciduca, come non se ne può dubitare<note xml:id="FN5_050.1_05" type="footnote">Vgl. Nr. 46.2.</note>.</p>
-					<p>Ai disordini di Possa confido che si sarà già rimediato, essendo un pezzo che
-						s’inviò ordine a V. S. di conferirsi a quella Città et di far la deputatione
-						dell’Amministratore.</p>
-					<p>Si è faticato et si fatica N. S. affinchè non seguano maggiori mali per
-						cagione degl’Uscocchi, ma si scopre troppo gran temerità delle opinioni et
-						pretensioni proprie in ciascuna delle parti; et in Corte Cesarea
-						particolarmente ci accorgiamo che si prendono di molti errori, et essendo a
-						Praga il Sig. Flaminio<note xml:id="FN5_050.1_06" type="footnote">Flaminio
-							Delfini: vgl. Nr. 12.2. Delfini war am 11. Miirz 1599 in Prag
-							eingetroffen, nachdem es aber in den Verhandlungen keine Fortschritte zu
-							verzeichnen gab, reiste er auf Anweisung der Kurie am 18. April 1600 von
-							dort wieder ab: vgl. HORVAT 1, S. 199, 294. Der Verlauf der mühevollen
-							und langwierigen Verhandlungen am Kaiserhof kann unter anderem in den
-							regelmäßigen Berichten des venezianischen Botschafters am Kaiserhof,
-							Francesco Vendramin, an den Dogen von Venedig, Marino Grimani,
-							nachvollzogen werden: vgl. HHStA, Dispacci di Germia 29 (Kopien der an
-							Italien restituierten Originale).</note> per questo sol negotio et
-						commissioni a Venetia<pb xml:id="P5_0000113"/> che il Nuntio<note xml:id="FN5_050.1_07" type="footnote">Offredo Offredi: vgl. Nr.
-							29.1.</note> aiuti in quanto può, non sapressimo che farci
-						d’avantaggio.</p>
-					<p>Arrivò qui il P. Cariglio l’altro hieri et è stato con me un gran pezzo, ma
-						con N. S. non ha parlato sin’hora per le solite occupationi di questi due
-						giorni et haverà prestissimo la sua prima audienza.</p>
-					<p>Il P. Sassone è così caro nel luogo ove si trova di presente che a pena si è
-						trovata via di levarlo di là per mandarlo a Gratz, et quando si erano
-						superate le difficoltà che risguardavano alla sodisfattione et servitio
-						dell’Arciduchessa Anna d’Ispruch se ne sono scoperte dell’altre. Io non
-						mancherò tuttavia di procurar ch’egli venga ad impiegar il suo talento
-						costà, se pur sarà possibile che lo faccia<note xml:id="FN5_050.1_08" type="footnote">Vgl. Nr. 46.4.</note>. …</p>
-					<p>N. S. ha poi risoluto di non voler risponder per ancora al Vescovo di
-						Seccovia, onde il Breve<note xml:id="FN5_050.1_09" type="footnote">Clemens
-							VIII. an Brenner, Rom, 1599 Juni 26: NANNIIMRKONJIé 3, Nr. 13225.</note>
-						non sarà con questa come se l’è detto sopra.</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_050.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-06-26" n="1">1599-06-26</title>
+                <title level="a">50.1. San Giorgio an Portia - Rom, 1599 Juni 26</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 8r–10v,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="druck">
+                        <lb/>Teildruck: VERESS, Epistolae, S. 333 (Anm. 1).</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_050.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1599-06-26" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_049.6.xml"
+                        >49.6. (Portia an Aldobrandini) - (Graz, 1599 Juni 21)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_050.2.xml">50.2.
+                        Aldobrandini an Portia - Rom, 1599 Juni 26</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_049.2.xml">49.2. Portia an San
+                        Giorgio - Graz, 1599 Juni 21</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_051.1.xml">51.1. Portia an San
+                        Giorgio - Graz, 1599 Juni 28</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bischof von Lavant [Stobaeus] hat möglicherweise der Konzilskongregation Bericht
+                    erstattet, nicht aber an San Giorgio. An den Bischof von Seckau [Brenner] wird
+                    mit einer späteren Postsendung ein Breve ergehen. Verhandlungen zwischen
+                    Kardinal von Lothringen [Karl] und Erzherzog Leopold wegen des Bistums
+                    Straßburg. Die Angelegenheit von Passau ist hoffentlich inzwischen erledigt.
+                    Eine Übereinkunft in der Uskokenfrage scheint nur schwer erreichbar zu sein.
+                    Flaminio Delfini befindet sich in Prag. Ankunft P. Carrillos in Rom. P. Ludwig
+                    von Einsiedel wird so bald als möglich nach Graz geschickt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="50.1">San Giorgio an Portia - Rom, 1599 Juni 26</head>
+            <div>
+                <p>Se è vero che il Vescovo di Lavant habbia cominciato a dar conto a Roma dello
+                    stato della sua chiesa et de Monasterii vicini, l’haverà dato facilmente alla
+                    Congregatione del Concilio<note xml:id="FN5_050.1_01" type="footnote">Nach dem
+                        Konzil von Trient hatte Pius IV. 1564 die Sacra Congregatio super executione
+                        et observantia sacri Concilii Tridentini et aliarum reformationum mit der
+                        Aufgabe der Einhaltung und Interpretation der Dekrete des Konzils von Trient
+                        eingerichtet. Mit zahlreichen Fakultäten ausgestattet, nahm die
+                        Konzilskongregation innerhalb der Kurie eine bedeutende Rolle ein. Ab dem
+                        17. Jahrhundert wurden die Zuständigkeitsbereiche zunehmend eingeschränkt,
+                        1967 wurde sie in die Congregazione per il Clero umbenannt und ihre Aufgaben
+                        neu definiert: vgl. DEL RE, Curia Romana, S. 161–173. Zum Bericht des
+                        Bischofs von Lavant an Clemens VIII.: vgl. Nr. 46.3.</note>, della quale
+                    sono proprie materie<pb xml:id="P5_0000112"/> simili, perché a me almeno non
+                    sono capitate lettere sue sino adesso. Procurerò tuttavia di chiarirmene meglio
+                    della via ch’egli ha presa havendone presa alcuna, et come farei sin qui con
+                    poca occasione l’officio che V. S. propone di esortarlo a visitare la sua
+                    diocese ogn’anno et ad erigere il Seminario <note xml:id="FN5_050.1_02"
+                        type="footnote">Nr. 46.3.</note>, così lo farò tanto più pienamente all’hora
+                    o procurerò che lo faccia la Congregatione se ad essa havrà scritto. Alla
+                    lettera del Vescovo di Seccovia si risponde col Breve qui aggiunto<note
+                        xml:id="FN5_050.1_03" type="footnote"> Clemens VIII. an Brenner, Rom, 1599
+                        Juni 26: NANNIIMRKONJIé 3, Nr. 13225. Vgl. Nr. 46.3.</note>et se ben N. S.
+                    resta edificato del suo zelo et inclina o più tosto è disposta alla gratia della
+                    prorogatione et assolutione ch’egli domanda, vuole nondimeno che passi per la
+                    ordinaria via della predetta Congregatione, et così si dice a lui medesimo.</p>
+                <p>Di quello che passò fra il Sig. Cardinale di Lorena et l’Arciduca Leopoldo in
+                    materia della Chiesa di Argentina si hebbe qui la notitia che presuppone V. S.,
+                    ma non si è poi inteso che si sia venuto fra loro a più stretta trattatione, et
+                    come se sia ha meritato lode di gran pietà il ser.mo Arciduca col rispondere nel
+                    senso che V. S. rappresenta a chi gl’ha riferto che non comportarebbero alcun
+                    Ministro Apostolico nella predetta Chiesa quando succedesse a Leopoldo di entrar
+                    nelle ragioni del Cardinale. Altretanto biasimo merita bene quel Decano<note
+                        xml:id="FN5_050.1_04" type="footnote">Franz zu Criechingen und Pittingen:
+                        vgl. Nr. 46.2.</note>il quale sicome si mostra temerariissimo co’ l’esibirsi
+                    per instromento della inobedienza di quel Capitolo, così riuscirebbe forsi
+                    bugiardo se il caso avenisse et conservasse la sua constanza il ser.mo Arciduca,
+                    come non se ne può dubitare <note xml:id="FN5_050.1_05" type="footnote">Vgl. Nr.
+                        46.2.</note>.</p>
+                <p>Ai disordini di Possa confido che si sarà già rimediato, essendo un pezzo che
+                    s’inviò ordine a V. S. di conferirsi a quella Città et di far la deputatione
+                    dell’Amministratore.</p>
+                <p>Si è faticato et si fatica N. S. affinchè non seguano maggiori mali per cagione
+                    degl’Uscocchi, ma si scopre troppo gran temerità delle opinioni et pretensioni
+                    proprie in ciascuna delle parti; et in Corte Cesarea particolarmente ci
+                    accorgiamo che si prendono di molti errori, et essendo a Praga il Sig.
+                        Flaminio<note xml:id="FN5_050.1_06" type="footnote">Flaminio Delfini: vgl.
+                        Nr. 12.2. Delfini war am 11. Miirz 1599 in Prag eingetroffen, nachdem es
+                        aber in den Verhandlungen keine Fortschritte zu verzeichnen gab, reiste er
+                        auf Anweisung der Kurie am 18. April 1600 von dort wieder ab: vgl. HORVAT 1,
+                        S. 199, 294. Der Verlauf der mühevollen und langwierigen Verhandlungen am
+                        Kaiserhof kann unter anderem in den regelmäßigen Berichten des
+                        venezianischen Botschafters am Kaiserhof, Francesco Vendramin, an den Dogen
+                        von Venedig, Marino Grimani, nachvollzogen werden: vgl. HHStA, Dispacci di
+                        Germia 29 (Kopien der an Italien restituierten Originale).</note>per questo
+                    sol negotio et commissioni a Venetia<pb xml:id="P5_0000113"/> che il Nuntio
+                        <note xml:id="FN5_050.1_07" type="footnote">Offredo Offredi: vgl. Nr.
+                        29.1.</note>aiuti in quanto può, non sapressimo che farci d’avantaggio.</p>
+                <p>Arrivò qui il P. Cariglio l’altro hieri et è stato con me un gran pezzo, ma con
+                    N. S. non ha parlato sin’hora per le solite occupationi di questi due giorni et
+                    haverà prestissimo la sua prima audienza.</p>
+                <p>Il P. Sassone è così caro nel luogo ove si trova di presente che a pena si è
+                    trovata via di levarlo di là per mandarlo a Gratz, et quando si erano superate
+                    le difficoltà che risguardavano alla sodisfattione et servitio dell’Arciduchessa
+                    Anna d’Ispruch se ne sono scoperte dell’altre. Io non mancherò tuttavia di
+                    procurar ch’egli venga ad impiegar il suo talento costà, se pur sarà possibile
+                    che lo faccia<note xml:id="FN5_050.1_08" type="footnote">Vgl. Nr. 46.4.</note>.
+                    …</p>
+                <p>N. S. ha poi risoluto di non voler risponder per ancora al Vescovo di Seccovia,
+                    onde il Breve<note xml:id="FN5_050.1_09" type="footnote">Clemens VIII. an
+                        Brenner, Rom, 1599 Juni 26: NANNIIMRKONJIé 3, Nr. 13225.</note>non sarà con
+                    questa come se l’è detto sopra.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

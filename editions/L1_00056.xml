@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00056">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1580-12-24" n="1">1580-12-24</title>
+				<title level="a">56. Evangelische Stände Steiermarks an Malaspina - Graz, 1580
+					Dezember 24</title>
+				<author>Evangelische Stände Steiermarks</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Graz LA, Landtagsakten 422, Konzept.<lb/>Ebenda Hs. 1167, f.
+							232v—233/2r, Kop.<lb/>Regest: Loserth, Reformation und Gegenreformation,
+							S. 339 f.<lb/>Derselbe: FRA II/50, S. 139.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00056">
+				<correspAction type="sent">
+					<persName>Evangelische Stände Steiermarks</persName>
+					<date when="1580-12-24" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+				</correspAction>
+				<correspContext>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00055.xml">55.
+						Malaspina an Gallio - Graz, 1580 Dezember 20</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00057.xml">57.
+						Gallio an Malaspina - Rom, 1580 Dezember 31</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Scharfe Verwahrung gegen Tätigkeit Malaspinas.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="56">Evangelische Stände Steiermarks an Malaspina - Graz, 1580 Dezember
+				24</head>
+			<div>
+				<p>Hochwürdiger und hochgeborener fürst und herr.</p>
+				<p>Wir haben bey dießen itzt gehaltenen ungewönlichen unnd gantz beschwarlichen
+					lantag aus der Fürstlichen Durchleuchtickhait Ertzhertzog Carls zu Österreich
+					unsers guten herrns unnd landtsfürstens unns uberraichten schriefften unnd
+						relligionshandlungen<note xml:id="FN1_00056_01" type="footnote"
+						>Landtagsproposition vom 19./21. November 1580 (Graz LA, Landtagsakten 421),
+						Religionsdekret vom 10. Dezember (Nr. 50) und landesfürstliche Antwort an
+						die Stände vom 18. und 23. Dezember (Loserth, FRA II /50, S. 101—114 und 133
+						f.).</note>lautter wahr genuemen unnd verstanden wosmassen der herr seines
+					theils als des <pb xml:id="P1_0000162"/>Romani Pontificis Nuneius alhie
+					hochernenter I. F. D. durch allerley persuasionen und einbildung auch starckher
+					bedroungen gleichsam dahin dringen und tzwingen thut, das I. F. D. dasjenig so
+					unns in der erbhuldigung mit leiblichen gethanen ayde zugesagt unns nemblich bey
+					allen unsern freyhaitten, Privilegien, erhaltenen löblichen gebräuchen unnd
+					gewohnhaiten, wie es I. F. D. in derselben eintrettung der landtsfürstlichen
+					Regierung gefunden, zu halten unnd dabei handtzuhaben, daneben auch was I. F. D.
+					abermals mit zeyttigem rath mit landtsfürstlichen hochbeteuerten wortten zu
+					vielmaln treuhertzig geredt, zugesagt unnd versprochen unns bey unserer
+					christlichen erkhenten unnd bekhenten Augspurgischen Confession unsern von
+					alters here habunden khirchen unnd schuelen, rechten und gewonhaitten umbetrübt
+					und umbekhummert bleiben zu lassen, wie dan denen herrn ungezweiffelt solchs mit
+					mehrern ist fürkhommen und bewüst und also die erbhuldigung pacta promissa
+					auffgerichten pacificationes, alles hindan setzen nichts darnach fragen und
+					deren khains nit halten solle, noch zu halten schuldig sein,<note
+						xml:id="FN1_00056_02" type="footnote"> Vgl. Nr. 27.</note>daneben auch von
+					denen benachtparten und walischen fürsten grossen einfal ins lanndt und bella
+					denunciren <note xml:id="FN1_00056_03" type="footnote">Siehe Nr. 16, S.
+						65.</note>auch gegen I. F. D. habt vernemen lassen wie dan solchs I. F. D.
+					übergebene schrifften mit mehrern ausweißen und lautter am tag geben, welchs
+					zwar wir unns zu denchen khains wegs versehen, das der herr eben alhie in diesen
+					one das auffs höchst bedrängten und gleich in des erbfeindts gewalt und rachen
+					steckhenden landen, welche Gott lob in allen trewen und gehorsam I. F. D.
+					zugethan und bißhero all ih vermügen an leib, gutt und bluet zu allemund ieden
+					nötten bey I. F. D. und zu rettung des geliebten vatterlandts gegen diesen
+					bluetdürstigen erbfeindt der gantzen Christenhait auffgesetzt, ein solche
+					erbärmliche Verwirrung und Verwüstung dadurch anzurichten gedengkt und nit
+					trewhertzig ertragen wil ob es sich alhie in diesem lanndt Steyr (welches vor
+					allen andern der ganzen teutschen nation, fürstenthumben und landen hoch und in
+					sonderhait befreyt, daher auch von alters hero die freyen Steyrer genant werden)
+					wie etwa anderer ortten wieder die gethane erbhuldigung, freyhaitten, rechten
+					und gewonhait, sunderlich des gar an der haut anligenden erbfeindts und des
+					gemainen manns bey den besten ortten dieses landts als perckwerckhen und
+					dergleichen besorgenden verderblichen empörung halber khan thuen lassen oder
+					nit, welches verderben nit <pb xml:id="P1_0000163"/>allain dem gantzen Hauß
+					Österreich sondern der gantzen Christenhait zu mercklicher unwiederbringlichen
+					schaden und nachtl ervolgen müste, das alles der herr viel mit mehrern als ein
+					verständiger erwegen und ein solchs verderben von der Christenhait vielmehr
+					abwenden als so unnötter ding ein so plötzlichs unversehens weit umb sich
+					reissendt übel in unserm geliebten vatterlandt anrichten solle helffen. Wir
+					haben gleichwol solchs alles I. F. D. unserm gnedigsten herrn und landtsfürsten
+					itzt verschienen tagen weitläuffiger ausgefürt <note xml:id="FN1_00056_04"
+						type="footnote">Anbringen der der Augsburger Konfession zugetanen Stünde vom
+						15. und 21. Dezember auf das landesfürslliche Religionsdekret vom 10.
+						Dezember und die landesfürstliche Antwort an die Stände vom 18. Dezember
+						(Loserth, FRA II/50, S. 85—101 und 114—130).</note>und als gehorsamiste
+					khinder ihren getrewen vattern das alles clagt und lautter zu verstehn geben,
+					welche solche beschwarliche handlung in dießen landen anzurichten gedenckhen,
+					das es viel rathsamer sie stunden von solchen ihren beginnen zeytlich, dan
+					alleweil unns so öffentlich mit frembder nation und den benachtparten gedroet
+					und wir etwa gedrungenlich zu billicher und rechtmässiger I. F. D. und des
+					geliebten vatterlandts defension greiffen müsten so wollen wir vor Gott und der
+					gantzen Christenhait entschuldiget sein, das wir es höchstgedrungener nott
+					fürkheren, I. F. D. als unsern hochgeliebten herrn und landtsfürsten diß orts
+					ainiche unbilliche nachrede nit anlegen lassen viel weniger denselben
+					benachtparten und allen ihren anhengigen oder helfern ainich unfueg nit
+					gestatten khünnen, dan wie das göttliche wort leret was ir wollet das auch die
+					menschen thuen, ihr solchs hinwieder thuen sollet. Also möchte es in der leng
+					ein bößen ausgang gewinnen do wir in unsern lieben vatterlandt nit allain solche
+					öffentliche bedroung sondern würkliche dergleichen Sachen ins werck richtig
+					wahrnehmen solten.</p>
+				<p>Sunderlich aber müssen wir solchs im faal es ie nit anders sein khan und wir es
+					gern als viel es immer sein khündt unterlassen wollen alsbaldt dem Hl. Römischen
+					Reich unter des schutz und scherm wir inhalt unserer freyhaitten sein mit
+					höchster beschwer fürbringen,<note xml:id="FN1_00056_05" type="footnote">Im
+						Sommer 1582 schickten die innerösterreichischen Stände Gesandte wegen der
+						Religionsangelegenheit zum Reichstag nach Augsburg (Hansen,
+						Nuntiaturberichte III/2, S. 515; Loserth, FRA II/50, S. 345 f.).</note>das
+					wir wieder unser erbhuldigung freyhaitten, alten wohlhergebrachten gutten
+					gewonhaiten, religions pacificationen, unsers frommen herrn und landtsfürsten
+					hohen contestationen, wieder gott, recht und alle billickhait von frembden
+					personell und nationen gedrungen und dieße <pb xml:id="P1_0000164"/>getrewe
+					leute, welche mit ihren so beschwarlichen anlagen, darstreckhung leibs, gutts
+					und bluets den erbfeindt ihres ausseristen Vermögens auffhalten helffen, an itzo
+					alles über und über gestossen und die frembde nationen uns auff den halß geladen
+					werden wollen.</p>
+				<p>Immassen wir auch die andern unsre benachparte N. Ö. lande solchs erinnert und
+					durch allerley gebürliche miti und weeg die Sachen dahin zu bringen verhoffen,
+					auff das I. F. D. unser gnedigster herr und landtsfürst anders nichts spüren
+					solle, dan das wir als gehorsamiste und getrewe unterthane bey I. F. D. stehn
+					und bleiben, unser geliebtes vatterlandt noch lenger mit liilff des Allmächtigen
+					in rhue und ainickhait erhalten wollen helffen.</p>
+				<p>Welchs alles wir dem herm darumben hiemit erinnern, auff das der herr und alle
+					diejenigen so an itzo in unsern lieben vatterlandt so unerhörte Sachen
+					attentiren und denunciren treulich gewarnet und daneben gebeten sein wolle, das
+					der herr seines thails den Sachen tieffer nachdenckhe und sich selbst sambt alle
+					benachparte so wol diese N. ö. lande für erschreckliche verderben unnd
+					unwiederbringlichen schaden und nachtl verhütten wolle helffen, welchs do es
+					also beschicht wir es umb den herrn zu verdienen berait und willig wie dan in
+					widrigen faal der herr ime selbst ein schwäre Verantwortung vor Gott unnd dem
+					heyligen Reich in der gantzen Christenhait auffladen und zu seiner zeyt die
+					straff gewißlich nit außbleiben würde. Und bietten dieße unsre wolmainende
+					christliche trewe Warnung, die wir auff gutt deutsch den herrn hiemit fürbringen
+					im besten wie wir es anderer gestalt nit mainen von unns anzunemen und zu
+					behertzigen. Insunderhait aber so wolle der herr darauff guett acht geben, das
+					wir die raine Augspurgische Confession haben und bekhennen,<note
+						xml:id="FN1_00056_06" type="footnote">Vgl. Nr. 55, Anm. 6.</note>welche in
+					heyligen göttlichen wort der propheten und aposteln auch alten vatter lehr wol
+					fundirt und eben diese ist durch khaiser Carl und khaiser Ferdinandum
+					hochloblich gedächtnis denen Reichsständen dise Confession zuegethon mit Reichs
+					Constitutionen neben der Catholischen Römischen Religion zuegelassen und also
+					ainiche khetzerische und wiederwertige lehr oder ceremonien kliains wegs foviren
+					und do der herr dessen nit genügsamen bericht hat sein wir urbiettig solche
+					unser christliche bekhantniß, wie die auch an itzo durch die stände des heyligen
+					Reichs dieser confession zugethan von newen in druck gefertigt und wiederholet
+					ist, dem herrn zu ubergeben und zuzustellen.</p>
+				<pb xml:id="P1_0000165"/>
+				<p>Unns alle hieneben dem Almechtigen bevelhend.<note xml:id="FN1_00056_07"
+						type="footnote">Siehe Nr. 59, S. 169.</note>Gratz den 24 december anno
+						1580.<note xml:id="FN1_00056_08" type="footnote"> Malaspina weigerte sich,
+						dieses Schreiben anzunehmen (Loserth, FRA II/50, S. 163).</note>
+				</p>
+				<p>Ein E. L. des hertzogtumbs Steyr der Augspurgischen Confession zugethan.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

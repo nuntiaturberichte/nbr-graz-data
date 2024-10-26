@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00042">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1592-10-24" n="1">1592-10-24</title>
+                <title level="a">42. Aldobrandini an Portia - Rom, 1592 Oktober 24</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+                                Heinz</persName>
+                            <persName>Rainer Christian</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+                            Kobenzl; 1592-1595</title>
+                        <idno type="ISBN">3-7001-2964-5</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2001</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturinstitut
+                                    in Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="3">3. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="484">484 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturinstitut in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. F. Borg. III, vol. 49 a, f. 5r–8v, Kopie</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L3_00042">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1592-10-24" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L3_00041.xml">41.
+                        Aldobrandini an Portia - Rom, 1592 Oktober 17</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L3_00043.xml">43. B.
+                        Spaur von Gurk an Minucci - Straßburg, 1592 Oktober 24</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00041.xml">41. Aldobrandini an Portia
+                        - Rom, 1592 Oktober 17</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L3_00047.xml">47. Aldobrandini an Portia
+                        - Rom, 1592 Oktober 31</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bau einer venezianischen Festung auf österreichischem Boden an den Grenzen
+                    Friauls zum Vorteil Italiens und Österreichs ein Anliegen des Papstes.
+                    Behandlung der vier in Salzburg lebenden Berchtesgadener Mönche.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="42">Aldobrandini an Portia - Rom, 1592 Oktober 24</head>
+            <div>
+                <p>Considera N. S. così gran servitio che può risultare a tutta l’Italia et alla
+                    medesima casa d’Austria dal concedersi qualche opportuno suo alla republica di
+                    Venetia per piantare la fortezza a quei confini del Friuli<note
+                        xml:id="FN3_00042_01" type="footnote">Siehe Nr. 21, 27, 47.</note>che se ben
+                    dalla corte cesarea viene risposta di debole speranza <note
+                        xml:id="FN3_00042_02" type="footnote">Bedenken kamen nicht nur der
+                        Regierung, sondern auch die Verordneten der Grafschaft Görz wollten nicht,
+                        dass die Venezianer auf österreichischem Gebiet gegen Karfreit oder Tolmein
+                        die Straße verbesserten oder aus den landesfürstlichen Wäldern Holz für den
+                        Bau der Festung erhalten: Görz, Archivio Storico Provinciale P 16, Nr. 24,
+                        f. 481–485. 539–546.</note>, vede S. S.tà <pb xml:id="P3_0000073"/>ch’ella
+                    nasce da poca intelligenza del fatto et da certo giuditio corrotto da passioni
+                    de ministri, li quali se vedessero con questa negativa di poter impedire tutto
+                    ’l disegno, saria da credere che persisteriano senz’altro, ma sentano i
+                    preparamenti di volerla fare in ogni modo in altra parte, saranno ben ciechi da
+                    vero, se non conosceranno il suo vantagio, et in ciò sono i signor venetiani
+                    così risoluti che se non fosse stata ritardata l’essecutione da questo nuovo
+                    forte proposito spontaneamente da S. B.ne chiara cosa è che a quest’hora si
+                    sariano designati i fondamenti, però con questa certezza che cotal piazza
+                    s’habbia a fabricare et debba necessariamente essere contigua a tutti della casa
+                    d’Austria che tiene con la republica di Venetia confini tanto intricati et
+                    concentrati, vuole in ogni modo S. S.tà che V. S. Rev.ma ne dia un assalto
+                    gagliardo all’arciduca Ernesto adoprando gl’argomenti accennabili nella prima
+                    commissione del publico beneficio, et dell’utile privato della casa d’Austria,
+                    la quale se denegasse così honesta dimanda correria sempre pericolo d’essere
+                    imputata de qualche travaglio che ne potesse ricevere l’Italia poiché ella in
+                    questo modo si potria assicurare co’l finire la fortezza di Carlostadio de i
+                    danari che si potriano cavare da venetiani <note xml:id="FN3_00042_03"
+                        type="footnote">1578 bewilligte der Papst 40000 scudi für Befestigungen an
+                        der Türkengrenze, wovon ca. 20000 für den Bau von Karlstadt herangezogen
+                        wurden. Innerösterreich hat außer umfangreichen Robotleistungen 350000 fl
+                        zum Bau der Festung Karlstadt beigetragen: Rainer, GN I, 204 A. 28.</note>,
+                    et con la piazza ch’essi fabricano in luoco opportuno, il quale potria portare
+                    questo vantagio di più che sendo difeso in parte dalla natura, haveria bisogno
+                    de presidii minori dove facendosi in parte piana s’haverà a mantenere con
+                    soldatesca numerosa, la quale raddoppierà a . . . le causa di sospetti et di
+                    diffidenza, le ragioni sono tutte palpabili, a chi le ascolta senza
+                    preoccupatione di contrario effetto, et dalla bocca di V. S. Rev.ma usciranno
+                    efficaci, poiché si tratta di difendere la sua propria casa, oltre la cura che
+                    deve essere in lei di ben essequire gl’ordini di N. S., il quale in somma vorria
+                    ch’ella si sforzasse di persuadere l’arciduca Ernesto ad intendere bene il
+                    negotio et volerlo anco far . . .apiare nella corte cesarea per il qual’effetto
+                    alla forza della ragioni aggiongerà V. S. Rev.ma anco il desiderio di S. B.ne al
+                    cui amore che si dichiarerà ogni dì con opere maggiori, si deve pur
+                    corrispondere almeno in quelle cose, ove se pur si vuol ascondere l’evidenza
+                    dell’utilità privata et publica, almeno niuno potrà mai dire che sieno dannose,
+                    poiché, come s’è detto, la fortezza s’ha da fare in ogni modo et forse il fuoco
+                    che s’eleggora (?) sarà alla casa d’Austria più disavantagioso che quello che da
+                        lei<pb xml:id="P3_0000074"/> s’accettarebbe con buona compensa, et con
+                    obligatione grande, et che saria causa di maggiore colleganza ne communi
+                    pericoli presenti o futuri. Vedrà donque V. S. Rev.ma di cogliere tempo
+                    opportuno per fare tal’officio, poiché si presuppone ch’ella possa senza longo
+                    camino incontrarsi con l’arciduca Ernesto, et sia secura che farà servitio
+                    gratissimo a S. B.ne, se ne potrà cavare buona conclusione.</p>
+                <p>Quei quatro frati discoli danno materia di gran romore<note xml:id="FN3_00042_04"
+                        type="footnote">Siehe Nr. 26.</note>, pareva qui che gl’ordini fossero
+                    venuti a V. S. assai chiari sopra di loro; et che dovesse procedere come
+                    conveniva alla qualità della causa, et al grado ch’ella tiene, al quale è dovere
+                    che sia da tutti portato il debito rispetto; s’ella haverà deliberato di farli
+                    uscire dalla provincia, sarà poco male, pur ché si proveda che non infettino
+                    gl’altri luochi, ne quali entreranno, intanto s’haverà anco a provedere di
+                    riempire il monistero di Berchdesgadense, aciò non s’intermetta il cullto
+                    divino, ma veda ella di porvi monaci buoni et non ingrati al preposito vecchio
+                    senza mirare che si cavino più d’un luoco che da un’altro né che in ciò si
+                    sodisfaccia ad interessi o compiacimenti d’altri, il che le verrà meglio fatto;
+                    e informatasi da padri di Giesù o da altri che habbino buona conscienza et
+                    disposte le sue prattiche farà sentire tutto in tempo la risolutione et
+                    l’essecutione come tuono et lampo, che così si leverà ogni contrario perché ogni
+                    uno doverà acquetarsi all’autorità del ministro apostolico; camini in questo et
+                    nel resto innanzi allegramente nell’offitio suo, et s’assicuri che a me sarà
+                    cara ogni occasione di procurarle mercede et honore . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

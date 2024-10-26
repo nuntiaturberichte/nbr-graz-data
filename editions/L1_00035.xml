@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00035">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" notAfter="1580-11-21" cert="low" n="1">vermutlich vor
+                    1580-11-21</title>
+                <title level="a">35. (Graz, 1580 vor November 21)</title>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 96rv, gleichzeitige
+                            Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00035">
+                <correspAction type="sent">
+                    <date notAfter="1580-11-21" n="1" cert="low"/>
+                    <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00034.xml">34.
+                        Malaspina an Gallio - Graz, 1580 November 17</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00036.xml">36.
+                        (Graz, 1580 November 21)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Malaspina vom Rat gegebene Informationen über Polydor de Montagnana.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="35">(Graz, 1580 vor November 21)<note xml:id="FN1_00035_01" type="footnote">Das
+                    Datum ergibt sich aus Nr. 36 und Nr. 37, S. 119.</note>
+            </head>
+            <div>
+                <pb xml:id="P1_0000114"/>
+                <p>Polydorus habuit patrem Polydorum abbatem Victoriensem in Charintia, quod autem
+                    Montagnani filium se dicat, huic evenit, quod praefatus abbas matrem suam
+                    pregnantem et proximam partui Montagnano nuptui tradiderat.<note
+                        xml:id="FN1_00035_03" type="footnote">Zur Zeit der Geburt Polydors de
+                        Montagnana war Polydor de Bressanis Abt von Viktring (Lindner, Monasticon,
+                        S. 97). Die Mutter soll eine Kärntnerin gewesen sein (Kidrič, Polidor de
+                        Montagnana, S. 150).</note>
+                </p>
+                <p>Cum Viennae in Austria sacris initiaretur<note xml:id="FN1_00035_04"
+                        type="footnote">Seit ca. 1550 war Polydor Hofkaplan Ferdinands I.</note>unam
+                    virginem Rosinam nomine, quae iam monialis fieri volebat, ex monasterio S.
+                        Furobi<note xml:id="FN1_00035_05" type="footnote"> Vielleicht das
+                        Chorfrauenstift St. Jakob in Wien (Žák, österreichisches Klosterbuch, S.
+                        268).</note>rapuit, cum qua deinde in parrochia Raflspargensi<note
+                        xml:id="FN1_00035_06" type="footnote"> Vielleicht Ravelsbach in
+                        Niederösterreich.</note>tamquam cum uxore copulata per quinquennium vixit,
+                    ea deinde Viennae in domo ad Rubeum Equum <note xml:id="FN1_00035_07"
+                        type="footnote">Wahrscheinlich das Gasthaus „Zum Roten Rössel“, Wien I,
+                        Schülerstraße 18.</note>ducta miserrime mortua est.</p>
+                <p>Eandem Catherinam Pragensem in uxorem duxit, cum qua in Saxenfelld<note
+                        xml:id="FN1_00035_08" type="footnote">Sachsenfeld, damals Steiermark, heute
+                        Slowenien. Montagnana wird 1567 und 1568 als Pfarrer von Sachsenfeld, dann
+                        als Pfarrer zu Tüffer und Gurkfeld genannt (Orožen, Bisthum Lavant 3, S.
+                        19).</note>in magnis delitiis vixit atque Catherinae parentes secum aluit.
+                    Ea mortua modernam Cordulam in uxorem duxit hocque nomine eam tamquam uxorem et
+                    non concubinam totaliter dimittere non vult parentibus eius 200 taleros
+                    numeravit, ne eam rem deferrent ad principem vel magistratus.</p>
+                <p>Et isto pretenso concubinatu vel matrimonio non obstante infinitas alias cognovit
+                    puellas nondum viri potentes cum matribus et proxime Graetii tres ancillas,
+                    quibus liberaliter satisfecit et in <pb xml:id="P1_0000115"/>monasterio
+                    Admontensi aliquot impraegnavit, <note xml:id="FN1_00035_09" type="footnote"
+                        >1579 bis 1581 war Montagnana Administrator von Admont (Wichner, Geschichte
+                        des Benediktinerstiftes Admont 4, S. 211—215).</note>quarum duas partui
+                    proximas aliis locavit, quos pecunia corrumpit.</p>
+                <p>Testes huius rei sunt: Casp. Freidusfunes praepositus Labacensis, Jo. Maxfitsis
+                    praepositus in Rataman,<note xml:id="FN1_00035_10" type="footnote"
+                        >Wahrscheinlich Johann Muchitsch, Propst von Rottenmann (Lindner,
+                        Monasticon, S. 32).</note>Albertus ab Horimberg archidiaconus, <note
+                        xml:id="FN1_00035_11" type="footnote">Albert von Hornberg, 1572—1580 Pfarrer
+                        und Archidiakon von Gratwein (Hübner, Die Archidiakonats-Einteilung in der
+                        ehemaligen Diözese Salzburg, S. 19, Anm. 6). Vgl. Nr. 108, Anm.
+                    9.</note>Marsceus Marbfonitesit, Maximilianus a Chiremburg provincialis Stiriae,
+                        <note xml:id="FN1_00035_12" type="footnote">Maximilian von
+                    Kuenburg.</note>cui Polydorus libere fessus est se non esse concubinarium, sed
+                    legitimam se alere uxorem.</p>
+                <p>Simonia sua tribus provinciis notissima est. Monasterii pecunias profundit,
+                    quibus sua in parocchiis suis contracta debita excoluit et pro 3.000 toleris
+                    bona emit, instrumentum denique sibi errigi curavit in presentia quorundam
+                    suspectorum sacerdotem et notariorum, quo sibi contra ius fidem facit se ante
+                    aditionem administrationis monasterii Admontensis in parato et bonis habuisse
+                    12.000 toleros, quod vergit in magnam fraudem monasterii et singulare
+                    emolumentum suae putativae uxoris et spurio.</p>
+                <p>Hospitae in Wildan<note xml:id="FN1_00035_13" type="footnote">Wahrscheinlich
+                        Wildon.</note>mulieri vita et religione vere lutheranae catholicis
+                    infensissime, cum quae ille suspectissimus est, decimas monasterii sui
+                    dedit.</p>
+                <p>Fassus est sepissime fede dignis se malle prefatam suam Cordulam occidere quam
+                    totaliter dimittere vel alii nuptui tradere.</p>
+                <p>Haec quanta sint iudicet timoratus iudex.</p>
+                <p>Labaci fuit incarceratus propter violatam pulcherimam virginem alii iam
+                    desponsatam Elisabetam nomine eamque ob causam praepositura ibidem privatus
+                    vocatur adhuc hodie carcer ille a suo nomine Polydorcha.<note
+                        xml:id="FN1_00035_14" type="footnote">Montagnana, der ca. 1560 bis 1564
+                        Propst von Laibach war, wurde dort 1561 vorübergehend eingesperrt (Kidrič,
+                        Polidor de Montagnana, S. 150).</note>
+                </p>
+                <p>Si singula annotarentur millegamus deprehenderetur et convinceretur.<note
+                        xml:id="FN1_00035_15" type="footnote">Montagnana wurde sowohl von den
+                        Protestanten, gegen die er mit großem Eifer vorging, als auch von den streng
+                        Katholischen, die sich an seinem privaten Lebenswandel stießen, immer wieder
+                        angegriffen (Kidrič a. a. O., S. 151).</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

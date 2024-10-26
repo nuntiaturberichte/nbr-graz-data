@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00102">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1583-06-20" n="1">1583-06-20</title>
+				<title level="a">102. Malaspina an Gallio - Stablo, 1583 Juni 20</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 101, f. 79r—82r, Orig.<lb/>Druck: Hansen,
+							Nuntiaturberichte III/1, S. 602—607.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00102">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1583-06-20" n="1"/>
+					<placeName ref="#http://www.geonames.org/2786185">Stavelot</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00101.xml"
+						>101. Gallio an Malaspina - Rom, 1583 Juni 18</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00103.xml">103.
+						Gallio an Malaspina - Rom, 1583 Juni 25</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00101.xml">101. Gallio an Malaspina -
+						Rom, 1583 Juni 18</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00103.xml">103. Gallio an Malaspina -
+						Rom, 1583 Juni 25</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Eingehendes Gespräch mit Prinz von Parma vor allem über die Schwierigkeiten in
+					den Niederlanden, Ausschreitungen der spanischen Soldaten, Möglichkeiten zu
+					Erfolgen gegen die Aufständischen, Errichtung einer eigenen Nuntiatur und
+					eventuellen Vergleich mit Frankreich.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="102">Malaspina an Gallio - Stablo, 1583 Juni 20</head>
+			<div>
+				<p>Quando io mi partì di Colonia, se ben havevo qualche intentione di transferirmi
+					dal signor principe di Parma, nondimeno non mi constando al’hora, se il camino
+					era sicuro, suspesi il risolvermi in sin che ne potessi essere certo.<note
+						xml:id="FN2_00102_01" type="footnote">Vgl. Nr. 98 und 108.</note>Il che fu
+					causa che io non scrissi al’hora a V. S. Ill.ma né l’andata né la causa d’essa.
+					Ma essendomi doppo di <pb xml:id="P2_0000152"/>mano in mano assicurato, andai a
+					Lira, <note xml:id="FN2_00102_02" type="footnote">Lierre östlich von
+						Antwerpen.</note>città lontana d’Anversa due leghe, dove ritrovai il signor
+					principe et trattai seco della fortificatione di Carpen, <note
+						xml:id="FN2_00102_03" type="footnote">Kerpen bei Köln.</note>mettendoli in
+					consideratione conforme al ricordo, datomi da molte pie et zelanti persone, di
+					quanta importantia et consequentia sia il conservare quella piazza per essere
+					nelle porte (si può dire) di Colonia, et lo ritrovai disposto a volerlo fare,
+					non ostante la penuria del denaro, la quale veramente è grandissima. Et perché
+					l’eletto mi haveva confidentemente communicato che il governatore di quel luogho
+					teneva corrispondentia con il Truchses, feci offitio che fusse rimosso et dato
+					quel carico al signor conte Dorimberg.<note xml:id="FN2_00102_04"
+						type="footnote"> Graf Karl von Arenberg.</note>il quale con le proprie sue
+					iurisdittione potrebbe mantenderlo et defenderlo con più commodità et authorità.
+					Et spero che a suo luogho et tempo si havrà di tutto questo molta
+					consideratione. Et perché il signor principe si compiacque di darmi parte molto
+					diffusamente et minutamente del stato presente delle cose di Fiandra, delle
+					speranze et timore, nel quale egli vive, ho giudicato non esser fuor di
+					proposito compendiosamente avisarne V. S. Ill.ma, et tanto più mi è parso
+					conveniente di farlo per non esser stato da alcuni mesi in qua ministro di S.
+					B.ne in quelle parti,<note xml:id="FN2_00102_05" type="footnote"> Eine ständige
+						Nuntiatur Brüssel wurde erst 1596 eingerichtet (Léon van der Essen,
+						Nonciature de Flandre 1, S. IXff.).</note>ma è ben vero che la brevità del
+					tempo non mi ha dato luogho di poter penetrar altro, né far giuditio alcuno, se
+					non riportarmi alla relatione del signor principe.</p>
+				<p>Il principe non solo non dispera che successivamente non si sia per far progresso
+					felice, ma ne terrebbe speranza grandissima, precipuamente hora che il prencipe
+					d’Oranges pare che vadi perdendo il credito; ma per non essere li soldati pagati
+					da molti mesi in quà, sono talmente fatti insolenti che non si può se non con
+					lacrime rappresentare quello che si vede, pare impossibile che Dio sia per
+					concedere vittoria né alcuno felice esito, poiché, come ultimamente fece
+					intendere un vescovo<note xml:id="FN2_00102_06" type="footnote">Wilhelm
+						Lindanus, 1562—1588 Bischof von Roermond (Hansen, Nuntiaturberichte III/1,
+						S. 608).</note>di molta autorità a monsignor di Verselli et a me, non hanno
+					rispetto li soldati alle maritate, non alle vergini, non alle putte immature,
+					non a sexo, non a bestie, non a sacramenti; né il principe può applicarci
+					rimedio, vivendo con grandissimo timore che non si abbuttinino tutti, come
+					ultimamente ha fatto il regimento de<pb xml:id="P2_0000153"/> Alemani del signor
+					Ferante Gonzaga,<note xml:id="FN2_00102_07" type="footnote"> Am 23. Mai
+						berichtete Orano von völliger Disziplinlosigkeit beim katholischen Heer in
+						Flandern (Hansen, Nuntiaturberichte III/1, S. 564).</note>il quale è il più
+					veterano et valoroso che ci sia. Et non nasce questo disordine di così gran
+					qualità tanto dal mancamento per la quantità delli danari, quanto dal poco
+					ordine et fedeltà, che si tiene nel distribuirli et l’essere al più delle volte
+					mandati fuor di staggione. Et questi scandali così abominevoli de li soldati
+					partoriscono infiniti inconvenienti, poiché oltre che li popoli che si
+					racquistano non depongono, anzi accrescono l’odio contra il nome regio, non si
+					dispongono manco ad abbracciare la religione cattolica, anzi se li rende più
+					odiosa, esperimentando che da cattolici non sono trattati non solo come
+					christiani, ma né manco come creature rationali.</p>
+				<p>Et io havendo visitato quelli villaggi, dove era accampata la cavalleria et
+					fanteria, et trascorso assai paese, ho veduto et inteso di ogni sorte di classe
+					de soldati quello che non può capire in intelletto l’huomo, se non lo vede
+					ocularmente, di maniera che ben dice il principe di Oranges, che il pascere così
+					numeroso essercito S. M.tà ruvina il proprio paese, esaspera li popoli et fa
+					assai manco danno a lui et suoi seguaci, che a se stesso, massime venendo li
+					danari al più delle volte in tempo che non si può per la stagione far impresa
+					alcuna. Et perché, dove il campo vive, subito si dishabita tra pochi mesi, muti
+					pur quanti luoghi vuole, non sarà modo né forma di poterlo pascere, per il che
+					si dubita grandemente che, se S. M.tà non mette maggior sollicitudine, acciò li
+					danari venghino a tempo et siano dispensati fidelmente, che l’essercito si
+					disfarà da se. Ne può S. M.tà passando quello che hora passa, conseguire quelli
+					fini, che senza dubio deve havere, cioè la ricuperatione di queste provintie, il
+					che dovendo essere o col mezzo de la forza o con l’industria o con l’aspettare
+					il benefitio del tempo, S. M.tà con la forza tenendo li soldati così mal pagati
+					et sodisfatti et li popoli esasperati, poco frutto farà, et essendo li luoghi
+					occupati dalli nemici molti et tali, che non si può espugnarli senza artegliaria
+					et mortalità, verrà S. M.tà se a uno a uno pensa d’impatronirsene a consumare li
+					danari, a perdere di giorno in giorno li soldati, et sarà negotio che anderà in
+					infinito.</p>
+				<p>Ne è la parte adversa così debole che anco essa non sia per contrapesare in
+					qualche parte il progresso, che si farà con occupare del nostro, come si vede
+					che va facendo. Et perciò il signor principe sarebbe di parere che si
+					constituissero diverse troppe del essercito et<pb xml:id="P2_0000154"/> si
+					mettessero nelli confini, et S. M.tà con buone guarnitioni conservasse li
+					luoghi, che hora possede, et cercasse di mettere in qualche necessità la parte
+					adversa, serrandoli quelli passi et soccorsi che si vedesse di potere. Et di
+					questo modo si lasciarebbe respirare un poco il paese tanto essausto, si
+					conservarebbe quest’essercitio, dal quale depende l’authorità et grandezza di S.
+					M.tà, essendo la maggior parte veterani soldati, et non trattando così malamente
+					li popoli, non sarebbe gran cosa che S. M.tà, con l’industria, con buone
+					intelligentie, con danari et altri mezzi soldateschi, s’impatronisse de luoghi
+					senza spargere sangue et ruvinare il paese et, essasperando li popoli, rendere
+					così odiosa la nation’ spagnola non solo qua, ma in ogni parte. Et al’hora S.
+					M.tà potrebbe con molta ragione aspettare quel benefitio del tempo, nel quale
+					tanto si fide il principe d’Oranges, poiché Dio, che governa li tempi, non
+					mancarebbe di assistere a così santa et necessaria attione con la sua santissima
+					providentia. Ma altrimente seguendo li scandali, che seguono, non si giudica che
+					né con forza né con industria né con altro si possi aspettare successo di
+					qualità.</p>
+				<p>Et allargandosi confidentemente il signor principe meco circa questo proposito,
+					mostrò di non essere fuor di suspettione che S. M.tà sia in trattato di qualche
+					compositione, poiché, oltre che quando questo non fosse, pare impossibile che la
+					M.tà S. non soccorresse alla necessità, che passa, al tempo opportuno et
+					occasione buona, che perde di far progresso, l’esserci aperto il passo di Spagna
+					et di Portugalo per Anversa conferma alcuni in questa suspettione, del quale
+					quelli delle città mostrano di ricevere tanto contento che insin a Lira si sono
+					sentiti li segni d’allegrezza, che con artigliarie si facevano, cosa che è
+					dispiaciuta mirabilmente alli soldati, parendoli molto stranio che l’istesso re
+					mantenghi un essercito alle porte di Anversa, il quale ha per fino di metterla
+					in qualche necessità per la parte di terra, et da l’altra parte li mandi
+					vettovaglie per mare. Dal che il principe di Oranges toglie occasione di far
+					credere che quello che si fa in Fiandra, sia contra la mente di S. M.tà.</p>
+				<p>Hora per queste ragioni, et per trattenersi tuttavia qua Madama,<note
+						xml:id="FN2_00102_08" type="footnote">Margarethe von Parma.</note>mostrava
+					il principe di dubitare che non si fosse in qualche trattato secreto di
+					pacificatione, la quale lui giudicava non si poter fare senza detrimento della
+					religione cattolica. Et come principe di così gran valore et soldato,
+					considerando ancora il stato delle cose, li fraudolenti artificii del prencipe
+					d’Oranges, non sperando molto che <pb xml:id="P2_0000155"/>vivendo lui si possi
+					venire a pace alcuna sincera, più tosto mostrava approvare il rimedio della
+					diversione, col mostrar S. M.tà segni di voler rompere con Francia, che trattato
+					di pace; ma di questo suo pensiero si come mi affirma di non haverne mai fatto
+					motto al re, così mostrava di dirmelo più tosto per discorso che per fondamento,
+					che facesse che S. M.tà fosse per applicare l’animo. Ma quanto al dividere et
+					forsi anco diminuire l’essercito et con l’industria cercare di far progresso, li
+					pareva cosa altretanto necessaria che utile.</p>
+				<p>Quanto poi al stato delle provintie reconciliate, il principe si fida et si loda
+					assai delli prelati; se promette non poco del popolo; ma della nobiltà mostra di
+					non si potere confidare, anzi dubita grandemente che li nobili vadino a camino
+					di perpetuare li governi, che loro hanno, et al fine farli proprii. Et di questo
+					loro intento il principe ne hebbe un gran rincontro, quando S. M.tà stette delli
+					mesi passati così gravemente inferma, che in quel tempo alcuni di loro non
+					pottero tener occulto in modo che non si scoprisse l’intentione et fine, al
+					quale caminano; per il che dubita grandemente, se succedesse la morte di S.
+					M.tà, che si dividerebbe in più parte li dominii di questi paesi, et questi
+					signori riconciliati s’alzarebbono con li governi che hanno. Et perciò pare che
+					altretanto studio si deve mettere nel assicurarsi di quello che hora si
+					possiede, come nel ricuperare quello che non s’ha. Onde il principe con il
+					calore delli prelati et di popolari, quali l’uni sono di già desingannati, se
+					bene alquanto tardi, del fine delli heretici, et li altri mal trattati delli
+					nobili, non crede che siano per lasciarsi facilmente alterare, se non saranno
+					ingannati li popolari sotto colore del pretesto della religione. Per il che il
+					principe designarebbe di rompere la Pacificatione di Gante,<note
+						xml:id="FN2_00102_09" type="footnote">Friede von Gent im Jahre 1576
+						(Pirenne, Histoire de Belgique IV, S. 61ff.).</note>parendoli che al’hora
+					potrebbe confirmare li popoli nella religione cattolica, ne giudica che questa
+					impresa, aiutata dalli prelati, fosse per essere inreuscibile, anzi asserisce
+					che come d’attione fattibile ne ha dato conto a S. M.tà, ma che ha havuto per
+					risposta che guardi molto bene a quello che fa; onde può esser che S. M.tà, se
+					pur desidera qualche reconciliatione, non abbracci questo partito come quello
+					che forsi toglie la speranza di ricuperare altri luoghi infettati di heresia per
+					il timore che havrebbono, che il medesimo non si tenti con loro.</p>
+				<p>Ma perché, stando le cose nel termine che hora stanno, la religione cattolica non
+					fa progresso né meglioramento alcuno, né neli <pb xml:id="P2_0000156"/>luoghi di
+					già presi né in quelli che alla giornata s’acquestano, essendo li vescovi o
+					tepidi o le terre senza ordinarii, massime doppo che quelli di Ginevra hanno
+					publicato un decreto, <note xml:id="FN2_00102_10" type="footnote"/>che li
+					heretici possono senza scrupulo di conscientia fingere d’essere cattolici,
+					frequentare li sacramenti et osservare li riti et cerimonie nostre, purché
+					riservino ne l’interiore a suo tempo di far qualche notabile danno alli
+					catholici, il che da molti è ad unguem osservato, come me ha affirmato il
+					prinipe, pare però ad alcuni che sarebbe espediente, che la S.tà di N. S.
+					tenesse un nuntio di valore, <note xml:id="FN2_00102_11" type="footnote"/>vita,
+					costumi et splendore in quelle parti, il quale cercasse di applicare quel
+					rimedio, che il tempo et congiunture et li buoni et zelosi cattolici li
+					subministrarebbono. Et forsi, quando Dio signore nostro vedesse che s’ha
+					altretanto cura de l’acquisto delle anime, espurgatione et destruttione della
+					tirannide del demonio, come s’ha delle città et estirpatione di quelli
+					dell’huomini, prosperarebbe maggiormente l’intentione di S. M.tà. Et poiché
+					nella Germania, per quanto ho potuto io comprendere, li heretici pigliano
+					l’ardire o il timore et misurano le loro attioni et motivi dalli successi della
+					Fiandra, però quando ancora non concorressero altri infiniti et gravissimi
+					rispetti, sarebbe non solo espediente ma necessario il non lasciare cosa
+					intentata, per la quale si possi sperare che la religione cattolica sia per
+					propagarsi et l’heresia per smorarsi. Et quando nel re di Francia et nel re
+					cattolico fosse qualche dispositione d’accomodamento, non sarebbe similmente
+					fuor di proposto, essendo il Christianissimo <note xml:id="FN2_00102_12"
+						type="footnote"/>vicino doi picciole giornate a Namur, che Madama di Parma
+					s’aboccasse con quella Maestà et facesse quelli offitii et proponesse quelli
+					partiti, che si giudicarebbono più espedienti, poiché, quando li Francesi non
+					perturbassero li conati del Cattolico,<note xml:id="FN2_00102_13"
+						type="footnote"/> qua tutti asseriscono che in spatio di pochi mesi si
+					potrebbe sperare di vedere abbassata la perfidia di quel gran instrumento del
+					demonio, del prencipe d’Oranges.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

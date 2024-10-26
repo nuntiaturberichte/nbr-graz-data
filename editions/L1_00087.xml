@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00087">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" notBefore="1581-04-20" notAfter="1581-05-10" cert="low" n="1"
+                    >vermutlich zwischen 1581-04-20 und 1581-05-10</title>
+                <title level="a">87. (Rom, 1581 Ende April/Anfang Mai)</title>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Val. Ardi. Are. Arm. I—XVIII, 3122, Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00087">
+                <correspAction type="sent">
+                    <date notBefore="1581-04-20" notAfter="1581-05-10" n="1" cert="low"/>
+                    <placeName ref="#http://www.geonames.org/3169070" cert="low">Rome</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00086.xml">86.
+                        Kobenzl an Malaspina - Graz, 1581 April 29</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00088.xml">88.
+                        Possevino an (Gallio) - Wien, 1581 Mai 5</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Zusammenfassung der vom Bischof von Gurk vorgebrachten Gründe für Dringlichkeit
+                    päpstlicher Hilfe für Erzherzog Karl.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="87">(Rom, 1581 Ende Aprili Anfang Mai)<note xml:id="FN1_00087_01"
+                    type="footnote">Das Datum ergibt sich daraus, daß dieses Schreiben wegen der
+                    Bemerkung im ersten Satz il vescovo di Gurg. . . non po restar di esplicar di
+                    novo S. Stà wahrscheinlich nach der ersten Papstaudienz am 20. April 1581
+                    (Loserth, FRA II/50, S. 268) und sicher vor der Zusage der päpstlichen Hilje am
+                    9. Mai entstanden sein muß. Vgl. Nr. 90.</note>
+            </head>
+            <div>
+                <pb xml:id="P1_0000237"/>
+                <p>Il vescovo di Gurg, per sodisfar all’ordine che tiene dal sermo arciduca Carlo,
+                    non pò restare di esplicar di novo a S. StÄ che S. A. in questo travaglioso
+                    negotio non sa dove possi, doppo Iddio, havere più sicuro refugio che da S.
+                        Stà.<note xml:id="FN1_00087_02" type="footnote">Vgl. Nr. 59, Anm. 7 und 8,
+                        und Nr. 76, Anm. 6.</note>Et perciò è stato mandato qua per intendere,
+                    occorrendo il bisogno, che aiuto possi S. A. al sicuro promettersi di qua, et se
+                    bene S. A. ha mandato dalla Mtà dell’imperatore, dal sermo arciduca Ferdinando
+                    et dal duca di Bavera, <note xml:id="FN1_00087_03" type="footnote">Vgl. Nr. 83,
+                        Anm. 8.</note>nondimeno sapendo, quanto sia la Mtà S. oppressa da debiti et
+                    spese continue et eccessive e totalmente esausta, quanto anco il duca di Baviera
+                    sia indebitato, non si pò promettere molto. Onde se l’aiuto di qua ha da essere
+                    alla proportione di quello come gli ha riferto il cardinale Madruzzo, è da
+                    temere che in caso di necessità possi essere molto inferiore al bisogno. Et se
+                    si sapesse questa dependentia d’aiuto e soccorso dalli provinciali contrarii
+                    restariano con molta sicurezza né ponto li moveria l’espettatione che si potesse
+                    havere di simil provisione.</p>
+                <p>Onde supplica humilmente S. Bne vogli dechiarare lei quel’aiuto che pensa poter
+                    dare venendo la necessità et il bisogno, havendo consideratione al pericolo de’
+                    confini et al contrasto che pò nascere a S. A. nell’istessa provintia,<note
+                        xml:id="FN1_00087_04" type="footnote">Siehe Nr. 90.</note>che fosse ciò
+                    potrà essere poi incentivo a quest’altri principi, havendo tutti l’ochio a S.
+                    Stà, sapendo che a sua essortatione et molte instanze seriose si è mossa in gran
+                    parte S. A. a far quella declaratione del suo animo alli stati et ordini della
+                    provintia di Stiria, la qual crede che debba essere presso S. Stà di non poca
+                    consideratione. Et se forse l’oppositione insperata e la difficoltà
+                    dell’essecutione la può far parere in qualche parte improvida, tanto più<pb
+                        xml:id="P1_0000238"/> de constar a S. Stà l’animo di S. A., prontissimo a
+                    ogni sodisfattione sua, massimamente sapendosi che longamente S. A. si è andato
+                    scusando con proporre anco le difficoltà che antivedeva et con l’esporre la sua
+                    impossibilità et il pericolo in specie de’ confini, et sempre per parte di S.
+                    Stà li è stato fatto animo et offerta nel bisogno d’aiuto. <note
+                        xml:id="FN1_00087_05" type="footnote">Vgl. Nr. 77, Anm. 6.</note>Il quale
+                    mo, se si rimette alla risolutione d’altri, darà pochissimo conforto et speranza
+                    a S. A., la quale sebene si sforzerà sempre far quanto è in sé et per quanto pò
+                    quel che si ricerca da bono et catholico principe et zelante dell’honore
+                    d’iddio. Nondimeno, se in queste difficoltà presenti resta senza aiuto
+                    condecente e pronto, vede che non pò senza nota di temerità manifesta, esporsi
+                    più oltre a pericoli che li soprastano, caminando avanti all’essecutione del
+                    decreto et alla esacerbatione de’ suoi provinciali infetti, tanto più vedendo S.
+                    A. che tutti li soi stati sono nell’istessa consideratione, né ha parte ove
+                    possi far fondamento di speranza d’aiuto o sicurezza, poiché la provintia di
+                    Carinthia e Carniola, per l’openione sola che hanno che S. A. sia rivolta a
+                    impedire loro il libero progresso dell’heresia, ha causato che si sono già
+                    retirati da buona parte dell’aiuto e contributioni che davano per sostentatione
+                    di S. A. et diffesa de’ confini.<note xml:id="FN1_00087_06" type="footnote"> Das
+                        stimmt nicht. Kärnten und Krain haben vielmehr stets einen angemessenen Teil
+                        zur Verteidigung der Grenze beigetragen (Vanitele, Specialgeschichte der
+                        Militärgrenze I, S. 65 f. und 73; Rothenberg, Die österreichische
+                        Militärgrenze, S. 47 f. und 51).</note>Onde veramente S. A. è in stato tale
+                    che da sé pò molto poco, et perciò spera che sarà scusata presso Iddio et il
+                    mondo, se doppo l’havere fatto quanto è in sé, cederà alla necessità superiore
+                    di gran longa alle sue forze. Onde è sforzata S. A. per debito di sua conscienza
+                    humilmente dir a S. Stà che sì come l’ha sforzata ad accelerare la promulgatione
+                    di quel decreto, il pericolo evidente della religione catholica, così testifica
+                    con molto dolore di cuore ch’egli non resterà d’andar avanti al debito fine, per
+                    altro che per mera et semplice impossibilità. Perilché vuol sperare che S. Stà,
+                    come vigilantissimo pastore, antivedendo tanto danno commune della religione
+                    catholica sia per farvi sopra consideratione degna di zelante custode del grege
+                    di Giesù Christo, tanto più non dimandando S. A. questo aiuto, se non in caso
+                    espresso di necessità et secondo quella con l’intervento e direttione de’ suoi
+                    ministri, se ne disporrà in tutto o in parte, et non occorrendo quella non sarà
+                    tocco un sol quatrino; anci è ragionevolmente da sperare che la declaratione
+                    sola d’un aiuto proportionato debba fare che non occorri il bisogno di porrci
+                    mano, concorrendovi <pb xml:id="P1_0000239"/>principalmente la gratia d’iddio N.
+                    S. et le altee diligenze, che con l’autorità indriccio et consiglio di S.Stà si
+                    potrano fare, quali senza questa declaratione sarano sempre di poca
+                    consideratione et poco moverano l’animo di questi provinciali infetti et forse
+                    ancho de’ molti altri, a’ quali piacciono li consigli timidi nelle attioni
+                    pericolose.</p>
+                <p>Né si pò restare di aggionger a tutto questo che per esplicar il difficile e
+                    travaglioso stato di S. A. si ha esposto, che havendo il sol paese di Stiria
+                    oltra le ordinarie contributioni e steure et diffesa de’ confini volontariamente
+                    concesso un milion de’ fiorini per pagare debiti et intertenimento di S.
+                        A.,<note xml:id="FN1_00087_07" type="footnote">Am Landtag 1569 erklärten die
+                        steirischen Stände ihre Geneigtheit, vom 1. März 1572 an eine Million fl.
+                        landesjürstlicher Schulden mit den daraujliegenden 7% Interessen innerhalb
+                        von 15 Jahren zu zahlen (Loserth, Reformation und Gegenreformation, S. 156;
+                        Rainer, Nuntiaturberichte II/8, S. 201, Anm.8, und S. 247 f.). Vgl. Nr. 14,
+                        Anm. 4.</note>questi provintiali infetti, da’quali dipende per la maggior
+                    parte per questa alteratione della libertà, nella quale presumono esser
+                    impossessati, hanno levato per lor parte il pagamento, <note
+                        xml:id="FN1_00087_08" type="footnote">Vgl. Nr. 77, Anm. 10.</note>onde S. A.
+                    è restata priva della più pronta soventione. Il che però è ristretta a tolerare
+                    più tosto che preiudicar al decreto fatto, et gli conviene per necessità haver
+                    patientia e andar avanti con molta difficoltà, sinché Iddio benedetto scopri il
+                    modo d’uscire con dignità et riputatione di tanta difficoltà o di essercitare
+                    quando altro non possi la virtù della pacientia. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

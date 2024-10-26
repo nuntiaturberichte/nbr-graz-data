@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00041">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-11-13" n="1">1582-11-13</title>
+                <title level="a">41. Gallio an Malaspina - Rom, 1582 November 13</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 84r—85r, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00041">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1582-11-13" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00040.xml">40.
+                        Malaspina an Gallio - Graz, 1582 Oktober 29/November 7</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00042.xml">42.
+                        Malaspina an Gallio - Graz, 1582 November 17</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00040.xml">40. Malaspina an Gallio -
+                        Graz, 1582 Oktober 29/November 7</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00042.xml">42. Malaspina an Gallio -
+                        Graz, 1582 November 17</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Exekution des Religionsdekretes. Gute Dienste Herzog Wilhelms in Graz. Hoffnung
+                    auf Standhaftigkeit Erzherzog Karls. Einführung des Gregorianischen
+                    Kalenders.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="41">Gallio an Malaspina - Rom, 1582 November 13</head>
+            <div>
+                <p>Ho ricevute due lettere di V. S., una de li 9 del passato<note
+                        xml:id="FN2_00041_01" type="footnote">Nr. 34.</note>et l’altra scritta
+                    dipoi, ma senza il giorno de la data. <note xml:id="FN2_00041_02"
+                        type="footnote">Nr. 37.</note>Per esse et per le scritture aggionte <note
+                        xml:id="FN2_00041_03" type="footnote">Nr. 35 und 36.</note>s’è visto il
+                    principio che si era dato a l’essecutione del decreto, li buoni officii fatti
+                    intorno a ciò dal sig. duca di Baviera et la ferma speranza che dava il principe
+                    di voler perseverare. Però <pb xml:id="P2_0000062"/>staremo con desiderio
+                    aspettando d’intendere quel che dopo la partita di esso sig. duca sarà seguito,
+                    se la promessa sarà stata adempita, come il negotio camini et tutte le
+                    circonstanze, acciò si possa far più fondato giudicio de la riuscita et pensar a
+                    quel che sia conveniente di fare per la parte nostra.</p>
+                <p>Il nuovo calendario è stato ricevuto hormai per tutta christianità, eccetto che
+                    in Germania, et però desiderando N. S. che si rimedii quanto prima a tal
+                    disordine et discrepanza,<note xml:id="FN2_00041_04" type="footnote">Nr. 28 und
+                        29.</note>ha fatto stampar un novo breve, ordinando la correttione per il
+                    fine di febraio,<note xml:id="FN2_00041_05" type="footnote"> Siehe oben Nr. 24,
+                        Anm. 4 und 5.</note>ove non si è fatta l’ottobre passato. Se ne mandano a V.
+                    S. molte copie stampate, insieme con la regola da servar ne li officii divini
+                    per quei giorni omessi, et sì è scritto un breve a l’arciduca, essortatorio,
+                    acciò voglia far effettuar l’ordine apostolico in cosa tanto necessaria,<note
+                        xml:id="FN2_00041_06" type="footnote"> Breve vom 13. November 1582 (Arch.
+                        Vat., Epist. ad Principes 17, f. 166r).</note>ricevuta, lodata et approvata
+                    da tutti li potentati christiani. V. S. presenterà il breve et farà ogni viva
+                    instanza perché S. A. dia questa satisfattione a N. S. A. mons. nuntio Ces. si
+                    dà commissione di far la medesima instanza presso la M.tà de l’imperatore et con
+                    altri principi, li quali si tiene per fermo che condescenderanno al giusto
+                    desiderio di S. B.ne, la quale intendendo che a prohibitione de la stampa di
+                    esso calendario in altro luogo che in Roma poteva causar longhezza et
+                    impedimento a l’essecutione, si è contentata di rivocar tal privilegio et
+                    lasciar che si possa stampar ovunque sarà di bisogno per uso de le provincie,
+                    purché non si transgredisca l’ordine prescritto da la Sede Apostolica. De la
+                    qual cosa V. S. potrà far piena fede, sicché uscirà un breve che sopra ciò
+                    s’haverà da publicare . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

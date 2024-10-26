@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00204">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1584-09-30" n="1">1584-09-30</title>
+                <title level="a">204. Malaspina an Gallio - Graz, 1584 September 30</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 101, f. 243rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00204">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1584-09-30" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00203.xml"
+                        >203. Gallio an Malaspina - Rom, 1584 September 29</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00205.xml">205.
+                        Gallio an Malaspina - Rom, 1584 Oktober 6</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00203.xml">203. Gallio an Malaspina -
+                        Rom, 1584 September 29</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00205.xml">205. Gallio an Malaspina -
+                        Rom, 1584 Oktober 6</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Vorbereitung eines neuen landesfürstlichen Dekretes in Religionsangelegenheiten.
+                    Seit Beginn der Exekution des Religionsdekretes 30 Bürger zum Gehorsam gebracht.
+                    Zuversicht für die Zukunft, soferne die Türkengrenze ruhig bleibt und der Adel
+                    die Abgaben nicht verweigert.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="204">Malaspina an Gallio - Graz, 1584 September 30</head>
+            <div>
+                <p>Io mi son ridotto a mettermi a scrivere insin a quest hora che sta la posta in
+                    procinto per partirsi, nutrendomi tuttavia di speranza che si fosse per
+                    publicare alcune deliberationi prese a favore de la parte catholica, le quali
+                    oltre a molte utilità che apportaranno per humiliare et deprimere il nervo, che
+                    ha la parte adversa, serviranno ancho ad obviare a la longezza,<note
+                        xml:id="FN2_00204_01" type="footnote">Erzherzog Ferdinand hat zuletzt bei
+                        den Beratungen in Innsbruck zu langsamem Vorgehen geraten (Nr.
+                    195).</note>che si prevede circa la perfetta esse<pb xml:id="P2_0000312"
+                    />cutione di quello che habbiamo per le mani, la quale se bene non può impedire,
+                    che la vittoria al fine non sia del canto nostro, come altre volte si è scritto,
+                    è non dimeno odiosa et noiosa a tutti noi, quali voressimo pur una volta
+                    raccogliendo qualche frutto de le fattiche nostre, liberarsi da la cura di
+                    coltivare terenno tanto sterile. Et se quello, che io ho proposto <note
+                        xml:id="FN2_00204_02" type="footnote">Vgl. oben Nr. 202, Anm. 5.</note>et di
+                    già è stato concluso, si publicarà, come S. A. mi promette che si farà tra tre
+                    giorni, noi vederemo qualche utile mutatione, ma se si effettuarà perfettamente
+                    senza dubio non potremo lamentarsi che la semenza non habbi reso al tempo debito
+                    abondante frutto.<note xml:id="FN2_00204_03" type="footnote"> Vgl. unten Nr.
+                        206.</note>Ma perché è molto debole il brazzo de la superiorità et doppo che
+                    si ha superate le difficultà che non sono poche quali si trovono nel persuadere,
+                    nel che ordinariamente consiste l’offitio del ministro, non si ha con tutto ciò
+                    operato molto, ma si deve ancho aiutare l’A. S. in ritrovare modi suavi che si
+                    possa essequire. Ho perciò preso partito di aspettare ad avisare V. S. Ill.ma
+                    particularmente di quello che è passato la settimana che viene, nel qual tempo
+                    sarà publicata la seriosa risolutione di S. A.<note xml:id="FN2_00204_04"
+                        type="footnote"> Die Publikation wurde mit Rücksicht auf die anwesenden
+                        Deputierten Steiermarks, Kärntens und Krains verschoben (Nr. 206).</note>et
+                    si potrà far qualche giuditio del exito d’essa.</p>
+                <p>Circa il resto non ho che dire, se non che dal tempo che si è cominciato
+                    l’essecutione insin ad hora habbiamo fatto acquisto di trenta cittadini,<note
+                        xml:id="FN2_00204_05" type="footnote">Vgl. oben Nr. 169, Anm. 3.</note>li
+                    quali sono obedienti, et se bene in tanto numero è pocho l’acquisto con tutto
+                    ciò è molto maggiore di quello che già alcuni mesi fa speravamo.<note
+                        xml:id="FN2_00204_06" type="footnote"> Malaspina schätzte im März 1584 die
+                        Zahl der zu gewinnenden Seelen in ganz Innerösterreich auf 700.000 (Nr.
+                        158).</note>Noi al fine avanziamo ogni giorno qualche cosa, et se l’arbore
+                    non si è butato per terra per li colpi dati, senza dubio seguitando senza
+                    intermissione a percoterlo cadarà, massime che li confini stanno quieti, li
+                    nobili non neganno le contributioni, non si ha contradittione ne la essecutione,
+                    alcuni abbrazzano la fede catholica, et dobbiamo ancho revocarsi a memoria come
+                    si è schifata la assecuratione che domandavano li nobili per le loro persone, et
+                    come finalmente S. A. con li decreti già alcuni mesi publicati si è liberata se
+                    non effetualmente almeno verbalmente de le promissioni et assicurationi date in
+                    materia de la religione, et che sta però in sua mano senza cadere ne la nota di
+                    mancar de la parola togliere tutto l’esser<pb xml:id="P2_0000313"/>citio
+                    lutherano et se non può di presente farlo è nondimeno molto l’essersi
+                    disvilupato da tante promesse così scandalose et assicuratasi in conscientia . .
+                    .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

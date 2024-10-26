@@ -1,189 +1,198 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_093.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-12-02" n="1">1599-12-02</title>
-                    <title level="a">93.2. Portia an San Giorgio - Graz, 1599 Dezember 2</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 181r,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilagen: fol. 190r, Copia eorum quae Passaviensis Administrator
-						Episcopo Adriae<lb/>Nuntio Apostolico proposuit et ab eo petiit.<lb/>fol.
-						199r–v, Responsum Episcopi Adriae Nuntii Apostolici ad proposita
-						et<lb/>petita ab Administratore Passaviensis Episcopatus.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_093.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-12-02" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_093.1.xml">93.1. Portia an Clemens VIII. - Graz, 1599 Dezember 5</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_093.3.xml">93.3. Portia an San Giorgio - Graz, 1599 Dezember 2</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_092.1.xml">92.1. Portia an San
-                            Giorgio - Graz, 1599 November 29</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_093.3.xml">93.3. Portia an San
-                            Giorgio - Graz, 1599 Dezember 2</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia übersendet diverse Schriftstücke.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="93.2">Portia an San Giorgio - Graz, 1599 Dezember 2</head>
-				<div>
-					<p>Con l’ordinario passato<note xml:id="FN5_093.2_01" type="footnote">Nr. 89.1,
-							89.2, 89.3, 89.4.</note>, essendo io gionto qua di fresco, non puotero
-						essere tutte le cose in punto che io havessi inviato in un tempo medesimo<pb xml:id="P5_0000239"/> a V. S. Ill.ma anco la conclusione et gli ultimi
-						Decreti di Possa, de quali ne incamino hora copia<note xml:id="FN5_093.2_02" type="footnote">Beilagen dieser Nr. Weitere diesbezugliche Schriftstucke
-							befinden sich in verschiedenen Bänden des Fondo Borghese im ASV und
-							können diesem Bericht zumindest hypothetisch als Beilagen zugeordnet
-							werden: Responsum Canonicorum ad propositionem Episcopi Adria Nuntii
-							Apostolici, Passau, 1599 Oktober 13, ASV, Fondo Borghese, serie III 107
-							A-D, fol. 21r–22r; Antwortschreiben des Domkapitels von Passau auf eine
-							Anfrage Portias in 19 Artikeln vom 14. Oktober, Passau, 1599 Oktober 15,
-							ASV, Fondo Borghese, serie, III 92 A, fol. 365r–366; Epistola Episcopi
-							Adriae Nuntii Apostolici relicta Administratori. Episcopatus
-							Passaviensis, 1599 Oktober 21, ASV, Fondo Borghese, serie III 68 CD,
-							fol. 129r–130r; Decreta et ordinationes relictae ab Episcopo Adriae
-							Nuntio Apostolico Administratori et Canonicis Ecclesiae Passaviensis,
-							Passau, 1599 Oktober 21, ASV, Fondo Borghese, serie III 70 B-F, fol.
-							37r–40r.</note> insieme con quello c’ho negociato co ’l Sig. Duca di
-							Baviera<note xml:id="FN5_093.2_03" type="footnote">Nicht auffindbar.
-							Portia hatte bereits am 20. November 1599 ausfuhrlich uber das Gespräch
-							mit Herzog Maximilian I. berichtet, führte darin aber nicht das Thema
-							der Auseinandersetzung zwischen dem Domkapitel von Passau und dem Herzog
-							aus: vgl. Nr. 89.1. Dem Administrator der Diözese Passau, Pötting,
-							übermittelte er am 19. November 1599 einen ausführlichen Bericht über
-							diese Verhandlungen: vgl. HHStA, Hs B 66.</note>, da che potrà V. S.
-						Ill.ma agevolmente far giudicio d’onde derivi l’origine delle controversie
-						che continuano tra S. A. et quel Vescovato, sì come dall’aggionta sommaria
-						consideratione che io faccio nell’istesso proposito vederà parimente qual
-						sia attorno questi affari l’humil mio parere et quel che io stimi doversi
-						fare perché passi tra loro confinanti buona intelligenza et amicitia.</p>
-					<p>Nel resto rimettendomi al contenuto delle accennate Scritture …</p>
-					<p>
-						<note xml:id="SN093.2_a" type="siglum">Eigenhändige Ergänzung
-							Portias.</note> V. S. Ill.ma et R.ma alla quale invio anco il giuramento
-						fatto dal Vescovo di Lubiana nella sua consecratione<note xml:id="FN5_093.2_04" type="footnote">Nicht auffindbar. Bischof Chron
-							war von Portia sowie den Bischofen von Seckau und Lavant am 12.
-							September 1599 in Graz zum Bischof von Laibach/Ljubljana geweiht worden:
-							vgl. GATZ, 1448–1648, S. 103f.</note>.<ref target="#SN093.2_a">*a)</ref>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_093.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-12-02" n="1">1599-12-02</title>
+                <title level="a">93.2. Portia an San Giorgio - Graz, 1599 Dezember 2</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 181r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilagen: fol. 190r, Copia eorum quae Passaviensis Administrator
+                        Episcopo Adriae<lb/>Nuntio Apostolico proposuit et ab eo petiit.<lb/>fol.
+                        199r–v, Responsum Episcopi Adriae Nuntii Apostolici ad proposita
+                        et<lb/>petita ab Administratore Passaviensis Episcopatus.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_093.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-12-02" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_093.1.xml"
+                        >93.1. Portia an Clemens VIII. - Graz, 1599 Dezember 5</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_093.3.xml">93.3.
+                        Portia an San Giorgio - Graz, 1599 Dezember 2</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_092.1.xml">92.1. Portia an San
+                        Giorgio - Graz, 1599 November 29</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_093.3.xml">93.3. Portia an San
+                        Giorgio - Graz, 1599 Dezember 2</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia übersendet diverse Schriftstücke.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="93.2">Portia an San Giorgio - Graz, 1599 Dezember 2</head>
+            <div>
+                <p>Con l’ordinario passato<note xml:id="FN5_093.2_01" type="footnote">Nr. 89.1,
+                        89.2, 89.3, 89.4.</note>, essendo io gionto qua di fresco, non puotero
+                    essere tutte le cose in punto che io havessi inviato in un tempo medesimo <pb
+                        xml:id="P5_0000239"/>a V. S. Ill.ma anco la conclusione et gli ultimi
+                    Decreti di Possa, de quali ne incamino hora copia <note xml:id="FN5_093.2_02"
+                        type="footnote">Beilagen dieser Nr. Weitere diesbezugliche Schriftstucke
+                        befinden sich in verschiedenen Bänden des Fondo Borghese im ASV und können
+                        diesem Bericht zumindest hypothetisch als Beilagen zugeordnet werden:
+                        Responsum Canonicorum ad propositionem Episcopi Adria Nuntii Apostolici,
+                        Passau, 1599 Oktober 13, ASV, Fondo Borghese, serie III 107 A-D, fol.
+                        21r–22r; Antwortschreiben des Domkapitels von Passau auf eine Anfrage
+                        Portias in 19 Artikeln vom 14. Oktober, Passau, 1599 Oktober 15, ASV, Fondo
+                        Borghese, serie, III 92 A, fol. 365r–366; Epistola Episcopi Adriae Nuntii
+                        Apostolici relicta Administratori. Episcopatus Passaviensis, 1599 Oktober
+                        21, ASV, Fondo Borghese, serie III 68 CD, fol. 129r–130r; Decreta et
+                        ordinationes relictae ab Episcopo Adriae Nuntio Apostolico Administratori et
+                        Canonicis Ecclesiae Passaviensis, Passau, 1599 Oktober 21, ASV, Fondo
+                        Borghese, serie III 70 B-F, fol. 37r–40r.</note>insieme con quello c’ho
+                    negociato co ’l Sig. Duca di Baviera <note xml:id="FN5_093.2_03" type="footnote"
+                        >Nicht auffindbar. Portia hatte bereits am 20. November 1599 ausfuhrlich
+                        uber das Gespräch mit Herzog Maximilian I. berichtet, führte darin aber
+                        nicht das Thema der Auseinandersetzung zwischen dem Domkapitel von Passau
+                        und dem Herzog aus: vgl. Nr. 89.1. Dem Administrator der Diözese Passau,
+                        Pötting, übermittelte er am 19. November 1599 einen ausführlichen Bericht
+                        über diese Verhandlungen: vgl. HHStA, Hs B 66.</note>, da che potrà V. S.
+                    Ill.ma agevolmente far giudicio d’onde derivi l’origine delle controversie che
+                    continuano tra S. A. et quel Vescovato, sì come dall’aggionta sommaria
+                    consideratione che io faccio nell’istesso proposito vederà parimente qual sia
+                    attorno questi affari l’humil mio parere et quel che io stimi doversi fare
+                    perché passi tra loro confinanti buona intelligenza et amicitia.</p>
+                <p>Nel resto rimettendomi al contenuto delle accennate Scritture …</p>
+                <p>
+                    <note xml:id="SN5_093.2_a" type="siglum">Eigenhändige Ergänzung
+                    Portias.</note>V. S. Ill.ma et R.ma alla quale invio anco il giuramento fatto
+                    dal Vescovo di Lubiana nella sua consecratione <note xml:id="FN5_093.2_04"
+                        type="footnote">Nicht auffindbar. Bischof Chron war von Portia sowie den
+                        Bischofen von Seckau und Lavant am 12. September 1599 in Graz zum Bischof
+                        von Laibach/Ljubljana geweiht worden: vgl. GATZ, 1448–1648, S.
+                        103f.</note>.<ref target="#SN5_093.2_a"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00143">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-02-17" n="2">1582-02-17</title>
+                <title level="a">143. (Malaspina an Erzherzog Karl) - Graz, 1582 Februar 17</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 414rv, Duplikat.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00143">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658" cert="low">Malaspina,
+                        Germanico</persName>
+                    <date when="1582-02-17" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118560069" cert="low">Österreich,
+                        Erzherzog, Karl</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_012">Malaspina,
+                        Germanico - Österreich, Erzherzog, Karl</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00142.xml"
+                        >142. Gallio an Malaspina - Rom, 1582 Februar 17</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00144.xml">144.
+                        Malaspina an die Geheimen Räte Erzherzog Karls - (Graz, 1582 vor Februar
+                        25)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_012" target="L1_00138.xml">138. Malaspina an
+                        Erzherzog Karl - Graz, 1582 Jänner 31</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_012" target="L1_00146.xml">146. (Malaspina) an
+                        Erzherzog Karl - Graz, 1582 März 1</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Bitte um Abstellung des Verkaufes und Verschenkens häretischer Bilder und Bücher
+                    in italienischer, deutscher und slowenischer Sprache in Villach und anderen
+                    bambergischen Gebieten Kärntens.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="143">(Malaspina an Erzherzog Karl) - Graz, 1582 Februar 17</head>
+            <div>
+                <pb xml:id="P1_0000384"/>
+                <p>Intendendosi che in Villaco et altri luoghi sotto il vescovo di Bamberga, oltre
+                    ad infinite sette, che ogni giorno s’introducono per essere quel luogo al
+                    presente il rifugio di tutti gl’inventori et renovatori de le dannate opinioni,
+                    che insieme con questo in lingua italiana,<note xml:id="FN1_00143_01"
+                        type="footnote">Vgl. Nr. 6, S. 18.</note>todesca et schiavona si vendono
+                    publicamente libri et pitture abominevoli in dispreggio del sommo pontefice et
+                    con detrimento grandissimo de la salute de le poveri contadini semplici et
+                    particolarmente de li Schiavoni, <note xml:id="FN1_00143_02" type="footnote"
+                        >Villach war ein wichtiger Umschlagplatz für slowenische reformatorische
+                        Druckwerke, die meist in Fässern verpackt als Konterbande gebracht wurden
+                        (Sakrausky, Ein bisher unbekannter slowenischer protestantischer Katechismus
+                        aus dem Jahre 1580, S. 447 ff.).</note>si supplica l’A. V. che, per vigore
+                    di quella superiorità, che lei ha in quelli lochi, voglia a così gran disordine
+                    applicare quel rimedio, che et la pietà et zelo suo verso la religione catholica
+                    le somministrerà, et che l’amore et filiale osservanza che ha verso S. Bnc
+                    ricerca, non lasciando di dire che è opinione che l’Hoffmam, sdegnato che S. Stà
+                    cerchi di farlo rimovere da quel governo, non solo fomenti, ma sia auttore,
+                    acciò simili scritture si spargano. Il che tanto più facilmente si può credere,
+                    poiché simili scritture et pitture per la maggior parte non si vendono, ma si
+                    donano.</p>
+                <p>Ebenda f. 423v Vermerk: Memoriale presentato a S. A. a XVII di febraro. S. A. ha
+                    dato serioso commandamento al capitano di Carintia, ché rimedii a simili
+                    disordini et ne dia parte a lei, acciò possa castigare li colpevoli. Et non si
+                    dovrà maravigliare il vescovo di Bamberga se S. A. è sforzata di pensare a dar
+                    principio al metter mano ne la sua giurisditione.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

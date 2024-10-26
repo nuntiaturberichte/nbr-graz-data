@@ -1,197 +1,206 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_032.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-04-19" n="1">1599-04-19</title>
-                    <title level="a">32.1. Portia an Aldobrandini - Bamberg, 1599 April 19</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 13r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilagen: fol. 7r–v, Avviso, an Aldobrandini adressiert, Bamberg, 1599
-						April 19.<lb/>fol. 83r–84r, Pro iuvanda et dirigenda Bambergensi Ecclesia
-						valde consul-<lb/>tum videretur, si S. D. N. Episcopo et Capitulo preciperet
-						ut curarent erigi<lb/>Collegium Patrum Societatis Jesu Bamberga, [o.
-						D.].</bibl>
-					<bibl type="regest">
-						<lb/>Regest: Bauer, Quellen, S. 191 (Nr. 30).</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_032.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-04-19" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2952984">Bamberg</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_031.1.xml">31.1. Aldobrandini an Portia - Rom, 1599 April 17</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_033.1.xml">33.1. Aldobrandini an Portia - Rom, 1599 April 24</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_031.1.xml">31.1. Aldobrandini an
-                            Portia - Rom, 1599 April 17</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_033.1.xml">33.1. Aldobrandini an
-                            Portia - Rom, 1599 April 24</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Missstände in Bamberg. Portia tritt für Reformmaßnahmen im Bistum noch vor
-						der Bestätigung des gewählten Bischofs [Gebsattel] ein, die möglichst den
-						nach Rom entsandten Bamberger Unterhändlern [Ertlin, Haarsee] vorgeschlagen
-						werden sollten. Der zweite Informativprozess wird derzeit durchgeführt.
-						Beigefügtes Schreiben.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="32.1">Portia an Aldobrandini - Bamberg, 1599 April 19</head>
-				<div>
-					<pb xml:id="P5_0000065"/>
-					<p>Havendo significato a V. S. Ill.ma sommariamente con le precedenti mie<note xml:id="FN5_032.1_01" type="footnote">Nr. 30.1, 30.2.</note> lo stato di
-						questo Vescovado et di questo Clero et proposto assai ristrettamente et
-						forsi troppo rissolutamente quello ch’io crederei che potesse giovar per
-						rimedio de più gravi disordini et pericoli che potrebbon succedere, ho
-						giudicato convenirsi all’obligo et debito mio di aggionger<note xml:id="SN032.1_a" type="siglum">Eigenhändige Einfügung Portias.</note>
-							anco<ref target="#SN032.1_a">*a)</ref> alcuni particolari per
-						espositione almeno di qualche parte di quello ch’io ho scritto con le
-						passate, et tanto più quanto ch’io son venuto in consideratione che se non
-						si sovviene a questa chiesa al presente, et prima che si conceda la
-						confermatione a quest’Eletto, che sarà difficile l’aiutarla in altre
-						occasioni, et perché in queste Provincie il tutto si riduce a consultationi
-						per valersi del beneficio del tempo et far poi puoco o nulla di quello che
-						se le ricorda et ch’a loro non piace. Io ho anco giudicato di mandar a V. S.
-						Ill.ma la sostanza di quello che si potrebb’insinuare a cotesti mandati
-						costà da quest’Eletto per ottener la confermatione, et tanto più quanto
-						ch’io ho inteso ch’essi hanno in commissione di visitar Sancta Limina
-						Apostolorum, però parendo a V. S. Ill.ma si potrebbe farle proporre costì
-						alcuni degli capi ch’io ho notato nell’aggionta scrittura<note xml:id="FN5_032.1_02" type="footnote">Beilage dieser Nr.</note> acciò
-						che da sé medesimi venissero ad obligar il suo Padrone ad esseguir bene
-						l’officio suo et conform’agl’avvertimenti di cotesta Santa Sede, alla quale
-						questo Vescovado è immediatamente sottoposto. Aggiongendo che se non s’opera
-						alcuna cosa solidamente per il buon indrizzo et regimento di questa Chiesa,
-						che si può temerne ogni incommodo,<pb xml:id="P5_0000066"/> stimando io
-						ch’ella sia ne più cativi termini che possa esser Chiesa di Germania per le
-						ragioni ch’io ho di già toccato nelle precedenti et per il pericolo che si
-						può havere dagl’Heretici vicini et domestici et dai cativi Ecclesiastici,
-						gli quali si suol dire che sian stati cagione di tutte le perdite che si son
-						fatte nello stato Ecclesiastico di Germania.</p>
-					<p>Ho di già dato principio all’inquisitione et processo sopra la persona
-						dell’Eletto et confido di poterlo mandare con il seguente ordinario .</p>
-					<p>
-						<note xml:id="SN032.1_b" type="siglum">Eigenhändige Ergänzung
-							Portias.</note> Non ostante ch’io mandi l’aggiunta scrittura per la
-						ragion sopradetta, non lascerò io di far anco quello ch’io potrò giudicar
-						esser spediente et possibile per dar qualche buon indrizzo a questi affari,
-						ma congiunta l’autorità di V. S. Ill.ma et degl’Ill.mi della Congregatione
-						io ne sperarei profitto maggiore.<ref target="#SN032.1_b">*b)</ref>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_032.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-04-19" n="1">1599-04-19</title>
+                <title level="a">32.1. Portia an Aldobrandini - Bamberg, 1599 April 19</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 13r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilagen: fol. 7r–v, Avviso, an Aldobrandini adressiert, Bamberg, 1599
+                        April 19.<lb/>fol. 83r–84r, Pro iuvanda et dirigenda Bambergensi Ecclesia
+                        valde consul-<lb/>tum videretur, si S. D. N. Episcopo et Capitulo preciperet
+                        ut curarent erigi<lb/>Collegium Patrum Societatis Jesu Bamberga, [o.
+                        D.].</bibl>
+                    <bibl type="regest">
+                        <lb/>Regest: Bauer, Quellen, S. 191 (Nr. 30).</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_032.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-04-19" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2952984">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_031.1.xml"
+                        >31.1. Aldobrandini an Portia - Rom, 1599 April 17</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_033.1.xml">33.1.
+                        Aldobrandini an Portia - Rom, 1599 April 24</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_031.1.xml">31.1. Aldobrandini an
+                        Portia - Rom, 1599 April 17</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_033.1.xml">33.1. Aldobrandini an
+                        Portia - Rom, 1599 April 24</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Missstände in Bamberg. Portia tritt für Reformmaßnahmen im Bistum noch vor der
+                    Bestätigung des gewählten Bischofs [Gebsattel] ein, die möglichst den nach Rom
+                    entsandten Bamberger Unterhändlern [Ertlin, Haarsee] vorgeschlagen werden
+                    sollten. Der zweite Informativprozess wird derzeit durchgeführt. Beigefügtes
+                    Schreiben.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="32.1">Portia an Aldobrandini - Bamberg, 1599 April 19</head>
+            <div>
+                <pb xml:id="P5_0000065"/>
+                <p>Havendo significato a V. S. Ill.ma sommariamente con le precedenti mie<note
+                        xml:id="FN5_032.1_01" type="footnote">Nr. 30.1, 30.2.</note>lo stato di
+                    questo Vescovado et di questo Clero et proposto assai ristrettamente et forsi
+                    troppo rissolutamente quello ch’io crederei che potesse giovar per rimedio de
+                    più gravi disordini et pericoli che potrebbon succedere, ho giudicato convenirsi
+                    all’obligo et debito mio di aggionger <note xml:id="SN5_032.1_a" type="siglum"
+                        >Eigenhändige Einfügung Portias.</note>anco<ref target="#SN5_032.1_a"/>
+                    alcuni particolari per espositione almeno di qualche parte di quello ch’io ho
+                    scritto con le passate, et tanto più quanto ch’io son venuto in consideratione
+                    che se non si sovviene a questa chiesa al presente, et prima che si conceda la
+                    confermatione a quest’Eletto, che sarà difficile l’aiutarla in altre occasioni,
+                    et perché in queste Provincie il tutto si riduce a consultationi per valersi del
+                    beneficio del tempo et far poi puoco o nulla di quello che se le ricorda et ch’a
+                    loro non piace. Io ho anco giudicato di mandar a V. S. Ill.ma la sostanza di
+                    quello che si potrebb’insinuare a cotesti mandati costà da quest’Eletto per
+                    ottener la confermatione, et tanto più quanto ch’io ho inteso ch’essi hanno in
+                    commissione di visitar Sancta Limina Apostolorum, però parendo a V. S. Ill.ma si
+                    potrebbe farle proporre costì alcuni degli capi ch’io ho notato nell’aggionta
+                    scrittura <note xml:id="FN5_032.1_02" type="footnote">Beilage dieser
+                    Nr.</note>acciò che da sé medesimi venissero ad obligar il suo Padrone ad
+                    esseguir bene l’officio suo et conform’agl’avvertimenti di cotesta Santa Sede,
+                    alla quale questo Vescovado è immediatamente sottoposto. Aggiongendo che se non
+                    s’opera alcuna cosa solidamente per il buon indrizzo et regimento di questa
+                    Chiesa, che si può temerne ogni incommodo,<pb xml:id="P5_0000066"/> stimando io
+                    ch’ella sia ne più cativi termini che possa esser Chiesa di Germania per le
+                    ragioni ch’io ho di già toccato nelle precedenti et per il pericolo che si può
+                    havere dagl’Heretici vicini et domestici et dai cativi Ecclesiastici, gli quali
+                    si suol dire che sian stati cagione di tutte le perdite che si son fatte nello
+                    stato Ecclesiastico di Germania.</p>
+                <p>Ho di già dato principio all’inquisitione et processo sopra la persona
+                    dell’Eletto et confido di poterlo mandare con il seguente ordinario .</p>
+                <p>
+                    <note xml:id="SN5_032.1_b" type="siglum">Eigenhändige Ergänzung
+                    Portias.</note>Non ostante ch’io mandi l’aggiunta scrittura per la ragion
+                    sopradetta, non lascerò io di far anco quello ch’io potrò giudicar esser
+                    spediente et possibile per dar qualche buon indrizzo a questi affari, ma
+                    congiunta l’autorità di V. S. Ill.ma et degl’Ill.mi della Congregatione io ne
+                    sperarei profitto maggiore.<ref target="#SN5_032.1_b"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00175">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1584-06-13" cert="low" n="2">vermutlich
+					1584-06-13</title>
+				<title level="a">175. (Graz, 1584 Juni 13)</title>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 101, f. 206r—207v, Orig.; Duplikat ebenda f.
+							227r—<lb/>228v.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00175">
+				<correspAction type="sent">
+					<date when="1584-06-13" n="2" cert="low"/>
+					<placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+				</correspAction>
+				<correspContext>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00174.xml"
+						>174. Malaspina an Gallio - Graz, 1584 Juni 13</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00176.xml">176.
+						Malaspina an Gallio - Graz, 1584 Juni 19</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Gutachten Malaspinas über von Erzherzog Karl erbetene päpstliche Hilfsgelder für
+					Haltung von Besatzung gegen in Religionsangelegenheiten ungehorsame Bürger von
+					Graz.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="175">(Graz, 1584 Juni 13)</head>
+			<div>
+				<p>Perché il ser.mo arciduca Carlo ricerca al presente che il nuntio prepari danari
+					in evento che perseverando la disobedienza de li cittadini fosse necessario
+					porre presidio,<note xml:id="FN2_00175_01" type="footnote">Vgl. oben Nr.
+						174.</note>ha giudicato il nuntio non esser fuor di proposito il
+					rappresentare a la S.tà di N. S. più distintamente di quello che per l’adrieto
+					s’habbi fatto doi punti, cioè il stato del negotio de la religione et le cause
+					per le quali si può movere l’arciduca a far risolutione di mettere il presidio,
+					non ostante che sia stato altre volte dissuaso da la M.tà del imperatore.<note
+						xml:id="FN2_00175_02" type="footnote"> Anfangs 1582 riet Rudolf II. von
+						einer Besatzung in Graz ab (Rainer, Grazer Nuntiatur I, S. 368f.).</note>
+				</p>
+				<p>Circa il primo si pone per fondamento et massima verissima che l’impresa, che si
+					ha per le mani, sicome non fu mai tanto difficile che havesse del impossibile,
+					così al presente non negando li nobili le contributioni per rispetto di essa,
+					come per il passato hanno fatto, è tanto manco difficile da perfettionarsi né si
+					deve rebuttare questo fondamento, senza il quale invano si cercarebbe di
+					edificare. Per haver noi qua havuti rincontri così essorbitanti, perché è cosa
+					ordinaria et naturale che ogni principio porti seco difficultà, et tanto
+					maggiori nel caso nostro trattandosi di deradicare heresia talmente cresciuta,
+					essendo cosa sopranaturale l’edificare in un giorno quello che si è distrutto in
+					molti anni, et precipuamente non si abolendo affatto<pb xml:id="P2_0000273"/>
+					l’essercitio lutherano, ma restando ne la città chiesa et predicatori di questo
+					condennato essercitio.</p>
+				<p>Et se ben a le volte il nuntio considerando la disobedienza de li cittadini et
+					riducendosi a memoria la forma, che hanno tenuta li nobili, quando sono anco
+					essi stati molestati,<note xml:id="FN2_00175_03" type="footnote">Malaspina
+						dürfte hier vor allem an den Landtag im Winter 1580/81 denken, den Erlaß des
+						Religionsdekretes und den Fußfall der Stände (Rainer, Grazer Nuntiatur I, S.
+						173f., 190f.).</note>viene in cognitione esser verissimo quello, che si suol
+					dire, che è più sicuro giocare di scrimia con li huomini che siano periti del
+					arte che con quelli che senza artificio alcuno tiranno li colpi. Poiché se ben
+					li nobili si sono mostrati disobedienti, non sono stati però senza timore di non
+					essere offesi, et si sono governati con qualche arte nel difendersi, ma dal
+					altro canto li cittadini vanno dando di continuo inditii di non stimare non solo
+					li colpi ordinarii ma ne li mortali, anzi di più mostrano di lasciarsi ferire a
+					bel studio, con tutto ciò maturando questo fatto con più fermo giuditio, et
+					sottrahendo da buono et sicuro luogho l’intimo del secreto de li cittadini
+					ritrova che loro si governano prudentemente et artificiosamente, perché
+					argumentando de le osservationi passate de la natura del principe si persuadeno
+					di potere impunemente tentare ogni estremo di disobedienza, né sono per ancora
+					totalmente certi che l’A. S. spontaneamente, non instigata da altri, si mova a
+					molestarli, anzi ardiscono di dirle in scritto et in viva voce che sanno che
+					ella è benigna, ma che altrimente mettono su.</p>
+				<p>Essi perciò essendo fascinati dal heresia et agitati dal spirito diabolico sopra
+					la sopradetta massima de la natura di S. A. fanno doi presuppositi: Il primo è
+					di assicurare l’asserta conscientia loro, l’altro è di assicurare quella di S.
+					A., perché da un canto dicono se li nobili per rispetto nostro hanno messo in
+					compromesso li confini et le proprie loro concessioni, hanno dissolute diete,
+					hanno havuto ricorso al imperio, hanno mandato ambasciatori a diversi principi
+					et ottenute lettere di intercessione, hanno finalmente desdignato S. A. et
+					perturbata per quattro continui anni la essecutione,<note xml:id="FN2_00175_04"
+						type="footnote">Die Durchführung des Religionsdekretes vom 10. Dezember 1580
+						wurde am 3. Februar 1581 suspendiert (Loserth, FRA II/50, S. 78—83, 217;
+						Rainer, Grazer Nuntiatur I, S. 146—151, 178, 189).</note>che cosa siamo
+					obligati a far noi per noi stessi se loro hanno fatto tanto non per loro ma per
+					noi et perciò acciò tutti quelli de la loro farina li tenghino per escusati in
+					conscienza se pur saranno sforzati ad obedire, vogliono però<pb
+						xml:id="P2_0000274"/> tentare con ogni conato ogni estremo. Dal altro canto
+					se S. A. a caso non dicesse da dovero, cosa che io mai di lei ho suspicato, li
+					cittadini pensano di farne un saggio una essorbitante et universale
+					disobedienza, andando a camino di ridurla a termine che l’A. S. possi con
+					pretesto honesto o almeno apparente dire al nuntio che lei ha tentato con uno
+					manifesto pericolo ogni via et mezzo per farsi obedire, et che bisognava
+					applicare la medicina a la piaga inanzi che fosse infestolita, et che perciò
+					havendo fatto quello che lei ha potuto si tiene per sicura in conscienza, ma
+					essendo alcuno tenuto al impossibile.</p>
+				<p>Questi sono veramente né di perseverare perpetuamente ne la disobedienza, che ben
+					conoscono di non lo poter fare, se ben con parole tentano di mettere timore nel
+					animo del A. S.; onde il nuntio tiene per cosa certa che se ben non si mettesse
+					il presidio che con un poco di tempo et con la semplice constantia di S. A. si
+					macerarebbono questi ostinati cervelli, perché se desinganarebbono del opinione
+					conceputa circa la mente di S. A.; ma perché doppo d’essersi conquassati li
+					bastioni et aperte le muraglia, come si è andato facendo con l’incarcerare et
+					bandire li cittadini, è più sicuro al risolversi di dare un regio assalto che il
+					tentare di pigliare la fortezza col tenerla semplicemente molestata et
+					assediata. Però il nuntio tiene per attione molto a proposito il mettere il
+					presidio, perché il tempo può portar seco diversi accidenti pernitiosi, li quali
+					non è possibile a prevederli né farli sufficienti ripari, oltre che quando sarà
+					qua il presidio, al credere di molti, li predicatori permessi a li nobili si
+					spaventaranno di modo che forsi pigliaranno partito di absentarsi o almeno non
+					ardiranno straparlare impudentemente, come son stati soliti di fare, et se S. A.
+					vorrà a suo tempo contenere li nobili in offitio circa la religione lo potrà con
+					manco difficultà fare.</p>
+				<p>Et oltre di questo mostrandosi li cittadini del senato renitenti in procedere
+					contra li loro consorti ne la religione col bandirli et incarcerarli, parendoli
+					che sia attione di diretto contra la loro fascinata conscientia, lamentandosi
+					insieme che non si dovrebbe da loro ricercare più che la obedientia de le loro
+					persone, la quale insin hora hanno prestata, et stando la consuetudine del paese
+					di valerse de li senatori per instrumento a castigare li cittadini disobedienti,
+					non havrebbe però S. A. forza né modo alcuno di farsi obedire ogni volta che il
+					senato si escusasse assolutamente di volere in questo essequire la mente di S.
+					A., et perciò in tal caso sarà per esser necessario il presidio. Et queste a
+					giuditio del nuntio possono essere la ragioni, perché l’A. S. si è mossa a
+					ricercare aiuto da N. S. per mettere il presidio.</p>
+				<pb xml:id="P2_0000275"/>
+				<p>Ma non ostante tutto questo si hanno da havere in questo fatto due cose in
+					consideratione: La prima è che se S. A. ne la lettera diretta al ill.mo
+					cardinale Madruccio dicesse,<note xml:id="FN2_00175_05" type="footnote"/>che
+					essendo stato confortato da S. S.tà a mettere il presidio pensa perciò di farlo,
+					se li rispondi in forma che non dissuadendolo punto, non se li faccia bono che
+					così fatto partito sia stato preso per le essortationi di N. S., perché oltre a
+					le ragioni adotte ne la mia de li 30 del passato, <note xml:id="FN2_00175_06"
+						type="footnote"/>essendo stato l’imperatore contrario a questa attione del
+					presidio non terrebbe il nuntio per sicuro che S. B.ne se ne facesse lei
+					authore; secondariamente scrivendosi circa questo al ill.mo sig. cardinale
+					Madruccio conditionatamente non laudarebbe il nuntio che si facesse rimettere
+					tutta la somma già promessa, ma una così tenue quantità, la quale, non si
+					mettendo il presidio, non fosse pericolo che qua fossero per adocchiare, et far
+					perciò instantia che li fosse lasciata, et però si doverebbe ordinare che non si
+					portassero qua più di quattro o sei milia scudi, et approvandosi questo parere
+					del nuntio, non essendo conveniente, che in simil minutie S. B.ne sia nominata,
+					si potrebbe rispondere al S. A. che circa li danari etc. S. S.tà si remette a la
+					discretione del nuntio come quello che è sul fatto. Et il nuntio spera che con
+					la propensa inclinatione, che li porta S. A., et il credito, che si persuade di
+					haver con li ministri, siano per restar sodisfatti tutti, se ben non havranno
+					qua quella somma de danari, che havrebbono desiderato. <note
+						xml:id="FN2_00175_07" type="footnote">Vgl. unten Nr. 180.</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

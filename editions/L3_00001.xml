@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00001">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1592-03-28" n="1">1592-03-28</title>
+				<title level="a">1. Erste Instruktion für Portia - Rom, 1592 März 28</title>
+				<author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+								Heinz</persName>
+							<persName>Rainer Christian</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+							Kobenzl; 1592-1595</title>
+						<idno type="ISBN">3-7001-2964-5</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>2001</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Historisches Institut beim Österreichischen Kulturinstitut
+									in Rom</orgName>
+								<persName>Bösel Richard</persName>
+								<persName>Fillitz Hermann</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="3">3. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="484">484 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Historischen Instituts beim
+							Österreichischen Kulturinstitut in Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. F. Borg. I vol 751—752, f. 164r—175v Kopie; f. 178r-187r
+							Kopie der<lb/>Additio; F. Pio vol. 23, f. 229r—230v, Kopie,
+							unvollständig.<lb/>Druck: Jaitner, S. 20—32.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L3_00001">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/119022524" cert="low">Papst, VIII.,
+						Klemens</persName>
+					<date when="1592-03-28" n="1"/>
+					<placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+				</correspAction>
+				<correspContext>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00328.xml"
+						>328. Caligari an Montalto - (Görz), 1587 Jänner 15</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L3_00002.xml">2.
+						Klemens VIII an Hzg Wilhelm von Bayern - Rom, 1592 April 1</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>I. Einleitung: Eignung des Nuntius.</p>
+				<p>II. Beilegung des Streites um Propstei Berchtesgaden zwischen Bayern und
+					Salzburg: 1. Aufgabenstellung für Nuntius; Schriftstücke beider Seiten; Inhalt
+					des Streites; rechtliche Stellung der Propstei; — 2. Sorge für Rückkehr von nach
+					Salzburg entwichenen Mönchen. Absolute Neutralität des Nuntius. — 3.
+					Entscheidung für Abhängigkeit der Propstei von Salzburg: a) Verzicht Bayerns auf
+					Koadjutorie. — b) Versöhnung des Propstes mit Eb. — c) Visitation der Propstei
+					durch Nuntius. — d) Bei Unfähigkeit des gegenwärtigen Propstes dessen Absetzung
+					und Neuwahlen. — 4. Entscheidung für Immunität der Propstei: a) Verbot weiterer
+					Einmischung des Eb.; Schutz der Immunität durch Kaiser und Tirol. — b) Reform
+					durch Nuntius; bei Neuwahlen Temporalien durch Kaiser; Vogtei des Hauses
+					Österreich. — 5. Wahrung der Rechte Bayerns. — 6. Sorge für Durchführung der
+					Reform und Herstellung von Eintracht in Propstei. — 7. Wiederherstellung aller
+					Gerechtsamen der Propstei. — 8. Versöhnung zwischen Hzg von Bayern und Eb. von
+					Salzburg. — 9. Im Falle einer nicht zu erreichenden Rechtsfindung Darstellung
+					der Position und Lösungsvorschläge an Kongregation; Hinzuziehung zweier Bischöfe
+					für Vergleichszwecke; genaue Berichte. — Schlussformeln.</p>
+				<p>III. Additio: 1. Unterredung in Innsbruck mit Ehzg Ferdinand über Situation der
+					Steiermark; Verhinderung einer weiteren Ausbreitung des Protestantismus;
+					Entsendung eines Nuntius nach Graz; Anstrengung aller Tutoren des jungen Ehzg
+					für Rekatholisierung. — 2. Besondere Förderung der Interessen des Hauses
+					Habsburg durch Papst; Wunsch nach weiteren Informationen durch Ehzg Ferdinand;
+					Stellungnahme Bayerns.</p>
+				<p>IV. Vorschläge zur Errichtung eines Juristenkollegs in Ingolstadt: 1. Diskussion
+					des Nuntius mit Bayern: Sorge für Ausbildung katholischer Beamter und Juristen;
+					gescheiterter Versuch einer Kollegsgründung in Bologna; Idee für Kolleg in
+					Ingolstadt unter Verwendung bereits vom Papst bewilligter Mittel aus kirchlichem
+					Besitz. — 2. Argumentationshilfen: a) Bereitstellung eines Grundstückes. — b)
+					Vorteile für Stadt und Herzogtum. — c) Zuwachs an Ansehen und Einfluss im Reich
+					durch Ausbildung von Jesuiten. — d) Aufblühen der Universität. — e) Einstel<pb
+						xml:id="P3_0000004"/> lung von zusätzlichen Professoren. — f)
+					Wirtschaftliche Vorteile für Ingolstadt. — g) Wachsende Bedeutung der
+					Universität im Ausland. — h) Beamtennachwuchs für Bayern und andere Fürsten.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="1">Erste Instruktion für Portia - Rom, 1592 März 28</head>
+			<div>
+				<pb xml:id="P3_0000003"/>
+				<p>Sacrosanctae Sedis Ap.cae ministros omnes decet ubique exemplo vitaeque
+					integritate ac inculpatis moribus praelucere, eos vero maxime qui in Germania;
+					versantur, tum ut per eiusmodi virtutes alienati contrariis falsisque plerumque
+					opinionibus animi ad sanitatem reducantur, tum vero ut illarum partium prelati
+					presentem laudabilemque intueantur normam ad quam se ipsos non accommodare
+					erubescant. Haec tibi, Illustris Comes, in mentem revocare supervacaneum plane
+					ducimus. Tam honeste quam religiose vixisti hactenus, ut dubitare de te deque
+					probitate tua imposterum non liceat, cum precipue stimulus tibi ad omnem
+					pietatem et rectitudinem futurus sit acutissimus Sanctissimi Domini Nostri zelus
+					miraque de animarum salute solicitudo, tum vero iuditium de te per honorificum
+					et singulare, quod tuam precipue operam in rebus gravissimis elegeris facturus
+					experimentum certum et magnum, quam sis deinceps ad magis etiam ardua futurus
+					idoneus. Proinde aggredi provinciam hanc magno studio magnisque conatibus
+					oportet, divinum auxilium quotidianis precibus et sacrificiis implorandum, ut
+					rem geras feliciter tantaeque respondeas expectationi.</p>
+				<p>II. 1.Primae officii tui erunt partes dare operam, ut Bavariae Ducis<note
+						xml:id="FN3_00001_01" type="footnote">Wilhelm V., 1579—1597/98 Hzg von
+						Bayern: Spindler II, 351 ff.</note>Salisburgensisque Archiepiscopi <note
+						xml:id="FN3_00001_02" type="footnote">Wolf Dietrich von Raitenau 1587—1612
+						Eb. von Salzburg: HC III, 291; HC IV, 302; Koller-Neumann, Wolf Dietrich, 45
+						ff.; Jaitner I, 22 A2.</note>animi nuper magnis dissidiis irritati
+					concilientur. Controversiae causa fuit Berchdesgadensis Prepositura;<note
+						xml:id="FN3_00001_03" type="footnote"> Berchtesgaden, reichsunmittelbares
+						Augustiner-Chorherrenstift mit reichem Salinenbesitz, an dem Bayern und
+						Salzburg interessiert waren: Jaitner I, 22 A3.</note>dum enim uterque
+					monasticam disciplinam ibidem magis custodiri divinumque cultum melius
+					instaurari cupit, orta est circa iurisdictionem disceptatio, Praeposito <note
+						xml:id="FN3_00001_04" type="footnote">Jakob II., 1567—1594 Propst von
+						Berchtesgaden: Martin 15.</note>sese ab omni Archiepiscopi iurisdictione
+					vindicante Ducisque patrocinium implorante, Archiepiscopo vero ecclesiae suae
+					iura studiosissime defendente. Hinc factum est, ut Praepositus, quo se tutius
+					contra Archiepiscopi potentiam muniret, coadiutorem cum spe futurae successionis
+					Ferdinandum; ipsius Ducis filium <note xml:id="FN3_00001_05" type="footnote"
+						>Ferdinand, Sohn Hzg Wilhelms von Bayern, 1591 Koadjutor von Berchtesgaden,
+						1595 Koadjutor von Köln, 1612 Eb. von Köln: HC IV 156, 246, 270; Jaitner I,
+						22 f. A5.</note>assumere tentaverit.</p>
+				<pb xml:id="P3_0000005"/>
+				<p>Inspicienda sunt igitur tibi imprimis scripta omnia, quae hic de Praepositurae
+					iuribus per utriusque partis procuratores sunt exhibita<note
+						xml:id="FN3_00001_06" type="footnote">Gutachten Bayerns und Salzburgs: F.
+						Borg. III 68 A, f. 8r—9r, 20r—21v.</note>, ut ex his et ex aliis, quae cum
+					ibi eris diligentiori indagere poteris examinare, certo cognoscere valeas,
+					verone Praepositura illa Archiepiscopi iurisdictioni subsit an vero immunis
+					Sanctaeque Sedi Ap.cae immediate subiecta existat; haud enim minima totius litis
+					pars hinc pendet. Erit autem habenda ratio, ut utriusque partis iura argumenta,
+					scripta aut probationes examinentur diligenter, ut quantum fieri potest utrique
+					satisfiat.</p>
+				<p>2. Mandabis cum primum eo veneris, ut monachi quattuor, qui ex monasterio sese
+					Salisburgum; contulerant, redeant statim ad monasterium iisque ne ullum metuant
+					periculum aut iniuriam, tua cavebis auctoritate et fide. Tum vero Archiepiscopum
+					admonebis, ne se interim in ipsa Praepositura ullo modo immisceat, idemque a
+					Duce, si quid forte ipse innovare cogitaret, impetrabis. Haec ad rem totam
+					cognoscendam sedatis principum illorum altercationibus spacium dabunt opportunum
+					et integrum.</p>
+				<p>3a. Aut igitur Praeposituram ipsam ordinarie Salisburgensi iurisdictioni
+					subiectam reperies aut immunem, quae non alium superiorem quam Ap.cam agnoscat.
+					Si Archiepiscopo subiectam invenies, hoc erunt tibi imprimis quanta poteris
+					dexteritate et diligentia peragenda. Primo, ut Bavariae Duci persuadeas nec
+					coadiutoriae nec eius confirmationi ullum iam esse locum, quandoquidem totum
+					illud consilium a Praepositurae immunitate, quam nullam esse constat, originem
+					habuerit, nec alioquin decere contra Sacrorum Canonum praescripta nulla urgente
+					necessitate ad eiusmodi insolitas concessiones devenire. At si Ducis nomine
+					obtinendae coadiutoriae causa responderetur coadiutorem archiepiscopatus iura
+					non violaturum ac sese paratum illam agnoscere superioritatem eaque agere omnia
+					quae privatus quispiam praepositus praestare soleat aut debeat, replicabis ad
+					haec non solere coadiutorias nisi gravissimis de causis permitti, nullam autem
+					causam hic apparere praeposituram vero regularem esse, quae perpetuo in titulum
+					concedi consueverit, praeter alias non parvi momenti rationes, quae tibi haud
+					difficulter occurrent.</p>
+				<p>3b. Secundo, si Archiepiscopi animum ob praesentes turbas moderno Praeposito
+					indignatum offenderis, eum vero dignitate aut administratione removere in
+					praesentia forte non expediat, dabis operam, ut in Archiepiscopi gratiam redeat,
+					ne privatae ullae offensiones publicum impediant bonum.</p>
+				<p>3c. Tertio, si quae erit instituenda visitatio, eam tu hoc tempore pro Ap.ci
+					nuntii officio adiuncto tamen ab ipso Archiepiscopo viro aliquo ad <pb
+						xml:id="P3_0000006"/>eam apto et perito peragere debebis, imprimisque
+					monasterii ipsius regula et institutis sedulo perspectis ea ad pristinam
+					observantiam, quantum fieri poterit, redigere curabis, utque conventualium
+					numerus talis existat, qualis esse debet, atque inter eos vitiis omnibus
+					eliminatis votorum laudabilis habeatur ratio et custodia. Novitiatus insuper
+					erit omnino instituendus praescribendumque, ut Ingolstadii; aut Dilingae; duo,
+					tres, pluresve adolescentes eidem monasterio mancipati alantur in studiis. Et
+					sic demum omnia ibi emendanda et corrigenda erunt, ut appareat potuisse nos Dei
+					omnipotentis ope ex illis etiam controversiis haud exiguum percipere fructuum,
+					qui sane constabit maximus, si tua fiat industria, ut monasterium illud
+					imposterum monasticae disciplinae, divini cultus, pietatis, religionis, omnium
+					virtutum caeteris quotquot in Germania; sunt exemplo esse queat. Hoc Sanctissimo
+					Domino Nostro gratissimum, tibi erit valde honorificum.</p>
+				<p>3d. Quarto, si moderni Praepositi ea apparerent delicta illudve ingenium inertia
+					aut obstinatio, ut regimini prorsus videretur ineptus ac propterea vel ipse
+					deponendus vel saltem coadiutor alius designandus videretur, successor talis
+					querendus est, qui et vetera instituta et sanctiones novas factas tectas servare
+					maxime possit et velit. Eiusmodi autem virum si neminem in ipso monasterio
+					existere animadverteris, id debebis quam primum huc perscribere simulque dextere
+					indagare, unde talem quempiam nostris accommodatum consiliis advocare liceret;
+					facile enim, ut ex alio monasterio aliove etiam ordine assumatur, hinc dabitur
+					facultas. Huius autem totius sententiae rationes sic essent dirigendae, ne
+					Archiepiscopus quicquam sibi censeret ademptum suamve iurisdictionem immunitam,
+					neve quisquis in Praepositura substitueretur aut ipsi aut Duci posset esse
+					aliquo nomine suspectus, sed eius ingenii et prudentiae, ut non solum
+					Praeposituram in sacris prophanisque rebus administrare posset, sed per quem
+					etiam ipsorum principum animi conciliarentur magis et coalescerent. Atque haec
+					satis in illum eventum praemonstrata sint, si Praepositura Salisburgensi
+					Archiepiscopatui; subesse constiterit.</p>
+				<p>4a. Sin vero Praeposituram ipsam immunem Sedique Ap.cae immediate subiectam esse
+					deprehenderis, monendus primo erit Archiepiscopus, ne violare praeiuditio ullo
+					Ap.ca iura tentet, neve sese amplius ullo modo in hoc negotio immisceat. Tum
+					vero ea de re quam primum et ad Imperatorem<note xml:id="FN3_00001_07"
+						type="footnote">Rudolf II., 1576—1612 Kaiser: Vocelka, Rudolf II.</note>et
+					ad Archiducem Ferdinandum <note xml:id="FN3_00001_08" type="footnote">Ehzg
+						Ferdinand, 1564—1595 Landesfürst von Tirol und den Vorlanden: Hirn, Ehzg
+						Ferdinand II.</note>scribere debebis, ut Praeposituram ab ordinaria
+					iurisdictione exemptam Sanctae Sedi Ap.cae imme<pb xml:id="P3_0000007"/>diate
+					subiectam atque in ea libertate et immunitate manutenendam intelligant.</p>
+				<p>4b. Perges deinde, ut supradictum est, nullo tamen Archiepiscopi ministro
+					adhibito collapsam disciplinam in monasterio diligenter instaurare
+					canonicorumque vitam et mores emendare. Qua in re dabis operam, ut unum<note
+						xml:id="SN3_00001_a" type="siglum">Ende des Textes im Fondo Pio
+					23.</note>pluresve nullo partium studio affectos, sed in eiusmodi visitationibus
+					versatos ac monasticae disciplinae amantes adsiscas, quorum opera et consilio in
+					visitatione atque reformatione utaris. Quod si necessarium sit aut Praepositum
+					modernum omnino reiicere aut coadiutorem illi substituere, facies ea etiam de re
+					Suam Cesaream Maiestatem certiorem. Cum enim Praepositura imperatorii iuris in
+					temporibus sit et regalia ab imperatore accipiat, sub Domus vero Austriacae
+					protectione aut advocatia existat, aequum est quicquid in ea magni momenti
+					immutetur aperte profiteri nec Cesareae nec Austriacae autoritati quicquid
+					detrahi, sed unicam esse curam, ut pax inter canonicos illos coalescat, cultus
+					divinus et monastica disciplina florescat.</p>
+				<p>5. Tum vero si quid iuris Bavariae Ducibus in Praepositura illa competere
+					animadverteris aut consuevisse praepositos Bavariae Ducibus aliquo se iuramento
+					obstringere, habebis etiam rationem, ut Duci suae integrae conserventur
+					praeeminentiae.</p>
+				<p>6. Facta monasterii visitatione ac correctione salutari omnis fructus videtur in
+					perseverantia ac diuturnitate persistere, nec cum primum inde discesseris ruant
+					cuncta in deterius. Proinde in illud studiosius incumbendum, ut ille qui
+					praeficitur cordatus, pius, zeloque et caritate insignis sit. Quibus rationibus
+					Bavariae etiam Duci persuadebis haec a puero principe, qui eandem regulam non
+					profiteatur, vix et ne vix quidem praestari posse nec debere principem
+					religiosum suam filiive sui conscientiam hoc modo onerare; tum vero ut pro sua
+					prudentia cogitet, quandoquidem Praepositura ipsa est in archiepiscopatus
+					Salisburgensis visceribus constituta, convenire etiam talem ei Praepositum
+					praefici, per quem ecclesiae illius quies perturbari non queat, quam suspicionem
+					si maxime principum aequitas removere et diluere debeat, veruntamen non semper
+					imitari principum ministros aequitatem, sed serere plerumque discordiarum
+					semina, quae paulatim in magnam discordiam evadunt. Archiepiscopo vero id erit
+					praecipue instillandum, ne cum ipsa Praepositura ecclesiae suae finitima sit
+					multumque intersit, quisnam inde odor emanet, ne quicquam sibi praeter pietatis
+					disciplinae bonorumque morum introductionem cordi esse ostendat, cum praecipue
+					providendum sit, ne praepositus quisquis ille nunc aut imposterum futurus sit,
+					libertate immunitateve sua<pb xml:id="P3_0000008"/> in archiepiscopi
+					archiepiscopatusve detrimentum abutatur, sed in iis tantum, quae ad
+					ecolesiasticam iurisdictionem pertinent, sua tueatur privilegia.</p>
+				<p>7. Si quid vero vel a Duce vel ab Archiepiscopo de iuribus, bonis, redditibus aut
+					libertatibus ipsius monasterii usurpatum animadverteris, sedulo ut restitutione
+					facta unicuique quod suum est integrum maneat cavebis. Quod reliquum est in hoc
+					genere, erit etiam de postulatione Bavariae principis inquirendum, qua ratione,
+					quo consilio, quibus de causis, quibusve artibus ea instituta, quid ex ipsa vel
+					approbata vel non approbata boni aut mali provenire posset ac de singulis quam
+					primum et quam diligentissime perscribendum.</p>
+				<p>8. Quicquid vero circa Praeposituram ipsam secundum supra descripta mandata
+					statuere contigerit, singularis tua cura esse debet, ut discrepantes illorum
+					principum animos reconcilies mutuaque caritate coniungas. Nam si etiam causam
+					hanc iure agere pergant, nihil obstat, quin in caeteris amicitiam humaniter
+					colant. Ad hanc rem multa tibi haud deerunt argumenta, quae ex Sanctissimi
+					Domini Nostri desiderio et autoritate atque adeo ex paterna illa cura, quam de
+					illis gerit, facile desumentur: tum vero ex catholicae religionis iactura iisque
+					detrimentis, quae per eiusmodi occasiones in populos et subditos solent
+					redundare; demum ex eiusdem Praepositurae incommodis tum temporalibus, tum etiam
+					spiritualibus, cum monachi huc illuc vagare omnem disciplinam excutere turpique
+					licentiae assuescere incipiant, bona vero temporalia interim minus diligenter
+					colantur et custodiantur; postremo ex rei ipsius indignitate et aliorum
+					principum obmurmurationibus sinistrisque et contumeliosis interpretationibus,
+					dum fervescere haec litigia non tam iurisdictionis quam utilitatis causa
+					suspicantur, atque adeo etiam ex exemplo, quo principes alii, tum catholici tum
+					etiam heretici, cum monasteriorum statum et conditiones sic immutari aspicerent,
+					in similem praedam facile ruerent et irreparabile damnum ecclesiasticis et
+					catolicis per totum Imperium inferrent.</p>
+				<p>9. Si quid in causa ipsa aut in exoptata principum reconciliatione durioris
+					impedimenti acciderit, tuae erunt partes quam primum singula diligenter
+					perscribere, simulque etiam remedia omnia rationesque, quae commodiores
+					videbuntur, suggerere. Si quae autem appareret ratio ineundae inter ipsos
+					principes concordiae, per quam etiam contentioni de ipsa Praepositura finis
+					imponeretur, habebis Passaviensem<note xml:id="FN3_00001_09" type="footnote"
+						>Urban von Trennbach, 1561—1598 B. von Passau: HC III, 271.</note>et
+						Augustanum<note xml:id="FN3_00001_10" type="footnote"> Johann Otto von
+						Gemmingen, 1591—1598 B. von Augsburg: HC III, 123.</note>episcopos, quorum
+					operam et autoritatem tuae adiungas. De <pb xml:id="P3_0000009"/>eorum virtute,
+					fide et zelo plurima sperare licet; tu tamen quomodo illis utaris, quave in re
+					eorum adhibeas consilium, ipse pro tua prudentia iudicabis. Satisfacies autem
+					officio tuo desiderioque S. S.tis et nostro cumulatius, si de singulis quae
+					perspexeris, quae audieris, quae observaveris, quaeque innotescere quocunque
+					modo conveniat, diligenter et fideliter sine ulla intermissione scripseris.</p>
+				<p>10. Haec sunt S.mi D.ni mandata, in quibus curandis confidimus non passurum te
+					fidem, industriam, solicitudinem prudentiamque tuam desiderari, unde tua crescat
+					existimatio Sanctae Sedis Ap.cae, sua constet dignitas et autoritas Christique
+					Domini Nostri gloria verusque Dei cultus et catolica fides propagetur.</p>
+				<p>Eas igitur et valeas remque geras feliciter.</p>
+				<p>Romae 28 martii 1592.</p>
+				<p>Additio</p>
+				<p>III. 1. Oeniponti<note xml:id="SN3_00001_b" type="siglum">Anmerkung Minuccis (BV
+						Barb. lat. 2347 f. 11): Sacra Germanica Congregatio consulit hac re in
+						transitu cum Ser.mo Archiduce versum nullum fieri debere, sed confecto demum
+						Berchtesgadense negocio agendum in Bavaria cum Duce et redeundum inde
+						Oenipontum ad Archiducem, si necessitas postulaverit, sit minus eadem
+						auxilia petenda per literas, dum iter in Stiriam instituitur.</note>praeter
+					ea quae ad Berchdesgadense negocium, quaeque ad reconciliandos Bavariae Ducis;
+					et Salisburgensis Archiepiscopi animos pertinent, debebit Comes cum Archiduce
+					Ferdinando etiam de Stirianis provinciis disserere, ut S. S.tas pro pietate et
+					officio suo, cum sit ab Archiduce Carolo<note xml:id="FN3_00001_11"
+						type="footnote"> Ehzg Karl II., 1564—1590 Landesfürst von
+						Innerösterreich.</note>eius fratris impuberi filio<note
+						xml:id="FN3_00001_12" type="footnote"> Ehzg Ferdinand II., geb. 1578, 1595
+						Landesfürst von Innerösterreich, 1619 Kaiser: Hurter, Geschichte III,
+						291.</note>et ditionum illarum regimini una cum Imperatore ac Bavariae Duce
+					tutor testamento relictus, tum hac de causa, tum vero ex proprio zelo ac
+					religione sua atque adeo pro eo quod Austriacorum principum; famam et gloriam
+					attingit, illam suscipiat curam, ne haereses iis in locis magis magisque haerede
+					adhuc per aetatem administrationi minus idoneo invalescant duriorque deinceps
+					provincia ipsi iuveni principi tradatur, cum praeter animarum salutem, quae
+					coeteris omnibus rebus carior esse debet; iam etiam plurimis constet
+					experimentis per haereses iustitiam omnem et publicam tranquillitatem
+					labefactari atque obedientiam debitam legitimo magistratui plerumque denegari.
+					Intellexisse autem S.mum D.um N.um magno suo cum dolore abusos nunc populos
+					illos interpretatione seu confirmatione Caesarea nuper ad decretum in materia
+					religionis olim a Ser.mo Archi<pb xml:id="P3_0000010"/>duce Carolo emanatum
+						<note xml:id="FN3_00001_13" type="footnote">Ehzg Karl bestätigte und
+						erweiterte 1578 auf dem innerösterreichischen Generallandtag in Bruck an der
+						Mur die 1572 und 1576 gemachten religiösen Zugeständnisse, die im
+						sogenannten Brucker Libell zusammengefasst niedergeschrieben wurden: Rainer,
+						GN I, 4, 43 A 13, 372, 381; Jaitner I 28 A 13.</note>obtenta multa contra
+					catolicam religionem moliri, et iam nefarie haereticos concionatores tribus in
+					oppidis Pruch, Frisach et Leoben introduxisse <note xml:id="FN3_00001_14"
+						type="footnote">Die landesfürstlichen Städte Bruck an der Mur und Leoben in
+						der Steiermark, sowie Friesach in Kärnten, das dem Eb. von Salzburg
+						gehörte.</note>omniaque ibi magnis involvi perturbationibus, dum plebs ipsa
+					idem sibi circa religionem quod nobilitati licere contendit. Unde certo
+					appareat, ni opportunis cito occurratur remediis, catolicam religionem brevi
+					penitus exterminandam. Advenisse eodem tempore tum a catolicis et ecclesiasticis
+					illarum partium lamentationes plurimas, tum vero ex finitimis Italiae ditionibus
+					quaerelas et gemitus; verendum, ne corruptis Stirianis ditionibus incendium
+					etiam et effrenis illa debachatio in Italiam prorumpat. Haud potuisse S.m S.tem
+					bonorum virorum preces et obtestationes negligere; statuisse igitur pro paterna
+					sua piaque cura Ap.cum aliquem ministrum eo ablegare, qui gementibus et auxilia
+					implorantibus catolicis solatio atque subsidio sit serpentesque haereses,
+					quantum consilio et autoritate possit, compescat et reprimat. Id sperare S.m
+					S.tem Archiduci, de cuius pietate et animi fortitudine plurimum sibi
+					polliceatur, carissimum fore atque etiam Imperatori et Bavariae Duci totique
+					Austriacae Domui non ingratum, cum eius maxime intersit morbum illum non
+					propagari, ne vicinos etiam subditos magis inficiat ac demum seditionum, quae
+					haereses concomitari inseparabiliter solent, semina spargat. Petere autem S.m
+					S.tem ab ipso Archiduce, ut non solum suam in eo opem et concilium conferat, sed
+					contutores etiam et Archiducem Ernestum <note xml:id="FN3_00001_15"
+						type="footnote">Ehzg Ernst, Bruder Kaiser Rudolfs II., 1590—1593 Gobernator
+						Innerösterreichs, danach Statthalter in den Niederlanden: Strachwitz,
+						Ernst.</note>atque adeo omnes, quorum interest, ad eandem necessariam curam
+					exemplo et sapientia sua excitet et commoveat.</p>
+				<p>2. Posse S. S.tis benevolum propensumque in Austriacos animum ex eo cognosci,
+					quod ad eiusmodi munus eum praecipue delegerit, quem ipsis gratissimum tum ob
+					familiam multis nominibus devinctam et obsequentissimam, tum vero ob virtutes
+					proprias fore iudicavit. Ab eo cum certiorem notitiam de singulis, quae
+					necessaria erunt, perceperit, non intermissuram S. S.tem, quin studio et
+					caritate summa de illorum populorum salute et catolicae religionis instauratione
+					serio cogitet. Interim si quae sit hac in re S. S.ti consilii copia, rogare ne
+					communicare gravetur; dum<pb xml:id="P3_0000011"/> enim Berchdesgadense negocium
+					componitur, multa maturari posse, unde incomodis illis remedia certa
+					procurentur.</p>
+				<p>In eandem sententiam poterit etiam cum Bavariae Duce disserere eiusque etiam
+					mentem desuper audire ac curare, si opportunum illis principibus videatur, ut
+					uterque tum ad Imperatorem tum ad Archiducem Ernestum scribat, ne quae S. S.ti
+					mandatis impedimenta aut remorae ullo in loco excogitentur aut attententur.</p>
+				<p>IV. 1. At cum ipso Bavariae Duce separatim ac dextere aliae erunt etiam ineundae
+					rationes de Germanica iuventute in studiis ac in vera pietate ac fide educanda,
+					quam curam iam ab aliquot annis Sancta Sedes Ap.ca ita suscepit, ut iam collegia
+					ac seminaria plurima propriis sumptibus tum in Italia tum in Germania
+					instituerit. Adhuc autem haud facile esse iudicare plusne commodi ex iis
+					percipiat Germania, qui in ipsa provincia, an vero ex illis, qui in Italia
+					aluntur et instituuntur. Vetus tamen esse prudentissimorum virorum consilium non
+					satis esse ecclesiis et parochiis per theologos prospicere, ni etiam et
+					canonistae et iurisperiti fabricentur, qui in principum consiliarios et
+					cancellarios evadant iisque subinde, quae ad rectitudinem, ad iustitiam atque
+					adeo ad eorum salutem necessaria sunt, valeant suggerere et negotia omnia ita
+					dirigere, ut et ecclesiastica iurisdictio servetur incolumis et catolica religio
+					in sua conservetur dignitate et eminentia. Movisse consilia haec olim Gregorium
+						XIII<note xml:id="FN3_00001_16" type="footnote">Gregor XIII., 1572—1585,
+						errichtete 1580 die Grazer Nuntiatur: Pastor IX, 10 ff.; Rainer, GN I, VIII
+						ff.</note>, ut Bononiae studiosis Germanis iurisprudentiae collegium<note
+						xml:id="FN3_00001_17" type="footnote"> Gregor XIII. beabsichtigte, in
+						Bologna ein Kolleg für deutsche Juristen zu errichten, förderte die Gründung
+						päpstlicher Seminare nördlich der Alpen: Pastor IX, 185; Rainer GN I,
+						229.</note>erigere constituerit, comparatis vero multis ad eam rem
+					necessariis antequam perficere posset diem obierit. Postea vero propositas
+					multorum sententias, qui eiusmodi collegium utilius in Germania quam in Italia
+					fore arbitrabantur, tum quod minoribus sumptibus plures numero ali, tum quod
+					itinera, tempus et pecuniam multam absumant et pericula varia secum ferant,
+					praeterquam quod in Germania per quotidianam consuetudinem ea commodius
+					imbibant, ad quorum notitiam maxime instituuntur. Cum igitur ista omnia et alia
+					diligentius examinarentur et optimis rationibus viderentur inniti non ullam
+					provinciam visam esse consiliis hisce opportuniorem quam Bavariam, difficultates
+					tamen plurimas sese principio obtulisse, praecipuam vero versari circa sumptus.
+					Nam si onus illud integrum Ap.cae Camerae hoc tempore imponatur, vereri multos
+					ne illud nimis sit grave neve aliquando, cum tam multa tot manutenendis
+					collegiis in Germaniae beneficium per Sedem Ap.cam impen<pb xml:id="P3_0000012"
+					/>dantur, superveniat aliquando, quod omnipotens Deus avvertat, necessitas
+					aliqua, propter quam Sedes Ap.ca minus commode in curam illam tanto cum
+					dispendio incumbere queat; quod eo timendum magis, quo maiora erunt in eam rem
+					pecuniaria detrimenta, ideoque cavendum, ne in illud incidamus discrimen; non
+					diu vero esse, cum periclitari collegia Germanica hanc ob causam animadvertimus
+					et sustentari omnia aegre poterunt; cogitatum igitur quomodo in eo, de quo
+					agimus, a parte saltem expensarum Ap.ca Sedes liberaretur et venisse in mentem,
+					quod paucis abhinc annis ipse Dux Ser.mus a Sixto V <note xml:id="FN3_00001_18"
+						type="footnote">Sixtus V. 1585—1590: Pastor X, 22 ff.</note>f. r. abbatiae
+					cuiusdam aliorumque ecclesiasticorum beneficiorum redditus pro collegiata
+					ecclesia in aulico suo palatio instituenda petierit, ea autem conditione
+					impetraverit, ut fructus illi in collegium sive seminarium, non in alios usus
+					converterentur. Iam vero videri nullibi eos poni utilius et honorificentius
+					posse quam iuridico collegio in Ingolstadiana academia erigendo. <note
+						xml:id="FN3_00001_19" type="footnote">Das ehemalige Benediktinerkloster
+						Biburg wurde auf Bitten Hzg Wilhelms V. 1592 der Universität Ingolstadt
+						inkorporiert: Duhr I, 53 FF.; Spindler II, 644.</note>Id ut S. Cels.ini
+					facilius persuadeatur, his erit utendum argumentis:</p>
+				<p>2a. Primo. A S. Cels.ine praeter supradictos redditus nihil aliud peti nisi forte
+					spatium etiam ad aedificium in civitate Ingolstadiana; reliquos sumptus facturam
+					S. S.tem.</p>
+				<p>2b. Secundo. Magno honori tale collegium civitati et provinciae futurum, magnae
+					etiam commoditati, quia educabuntur in illo Bavaricorum etiam consiliariorum
+					filii, qui deinde patriae et principi inservient.</p>
+				<p>2c. Tertio. Devinciet sibi Dux ea ratione omnes fere Germaniae principes
+					omniumque principum ministros durabitque beneficium toti posteritati; ex illo
+					enim collegio et cancellarii et consiliarii et secretarii brevi per universam
+					Germaniam dispergentur et praesentes principum ministri locum filiis suis petere
+					statim incipient eaque erit certissima ratio ad magnam in Imperio autoritatem
+					acquirendam magnamque ineundam gratiam.</p>
+				<p>2d. Quarto. Florescet Ingolstadiana universitas magis; nam praeter illos quibus
+					in collegio locus erit, plurimi etiam confluent vel celebritate academiae vel
+					spe ducti sese aliquando in idem collegium fore cooptandos.</p>
+				<p>2e. Quinto. Nisi redditus illi, de quibus agitur, sufficiant, inibitur ratio,
+					quomodo augeantur, ut semper etiam ex iis unus aut alter professor insignis
+					conduci possit.</p>
+				<p>2f. Sexto. Crescent simul S. Ser.tis vectigalia per multitudinem studiosorum et
+					fiet populus in ipsa civitate frequentior; nam una cum studiosis artes etiam et
+					opificia multiplicari necesse est.</p>
+				<pb xml:id="P3_0000013"/>
+				<p>2g. Septimo. Maiorem acquiret apud exteros celebritatem Bavaria, et ut iam
+					praecipui aliqui Italiae nobiles filios suos illuc educandos mittere coeperunt,
+					sic imitabuntur alii, et nunc Gallicis atque Belgicis universitatibus propter
+					continua bella fere dissipatis, ex illis etiam partibus plures Ingolstadium se
+					conferent.</p>
+				<p>2h. Octavo. Consuletur per eiusmodi collegium ipsius praecipue Ducis filiis, qui
+					inde paucos post annos ministrorum copiam sibi poterunt deligere, et egentibus
+					etiam aliis suppeditare.</p>
+				<p>His atque aliis rationibus, quae proximior rerum notitia Comiti facile
+					suppeditabit, conabitur is Ducem in hanc perducere sententiam eique omnino
+					demonstrare magnum esse commodum, magnum ornamentum, magnam utilitatem, quam
+					inde et princeps ipse et subditi sui sint semper percepturi.</p>
+				<p>Nec parum ipsum movere debebit, quod intelligat rem se S.mo D. N. gratam facturum
+					et compensaturam S. S.tem, quicquid illi sic tribuatur beneficiis
+					amplioribus.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

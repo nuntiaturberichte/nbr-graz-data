@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00068">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-02-11" n="2">1581-02-11</title>
+                <title level="a">68. Malaspina an Gallio - Graz, 1581 Februar 11</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 248r—249v, Orig.; risposta 11 di
+                            marzo.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00068">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-02-11" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00067.xml">67.
+                        Gallio an Malaspina - Rom, 1581 Februar 11</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00069.xml">69.
+                        Malaspina an Gallio - Graz, 1581 Februar 11</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00067.xml">67. Gallio an Malaspina -
+                        Rom, 1581 Februar 11</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00069.xml">69. Malaspina an Gallio -
+                        Graz, 1581 Februar 11</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Einvernehmen zwischen Erzherzog Karl und evangelischen Ständen über Form der
+                    Suspendierung des Religionsdekretes. Baldiges Ende des Landtages. Bemühungen um
+                    Widerrufung aller den Häretikern gemachten Konzessionen und Mitbefassung des
+                    Papstes, Kaisers und anderer Fürsten. Kaperung eines venezianischen Schiffes
+                    durch Uskoken. Salzburgische Antwort im Jurisdiktionsstreit mit Erz <pb
+                        xml:id="P1_0000190"/>herzog Karl. Ansuchen des Bischofs von Laibach um
+                    Befreiung von Liminabesuch.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="68">Malaspina an Gallio - Graz, 1581 Februar 11</head>
+            <div>
+                <p>Dalla mia delli 22 del passato V. S. Illma haverà inteso le ragioni per le quali
+                    S. A. si era indotta a condescendere al suspendere la esecutione del
+                        decreto.<note xml:id="FN1_00068_01" type="footnote">Siehe Nr.
+                    62.</note>Doppo questi nobili hanno in molti modi abusata et vilipesa la
+                    benignità di S. A., hora proponendo una forma di suspensione hora un’altra, et
+                    come il principe l’accetava dicevano di haver più maturamente considerato il
+                    fatto et che non potevono aquietarsi se non erano assicurati in perpetuo, et la
+                    cosa è passata con tanta impudenza et con così poco rispetto, che li prelati,
+                    non potendo patire questo modo di negociare, si sono partiti tutti, però con mia
+                    saputa, et in simile hanno fatto li commissarii di Salisburgo et in vero non so
+                    qual sia più da admirare o la poca vergogna di costoro o la patienza di S. A.,
+                    la quale non solo non ha mostrato alteratione, ma li ha scusati et sempre ha
+                    sperato bene. Doi giorni fa si sono al fine contentati della suspensione in
+                    questa forma, <note xml:id="FN1_00068_02" type="footnote">Dekret vom 3. Februar
+                        1581 (Loserth, Religionspacification, S. 98 f.).</note>che S. A. per
+                    urgentissime et importantissime cause suspende per ancora il decreto et lascia
+                    le cose nel stato, che erano il giorno inanzi, che si pubblicasse il decreto
+                    predetto; tra cinque giorni si convocherà li prelati et si concluderà la dieta.
+                        <note xml:id="FN1_00068_03" type="footnote">Der Landtag endete am 15.
+                        Februar 1581 (Graz LA, Landtagshandlungen 33, f. 108r—169v; ebenda
+                        Landtagsakten 422).</note>Io ho havuto diverse audienze da S. A. in questi
+                    frangenti et siamo restati che sia bene che lei faccia una protesta, nella quale
+                    dichiari che la suspensione che hora ha admessa è stata contra la mente sua et
+                    sforzatamente et insieme revochi tutto quello che per il passato ha concesso in
+                    materia di religione et che, se non mette questa sua volontà in esecutione
+                    subito, è per non potere et la mandarà a S. Stà et al’imperatore et ad altri
+                    principi. Con questa protesta sarà un discorso di quello che si può fare in
+                    questo negotio della religione o per via di trattatione amicabile o per mezzo di
+                    dieta o per viam juris o, non bastando questo, per via regia. Tra pochi giorni
+                    si attenderà a questo, se si fossero fatte due cose: l’una è di venire alla
+                    separatione delli stati, l’altra di scrivere al’imperatore, al’arciduca
+                    Ferdinando, al duca di Baviera et al’arcivescovo di Salisburgo. Io direi
+                    affermativamente che S. A. ha fatto quello che ha potuto, ma l’essersi fuggito
+                    sempre la separatione desiderata da’ prelati et non havendo mai dato<pb
+                        xml:id="P1_0000191"/> parte di cosa alcuna a quelli principi, della qual
+                    cosa loro si lamentano grandemente, mi fa stare con suspensione di animo, se
+                    bene S. A. risponde che non poteva venire alla separatione, se non haveva una
+                    certa somma di danari per li confini, insino che fosse maturo il tempo della
+                    portione delli prelati; scusa però che non tutti la fanno buona et che non ha
+                    scritto perché ha sempre creduto che costoro fossero per obedire et che mai
+                    haverebbe pensati che dovessero esser così ostinati et rebelli, et perciò scusa
+                    tutti li suoi consiglieri, che habbiano creduto il medemo. Et perché qua sono
+                    diversi pareri, credo che la più sicura sia credere che questo temperamento sia
+                    stato più espediente, massime che in questa dieta habbiamo guadagnato molte
+                    cose. Il primo guadagno è il non haver perso et questa è la prima dieta nella
+                    quale non si sia concesso alli heretici; secondariamente si è abbassata la
+                    perfidia di costoro, che hanno havuto grandissima paura et la suspensione le è
+                    un freno; ultimamente l’essersi dichiarato il principe et haver publicato il
+                    decreto è stato et assicuratione della sua conscienza et consolatione a tutti li
+                    catholici, quali hanno cognosciuto qual sia la mente et volontà sua et, se bene
+                    non ha perfettionato subito il negotio, non dimeno dice di esser pronto di
+                    mettere a qualsi voglia pericolo la vita, moglie, figliuoli et robba per
+                    defensione della religione catholica, et che vuol seguitare in ogni cosa il
+                    paterno consiglio di N. S. Ma mi bisogna al presente aprir li occhi più che mai,
+                    poiché oltre che alcuni intimi consiglieri suoi attendono a farlo ritornare
+                    nelli antichi timori, ho ancora scoperto che vanno a camino di far un scritto
+                    che dipinghi la piagha irremediabile et di questa forma liberarsi dalli stimoli
+                    di S. Stà et delli altri principi. <note xml:id="FN1_00068_04" type="footnote"
+                        >Vgl. dagegen Nr. 72.</note>
+                </p>
+                <p>Subito che io sono stato avisato che li Vschochi hanno preso quell vascello delli
+                    signori Venetiani,<note xml:id="FN1_00068_05" type="footnote">Siehe Nr. 71, 76,
+                        80.</note>io non ho mancato di far offitio con S. A., acciò sia et remediato
+                    al presente disordine et fatto buona provisione, che non sucedano per l’avenire
+                    simili casi, et così S. A. ha espedito a posta il sig. Fuluio Molzza con ordine
+                    che et faccia decapitare li malfattori et restituire le mercantie et il resto
+                    alli padroni, et ne ha dato conto a S. M. Ces.<note xml:id="FN1_00068_06"
+                        type="footnote"> Siehe Nr. 76; Erzherzog Karl schickte Veit von Domberg an
+                        den Kaiserhof nach Prag, wo er u. a. auch die Beilegung der Differenzen
+                        zwischen Innerösterreich und Venedig betrieb und Kontakte mit dem
+                        venezianischen Botschafter am Kaiserhof, Alberto Badoer, pflegte (Venedig
+                        AS, Dispacci Germania, filza 7, f. 136v, 138rv).</note>
+                </p>
+                <pb xml:id="P1_0000192"/>
+                <p>L’arcivescovo di Salisburgo me ha fatto dare l’incluso memoriale<note
+                        xml:id="FN1_00068_07" type="footnote"/>in risposta a quello di S. A. <note
+                        xml:id="FN1_00068_08" type="footnote"/>in materia della giurisditione
+                    ecclesiastica, ma io ritrovo poca dispositione in questi ministri di volersi
+                    contentare delle cose del dovero; però non lascierò di andar persuadendo a S.
+                    A., col tempo, che si contenti che si piglia almeno qualche temperamento.</p>
+                <p>Il vescovo Labacense è venuto a posta da me per pregarmi che io voglia supplicare
+                    V. S. Illma che lo favorischi appresso N. S. nel negotio che contiene il
+                    memoriale suo,<note xml:id="FN1_00068_09" type="footnote"/>che sarà con questa
+                    mia, et perché ho assai buona informatione della persona sua et mi ha promesso
+                    di voler esequire alcuni buoni racordi, che le ho dato, non ho potuto lasciare
+                    di raccommandarlo a V. S. Illma...</p>
+                <p>Ho ricevuto la lettera di V. S. Illma del’ ultimo del’ anno,<note
+                        xml:id="FN1_00068_10" type="footnote">Vgl. Nr. 134.</note>alla quale non
+                    posso con questa occasione rispondere, ma come prima li farò...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

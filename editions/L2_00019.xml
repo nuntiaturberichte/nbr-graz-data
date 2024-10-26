@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00019">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-08-23" n="1">1582-08-23</title>
+                <title level="a">19. Malaspina an Gallio - Augsburg, 1582 August 23</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 497rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00019">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-08-23" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00018.xml">18.
+                        Malaspina an Gallio - Augsburg, 1582 August 15</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00020.xml">20.
+                        Gallio an Malaspina - Rom, 1582 August 25</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00018.xml">18. Malaspina an Gallio -
+                        Augsburg, 1582 August 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00020.xml">20. Gallio an Malaspina -
+                        Rom, 1582 August 25</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Ankunft der innerösterreichischen Religionsgesandten in Augsburg. Bemühungen um
+                    feste Haltung Salzburgs am Reichstag gegen Bitten vorgenannter Gesandtschaft.
+                    Abweisung Hoffmanns am Kaiserhof.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="19">Malaspina an Gallio - Augsburg, 1582 August 23</head>
+            <div>
+                <pb xml:id="P2_0000028"/>
+                <p>Hieri comparvero gli ambasciatori,<note xml:id="FN2_00019_01" type="footnote">Die
+                        Gesandten der evangelischen Stände Steiermarks, Kärntens und Krains, die dem
+                        Reichstag ihre schwierige religiöse Lage vorbringen und um Abhilfe bitten
+                        sollten (Loserth, FRA II/50, S. 343ff.).</note>quali per l’ultima mia<note
+                        xml:id="FN2_00019_02" type="footnote"/> scrissi a V. S. Ill.ma si stavano
+                    aspettando, et se bene per la brevità del tempo non si è potuto né penetrare né
+                    osservare a che camino si vadano, nondimeno ho di buon loco sotratto che S.
+                    M.tà, essendoli stati communicati quelli punti conceputi da me,<note
+                        xml:id="FN2_00019_03" type="footnote"/> quali mandai pur con la medesima a
+                    V. S. Ill.ma, ha risoluto di non admetterli a la audientia, et spero che di più
+                    ordinarà che gli sia dato un buon capitolo, conforme a la impudentia loro. Io
+                    son stato et sono di parere che sia non solo bene, ma quasi necessario il far
+                    offitio che gli Elettori, seguitando l’essempio di S. M.tà, anco essi gli
+                    escludano, ma l’ill.mo legato ha alcune considerationi in contrario, per le
+                    quali si è sopraseduto parlar a gli Elettori in tal proposito.<note
+                        xml:id="FN2_00019_04" type="footnote"> Die innerösterreichischen
+                        Religionsgesandten konnten nach anfänglichen Schwierigkeiten schließlich dem
+                        Kaiser eine Denkschrift überreichen sowie bei einigen Fürsten ihr Anliegen
+                        vorbringen und Interzessionsschreiben erwirken (Loserth, FRA II/50, S.
+                        357ff.).</note>
+                </p>
+                <p>Io son hora attorno a li Salisburgensi per persuaderli che loro sono veramente
+                    interessati et parte insieme con l’arciduca in questo fatto. Et se bene li vedo
+                    pieni di rispetti et timori, nondimeno non potranno subterfugere di non dire in
+                    publico il pregiuditio che hanno insin’ hora ricevuto et quello che sarebbeno
+                    per ricevere, quando fosse fomentata o avitata la petitione de’ nobili.
+                    L’Hoffman andò un di questi giorni a Corte di S. M.tà et entrò ne la camera, non
+                    ostante la nota che ha d’infamia, et subito ne fu fatto uscire con poco suo
+                    honore . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

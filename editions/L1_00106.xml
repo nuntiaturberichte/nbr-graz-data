@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00106">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-07-15" n="3">1581-07-15</title>
+                <title level="a">106. Malaspina an Gallio - Graz, 1581 Juli 15</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 328r—329r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00106">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-07-15" n="3"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00105.xml"
+                        >105. Gallio an Malaspina - Rom, 1581 Juli 15</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00107.xml">107.
+                        Graz, 1581 Juli 20</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00105.xml">105. Gallio an Malaspina -
+                        Rom, 1581 Juli 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00108.xml">108. Malaspina an Gallio -
+                        Graz, 1581 Juli 27</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Konversion mehrerer Adeliger aus der Grafschaft Görz, Abschaffung des
+                    Laienkelches. Bedenken bezüglich Resignation Kardinal Delfinos auf steirische
+                    Klöster.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="106">Malaspina an Gallio - Graz, 1581 Juli 15</head>
+            <div>
+                <p>II Signor Dio ha a questi giorni toccato il core del sig. Andrea d’Attimis, del
+                    sig. Leonardo Rasonor et del sig. Scipion Formentino, heretici et nobili
+                        Goritiani.<note xml:id="FN1_00106_01" type="footnote">Andreas Attems,
+                        Leonhard Orczan und Scipio Fermentin wurden 1579 ihres evangelischen
+                        Bekenntnisses wegen aus der Grafschaft Görz ausgewiesen (Loserth, FRA II/50,
+                        S. 46).</note>Hanno questi signori eletto il sig. Andrea, huomo di molta
+                    esperienza et auttorità, acciò tratti meco de la forma che debbono tenere per
+                    ritornare a la cognitione de la vera fede et egli, capitando qua senza
+                    communicar questo loro intento col principe né con altri, fece ricorso da me, ma
+                    io subito per degni rispetti ne dei parte a S. A., la quale mi confortò ad
+                    affaticarmi da dovero, assicurandomi che oltre al guadagno che si farebbe de’
+                    nominati signori con le loro mogli, figliuoli, famiglie et vassalli, sarebbe
+                    questo un principio grandissimo per espurgar totalmente il contado di Goritia,
+                    et havendo loro de’ beni nel Frioli, ci vengono ad assicurare che non
+                    infettaranno quella parte. <note xml:id="FN1_00106_02" type="footnote">Vgl. Nr.
+                        85, S. 299.</note>Hora dopo molte dispute, che a solo a solo habbiamo<pb
+                        xml:id="P1_0000301"/> havuto insieme, egli, in nome suo et de li altri, mi
+                    ha confessato d’esser convinto, ma solamente si rendeva difficile a lasciar la
+                    communione sub utraque spetie; et perché in Goritia S. A. non permette che
+                    nessuno si communichi in quella forma per non perdere l’occasione di salvar
+                    tante anime, si era in pensiero che se li desse licentia che quando si volessero
+                    communicare andassero fuori del contado.<note xml:id="FN1_00106_03"
+                        type="footnote"> Die Kelchkonzession für die Diözese Aquileia wurde von
+                        Erzherzog Karl nur für den deutschsprachigen Teil erbeten (Steinherz,
+                        Nuntiaturberichte II/4, S. 391).</note>Ma dopo, dando io parte di questo
+                    fatto a mons. vescovo di Gurgo, mi disse che S. Bne le haveva detto che la bolla
+                    concessa in questa materia non haveva più loco, <note xml:id="FN1_00106_04"
+                        type="footnote">Vgl. Nr. 104, Anm. 4.</note>per il che io mi risolsi di
+                    stringer il sig. Andrea a risolversi di confessarsi in omnibus con la fede
+                    catholica ; et è piacciuto a Dio che, se ben con gran difficoltà, mi ha promesso
+                    di volerlo fare et eshortare li altri a fare il medesimo. <note
+                        xml:id="FN1_00106_05" type="footnote">Vgl. Nr. 113, S. 314.</note>
+                </p>
+                <p>Ma perché io, mosso da li infiniti abusi che ogni giorno si commettono
+                    nel’amministrare il Sacramento sub utraque havevo fatto alcuni capi,<note
+                        xml:id="FN1_00106_06" type="footnote">Nr. 104.</note>li quali mando a V. S.
+                    Illma, per darli a li visitatori, acciò li facessero osservare, havendo inteso
+                    quello che dice mons. di Gurgo, sospenderò, instituendosi la visita, di farlo
+                    insin tanto che io non habbia altro da V. S. Illma, non lassando di dire che li
+                    padri Giesuiti sono sempre stati di parere assolutamente che si debba toglier
+                    questa permissione. Et in vero io ancora sarei senza replica ne la loro
+                    sentenza, massime sentendo ogni giorno che li hercti ci si gloriano che Luthero
+                    ha fatto conoscere al papa l’errore che commetteva, prohibendo la communione sub
+                    utraque, poiché hora la permette. Se non prevedessi che molti deficient a fide,
+                    se si leverà quello che li è stato concesso, ma perché il negotio è degno di
+                    molta consideratione, io aspettarò d’intendere come mi deverò governare in
+                    questo, instituendosi la visitatione.</p>
+                <p>Da la lettera mia, diretta al illmo cardinale Delfino,<note xml:id="FN1_00106_07"
+                        type="footnote">Brief nicht vorhanden.</note>V. S. Illma vederà il scrupulo
+                    che hanno questi ministri circa la resignatione che S. S. Illma fece de li
+                    monasterii che haveva in questa provincia, <note xml:id="FN1_00106_08"
+                        type="footnote">Kardinal Zaccaria Delfino war seit 1364 Administrator der
+                        beiden damals in der Steiermark, heute in Slowenien gelegenen Abteien
+                        Gairach und Seiz (Steinherz, Nuntiaturberichte II/4, S.
+                        XXXVI—XXXVIII).</note>et prometto a V. S. Illma che non mi sono mai
+                    risentito di cosa più che <pb xml:id="P1_0000302"/>de la forma che hanno tenuto
+                    di parlare di questo, havendo havuto un ministro di S. A. ardire di dirmi con
+                    una flegma poco buona. Quando il cardinale Delfino vendete li monasterii, etc.
+                    Mando la mia lettera aperta perché, se bene conosco esser di servitio di Dio che
+                    si ponghi perpetuo silentio a questo negotio, nondimeno non mi intrometto
+                    volentieri in simili intrichi, però supplico V. S. Illma conforme a quello che
+                    giudicherà esser espediente, ordini che sia capitata o no la mia lettera.</p>
+                <p>Circa il negotio de la religione et de la jurisdittione ecclesiastica, perché tra
+                    pochi giorni havrò in ordine ogni cosa, mi riservo di scrivere alhora a V. S.
+                    Illma con fondamento<note xml:id="FN1_00106_09" type="footnote">Siehe Kr. 108
+                        und 109.</note>...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

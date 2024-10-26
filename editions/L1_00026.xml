@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00026">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-11-07" n="1">1580-11-07</title>
+                <title level="a">26. Malaspina an Gallio - Graz, 1580 November 7</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 119r—121v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00026">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-11-07" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00025.xml">25.
+                        Malaspina an Gallio - Graz, 1580 November 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00027.xml">27.
+                        Malaspina an Gallio - Graz, 1580 November 9</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00025.xml">25. Malaspina an Gallio -
+                        Graz, 1580 November 6</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00027.xml">27. Malaspina an Gallio -
+                        Graz, 1580 November 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Vorkehrungen für bevorstehenden Landtag. Reform des Klerus. Ausfällige Predigt
+                    eines Prädikanten in Graz. Überfall auf Priester und Hostienschändung bei Groß
+                    St. Florian. Zahlreicher Kommunionempfang am Allerheiligentag.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="26">Malaspina an Gallio - Graz, 1580 November 7</head>
+            <div>
+                <pb xml:id="P1_0000096"/>
+                <p>S. A. me ha fatto dire per il sig. cancelliero che haveva scritto a tutti li
+                    prelati che dovessero venire a questa dieta in ogni modo, cosa che non si suol
+                    fare, ma solamente si fa la intimatione in genere et che haveva fatto questo,
+                    acciò, venendo occasione di rompere tutto il stato ecclesiastico, sia presente
+                    et possi aiutare et difendere la religione catholica dove sarà bisogno, quale
+                    potemo considerare che sarà grandissimo et resistere alli impeti delli
+                    provinciali et alle loro inique pretensioni.<note xml:id="FN1_00026_01"
+                        type="footnote">Bei der Eröffnung des Landtages waren alle Prälaten anwesend
+                        (Nr. 37).</note>Me hanno ancora esortato a chiamar qua, prima della dieta,
+                    il vescovo di Secovia, il quale ha il primo voto tra prelati et è persona molto
+                    prudente, ma di prudentia humana et è tenuto per esser conglutinato con li
+                    provinciali et ordinariamente, dove egli pende, tutto il resto del stato
+                    ecclesiastico va. <note xml:id="FN1_00026_02" type="footnote">Georg IV.
+                        Agricola, 1572—1584 Bischof von Seckau und Administrator von Lavant, Doktor
+                        der Rechte und gelehrter Humanist, studierte in Paris (Roth, Seckau, S.
+                        524).</note>Fu questo prelato da me già alcuni giorni sono, ma in forma tale
+                    che oltre al non haver io la meglio informatione del mondo della persona sua,
+                    vedendolo senza habito decente, fui sforzato a farle un poco di monitione, <note
+                        xml:id="FN1_00026_03" type="footnote">Vgl. Nr. 114, Anm. 8.</note>la quale
+                    veramente fu purtroppo suave, se bene a lui parve acre, pensando che ci fosse
+                    sotto gran misterii et particolarmente ricevete affronto, perché non volsi
+                    accettare una bota di vino, che mi mandò doppo a donare. Io le ho scritto et
+                    credo sarà qua domani, <note xml:id="FN1_00026_04" type="footnote">Siehe Nr.
+                        30.</note>li farò carezze grande et vederò di guadagnarlo et ho il modo che
+                    ho da tenere et forsi l’allogiarò. Ho similmente fatto venir da me un
+                    gentilhuomo, molto intrinseco del’ eletto di Salisburg et suo ministro
+                    principale et zeloso catholico, il quale era capitato qua vicino <note
+                        xml:id="FN1_00026_05" type="footnote">Wahrscheinlich hat er sich in
+                        Leibnitz, einem damals wichtigen salzburgischen Amt, aufgehalten.</note>et
+                    se ritornava a Salisburg, et ho diffusamente trattato seco, et l’ho pregato a
+                    voler in mio nome esortare l’eletto a scrivere a tutti i prelati, che hanno voto
+                    nella dieta et sono sotto la sua giuriditione, che tenghino buona intelligentia
+                    meco et si governino conforme al parer mio, quale non è indrizzato ad altro che
+                    al’honor et gloria de Dio S. N. et a beneficio delle anime et utilità loro,
+                    quali al presente sono e strapazzati et mal trattati dalli heretici. Et
+                    similmente le ho ricercato, per mezzo di questo signore, che mi mandi il parer
+                    suo circa la reformatione del clero et vo a camino che li prelati istessi siano
+                    quelli che<pb xml:id="P1_0000097"/> mi consigliano et diano il modo, accioché,
+                    venendo occasione di dar qualche forma alla disciplina ecclesiastica, loro mi
+                    aiutino a metter in esecutione quello che me hanno proposto et approvato per
+                    buono, oltre che questo è un mezzo di conciliarmi l’amore et affettione loro,
+                    mostrando che totalmente non li escludo, non li dando parte di quello che tratto
+                    et sono per trattare, che questo col tempo poteva nocere molto al negotio et già
+                    cominciavo a subodorare non so che, ma siamo a punto a tempo, ché prima non lo
+                    dovevo né potevo fare. Ho scritto al nontio del’ imperatore, pregandolo a voler
+                    far un officio galiardo et efficace con S. M. Ces., acciò scriva una buona
+                    littera a S. A., esortandola a voler in questa dieta far un buon sforzzo in
+                    sollevatione della religione catholica et le faccia animo etc. Credo sarà di
+                    qualche frutto se S. M. scriverà;<note xml:id="FN1_00026_06" type="footnote">
+                        Diesbezügliches Schreiben Kaiser Rudolfs II. an Erzherzog Karl vom 21.
+                        November 1580 (Loserth, FRA 11/50, S. 69 f.).</note>il simile si è operato
+                    con l’arciduca suo fratello et duca di Baviera, però senza darne parte a S. A.
+                    Come cominciano a comparire li prelati, io prima privatamente poi convocandoli
+                    tutti non mancarò di parlarli et esortarli a quello che vederò esser di servitio
+                    de Dio et della religione catholica, <note xml:id="FN1_00026_07" type="footnote"
+                        >Siehe Nr. 37. P. Blyssem berichtete darüber am 24. November 1580 sehr
+                        positiv an den General der Jesuiten (Rom Generalarchiv der Jesuiten,
+                        Germania 158, f. 316rv).</note>et mi sforzarò di sodisfare al debito mio et
+                    far quelli officii che il negotio ricerca con quell maggior affetto che potrò,
+                    et spero che S. A. resterà sodisfatta della diligentia mia.</p>
+                <p>Qua stiamo tutti aspettando l’esito et con grandissima sollecitudine et sentiamo
+                    le bravate delli heretici et le populari sono grandissime, ma li grandi taciono
+                    et S. A. tuttavia sta ferma nel suo primo parere, che già scrissi a V. S. Illma,
+                    ciové che li provinicali se la passino in silentio et si contentarano di stare
+                    come hora stanno,<note xml:id="FN1_00026_08" type="footnote">Siehe Nr. 16, S. 65
+                        f, und Nr. 25, S. 90.</note>cosa che mi dispiacerebbe et ha opinione che il
+                    Cobenzolo le sia per dare questo parere, ma noi faremo quello che potremo, acciò
+                    S. A. rompi lei et o revochi subito quello che ha concesso, overo pur aspetti
+                    al’altra dieta che si farà doppo, se bene lor si mostrassero tutti obedienti et
+                    senza li impeti et conati suoi consueti et naturali. Il sig. cancilliero et
+                    altri hanno diverso parere et credono che debbiano dar loro occasione di rompere
+                    a S. A., basta, staremo a vedere.</p>
+                <p>Poterebbe essere che le cose andassero in modo turbulente che fosse necessario
+                    che il padre provinciale de’ Jesuiti, confessore di <pb xml:id="P1_0000098"/>S.
+                    A. et di autorità appresso di lei, stesse presente per aiutarmi et per
+                    sollevarmi da molti fastidii, <note xml:id="FN1_00026_09" type="footnote"/>però
+                    se verrà tal necessità che per servitio publico giudicassi necessaria la
+                    presentia sua, haverei caro di poterlo trattenere non ostante la congregatione
+                    della ellettione del generale et però io le ho fatto scrivere che nella
+                    congregatione, che si fa hora in Viena, si elleghi uno che, venendo tal bisogno,
+                    vadi per lui alla congregatione. Io non lo farò restare senza estremo bisogno,
+                    et spero che questo non doverà dispiacere a V. S. Illma, se pur verà il caso.
+                        <note xml:id="FN1_00026_10" type="footnote"/>
+                </p>
+                <p>Mando a V. S. Illma un capitolo della predica,<note xml:id="FN1_00026_11"
+                        type="footnote">Am 29. November 1580 brachten die der Augsburger Konfession
+                        zugetanen Landstände im Kärntner Landtag die an Erzherzog Karl gerichteten
+                        Religionsbeschwerden vor (Klagenfurt Diözesanarchiv, Akten I, Fasz. 3). Am
+                        Landtag wurde aber vor allem über die Aufbringung der für die Türkenabwehr
+                        notwendigen Mittel beraten (Klagenfurt LA, Hs. 18, Landtagsprotokoll 1580,
+                        f. 1r—66r).</note>che un predicatore heretico predicò nel giorno santissimo
+                    di Ogni Santi, oltre a quello che già ho scritto, che disse nella festa di S.
+                    Simone et Giuda. <note xml:id="FN1_00026_12" type="footnote">Siehe oben Nr. 19,
+                        Anm. 27.</note>Similmente V. S. Illma potrà vedere l’altra scrittura, nella
+                    quale si narra un caso che hora è successo molto esecrando, <note
+                        xml:id="FN1_00026_13" type="footnote">Nr. 22.</note>et subito mi hanno
+                    avisato, acciò ci ponghi rimedio, ma Dio sa quello che operarò, non mancarò già
+                    di farne officio caldissimo, come merita il fatto, et mi sforzarò che non passi
+                    senza dimostratione et debito castigo.</p>
+                <p>No voglio lasciar di dire a V. S. Illma che il giorno di Ogni Santi, in presentia
+                    di S. A., feci una communione generale della maggior parte catholici, quali mi
+                    edificorno grandemente et fu con incredibile consolatione di tutti li buoni et
+                    il numero fu assai grande...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

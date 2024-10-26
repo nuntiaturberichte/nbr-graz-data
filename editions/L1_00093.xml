@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00093">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-05-10" n="2">1581-05-10</title>
+                <title level="a">93. Gallio an Bischof Christoph von Gurk - Rom, 1581 Mai 10</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Fondo Pio 127, f. 367v—369r, Kop.<lb/>Bibl. Vat. Ottob.
+                            lat. 2417, f. 398r—399r, Kop.<lb/>Ebenda Barb. lat. 5744, f. 183r—185r,
+                            Kop.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00093">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1581-05-10" n="2"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119500809">Spaur, Christoph Andreas
+                        von</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_010">Gallio, Tolemeo
+                        - Spaur, Christoph Andreas von</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00092.xml">92.
+                        Possevino an Gallio - (Wien, 1581 vor Mai 10)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00094.xml">94.
+                        Malaspina an Gallio - Graz, 1581 Mai 15</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_010" target="L2_00065.xml">65. Spaur an Gallio -
+                        Graz, 1583 Februar 11/21</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Schlußresolution über die Verhandlungen in Rom: Bitte Erzherzog Karls an Kaiser,
+                    Erzherzog Ferdinand, Herzog von Bayern sowie Erzbischof von Salzburg um
+                    Unterstützung bei Durchführung des Religionsdekretes. 400 Mann Besatzung in Graz
+                    teils auf Kosten des Papstes. Überweisung von weiteren 10.000 Scudi für diesen
+                    Zweck an Malaspina. Bei eventueller Rebellion der Stände größere Hilfe des
+                    Papstes.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="93">Gallio an Bischof Christoph von Gurk - Rom, 1581 Mai 10</head>
+            <div>
+                <p>Risolutione data in scritto al vescovo di Gurgo:<note xml:id="FN1_00093_01"
+                        type="footnote">Siehe Nr. 90, S. 247.</note>La Stà di N. S. havendo inteso
+                    per bocca di mons. vescovo Gurcense il gran pericolo in che stanno le cose della
+                    santa religione cattolica nelli stati del sermo arciduca Carlo et il buon animo
+                    che S. A. tiene di rimediarci, mediante l’espettatione del decreto,<note
+                        xml:id="FN1_00093_02" type="footnote"> Siehe Nr. 87.</note>che ultimamente
+                    fu fatto nella dieta di Gratz, se non fosse impedita mediante l’ostinatione
+                    delli suoi provin<pb xml:id="P1_0000258"/>ciali et delle poche forze che S. A.
+                    ha per poterli sforzare et castigare, si è contentata S. Stà, per il zelo che ha
+                    del servitore di Dio et solate dell’animo et per l’amor che porta a S. A., di
+                    venir nella segnalata deliberatione et promessa cioè :</p>
+                <p>Che S. A. ricerchi li sermi suoi parenti, imperatore, arciduca Ferdinando et duca
+                    di Baviera et anco l’arcivescovo di Saltzburg in questa sì honesta necessità gli
+                    diano qualche aiuto,<note xml:id="FN1_00093_03" type="footnote">Vgl. dagegen Nr.
+                        92, S. 257.</note>poiché a loro tocca principalmente di farlo per la
+                    parentela et per la vicinanza, la quale è causa che l’interesse sia commune et
+                    dica che S. Stà con l’essempio loro farà anch’essa la parte sua, et se pure
+                    ricusaranno di farlo S. A. impetri almeno che ciascuno di detti principi mandino
+                    un suo personaggio a Gratz a risedere appresso di S. A., li quali insieme col
+                    nuntio di S. Stà costituiranno come una forma di consiglio appresso S. A. <note
+                        xml:id="FN1_00093_04" type="footnote">Dazu ist es nie gekommen.</note>et
+                    daranno riputatione a tutti li negotii, che s’haveranno a trattare per conto
+                    della suddetta essecutione.</p>
+                <p>Che uniti che saranno questi personaggi, S. A. faccia un corpo di presidio di 400
+                    fanti cattolici sinceri, cento di quali si mettano nella fortezza di Gratz et
+                    300 nella terra, et subito faccia li suoi editti per l’essecutione de decreto,
+                    et occorrendo<note xml:id="FN1_00093_05" type="footnote">Die Idee, die
+                        Rekatholisierung mit Hilfe von Soldaten durchzuführen, stammt in diesem Fall
+                        nicht aus Rom, sondern wurde bereits im Oktober 1579 auf der Münchner
+                        Konferenz beschlossen und besonders von Herzog Wilhelm von Bayern empfohlen
+                        (Loserth, FRA II/50, S. 39 und 703 f.).</note>che da qualch’uno non fosse
+                    obbedito, procuri di carcerarlo et castigarlo, per ché ogni minima dimostratione
+                    rigorosa che si faccia in quel principio, farà grandissimo effetto in reprimere
+                    l’audacia degl’altri et redurli tutti alla solita obedienza.</p>
+                <p>Che per pagare il detto presidio S. Stà si contenta di aiutare S. A. della metà
+                    della spesa et continuarà di farla sinché sarà il bisogno per il termine di due
+                        anni,<note xml:id="FN1_00093_06" type="footnote">Man hoffte in Rom, daß ein
+                        paar Monate oder höchstens ein Jahr genügen würden (Nr. 90, S.247). Schranz
+                        behauptete in seinen im Herbst 1581 Erzherzog Karl gegebenen Ratschlägen für
+                        die Fortsetzung des Religionsgeschäftes, daß die B. H. solche guardia selbst
+                        mit 400 Soldaten ein zeit und auf’s wenigist zwei iar nach einander und wo
+                        von nöten noch lenger aus eignem seckl zu unterhalten sich anerboten
+                        (Loserth, FRA II/50, S. 713).</note>sperando nondimeno o non bisognarà in
+                    nessun modo o almeno non per tanto tempo.</p>
+                <p>Che in caso che S. A. allegasse di non haver di presente danari alla mano, per
+                    poter supplire alla sua metà della spesa, S. Stà si con<pb xml:id="P1_0000259"
+                    />tenta per li primi due mesi farla tutta del suo, acciò S. A. in quel mezzo
+                    habbi tempo di provedersi di danari nel miglior modo che potrà, non mancandogli
+                    molti modi da poterlo fare, come si è detto a mons. Gurgense et come fa S. Stà
+                    et tutti gl’altri principi in tempo di bisogno.</p>
+                <p>Che per assicurare S. A. che S. Stà non è per mancar a tutto il sopradetto, si
+                    mandano in mano del nuntio altri scudi 10.000, acciò siano in tutto scudi
+                    25.000, li quali s’habbino a spendere secondo che di mano in mano bisognerà,
+                    conforme al concerto sopradetto.<note xml:id="FN1_00093_07" type="footnote">Vgl.
+                        Nr. 90, Anm. 7.</note>
+                </p>
+                <p>Che in evento poi, che Dio non voglia, che bisognasse maggior provisione di forze
+                    per reprimere l’insolenza de’ provinciali, caso che facessero qualche gran
+                    ribellione, S. Stà non mancarà mai di concorrere per quella parte che potrà in
+                    aiutar S. A., tenendo per fermo che in tal caso li sopradetti principi si
+                    moverebono anch’essi a far la parte loro, per non lasciare che S. A. ricevesse
+                    danno alcuno in quelli stati, che sono antico patrimonio per la serma casa
+                    d’Austria...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

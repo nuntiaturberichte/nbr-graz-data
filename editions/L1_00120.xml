@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00120">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-10-02" n="1">1581-10-02</title>
+                <title level="a">120. Malaspina an Gallio - Graz, 1581 Oktober 2</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 349r—351r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00120">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-10-02" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00119.xml"
+                        >119. Malaspina an Gallio - Graz, 1581 September 27</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00121.xml">121.
+                        Malaspina an Gallio - (Graz, 1581 Oktober 2)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00119.xml">119. Malaspina an Gallio -
+                        Graz, 1581 September 27</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00121.xml">121. Malaspina an Gallio -
+                        (Graz, 1581 Oktober 2)</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Verhandlungen und Beratungen über Wahl Erzherzog Ernsts oder Erzherzog Karls zum
+                    Römischen König.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="120">Malaspina an Gallio - Graz, 1581 Oktober 2</head>
+            <div>
+                <p>L’arciduca Ferdinando, come per un’altra mia ho scritto a V. S. Illma, ha mandato
+                    qua il sig. Francesco de la Torre, il quale oltre a la commissione che ha havuto
+                    in viva voce, ha portato una lettera diretta a la Mtà del’ imperatore, in nome
+                    di tutta la serma famiglia d’Austria, sottoscritta dal’A. S., accioché questo
+                    principe anco esso si sottoscrivesse.<note xml:id="FN1_00120_01" type="footnote"
+                        >Nr. 119, Anm. 6.</note>Il contenuto de la lettera è questo: Mettono in
+                    consideratione a la Mtà S. molte ragioni parte che spettano a l’interesse di
+                    tutto il christianesmo, altre al particolare de la casa d’Austria per le quali
+                    conviene che si faccia un re de’ Romani et perciò lo essortano a voler far
+                    intendere quanto prima questo a li elettori per potersi porre<pb
+                        xml:id="P1_0000331"/> in executione conforme al bisogno. Et non si potendo
+                    far la elettione, se il re di Boemia non è presente, né può S. Mtà Ces.
+                    rappresentarlo lei, essortano la Mtà S. a voler resignare quel regno ne la
+                    persona de l’arciduca Hernesto. Et perché il far questa resignatione così
+                    simplicemento portarebbe troppo pregiuditio a la Mtà S., ma principalmente a li
+                    suoi descendenti, la consigliano a farla conditionatamente che mentre l’arciduca
+                    Hernesto vive sia quel regno suo et, dopo la morte, torni a li figliuoli de
+                    l’imperatore. <note xml:id="FN1_00120_02" type="footnote">Vgl. Nr. 85, Anm.
+                        4.</note>Ma contenendosi ne la lettera formata da l’arciduca Ferdinando che
+                    la elettione si devesse fare in persona di uno di casa d’Austria habitante in
+                    Germania, questa Altezza ha havuto consideratione che si fa gran torto al re di
+                    Spagna et a l’arciduca Alberto, per non dir di Mattias, di escluderli ; essendo
+                    massime quella Mtà capo dela famiglia et quanto a l’età et quanto a la potentia
+                    et havendo la Mtà S. amici et dependenti in queste parti et anco tra principi
+                    heretici, come il duca di Sassonia, il quale essendo ricercato da’ Francesi di
+                    voler et con la potentia et con l’auttorità sua movere li principi di Germania
+                    ad impedire ch’l Re Catholico non s’impatronisse del regno di Portugallo. <note
+                        xml:id="FN1_00120_03" type="footnote">Vgl. Nr. 12, Anm. 6, Nr. 37, S. 118,
+                        und Nr. 41, S. 129 f.</note>Egli rispose che riconosceva quello che
+                    possedeva da Carlo V et da la famiglia d’Austria et che perciò mai era per far
+                    cosa che fosse in pregiuditio de’ principi di quella famiglia. Hora per queste
+                    et altre ragioni allegate si è questa Altezza risoluta di spedire un corriere a
+                    l’arciduca, acciò si toglino quelle parole „residente in Germania“ et si aspetta
+                    fra cinque o sei giorni risposta <note xml:id="FN1_00120_04" type="footnote"
+                        >Erzherzog Ferdinand halte gegen diesen Vorschlag Erzherzog Karls, daß
+                        nämlich nicht nur die in Deutschland lebenden Erzherzöge, sondern das
+                        gesamte Haus Österreich den Kurfürsten zur Wahlhandlung empfohlen werde,
+                        nichts einzuwenden (Hirn, Erzherzog Ferdinand II, S. 100).</note>et, come
+                    sia venuta S. A., manderà il Cobenzolo et l’arciduca, suo fratello, quello de la
+                    Torre a Vienna, dove faranno instantia a l’arciduca Hernesto che si sottoscriva
+                    ancor esso. Ma non lo volendo fare, gli ambasciatori hanno commissione di
+                    proseguire il negotio et andarsene a Praga et trattare immediate con la Mtà del
+                        imperatore.<note xml:id="FN1_00120_05" type="footnote"> Thurn und Kobenzl
+                        begaben sich im Oktober 1581 nach Wien, wo sie sich 19 Tage aufhielten, ohne
+                        Wesentliches zu erreichen. Anfang November reisten sie nach Prag weiter, um
+                        dem Kaiser, den kurz Kurfürst August von Sachsen aufgesucht hatte, die Frage
+                        der Nachfolge im Reich vorzutragen. Am 20. November wurden sie vom Kaiser
+                        ohne nennenswerten Erfolg mit freundlichen Worten abgefertigt (Innsbruck
+                        LRA, Ferd. 208; Venedig AS, Dispacci Germania, filza 8, f.
+                        203r—204v).</note>
+                </p>
+                <pb xml:id="P1_0000332"/>
+                <p>Hora Illmo Signore questo benedetto negotio può essere che sia et fattibile et di
+                    grandissima utilità a la republica christiana, ma al ministerio che qua io ho
+                    per le mani fa et farà obstacolo di molta qualità, perché non è dubio che se non
+                    il principe, almeno li consiglieri non solo sperano che la nominatione si debba
+                    fare in persona di S. A., ma lo tengono per cosa già fatta.<note
+                        xml:id="FN1_00120_06" type="footnote">In einem Bericht aus Wien an den
+                        Herzog von Bayern erwähnt (Bezold, Briefe I, S. 443). Vgl. dagegen Nr. 85,
+                        Anm. 4.</note>Et hieri, essendo venuto mons. di Secovia et essendo noi
+                    convenuti con li consiglieri per trattar il negotio de la religione, et instando
+                    io che si devesse questa volta far da dovero etc., un consiglierò favoritissimo,
+                    non potendo dissimulare, proruppe in questo, che al presente bisognava andar con
+                    la mano dolce, perch’ essendosi hora in trattatione di eleggere il re de’
+                    Romani, nessuna cosa poteva escludere questo principe, se non qualche
+                    dimostratione austera in materia di religione, et faceva un argomento a
+                    sufficienti partium enumeratione. Il re di Spagna, quando anco sia incluso, è
+                    absente et forse essendo eletto non accettarebbe. L’arciduca Ferdinando è tenuto
+                    terribile et gl’elettori non vogliono un tale. L’arciduca Hernesto non ha stati
+                    et non si suole eleggere principe, che non habbia regni o provincie proprie et
+                    allegava molti essempii, dimodo che essendo questo principe amato da tutti et
+                    havendo già le proferte del duca di Sassonia, <note xml:id="FN1_00120_07"
+                        type="footnote">Vgl. Nr. 85, Anm. 14.</note>havendo stati di tanta qualità,
+                    essendo generale de’ confini et di natura benigna, senza dubio la elettione si
+                    farà in persona sua etc.</p>
+                <p>V. S. Illma si può imaginare se io restai afflitto, quando udii che dopo tante
+                    consulte et dopo d’haver ottenuto così sofficiente aiuto et dirò ancora dopo
+                    tante fatiche che si sono fatte, le quali sono andate tanto inanzi che ci
+                    promettono un mirabil frutto et sollevamento a la religione catholica, se si
+                    proseguisse animosamente a perfettionare quello che si è tante volte concluso
+                    et, non si facendo, è cosa certa che non solo le fatiche non saranno state
+                    fruttuose, ma più tosto di danno, si cominci di nuovo ad allegare rispetti et
+                    impedimenti. Per il che non mi parendo di poter né dever tacere, replicai al
+                    consigliero et a li altri, che annuebant a l’opinion sua, che io havevo
+                    osservato con l’occasione de’ negotii e communicati con le loro signorie che
+                    quando si trattava degl’heretici magnificavano con grande essaggeratione la
+                    potentia loro. Ma che dal’altra parte, se si parlava del stato de’ catholici,
+                    che si sminuiva et di annichilava quanto si poteva et che di presente mi <pb
+                        xml:id="P1_0000333"/>confirmano in questa opinione, poiché vedevo che ne la
+                    pretensione che loro dicono che S. A. ha, non ci è chi essorti l’A. S. non dirò
+                    a implorare, ma né pur mostrar segno di strinar la parte de gli elettori
+                    catholici, li quali havendo pur non solo equale, ma superiore auttorità et
+                    potentia potrebbono più gagliardamente aiutare S. A., massime quando
+                    intendessero che lei fa quello che deve et può, in beneficio de la religione
+                    catholica. Ma non si curando di questo, fanno il fondamento ne li elettori
+                    heretici, a li quali però non potrà mai piacere per ragione di stato che S. A.,
+                    contra il stabilimento de l’impero, <note xml:id="FN1_00120_08" type="footnote"
+                        >Augsburger Religionsfriede.</note>habbia messo mano a concedere che li suoi
+                    vassalli possino vivere d’altra religione di quella che fa lei, et che quando
+                    consideraranno bene li elettori il stato di queste provincie, la confusione che
+                    ci è, non solo circa la religione, ma nel resto, non sapevo se havessero così
+                    facilmente indotto l’animo ad eleggere un principe, al quale non è succeduto
+                    felicemente il governare quello che è iure hereditario suo proprio.</p>
+                <p>Finito il consiglio il cancelliero, il quale ha cura di riferire tutto quello che
+                    si risolve, disse a S. A. quello che il consigliero propose et la risposta mia.
+                    Et questa mattina S. A. ha mandato da me il cancelliero a dirmi che io non
+                    dubiti che la preparatione de la elettione del re de’ Romani sia per impedire il
+                    negotio che hora habbiamo per le mani, anzi che, se fosse ella eletta, non sa se
+                    si risolverebbe ad accettare etc. et, per quanto posso congietturare, li è
+                    dispiacciuto grandemente che il consigliero habbia parlato in quella forma. Io
+                    le ho risposto che de la bontà di S. A. io mi prometto et son sempre promesso
+                    assai et che non mi posso persuadere che, per qualsivoglia interesse temporale,
+                    lei sia mai per maculare il candore de la conscientia sua et simili altre cose.
+                    Tutto questo ho giudicato esser espediente di far sapere a V. S. Illma,
+                    supplicandola a perdonarmi se sono stato prolisso. ..</p>
+            </div>
+        </body>
+    </text>
+</TEI>

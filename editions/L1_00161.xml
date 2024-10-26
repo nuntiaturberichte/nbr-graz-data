@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00161">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-05-21" n="2">1582-05-21</title>
+                <title level="a">161. Malaspina an Gallio - Admont, 1582 Mai 21</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 470r—471r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00161">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-05-21" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2782979">Admont</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00160.xml"
+                        >160. (Malaspina an Madruzzo) - (1582 vor Mai 21)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00002.xml">1.
+                        Malaspina an Madruzzo - Salzburg, 1582 Juni 7</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00159.xml">159. Gallio an Malaspina -
+                        Rom, 1582 Mai 12</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00002.xml">2. Gallio an Malaspina -
+                        Rom, 1582 Juni 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Visitation der Grafschaft Görz und Aquileias. Geld für Nuntius am Kaiserhof.
+                    Bitte um Spesenersatz für Reise zum Reichstag. Rekatholisierung der reichen
+                    Pfarre Pöls. Kardinallegat Madruzzo gegebene Informationen über Religion in
+                    Innerösterreich.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="161">Malaspina an Gallio - Admont, 1582 Mai 21</head>
+            <div>
+                <pb xml:id="P1_0000424"/>
+                <p>Ho ricevuto questa settimana tre lettere di V. S. Illma de l’ultimo di marzo, de
+                    li 7 et 14 del passato.<note xml:id="FN1_00161_01" type="footnote">Nr. 153, 154
+                        und 155.</note>Ne la prima mi vien ordinato che io ne la visita instituita
+                    nel contado di Goritia et luoghi vicini eccettui la chiesa di Aquileia. V. S.
+                    Illma si persuada certissimo che, non solo a me, che sarei stato molto privo di
+                    giuditio, quando anco fossi stato ricercato di condiscendere a simii petitione,
+                    ma ne manco a l’A. S. è mai passato per il pensiero simii visitatione et non
+                    posso se non maravigliarmi che mons. suffraganeo<note xml:id="FN1_00161_02"
+                        type="footnote"> Vgl. Nr. 6, Anm. 24, und Nr. 102, S. 292.</note>habbia dato
+                    orrechie a simil cosa, poiché io, inanzi che mons. di Lubiana si partisse per
+                    Goritia, gliene diedi parte, osservando sempre di non metter la mano ne le
+                    diocesi altrui se prima non ne avvisa l’ordinario, et con l’occasione d’alcuni
+                    scandali successi in Aquileia, ne la cognitione de’ quali il capitanio di
+                    Gradisca haveva posta la mano et io ci rimediai, lo confortavo et essortavo nel’
+                    istessa mia a voler pigliare animosamente l’impresa di riformare quel clero, il
+                    che era chiaro argomento che monendolo lui, non pensavo ad altri visitatori. Et
+                    invero ha torto mons. suffraganeo a dolersi meco di non essere stato adoperato
+                    da me in tal commissione, poiché io et ho sempre reso honorato testimonio et de
+                    la persona sua et di mons. revmo patriarca, et ho instato appresso S. A. di
+                    poter nominare lui a tal effetto, ma tutto indarno, non essendo in mia mano di
+                    mettere confidentia dove non è, et perciò si inganna di credere che io habbia
+                    fatto giuditio che egli sia inhabile et mons. di Lubiana habile. Ma io eleggo
+                    più volentieri il tacere gli impcdiementi, che io ritrovo nel promovere quello
+                    che gli amici desiderano, che avvisandoli col conciliarmi la benivolentia loro
+                    venire a far officio di poca edificatione et contrario a l’obligo del grado
+                    ch’io sostengo.</p>
+                <p>Io non mancarò di dare li 500 scudi d’oro in oro a mons. nuntio Ces., il quale
+                    già mi haveva ricercato con molta instantia che io glieli <pb
+                        xml:id="P1_0000425"/>rimettessi, ma non havendo io alhora ordine alcuno, non
+                    potei sodisfare al desiderio suo. <note xml:id="FN1_00161_03" type="footnote"
+                        >Siehe Nr. 154, Anm. 4.</note>Con questa occasione non posso lasciare di
+                    supplicare V. S. Illma, se così le parerà conveniente, che si compiaccia di dar
+                    un ricordo a S. Bne de le spese, che bisognerà che ancor io faccia et nel
+                    viaggio et ne l’istessa dieta. <note xml:id="FN1_00161_04" type="footnote"
+                        >Malaspina erhielt darauf hin 400 Goldscudi (Arch. Vat. Nunz. Germ. 14, f.
+                        69r).</note>Dio benedetto sa che io conosco l’obligo che ho di spendere non
+                    solo le facoltà, ma ancora la vita in servitio di S. Stà, ma le spese ordinarie,
+                    le visite instituite da me et da altri per commissione mia hanno totalmente
+                    eshausto quel poco di peculio, che havevo,<note xml:id="FN1_00161_05"
+                        type="footnote"> Vgl. Nr. 119, S. 418, und Nr. 125.</note>et spero che N. S.
+                    tanto più facilmente sarà disposto in havermi per raccomandato, dando io questa
+                    buona nuova, che dui giorni fa, col privar l’Hoffman di non so quanti milia
+                    fiorini d’intrata che s’usurpava di quella famosa parochia, si è scacciato quel
+                    suo settario così pessimo et messo in loco suo un catholico, et spero che quel
+                    buon numero di contadini, che passano 12 milia di communione, si ridurranno tra
+                    pochi mesi al grembo de la santa madre chiesa. <note xml:id="FN1_00161_06"
+                        type="footnote">Es handelt sich um Pöls. Am 1. Juni 1582 richteten die in
+                        Graz versammelten Landleute eine Beschwerde an Erzherzog Karl, daß diese
+                        Pfarre Hoffmann widerrechtlich und gegen die Religionspazifikation entzogen
+                        worden sei (Loserth, FRA II/50, S. 315). Vgl. Nr. 108, Anm. 9.</note>Et io,
+                    se la dieta imperiale non si celebrarà così presto, ho pensato di transferirmi
+                    ad essa et lassarvi qualche buon ordine et specialmente introdurci la dottrina
+                    christiana, col qual uso introdotto da me in ogni chiesa visitata se ne va
+                    cavando, come intendo, frutto notabile.</p>
+                <p>Quanto al stato del negotio publico de la religione, V. S. Illma lo potrà
+                    comprendere da l’informatione, che ho fatto per l’illmo legato, la quale mi è
+                    parso di mandarla,<note xml:id="FN1_00161_07" type="footnote">Nr.
+                    160.</note>accioché o approvandosi o reprovandosi le considerationi concepute da
+                    me si possa risolvere maturamente quello che si devrà promovere per il felice
+                    fine del negotio ne la dieta imperiale...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

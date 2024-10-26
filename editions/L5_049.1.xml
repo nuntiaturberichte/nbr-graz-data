@@ -1,214 +1,222 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_049.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-06-21" n="1">1599-06-21</title>
-                    <title level="a">49.1. Portia an San Giorgio - Graz, 1599 Juni 21</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 61r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="beilage">
-						<lb/>Beilagen: fol. 57r, Alla S.tà di N. S. per la chiesa et vescovo
-						Eystetense [Supplik].<lb/>fol. 62r–64r, Mandatum Rev.mi Riarii Auditoris
-						Camerae pro exequutione<lb/>contributionis ad Seminarium Eystettensis, Rom,
-						1567 Dezember 11.<lb/>fol. 66r–v, Copia Brevis Gregorii XIII super erectione
-						Seminarii Eystetten-<lb/>sis, Rom, 1575 Februar 15.<lb/>fol. 67r–v, Mandatum
-						Pii V Pont. max. de contributione universi Cleri Eys-<lb/>tettensis ad
-						Seminarium, Rom, 1567 August 6.<lb/>fol. 70r–72r, Memoriale de Immutatione
-						Seminarii Eystadiensis, [o. D.].<lb/>fol. 75r, Memoria del negotiato
-						Eistetense, unterzeichnet vom Bischof von<lb/>Eichstätt, [o. D.].<lb/>fol.
-						77r, Avviso, Graz, 1599 Juni 21.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_049.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-06-21" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_048.1.xml">48.1. San Giorgio an Portia - Rom, 1599 Juni 19</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_049.2.xml">49.2. Portia an San Giorgio - Graz, 1599 Juni 21</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_048.1.xml">48.1. San Giorgio an
-                            Portia - Rom, 1599 Juni 19</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_049.2.xml">49.2. Portia an San
-                            Giorgio - Graz, 1599 Juni 21</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia übermittelt Bitten aus Franken: Bischof von Eichstätt [Gemmingen] will
-						das Seminar nach Ingolstadt oder Dillingen verlegen. Portia empfiehlt
-						Dillingen. Ehedispens.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="49.1">Portia an San Giorgio - Graz, 1599 Juni 21</head>
-				<div>
-					<pb xml:id="P5_0000104"/>
-					<p>Nel viaggio c’ho fatto ultimamente in Franconia mi son stati proposti vari
-						negoti per proponer et supplicare alla S.tà di N. S., tra quali uno è del
-						Vescovo d’Eistatio, il quale trovandosi havere un Seminario fondato con
-						l’auttorità de Sommi Pontefici con applicatione di molti benefici semplici
-						et diminutione d’entrate di molti Curati et Parochie<note xml:id="FN5_049.1_01" type="footnote">Bischof Martin von Schaumberg
-							hatte 1563 das Priesterseminar Willibaldinum in Eichstätt gegründet, die
-							Jesuiten übernahmen es 1614 und richteten ein Kolleg ein: vgl. DUHR,
-							Geschichte 2.1, S. 235–239.</note> et vedendo che quella Diocese pate
-						per questo grandissimo danno principalmente nella cura dell’anime senza
-						ritrar alcun profitto di consideratione nell’educatione di que giovani et
-						Alunni, non solo per mancamento di Precettori et institutori, ma anche per
-						la qualità del luogo poco disposto et ordinato a simil educatione, s’è
-						rissoluto finalmente, conform’alle scritture mandatemi, le quali invio a V.
-						S. Ill.ma con queste<note xml:id="FN5_049.1_02" type="footnote">Beilagen
-							dieser Nr.</note>, di supplicar alla S.tà di N. S. a farli gratia di
-							concederle<note xml:id="SN049.1_a" type="siglum">Marginalie des
-							Staatssekretariates links: trattisi nella Congregatione di Germania
-							parli con [l’agente] del modo perchè non guasti anco il Seminario et non
-							acconciamo il resto.</note> che possa disponer altrimente circa quel
-						Seminario, et in particolare che le conceda facoltà di poter mutar il luogo
-						di Eistadio in Ingolstadio o Dilinga, i quali luoghi sono puoco lontani dal
-						suo Vescovado<note xml:id="FN5_049.1_03" type="footnote">Laut dem Archivar
-							des Diözesanarchives Eichstätt, Dr. Bruno Lengenfelder, fand die
-							projektierte Transferierung des Eichstätter Seminars in eine andere
-							Stadt bisher keinen Niederschlag in der Eichstätter Forschung, auch
-							nicht in der 2010 veröffentlichten Dissertation von Irene Reithmeier
-							über Johann Konrad von Gemmingen: vgl. REITHMEIER.</note>. Et perch’io
-						giudico col parer anco de buoni et prattici che questa mutatione sia per
-						esser molto utile a quella Diocese, io riputarei anco che, rissolvendosi la
-						S.tà di N. S. di permettere quant’il Vescovo richiede et supplica, che si
-						potrebbe preferir et elegger Dilinga più tosto che Ingolstadio, essendo
-						commun parere ch’il profitto sia maggiore in quello ch’in questo luogo et
-						che si potrebbe imponer anco al Vescovo per Breve che mantenesse in Dilinga
-						dodici Alunni nel modo che sono mantenuti gli Pontificii, sottoponendoli
-						all’obedienza et alla censura del Rettore di quel Collegio et Università, né
-						permettere che si rimovessero Alunni senza porne degl’altri per non lasciar
-						diminuire il numero et perire l’instituto et la fondatione di già fatta et
-						introdotta. Et rimettendomi humilmente a quanto la S.tà di N. S. si degnerà
-						di rissolvere et commandare, supplico solo V. S. Ill.ma ad haver in
-						raccomandatione et protettione il sopradetto Vescovo et Vescovado.</p>
-					<p>Occorre anco per la medesima Provincia di Franconia supplicar alla S.tà di N.
-						S. per una dispensa matrimoniale, della quale ho fatto scriver un<pb xml:id="P5_0000105"/> memoriale particolare sopr’il fatto, et sarà con
-							questa<note xml:id="FN5_049.1_04" type="footnote">Nicht auffindbar. Es
-							handelt sich dabei um die Ehedispens fur den Bruder des Dompropstes von
-							Bamberg, Wolf Albrecht von Würtzburg, Johann Veit von Würtzburg
-							(1561–1610), der trotz seiner Domherrenämter in Bamberg (1572) und
-							Würzburg (1577) sowie der 1585 erfolgten Subdiakonatsweihe 1594 die
-							Witwe Anna Rufina von Rotenhan geheiratet hatte. Rat des Hochstiftes
-							Bamberg (1595). Seine Frau verstarb am 29. Februar 1600, er heiratete am
-							1. Februar 1601 Margarete von Ebleben: vgl. HOTZELT, S. 298–423. Vgl.
-							Nr. 52.1, 75.3, 83.1, 110.3, 298.1.</note> et pregando V. S. Ill.ma a
-						degnarsi di favorir et protegger il negotio nel miglior modo che le parerà,
-						come che concerna la maggior parte di quella Nobiltà et principalmente de’
-						Catholici …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_049.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-06-21" n="1">1599-06-21</title>
+                <title level="a">49.1. Portia an San Giorgio - Graz, 1599 Juni 21</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 61r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="beilage">
+                        <lb/>Beilagen: fol. 57r, Alla S.tà di N. S. per la chiesa et vescovo
+                        Eystetense [Supplik].<lb/>fol. 62r–64r, Mandatum Rev.mi Riarii Auditoris
+                        Camerae pro exequutione<lb/>contributionis ad Seminarium Eystettensis, Rom,
+                        1567 Dezember 11.<lb/>fol. 66r–v, Copia Brevis Gregorii XIII super erectione
+                        Seminarii Eystetten-<lb/>sis, Rom, 1575 Februar 15.<lb/>fol. 67r–v, Mandatum
+                        Pii V Pont. max. de contributione universi Cleri Eys-<lb/>tettensis ad
+                        Seminarium, Rom, 1567 August 6.<lb/>fol. 70r–72r, Memoriale de Immutatione
+                        Seminarii Eystadiensis, [o. D.].<lb/>fol. 75r, Memoria del negotiato
+                        Eistetense, unterzeichnet vom Bischof von<lb/>Eichstätt, [o. D.].<lb/>fol.
+                        77r, Avviso, Graz, 1599 Juni 21.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_049.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-06-21" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_048.1.xml"
+                        >48.1. San Giorgio an Portia - Rom, 1599 Juni 19</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_049.2.xml">49.2.
+                        Portia an San Giorgio - Graz, 1599 Juni 21</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_048.1.xml">48.1. San Giorgio an
+                        Portia - Rom, 1599 Juni 19</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_049.2.xml">49.2. Portia an San
+                        Giorgio - Graz, 1599 Juni 21</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia übermittelt Bitten aus Franken: Bischof von Eichstätt [Gemmingen] will das
+                    Seminar nach Ingolstadt oder Dillingen verlegen. Portia empfiehlt Dillingen.
+                    Ehedispens.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="49.1">Portia an San Giorgio - Graz, 1599 Juni 21</head>
+            <div>
+                <pb xml:id="P5_0000104"/>
+                <p>Nel viaggio c’ho fatto ultimamente in Franconia mi son stati proposti vari negoti
+                    per proponer et supplicare alla S.tà di N. S., tra quali uno è del Vescovo
+                    d’Eistatio, il quale trovandosi havere un Seminario fondato con l’auttorità de
+                    Sommi Pontefici con applicatione di molti benefici semplici et diminutione
+                    d’entrate di molti Curati et Parochie<note xml:id="FN5_049.1_01" type="footnote"
+                        >Bischof Martin von Schaumberg hatte 1563 das Priesterseminar Willibaldinum
+                        in Eichstätt gegründet, die Jesuiten übernahmen es 1614 und richteten ein
+                        Kolleg ein: vgl. DUHR, Geschichte 2.1, S. 235–239.</note>et vedendo che
+                    quella Diocese pate per questo grandissimo danno principalmente nella cura
+                    dell’anime senza ritrar alcun profitto di consideratione nell’educatione di que
+                    giovani et Alunni, non solo per mancamento di Precettori et institutori, ma
+                    anche per la qualità del luogo poco disposto et ordinato a simil educatione, s’è
+                    rissoluto finalmente, conform’alle scritture mandatemi, le quali invio a V. S.
+                    Ill.ma con queste<note xml:id="FN5_049.1_02" type="footnote"> Beilagen dieser
+                        Nr.</note>, di supplicar alla S.tà di N. S. a farli gratia di
+                        concederle<note xml:id="SN5_049.1_a" type="siglum"> Marginalie des
+                        Staatssekretariates links: trattisi nella Congregatione di Germania parli
+                        con [l’agente] del modo perchè non guasti anco il Seminario et non
+                        acconciamo il resto.</note>che possa disponer altrimente circa quel
+                    Seminario, et in particolare che le conceda facoltà di poter mutar il luogo di
+                    Eistadio in Ingolstadio o Dilinga, i quali luoghi sono puoco lontani dal suo
+                        Vescovado<note xml:id="FN5_049.1_03" type="footnote"> Laut dem Archivar des
+                        Diözesanarchives Eichstätt, Dr. Bruno Lengenfelder, fand die projektierte
+                        Transferierung des Eichstätter Seminars in eine andere Stadt bisher keinen
+                        Niederschlag in der Eichstätter Forschung, auch nicht in der 2010
+                        veröffentlichten Dissertation von Irene Reithmeier über Johann Konrad von
+                        Gemmingen: vgl. REITHMEIER.</note>. Et perch’io giudico col parer anco de
+                    buoni et prattici che questa mutatione sia per esser molto utile a quella
+                    Diocese, io riputarei anco che, rissolvendosi la S.tà di N. S. di permettere
+                    quant’il Vescovo richiede et supplica, che si potrebbe preferir et elegger
+                    Dilinga più tosto che Ingolstadio, essendo commun parere ch’il profitto sia
+                    maggiore in quello ch’in questo luogo et che si potrebbe imponer anco al Vescovo
+                    per Breve che mantenesse in Dilinga dodici Alunni nel modo che sono mantenuti
+                    gli Pontificii, sottoponendoli all’obedienza et alla censura del Rettore di quel
+                    Collegio et Università, né permettere che si rimovessero Alunni senza porne
+                    degl’altri per non lasciar diminuire il numero et perire l’instituto et la
+                    fondatione di già fatta et introdotta. Et rimettendomi humilmente a quanto la
+                    S.tà di N. S. si degnerà di rissolvere et commandare, supplico solo V. S. Ill.ma
+                    ad haver in raccomandatione et protettione il sopradetto Vescovo et
+                    Vescovado.</p>
+                <p>Occorre anco per la medesima Provincia di Franconia supplicar alla S.tà di N. S.
+                    per una dispensa matrimoniale, della quale ho fatto scriver un <pb
+                        xml:id="P5_0000105"/>memoriale particolare sopr’il fatto, et sarà con
+                        questa<note xml:id="FN5_049.1_04" type="footnote"> Nicht auffindbar. Es
+                        handelt sich dabei um die Ehedispens fur den Bruder des Dompropstes von
+                        Bamberg, Wolf Albrecht von Würtzburg, Johann Veit von Würtzburg (1561–1610),
+                        der trotz seiner Domherrenämter in Bamberg (1572) und Würzburg (1577) sowie
+                        der 1585 erfolgten Subdiakonatsweihe 1594 die Witwe Anna Rufina von Rotenhan
+                        geheiratet hatte. Rat des Hochstiftes Bamberg (1595). Seine Frau verstarb am
+                        29. Februar 1600, er heiratete am 1. Februar 1601 Margarete von Ebleben:
+                        vgl. HOTZELT, S. 298–423. Vgl. Nr. 52.1, 75.3, 83.1, 110.3, 298.1.</note>et
+                    pregando V. S. Ill.ma a degnarsi di favorir et protegger il negotio nel miglior
+                    modo che le parerà, come che concerna la maggior parte di quella Nobiltà et
+                    principalmente de’ Catholici …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

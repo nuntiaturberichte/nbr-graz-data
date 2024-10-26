@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00074">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1581-03-07" cert="low" n="1">vermutlich
+					1581-03-07</title>
+				<title level="a">74. (Malaspina an Erzherzog Ernst) - (Graz, 1581 März 7)</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 99, f. 411r—413v, Kop.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00074">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658" cert="low">Malaspina,
+						Germanico</persName>
+					<date when="1581-03-07" n="1" cert="low"/>
+					<placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/120580497" cert="low">Österreich,
+						Erzherzog, Ernst</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_006">Malaspina,
+						Germanico - Österreich, Erzherzog, Ernst</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00073.xml">73.
+						Gallio an Malaspina - Rom, 1581 März 4</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00075.xml">75.
+						Gallio an Malaspina - Rom, 1581 März 11</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Bericht über religiöse Lage in Innerösterreich. Schwächliche Haltung Erzherzog
+					Karls, starke Opposition der evangelischen Stände. Wenig Aussicht auf
+					finanzielle Unterstützung seitens des Kaisers, Erzherzog Ferdinands, des Herzogs
+					von Bayern sowie des Erzbischofs von Salzburg. Wegen starker Türkenbelastung
+					Streben Erzherzog Karls nach Ausgleich mit Venedig durch päpstliche Vermittlung.
+					Unstimmigkeit mit Erzherzog Ferdinand wegen Nachfolgefrage. Geplante Entsendung
+					Schranzens zu den benachbarten Fürsten sowie des Bischofs von Gurk nach Rom.
+					Päpstliche Geldhilfe <pb xml:id="P1_0000200"/>zum Unterhalt von Soldaten an der
+					Türkengrenze sowie einer Besatzung in Graz erforderlich. Tod des Kommandanten
+					von Karlstadt.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="74">(Malaspina an Erzherzog Ernst) - (Graz, 1581 März 7)<note
+					xml:id="FN1_00074_01" type="footnote">Empfänger und Datum ergeben sich aus Nr.
+					79, S. 215. Auch P. Blyssem berichtete dem Jesuitengeneral am 14. März 1581 über
+					von Malaspina Erzherzog Ernst und Herzog Wilhelm übersandte Informationen
+					(Loserth, FRA II/50, S. 226).</note>
+			</head>
+			<div>
+				<p>Le ragioni mandate per persuadere al sermo arciduca a star costante nel favorire
+					la religione catholica<note xml:id="FN1_00074_03" type="footnote">Vgl. Nr. 59,
+						S. 172.</note>sono di tanto peso et sostanza, che dovrebbeno et partorire
+					novo vigore in S. A. et rompere in buona parte la ostinatione di questa nobiltà,
+					ma chi da principio è andato osservando con che piedi si è caminato in questo
+					negotio, ha scoperto due massime verissime: L’una è che il principe mostra ben
+					di stimare tutte quelle ragioni che si allegano, ma vorebbe esser in tal forma
+					aiutato con danari, che egli dal canto suo non fosse necessitato né a vendere,
+					né impegnar, né incommodarsi per cooperare anco egli in questo fatto. <note
+						xml:id="FN1_00074_04" type="footnote">Vgl. Nr. 16, S. 67, und Nr. 24, S.
+						89.</note>L’altra è che questa nobiltà è stata così sedota da questi
+					diabolici predicatori, che insieme con haver smarita la vera fede, ha ancora
+					perso ogni lume di ragione, di modo che né per amicabile trattatione, né per
+					urgenti et vere ragioni, né per altro genere di persuasione si può sperare di
+					farla capace, né contenerla nella debita obedienza. Però in questo fatto sono
+					tre cose degne di consideratione, le quali sì come sono differenti, hanno ancora
+					bisogno di ponderatione non equale. L’una è l’indurre il principe a credere che
+					non basta di dire: Io voglio metter la vita etc., se sarò aiutato et che ho
+					provato se con le forze mie posso fare et vedo che no, ma che è necessario che
+					faccia il negotio, così proprio che si dia a credere di esser ridoto a tal passo
+					che per conservatione sua nel spirituale et temporale bisogna che s’incommodi et
+					cerchi via et modo d’aiutarsi, et di questo ne è stato data la cura a me dalli
+					consiglieri, <note xml:id="FN1_00074_05" type="footnote">Vgl. Nr. 72.</note>et
+					spero mi riuscirà sì come ancora, praeter spem omnium, riuscì il fare publicare
+					il decreto. Secondariamente resta di ritrovar via che la nobiltà obedischi, et
+					in questo non bisogna pensare a nude ragioni, ma metter mano a mezza più
+					potenti, et doppo che haverà obedito, dubitando noi che sotto mano non instighi
+					la plebe a resistere a l’esecutione, convien pensare alla forma et assicuratione
+					circa esequire, et questo capo è il più difficile. Li consiglieri, a’ quali è
+					stato data la cura di ventilare questo negotio, <pb xml:id="P1_0000201"/>doppo
+					di esser stati divisi tra di loro grandemente,<note xml:id="FN1_00074_06"
+						type="footnote"> Vgl. Nr. 62, S. 178 f.</note>si sono contentati di
+					procedere nella consulta secondo il mio raccordo, ciò che prima si dovesse
+					discorere che cosa può far il principe de sé, et di presente et doppo
+					continuamente ; che deveno far li ordinarii et prelati ; che aiuti si deveno
+					cercare esterni, tanto pecuniarii come d’altro genero, et poi discuttere bene
+					come noi qua ci dobbiamo governare ne l’indure a perfettione il negotio,
+					presupponendo d’esser aiutati, et essendosi risoluto tutto questo si è refferito
+					al principe, il quale ha approvato et solamente è un poco tepido nel voler
+					vendere o impegnare luochi,<note xml:id="FN1_00074_07" type="footnote"> Vgl. Nr.
+						19, S. 82, und Nr. 42, S. 130.</note>come ho detto, ma qua batte il punto,
+					poiché è impossibile aiutar S. A. se lei ancora non vuol dire da dovero. Spero
+					nondimeno si risolverà in bene, et perché io non ho ancora in ordine tutta la
+					consultatione, dirò solamente quello che si è discorso, ma non scritto nella
+					consulta.</p>
+				<p>Circa li aiuti esterni io parlerò delli convicini. Quanto a S.Mtà Ces. oltre alla
+					infirmità, che qua è tenuta per pericolosissima<note xml:id="FN1_00074_08"
+						type="footnote">Vgl. Nr. 25, Anm. 9, Nr. 73, Anm. 2, Nr. 85, Anm. 4, Nr. 88,
+						S. 243, und Nr. 120. Am 7. Juni 1581 meldete der Nuntius am Kaiserhof, daß
+						wegen der Lebensgefahr Rudolfs II. die Wahl Erzherzog Ernsts zum Römischen
+						König betrieben werde (Arch. Vat. Nunz. Germ. 99, f. 470r).</note>et ne ha
+					nocciuto grandemente in questa dieta, non sperano questi ministri di poter haver
+					aiuto alcuno, et si contenterebbeno che, essendo fornito tra pochi mesi il tempo
+					delle contributioni, che l’imperio suol dare pelli confini, che col mezzo di S.
+					Mtà fosse continuato il pagamento, et perché questo non si può trattare se non
+					nella dieta imperiale et sarà forsi cosa longa, <note xml:id="FN1_00074_09"
+						type="footnote">Siehe Nr. 72, Anm. 3.</note>le provincie di S. A. hanno
+					scritto qua che a loro non basta l’animo di portar più il peso delli confini, et
+					fanno instanza che s’habbi ricorso da N. S. Et vo intendendo che forsi si
+					risolverano di supplicare S. Bne o S. Mtà Cath. a pigliarsi come cosa derelitta
+					da loro, la cura di guardare Segna, con certe altre fortezze, lasciando tutto il
+					dominio alla Sede Apostolica o a quella Mtà, et per questo effetto si sono
+					convocate tre persone d’ogni provincia ; ma io a suo tempo darò più particolar
+					aviso. <note xml:id="FN1_00074_10" type="footnote">In den späteren Berichten
+						Malaspinas wird diese Angelegenheit nicht mehr erwähnt.</note>Similmente
+					prevedendo S. A. che tra pochi anni né li ecclesiastici né li secolari sono per
+					haver modo di sostenere la spesa per resistere al Turco, che se hora che egli è
+					occupato et ogni cosa sta in pace non possano, quanto manco potrano quando egli
+						<pb xml:id="P1_0000202"/>forsi terrà maggior presidii et cercherà di
+					offenderli, si è risoluta di tentare di accommodare le differenze che ha con li
+					signori Venetiani,<note xml:id="FN1_00074_11" type="footnote"> Siehe Nr. 14,
+						Anm. 46, Nr. 24, Anm. 11, und Nr. 68, Anm. 6.</note>che in tal caso si
+					potrebbe sperare qualche unione tra di loro. Et però si è mossa a scrivere al
+					sig. Josani Trautson, consigliero intimo de l’imperatore et parente del sig.
+					cardinale Madrutio, <note xml:id="FN1_00074_12" type="footnote">Hans Trautson
+						war mit Brigitta geh. Freiin von Madruzzo, einer Tante des Kardinals
+						Lodovico Madruzzo, vermählt (Mayrhofen, Genealogien des tirolischen Adels,
+						Erloschene Geschlechter II, Nr. 26, IV, Nr. 47, Innsbruck, Museum
+						Ferdinandeum). Vgl. Nr. 92, S. 254.</note>instando grandemente che S. Mtà
+					Ces., non potendo lei per la infirmità<note xml:id="FN1_00074_13"
+						type="footnote"> Vgl. Nr. 73, Anm. 2.</note>attendere a questo, si contenta
+					che S. A. possi supplicar N. S. che li faccia gratia di pigliarsi questa cura.
+					Ha nella risposta mostrato quel signore con bel modo che, havendo S. Mtà il
+					negotio in mani, che forsi sarebbe bene di veder quello che col mezzo suo si può
+					sperare, ma scrive che il tutto depende da l’arciduca Ferdinando, et però S. A.,
+					alla quale preme grandemente questo, ha subito scritto a l’arciduca et instà di
+					potere con sodisfattione di loro ricercare N. S. <note xml:id="FN1_00074_14"
+						type="footnote">Erzherzog Karl war an einer baldigen Bereinigung der
+						Grenzstreitigkeiten mit Venedig auch aus innenpolitischen Gründen sehr
+						interessiert. Sein Bruder Ferdinand zeigte aber eine gewisse Härte gegen die
+						Grenzverhandlungen, die man durch Entgegenkommen bei der Versorgung seiner
+						nicht erbberechtigten Kinder Andreas und Karl zu beseitigen hoffte (Venedig
+						AS, Dispacci Germania, filza 7, f. 138rv).</note>
+				</p>
+				<p>In quello poi che tocha a l’arciduca Ferdinando non è tra di loro molta
+					sodisfattione, per conto della successione<note xml:id="FN1_00074_15"
+						type="footnote">Erzherzog Karl betrieb die Wahl seines Neffen Erzherzog
+						Ernst zum Römischen König sowohl beim Kaiser als auch bei den Kurfürsten
+						(Arch. Vat. Nunz. Germ. 99, f. 302r—303v, 441r, 446r, 470r).</note>et non
+					vogliono sentire che si faccia fondamento ne l’aiuto suo. Del duca di Bavera lo
+					depingano così parco nel spendere, che non si assicurano che egli sia per far
+					cosa alcuna.<note xml:id="FN1_00074_16" type="footnote"> Vgl. Loserth, FRA
+						II/50, S. 701—704.</note>Finalmente, quanto a l’arcivescovo di Salisburgo,
+					egli forsi darebbe aiuto, ma per quanto se intende, vuol certi luochi in pegno,
+					né in questo il coadiutore può far molto, perché l’arcivescovo è padrone delle
+					intrate, et se bene in altro egli potrà giovare questa causa, nondimeno havendo
+					egli li parenti in Carintia, heretici fini, con alcuni de’ quali ho havuto che
+					trattare et ne posso parlare per esperienza, et non havendo la dispositione in
+					mano delle intrate, non so invero che cosa potesse fare; pur credo sarà cosa
+					molto <pb xml:id="P1_0000203"/>utile che per ogni evento si trasferischi a
+					Friscaco, come a suo tempo si avvisarà. <note xml:id="FN1_00074_17"
+						type="footnote">Vgl. Nr. 64, Beilage B.</note>
+				</p>
+				<p>Ma l’errigere seminario, il far la visita, l’impedire le stampe heretiche et
+					altre cose simili, per qual effetto se le darà il brazzo seculare sarebbe bene
+					hormai tempo che si facesse, et tanto più lo doverà far hora,<note
+						xml:id="FN1_00074_18" type="footnote">Siehe Nr. 53, Nr. 55, S. 227 f., Nr.
+						58.</note>quanto che sono quasi securo che S. A. si contentarà che in mia
+					presenza si tratti da’ commissarii del’ una et l’altra parte una amicabile
+					concordia per le differenze in materia di giurisditione ecclesiastica,<note
+						xml:id="FN1_00074_19" type="footnote"> Vgl. Nr. 75, S. 206.</note>dimodo ché
+					per queste ragioni et per la natura del principe et per altre molte si è tra di
+					noi stabilito che si debba procedere nella forma seguente, per perfettionare il
+					negotio, presuponendo però che non sia, se non necessario, il tentare di haver
+					aiuto da tutti, et così si è fatta elettione, per li principi vicini, del
+					canciliero, <note xml:id="FN1_00074_20" type="footnote">Siehe Nr. 77, S. 214,
+						Nr. 83, S. 225, Nr. 92, Anm. 1.</note>et per Roma, di mons. di Gurgo, <note
+						xml:id="FN1_00074_21" type="footnote">Siehe Nr. 84, 87 und 90.</note>se bene
+					sotto altri colori et pretesti, che non sia espediente far prova, se con
+					amicabile trattatione o per viam juris, si possi accommodare questo negotio, et
+					che si debba fuggire, come cosa pernitiosa, la via regia. Quanto al capo di
+					ridure il negotio a tumulti et apparenza di guerra, perché havendo costoro in
+					mano il governo delle provincie, havendo in custodia l’armaria, ma sopra tutto
+					havendo a loro devotione tutti li soldati delli confini et della loro religione,
+						<note xml:id="FN1_00074_22" type="footnote">1580 gehörte zum Stab der
+						Truppen an der windischen Grenze ein evangelischer Prädikant, aber kein
+						katholischer Priester (Vaniček, Specialgeschichte der Militärgrenze I, S.
+						72; Rothenberg, Die österreichische Militärgrenze, S. 49, Anm. 44).</note>et
+					essendo lor cura di darli il stipendio, dalli quali si doveva temere in questi
+					conflitti che, lasciando quella diffesa, non fossero venuti a offender noi, et
+					andando in lor mano tutti li danari delle contributioni, tanto de’ ecclesiastici
+					come seculari, et con essi hanno edificato questa lor sinagoga et mantengono li
+					lor predicatori a spesa del clero, et è verissimo; bisognerebbe se si tentasse
+					di voler procedere per via di guerra, haver tal aiuto, che in verità credo sia
+					impossibile a ritrovarlo et, potendosi schivare tutto questo, et nondimeno haver
+					l’intento nostro, non è dubio che è meglio. <note xml:id="FN1_00074_23"
+						type="footnote">Malaspina hatte noch keine richtige Kenntnis von dem in der
+						Steiermark schon seit Jahrhunderten herrschenden Dualismus von Landesfürst
+						und Ständen, besonders in Finanz- und Verteidigungsangelegenheiten (vgl.
+						Mensi, Geschichte der direkten Steuern, S. 50; Vaniček a. a. O., S. 37
+						ff.).</note>
+				</p>
+				<pb xml:id="P1_0000204"/>
+				<p>Et però tra noi si è concluso che S. A. debba non aspettare nella dieta
+						futura<note xml:id="FN1_00074_24" type="footnote">Der nächste Landtag begann
+						am 27. November 1581 (Graz LA, Landtagsakten 423 und 424/425; ebenda
+						Landtagshandlungen 33, f. 170r—252v).</note>a far esecutione alcuna, ma
+					subito, havendo in pronto l’aiuto, perché, essendo congregata tutta la nobiltà,
+					nascano molte difficultà, massime essendo noi securi del stato ecclesiastico, il
+					quale sarà unito con S. A. et darà la sua portione volentieri et si cercherà di
+					mantenerlo saldo, il che si farà facilmente se io non tentarò la visita delle
+					lor persone et conventi, del che temono grandemente et in questo il coadiutore
+					potrà giovar assai. <note xml:id="FN1_00074_25" type="footnote">Die Visitation
+						wurde aber doch vor Beginn des Landtags begonnen (Nr. 94, S. 260, Nr. 107,
+						109, 111, 112, 114 und 115).</note>Et perché come S. A. faccia novità alcuna
+					in materia di religione, la nobiltà non vorrà contribuire, bisogna perciò
+					procurare : prima, d’haver tanta somma de danari, quanto basti per supplire alli
+					confini. Secondariamente è necessario di ritrovar una via di assicurarsi che
+					quelli soldati delli confini siano contenuti nel debito officio, al che già si è
+					pensato. Terzo, far quello che si ha da fare così presto, senza però precipitare
+					che non sia maturo il tempo che li prelati devono sborssare la lor parte, perché
+					se di già li provinciali havessero in mano la portione loro, sarebbe difficile a
+					far cosa buona. 4to, S. A. ha da procurare che le paghe che si deveno alli
+					soldati siano pagate, che sono molte, et operare che li prelati ricerchino di
+					voler veder li conti alli provinciali et come si distribuiscono li danari et far
+					un saldo tra di loro. Ultimamente bisogna che S. A. in forma tale sia proveduta
+					qua di gente, et quanto al castello et quanto alla persona sua,<note
+						xml:id="FN1_00074_26" type="footnote"> Vgl. Nr. 90, S. 247.</note>che non
+					habbiamo paura d’una furia populare ne’ altri simili tumulti, come si è veduto
+					principii nella dieta passata. <note xml:id="FN1_00074_27" type="footnote">Vgl.
+						Nr. 33, S. 112, und Nr. 37, S. 117.</note>
+				</p>
+				<p>Ma perché non è manco necessario di procurare che li aiuti, che si daranno a S.
+					A. siano profitevolmente dispensati di quello che sia l’istesso aiuto, acciò non
+					intervenghi quello che è avenuto delli 40.000 scudi, li quali oltre che non sono
+					stati spesi, né forsi la metà, nella fortezza di Carlostot, in quel luoco non si
+					è manco edificato chiesa, del che sono stato sforzzato di farne un poco di
+						risentimento.<note xml:id="FN1_00074_28" type="footnote">Vgl. Nr. 1, Anm.
+						26, und Nr. 133, S. 362; Innerösterreich hat außer den sehr umfangreichen
+						Robotleistungen 350.000 fl. zum Bau von Karlstadt beigetragen (Vaniček a. a.
+						O., S. 65 f.). Es ist durchaus möglich, daß ein Teil dieser päpstlichen
+						Hilfsgelder nicht für Karlstadt, sondern für die Türkengrenze im allgemeinen
+						verwendet wurde. 1578 bewilligten nämlich die innerösterreichischen Länder
+						548.205 fl. für den Türkenkrieg, davon sollten 70.000 fl. aus der
+						Reichshilfe</note>Ma<pb xml:id="P1_0000205"/> essendo morto hora il
+					capitaneo della fortezza, si è proposto un catholico, et spero sarà promosso da
+					S. A. et si ordinerà che subito si edifichi ; però in evento che N. S. si
+					disponghi di aiutar questo principe in questa così utile necessaria et pia
+					impresa, sarei di parere che si desse un credito in Vienna o Venetia, del quale
+					non si potesero valere, se non in grandissima necessità et quando il nontio
+					giudicasse esser espediente, et aggravare la conscienza al detto nontio, et
+					insieme farlo certo che, quando facesse altrimenti, caderebbe nella disgratia di
+					N. S.<note xml:id="FN1_00074_29" type="footnote"/>
+				</p>
+				<p>Di questa forma si spera che S. A. potrà esequire qua in Gratz tutto quello che
+					vorrà, il che sarà così gran principio, che si potrà quasi nel medemo tempo
+					perfettionare il restante.</p>
+				<p>Non sarebbe forsi gran cosa che la venuta qua de quelli tre comissarii d’ogni
+					provincia aprisse camino et senza strepito di tentare qualche cosa di momento in
+					favore della religione, poiché havendo loro suplicato a S. A. che voglia, in
+					nome del paese, ricorrere da N. S. per aiuto et con il mezzo suo ricercare altri
+						principi,<note xml:id="FN1_00074_30" type="footnote">Siehe Anm. 20 und
+						21.</note>io havrò occasione bona per il sucesso delle cose passate di
+					significarle che, se non si risolvino, insieme con il domandare l’aiuti, di dare
+					qualche signalata sodisfattione a S. Bne in materia di religione, che non sono
+					per ottenere cosa alchuna.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

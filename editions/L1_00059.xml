@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00059">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1581-01-01" n="1">1581-01-01</title>
+				<title level="a">59. Malaspina an Gallio - Graz, 1581 Jänner 1</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 231r—234r, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00059">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1581-01-01" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00058.xml">58.
+						Graz, 1580 Dezember 31</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00060.xml">60.
+						Malaspina an Gallio - Graz, 1581 Jänner 4</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00057.xml">57. Gallio an Malaspina -
+						Rom, 1580 Dezember 31</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00060.xml">60. Malaspina an Gallio -
+						Graz, 1581 Jänner 4</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Unnachgiebige Haltung Erzherzog Karls gegen jüngst vorgebrachte drohende Eingabe
+					der evangelischen Stände. Versuch der Bestechung und Übergabe eines
+					Beschwerdebriefes durch Häretiker an Malaspina. Protest einiger Städte und
+					Gebiete an der Türkengrenze gegen landesfürstliches Religionsdekret. Meldung von
+					drohendem Türkeneinfall. Unterstützung Erzherzog Karls gegen Häretiker und
+					Türken notwendig für Durchführung des Dekretes. Weihnachtsbeichte Erzherzog
+					Karls. Almosen und Gebete um guten Ausgang des Religionsgeschäftes.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="59">Malaspina an Gallio - Graz, 1581 Jänner 1</head>
+			<div>
+				<pb xml:id="P1_0000169"/>
+				<p>Ultimamente li provinciali in nome di tutti coloro che professano la confessione
+					Augustana hanno presentato una scrittura a S. A. minatoria<note
+						xml:id="FN1_00059_01" type="footnote">Antwort und Bitte der der Augsburger
+						Konfession zugetanen Stände auf die Erklärung Erzherzog Karls vom 23.
+						Dezember, aus Gewissensgründen vom Religionsdekret nicht abgehen zu können,
+						auch wenn er deswegen alles, ja selbst das Leben verlieren sollte (Loserth,
+						FRA II/50, S. 133 f. und 143—150).</note>et in tal forma che si conosce
+					chiaramente che non carninano ad altro fine che a una rebellione et se non la
+					porranno in esecutione, come si crede, è diffetto d’impotenza, ma non di volontà
+					et havendo S. A. fatto consultare quello che si dovesse rispondere, si era
+					determinato nel consiglio esser bene di alargare il decreto primo in questo
+					punto: che li nobili, in caso de infirmità, quando erano nelle quattro città
+						<note xml:id="FN1_00059_02" type="footnote">Siehe Nr. 52, Anm.
+					2.</note>potessero chiamare li lor predicatori et farsi administrare li
+					sacramenti, parendoli duro che nel’ aggonia della lor morte le fosse vietato
+					l’havere chi le raccomandasse l’anima. Essendomi subito fatto sapere questa
+					risolutione, la quale per infiniti capi era pernitiosa, perché oltre che tutti
+					si sarebbeno finti infermi a lor beneplacito, se il principe mostra debolezza o
+					timore et comincia a declinare, crescerà talmente l’orgolio di costoro che ogni
+					cosa anderà in rovina. Io perciò parlai a S. A. et senza molte repliche descese
+					nel mio parere che non si dovesse mutar niente, ma persistere sempre nella prima
+					dechiaratione della sua volontà. Et così convocò li provinciali et le parlò
+					tanto aspramente che qua è stata tenuta per novità miracoloso et in sostanza le
+					disse che se sapesse di perdere tutto quello che Dio benedetto le ha dato in
+					temporale et insieme la propria vita, che mai <pb xml:id="P1_0000170"/>è per
+					alterare la prima sua volontà et che conosceva che insin’hora non era stato
+					principe, ma servo et che si risolveva di volerlo essere et in forma che da
+					altri fosse tenuto per tale et li dete una scrittura che conteneva il medemo.
+					Non hanno ancora dato risposta, ma essendosi consigliati tutti insieme et
+					havendo risoluto che se potessero mitigare il nontio che ogni lor cosa
+					passarebbe bene, hanno tentato di corrompermi con una grossa somma di danari,
+					temerità et impudentia tale che ha stomacato ogni uno, se bene ha servito a
+					questo che S. A. ha aperto li occhi che, se tenteranno con altri, il medemo non
+					le verrà fatta.</p>
+				<p>Vedendo che con danari non mi possono piegare, sono venuti da me per parlarmi et
+					darmi una scrittura<note xml:id="FN1_00059_03" type="footnote">Wahrscheinlich
+						das Schreiben der evangelischen Stände an Malaspina vom 24. Dezember 1580
+						(Nr. 56).</note>et il lor ragionamento è stato in genere quasi minatorio. Io
+					le ho risposto in modo che S. A. è restata sodisfattissima et lor ben chiari che
+					io non ho paura. Non ho voluto accettare la scrittura et, per non dare fastidio
+					a V. S. Illma, non starò a raccontare minutamente quello che è passato, ma
+					solamente dirò che S. A. mi haveva fatto avisare che lor sarebbeno venuti da me
+					con una scrittura et che le pareva che io non la dovessi accettare, et così si
+					fece tra noi un poco di consiglio et si risolse et la forma del parlar mio et il
+					modo di non accetarla.<note xml:id="FN1_00059_04" type="footnote"> Nach
+						ständischer Darstellung trug sich folgendes zu: Es hat aber der bäbbstliche
+						Nuncius alhie vor wenig tagen unsern ausschuss, welchen wir mit ainer
+						schriftlichen ermanung zu ime geschickt, lauter angezaigt, warumben er
+						solches von uns nit annemen künte, sey das die ursach, dann er kann uns nit
+						helfen, er sey nit allain des babbsts, sondern auch anderer künig, fürsten
+						und potentaten gesannter alhie, es sey vor etlich iarn dises alles also
+						beschlossen und stehet allain an ietzo in executione (Loserth, FRA 11/50, S.
+						163).</note>
+				</p>
+				<p>Essendosi publicato il decreto<note xml:id="FN1_00059_05" type="footnote">Nr.
+						50.</note>per tutto il paese, alcune città et terre delli confini delli
+					Turchi hanno protestato, che non vogliono obedire, altre tacciono insin’hora, ma
+					questa di Graz dà tali segni che S. A. dubita quasi de una furia populare. Ma
+					tutti i consiglieri dicono che non ci è pericolo non solo quanto al principe, ma
+					ne anco quanto a me ; se però la mia famiglia non facesse qualche rumore con
+					alcuno della terra, che in questo caso pigliarebbeno senza dubio questa
+					occasione colorata di venire alla mia casa.</p>
+				<p>Il capitano generale delli confini scrive che il bassà di Buda stava in procinto
+					con vinti milla fanti per fare una scorreria per il paese. Costoro non
+					lascierano di tentare ogni cosa et col mezzo de <pb xml:id="P1_0000171"/>Turchi
+					et delli heretici del’ imperio et con il subornare li cittadini et li villani,
+					ma spero che non le riuscirà tutto quello che pensano. È ben vero che o
+					obediscano o non obediscano S. A. non può sperare d’havere più quelli susidii
+					per li confini con li Turchi che insin’hora le hanno dato <note
+						xml:id="FN1_00059_06" type="footnote">Vgl. Nr. 14, Anm. 3; Rainer,
+						Nuntiaturberichte II/8, S. 201.</note>et non le pagherano per l’avenire li
+					debiti, anzi faranno instanza che le sia restituito una buona somma di danari
+					che li deve. Et però se non obediscano haverà bisogno S. A. de doi sorte de
+					aiuti, ciovè che le sia dato brazzo de castigare la nobiltà rebella, il che si
+					farà senz’arme con l’altra dieta et insieme modo acciò li confini non
+					patischino. Se obedirano, che Dio voglia per sua misericordia et così speriamo,
+					non sarà però in forma che S. A. possi cavare da loro quella quantità de danari
+					che, per il passato, le hanno dato. Perché non essendo loro obligati se non per
+					il bene commune, <note xml:id="FN1_00059_07" type="footnote">Für 1581 hatte der
+						steirische Landtag 200.000 fl. für die Türkengrenze bewilligt (Graz LA,
+						Landtagsakten 423).</note>il quale in questi fragenti non stimano, non
+					voranno se non contribuire secondo la forma antica et di già la provincia di
+					Carniola, la quale non ha fatto rumore in materia di religione, ha dato venti
+					mila fiorini manco del’ anno passato.<note xml:id="FN1_00059_08" type="footnote"
+						> Noch viel größer waren aber die Rückstände bei der von den Reichsständen
+						1570 zu Regensburg bewilligten sechsjährigen Türkenhilfe. So schuldete davon
+						nach Ablauf der vorgesehenen sechs Jahre der Kurfürst von Köln 79.468 fl.,
+						der Herzog von Jülich-Kleve-Berg 82.805 fl., der Bischof von Lüttich 48.200
+						fl. und Herzog Wilhelm von Bayern 27.420 fl. Insgesamt betrug der Außenstand
+						817.224 fl. 23 1/2 Kreuzer (Graz LA, Meillerakten XIII-1—27, f.
+						465r—467v).</note>Ma sì come se questo durasse sarebbe impossibile che il
+					principe potesse con qual si voglia aiuto sustenere la furia di costoro, così si
+					sa certissimo che questo lor sdegno et disgusto non può perseverare, se non per
+					un anno et forsi manco et in questo mentre o Dio li illuminerà overo si aprirano
+					altri camini che si potrano humiliare. Et la portione che dà il stato
+					ecclesiastico è tale che basterà per qualche mese a guardare li confini et con
+					un aiuto esterno mediocre che sia dato a S. A. acciò possi sostentare per mezzo
+					anno al più il peso de’ detti confini et l’impeto di costoro le cose passerano
+					felicemente. Perché subito che vederano che S. A. ha delli amici che l’aiutano,
+					si risolverano di attendere a vivere, ma al presente sanno che non ha danari per
+					potersi vestire et che bisogna che vadi per le mani loro et però sono superbi.
+					Et il pensare di mettere gabelle o altre impositioni, stando il sdegno di tutte
+					le provincie, è cosa che io confesso che non si deve fare per hora, se bene sono
+					stato di contraria opinione. Però stiamo in stato che sì come S. A. non deve
+					temer altro, se non<pb xml:id="P1_0000172"/> che li provinciali non vogliano
+					contribuire o volendo non lo facciano, come per il passato, così se haverà
+					qualche aiuto in questi principii che sarano un poco difficili, S. A. potrà non
+					solo esequire quello che ha ordinato per il decreto, ma anco revocare il resto.
+					Il negotio è di grandissima importanza et per la salvatione delle anime che sono
+					nove cento milla da communione, le quali hora sono la maggior parte infetate di
+					heresie, et ancora perché quello che si farà qua S. M. Ces. scrive che lo vuole
+					esequire in Austria, et si bene non volse scrivere a S. A., da principio,
+					conforme al racordo che le dete il nontio, <note xml:id="FN1_00059_09"
+						type="footnote">Möglicherweise bezieht sich diese Stelle auf das kaiserliche
+						Schreiben an Erzherzog Karl vom 21. November 1580 (Loserth, FRA II/50, S. 69
+						f.).</note>non dimeno doppo che ha veduto il decreto ha scritto et
+					commendato quello che si è fatto, esortando S. A. a resistere et promettendoli
+					che subito ancor esso vuol fare il medemo. Et l’arciduca Hernester similmente ha
+					scritto et in spetie ha dato commissione al sig. cancelliero che in suo nome mi
+					ringratii et mi faccia buon animo, cosa che mi ha consolato grandemente. <note
+						xml:id="FN1_00059_10" type="footnote">Schreiben Erzherzog Ernsts nicht
+						vorhanden.</note>Non sarà forsi se non bene di tener viva questa buona
+					inclinatione di S. M. Ces. col’ordinare al nontio quello che V. S. Illma
+					giudicherà essere a proposito, perché in Austria le parrochie sono per la
+					maggior parte in mano de’ heretici; hanno occupato molti beni ecclesiastici
+					hanno ancora il jus advocatiae et altre cose che si potrebbeno remediare al
+					presente con questa occasione.</p>
+				<p>Il padre provinciale de’ Gesuiti, avanti che confessasse S. A. questo Natale,
+					vuolse saper da me come si doveva governare.<note xml:id="FN1_00059_11"
+						type="footnote">Vgl. Nr. 129.</note>Io le dissi che mi pareva che,
+					considerate molte circostanze, S. A. havesse fatto tutto quello che poteva et
+					però disgravata la sua coscienza, ma che era a mio parere necessario che le
+					mettesse in consideratione che, in materia di religione, non si può dare
+					tolleranza alcuna se non quanto la necessità sforzza, et che però se un di
+					questi giorni o S. Stà o altri principi o li consiglieri suoi li persuaderano,
+					che può ancora revocare il resto, che sarà tenuto a farlo et che hora è obligato
+					a cercar modo di mettere in esecutione quello che ha ordinato. S. A. me ha
+					ringratiato et mostra tanta compontione con tanta effusione di lacrime, che io
+					resto molto edificato et piaccia a S. D. M. che perseveri come si deve sperare.
+					Mi manda a chiamare spesso et ragiona meco molto piamente et, se si potesse
+					mutare la sua natura da timida in animosa, sarebbe un negotio molto utile et
+					necessario, ma sempre dubita di non esser abbandonato et da parenti et da amici
+					et da vassalli...</p>
+				<pb xml:id="P1_0000173"/>
+				<p>(P. S.:) Questi heretici hanno fatto tante processioni et orationi che quando noi
+					altri non fossimo stati senz’altro inclinati a ricorrere in simil necessità
+					al’aiuto divino, loro ne havrebbono mossi. Et giudicando io che non solo fosse
+					nostro debito di aggualiarli, ma superarli, ultimamente feci distribuire cento
+					scudi di elemosina<note xml:id="FN1_00059_12" type="footnote">Vgl. Nr. 33, S.
+						113.</note>a tutti li poveri catholici, quali si sono comunicati poi alla
+					mia messa et stanno giorno et notte nel templo, pregando con lacrime per il
+					felice sucesso di questo negotio et per la longa vita di N. S. Et perché questa
+					elemosina ha esceduto un poco le forze mie, se parerà a V. S. Illma di
+					favorirmi, acciò io sia redintegrato, sarà opera degna della bontà et pietà
+					sua.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

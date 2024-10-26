@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00050">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1580-12-10" n="3">1580-12-10</title>
+				<title level="a">50. Graz, 1580 Dezember 10</title>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 172r—1750v und 179r—I80v; zwei
+							gleich-<lb/>zeitige lateinische Fassungen.<lb/>Venedig AS, Dispacci
+							Germania, filza 7,f. 143r—145v, Kop.<lb/>Druck: Loserth, FRA
+							II/50,78—83, deutsche Fassung.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00050">
+				<correspAction type="sent">
+					<date when="1580-12-10" n="3"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspContext>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00049.xml">49.
+						Malaspina an Gallio - Graz, 1580 Dezember 10</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00051.xml">51.
+						Graz, 1580 Dezember 10</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Landesfürstliches Religionsdekret In allen landesfürstlichen Städten und Märkten
+					darf nur die katholische Religion ausgeübt werden. Herren und Ritter dürfen im
+					Landhaus (in Graz) für sich und die Ihrigen ein oder zwei Prädikanten des
+					Augsburger Bekenntnisses halten; auf ihren Schlössern hüben sie, doch nur für
+					sich und die Ihrigen, ihr Be <pb xml:id="P1_0000147"/>kenntnis frei. Dem
+					Landesfürsten und den übrigen Katholiken soll bei der Kollation und Konfirmation
+					von Benefizien durch (evangelische) Vögte kein Eintrag geschehen. Was der
+					katholischen Kirche entzogen wurde, muß binnen zwei Monaten zurückerstattet
+					werden. Niemand soll jemand anderen der Religion wegen beschweren und alle
+					sollen gemeinsam das Vaterland vor der Türkengefahr schützen.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="50">Graz, 1580 Dezember 10</head>
+			<div>
+				<p>Notum sit statibus huius principatus Stiriae spiritualibus nimirum, baronibus et
+					equitibus et illis, qui confessioni Augustanae addicti sunt, ex parte sermi
+					domini archiducis, quod sicut isti his diebus gravamina sua in negotio
+					religionis Seru illius humiliter exhibuerunt obnixe rogantes, ut Sertas S. in
+					iis gratia sua ac clementia illis praesto esse vellet, ita illos etiam
+					vehementer eidem conquestos esse, quod ab eis multifarie et ita quidem iniuriis
+					afficiantur, ut eas amplius sustinere non possent summe itidem S. Sertem
+					obsecrantes, ut eos ab eiusmodi iniuriis liberare ac eos in eorum iuribus et
+					immunitatibus ita conservare tueri ac defendere dignaretur, sicut id eis a
+					principio sui regiminis, cum ei a tota provincia debitum homagium praestaretur,
+					benigne pollicita fuit, et alias etiam pro debito iustitiae et aequitatis facere
+						teneretur.<note xml:id="FN1_00050_01" type="footnote">Religionsbeschwerden
+						der der Augsburger Konfession zugetanen Herren, Ritter und Bürgerschaften
+						vom 2. Dezember und des Prälatenstandes vom 4. Dezember 1580 (Loserth, FRA
+						II/50, S. 70—75 und 76 f.).</note>
+				</p>
+				<p>De qua re S. Sertas a dominis ordinariis aliisque illius Romani Imperii
+					ecclesiasticis principibus, qui in ditione S. Sertis bona obtinent saepenumero
+					quoque interpellata et illi liquido significatum fuit, nisi S. Sertas dictum
+					religionis negotium aliter disposuerit et inprimis prospexerit, ut ipsi suam
+					spiritualem iurisdictionem prout anteactis temporibus exercere iuribusque suis
+					et praeeminentiis debite uti et frui possint, se necessario de eo apud Summum
+					Pontificem et Caesarem conquesturos ac Sanctitatem Maiestatemque illius pro
+					auxilio imploraturos esse.<note xml:id="FN1_00050_02" type="footnote">Vgl. Nr.
+						40, S. 123 f, Nr. 46, S. 138, und Nr. 53.</note>
+				</p>
+				<p>Ad haec posset S. Sertas multas et multas quaerimonias allegare, quae sibi passim
+					a parochis et miseris colonis contra eos hactenus <pb xml:id="P1_0000148"
+					/>expositae fuerunt, qui indesinenter de eodemmet negotio religionis multum
+					illis negotii facessunt cogendo illos religionem suam veterem catholicam
+					deserere et ad eorum confessionem Augustanam deficere.<note
+						xml:id="FN1_00050_03" type="footnote"> Vgl. Loserth, FRA 11/50, S.
+						67f.</note>Verum cum eae omnibus pateant S. Sertas eas in medio relinquere
+					et sequentia solum illis exponere necessarium esse duxit, videlicet quod ab eo
+					tempore, quo S. Sertas illis spem fecerat se cum illis religionis ergo
+					patientiam habituram apud quamplurimos debitam obedientiam omnino quasi amiserit
+					resque eo devenerit, ut quod quisque animo conceperit id etiam praetextu
+					eiusmodi promissae patientiae seu tolerantiae effectui dare non erubescat.</p>
+				<p>Imprimis vero aliis id vi ac de facto auferre seu rapere audeat, quod a multis
+					seculis bono titulo possederunt. Et cum S. Sertas eiusmodi iniquitatem ad preces
+					spoliatorum inhibet eosque restitui mandat, tunc non solum non obeditur ei, sed
+					etiam oportet eam cum eiusmodi usurpatoribus atque adeo etiam cum deputatis
+					ipsis provinciae contendere disputare et tandem quasi de omnibus suis rebus
+					gestis rationem illis reddere veluti si solum inane principis titulum et nullam
+					omnino authoritatem in eos haberet.<note xml:id="FN1_00050_04" type="footnote"
+						>Vgl. Nr. 39, S. 121.</note>Praeterquam quod etiam eorum concionatores adeo
+					ab omni pietate et modestia aversi fuerint, ut non veriti sint salvatorem et
+					redemptorem nostrum Dominum Jesum in venerabili sacramento altaris diabolum
+					ipsum incarnatum vocitare, Stem vero Smi D. N. et Mtem S. Caes., item S. Sertem,
+					dominos fratres et nepotes suos cum omnibus iis, qui sunt eorum catholicae
+					religionis in hac civitate Graecensi, idololatras, apostata, mamalucos et
+					desertores christianae fidei appellare, condemnare et ita impie criminari, ut
+					mirum sit, quod Deus Omnipotens tantum scelus ac flagitium sustinere
+						potuerit.<note xml:id="FN1_00050_05" type="footnote"> Gemeint sind vor allem
+						die Predigten Hombergers gegen das Fronleichnamsfest (Mayer, Hornberger, S.
+						215—226) und die des Landschaftspredigers Christoph Frey anläßlich des
+						Nikolausfestes getanen Schmähungen gegen den Heiligenkult (Loserth, FRA
+						11/50, S. 66 f.).</note>Quod sicut cum sacrosancto evangelio et tota divina
+					lege, quam tamen ipsi indesinenter erepunt, omnino et ex diametro pugnat, ita
+					etiam S. Sertas firmiter credit, id nulli unquam christiano principi obtigisse,
+					minus quenquam tam patientem fuisse, qui totam iniquitatem sufferre potuerit,
+					maxime cum id etiam omnibus imperialibus legibus ac ordinationibus repugnet, et
+					ita per sese intolerabile sit, ut negari nequeat, quicunque princeps talia suis
+					subditis conniveat, illum gladio illo, qui illi ad puniendos malos <pb
+						xml:id="P1_0000149"/>et protegendos bonos a Deo concreditus est, omnino
+					abuti, et sicut nihil minus, quam officium suum facere, ita etiam certum esse
+					debere, res suas durare non posse, sed necessum esse, ut vel ipse subditis ipsis
+					debite praesit vel ab ipsis cum tempore in ordinem redigatur. Cuius quidem rei
+					causa Sertas S. fideles suos provinciales, ut pote qui sese hactenus ergo S.
+					Sertem et eius progenitores semper laudabiliter et pi’obe gesserunt, et si
+					nequaquam insimulat, verum tamen est Sertem S. de eo commonefactam fuisse,
+					quando quidem illi quasi praescribatur quemnam in ditione sua servare, item
+					cuiusmodi servitores seu familiares habere et quorum potentatuum legatos
+					admittere vel reiicere deberet. <note xml:id="FN1_00050_06" type="footnote"
+						>Siehe Nr. 43, S. 134.</note>Ideo Serti S. talia ac eiusmodi surda aure
+					minime praetereunda, sed potius ad animum revocanda et sedulo perpendenda esse,
+					sicut et illud in veritate ita sese habet Serti S. desertis verbis significatum
+					fuisse, et quidem a personis, quae indubie erga S. Sertem optime affectae sunt,
+					si S. Sertas innovationes illas, quae passim in suis provinciis circa religionem
+					conspiciuntur, statim non inhibuerit, quod alii vicini principes rebus suis
+					necessario providere et talia remedia illis adhibere cogentur, quae sine dubio
+					Serti eius magno damno ac detrimento erunt.</p>
+				<p>Quam rem S. Sertas tanto maiore animi molestia ac perturbatione percepit, quanto
+					illi prae aliis exploratius est, habere sese vicinos, a quibus sibi ob rerum
+					praeteritarum memoriam non parvum cavendum sit, idque eo magis cum iam in
+					negotiis religionis versemur quam et hac nostra tempestate et superioribus
+					temporibus aliquot regna et principatus omnino pessumdederunt. Quae omnia cum S.
+					Sertas aliquamdiu apud sese animo diligenter perpenderet et re vera de iis viis
+					ac rationibus, quibus tanto malo occurri et obviari posset, fideliter cogitaret,
+					invocato demum Deo optimo maximo efficacius et salubrius consilium excogitare
+					non potuit, quam si in negotio id decerneret, quo et spirituales ipsi et illi,
+					qui confessionem Augustanam ex baronum et equitum numero profitentur, pro
+					ratione rerum ac temporum contentari, imprimis vero Smi D. N., ipsorum
+					ordinariorum et aliorum catholicorum atque adeo etiam Sertis ipsiusmet votis ac
+					desideriis satisfieri posset, maxime cum eo casu Serti S. contra nostri
+					Christiani nominis hostes Tureas haud contemnenda auxilia polliceantur et e
+					contra S. Sertas assiduas illas querimonias, gravamina, lamentationes, minas et
+					expostulationes, quas hactenus ob saepedictum religionis negotium indesinenter
+					pertulit, amplius nequaquam<pb xml:id="P1_0000150"/> sufferre posset, sed tandem
+					omnia susque deque ruere ac S. Sertem a paganis et Christianis omnem
+					internecionem expectare oporteret.</p>
+				<p>Cum haec igitur omnia ita sese habeant et S. Sertas Deo teste nihil aliud sibi a
+					fidelibus suis subditis pollicetur, quam quod et ipsi ex christiano zelo
+					eiusmodi S. Sertis conatus adiuvare et promovere sicut et omne illis imminens
+					malum fideliter avertere non intermissuri sint, idcirca S. Sertas in Dei nomine
+					pro archiducali eius authoritate hoc communiter statuere et firmiter decernere
+					voluit:</p>
+				<p>(1) quod nimirum deinceps in omnibus suis suorumque adhaerentium catholicorum
+					statuum civitatibus, oppidis, dominiis, villis et locis, nullo excepto,
+					solummodo nostra orthodoxa ipsa catholica christiana Romana religio
+					exerceatur</p>
+				<p>(2) et contra eam ab adversariis confessionistis ex baronum et equitum numero,
+					qui hic habitabunt, liceat nimirum unum atque alterum concionatorem verae
+					Augustanae confessionis habere, qui solum illis, eorum uxoribus, liberis<note
+						xml:id="FN1_00050_07" type="footnote">In der deutschen Fassung sind hier die
+						Frauen und Kinder nicht angeführt.</note>ac familiae<note
+						xml:id="FN1_00050_08" type="footnote"> Für familia steht in der deutschen
+						Fassung gesindt.</note>in domo provinciali concionari ac eorum sacramenta
+					administrare possint, ita tamen ut neminem alium admittant et alias nulla iura
+					parochialia neque praedicando neque baptizando neque ullo alio modo exercere
+					valeant.</p>
+				<p>(3) Demptis pro tertio aliis et videlicet illis baronibus ac equitibus, qui ruri
+					habitant, his quoque licebit dictos concionatores ad se vocare vel alios
+					conducere et eorum opera itidem solum pro se, suis uxoribus, liberis et familiis
+					uti, alios tamen vicinos nullo pacto allicere vel si sponte venirent admittere
+					possint.</p>
+				<p>(4) Pro quarto Sertas S. quoque serio mandat et imperat, ut neque S. Serti neque
+					suis adhaerentibus catholicis ullum deinceps impedimentum in collatione et
+					confirmatione beneficiorum ab advocatis fiat, sed sicut iis ante 100, 60, 50,
+					40, 30 et 20 annos usi sunt ita etiam eisdem in futurum pacifice et libere
+					utantur et fruantur absque ulla dictorum advocatorum molestia, qui in ecclesiis
+					vel earum pertinentiis nihil plane iuris habebunt, nisi quod illis de iure
+					canonico et politia Caesarea concessum est.</p>
+				<p>(5) Ad haec et quinto S. Sertas quoque serio praecipit, ut quicquid his
+					superioribus temporibus ecclesiis ipsis ablatum est, id eis intra bimestre in
+					solidum restituatur et deinceps nihil omnino tale sub gravi eius Sertis
+					indignatione attentetur.</p>
+				<pb xml:id="P1_0000151"/>
+				<p>(6) Postremo etiam est S. Sertis omnimodo voluntas, ut religionis ergo alter
+					alteri nihil omnino molestiae inferat, sed fideles eius Sertis subditi invicem
+					omni benevolentia complectantur et cum S. Serte eo tantummodo incumbant ac
+					invigilent, ut patriam ipsam a Turcica tyrannide protegere et cum S. Serte ita
+					vivere possint sicut fidelibus subditis convenit.</p>
+				<p>Quae omnia cum S. Sertas solum pro bono publico ac salute communi decreverit,
+					omnino sibi pollicetur status ipsos praefatos Serti S. plane obedientes futuros,
+					praesertim cum barones ipsi ac equites<note xml:id="FN1_00050_09"
+						type="footnote">In der deutschen Fassung folgt hier noch sambt iren weib,
+						kindt und gesindt.</note>ex clementi tolerantia ac benignitate absque omni
+					molestia ac solicitudine in sua conscientia vivere et in summa ita securi esse
+					possint, ut causam habeant Serti S. de tali eius benignitate magis ingentes
+					gratias agere quam ullo pacto de minimo conqueri, maxime cum S. Sertas secus
+					facere non potuerit nisi et se et ipsos fideles suos subditos extremo periculo
+					exponere voluisset...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00025">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1580-11-06" n="1">1580-11-06</title>
+				<title level="a">25. Malaspina an Gallio - Graz, 1580 November 6</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 112r—117r, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00025">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1580-11-06" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00024.xml">24.
+						Gallio an Malaspina - Rom, 1580 November 5</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00026.xml">26.
+						Malaspina an Gallio - Graz, 1580 November 7</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00024.xml">24. Gallio an Malaspina -
+						Rom, 1580 November 5</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00026.xml">26. Malaspina an Gallio -
+						Graz, 1580 November 7</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Wenig feste Haltung Erzherzog Karls gegenüber häretischem Adel. Bereitschaft
+					Erzherzog Ferdinands, in den Ländern Karls, der inzwischen eventuell an den
+					Kaiserhof oder nach Spanien gehen soll, die katholische Religion und
+					laudesfürstliche Autorität wiederherzustellen. Ausfälligkeiten eines Prädikanten
+					gegen Nuntius. Weichheit Karls in religiösen Fragen möglicherweise auch durch
+					Aussichten auf Nachfolge des Kaisers begründet. Bedeutung der bevorstehenden
+					Landtage in Steiermark und Kärnten.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="25">Malaspina an Gallio - Graz, 1580 November 6</head>
+			<div>
+				<p>Se bene da quello che in più volte ho scritto a V. S. Illma la può haver
+					conosciuto la speranza, che al presente si ha, che questo signore debba far
+					qualche notabile demonstratione, in favore della religione catholica nelle diete
+					prossime future.<note xml:id="FN1_00025_01" type="footnote">Siehe Nr. 14, 16 und
+						19, S. 77 f.</note>Non dimeno né io né niuno di questi catholici zelosi, li
+					quali stano aspettando con grandissima ansietà l’esito, si prometteno del sicuro
+					che S. A. sia per effetuare quello che tante volte ha promesso, et chi difide
+					della natura del principe timida, chi della instabilità, chi del lasciarsi
+					governare et impressionarsi da persone poco timorate de Dio et poco ben affette
+					al servitio di S. A., chi al non voler fastidii et esser nemico di rumori, chi
+					al’esser tanto buono che non vorebbe disgustar niuno, chi alla necessità grande,
+					nella quale egli è, chi si fonda sopra la sperientia delle cose passate, chi
+					dice che ha havuto la forma di governarsi a questo modo dal’imperatore suo
+					fratello, delle attioni del quale egli è diligentissimo osservatore. <note
+						xml:id="FN1_00025_02" type="footnote">Kaiser Maximilian II. riet seinem
+						Bruder Erzherzog Karl z. B. vor Beginn der Landtage 1569 und 1571 von
+						scharfen Maßnahmen gegen die Evangelischen ab und hielt es auch nicht für
+						rätlich, sich an den Papst zu wenden (Loserth, Reformation und
+						Gegenreformation, S. 145 f. und 179—181).</note>Et invero S. A. fa tante
+					diverse demo<pb xml:id="P1_0000091"/>strattoni, hora in favore de’ heretici hora
+					in favore de’ catholici, se bene queste sono in numero et in qualità minori et
+					fatte con paura, che tiene l’animo di ogniuno sospeso et chi non conoscesse la
+					bontà et pietà di questo principe et si mettesse ad osservare le attioni sue
+					d’un anno credo che sospenderebbe l’intelletto, et non sarebbe pigliar partito
+					an declineat ad dextram vel ad sinistram et, quando pur si risolvesse, non so se
+					sarebbe in favore nostro. Et non voglio lasciare di racontare a V. S. Illma una
+					cosa che mi ha totalmente confirmato in questo et fa che io non vivo con quella
+					quietà de’ animo, che dovrei fare, havendo in mano così ferme promesse del
+					principe. Fui avisato che l’arciduchessa non favoriva così le matrone, dame et
+					altre serve catholiche, come faceva le heretiche,<note xml:id="FN1_00025_03"
+						type="footnote"> Verzeichnis des Hofstaates der Erzherzogin Maria bei
+						Hurter, Geschichte Kaiser Ferdinands I, S. 586, und. V, S. 583; Thiel,
+						Zentralverwaltung, S. 187-—190. Über die Entfernung der Lutheraner vom Hof
+						berichtete bereits am 16. April 1580 P. Blyssem (Loserth, FRA II/50, S.
+						56).</note>et perché S. A. mostra di portarmi affetione, le feci dire dal
+					suo confessore <note xml:id="FN1_00025_04" type="footnote">Seit 1571 waren
+						Jesuiten die Beichtväter Erzherzog Karls und Erzherzogin Marias (Schuster,
+						Martin Brenner, S. 191 und 196).</note>che mi maravigliavo molto di questo
+					et che non lo potevo credere, sapendo la molta bontà et pietà sua et commissi al
+					confessore che le mettesse in consideratione il peccato et l’offesa che faceva a
+					Dio; mi ha fatto rispondere che lei non può far altro et che ha in comissione di
+					far così. Da questo favorir più li heretici che li catholici, spetialmente nella
+					persona del principe, ne nascono quelli inconvenienti che ogniuno può
+					considerare. Et la cosa si riduce a termine che il professar d’esser catholico
+					si reputa a vergogna et si ritrovano alcuni, parlo d’ogni stato, tanto de’
+					nobili come delli altri, che vanno nella chiesa catholica a hore insolite per
+					non esser veduti et fanno le loro orationi et doppo vivono hereticamente. Et mi
+					ha detto a me il principe che egli medemo ha osservato questo, cosa che non può
+					proceder da altro che da quello che disopra ho detto, se bene l’attribuiscono
+					che li capi nobili heretici fecero un convivio grandissimo a tutti li baroni et
+					signori et, doppo esser bene imbriachati, operorno che tutti con li loro sigilli
+					et sottoscrittione per scrittura promettessero d’esser uniti in defendere la
+					confessione Augustana, et alcuni si sottoscrissero per compagnia, ché realmente
+					sentono il contrario, ma aggiungendosi a questo il favore del principe mi par a
+					me che sia vergogna l’esser catholico et grande honore esser heretico. Et il
+					ritrovar la causa perché S. A. facia questo è cosa molto difficile, né si può
+					ragionevolmente attribuire né alla necessità sua né al peri<pb
+						xml:id="P1_0000092"/>colo di rebellione, poiché oltra a quello che ho
+					scritto altre volte a V. S. Illma, con la pacificatione che S. A. ha fatto con
+					li heretici, non solo non si è rimediato alli bisogni suoi, ma doppo che li ha
+					concesso libertà, egli è intrato in molto maggiore, et a S. A. non mancano altri
+					modi per uscire di ogni necessità. Si è proposto, tra le altre cose, di mettere
+					un quattrino di più di datio nel sale, <note xml:id="FN1_00025_05"
+						type="footnote">Auf der Münchner Konferenz wurde die Erhöhung der Salzsteuer
+						vorgeschlagen (Loserth, FRA II/50, S. 39).</note>il quale qua è in
+					perfettione et copia grandissima, et non l’ha voluto fare et più tosto ha
+					creduto alle false ragioni delli heretici, che alle vere et utili delli buoni.
+					Si è ancora trattato d’impegnar et vendere lochi, né mai si è perfettionato cosa
+					alcuna et li adversarii, che lo vedono volentieri in questo stato, trionfano.
+					Quanto al secondo capo della rebellione, V. S. Illma ha similmente veduto quello
+					che altre volte difusamente ho discorso. Ho di più saputo per cosa certissima
+					che l’arciduca Ferdinando, mosso dal’amor fraterno, si è esibito di voler ridur
+					tutte queste provincie tam in capite quam in membris in vera obedientia, tanto
+					circa la religione quanto circa il dominio temporale, purché S. A. lo lasci fare
+					et le dia l’autorità et che nel’ interim stia qua overo vada dal’imperatore o
+					dal re di Spagna o dove più li piace, et che vuol esser tenuto, se per questo
+					nascesse pregiudicio alcuno a S. A. Le ha risposto che egli è troppo terribile
+					et che questo governo non ricerca simile modo di trattare; se questi baroni
+					fossero o in richezze o in valore o in dependentie o havessero stato insigne et
+					forte, veramente si potrebbe con qualche ragion temere, ma non hanno né valore,
+					ché non ci è tra di loro uno che sia mai stato alla guerra, né richezze, ché
+					sono falliti et impegnati, né dependentie né stato di qualità alcuna et sono
+					dati a piaceri, al’otio et alla crapula. Hora in questo fatto io vo considerando
+					che habbiamo un principe veramente catholico, il quale o per necessità o per
+					peccati de’ popoli ha condesceso a conceder libertà in pregiuditio della fede
+					che lui professa, et doppo questo, ha comminciato a declinare in autorità, in
+					obedientia et in intrate et da principe libero è venuto quasi in servitù. Et
+					stando in questo termine non cerca da sé di pigliarci remedio, anzi bisogna che
+					altri lo preghino, lo instighino et le restino con obligo, acciò eschi di simil
+					miseria; et con tutto questo non si risolve. Et se io havessi inteso che doppo
+					le concessioni egli ha aquistato novo dominio, nova obedientia o nove intrate,
+					certo che più riservatamente haverei proceduto in persuadere S. A. a quello
+						che<pb xml:id="P1_0000093"/> hora facio; et il pensare che lei tardi in
+					risolversi per qualche mala radice, io metterei la vita, ché non è et
+					l’attribuirlo a natura et alle cose sopradette. Non mi pare che si possa
+					legitimamente fare, poiché qual natura, qual timore, qual’ impressione, qual’
+					instabilità, qual forma tolta da altri non si mutarebbe, vedendo il pericolo
+					manifesto et continui danni, quali per non venire al remedio ogni giorno si
+					patiscono. Io confesso ingenuamente che sto tutto confuso, andando osservando le
+					attioni passate di questo principe et suo consiglio et in questa medema non dirò
+					sospensione d’animo, ma confusione sono tutti li ministri di S. A. catholici,
+					quali hanno più longa esperientia della forma che si tiene di procedere di
+					quello che ho io. Et perché tutto il nervo del mio ministerio consiste in
+					scoprire se il principe dice da vero o non che desiderando veramente di
+					estirpare le heresie et assicurarsi in coscientia et veder reformato ’l stato
+					ecclesiastico, spero senza dubio che si farà del bene assai, et le cose sono in
+					tal termine hora, che tutti dicano che o al presente si darà qualche remedio
+					overo che mai si farà cosa buona, et sarano pur sforzati, non facendo
+					demostratione in queste diete di confessare che non vogliono, che del potere è
+					cosa chiara conclusa et manifestamente si tocca con mano. Et però, se S. A. non
+					vuole, non occore pensare che il nontio a poco a poco possi far egli frutto come
+					essi dicano, anzi in poco tempo verebbe a deriso et in favola delli heretici et
+					di tutto il clero et se al presente li heretici, che pur hanno un poco di paura,
+					sono tanto temerarii che publicamente mi domandano ambasciatore del diavolo et
+					il giorno di S. Simone et Giuda, <note xml:id="FN1_00025_06" type="footnote">28.
+						Oktober.</note>andando io a celebrar la messa nel monasterio di S.
+					Francesco, a caso ritrovai un loro predicatore, quale io non conobbi et egli
+					osservò dove andavo et, havendo veduto che volevo celebrare, la medema mattina
+					nella sua predicha coram omni populo disse: „Questi sodomiti et idolatri papisti
+					non vogliono cessare di adorare il diavolo et idolatrare continuamente.“ Et
+					maledisse con quel spirito, che il padre suo il demonio li suministrava, tutti
+					li papisti, et che non haverebbeno cessato di esser contrarii alli lor santi
+					instituti, insin tanto che non si fusse fatto un bagno di sangue et, dal
+					nominarmi in poi, parlò dimodo che ogniuno poteva bene intendere che diceva
+					contra di me et tutto questo con tanta disvergogna, che è cosa da non credere.
+						<note xml:id="FN1_00025_07" type="footnote">Gemäß der evangelischen Kirchen-
+						und Schulordnung war der Prädikant verpflichtet, an den Tagen, an denen die
+						Katholiken die Feste der Heiligen feierten, zu predigen. Aus naheliegenden
+						Gründen wurde dabei besonders gegen</note>Io pensavo che fossero <pb
+						xml:id="P1_0000094"/>questi predicatori loro qualche sattrapi, ma sono di
+					poca età, di manco lettere, pieni di carnalità et di ogni genere di vitio et non
+					ostante questo proh dolor sono tenuti da costoro per veri profetti. Io ne farò a
+					suo tempo rumore, ma li aspetto al passo. Mons. di Gurgo refferì a S. A. tutto
+					quello che era passato, facendo instantia che quel nebulone fosse castigato, et
+					le rispose: „Ancora il predicatore catholico dice male delli heretici“. Però
+					spero che non darà questa risposta a me. Quanto poi al clero, oltre che ogni
+					giorno vo scoprendo maggior difficoltà circa al ridurlo a qualche forma di
+					disciplina ecclesiastica, come presto farò vedere a V. S. Illma per la
+					informatione che le mandarò, <note xml:id="FN1_00025_08" type="footnote">Vgl.
+						Nr. 30, S. 110.</note>è ancora impossibile di metter mano a questo senza il
+					braccio secolare, il quale S. A. malamente può dare stando le concessioni, et le
+					armi del nontio non feriscono qua, se bene essi si accorgerano che inreparabile
+					ferita le darano nel’ inferno, ma al presente non sono stimate.</p>
+				<p>Hora stando in questa suspensione di animo et non mi risolvendo se il principe
+					vuole o no, facendo pur giudicio che bisogna che ci sia qualche cosa che lo
+					ritenga, ho penetrato che, oltre a quelli rispetti di sopra referiti, che qua si
+					ha opinione certissima che in caso che S. M. Ces. morisse senza figliuoli che S.
+					A. sarebbe eletta imperatore<note xml:id="FN1_00025_09" type="footnote">Vgl.
+						unten Nr. 92. Am 7. Juni 1581 wurde Gallio berichtet, daß Erzherzog Karl im
+						Hinblick auf die Lebensgefahr des Kaisers an den Hof gekommen sei, um beim
+						Kaiser und dann bei den Kurfürsten von Sachsen und Brandenburg die Wahl
+						Erzherzog Ernsts zum Römischen König zu betreiben (Arch. Vat. Nunz. Germ.
+						99, f. 470r).</note>et alcuni buoni spiriti fomentono assai questo,
+					allegando la debolezza di S. M. et che è senza moglie etc. et ritrovando molte
+					ragioni per le quali si conclude che in ogni modo caderebbe nella persona sua,
+					ma sopratutto per esser egli osservatore et immitatore delle attioni del’
+					imperatore, suo fratello,<note xml:id="FN1_00025_10" type="footnote"> Siehe oben
+						Anm. 2.</note>et per esser non <note xml:id="SN1_00025_a" type="siglum">Ms.:
+						non wahrscheinlich durchgestrichen den Heiligenkult oder das
+						Fronleichnamsfest geeifert (Loserth, Reformation und Gegenreformation, S.
+						321—324).</note>terribile come l’arciduca Ferdinando, ma pieno di dolcezza,
+					cosa che li elettori desiderano, et forsi devono ancora soggiungere che, quando
+					S. A. desse nel rigido et facessi rumori con li suoi popoli, che sarebbe un
+					volersi privare di così gran pretensione et, perché facile creditur quod
+					libenter auditur, è certo che si ha pensiero di questo. Et però non sarebbe gran
+					cosa che questo rispetto più d’ogni altro<pb xml:id="P1_0000095"/> lo facessi
+					andar così claudicando. Ho voluto che V. S. Illma sapia ogni cosa, massime che
+					quello che scrivo et ho scritto insin’hora ho saputo da testimoni degni di fede
+					et intimi a S. A. Non per questo mi diffido, né faccio giudicio fermo, anzi
+					spero et siamo in termine che in queste diete si scoprirà il tutto; ma mi è
+					parso espediente di tener avisata V. S. Illma di quello che alla giornata si fa
+					et vo scoprendo.</p>
+				<p>A me rincresce grandemente, che nella dieta che si farà in Carintia, subito doppo
+					questa, che Offmam sarà capo come vicedomine del vescovo di Bamberga, et non
+					potiamo sperare se non qualche novità in detrimento della religion
+						catholica<note xml:id="FN1_00025_11" type="footnote"/>et fomento grande alli
+					baroni, quali haverano dalla sua il capo ecclesiastico. Ma non so già come S. A.
+					soporti che, havendole scritto tre volte, acciò lasci l’impresa et se ne ritorni
+					qua, egli mai le ha dato risposta et hora non sanno dove sia et con tutto questo
+					si tace et non si vuol venire al deponerlo. <note xml:id="FN1_00025_12"
+						type="footnote"/>Il Cobenzolo è fautore di questo huomo et ha mantenuto in
+					consiglio che S.tà non può privarlo et che non ha potestà nelle cose temporali,
+					dicendo: „Né manco meco ha che fare il papa nelle mie commende“. Et so
+					certissimo che è vero, se bene S. A. l’ha negato a me, et questo è quello che
+					già scrissi che haverei procurato di sapere. Li cittadini di questo luoco hanno
+					fatto due congregationi per rispondere al decreto di S. A. in materia de
+					figliuoli, <note xml:id="FN1_00025_13" type="footnote">Siehe Nr. 17 und
+						18.</note>starò aspettando la risposta et vederò che espediente si
+					pigliarà...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,189 +1,194 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_187.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-01-28" n="1">1601-01-28</title>
-                    <title level="a">187.1. Portia an Aldobrandini - Brixen, 1601 Januar 28</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 5r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_187.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1601-01-28" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3181550">Brixen</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_186.1.xml">186.1. San Giorgio an Portia - Rom, 1601 Januar 27</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_188.1.xml">188.1. Aldobrandini an Portia - Avignon, 1601 Januar 28</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_184.1.xml">184.1. Portia an
-                            Aldobrandini - Innsbruck, 1601 Januar 19</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_188.1.xml">188.1. Aldobrandini an
-                            Portia - Avignon, 1601 Januar 28</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Portia macht im Auftrag der Kurie auf seiner Rückreise in Brixen Halt, um der
-						Bischofswahl beizuwohnen. Giannangelo Gaudenzio Madruzzo be.findet sich in
-						Augsburg, um ein Regiment von 5000 Soldaten anzuwerben, die dann über
-						Cremona nach Piemont ziehen sollen. Der Markgraf von Burgau [Karl]
-						signalisiert seine Bereitschaft, auf Wunsch des Kaisers und der Erzherzöge
-						in das Kriegsgebiet zu ziehen, auch wenn zwischen ihm und den Erzherzögen
-						wegen seiner territorialen Forderungen Spannung besteht.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="187.1">
-					<note xml:id="SN187.1_a" type="siglum">Dieser Bericht ist an Aldobrandini als
-						Legat in Frankreich adressiert (fol. 8v).</note> - Brixen, 1601 Januar
-					28</head>
-				<div>
-					<pb xml:id="P5_0000446"/>
-					<p>Dopo ch’io ho scritto a V. S. Ill.ma d’Ispruch<note xml:id="FN5_187.1_01" type="footnote">Nr. 184.1.</note>, pensavo senza dimora d’incaminarmi
-						alla volta di Gratz, ma mi è poi convenuto fermare qui in Bressenone per
-						assistere all’elettione del nuovo Vescovo che deve succedere al già Sig.
-						Cardinale Andrea d’Austria, essendosi la sudetta elettione diferita sino
-						alli 7 del seguente, di maniera che non potrò se non alcuni giorni dopo
-						servire di Gratz a V. S. Ill.ma, massime distando quella Città da queste
-						parti almeno dieci giornate di camino. Il Sig. Gaudentio Madrucci<note xml:id="FN5_187.1_02" type="footnote">Giannangelo Gaudenzio Madruzzo
-							(1562–1618), Sohn von Fortunato Madruzzo und Margherita von Hohenems.
-							Oberst des spanischen Königs, Generalkapitän von Tirol (1604), Hauptmann
-							von Riva, Tenno und Stenico. Er begleitete seinen Onkel Kardinal
-							Ludovico Madruzzo zu den Reichstagen nach Augsburg und Regensburg und
-							bemühte sich 1595 an den Höfen von Mantua, Florenz und Rom um
-							Unterstützung bei der Türkenabwehr. Als Militär nahm er 1601 am
-							Rückeroberungsversuch der Festung Kanizsa und 1608 an den Kämpfen um
-							Piemont teil: vgl. VALORI, S. 208; ARGEGNI 2, S. 115; SCHWENNICKE 16, T.
-							6; DAL PRÀ, S. 55f. Vgl. u. a. G. G. Madruzzo an Aldobrandini, Riva,
-							1604 Februar 16, ASV, Fondo Borghese, serie III 93 B2, fol. 180r.</note>
-						è tuttavia in Augusta et con diligenza attende ad assoldare il Regimento
-						delli cinquemila Alemani scritti, dovendo perciò quivi ricevere
-						cinquantamila scuti et sotto ’l primo di Febraro inviare le medesime genti
-						verso ’l Cremonese, nel cui contorno detto S. Giovanni in Croce si doverà
-						tenere la risegna per farle poi marciare alla volta di Piemonte. Co ’l Sig.
-						Marchese di Burgau trattai conforme all’ordine di N. S. per eccitarlo, in
-						occasione che sia ricercato dalla M.tà dell’Imperatore o dalli Arciduchi
-						d’uscire in campagna, di volerlo fare, in che egli s’è mostrato facilissimo
-						ogni volta che gli venga commandato, se ben non lo spera, parendo che li
-						sodetti Arciduchi si allontanino da lui per le pretensioni che ha nelle
-						Signorie procurategli dal già Arciduca Ferdinando<pb xml:id="P5_0000447"/>
-						suo Padre et che devono esser confirmate da loro<note xml:id="FN5_187.1_03" type="footnote">Vgl. Nr. 174.1.</note>, pure in ogni occorrenza si
-						dichiara obligatissimo alla S.tà di N. S. et si offerisce di adoprarsi
-						volontieri contro ’l commune nemico<note xml:id="FN5_187.1_04" type="footnote">Vgl. Karl v. Burgau an Clemens VIII., Schloss Ambras,
-							1601 Januar 27, ASV, Fondo Borghese, serie III 85 A, fol. 34r–v.</note>.
-						…</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_187.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-01-28" n="1">1601-01-28</title>
+                <title level="a">187.1. Portia an Aldobrandini - Brixen, 1601 Januar 28</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 5r–v, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_187.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1601-01-28" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3181550">Brixen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_186.1.xml"
+                        >186.1. San Giorgio an Portia - Rom, 1601 Januar 27</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_188.1.xml">188.1.
+                        Aldobrandini an Portia - Avignon, 1601 Januar 28</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_184.1.xml">184.1. Portia an
+                        Aldobrandini - Innsbruck, 1601 Januar 19</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_188.1.xml">188.1. Aldobrandini an
+                        Portia - Avignon, 1601 Januar 28</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Portia macht im Auftrag der Kurie auf seiner Rückreise in Brixen Halt, um der
+                    Bischofswahl beizuwohnen. Giannangelo Gaudenzio Madruzzo be.findet sich in
+                    Augsburg, um ein Regiment von 5000 Soldaten anzuwerben, die dann über Cremona
+                    nach Piemont ziehen sollen. Der Markgraf von Burgau [Karl] signalisiert seine
+                    Bereitschaft, auf Wunsch des Kaisers und der Erzherzöge in das Kriegsgebiet zu
+                    ziehen, auch wenn zwischen ihm und den Erzherzögen wegen seiner territorialen
+                    Forderungen Spannung besteht.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="187.1">Portia an Aldobrandini<note xml:id="SN5_187.1_a" type="siglum">Dieser
+                    Bericht ist an Aldobrandini als Legat in Frankreich adressiert (fol. 8v).</note>
+                - Brixen, 1601 Januar 28</head>
+            <div>
+                <pb xml:id="P5_0000446"/>
+                <p>Dopo ch’io ho scritto a V. S. Ill.ma d’Ispruch<note xml:id="FN5_187.1_01"
+                        type="footnote">Nr. 184.1.</note>, pensavo senza dimora d’incaminarmi alla
+                    volta di Gratz, ma mi è poi convenuto fermare qui in Bressenone per assistere
+                    all’elettione del nuovo Vescovo che deve succedere al già Sig. Cardinale Andrea
+                    d’Austria, essendosi la sudetta elettione diferita sino alli 7 del seguente, di
+                    maniera che non potrò se non alcuni giorni dopo servire di Gratz a V. S. Ill.ma,
+                    massime distando quella Città da queste parti almeno dieci giornate di camino.
+                    Il Sig. Gaudentio Madrucci <note xml:id="FN5_187.1_02" type="footnote"
+                        >Giannangelo Gaudenzio Madruzzo (1562–1618), Sohn von Fortunato Madruzzo und
+                        Margherita von Hohenems. Oberst des spanischen Königs, Generalkapitän von
+                        Tirol (1604), Hauptmann von Riva, Tenno und Stenico. Er begleitete seinen
+                        Onkel Kardinal Ludovico Madruzzo zu den Reichstagen nach Augsburg und
+                        Regensburg und bemühte sich 1595 an den Höfen von Mantua, Florenz und Rom um
+                        Unterstützung bei der Türkenabwehr. Als Militär nahm er 1601 am
+                        Rückeroberungsversuch der Festung Kanizsa und 1608 an den Kämpfen um Piemont
+                        teil: vgl. VALORI, S. 208; ARGEGNI 2, S. 115; SCHWENNICKE 16, T. 6; DAL PRÀ,
+                        S. 55f. Vgl. u. a. G. G. Madruzzo an Aldobrandini, Riva, 1604 Februar 16,
+                        ASV, Fondo Borghese, serie III 93 B2, fol. 180r.</note>è tuttavia in Augusta
+                    et con diligenza attende ad assoldare il Regimento delli cinquemila Alemani
+                    scritti, dovendo perciò quivi ricevere cinquantamila scuti et sotto ’l primo di
+                    Febraro inviare le medesime genti verso ’l Cremonese, nel cui contorno detto S.
+                    Giovanni in Croce si doverà tenere la risegna per farle poi marciare alla volta
+                    di Piemonte. Co ’l Sig. Marchese di Burgau trattai conforme all’ordine di N. S.
+                    per eccitarlo, in occasione che sia ricercato dalla M.tà dell’Imperatore o dalli
+                    Arciduchi d’uscire in campagna, di volerlo fare, in che egli s’è mostrato
+                    facilissimo ogni volta che gli venga commandato, se ben non lo spera, parendo
+                    che li sodetti Arciduchi si allontanino da lui per le pretensioni che ha nelle
+                    Signorie procurategli dal già Arciduca Ferdinando <pb xml:id="P5_0000447"/>suo
+                    Padre et che devono esser confirmate da loro <note xml:id="FN5_187.1_03"
+                        type="footnote">Vgl. Nr. 174.1.</note>, pure in ogni occorrenza si dichiara
+                    obligatissimo alla S.tà di N. S. et si offerisce di adoprarsi volontieri contro
+                    ’l commune nemico <note xml:id="FN5_187.1_04" type="footnote">Vgl. Karl v.
+                        Burgau an Clemens VIII., Schloss Ambras, 1601 Januar 27, ASV, Fondo
+                        Borghese, serie III 85 A, fol. 34r–v.</note>. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

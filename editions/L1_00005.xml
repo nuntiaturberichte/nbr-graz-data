@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00005">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-09-19" n="1">1580-09-19</title>
+                <title level="a">5. Malaspina an Gallio - Venedig, 1580 September 19</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Kunz. Germ. 100, f. 20r—22r, Orig.; Schrift teilweise
+                            durch<lb/>Tintenfraß zerstört.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00005">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-09-19" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3164603">Venice</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00004.xml">4.
+                        Malaspina an Gallio - Rom, 1580 September 10</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00006.xml">6.
+                        Malaspina an Gallio - Graz, 1580 September 28</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00004.xml">4. Malaspina an Gallio -
+                        Rom, 1580 September 10</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00006.xml">6. Malaspina an Gallio -
+                        Graz, 1580 September 28</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Ankunft in Venedig. Eingehende Aussprache mit Patriarch von Aquileia über dessen
+                    Junsdiktionsstreit mit Erzherzog Karl.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="5">Malaspina an Gallio - Venedig, 1580 September 19</head>
+            <div>
+                <p>Io gionsi qua hiersera di notte et fui accolto da mons. nuntio con molta
+                        benignità.<note xml:id="FN1_00005_01" type="footnote">Alberto Bolognetti,
+                        1578—1581 Nuntius in Venedig (Biaudet, Les Nonciatures, S. 143; Ritzler,
+                        Visita Apostolica, S. 161 f.).</note>Questa mattina S. S. Revma ha fatta
+                    invitar a desinar seco mons. patriarcha, <note xml:id="FN1_00005_02"
+                        type="footnote">Alvise Giustiniani: Hierarchia Catholica III, S.
+                    114.</note>col quale ho diffusamente discusso delle pretensioni che egli ha con
+                    il Sermo arciduca Carlo et in effetti di quell che tocca al dominio et
+                    iurisdictione temporale, che pretende di ragione <pb xml:id="P1_0000014"
+                    />doverle pervenire della città d’Aquileja et totalmente escluso et tutto il
+                    dominio et iurisdictione è appresso S. A. <note xml:id="FN1_00005_03"
+                        type="footnote">1542 besetzten österreichische Truppen Aquileia (De
+                        Renaldis, Memorie storiche dei tre ultimi secoli del Patriarcato d’Aquileia,
+                        S. 247).</note>Quanto poi a quello che pertiene alla iurisdictione
+                    spirituale, mons. patriarcha confessa di poterla esercitar liberamente senza
+                    impedimento alcuno. Hora perché il primo, dopo della iurisdictione temporale e
+                    negocio, che patirà forse diverse difficoltà et sarà materia longa, et perciò
+                    havrà bisogno di tempo per cavarne bon frutto, massime che mons, patriarcha ha
+                    opinione che il.. . <note xml:id="SN1_00005_a" type="siglum">Ms.: ein Wort
+                        unleserlich.</note>difficile S. A. nel restituire il dominio temporale non
+                    nascha da altro che dalla gelosia che S. A. ha di questa republica, hora che
+                    questi signori hanno mosse certe pretensioni sopra il loco di S. Vito,
+                    sottoposto nel temporale al patriarcha, potrà forsi essere che al’arciduca
+                    creschi la gelosia et suspitione che la signoria non vadi a camino, de’ farsi a
+                    un certo modo patrona della iurisdictione temporale del patriarcha col procurar
+                    d’haverle sopra una sopra intelligentia tale, che debiliti et anichili tutto il
+                    dominio suo; et, se bene egli pretende che questo motivo delli signori Venetiani
+                    le debba giovare con S. A. et ministri suoi, io con tutto ciò ne vo dubitando et
+                    più tosto inclino alla contraria parte. <note xml:id="FN1_00005_04"
+                        type="footnote">Am 20. Juli 1580 dekretierte der Rat der Zehn in Venedig,
+                        daß alle Untertanen des Patriarchen die Lehen vom venezianischen
+                        Luogotenente in Udine nehmen müßten. Der sich widersetzende Hauptmann des
+                        Patriarchen in S. Vito, Ortensio Isolani, wurde daraufhin verurteilt und des
+                        Landes verwiesen (De Renaldis a. a. O., S. 326 f.).</note>Et perché dalla
+                    instruttione che V. S. Illma me ha data comprendo il bisogno che ha la chiesa et
+                    clero d’Aquileja d’esser reformata et restituita la pristina disciplina
+                    ecclesiastica, son’ andato destramente et con dolcezza investigando da mons,
+                    patriarcha et da mons. coadiutore<note xml:id="FN1_00005_05" type="footnote">
+                        Franz Zupan, Bischof von Cattaro, Auxiliarbischof von Aquileia: Hierarchia
+                        Catholica III, S. 160.</note>da che procede che, havendo le Signorie loro
+                    Rmc la obedientia in quell che si pertiene al spirituale, quella chiesa et clero
+                    sia in così mal termine et in effetto ogni mal procede dal non esservi al
+                    governo se non operarii mercenarii, et Dio sa quali ad quos nihil pertinet de
+                    ovibus et il trattar che mons. patriarcha né il coadiutore pensino di andar in
+                    quelle parti, se prima non se determina il negotio della iurisdictione
+                    temporale, è cosa che l’uno et l’altro di questi signori l’ha per impossibile,
+                    di modo che per rispetto del temporale che come servo è subordinato al
+                    spirituale, quella chiesa è stata tanti anni senza pastore e per starvi
+                        ancora<pb xml:id="P1_0000015"/> qualche tempo, se Dio benedetto non ci
+                    provede, poiché il trattare che li principi restituischino a questi tempi non
+                    una città situata come quella, ma una ben vile villa è cosa difficile, come V.
+                    S. Illma sa. Et in vero è grandissima compasione che una chiesa così insigne,
+                    che ha iurisdictione così ampia et importante, che da una parte si dilata insino
+                    a Neustal, vicino a Viena diece leghe, <note xml:id="SN1_00005_b" type="siglum"
+                        >Ma.: legge.</note>da un’altra appresso a Brunich, loco del’ arciduca
+                    Ferdinando, et per un’altra insino alli confini del vescovo di Lubiana et poi da
+                    una altra insino a Grazt <note xml:id="FN1_00005_06" type="footnote">Die Angaben
+                        über die Ausdehnung der Diözese Aquileia bis gegen Wiener Neustadt, Graz und
+                        Bruneck sind höchst ungenau.</note>stia sempre senza pastore, ma etiam Dio
+                    senza ministri che le apportino utilità alcuna. Et mi par che ci vadi della
+                    reputatione della natione Italiana che, havendo iurisdictione in paesi così
+                    infetti, ne’ quali però non è impedito il poter procurar frutto, poiché mons.
+                    patriarcha ci tiene al presente sette o otto vicarii foranei <note
+                        xml:id="FN1_00005_07" type="footnote">Die Archidiakonatseinteilung der
+                        Diözese Aquileia bei Paschini, Storia del Friuli I, S. 314 f.</note>quali
+                    poverelli forse manco cultivati et aiutati che nelle altre parti convicine. Io
+                    però andavo tra me stesso discorendo se fosse espediente il far visitare quella
+                    chiesa et clero con tutta la iurisdictione d’havendo da venire presto a Roma
+                    mons. patriarcha, <note xml:id="FN1_00005_08" type="footnote">Siehe Nr. 15, Anm.
+                        6, und Nr. 25, Anm. 6.</note>che così dice di voler fare, operare, che egli
+                    nominasse persona atta a questo ministerio o vero che S. Stà lo facesse senza
+                    altro et in quello che pertiene alla iurisdictione sottoposta nel temporale
+                    al’arciduca, et altri se si rendessero<note xml:id="SN1_00005_c" type="siglum">
+                        Ms.: rendendessero.</note>difficile di acettare visitatore, che non fosse
+                    della natione, si potrebbe servirsi d’alcuno de’ padri Jesuiti, quali sono molto
+                    amati et quanto al bisogno molto oportuni. <note xml:id="FN1_00005_09"
+                        type="footnote">Über die Visitation siehe Nr. 161.</note>Ho voluto
+                    representare a V. S. Illma tutto questo mio pensiero, accioché lei, che intende
+                    queste materie non superficialmente et senza fondamento come faccio io, sapendo
+                    ancor da me il stato presente, possi ordinare quello che giudicarà più
+                    espediente, ché in questo altro non mi ha mosso a scrivere se non il dubitare
+                    che, se bene fra qualche tempo il patriarcha recuperasse la iurisdictione
+                    temporale, non sia talmente smarita la iurisdictione spirituale, che non habbia
+                    poi né l’una né l’altra, come la esperientia ogni giorno mostra.</p>
+                <p>Domattina, piacendo al sig. Dio, mi partine et credo d’esser tra sei o sette
+                    giorni a Grazt...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

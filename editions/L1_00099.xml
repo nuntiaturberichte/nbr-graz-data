@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00099">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1581-06-01" n="1">1581-06-01</title>
+				<title level="a">99. Malaspina an Gallio - St. Lambrecht, 1581 Juni 1</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 280r—288v, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00099">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1581-06-01" n="1"/>
+					<placeName ref="#http://www.geonames.org/2766615">Sankt Lambrecht</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00098.xml">98.
+						Gallio an Malaspina - Rom, 1581 Mai 27</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00100.xml">100.
+						Gallio an Malaspina - Rom, 1581 Juni 3</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00098.xml">98. Gallio an Malaspina -
+						Rom, 1581 Mai 27</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00100.xml">100. Gallio an Malaspina -
+						Rom, 1581 Juni 3</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Erörterungen über Entfernung Hoffmanns von bambergischer Hauptmannschaft in
+					Kärnten und dessen dem Bistum Bamberg gegebenes Darlehen. Bestätigung des
+					Bischofs von Bamberg und Erlassung der halben Taxen. Entfernung verheirateter
+					Pfarrer. Bücherausteilung an katholische und evangelische Schüler in Judenburg.
+					Geschenksendung von Büchern an Vizedom von Klagenfurt, Bischöfe und Prälaten.
+					Vorschläge zur Wiederbelebung der Klöster in Judenburg. Entdeckung peinlicher
+					Vorkommnisse im Grazer Alumnat.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="99">Malaspina an Gallio - St. Lambrecht, 1581 Juni 1</head>
+			<div>
+				<p>Essendo S. A. absente et io ritirato in questo monasterio,<note
+						xml:id="FN1_00099_01" type="footnote">Vgl. Nr. 94, S. 262.</note>non posso
+					far la diligentia che V. S. Illma mi comanda per la sua scritta il sabbato santo
+					d’intender la quantità del prestito fatto da Offomam al vescovo di
+						Bamberga,<note xml:id="FN1_00099_02" type="footnote"> Siehe Nr. 81, Anm.
+						2.</note>ma al ritorno di S. A. non mancarò di <pb xml:id="P1_0000283"
+					/>essequire quanto la mi ordina in questo et nel resto et, tra le altre cose,
+					operarò che sia scritto in buona forma al vescovo conforme al ricordo di V. S.
+					Illma, et son quasi certo che S. A. lo farà prontamente. Et voglio sperare che’l
+					vescovo et per debito del’offitio suo et per le promesse fatte et per il buon
+					governo deli luochi suoi in queste parti non mancarà di rimovere questa pietra
+					di scandalo <note xml:id="FN1_00099_03" type="footnote">Bischof Martin von Eyb
+						resignierte 1583, und erst sein Nachfolger, Ernst von Mengersdorf, 1583
+						November 21 bis 1591 Oktober 21 Bischof von Bamberg, entließ 1584 Hoffmann
+						als Vizedom (Huber, Hoffmann, S. 146 f.; Hierarchia Catholica III, S.
+						128).</note>et in vero, se non lo farà, mai è per haver pace né quiete nel
+					governo temporale, et dichi pur Offomam quanto vuole che bisogna che ci sia un
+					governatore che non habbia rispetto al principe, che è falsissimo, et il vescovo
+					lo vederà, et quanto a la difficoltà del prestito, quello che V. S. Illma dice
+					che si potrà ritrovar un altro nobile, che desse il medesimo, io lo tengo per
+					facilissimo, et havendo questo lume da lei non lassarò di chiarirmi bene quello
+					che in questo mi posso promettere, riducendosi a questo capo il negotio. Ma in
+					verità è pur da deplorare molto che, essendo Offomam di quella qualità che ognun
+					sa, et non parlo hora quanto a la fede, ma ne le cose politiche che si faccia
+					una minima renitentia per rimoverlo et non vedo che honore sia al vescovo che un
+					suo governatore habbia una querela di presente inanzi S. A. di haver falsificato
+					scritture d’importantia di sessantamilia fiorini, et pare che quanto più
+					gl’huomini cercano di essaltare costui, Dio benedetto faccia scoprire cose
+					enormi contra la persona sua, et perché la querela è stata data da un nobile
+					richissimo pessimo settario et quello che ha sempre fomentato Offomam et
+					d’auttorità grandissima, si spera perciò che la dissensione tra di loro habbia
+					da partorire qualche buon effetto. <note xml:id="FN1_00099_04" type="footnote"
+						>Anscheinend waren diese Beschuldigungen haltlos; in den späteren Berichten
+						werden sie jedenfalls nicht mehr erwähnt. Auch in den bei der Endabrechnung
+						von einer Bamberger Kommission 1584 Hoffmann zur Last gelegten 25 Mängeln
+						bei der Amtsführung als Vizedom, gegen die er sich energisch und anscheinend
+						auch erfolgreich verteidigte, scheint eine derart hohe Summe nicht auf
+						(Huber, Hoffmann, S. 150—159).</note>
+				</p>
+				<p>Io non dubito punto che quando S. A. saprà li rispetti, che hanno mosso N. S. et
+					il sacro collegio a non persistere sempre nel negare la confirmatione
+						al’eletto,<note xml:id="FN1_00099_05" type="footnote">Vgl. Nr. 81, Anm. 3
+						und 4.</note>che non solo resterà satisfattissima, ma commendarà il modo che
+					si è tenuto. Et essendo stata S. A. informata da mons. di Secovia, il quale
+					haveva inteso in Salisburgo che non solo <pb xml:id="P1_0000284"/>l’eletto era
+					stato confirmato senza haver rimosso Offomam, ma che ancora haveva ottenuto
+					gratia de la metà de la espeditione, intendendo lei il fatto così simplicemente,
+					non è maraviglia che li dispiacesse. <note xml:id="FN1_00099_06" type="footnote"
+						>Martin von Eyb bat am 17. Jänner 1581 den Papst um Ermäßigung der Taxe, die
+						ihm auch gewährt wurde (Arch. Vat. Nunz. Germ. 91, f. 245r—246r; Hierarchia
+						Catholica III, S. 128).</note>
+				</p>
+				<p>V. S. Illma stia pur con l’animo quieto che io non lasserò, per quanto potrò, mai
+					di provedere a le parochie migliori, come altre volte ho scritto<note
+						xml:id="FN1_00099_07" type="footnote">Vgl. Nr. 88, Anm. 13.</note>et spero
+					che, havendo io ultimamente et per debito del’ offitio mio et per il proprio
+					honore et interesse del’ arcivescovo fatto un gagliardo risentimento con S. S.
+					Rma, per l’occasione che ho havuta del sinodo, <note xml:id="FN1_00099_08"
+						type="footnote">Vgl. Nr. 83, Anm. 13.</note>ch’egli farà qualche buona
+					risolutione, che così mi par di andar subodorando et lo desidero grandemente.
+					Come io ritorno a Graz, mandarò a V. S. Illma la nota deli parochi, quali dopo
+					ch’io son qua si sono privati, che non sono però pochi, ma se l’arcivescovo
+					facesse, esso farebbe molto più frutto che non posso far io.<note
+						xml:id="FN1_00099_09" type="footnote"> In den späteren Berichten wird die
+						hier in Aussicht gestellte Pfarrerliste nicht mehr erwähnt.</note>
+				</p>
+				<p>Nel passar che ho fatto per Judemburgo, una dele quattro città, le quali hanno
+					concessioni dal principe circa la libertà de la religione,<note
+						xml:id="FN1_00099_10" type="footnote">Vgl. Nr. 40, S. 125, und Nr. 52, S.
+						153.</note>ho ritrovato che’l parocho era heretico et così è stato privato
+					da l’archidiacono a mia instantia, il quale però dice che n’haveva già
+					commissione da l’arcivescovo et la parochia si è conferita a un di quelli
+					sacerdoti che vennero da Vienna, de’ quali già scrissi che li aspettavo.<note
+						xml:id="FN1_00099_11" type="footnote"> Vgl. Nr. 114, S. 316.</note>In questa
+					città io feci una distributione assai grande di libri a quasi tutti li scolari,
+					tanto heretici come catolici, et per quanto intendo sono restati assai edificati
+					et dela elemosina et dela distributione.<note xml:id="FN1_00099_12"
+						type="footnote"> Vgl. Nr. 85, S. 235.</note>Ho similmente consignato molti
+					libri al vicedomo catolico di Clanfurt, nela quale città non essendo né chiesa
+					né huomo catolico, ho offerto al vicedomo che giudicando egli esser cosa
+					espediente et senza pericolo che si manterranno appresso di lui senza sua spesa
+					dui sacerdoti predicatori catolici, egli mi ha ringratiato et detto che li par
+					necessario di scoprire prima il paese et poi mi avviserà il parer suo. <note
+						xml:id="FN1_00099_13" type="footnote">In Klagenfurt gab es damals öffentlich
+						nur evangelische Gottesdienste (Maier, Kirchengeschichte von Kärnten III, S.
+						9 f. und 15; Erläuterungen zum histor. Atlas der Alpenländer II/8/2, S.
+						283).</note>
+					<pb xml:id="P1_0000285"/>Similmente al vescovo di Secovia, al Labacense et a li
+					prelati regolari ho donato libri et son stati gratissimi. Piaccia al Signor Dio
+					di darle tal beneditione, che facciano frutto a benefitio dele anime.</p>
+				<p>Nela città di Judemburgo ho ritrovato dui monasterii: uno di S. Augustino, nel
+					quale vive un frate solo Venetiano, giovane, che al più che possi fare è
+					astenersi dal dar scandalo et non far né male né bene, ma Dio sa quello ch’in
+					questo passa; l’altro di S. Francesco del’ observantia, non habitato da
+						alcuno.<note xml:id="FN1_00099_14" type="footnote">Das Augustinerkloster zur
+						Heiligsten Dreifaltigkeit wurde 1620 in ein Jesuitenkolleg umgewandelt. Das
+						Franziskanerkloster konnte sich wieder erholen und wurde erst 1807
+						aufgehoben (Erläuterungen zum histor. Atlas II/1, S. 61 f.; Schellhass,
+						Ninguarda II, S. 24; 500 Jahre Franziskaner der österr. Ordensprovinz, S.
+						185).</note>Hora io ho fatto offitio con questo abbate <note
+						xml:id="FN1_00099_15" type="footnote">Siehe Nr. 89, Anm. 17.</note>et col
+					preposito di Gurgo <note xml:id="FN1_00099_16" type="footnote">Karl von
+						Grimming, 1570—1611 Propst von Gurk (Obersteiner, Aus dem Tagebuch des
+						Gurker Weihbischofs und Dompropstes Karl von Griming I, S. 136).</note>et di
+					Secovia, <note xml:id="FN1_00099_17" type="footnote">Lorenz Spielberger,
+						1566—1587 Propst von Seckau (Roth, Seckau, S. 484—486). Vgl. Nr.
+					115.</note>che sono stati da me et sono vicini, che per amor mio si piglino cura
+					di dar la congrua sustentione a un frate et a un converso nel detto monasterio
+					di S. Francesco, che io havrò operato che’l generale provedesse di persona
+					qualificata, et essi prontamente mi hanno promesso. Però supplico V. S. Illma
+					che importando tanto che in quella città si habbia piede fermo che la si degni
+					di ordinare al generale, che di costà o di Bavera o di Tirolo o di Austria mandi
+					uno al governo di detto monasterio et prima si transferischi da me, che le darò
+					l’indirizzo ch’havrà da tenere per il vitto suo et per il resto. Potrebbe ancora
+					il generale di S. Augostino dele intrate del monasterio di Fiume, applicandone
+					qualche particella a quello di Judemburgo, mantenerci alcun buon religioso.
+						<note xml:id="FN1_00099_18" type="footnote">Vgl. Nr. 146, S. 397.</note>
+				</p>
+				<p>Io non voglio lasciar di dar parte a V. S. Ilma d’un fatto occorso questi giorni,
+					scoprendo li padri Giesuiti che li alumni tanto di N. S. come deli altri non
+					facevano quel progresso, né nela vita spirituale et buoni costumi, né nele
+					lettere, come il dovero voleva.<note xml:id="FN1_00099_19" type="footnote">Vgl.
+						Nr. 83, S. 226, Nr. 85, S. 232 f, und Nr. 99, S. 285 f.</note>Dubitando che
+					tra di loro non fosse qualche mal spirito che li suvertisse, ultimamente havendo
+					loro alcuni inditii contra un alumno di S. Bne, mi lo mandorno qua sotto certi
+					pretesti. Io l’incarcerai subito et, dopo alcuni essami, ha confessato molte
+					cose enormi di sé et accusato altri <pb xml:id="P1_0000286"/>alumni deli
+					medesimi peccati. Egli ha fatto professione di arte magica et ha offerto ali
+					alumni qualsivoglia donna per mezo dela sua arte, et dice che uno d’essi ha
+					appresso di sé libri che trattano di tal’arte. Confessa haver essortato li
+					alumni a farsi heretici et lodato li costumi deli sacerdoti heretici, accusa
+					alcuni altri alumni che fanno l’amore con certe donne dela principessa, altri di
+					sodomia, altri di frequentare l’hosterie et in effetto di vitii libidinosi et
+					enormi. Io vivo per questo fatto con molta suspensione d’animo, poiché oltre
+					ch’io posso suspicar con ragione che tutte queste siano pratiche deli heretici,
+					quali non possono partire così santa opera come allevare queste piante novelle,
+					se bene l’alumno incarcerato non ha mai voluto confessare né di sé né d’altri di
+					esser stato instigato, sono ancora assai dubioso come mi devo governare, perché
+					se io castigo costui et li altri, se saranno in dolo, faccio il negotio publico
+					et la publicità porta gran pregiuditio, poiché si dà materia a li heretici di
+					parlare et li prelati si rafreddaranno totalmente in voler mantener alumni,<note
+						xml:id="FN1_00099_20" type="footnote"> Vgl. Nr. 94, S. 260.</note>massime
+					havendone forse in secreto poca voglia; se non li castigo, oltre che non
+					sodisfaccio a la conscientia mia né a la giustitia, et li altri alumni, vedendo
+					questa facilità di perdonare, non havranno timore né rispetto per l’avvenire di
+					commettere simili peccati. Ma quello che più mi preme è di ritrovar modo che
+					costui, tra li altri, che è figliuolo d’un sacerdote predicatore luterano, non
+					ricorra, essendo liberato da me, da li heretici et essi non 10 facciano abiurare
+					publicamente et sopra tutte queste cose deli alumni, et sarà tanto più
+					volentieri raccolto da loro per renderne il contracambio del predicatore che
+					ultimamente abiurò in man mia.<note xml:id="FN1_00099_21" type="footnote"> Siehe
+						Nr. 94, S. 261, Nr. 100, S. 288, und Nr. 102, S. 291.</note>Mi consolo però
+					che havendo costui esebito pazzamente la serma principessa a la volontà deli
+					alumni per vigore del’ arte, sempre sarà in nostra mano di farlo così odioso che
+					S. A. non vorrà in modo alcuno che possi stare in queste provincie; però
+					procurarò di governarmi meglio ch’io saprò. Et quando ritrovassi, cosa che non
+					credo, che li padri fossero troppo facili in acettare di alumni, io non mancarò
+					di monirli et vederò ancora che si dia alcun ordine buono, come visitare 11
+					libri et robbe loro ogni mese etc., et vivere con vigilantia, acciò havendo S.
+					Bnc radoppiato il numero d’essi, <note xml:id="FN1_00099_22" type="footnote"
+						>Vgl. oben Nr. 91, S. 249.</note>non si perda l’opera et l’olio et si
+					multiplici la gente, ma non si magnifichi la letitia et con danno et vergogna
+					con li proprii danari di S. Stà non si allevino soggetti per li heretici...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

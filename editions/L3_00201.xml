@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00201">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1593-12-04" n="2">1593-12-04</title>
+                <title level="a">201. B. v. Gurk an Aldobrandini - Straßburg, 1593 Dezember
+                    4</title>
+                <author ref="#http://d-nb.info/gnd/119500809">Spaur, Christoph Andreas von</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+                                Heinz</persName>
+                            <persName>Rainer Christian</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+                            Kobenzl; 1592-1595</title>
+                        <idno type="ISBN">3-7001-2964-5</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2001</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturinstitut
+                                    in Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="3">3. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="484">484 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturinstitut in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. F. Borg. III, vol. 68B, f. 127rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L3_00201">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119500809">Spaur, Christoph Andreas
+                        von</persName>
+                    <date when="1593-12-04" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2973783">Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_048">Aldobrandini,
+                        Cinzio - Spaur, Christoph Andreas von</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L3_00200.xml"
+                        >200. Aldobrandini an Portia - Rom, 1593 Dezember 4</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L3_00202.xml">202.
+                        Ehzgin Maria an Aldobrandini - Graz, 1593 Dezember 6</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_048" target="L3_00189.xml">189. B. Spaur v. Gurk an
+                        Aldobrandini - Straßburg, 1593 November 13</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Eingehendes Gespräch mit dem in Kärnten erfolgreich visitierenden Patriarchen von
+                    Aquileia über notwendige Generalvisitation.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="201">B. v. Gurk an Aldobrandini - Straßburg, 1593 Dezember 4</head>
+            <div>
+                <p>Humilmente aviso V. S. Ill.ma et R.ma come l’ill.mo mons. patriarcha di Aquileia,
+                    essendo nella sua visita, è venuto in Carinthia et ivi visitato <pb
+                        xml:id="P3_0000258"/>alcuni luochi della sua diocese, <note
+                        xml:id="FN3_00201_01" type="footnote"/>dopo si è transferito nel mio
+                    vescovato per conferir meco come se potesse in bona parte soprimer l’heresia et
+                    aiutar infinite anime, d’ilche sopramodo me son allegrato nel Sig. Idio, che
+                    habbia havuto questa bona comodità di informar S. S. R.ma come l’heresia ha
+                    preso la sua origine in queste provincie et come hora sta in cativissimo statto
+                    et come si potria remediar a tanto male, massime che fra un anno et nove mesi
+                    debba pigliar il posseso di queste provincie il iovane arciduca Ferdinando
+                    herede et figliol del già felice memoria del ser.mo arciduca Carlo,<note
+                        xml:id="FN3_00201_02" type="footnote"/> sarà cosa necessaria et utilissima a
+                    queste provincie di proveder per tempo, sì come spero che il ill.mo et r.mo
+                    mons. patriarca scriverà a V. S. Ill.ma over venirà in persona a Roma da S.
+                    S.tà, et come V. S. Ill.ma et R.ma sarà informata, la prego humilissimante di
+                    favorir questa santa impressa, massime ritrovandosi un tal gran prelato come è
+                    il patriarcha di Aquileia, che vol aiutar questi paesi, che non stima li
+                    pericoli né faticha, ma con ferventissimo zelo da maggio in qua ha visitato
+                    queste provincie concernente al suo patriarchato et paserà forsi docento anni
+                    che nessun patriarcha è statto a visitar in propria persona,<note
+                        xml:id="FN3_00201_03" type="footnote"/> et S. S. R.ma ha in queste provincie
+                    un milion de anime, tanto più V. S. Ill.ma piglierà a petto per esser queste
+                    provincie confinante al Italia, et che poi non provedendo per tempo, il mal
+                    deventasse irremediabile, ma son certo che V. S. Ill.ma per la sua inata bontà
+                    et pietà, piglierà questa mia letera in bona parte che altra mira non ho, se non
+                    come se potesse restituir in pristino statto la religion chatolica et far una
+                    reformation generale in questi paesi, per soprimer in parte li horrendi vitii,
+                    che regnano fra il clero, et è causa de molti scandali pigliando l’heresia il
+                    suo fomento il Sig. Idio sia quello che doni la sua santa gratia et che metà
+                    fine a tanto male et prosperi le action sante nelli suoi servi, et conserva S.
+                    S.tà et V. S. Ill.ma et R.ma in longa vita . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,187 +1,195 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_009.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-02-06" n="1">1599-02-06</title>
-                    <title level="a">9.1. Clemens VIII. an Portia - Rom, 1599 Februar 6</title>
-                    <author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Arm. XLIV 43, fol. 54v–55r, Reg.; ASV, Ep. ad Princ.,
-								Registra 31, fol. 56r–v, Reg.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="regest">
-						<lb/>Regest: NANNIIMRKONJIé 3, Nr. 12966 (fälschlicherweise als Breve an den
-						Nuntius<lb/>am Kaiserhof angeführt).</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_009.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII.,
-                            Klemens</persName>
-                        <date when="1599-02-06" n="1"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_032">Papst,
-                            VIII., Klemens - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_008.1.xml">8.1. Portia an Aldobrandini - Graz, 1599 Februar 2</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_009.2.xml">9.2. Aldobrandini an Portia - Rom, 1599 Februar 6</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_032" target="L5_005.1.xml">5.1. Clemens VIII. an
-                            Portia - Rom, 1599 Januar 21</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_032" target="L5_056.1.xml">56.1. Clemens VIII. an
-                            Portia - Roma, 1599 Juli 12</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Clemens VIII. bevollmächtigt Portia, die bevorstehende Bischofswahl in
-						Bamberg zu leiten. Der Kaiser, die Bischöfe von Würzburg [Echter v.
-						Mespelbrunn] und Eichstätt [Gemmingen] und das Domkapitel von Bamberg sind
-						darüber bereits verständigt.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="9.1">Clemens VIII. an Portia - Rom, 1599 Februar 6</head>
-				<div>
-					<p>Posteaquam piae recordationis Neitardus, Episcopus Bambergensis e vita hac
-						aerumnosa migravit<note xml:id="FN5_009.1_01" type="footnote">Neidhart von
-							Thüngen (1545–1598), Bischof von Bamberg (1593–1598). Er war am 26.
-							Dezember 1598 in Würzburg verstorben: vgl. GATZ, 1448–1648, S.
-							695f.</note>, cuius animae tribuat Deus aeterna gaudia, de futura novi
-						Episcopi electione valde solliciti sumus; neque enim astutias Satanae
-						ignoramus, et Ecclesiae illi tam insigni virum praestanti virtute et zelo
-						fidei praeditum et praecipue sincerum Catholicum praefici optamus. Itaque et
-						ad Caesaream Maiestatem et ad vicinos Episcopos Herbipolensem<note xml:id="FN5_009.1_02" type="footnote">Julius Echter von Mespelbrunn
-							(1545–1617), Bischof von Würzburg (1573–1617): vgl. GATZ, 1448–1648, S.
-							143–145.</note> et Eystadiensem<note xml:id="FN5_009.1_03" type="footnote">Johann Konrad von Gemmingen (ca. 1561–1612), Koadjutor
-							des Bischofs von Eichstätt (1594–1595), Bischof von Eichstätt
-							(1595–1612): vgl. GATZ, 1448–1648, S. 215f.</note> et ad ipsos Canonicos
-						et Capitulum litteras efficaciter scriptas dedimus<note xml:id="FN5_009.1_04" type="footnote">Die angeführten vier Breven
-							stammen vom 6. Februar 1599 und sind inhaltlich gleich (die Anwesenheit
-							Portias bei der Wahl des Bischofs von Bamberg wird angekündigt): Clemens
-							VIII. an Rudolf II., Rom, 1599 Februar 6 (NANNIIMRKONJIé 3, Nr. 12964);
-							Clemens VIII. an das Domkapitel von Bamberg, Rom, 1599 Februar 6
-							(NANNIIMRKONJIé 3, Nr. 12965); Clemens VIII. an Gemmingen, Rom, 1599
-							Februar 6 (NANNIIMRKONJIé 3, Nr. 12968); Clemens VIII. an Echter von
-							Mespelbrunn, Rom, 1599 Februar 6 (NANNIIMRKONJIé 3, Nr. 12967).</note>,
-						omnesque hortati sumus, illos quidem, ut omni officii<pb xml:id="P5_0000019"/> genere salutarem electionem fieri procurent, Canonicos vero, ut omni
-						terrena perturbatione abiecta eum eligant, qui Deo et nobis probatus et
-						gratus et Ecclesiae utilis futurus sit. Sed ne ullas pastoralis officii
-						nostri partes praetermittamus, volumus et fraternitati tuae mandamus, ut
-						Bambergam proficiscaris ibique electioni intersis et praesis nostro nomine,
-						qua de re ad ipsos Capitulares et ad ceteros etiam scripsimus, quos supra
-						nominavimus. Cura autem pro tua diligentia, ut electio, Dei adiutrice
-						gratia, multa cum pace et concordia rite et recte fiat, atque omnino
-						praecaveas, ne ad alicuius haeretica labe polluti scopulum, quod Deus
-						avertat, eiusmodi electio allidatur; quanti enim momenti negocium sit et
-						quae pericula immineant, tu optime intelligis, omnem autem facultatem et
-						auctoritatem, quae ad eam rem necessaria est, fraternitati tuae attribuimus
-						et impartimur.</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_009.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-02-06" n="1">1599-02-06</title>
+                <title level="a">9.1. Clemens VIII. an Portia - Rom, 1599 Februar 6</title>
+                <author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Arm. XLIV 43, fol. 54v–55r, Reg.; ASV, Ep. ad Princ., Registra
+                            31, fol. 56r–v, Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="regest">
+                        <lb/>Regest: NANNIIMRKONJIé 3, Nr. 12966 (fälschlicherweise als Breve an den
+                        Nuntius<lb/>am Kaiserhof angeführt).</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_009.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</persName>
+                    <date when="1599-02-06" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_032">Papst, VIII.,
+                        Klemens - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_008.1.xml"
+                        >8.1. Portia an Aldobrandini - Graz, 1599 Februar 2</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_009.2.xml">9.2.
+                        Aldobrandini an Portia - Rom, 1599 Februar 6</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_032" target="L5_005.1.xml">5.1. Clemens VIII. an
+                        Portia - Rom, 1599 Januar 21</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_032" target="L5_056.1.xml">56.1. Clemens VIII. an
+                        Portia - Roma, 1599 Juli 12</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Clemens VIII. bevollmächtigt Portia, die bevorstehende Bischofswahl in Bamberg zu
+                    leiten. Der Kaiser, die Bischöfe von Würzburg [Echter v. Mespelbrunn] und
+                    Eichstätt [Gemmingen] und das Domkapitel von Bamberg sind darüber bereits
+                    verständigt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="9.1">Clemens VIII. an Portia - Rom, 1599 Februar 6</head>
+            <div>
+                <p>Posteaquam piae recordationis Neitardus, Episcopus Bambergensis e vita hac
+                    aerumnosa migravit<note xml:id="FN5_009.1_01" type="footnote">Neidhart von
+                        Thüngen (1545–1598), Bischof von Bamberg (1593–1598). Er war am 26. Dezember
+                        1598 in Würzburg verstorben: vgl. GATZ, 1448–1648, S. 695f.</note>, cuius
+                    animae tribuat Deus aeterna gaudia, de futura novi Episcopi electione valde
+                    solliciti sumus; neque enim astutias Satanae ignoramus, et Ecclesiae illi tam
+                    insigni virum praestanti virtute et zelo fidei praeditum et praecipue sincerum
+                    Catholicum praefici optamus. Itaque et ad Caesaream Maiestatem et ad vicinos
+                    Episcopos Herbipolensem <note xml:id="FN5_009.1_02" type="footnote">Julius
+                        Echter von Mespelbrunn (1545–1617), Bischof von Würzburg (1573–1617): vgl.
+                        GATZ, 1448–1648, S. 143–145.</note>et Eystadiensem <note
+                        xml:id="FN5_009.1_03" type="footnote">Johann Konrad von Gemmingen (ca.
+                        1561–1612), Koadjutor des Bischofs von Eichstätt (1594–1595), Bischof von
+                        Eichstätt (1595–1612): vgl. GATZ, 1448–1648, S. 215f.</note>et ad ipsos
+                    Canonicos et Capitulum litteras efficaciter scriptas dedimus <note
+                        xml:id="FN5_009.1_04" type="footnote">Die angeführten vier Breven stammen
+                        vom 6. Februar 1599 und sind inhaltlich gleich (die Anwesenheit Portias bei
+                        der Wahl des Bischofs von Bamberg wird angekündigt): Clemens VIII. an Rudolf
+                        II., Rom, 1599 Februar 6 (NANNIIMRKONJIé 3, Nr. 12964); Clemens VIII. an das
+                        Domkapitel von Bamberg, Rom, 1599 Februar 6 (NANNIIMRKONJIé 3, Nr. 12965);
+                        Clemens VIII. an Gemmingen, Rom, 1599 Februar 6 (NANNIIMRKONJIé 3, Nr.
+                        12968); Clemens VIII. an Echter von Mespelbrunn, Rom, 1599 Februar 6
+                        (NANNIIMRKONJIé 3, Nr. 12967).</note>, omnesque hortati sumus, illos quidem,
+                    ut omni officii <pb xml:id="P5_0000019"/>genere salutarem electionem fieri
+                    procurent, Canonicos vero, ut omni terrena perturbatione abiecta eum eligant,
+                    qui Deo et nobis probatus et gratus et Ecclesiae utilis futurus sit. Sed ne
+                    ullas pastoralis officii nostri partes praetermittamus, volumus et fraternitati
+                    tuae mandamus, ut Bambergam proficiscaris ibique electioni intersis et praesis
+                    nostro nomine, qua de re ad ipsos Capitulares et ad ceteros etiam scripsimus,
+                    quos supra nominavimus. Cura autem pro tua diligentia, ut electio, Dei adiutrice
+                    gratia, multa cum pace et concordia rite et recte fiat, atque omnino praecaveas,
+                    ne ad alicuius haeretica labe polluti scopulum, quod Deus avertat, eiusmodi
+                    electio allidatur; quanti enim momenti negocium sit et quae pericula immineant,
+                    tu optime intelligis, omnem autem facultatem et auctoritatem, quae ad eam rem
+                    necessaria est, fraternitati tuae attribuimus et impartimur.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L3_00107">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1593-03-30" n="1">1593-03-30</title>
+                <title level="a">107. Klemens VIII. an Ehzg Ernst - Rom, 1593 März 30</title>
+                <author ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/129201618">Noflatscher
+                                Heinz</persName>
+                            <persName>Rainer Christian</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia und Korrespondenz des Hans
+                            Kobenzl; 1592-1595</title>
+                        <idno type="ISBN">3-7001-2964-5</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2001</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturinstitut
+                                    in Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="3">3. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="484">484 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturinstitut in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat., Arm. 44, vol. 38, f. 285rv, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L3_00107">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119022524">Papst, VIII., Klemens</persName>
+                    <date when="1593-03-30" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/120580497">Österreich, Erzherzog,
+                        Ernst</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_031">Papst, VIII.,
+                        Klemens - Österreich, Erzherzog, Ernst</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L3_00106.xml"
+                        >106. Kobenzl an Aldobrandini - Laibach, 1593 März 29</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L3_00108.xml">108.
+                        Aldobrandini an Portia - Rom, 1593 April 3</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_031" target="L3_00081.xml">81. Klemens VIII. an Ehzg
+                        Ernst - Rom, 1593 Januar 23</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_031" target="L3_00143.xml">143. Klemens VIII. an Ehzg
+                        Ernst - Rom, 1593 Juli 10</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Dringende Aufforderung, den Häretiker Mosconus nicht zum Gouverneur von Pisino zu
+                    bestellen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="107">Klemens VIII. an Ehzg Ernst - Rom, 1593 März 30</head>
+            <div>
+                <p>Vix possumus adduci ut credamus verum esse quod accepimus, decrevisse te
+                        Pisinum<note xml:id="FN3_00107_01" type="footnote">Pazin, Pisino, Mitterburg
+                        in Istrien.</note>gubernatorem mittere Mosconum haereticum perversissimum.
+                    Id se falsum est ignosces optimorum virorum qui id nun<pb xml:id="P3_0000156"
+                    />tiarunt timori et zelo, si verum quod non facile opinamur, cogita quam alienum
+                    id sit tua pietate, quam adversarium eius provinciae rebus, sacrosanctae
+                    religioni, Christi gloriae. Non ita pridem rediit gens illa ad catholicam fidem,
+                    quo magis timendum est Christi ovibus a lupo et s. fidei hoste. Utinam nullum
+                    usquam esse haereticorum imperium, nulla potestas, nulla cum catholicis
+                    consuetudo, nulla cum his communis urbs aut locus, non tam multi perirent neque
+                    tantopere s. Christi ecclesia ab illa peste laboraret. Sed quando haec tam
+                    difficilis curatio est, saltem ne ei morbo materia et facultas detur grassandi.
+                    Id vero curare et catholicorum principum omnium et tuum in primis est munus
+                    excellis enim nobilitate, propinquitatibus, potestate, pietate adeptusque is
+                    omnium iuditio maximam laudem in catholica religione tuenda vocarisque bonorum
+                    omnium expectatione, nostra in primis spe ad summa omnia. Quid vero aliud faciat
+                    haereticus hoc est diaboli filius, nisi quod a patre didicit, quodque Dominus
+                    noster tanto ante denuntiavit illis verbis. Vos ex patre diabolo estis, et
+                    desideria patris vestri vultis facere, ille homicida erat ab initio et in
+                    veritate non stetit et veritas in eo non est. Fur non venit, nisi ut furetur et
+                    mactet et perdat. Talis porro ne in privatis quidem fidelium causis adhibendos
+                    apostolus censet iudices aut arbitros tantum abest ut provinciae sint cum
+                    imperio praeficiendi, et putandum tam esse ecclesiam Dei piorum ope et consilio
+                    destitutam, ut ad haereticos gubernatores confugiendum sit. Hic si ibi iam
+                    esset, revocandus quamprimum esset, quae igitur causa esse potest, eo illum cum
+                    imperio mittere. Quanto autem praestat, cavere ne quid detrimente accipiatur,
+                    quam vulneribus iam acceptis remedia quaerere et medicinam adhibere. Quod si
+                    ullum unquam fuit tempus impietati resistendi et quod sanum est tuendi, hoc
+                    certe maxime est, tam afflicta Christiana Republica tam multis in partibus
+                    vulnerata tam in paucis integra. Has vero partes descrere et haeretici hominis
+                    libidini ac potestati relinquere quid aliud esset, nisi pati catholicam
+                    ecclesiam novam eamque gravissimam plagam accipere hocque etiam crimine Deum a
+                    nobis abalienare quem certo debemus omni studio placare assidueque orare, ut
+                    veterum criminum oblitus praesentibusque ecclesiae suae malis permotus auxilio
+                    sit. Quis scit si convertatur et ignoscat, et relinquat post se benedictionem.
+                    Hoc ut sperare debemus sic illud certum habere, si pergemus cum criminibus
+                    provocare fore ut qui illius misericordia indigemus in severitatem incurramus.
+                    Hoc autem de quo nunc laboramus, ne scilicet haereticus Pisinum cum potestate
+                    mittatur, ne ve ei regioni praeficiatur manifesta et summa cum illorum
+                    vicinorumque locorum ruina, tibi in manu est. Haec nos tecum pluribus quam
+                    necesse erat sed non pluribus quam rei gravitas et summa nostri muneris ratio
+                    postulabat . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

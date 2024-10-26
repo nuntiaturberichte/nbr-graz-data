@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00055">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-12-20" n="1">1580-12-20</title>
+                <title level="a">55. Malaspina an Gallio - Graz, 1580 Dezember 20</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 191r—193r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00055">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-12-20" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00054.xml">54.
+                        Malaspina an Gallio - Graz, 1580 Dezember 19</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00056.xml">56.
+                        Evangelische Stände Steiermarks an Malaspina - Graz, 1580 Dezember 24</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00054.xml">54. Malaspina an Gallio -
+                        Graz, 1580 Dezember 19</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00057.xml">57. Gallio an Malaspina -
+                        Rom, 1580 Dezember 31</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Übersendet drei landesfürstliche Dekrete betreffend Religionsbeschwerden der
+                    evangelischen Stände, Rückstellung Aquileias und Steuern des Kapitels von
+                    Aquileia. Umfangreiche Antwort der Stände mit Hinweis auf mögliche Rebellion
+                    ihrer Untertanen und Aufnahme von Kontakten mit Häretikern in Österreich und
+                    anderen Provinzen. Weiterhin feste Haltung Erzherzog Karls gegen Forderungen der
+                    Protestanten. Jurisdiktionsstreit zwischen Erzherzog Karl und Erzbischof von
+                    Salzburg. Notwendigkeit gemeinsamer Schritte Salzburgs und Aquileias zur
+                    Errichtung von Seminarien und zu Visitation.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="55">Malaspina an Gallio - Graz, 1580 Dezember 20</head>
+            <div>
+                <p>Con questa mia sarano tre decreti di S. A. : l’uno in materia della
+                        religione,<note xml:id="FN1_00055_01" type="footnote">Nr. 50.</note>l’altro
+                    circa la restitutione d’Aquileia <note xml:id="FN1_00055_02" type="footnote">Nr.
+                        51.</note>et l’ultimo del capitolo et canonici pur di quella santa chiesa.
+                        <note xml:id="FN1_00055_03" type="footnote">Nr. 45.</note>Quanto al primo
+                    credo che dovrà sodisfare a V. S. Illma poiché qua ogniuno lo commenda, et
+                    invero ci sono alcuni punti essentialissimi, come quello del jus advocatiae et
+                    delle parrochie, che sarano da trecento<note xml:id="FN1_00055_04"
+                        type="footnote"> Siehe Nr. 46, Anm. 2.</note>che dovrano restituire. Et
+                    ancora preme assai alli heretici quelle parole verae confessionis Augustanae,
+                        <note xml:id="FN1_00055_05" type="footnote">Nr. 50, Punkt 2.</note>perché
+                    niuno di loro osserva la vera confessione Augustana et specialmente li
+                    predicatori, dimodo ché, contravenendo S. A., potrà pigliar occasione di
+                    revocare il restante.<note xml:id="FN1_00055_06" type="footnote"> David
+                        Chytraeus aus Rostock arbeitete auf Einladung der evangelischen steirischen
+                        Stände eine Kirchenordnung aus, die 1578 auf dem Generallandtag in Bruck für
+                        alle drei Länder — Steiermark, Kärnten und Krain — vorgeschrieben und in die
+                        Brucker Pazifikation eingeschlossen wurde (Loserth, Religionspacification,
+                        S. 67—84). Die Stände, die sich schon früher gegen die Täufer gewandt
+                        hatten, traten nun den Calvinisten entgegen. Die Dekrete Rudolfs II. und
+                        Erzherzog Karls gegen das Einschleichen der Calvinisten wurden sogar in die
+                        steirische Religionspazifikation aufgenommen (Loserth, Reformation und
+                        Gegenreformation, S. 309).</note>Ma quello che <pb xml:id="P1_0000159"/>più
+                    di ogni altra cosa li preme è la separatione delle città, non essendo dubio che
+                    questo è la destruttione delle heresie di queste parti. Hanno risposto con un
+                    scritto molto verbosamente al decreto di S. A. <note xml:id="FN1_00055_07"
+                        type="footnote">Ausführliche Antwort der der Augsburger Konfession
+                        ungehörigen steirischen Stände vom 15. Dezember. Darin berufen sie sich auf
+                        die Landesfreiheiten, drücken ihren Schmerz über das Dekret vom 10. Dezember
+                        aus, widerlegen die Beschwerden der Prälaten, erinnern an dis stets
+                        eingehaltene Religionspazifikation, versprechen, Lästerungen der Prädikanten
+                        zu bestrafen, weisen auf die Türkengefahr hin und beteuern ihre Treue gegen
+                        den Landesfürsten (Loserth, FRA II/50, S. 85—101).</note>et minacciano di
+                    rebellione delli vasalli loro, quali presupongono che siano della medema farina,
+                    ma è falsissimo, come altre volte ho scritto a V. S. Illma. Dicono ancora che
+                    sarano aiutati dalli heretici d’Austria, massime hora che se intende che
+                    l’imperatore non verrà più in quelle parti, per il che sono tutti quelli
+                    heretici esasperati et per tale effetto hanno mandato li provinciali un loro
+                    secrettario in quelle parti per sapere come si hanno da governare, et similmente
+                    hanno scritto a tutte le altre provincie di S. A. <note xml:id="FN1_00055_08"
+                        type="footnote">Siehe Nr. 52, Anm. 6.</note>et al’ultimo si crede
+                    domandarono tempo di consultarsi con loro per tirare il negotio in longo; ma
+                    spero che S. A. non tollererà questa dilatione per più rispetti. Ultimamente
+                    allegano ancora che S. A. non doveva venire a determinatione alcuna circa le
+                    querelle che li ecclesiastici pretendono, se prima non haveva udito le ragioni
+                    della parte contraria et che sapevano esser falsissimo che li ecclesiastici si
+                    lamentassero, essendo hoggi più uniti et d’accordo con loro che mai et che
+                    questa novità era nata per le pratiche et subornationi del nontio; et in effetto
+                    concludono che se S. A. mancarà della sua parola, che non lascierano già di
+                    difendere con le loro proprie vite li confini, ma che li vassalli loro non
+                    voranno contribuire. A questa scrittura si è oggi risposto diffusamente et per
+                    le rime, et S. A. sta ferma nel contenuto del primo decreto. <note
+                        xml:id="FN1_00055_09" type="footnote">Antwort Erzherzog Karls vom 18.
+                        Dezember (Loserth, FRA II/50, S. 101—114).</note>
+                </p>
+                <p>Io ho poi havuto audienza et, se bene il principe va molto timido nel’ eseguire,
+                    nondimeno mi promette di voler persistere, insin tanto che ne veda il fine et
+                    conosce che è necessario procedere così et per servitio de Dio et per l’utile
+                    suo proprio et mi assicura di non voler <pb xml:id="P1_0000160"/>far niente in
+                    questa materia, senza l’aiuto et consiglio mio, per usare le proprie sue parole,
+                    et mi ha consolato infinitamente con dirmi che spera io potrò dire : veni vidi
+                    et vici, et che ho fatto più in guadagnare il Cobensolo, che s’io havessi
+                    ressuscitato un morto. <note xml:id="FN1_00055_10" type="footnote">Vgl. Nr. 37,
+                        Anm. 5, Nr. 40, S. 125f, Nr. 47 und 49.</note>L’haver procurato che con bell
+                    modo si sia fatto penetrare alli provinciali della seconda dieta, ha causato che
+                    Hoffmam è venuto da me più volte con infinita sodisfattione di S. A. et
+                    vorebbeno che io lo guadagnassi, ma non mi basta l’animo. Io li ho ben messo tal
+                    timore che forsi presto se ne vederà il frutto, ma non mi è parso di
+                    disinganarlo a fatto circa il governo della prepositura, <note
+                        xml:id="FN1_00055_11" type="footnote">Gemeint sind die bambergischen
+                        Besitzungen in Kärnten.</note>ma più tosto tenerlo in qualche speranza,
+                    conditionalmente se si diporterà bene in questa dieta, et di questo senso è
+                    stato S. A. ancora. Molte altre cose potrei scrivere che in questi frangenti
+                    occorrono, ma la speranza che io ho di poter presto scrivere il felice successo
+                    fa che non mi estendo più, se bene doppo che li provinciali haverano obedito
+                    resterà la esecutione, la quale mi fa paura et la tengo per difficilissima.</p>
+                <p>Quanto al decreto della restitutione d’Aquileia per altre mie ho fatto sapere a
+                    V. S. Illma che le conditioni sono durissime, ma che havevo ferma speranza che
+                    si sarebbeno accomodati alle cose del dovero.<note xml:id="FN1_00055_12"
+                        type="footnote">Nr. 46, S. 140.</note>Non lascierò ancora di dire che io
+                    sarei di opinione che fosse bene di non commettere a me il trattare la
+                    moderatione in questo negotio, né manco che N. S. rescrivesse qua quello che
+                    risolverà convenirsi alla equità et ragione, ma che facesse intendere a S. A.
+                    che, essendo il negotio tanto grave et ricercando matura deliberatione, che a S.
+                    Bne pareva esser espediente che l’A. S. nominasse un cardinale, quale fosse
+                    informato del fatto et si trattasse costà delle ragioni del’ una et l’altra
+                    parte, promettendoli che S. Stà non haverebbe lasciato di havere consideratione
+                    grandissima alle ragioni allegate da S. A.; però V. S. Illma saprà meglio di me
+                    quello che converrà.</p>
+                <p>Del decreto delli canonici non mi pare che ci sia materia da replicare, essendo
+                    conforme alla commissione che io ho havuto.<note xml:id="FN1_00055_13"
+                        type="footnote">Vgl. dagegen Nr. 63.</note>
+                </p>
+                <p>Mi dispiace infinitamente che ogni giorno crescono le male sodisfattioni tra S.
+                    A. et l’arcivescovo di Salisburgo, per conto della giurisditione<note
+                        xml:id="FN1_00055_14" type="footnote">Siehe Nr. 53 und 58.</note>et perciò
+                    io vado disponendo l’animo di S. A. che si contenti nominare doi consiglieri
+                    che, insieme con questi commissarii del’ arci<pb xml:id="P1_0000161"/>vescovo,
+                    trattino meco amicabilmente tutte le differenze, accioché noi o le possiamo
+                    risolvere insieme overo ne consultiamo S. A. Et spero che l’una et l’altra parte
+                    si contentarà et sarà di grandissimo servitio de Dio, ma l’arcivescovo tiene
+                    tanto male la sua diocese et è stato così negligente et dedito alla parcità del
+                    spendere che oltre l’esser il suo consiglio infettato di alcuni heretici, tutto
+                    il resto tanto delli ecclesiastici quanto delli vassalli suoi sta in pessimo
+                    stato et al fine, quando speravamo che fossero venuti qua per dar forma a una
+                    visita, si è scoperto che vanno... di dar questa cura alli archidiaconi delle
+                    provincie, quali sono et... senza littere et sperienza, cosa che sì come a me è
+                    dispiacciuta, così ha stomacato S. A. infinitamente. Et sarà pur necessario che
+                    una volta l’arcivescovo, insieme con il patriarcha d’Aquileia, si risolvino di
+                    muttar verso et errigere seminarii et ordinare una visita essentiale, altrimenti
+                    sì come per la mala vita delli ecclesiastici in buona parte è nata la heresia,
+                    così se non si cerca di remediare a questo, il revocare S. A. le concessioni
+                    sarà di molto poco frutto...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

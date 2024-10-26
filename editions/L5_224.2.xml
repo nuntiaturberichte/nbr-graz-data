@@ -1,201 +1,208 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_224.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-05-26" n="2">1601-05-26</title>
-                    <title level="a">224.2. San Giorgio an Portia - Rom, 1601 Mai 26</title>
-                    <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 68r–69r,
-								Reg.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_224.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                        <date when="1601-05-26" n="2"/>
-                        <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_224.1.xml">224.1. San Giorgio an Portia - Rom, 1601 Mai 26</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_224.3.xml">224.3. San Giorgio an Portia - Rom, 1601 Mai 26</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_224.1.xml">224.1. San Giorgio an
-                            Portia - Rom, 1601 Mai 26</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_224.3.xml">224.3. San Giorgio an
-                            Portia - Rom, 1601 Mai 26</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Clemens VIII. hat sich beim Großherzog der Toskana [Ferdinando I.] und den
-						anderen italienischen Fürsten für eine Unterstützung Erzherzog Ferdinands
-						eingesetzt, dabei hofft man zumindest auf die .finanzielle Hilfe des
-						Großherzogs. Die Ausführungen Portias über die Strategie im kommenden
-						Türkenkrieg wurden zur Kenntnis genommen, dennoch geht man davon aus, dass
-						die päpstlichen Truppen dort stationiert werden, wo die meiste Gefahr für
-						Italien drohen wird. San Giorgio lobt die Gespräche Portias mit dem Bischof
-						[Gebsattel] und Vizedom [Stadion] von Bamberg bezüglich des Klosters
-						Arnoldstein. Für die Propstei von Trier wird der Koadjutor von Köln
-						[Ferdinand] empfohlen. Man bittet Portia, sich in Zukunft bei derartigen
-						Ämterbesetzungen nur auf den expliziten Wunsch hin zu involvieren, um
-						Unstimmigkeiten zu vermeiden. Man hofft, dass Rabatta über das Eigentum der
-						Händler von Ancona nicht anderwertig verfügt hat.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="224.2">San Giorgio an Portia - Rom, 1601 Mai 26</head>
-				<div>
-					<p>Fece N. S. gl’offitii che promise non pure co ’l Granduca ma con tutti i
-						Principi d’Italia indeferentemente perché concorressero in aiuto della
-							causa<pb xml:id="P5_0000500"/> commune per conseguenza del Ser.mo
-						Arciduca, il quale devrà haverlo già inteso dal Conte Sigismondo della
-						Torre, ma sì come non habbiamo chiarezza sin qui di quello che sia per fare
-						più l’uno dell’altro in particolare, se ben si crede che qualcheduno sia per
-						scusarsi con l’impotenza, così non resta luogo di esortare il Gran Duca a
-						sovvenire più con danari che con genti, se non si sa chi sia risoluto al
-						sussidio in universale, anzi si havrà per difficilissimo l’indurre quel
-						Prencipe a mutare deliberatione, se ne havrà presa alcuna corrispondente
-						alle prime instanze, et però converrebbe che dove V. S. scopre simili
-						pensieri procurasse di levarli, essendo verisimile nel presente caso che il
-						Granduca si disponerà di entrare in spesa habbia la gloria per uno dei suoi
-						fini, la quale si conseguisse maggiore con le opre apparenti.</p>
-					<p>Si sono sentiti volontieri i discorsi di V. S. nel resto, alla quale non ho
-						tuttavia che rispondere se non che debbiamo ben desiderare che il Turco non
-						tenti quelle imprese che gli possono aprire l’adito all’Italia, ma in
-						qualunque parte si volti non è dubio che le nostre genti havranno da servire
-						dove le chiamerà la necessità maggiore<note xml:id="FN5_224.2_01" type="footnote">Vgl. dazu den Bericht Portias an Aldobrandini vom 14.
-							Mai 1601: Nr. 221.1.</note>.</p>
-					<p>È commendata V. S. degl’offitii fatti co ’l Vescovo et co ’l Vicedomino di
-						Bamberga nel negotio di Arnolstain, nel quale sentirebbe S. B.ne con gran
-						gusto che le parti si quietassero con satisfattione lor commune<note xml:id="FN5_224.2_02" type="footnote">Vgl. Nr. 222.4. Portia hatte
-							Stadion auf seiner Rückreise von Brixen zu einem Gespräch über die
-							kirchliche Situation in Kärnten und die Klöster Griffen und Arnoldstein
-							nach Griffen eingeladen. Dieser Einladung war der Vizedom aber nicht
-							gefolgt: vgl. Portia an Stadion, St. Paul, 1601 Februar 25, KLA, Stift
-							Arnoldstein I, Fasz. 23, fol. 32r–v. Am 18. April 1601 wandte sich
-							Portia erneut an Stadion und berichtete ihm über seine Bemühungen
-							bezüglich Arnoldstein mit der Kurie: vgl. Portia an Stadion, Graz, 1601
-							April 18, KLA, Stift Arnoldstein I, Fasz. 23, fol. 43r.</note>.</p>
-					<p>Nel particolare della Prepositura di Treveri, alla quale raccommando a V. S.
-						il Sig. Coadiutore di Colonia, non ho che aggiungere a quello che già
-							risposi<note xml:id="FN5_224.2_03" type="footnote">Vgl. Nr.
-							217.3.</note> se non che sarà sempre bene ch’ella si astenga di fare
-						simili offitii se non richiesta, et che in tal caso mostri le difficoltà che
-						patiscono le gratie in luogo di esibirsi a facilitarle, perché se non si
-						concedono per rispetti anco giustissimi, pare tanto più strano a chi le
-						pretende et ne succedono effetti non buoni.</p>
-					<p>Vogliamo credere che il Commissario Rabatta non havrà disposto in alcun modo
-						delle robbe dei Mercanti Anconitani poiché mancava ogni titolo legitimo di
-						farlo, et che V. S. havrà favorito gl’istessi Mercanti per la ricuperatione
-						conforme a quello che se le scrisse co ’l precedente ordinario<note xml:id="FN5_224.2_04" type="footnote">Nr. 222.2.</note>. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_224.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-05-26" n="2">1601-05-26</title>
+                <title level="a">224.2. San Giorgio an Portia - Rom, 1601 Mai 26</title>
+                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 98 AB, fol. 68r–69r,
+                            Reg.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_224.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <date when="1601-05-26" n="2"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_224.1.xml"
+                        >224.1. San Giorgio an Portia - Rom, 1601 Mai 26</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_224.3.xml">224.3.
+                        San Giorgio an Portia - Rom, 1601 Mai 26</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_224.1.xml">224.1. San Giorgio an
+                        Portia - Rom, 1601 Mai 26</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_224.3.xml">224.3. San Giorgio an
+                        Portia - Rom, 1601 Mai 26</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Clemens VIII. hat sich beim Großherzog der Toskana [Ferdinando I.] und den
+                    anderen italienischen Fürsten für eine Unterstützung Erzherzog Ferdinands
+                    eingesetzt, dabei hofft man zumindest auf die .finanzielle Hilfe des
+                    Großherzogs. Die Ausführungen Portias über die Strategie im kommenden
+                    Türkenkrieg wurden zur Kenntnis genommen, dennoch geht man davon aus, dass die
+                    päpstlichen Truppen dort stationiert werden, wo die meiste Gefahr für Italien
+                    drohen wird. San Giorgio lobt die Gespräche Portias mit dem Bischof [Gebsattel]
+                    und Vizedom [Stadion] von Bamberg bezüglich des Klosters Arnoldstein. Für die
+                    Propstei von Trier wird der Koadjutor von Köln [Ferdinand] empfohlen. Man bittet
+                    Portia, sich in Zukunft bei derartigen Ämterbesetzungen nur auf den expliziten
+                    Wunsch hin zu involvieren, um Unstimmigkeiten zu vermeiden. Man hofft, dass
+                    Rabatta über das Eigentum der Händler von Ancona nicht anderwertig verfügt
+                    hat.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="224.2">San Giorgio an Portia - Rom, 1601 Mai 26</head>
+            <div>
+                <p>Fece N. S. gl’offitii che promise non pure co ’l Granduca ma con tutti i Principi
+                    d’Italia indeferentemente perché concorressero in aiuto della causa <pb
+                        xml:id="P5_0000500"/>commune per conseguenza del Ser.mo Arciduca, il quale
+                    devrà haverlo già inteso dal Conte Sigismondo della Torre, ma sì come non
+                    habbiamo chiarezza sin qui di quello che sia per fare più l’uno dell’altro in
+                    particolare, se ben si crede che qualcheduno sia per scusarsi con l’impotenza,
+                    così non resta luogo di esortare il Gran Duca a sovvenire più con danari che con
+                    genti, se non si sa chi sia risoluto al sussidio in universale, anzi si havrà
+                    per difficilissimo l’indurre quel Prencipe a mutare deliberatione, se ne havrà
+                    presa alcuna corrispondente alle prime instanze, et però converrebbe che dove V.
+                    S. scopre simili pensieri procurasse di levarli, essendo verisimile nel presente
+                    caso che il Granduca si disponerà di entrare in spesa habbia la gloria per uno
+                    dei suoi fini, la quale si conseguisse maggiore con le opre apparenti.</p>
+                <p>Si sono sentiti volontieri i discorsi di V. S. nel resto, alla quale non ho
+                    tuttavia che rispondere se non che debbiamo ben desiderare che il Turco non
+                    tenti quelle imprese che gli possono aprire l’adito all’Italia, ma in qualunque
+                    parte si volti non è dubio che le nostre genti havranno da servire dove le
+                    chiamerà la necessità maggiore<note xml:id="FN5_224.2_01" type="footnote">Vgl.
+                        dazu den Bericht Portias an Aldobrandini vom 14. Mai 1601: Nr.
+                    221.1.</note>.</p>
+                <p>È commendata V. S. degl’offitii fatti co ’l Vescovo et co ’l Vicedomino di
+                    Bamberga nel negotio di Arnolstain, nel quale sentirebbe S. B.ne con gran gusto
+                    che le parti si quietassero con satisfattione lor commune<note
+                        xml:id="FN5_224.2_02" type="footnote">Vgl. Nr. 222.4. Portia hatte Stadion
+                        auf seiner Rückreise von Brixen zu einem Gespräch über die kirchliche
+                        Situation in Kärnten und die Klöster Griffen und Arnoldstein nach Griffen
+                        eingeladen. Dieser Einladung war der Vizedom aber nicht gefolgt: vgl. Portia
+                        an Stadion, St. Paul, 1601 Februar 25, KLA, Stift Arnoldstein I, Fasz. 23,
+                        fol. 32r–v. Am 18. April 1601 wandte sich Portia erneut an Stadion und
+                        berichtete ihm über seine Bemühungen bezüglich Arnoldstein mit der Kurie:
+                        vgl. Portia an Stadion, Graz, 1601 April 18, KLA, Stift Arnoldstein I, Fasz.
+                        23, fol. 43r.</note>.</p>
+                <p>Nel particolare della Prepositura di Treveri, alla quale raccommando a V. S. il
+                    Sig. Coadiutore di Colonia, non ho che aggiungere a quello che già risposi<note
+                        xml:id="FN5_224.2_03" type="footnote">Vgl. Nr. 217.3.</note>se non che sarà
+                    sempre bene ch’ella si astenga di fare simili offitii se non richiesta, et che
+                    in tal caso mostri le difficoltà che patiscono le gratie in luogo di esibirsi a
+                    facilitarle, perché se non si concedono per rispetti anco giustissimi, pare
+                    tanto più strano a chi le pretende et ne succedono effetti non buoni.</p>
+                <p>Vogliamo credere che il Commissario Rabatta non havrà disposto in alcun modo
+                    delle robbe dei Mercanti Anconitani poiché mancava ogni titolo legitimo di
+                    farlo, et che V. S. havrà favorito gl’istessi Mercanti per la ricuperatione
+                    conforme a quello che se le scrisse co ’l precedente ordinario<note
+                        xml:id="FN5_224.2_04" type="footnote">Nr. 222.2.</note>. …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

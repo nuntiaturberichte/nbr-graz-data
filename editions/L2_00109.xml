@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00109">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1583-07-22" n="2">1583-07-22</title>
+				<title level="a">109. Malaspina an Gallio - Salzburg, 1583 Juli 22</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 101, f. 93r—95r, Orig.<lb/>Druck: Hansen,
+							Nuntiaturberichte III/1, S. 646—651.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00109">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1583-07-22" n="2"/>
+					<placeName ref="#http://www.geonames.org/2766824">Salzburg</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00108.xml"
+						>108. Malaspina an Gallio - Salzburg, 1583 Juli 22</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00110.xml">110.
+						Gallio an Malaspina - Rom, 1583 Juli 30</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00108.xml">108. Malaspina an Gallio -
+						Salzburg, 1583 Juli 22</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00110.xml">110. Gallio an Malaspina -
+						Rom, 1583 Juli 30</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Verhandlungen mit Herzog Wilhelm und Erzherzog Ernst über Unterstützung des
+					Erzbischofs von Köln.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="109">Malaspina an Gallio - Salzburg, 1583 Juli 22</head>
+			<div>
+				<p>Ho con molta mia consolatione inteso dal signor duca di Baviera che il foco, che
+					il Truxes con il fomento del Casimiro va accendendo, non è tale che non si possi
+					ragionevolmente sperare di smorzarlo tra poco tempo.<note xml:id="FN2_00109_01"
+						type="footnote">Der Kampf gegen Truchseß, der vor allem von Pfalzgraf Johann
+						Kasimir unterstützt wurde, dauerte nach der Absetzung noch etwa ein Jahr
+						(Hansen, Nuntiaturberichte III/1, S. 709f., 714ff.).</note>Et del medesimo
+					parere ho ritrovato il signor arciduca Ernesto,<note xml:id="FN2_00109_02"
+						type="footnote"> Malaspina hat sich in München mit Erzherzog Ernst und mit
+						Herzog Wilhelm getroffen (Nr. 122, S. 180).</note>et l’uno et l’altro di
+					loro me ne hanno allegati argumenti et rincontri buoni, ma sopra tutto il signor
+					duca di Baviera, havendomi conferito d’haver ricevute lettere del vescovo di
+					Erbipoli, <note xml:id="FN2_00109_03" type="footnote">Julius Echter, Bischof von
+						Würzburg.</note>nelle quali li significa, come essendo capitato da lui il
+					conte Barbi,<note xml:id="FN2_00109_04" type="footnote"> Graf Burkhard von
+						Barby.</note>vassallo et consigliero intimo del duca di Sassonia et barone
+					di gran estimatione et favorito più che mediocremente da quel duca, haveva
+					pregato il vescovo che in nome suo facesse intendere al signor duca di Baviera,
+					che al suo padrone dispiacevano li motivi del Truxes et del Casimiro,<note
+						xml:id="FN2_00109_05" type="footnote"> Kurfürst August von Sachsen schrieb
+						in dieser Angelegenheit am 24. Juni an Pfalzgraf Johann Kasimir (Bezold,
+						Briefe des Pfalzgrafen VII, Nr. 181, 191).</note>et che fosse certo che egli
+					non li havrebbe formentati, ma più tosto depressi, et acciò potessi comprendere
+					esser sincera la mente del duca, suo signore, che egli si offeriva di venire a
+					servire con una buona mano di cavalli et altri soldati Saxoni a l’eletto, suo
+					fratello. Et se ben il conte è heretico, nondimeno si è giudicato esser<pb
+						xml:id="P2_0000162"/> bene di non refutare ma accettare l’offerta, che ha
+					fatto, poiché oltre esser egli soldato et di valore, si crede che, spargendosi
+					la voce che un vassallo et tanto principale consigliero di quel duca con genti
+					suoi subditi sono assoldati dal eletto, con prescito del istesso duca, che debba
+					partorire terrore ne l’animo della parte adversa. Et perché tra il conte
+					Salentino et quel Dorimbergh nascono ogni giorno dissensioni, <note
+						xml:id="FN2_00109_06" type="footnote">Auch Bonomi berichtete über das wenig
+						gute Einvernehmen zwischen Salentin von Isenburg und Karl von Arenburg
+						(Hansen, Nuntiaturberichte III/1, S. 684f., Anm. 2 und 691, Anm.
+					1).</note>il signor duca cerca di persuadere al duca Ferdinando, suo fratello,
+					che volgia pigliarsi il carico della guerra, per il che io ne ho fatto offitio
+					assai efficace et vivo, con speranza che si lasciarà persuadere, et il conte
+					Salentino, giungendo il principe Ferdinando, si ritirarà appresso del eletto et
+					li servirà con il consiglio et con l’opera nel governare quello che si possede.
+					Et perché il principe Ferdinando non è soldato, sta il duca, suo fratello, per
+					chiamare il colonello Polverio, <note xml:id="FN2_00109_07" type="footnote"
+						>Nikolaus von Pollweil war seit vielen Jahren in Diensten Erzherzog
+						Ferdinands von Tirol, der seine Berufung ablehnte (Hirn, Erzherzog Ferdinand
+						II., II, S. 190).</note>vecchio soldato et di molta essistimatione, acciò il
+					conte Barbi et lui li assistino et secondo il parere del’uno et l’altro di loro
+					si possino pigliare quelle risolutioni, che saranno tenute à proposito et
+					necessarie.</p>
+				<p>Hora il signor duca, essendo di parere che li conati della parte adversa non
+					siano per durare, volge ogni suo pensiero al fare un’sforzo per sopirli quanto
+					prima, et perché in sustanza consiste il tutto in haver nervo de danari, che di
+					huomini non mancano, si è adoperato per molte vie per ritrovarne. Ha ricercato
+					la legha Lansbergica, ma senza frutto;<note xml:id="FN2_00109_08"
+						type="footnote">Herzog Wilhelm wollte den Landsberger Bund erweitern und vor
+						allem auch Spanien dafür gewinnen; Erzherzog Ferdinand war dagegen (Hirn
+						a.a.O. II, S. 184f.).</note>ha fatto instantia alli principi cattolici
+					d’Alemagna a volere contribuire per rata ogn’uno di loro, ma sono cose longhe et
+					ogn’uno da parole; <note xml:id="FN2_00109_09" type="footnote">Vgl. unten Nr.
+						111. 6, Nr. 12, Anm. 7).</note>si è voluto valere et con molta ragione del
+					circolo Bavarico, nel quale si comprendono alcuni ecclesiastici et vicini
+					potentati et è obligato a porgere aiuto alla Westphalia, in evento che sia
+					molestata, come hora è, ma ha patito repulsa, di modo che da una parte
+					bisognando danari et dal’altra parte non ne ritrovando, viveva, quando io mi
+					parti, con molta sollicitudine. Io, per sollevare l’animo<pb xml:id="P2_0000163"
+					/> suo et giovare il negotio, attendo con ogni studio per persuadere a questi
+					signori capitulari,<note xml:id="FN2_00109_10" type="footnote"> Salzburger
+						Domkapitel.</note>che si disponghino di far qualche demostratione, ne so
+					quello che potrò ottenere, presupponendo d’essere grandemente essausti, massime
+					havendo ultimamente mandato qua S. M.tà Ces. l’Hoffmann, fratello di quel mal
+						huomo,<note xml:id="FN2_00109_11" type="footnote"> Ferdinand von Hoffmann,
+						Bruder des Hans Friedrich (vgl. Nr. 9, Anm. 6, Nr. 12, Anm. 7).</note>a far
+					instantia al arcivescovo che voglia dare anticipatamente a S. M.tà le
+					contributioni, che nella dieta imperiale s’obligò l’arcivescovato.<note
+						xml:id="FN2_00109_12" type="footnote"> Salzburg votierte am Augsburger
+						Reichstag 1582 sofort für die höhere Reichshilfe, nämlich 48 Römermonate in
+						sechs Jahren (Lossen, Der Magdeburger Sessionsstreit, S. 635).</note>Et
+					essendo passato molte repliche, al fine hanno sborsati 22.000 fiorini per la
+					rata di quattro mesi. Per il che si escusano gagliardamente di non potere al
+					presente far più; solamente il duca di Ferrara<note xml:id="FN2_00109_13"
+						type="footnote"> Herzog Alfonso II. von Ferrara.</note>ha offerto 30 milia
+					scudi, et se ben non è stato ricercato, se non quando fusse molestato il stato
+					del duca di Baviera, nondimeno si spera che, non ostante la mala sodisfattione,
+					che ha havuto dal’eletto, per non haverli mai restituiti 12.000 scudi prestateli
+					già alcuni anni sono,<note xml:id="FN2_00109_14" type="footnote"> Das Geld hat
+						Herzog Ernst während seines Romaufenthaltes im Jahr 1575 ausgeliehen
+						(Lossen, Der Kölnische Krieg I, S. 334ff.; Hansen, Nuntiaturberichte III/1,
+						S. 648, Anm. 2).</note>che sia per contentarsi, che si converti l’uso d’essi
+					per le cose di Colonia; è ben vero che ne li trenta milia si comprendono li 12
+					milia, quali de presente era obligato il signor duca di restituirli. É stato
+					ancora tentato così in genere il gran duca di Toscana, <note
+						xml:id="FN2_00109_15" type="footnote">Francesco Medici, Großherzog der
+						Toscana.</note>ma per non havere voluto il duca di Baviera trattare di
+					Altezza la granduchessa,<note xml:id="FN2_00109_16" type="footnote"> 1569
+						verlieh Pius V. Cosimo Medici die Würde eines Großherzogs, woraus sich ein
+						über Jahre hinziehender Titel- und Präzedenzstreit zwischen Papst und Kaiser
+						entwickelte. Der Kaiser fühlte sich übergangen und Ferrara zurückgesetzt.
+						Bayern stand auf Seite des Kaisers (Bibl, Die Erhebung Cosimos zum
+						Großherzog, S. 3ff.).</note>pare che s’habbi havuta risposta non molto buona
+					non già dal granduca stesso, ma dalli ministri suoi.</p>
+				<p>Hora il duca et l’eletto, dubitando che la penuria del danaro non faccia
+					prolongare la guerra et essendo incerti l’essiti d’essa, hanno preso due
+					risolutioni: di mandare il Minutio in Spagna a do<pb xml:id="P2_0000164"
+					/>mandare aiuto a quella Maestà, <note xml:id="FN2_00109_17" type="footnote"
+						>Minucci verließ Köln am 3. August 1583, war am 20. in München, wo er von
+						Herzog Wilhelm instruiert wurde, um den 20. September in Rom und traf am 9.
+						November in Madrid ein (Hansen, Nuntiaturberichte III/1, S. 739f.).</note>in
+					evento che ne sia di bisogno et far altri offitii, quali s’intenderanno dal
+					istesso Minutio, et di mandare da S. S.tà et metterli inanzi li modi di
+					ritrovare danari, tra quali il signor duca propone che si ricerchino li prelati
+					d’Alemagna a volerne accomodare una certa somma, et per persuaderli a consentire
+					più prontamente, se li concedi facultà di poterli poi esigere dalli
+					ecclesiastici et regolari della loro diocesi et rimborsarsene.</p>
+				<p>Il signor duca era di parere che si potessi più compendiosamente dar fine a
+					questi rumori con il divertire il Casimiro, cosa che veneva facilmente fatta, se
+					l’arciduca Ferdinando si desponeva unirsi con il duca et, movendosi il Casimiro
+					per Colonia, darle disturbo o almeno gelosia nelli proprii suoi dominii.<note
+						xml:id="FN2_00109_18" type="footnote">Wilhelm hat mit Ferdinand darüber
+						verhandelt (Bezold, Briefe des Pfalzgrafen II, Nr. 183).</note>Ne
+					dal’arciduca s’è potuto ottenere altro, se non che promette, se S. M.tà darà il
+					bando imperiale al Casimiro, al Truxes et altri, che lui aiuterà l’imperatore et
+					il duca ad esseguirlo, et che si potrà fare senza molta difficultà. Ma S. M.tà
+					s’è resa in sin’hora difficile a venire a tal avviamento, parendoli che la si
+					farebbe parte, et pensa che sia più espediente che la si mantenghi mediatore o
+					judice; similmente presuppone, essere astretta di giuramento alli elettori di
+					non potere contra le persone loro procedere col bando imperiale senza il
+					consenso o prescito delli altri elettori. Queste ragioni, che ritengono
+					l’imperatore, paiono assai deboli, poiche quanto alla prima havendo il Truxes
+					transgredito non solo contra li sacri canoni et proprio giuramento, ma anco la
+					pacificatione imperiale, S. M.tà senza offendere alcuno può bene far l’officio
+					di giudice, ne si può temere che sia per essere tenuta parte. Et quanto al
+					secondo, non essendo il Truxes più elettore, non contraviene la S. M.tà sua
+					dandoli il bando imperiale alla promessa fatta. Non si è potuto con tutto ciò
+					ottenere da Sua Maestà altro, se non che darà subito l’indulto al eletto et che
+					per vigore d’esso, se non espressamente almeno tacitamente et virtualmente havrà
+					li regalii et si liberaranno li popoli dal giuramento prestato al Truxes.</p>
+				<p>Questo è quanto m’ha conferito il signor duca di Baviera circa le cose di
+					Colonia. Et perché confidentemente me ha date alcune let<pb xml:id="P2_0000165"
+					/>tere del Mogontino et Treverense pur in questo proposito,<note
+						xml:id="FN2_00109_19" type="footnote"> Schreiben des Erzbischofs von Mainz
+						vom 12. Juni 1583 an den Erzbischof von Trier und dessen Antwort am 16. Juni
+						betreffend Aufnahme Ernsts in das Kurfürstenkollegium (Arch. Vat., Nunz.
+						Germ. 101, f. 87r, 88rv).</note>ho giudicato d’essere bene di mandarne copia
+					a V. S. Ill.ma. L’arciduca Ernesto poi ne ha ragionato del convento, che a
+					requisitione delli principi protestanti S. M.tà haveva condisceso che si
+					facesse. <note xml:id="FN2_00109_20" type="footnote">Rothenburger Tag im April
+						1584 (Hansen, Nuntiaturberichte III/1, S. 688; Bezold, Briefe des
+						Pfalzgrafen II, Nr. 269ff.). Erzherzog Ernst und Herzog Wilhelm waren bei
+						der Taufe in Innsbruck, von dort sind sie wahrscheinlich gemeinsam nach
+						München gereist, wo sie Malaspina trafen (Hirn, Erzherzog Ferdinand II., II,
+						S. 458).</note>Et se bene me ha detto, che pensa certissimo che non si terrà
+					più, perché non l’havendo pretenduto quelli principi se non per le cose di
+					Colonia, giudica perciò che, essendo hora privato il Truxes, che S. M.tà non
+					permetterà che si tratti più d’esso, nondimeno il signor duca di Baviera mostra
+					di dubitarne tuttavia et suspica ancora che, in evento che si facci ch’egli sia
+					per essere escluso come interessato per rispetto del fratello, et le pare che
+					sia bene di vivere con qualche sollicitudine, acciò o non si tenghi o tenendosi
+					non si permetta nella trattatione qualche cosa in pregiuditio della religione,
+					massime se li principi cattolici, che vi interveneranno, usaranno qualche
+					conniventia non solo in non opponersi animosamente alle propositioni, che si
+					faranno in pregiuditio della parte nostra, ma ancora in non ardire di essagerare
+					gl’aggravii et violentie, che con grandissimo detrimento patiscono li cattolici
+					dali heretici di continuo et vanno di giorno in giorno augumentandosi. Et pur
+					quelli che gridano sono li oppressori, et quelli che tacciano sono li
+					oppressi.</p>
+				<p>Credo poi che V. S. Ill.ma havrà inteso, come nel ultima congregatione della
+					legha Lansbergica tenuta in Baviera non si è trattata cosa alcuna, perché
+					essendo finito il tempo della legha alla festa della santissima Trinità, parve
+					che prima si discutesse, se era bene di mantenere la legha o vero di disfarla.
+					Et perciò fu concluso, che si facesse un’altra congregatione il giorno di S.
+					Bartolomeo, et al’hora si trattasse, se si dovevano escludere alcuni et
+					includere altri, et di quelli suggetti, che mette più conto di escludere et
+					d’includere. Il signor duca di Baviera ha in questo mentre tentato l’animo di
+					Magontia et Treveri, da quali non ha havuto per ancora risposta et pensa di far
+					l’istesso offitio con il duca di Cleves, et con l’occasione del andata del
+					Minutio in Spagna di mandare le scritture che contengono<pb xml:id="P2_0000166"
+					/> quello che passò, quando il duca, suo padre, tratto di fare accettare nella
+					legha S. M.tà cattolica, acciò sapendo S. M.tà quello che al’hora passò, si
+					possi dichiarare, se li sarà grato che si tratti di farlo intrare et con che
+					conditioni. <note xml:id="FN2_00109_21" type="footnote"/>
+				</p>
+				<p>Ho poi ritrovato il signor duca di Baviera tanto affetto a V. S. Ill.ma che non
+					saprei desiderare più, et poiché mi persuado che sia molto candido, credo ancora
+					che candidamente habbia parlato meco. Ho saputo l’origine di quella mala
+					sodisfattione, la quale si come fu falsamente et poco christianamente impressa
+					da non so chi nella mente del signor duca,<note xml:id="FN2_00109_22"
+						type="footnote"/>così non havendo fundamento si è totalmente deradicata dal
+					cuor suo, anzi mi ha detto di volere per l’avenire far professione d’essere
+					molto obligato V. S. Ill.ma per molti benefitii, che la famiglia sua et lui
+					hanno ricevuto da lei.</p>
+				<p>Ho per la strada ricevuto le lettere di V. S. Ill.ma delli 21. et 28. di Maggio
+					et delli 4. et 25. del passato, dalle quale ho inteso l’ordine che N. S. mi da
+					di ritornare al carico mio antico, per dove sono al presente incaminato.<note
+						xml:id="FN2_00109_23" type="footnote">Nr. 92, 93, 95, 103.</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

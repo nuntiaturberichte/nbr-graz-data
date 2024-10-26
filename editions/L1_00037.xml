@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00037">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-11-21" n="3">1580-11-21</title>
+                <title level="a">37. Malaspina an Gallio - Graz, 1580 November 21</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 143r—144r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00037">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-11-21" n="3"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00036.xml">36.
+                        (Graz, 1580 November 21)</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00038.xml">38.
+                        Malaspina an Gallio - Graz, 1580 November 21</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00034.xml">34. Malaspina an Gallio -
+                        Graz, 1580 November 17</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00038.xml">38. Malaspina an Gallio -
+                        Graz, 1580 November 21</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Beginn des Landtages. Blasphemische Predigt vor evangelischen Ständen in der
+                    Kirche. Aussprache mit Kobenzl. Warnung an Grenzkommandeure vor als türkischer
+                    Kundschafter geschicktem Flamen. Beschwerde des Großtürken beim Kaiser über
+                    Grenzzwischenfall. Nachrichten aus Konstantinopel über wahrscheinliches
+                    türkisches Betreiben zu Krieg Frankreichs gegen Spanien. Ende des Nürnberger
+                    Konventes. Urteil in Angelegenheit Polydor de Montagnana.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="37">Malaspina an Gallio - Graz, 1580 November 21</head>
+            <div>
+                <p>Questa mattina, havendo prima S. A. fatto cantare la messa del Spirito Santo et
+                    ordinato una oratione publica, si è dato principio alla dieta,<note
+                        xml:id="FN1_00037_01" type="footnote">Vgl. Nr. 33.</note>nella quale S. A.
+                    ha proposto alli quatro stati quello che desidera da loro et hanno, conforme
+                    al’ordinario, tolto tempo a rispondere. <note xml:id="FN1_00037_02"
+                        type="footnote">Auf die vom 19. November datierte und am 21. November 1580
+                        vorgetragene Proposition gingen die Stände erst am 14. Februar 1581 ein
+                        (Graz LA, Landtagshandlungen 33, f. 108r—169v; ebenda Landtagsakten 421;
+                        Loserth, FRA II/50, S. 69).</note>Tutto il stato ecclesiastico è comparso,
+                    et sono bene animati et credo non mi mancarano. Domani verano tutti a desinar
+                    meco et unitamente li significarò quello che desidero da loro. Il vescovo di
+                    Secovia dà dimostrationi tali che mi fa credere che dichi da dovero. Tutti li
+                    catholici sono animati et siamo uniti. Il principe mandò hieri da me il padre
+                    provinciale de’ Gesuiti, suo confessore, et mi fece intendere che io
+                    raccommandassi la causa a Dio, ché egli era disposto di far quello che poteva,
+                    ma tutta via teme grandemente. Li provinciali non sono ancora comparsi
+                        tutti,<note xml:id="FN1_00037_03" type="footnote"> Vgl. Nr. 32, Anm.
+                        3.</note>et vengono contra loro volontà. Hieri quelli che sono presenti,
+                    radunati nella loro chiesa, fecero predicare un loro famoso predicatore,<note
+                        xml:id="FN1_00037_04" type="footnote"> Wahrscheinlich Jeremias
+                        Homberger.</note>il quale animò tutti li <pb xml:id="P1_0000118"/>auditori a
+                    resistere a S. A. Disse molte blasfemie contra S. Stà, chiamandolo antechristo.
+                    Tra otto giorni vederemo quello che ha da essere. Il Cobenzolo è stato da me et
+                    si è lamentato di S. A., che non li dia parte del negotio della religione,
+                    parendole che questo non sia altro che dichiarare che egli non sia buon
+                    catholico et che è pronto per mettersi nella inquisitione in man mia o del santo
+                    officio in Roma. <note xml:id="FN1_00037_05" type="footnote">Bereits am 4. und
+                        6. Oktober 1580 berichtete Malaspina über die verdächtige religiose Haltung
+                        Kobenzls (Nr. 11 und 12).</note>Io li ho risposto, quanto al primo capo, che
+                    non mi ho da intromettere in dar consiglio a S. A. del’ admettere alii negotii o
+                    l’uno o l’altro de’ suoi consiglieri, et egli è bene restato sodisfatto et
+                    capace che non conviene che io parli circa questo. Quanto al secondo, li ho
+                    detto che le opere che egli fa et e per fare sarano quelle che daranno ad
+                    intendere al mondo la innocentia sua, et l’ho esortato a volersi astenere dalla
+                    continua familiarità delli heretici et aiutare quanto potrà il negotio della
+                    religione; egli ha promesso cosi fredamente, che io, quanto a me, mi prometto
+                    poco di lui.</p>
+                <p>S. A., essendo stata avisata dal’imperatore che il Granturco<note
+                        xml:id="FN1_00037_06" type="footnote">Murad III.</note>mandava un Fiamingo
+                    sotto fittione di comprare orologii nelli paesi de’ christiani per sapere tutti
+                    li pensieri delli principi, che così promette il Fiamingo di volere penetrare et
+                    fidelmente refferire, ha commandato a tutti li capitani et governatori de’
+                    confini ché siano diligenti, se a caso costui capitasse et perché hanno li
+                    segnali; se verrà, sarà ritenuto. Il Granturco similmente ha fatto rumore con S.
+                    Mtà Ces. per il fatto che sucesse alli giorni passati, quando fu amazzato in
+                    questi confini il beeg, et ha fatto esaminare li christiani prigioni suoi, <note
+                        xml:id="FN1_00037_07" type="footnote">Vielleicht ist Iskender, Sandschak von
+                        Posega, gemeint, der im Sommer 1580 bei einem schweren Grenzzwischenfall
+                        fiel, worüber sich der Sultan beim Kaiser beschwerte (Hammer, Geschichte des
+                        Osmanischen Reiches II, S. 511 f.).</note>quali hanno deposto che sempre la
+                    colpa di rompere la pacificatione è dal canto de’ christiani. S. Mtà Ces. ha
+                    scritto tutto questo a S. A.<note xml:id="FN1_00037_08" type="footnote">
+                        Schreiben nicht gefunden.</note>et lei ha, per consiglio di S. fatto
+                    esaminare li Turchi prigioni, et ancor essi hanno detto che la colpa è de’
+                    Turchi. Hanno aviso da Constantinopoli che l’ambasciatore di Francia <note
+                        xml:id="FN1_00037_09" type="footnote">Jacques de Germigny (Hammer a. a. O.,
+                        S. 464 und 513).</note>haveva spedito il secrettario suo al suo re et che si
+                    credeva fosse per instigarlo, in nome del Turco, a mover guerra al re di Spagna,
+                    et queste nuove, con quelle di Portogallo, ne fanno molto detrimento.<note
+                        xml:id="FN1_00037_10" type="footnote"> Siehe oben Nr. 12, Anm. 6.</note>
+                </p>
+                <pb xml:id="P1_0000119"/>
+                <p>Il convento de Orimberga si tiene per escluso, non senza sdegno di alcuni
+                    prelati, che già si erano messi in viaggio et due volte sono stati
+                        ingannati.<note xml:id="FN1_00037_11" type="footnote"/>
+                </p>
+                <p>Questa mattina ho sententiato nella causa di mons. Polidoro et ho usato seco di
+                    molta misericordia a intercessione di S. A. et del sig. cancelliero, però non è
+                    stata tanto pietosa, che non sia per essere di terrore alli altri. Ne mandarò
+                    poi la copia;<note xml:id="FN1_00037_12" type="footnote">Nr. 36.</note>egli ha
+                    obedito et dà segno di volersi emendare...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

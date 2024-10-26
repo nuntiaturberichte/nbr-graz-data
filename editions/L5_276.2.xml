@@ -1,279 +1,282 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_276.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-11-26" n="2">1601-11-26</title>
-                    <title level="a">276.2. Portia an Aldobrandini - Graz, 1601 November 26</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 151r–152v, Orig.
-								[Eigenh.]</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_276.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1601-11-26" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_276.1.xml">276.1. Portia an Aldobrandini - Graz, 1601 November 26</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_277.1.xml">277.1. San Giorgio an Portia - Rom, 1601 Dezember 1</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_276.1.xml">276.1. Portia an
-                            Aldobrandini - Graz, 1601 November 26</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_277.3.xml">277.3. Aldobrandini an
-                            Portia - Rom, 1601 Dezember 1</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Schlechter Gesundheitszustand Portias. Portia berichtet über sein Gespräch
-						mit dem Herzog von Mantua [Vincenzo I.]: Di Fuentes hatte diesem in Mailand
-						20.000 scudi mit dem Oberbefehl über die Soldaten angeboten, was er jedoch
-						ablehnte. Nun scheint der Herzog von Parma [Ranuccio I.] zum Zug gekommen zu
-						sein, was das Verhältnis zwischen den Fürsten von Parma und Mantua aber
-						nicht beeinträchtige; Über den Rückzug von Kanizsa wird Gonzaga dem
-						Kaiserhof Bericht erstatten. Dieser hofft, Gouverneur von Siebenbürgen zu
-						werden; Der Herzog wird über Salzburg, Bayern und Innsbruck nach Mantua
-						reisen und einen hochrangigen Kriegsgefangenen mit sich führen; Den Rückzug
-						von Kanizsa erachtet er als unvermeidlich, jedoch macht er für die
-						chaotischen Zustände Rußworm, Herberstein und Zrinski verantwortlich.
-						Weitere Nachrichten iiber hohe Of.fiziere des päpstlichen Heeres, das sich
-						in Pettau zum Rückzug sammelt. Portia hofft auf Rückberufung in Anbetracht
-						seines schlechten Gesundheitszustandes und der unglücklichen Lage in
-						Innerösterreich.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="276.2">Portia an Aldobrandini - Graz, 1601 November 26</head>
-				<div>
-					<p>Benché io mi trovi con poca sanità per un sfredore et febre che mi occupa da
-						quattro giorni in qua tutta la vita con dolor di capo principalmente, non
-						posso però lasciar di significar a V. S. Ill.ma alcune cose di quelle che si
-						sentan qui oltr’allo scritto nell’altre lettere.</p>
-					<p>Ho complito col Sig. Duca di Mantova et S. A. ha trattato meco con molta
-						confidenza di molte cose anco sue particolari et in particolare dell’offerta
-						fattale già dal Conte di Fuentes in Milano de ventimila scudi di piatto con
-						il Generalato degli huomini d’armi, et questo, con occasione di quello che
-						si scrive di Spagna haver ricevuto il Sig. Duca di Parma con tant’honori, S.
-						A. dice di voler servir al Re per devotione et non per obligo, così dice
-						haver risposto alcuna volta et il tutto con buoni termini et occasione di
-						dirmi anco l’offitio che<pb xml:id="P5_0000618"/> haveva passato la Sig.
-						Duchessa di Mantova<note xml:id="FN5_276.2_01" type="footnote">Eleonora de’
-							Medici (1567–1611), Tochter von Francesco I. de’ Medici und Johanna von
-							Österreich. Heiratete 1584 Vincenzo I. Gonzaga, Herzog von Mantua.
-							Während der Kriegszüge ihres Mannes gegen die Türken in Ungarn (1595,
-							1597, 1601) übernahm Eleonora die Regierungsgeschäfte: vgl. SCHWENNICKE
-							2, T. 120; PIERACCINI 2, S. 251–253; DBI 42, S. 434–437.</note> con la
-						Sig. Duchessa di Parma<note xml:id="FN5_276.2_02" type="footnote">Margherita
-							Aldobrandini, Herzogin von Parma: vgl. Nr. 103.1.</note> in condoglianza
-						della morte dell’Ecc.mo Sig. Generale di felice memoria<note xml:id="FN5_276.2_03" type="footnote">Gian Francesco Aldobrandini: vgl.
-							Nr. 213.1.</note>.</p>
-					<p>Quanto alla Retirata da Canisa S. A. non intende che trattarne in generale,
-						ma di dar conto della sua parte et di quel che li appartiene separatamente,
-						et così mi disse di haver formato una instruttione et scrittura per dar ad
-						un gentilhuomo che sarebbe passato alla Corte della M.tà
-							dell’Imperatore<note xml:id="FN5_276.2_04" type="footnote">Vgl.
-							Istruzione del Duca Vincenzo al signore Federico Gonzaga per la Corte
-							Cesarea, per atti di complimenti nella sua partenza da Gratz per
-							l’Italia … in: ERRANTE, S. 111f.</note>, dove ha anco inteso che si
-						potrebbe trattare sopr’una certa propositione et pensiero altre volte
-						havutosi di dar a S. A. il carico et governo in Transilvania, se però
-						l’esserci entrato Sigismondo con forze superiori al Basta non impedisce anco
-						questo concetto.</p>
-					<p>Il medesimo Sig. Duca partirà di qua dimani verso Salzburg et Baviera et
-						d’indi a Ispruch per esser a Mantova per le feste di Natale. Ha ricevuto qui
-						dall’Arciduca in dono il Civia o Luocotenente del Bassa di Canisa che fu
-						preso un mese fa verso Sighet. Il Sig. Duca nel trattar del particolare di
-						Canisa dice che il partirsi era di necessità per il tempo durissimo et
-						asprissimo; del disordine ne dà la colpa al Rosburn, agl’Heretici, cioè al
-						Conte di Serino et all’Hermestain Generale di Schiavonia, et alla molta
-						bontà del ser.mo Arciduca, il qual per questo non ha, com’esso crede,
-						l’intera obedienza et conveniente, né altro si può da esso credere<note xml:id="FN5_276.2_05" type="footnote">Ein undatiertes Manifesto del Duca
-							di Mantova circa l’imprese di Canisa be.findet sich in: ASV, Fondo
-							Borghese, serie I 758, fol. 182r–193v.</note>.</p>
-					<p>Il Sig. Don Giovanni de’ Medici infermo prese il camino verso Vienna, il che
-						ha dispiacciuto qui grandemente. Gli suoi che son arrivati qui dicono che
-						esso Don Giovanni desse buoni ordini per la retirata, ma che sian stati
-						malamente esseguiti; si dice che esso Don Giovanni habbi perso la valuta di
-						seimila scudi in robbe toltoli dai soldati Ungari, che gli Turchi di Canisa
-						non uscirno mai se non il giorno seguente.</p>
-					<p>Intendo qui da heri in qua che l’Arciduca habbi rissoluto di mandar un
-							personaggio<note xml:id="FN5_276.2_06" type="footnote">Die dafür
-							ursprünglich bestimmte Person erkrankte, sodass Eh. Ferdinand diese
-							durch den Bischof von Bosnien, Lajos Újlaky, ersetzte: vgl. Nr.
-							284.2.</note> alla S.tà di N. S. per darli conto di tutto il successo il
-						qual potrebbe partire la settimana seguente.<pb xml:id="P5_0000619"/>
-					</p>
-					<p>Il Sig. Paolo Savello<note xml:id="FN5_276.2_07" type="footnote">Paolo
-							Savelli (gest. 1632), Sohn von Bernardino Savelli. Er stand im Dienst
-							der Familie Aldobrandini und begleitete Kardinal Aldobrandini 1600 nach
-							Frankreich. Nachdem Del.fini dem erkrankten Gian Francesco Aldobrandini
-							als Oberbefehlshaber gefolgt war, legte Savelli seine Befehlsgewalt
-							innerhalb des päpstlichen Heeres zurück und diente fortan als Söldner.
-							Generale dell’armi von Ferrara, Bologna und Romagna (1605).
-							Generalleutnant der päpstlichen Truppen (1611), kaiserlicher Botschafter
-							am Hl. Stuhl (1620): vgl. ARGEGNI, S. 145f.; BRANCUCCI, Kanizsa, S. 26,
-							76–79, 81f.; BRUNELLI, S. 141, 148f. (Vgl. u. a.: Savelli an
-							Aldobrandini, Turnisce, 1601 September 1, ASV, Fondo Borghese, serie III
-							93 B2, fol. 10r; Serra an Aldobrandini, Warasdin/Varazdin, 1601
-							September 3, ASV, Fondo Borghese, serie III 93 A, fol. 132r–134v). Im
-							Feldzug des Jahres 1601 hatte Savelli sechs Kompanien von Fußsoldaten
-							des päpstlichen Heeres unter seiner Befehlsgewalt: vgl. Savelli an
-							Aldobrandini, Agram/Zagreb, 1601 August 19, ASV, Fondo Borghese, serie
-							III 93 B2, fol. 5r; Copia de Gradi distribuiti, [o. D.], ASV, Fondo
-							Borghese, serie IV 232 Bis, fol. 41r.</note> è stato a vedermi et ha
-						mostrato desiderio grande di rappresentarsi quanto prima in Roma alla
-						dispositione et commando di V. S. Ill.ma et di dar conto com’esso non ha mai
-						desiderato altro che di mantenersi la gratia della S.tà di N. S., di V. S.
-						Ill.ma et dell’Ecc.mo Sig. Generale, che sia in gloria, con molte altre
-						parole alle quali io ho risposto brevissimamente essortandolo a mantenersi
-						la gratia et la protettione di V. S. Ill.ma et lasciar a dietro ogn’altro
-						pensiero per procurar questo, sapendo io quanti oblighi ch’egli deve tenere
-						all’Ecc.mo Sig. Generale che meco più volte et in più occasioni mostrò di
-						amarlo et stimarlo tanto. Et esso se ne ritornerà per la strada che faran le
-						genti di S. B.ne.</p>
-					<p>Il Sig. Marchese Malatesta<note xml:id="FN5_276.2_08" type="footnote">Carlo
-							Felice Malatesta (1569–1634), Sohn von Markgraf Giacomo Malatesta. Er
-							wurde von Clemens VIII. zum Hauptmann der päpstlichen Wache ernannt und
-							erhielt 1601 im Zuge des Rückeroberungsversuches der Festung Kanizsa die
-							Befehlsgewalt über sechs Kompanien von Fußsoldaten des päpstlichen
-							Heeres. Wie Paolo Savelli legte er sein Amt nach der Ernennung Flaminio
-							Del.finis zum Oberbefehlshaber der päpstlichen Truppen zurück und diente
-							als Söldner. In der Folge wechselte er in den Dienst Venedigs, aus dem
-							er 1611 ausschied, um General der päpstlichen Truppen in Avignon zu
-							werden. Dieses Amt hatte er bis 1633 inne: vgl. ARGEGNI, S. 134;
-							BRANCUCCI, Kanisza, S. 26, 76–79, 81f.; BRUNELLI, S. 145, 148–150 (Vgl.
-							u. a.: Malatesta an Aldobrandini, Tabor, 1601 September 1, ASV, Fondo
-							Borghese, serie III 93 B2, fol. 11r–v; Serra an Aldobrandini, Warasdin,
-							1601 September 3, ASV, Fondo Borghese, serie III 93 A, fol. 132r–134v;
-							Copia de Gradi distribuiti, [o. D.], ASV, Fondo Borghese, serie IV 232
-							Bis, fol. 41r).</note>, col quale non ho mai havuto occasione di
-						trattare, né io come anch’esso l’ho procurato doppo questo suo accidente,
-						benché per inanzi solesse esser domestico mio come fu anco il Padre, esso si
-						trova qui et seguirà il Sig. Duca di Mantova per tutto questo viaggio.</p>
-					<p>Intendo poi che tutte le genti di S. S.tà son arrivate a Pettovia dove si
-						trova anco Monsig. Commissario<note xml:id="FN5_276.2_09" type="footnote">Giacomo Serra: vgl. Nr. 259.1.</note> col Sig. Flaminio Delfini et
-						gl’altri Capi et quivi si<pb xml:id="P5_0000620"/> radunaranno per ristorar
-						le genti al meglio che potranno. Io farò qui sollecitare certe provisioni
-						per loro, come carri, viveri et altre commodità per gl’Infermi et per il lor
-						viaggio, così richiedendomi Monsig. Commissario con sue lettere.</p>
-					<p>Il ser.mo Arciduca nel trattar che ha fatto meco si è lodato delle genti di
-						S. S.tà et de suoi Capi, benché d’altri habbi in confidenza mostrato poca
-						sodisfattione et in particolare del Sig. Francesco del Monte.</p>
-					<p>Supplico V. S. Ill.ma a perdonarmi questo termine di scrivere così alla
-						corrente con l’intender lo stato mio aggravato da questi infelici
-						avvenimenti, gli quali mi accrescano il male et il mio desiderio antico di
-						poter et dover servire a V. S. Ill.ma in ogni altra parte che in queste
-						misere Provincie, delle quali lo stato è miserissimo. …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_276.2">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1601-11-26" n="2">1601-11-26</title>
+				<title level="a">276.2. Portia an Aldobrandini - Graz, 1601 November 26</title>
+				<author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="http://viaf.org/viaf/294639832">Zingerle
+								Elisabeth</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+						<idno type="ISBN">978-3-7001-7146-1</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>2012</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Historisches Institut beim Österreichischen Kulturforum in
+									Rom</orgName>
+								<persName>Bösel Richard</persName>
+								<persName>Fillitz Hermann</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="5">5. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="974">974 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Historischen Instituts beim
+							Österreichischen Kulturforum in Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 151r–152v, Orig.
+							[Eigenh.]</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L5_276.2">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+					<date when="1601-11-26" n="2"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+						Pietro - Portia, Girolamo</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L5_276.1.xml"
+						>276.1. Portia an Aldobrandini - Graz, 1601 November 26</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L5_277.1.xml">277.1.
+						San Giorgio an Portia - Rom, 1601 Dezember 1</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_077" target="L5_276.1.xml">276.1. Portia an
+						Aldobrandini - Graz, 1601 November 26</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_077" target="L5_277.3.xml">277.3. Aldobrandini an
+						Portia - Rom, 1601 Dezember 1</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Schlechter Gesundheitszustand Portias. Portia berichtet über sein Gespräch mit
+					dem Herzog von Mantua [Vincenzo I.]: Di Fuentes hatte diesem in Mailand 20.000
+					scudi mit dem Oberbefehl über die Soldaten angeboten, was er jedoch ablehnte.
+					Nun scheint der Herzog von Parma [Ranuccio I.] zum Zug gekommen zu sein, was das
+					Verhältnis zwischen den Fürsten von Parma und Mantua aber nicht beeinträchtige;
+					Über den Rückzug von Kanizsa wird Gonzaga dem Kaiserhof Bericht erstatten.
+					Dieser hofft, Gouverneur von Siebenbürgen zu werden; Der Herzog wird über
+					Salzburg, Bayern und Innsbruck nach Mantua reisen und einen hochrangigen
+					Kriegsgefangenen mit sich führen; Den Rückzug von Kanizsa erachtet er als
+					unvermeidlich, jedoch macht er für die chaotischen Zustände Rußworm, Herberstein
+					und Zrinski verantwortlich. Weitere Nachrichten iiber hohe Of.fiziere des
+					päpstlichen Heeres, das sich in Pettau zum Rückzug sammelt. Portia hofft auf
+					Rückberufung in Anbetracht seines schlechten Gesundheitszustandes und der
+					unglücklichen Lage in Innerösterreich.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="276.2">Portia an Aldobrandini - Graz, 1601 November 26</head>
+			<div>
+				<p>Benché io mi trovi con poca sanità per un sfredore et febre che mi occupa da
+					quattro giorni in qua tutta la vita con dolor di capo principalmente, non posso
+					però lasciar di significar a V. S. Ill.ma alcune cose di quelle che si sentan
+					qui oltr’allo scritto nell’altre lettere.</p>
+				<p>Ho complito col Sig. Duca di Mantova et S. A. ha trattato meco con molta
+					confidenza di molte cose anco sue particolari et in particolare dell’offerta
+					fattale già dal Conte di Fuentes in Milano de ventimila scudi di piatto con il
+					Generalato degli huomini d’armi, et questo, con occasione di quello che si
+					scrive di Spagna haver ricevuto il Sig. Duca di Parma con tant’honori, S. A.
+					dice di voler servir al Re per devotione et non per obligo, così dice haver
+					risposto alcuna volta et il tutto con buoni termini et occasione di dirmi anco
+					l’offitio che<pb xml:id="P5_0000618"/> haveva passato la Sig. Duchessa di
+						Mantova<note xml:id="FN5_276.2_01" type="footnote"> Eleonora de’ Medici
+						(1567–1611), Tochter von Francesco I. de’ Medici und Johanna von Österreich.
+						Heiratete 1584 Vincenzo I. Gonzaga, Herzog von Mantua. Während der
+						Kriegszüge ihres Mannes gegen die Türken in Ungarn (1595, 1597, 1601)
+						übernahm Eleonora die Regierungsgeschäfte: vgl. SCHWENNICKE 2, T. 120;
+						PIERACCINI 2, S. 251–253; DBI 42, S. 434–437.</note>con la Sig. Duchessa di
+					Parma <note xml:id="FN5_276.2_02" type="footnote">Margherita Aldobrandini,
+						Herzogin von Parma: vgl. Nr. 103.1.</note>in condoglianza della morte
+					dell’Ecc.mo Sig. Generale di felice memoria <note xml:id="FN5_276.2_03"
+						type="footnote">Gian Francesco Aldobrandini: vgl. Nr. 213.1.</note>.</p>
+				<p>Quanto alla Retirata da Canisa S. A. non intende che trattarne in generale, ma di
+					dar conto della sua parte et di quel che li appartiene separatamente, et così mi
+					disse di haver formato una instruttione et scrittura per dar ad un gentilhuomo
+					che sarebbe passato alla Corte della M.tà dell’Imperatore<note
+						xml:id="FN5_276.2_04" type="footnote">Vgl. Istruzione del Duca Vincenzo al
+						signore Federico Gonzaga per la Corte Cesarea, per atti di complimenti nella
+						sua partenza da Gratz per l’Italia … in: ERRANTE, S. 111f.</note>, dove ha
+					anco inteso che si potrebbe trattare sopr’una certa propositione et pensiero
+					altre volte havutosi di dar a S. A. il carico et governo in Transilvania, se
+					però l’esserci entrato Sigismondo con forze superiori al Basta non impedisce
+					anco questo concetto.</p>
+				<p>Il medesimo Sig. Duca partirà di qua dimani verso Salzburg et Baviera et d’indi a
+					Ispruch per esser a Mantova per le feste di Natale. Ha ricevuto qui
+					dall’Arciduca in dono il Civia o Luocotenente del Bassa di Canisa che fu preso
+					un mese fa verso Sighet. Il Sig. Duca nel trattar del particolare di Canisa dice
+					che il partirsi era di necessità per il tempo durissimo et asprissimo; del
+					disordine ne dà la colpa al Rosburn, agl’Heretici, cioè al Conte di Serino et
+					all’Hermestain Generale di Schiavonia, et alla molta bontà del ser.mo Arciduca,
+					il qual per questo non ha, com’esso crede, l’intera obedienza et conveniente, né
+					altro si può da esso credere<note xml:id="FN5_276.2_05" type="footnote">Ein
+						undatiertes Manifesto del Duca di Mantova circa l’imprese di Canisa
+						be.findet sich in: ASV, Fondo Borghese, serie I 758, fol.
+					182r–193v.</note>.</p>
+				<p>Il Sig. Don Giovanni de’ Medici infermo prese il camino verso Vienna, il che ha
+					dispiacciuto qui grandemente. Gli suoi che son arrivati qui dicono che esso Don
+					Giovanni desse buoni ordini per la retirata, ma che sian stati malamente
+					esseguiti; si dice che esso Don Giovanni habbi perso la valuta di seimila scudi
+					in robbe toltoli dai soldati Ungari, che gli Turchi di Canisa non uscirno mai se
+					non il giorno seguente.</p>
+				<p>Intendo qui da heri in qua che l’Arciduca habbi rissoluto di mandar un
+						personaggio<note xml:id="FN5_276.2_06" type="footnote">Die dafür
+						ursprünglich bestimmte Person erkrankte, sodass Eh. Ferdinand diese durch
+						den Bischof von Bosnien, Lajos Újlaky, ersetzte: vgl. Nr. 284.2.</note>alla
+					S.tà di N. S. per darli conto di tutto il successo il qual potrebbe partire la
+					settimana seguente.</p>
+				<pb xml:id="P5_0000619"/>
+				<p>Il Sig. Paolo Savello<note xml:id="FN5_276.2_07" type="footnote">Paolo Savelli
+						(gest. 1632), Sohn von Bernardino Savelli. Er stand im Dienst der Familie
+						Aldobrandini und begleitete Kardinal Aldobrandini 1600 nach Frankreich.
+						Nachdem Del.fini dem erkrankten Gian Francesco Aldobrandini als
+						Oberbefehlshaber gefolgt war, legte Savelli seine Befehlsgewalt innerhalb
+						des päpstlichen Heeres zurück und diente fortan als Söldner. Generale
+						dell’armi von Ferrara, Bologna und Romagna (1605). Generalleutnant der
+						päpstlichen Truppen (1611), kaiserlicher Botschafter am Hl. Stuhl (1620):
+						vgl. ARGEGNI, S. 145f.; BRANCUCCI, Kanizsa, S. 26, 76–79, 81f.; BRUNELLI, S.
+						141, 148f. (Vgl. u. a.: Savelli an Aldobrandini, Turnisce, 1601 September 1,
+						ASV, Fondo Borghese, serie III 93 B2, fol. 10r; Serra an Aldobrandini,
+						Warasdin/Varazdin, 1601 September 3, ASV, Fondo Borghese, serie III 93 A,
+						fol. 132r–134v). Im Feldzug des Jahres 1601 hatte Savelli sechs Kompanien
+						von Fußsoldaten des päpstlichen Heeres unter seiner Befehlsgewalt: vgl.
+						Savelli an Aldobrandini, Agram/Zagreb, 1601 August 19, ASV, Fondo Borghese,
+						serie III 93 B2, fol. 5r; Copia de Gradi distribuiti, [o. D.], ASV, Fondo
+						Borghese, serie IV 232 Bis, fol. 41r.</note>è stato a vedermi et ha mostrato
+					desiderio grande di rappresentarsi quanto prima in Roma alla dispositione et
+					commando di V. S. Ill.ma et di dar conto com’esso non ha mai desiderato altro
+					che di mantenersi la gratia della S.tà di N. S., di V. S. Ill.ma et dell’Ecc.mo
+					Sig. Generale, che sia in gloria, con molte altre parole alle quali io ho
+					risposto brevissimamente essortandolo a mantenersi la gratia et la protettione
+					di V. S. Ill.ma et lasciar a dietro ogn’altro pensiero per procurar questo,
+					sapendo io quanti oblighi ch’egli deve tenere all’Ecc.mo Sig. Generale che meco
+					più volte et in più occasioni mostrò di amarlo et stimarlo tanto. Et esso se ne
+					ritornerà per la strada che faran le genti di S. B.ne.</p>
+				<p>Il Sig. Marchese Malatesta<note xml:id="FN5_276.2_08" type="footnote">Carlo
+						Felice Malatesta (1569–1634), Sohn von Markgraf Giacomo Malatesta. Er wurde
+						von Clemens VIII. zum Hauptmann der päpstlichen Wache ernannt und erhielt
+						1601 im Zuge des Rückeroberungsversuches der Festung Kanizsa die
+						Befehlsgewalt über sechs Kompanien von Fußsoldaten des päpstlichen Heeres.
+						Wie Paolo Savelli legte er sein Amt nach der Ernennung Flaminio Del.finis
+						zum Oberbefehlshaber der päpstlichen Truppen zurück und diente als Söldner.
+						In der Folge wechselte er in den Dienst Venedigs, aus dem er 1611 ausschied,
+						um General der päpstlichen Truppen in Avignon zu werden. Dieses Amt hatte er
+						bis 1633 inne: vgl. ARGEGNI, S. 134; BRANCUCCI, Kanisza, S. 26, 76–79, 81f.;
+						BRUNELLI, S. 145, 148–150 (Vgl. u. a.: Malatesta an Aldobrandini, Tabor,
+						1601 September 1, ASV, Fondo Borghese, serie III 93 B2, fol. 11r–v; Serra an
+						Aldobrandini, Warasdin, 1601 September 3, ASV, Fondo Borghese, serie III 93
+						A, fol. 132r–134v; Copia de Gradi distribuiti, [o. D.], ASV, Fondo Borghese,
+						serie IV 232 Bis, fol. 41r).</note>, col quale non ho mai havuto occasione
+					di trattare, né io come anch’esso l’ho procurato doppo questo suo accidente,
+					benché per inanzi solesse esser domestico mio come fu anco il Padre, esso si
+					trova qui et seguirà il Sig. Duca di Mantova per tutto questo viaggio.</p>
+				<p>Intendo poi che tutte le genti di S. S.tà son arrivate a Pettovia dove si trova
+					anco Monsig. Commissario<note xml:id="FN5_276.2_09" type="footnote">Giacomo
+						Serra: vgl. Nr. 259.1.</note>col Sig. Flaminio Delfini et gl’altri Capi et
+					quivi si<pb xml:id="P5_0000620"/> radunaranno per ristorar le genti al meglio
+					che potranno. Io farò qui sollecitare certe provisioni per loro, come carri,
+					viveri et altre commodità per gl’Infermi et per il lor viaggio, così
+					richiedendomi Monsig. Commissario con sue lettere.</p>
+				<p>Il ser.mo Arciduca nel trattar che ha fatto meco si è lodato delle genti di S.
+					S.tà et de suoi Capi, benché d’altri habbi in confidenza mostrato poca
+					sodisfattione et in particolare del Sig. Francesco del Monte.</p>
+				<p>Supplico V. S. Ill.ma a perdonarmi questo termine di scrivere così alla corrente
+					con l’intender lo stato mio aggravato da questi infelici avvenimenti, gli quali
+					mi accrescano il male et il mio desiderio antico di poter et dover servire a V.
+					S. Ill.ma in ogni altra parte che in queste misere Provincie, delle quali lo
+					stato è miserissimo. …</p>
+			</div>
+		</body>
+	</text>
+</TEI>

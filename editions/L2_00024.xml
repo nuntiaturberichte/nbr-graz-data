@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00024">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1582-09-08" n="1">1582-09-08</title>
+                <title level="a">24. Malaspina an Gallio - Augsburg, 1582 September 8</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 502rv, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00024">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1582-09-08" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00023.xml">23.
+                        Malaspina an Gallio - Augsburg, 1582 September 1</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00025.xml">25.
+                        Gallio an Malaspina - Rom, 1582 September 15</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00023.xml">23. Malaspina an Gallio -
+                        Augsburg, 1582 September 1</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00025.xml">25. Gallio an Malaspina -
+                        Rom, 1582 September 15</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Abreise der Fürsten vom Reichstag. Wenig Erfolge der innerösterreichischen
+                    Gesandten. Unterstützung Erzherzog Karls bei Durchführung des Religionsdekretes
+                    durch Papst, Bayern und Erzherzog Ferdinand. Bemühungen um Absetzung Hoffmanns.
+                    Baldige Rückkehr nach Graz.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="24">Malaspina an Gallio - Augsburg, 1582 September 8</head>
+            <div>
+                <p>Poiché la dieta è quasi finita<note xml:id="FN2_00024_01" type="footnote">Der
+                        Reichstagsabschied wurde am 20. September publiziert (Hansen,
+                        Nuntiaturberichte III/2, S. 556).</note>et li principi de l’una et l’altra
+                    religione partiti et gli oratori de le provintie de l’arciduca non hanno né
+                    presentato scritto alcuno né havuto audientia da S. M.tà né da quelli principi,
+                    pare che con fondamento si possa far certo giuditio che si partiranno con poca
+                    loro satisfactione. <note xml:id="FN2_00024_02" type="footnote">Vgl. unten Nr.
+                        26.</note>Hora si attende a disponere la M.tà de l’imperatore et de’
+                    ministri a voler pigliar risolutione sopra quello che in viva voce et in scritto
+                    li è stato da me proposto con participatione et approbatione de l’ill.mo legato.
+                        <note xml:id="FN2_00024_03" type="footnote">Siehe oben Nr.
+                    21.</note>Ricordai l’altro giorno a S. S. Il.ma che sarebbe stato espediente che
+                    la S.tà di N. S.<pb xml:id="P2_0000034"/> havesse scritto un breve a l’arciduca,
+                        <note xml:id="FN2_00024_04" type="footnote">Schreiben nicht
+                    gefunden.</note>efficace, confortandolo a voler essequire il decreto publicato,
+                    dandole quasi ferma speranza che quando per tal causa l’A. S. incorresse in
+                    qualche sinistro che la S.tà S. non è per mancarli, come la si prometta che
+                    debba fare ancora et l’arciduca Ferdinando et il duca di Baviera, similmente
+                    mandarne un altro al duca et a l’arciduca, essortandolo a voler animare et
+                    aiutare il fratello, <note xml:id="FN2_00024_05" type="footnote"/>et sopratutto
+                    compiacersi di trovarsi presente quando si celebrarà la dieta.<note
+                        xml:id="FN2_00024_06" type="footnote"/> Et perché mons. ill.mo mi ha
+                    significato non haver toccato ne le sue tutti questi punti,<note
+                        xml:id="FN2_00024_07" type="footnote"/> mi è parso di proponerli
+                    humilissimamente a V. S. Ill.ma, il che faccio tanto più volentieri, perché il
+                    negotio è ridotto a un termine che sì come a mio parere per difficile et
+                    impossibile che sia giudicata la cura d’esso, al presente pare che se ne possa
+                    haver qualche buona speranza, così non è forse se non bene il non lasciar cosa
+                    intatta, acciò la speranza conceputa non rieschi vana.</p>
+                <p>Circa a l’Hoffman credo che l’ill.mo legato si risolverà di mandare uno,<note
+                        xml:id="FN2_00024_08" type="footnote"/>al quale non lasciarò di provedere
+                    del viatico, conforme a quanto giudicarà S. S. Ill.ma.</p>
+                <p>Spero che l’arciduca et la parte de’ catholici restaranno molto consolati
+                    intendendo quanto si è operato qua.</p>
+                <p>lo mi partirò per Gratz fra pochi giorni per ritrovarmi presente quando il sig.
+                    duca di Baviera ci sarà anch’ esso,<note xml:id="FN2_00024_09" type="footnote"
+                    />il quale pare che non pensi di fermarvisi molto . . . </p>
+            </div>
+        </body>
+    </text>
+</TEI>

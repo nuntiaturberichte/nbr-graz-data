@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00308">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1585-10-28" n="1">1585-10-28</title>
+                <title level="a">308. Caligari an Rusticucci - Graz, 1585 Oktober 28</title>
+                <author ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 68, f. 256r, Orig.; Antwort am 17.
+                            November.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00308">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                        Andrea</persName>
+                    <date when="1585-10-28" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/128766026">Rusticucci, Girolamo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_025">Caligari,
+                        Giovanni Andrea - Rusticucci, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00307.xml"
+                        >307. Caligari an Rusticucci - Graz, 1585 Oktober 21</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00309.xml">309.
+                        Caligari an Rusticucci - Graz, 1585 Oktober 28</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_025" target="L2_00307.xml">307. Caligari an
+                        Rusticucci - Graz, 1585 Oktober 21</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_025" target="L2_00309.xml">309. Caligari an
+                        Rusticucci - Graz, 1585 Oktober 28</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Macht auf das Fehlen eines Artikels über das Hl. Öl im Römischen Katechismus
+                    aufmerksam und schlägt dessen Aufnahme vor.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="308">Caligari an Rusticucci - Graz, 1585 Oktober 28</head>
+            <div>
+                <p>Mentre io ne la mia chiesa leggevo et dichiaravo il catechismo Romano al mio
+                    clero m’accorsi che trattandosi del sacramento del batesmo et di tutte le sue
+                    circonstantie non si faceva mentione alcuna de l’oglio santo de catechumini, la
+                    quale cosa mi parve strana poiché dal tempo de gli apostoli in qua
+                    successivamente per tutti li secoli ne è stata fatta degna et particolare
+                    mentione da li dottori sacri. Et come V. S. Ill.ma sa, la santa chiesa catolica
+                    Romana, l’ha usato et usa nel batesmo, ne la coronatione de gli imperatori,
+                    imperatrici, re, regine, chiese, altari et preti; et ogni anno nel giovedì santo
+                    si rinova et consacra da tutti li vescovi con grande solennità et cerimonia. Et
+                    ciò tanto più m’increbbe quanto io sappeva che gli heretici moderni non solo
+                    haveano messo in controversia tutti gli ogli santi, ma gli haveano anco
+                    calunniati et reietti totalmente. Et sapendo io che il sig. cardinale Sirleti
+                    bona memoria era stato capo de la congregatione, che compilò questo libro,<note
+                        xml:id="FN2_00308_01" type="footnote">Für die Ausarbeitung des römischen
+                        Katechismus wurde eine eigene Kommission eingesetzt unter dem Vorsitz von
+                        Kardinal Sirletto (Pastor, Geschichte der Päpste X, S. 148ff.).</note>tenni
+                    modo et via che egli ne fosse avertito. Il che se bene da prima lo conturbò,
+                    confessò però l’errore et disse che si poteva emmendare con trattare di novo
+                    questo articolo inserirlo al luogo suo et di poi fare ristampare con li medesmi
+                    charatteri et data il catechismo con questa gionta et con ogni secretezza. Io
+                    che non ho<pb xml:id="P2_0000444"/> mai inteso che sin qui sia stato corretto
+                    questo fallo udendo hora la morte del soddetto sig. cardinale<note
+                        xml:id="FN2_00308_02" type="footnote"> Kardinal Sirletto starb am 6. 10.
+                        1585 (Hierarchia Catholica III, S. 41).</note>l’ho voluto ricordare di novo
+                    humilmente a la S.tà di N. S., accioché se le pare che il caso lo meriti faccia
+                    provedere prima che gli heretici se ne accorgano, perché havendo tralasciato noi
+                    di parlare di questo oglio santo in quel libro dove si ragiona accuratamente di
+                    tutti li s.mi sacramenti et ogli, oltre il resto essi darebbono ad intendere a
+                    li populi che noi sentessimo con loro et fossimo cascati ne la loro perversa
+                    opinione allegando contra di noi il medesmo nostro catechismo Romano . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

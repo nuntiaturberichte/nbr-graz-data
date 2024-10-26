@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00062">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-01-22" n="1">1581-01-22</title>
+                <title level="a">62. Malaspina an Gallio - Graz, 1581 Jänner 22</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 245r—240r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00062">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-01-22" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00061.xml">61.
+                        Malaspina an Gallio - Graz, 1581 Jänner 14</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00063.xml">63.
+                        Gallio an Malaspina - Rom, 1581 Jänner 28</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00061.xml">61. Malaspina an Gallio -
+                        Graz, 1581 Jänner 14</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00063.xml">63. Gallio an Malaspina -
+                        Rom, 1581 Jänner 28</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Auf Rat des neuen kaiserlichen Botschafters in Rom sowie der landesfürstlichen
+                    Räte Aufschub der Durchführung des Religionsdekretes nach Appellation der
+                    evangelischen Stände an Kaiser. Feiern und neue Forderungen der Häretiker.
+                    Unzufriedenheit der<pb xml:id="P1_0000178"/> Prälaten. Suche nach neuen Mitteln
+                    gegen Forderungen der Häretiker. Zahlreiche Konversionen. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="62">Malaspina an Gallio - Graz, 1581 Jänner 22</head>
+            <div>
+                <p>Questi provinciali, havendo veduto che S. A. non si lasciava piegare per le lor
+                    fitte inginochiature<note xml:id="FN1_00062_01" type="footnote">Siehe Nr.
+                        60.</note>né gravi minaccie, si risolsero di domandare dilatione circa
+                    l’esecutione del decreto, insin tanto che havessero communicato con S. M. Ces.
+                    le lor ragioni et, se bene S. A. è privileggiata per esser di casa d’Austria et
+                    perciò non è tenuta a dare conto delle sue attioni al’imperio. Nondimeno essendo
+                    stato persuasa dalli suoi consiglieri che, non havendo lei in pronto aiuto
+                    alcuno, era bene di condescendere a questa lor petitione, <note
+                        xml:id="FN1_00062_02" type="footnote">Am 16. Jänner suspendierte Erzherzog
+                        Karl die Exekution des Religionsdekretes vom 10. Dezember 1580 (Loserth, FRA
+                        II/50, S. 190—192).</note>massime che poteva esser sicura che ogni principe
+                    le haverebbe dato ragione et capitando qua in quel’hora il sig. Vito
+                    d’Orrimberga, destinato imbasciatore di S. M. Ces. a N. S., <note
+                        xml:id="FN1_00062_03" type="footnote">Siehe Nr. 68, Anm. 6. Veit von
+                        Dornberg war nach Ansicht des venezianischen Gesandten am Kaiserhof damals
+                        der erste Ratgeber Erzherzog Karls (Venedig AS, Dispacci Germania, filza 7,
+                        f. 136v).</note>con il quale S. A. fece communicare il tutto et il parere di
+                    quel signore, fu che si doveva ringratiar Dio che li heretici havessero
+                    domandata questa dilatione, la quale altrimenti S. A. era sforzzata a
+                    richiederla lei, con poca reputatione sua per haver così poche forzze. Si fece
+                    risolutione che il sig. Vito et li consiglieri venissero da me et mi
+                    persuadessero a contentarmi della dilatione. Io pigliai un poco di tempo a
+                    rispondere et communicai il negotio con il stato ecclesiastico, al quale
+                    dispiaque infinitamente il mostrare questa debolezza et dissero che costoro non
+                    si sarebbeno aquietati. Venero doppo li consiglieri da me per la risposta. Io le
+                    dissi ch’havendo S. A. desgravata la conscienza sua con loro, che io molto
+                    maggiormente lo dovevo fare, come quello che essendo forastieri non potevo
+                    giudicare delli pericoli, che si allegavano esser nella esecutione et che però,
+                    se bene mi promettevo della lor pietà et zelo, nondimeno le volevo
+                    incidentemente dire che nel particolar che si trattava erano diversi pareri et
+                    che però, se loro credevano che S. A. potesse far di manco di dar la dilatione,
+                    che erano tenuti sotto gravissima indignatione del’ ira do Dio et di molte
+                    censure ecclesiastice di dirlo, quando ancora realmente sentissero il contrario,
+                    che io mi aquietavo. Si risolsero tutti che non si poteva far di manco che se S.
+                    A. havesse havuto<pb xml:id="P1_0000179"/> una quantità di danari in pronto,
+                    come da principio domandò,<note xml:id="FN1_00062_04" type="footnote"> Vgl. Nr.
+                        16, S. 67, und Nr. 24, S. 89.</note>che non solo haverebbeno esequito il
+                    decreto, ma revocato il resto. Dio sa se è vero. Data la dilatione li heretici
+                    facero feste, prediche, processioni, lemosine publiche et doppo pochi giorni
+                    detero una scrittura nella quale domandavano assicuratione perpetua. Poi hanno
+                    cominciato a far instanza che si rimetti alla pacificatione generale, che si
+                    farà in materia di religione, o almeno alla dieta generale del’ imperio <note
+                        xml:id="FN1_00062_05" type="footnote">Schreiben der Stände Augsburger
+                        Bekenntnisses vom 18. Jänner 1581 (Loserth, FRA II/50, S. 196—198).</note>et
+                    al presente il negotio sta in questo termine con molta poca sodisfattone di
+                    tutti li ecclesiastici, li quali dubitano che il fine di questa dieta non habbia
+                    da essere, come delle altre, con lor danno, per essersi scoperti tanto contrarii
+                    alli provinciali. Siamo hora tutti uniti per ritrovar forma che non si revochi
+                    il decreto et che con reputatione del principe si dia la dilatione et doppoi
+                    consultare così S. M. Ces. et con li parenti et con S. Stà et credo ci sarano
+                    due vie da humiliare costoro con il tempo: una giuridica, l’altra con forzza,
+                    però per ancora non sono ben informato, ma si darà relatione a suo tempo
+                    maturamente di tutto quello che si potrà fare. A me dispiace che S. A. fugge
+                    hora la separatione delli stati, rimedio che, come V. S. Illma sa, è stato
+                    approvato nella consulta di Baviera. Ma io mi accorgo che si desidera bene di
+                    perfettionare questo negotio, però in forma tale che non si mettino a pericolo
+                    alcuno, la qualcosa è a giudicio di ogn’uno impossibile, o procedersi per viam
+                    juris o per via regia. Io penso che li heretici, vedendo il frutto grandissimo
+                    che solamente il nome del decreto ha fatto, si siano ben accorto che presto
+                    anderà in fumo la lor falsa religione, poiché S. A. mi ha detto che sei milia
+                    anime in una diocese si sono convertite et hanno supplicato per amor de Dio che
+                    si dia rimedio che non siano sforzzate di vivere hereticamente, et alcuni
+                    cittadini di Gratz cominciano a venire alla nostra predicha, ma se le cose
+                    anderano male tornerano al vomito...</p>
+                <p>Da quello che di sopra ho detto, si può facilmente comprendere che se li heretici
+                    non hanno voluto aquietarsi concedendoli il principe quello che domandano, che
+                    molto minormente l’havrebbono fatto se noi, senza esser ricercati da loro, li
+                    havessimo offerto partiti, come alcuni volevono et io ho fatto per altre mie
+                    sapere a V. S. Illma, ma S. A. sta molto ferma in non voler mutare il decreto,
+                    alegando che sarebbe indignità sua per le parole che ha detto alli provinciali
+                        et<pb xml:id="P1_0000180"/> però non dubito punto che sia per consentire
+                    che, in suo nome, le sia proposto mezzo alcuno et inclina a questo, che il
+                    decreto stia saldo et che circa la esecutione d’esso si dia dilatione.<note
+                        xml:id="FN1_00062_06" type="footnote"> Am 26. Jänner erließ Erzherzog Karl
+                        eine Erläuterung zur Einstellung des Dekretes vom 10. Dezember 1580 bis auf
+                        einen nächsten Landtag, damit beide Parteien bis dahin darüber weiter
+                        nackdenken und sich an den Kaiser oder auch an andere um Rat wenden könnten
+                        (Loserth, FRA II/50, S. 209 f.).</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

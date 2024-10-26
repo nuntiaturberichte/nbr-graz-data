@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00137">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1582-01-24" n="1">1582-01-24</title>
+				<title level="a">137. Malaspina an Gallio - Graz, 1582 Jänner 24</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+							Possevino; 1580-1582</title>
+						<idno type="ISBN">3-7001-0023-X</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1973</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+								<persName>Santifaller Leo</persName>
+								<persName>Schmidinger Heinrich</persName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="1">1. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="492">492 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 100, f. 408r—412v, Orig.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L1_00137">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1582-01-24" n="1"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L1_00136.xml"
+						>136. Malaspina an Gallio - Graz, 1582 Jänner 16</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L1_00138.xml">138.
+						Malaspina an Erzherzog Karl - Graz, 1582 Jänner 31</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00136.xml">136. Malaspina an Gallio -
+						Graz, 1582 Jänner 16</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L1_00140.xml">140. Gallio an Malaspina -
+						Rom, 1582 Februar 3</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Nach mäßigenden Ratschlägen des Kaisers im Religionsgeschäft zunächst Belassung
+					des Adels im bisherigen Zustand, aber vollständige Verfügung des Landesfürsten
+					über die Städte in Religionsangelegenheiten, Hinderung des Volkes am Besuch
+					häretischer Kirchen und Schulen und Vorsorge gegen Usurpation von Pfarren unter
+					dem Titel des Vogteirechtes durch häretischen Adel. Gebotene Vorsicht mit
+					päpstlichen Hilfsgeldern. Möglichkeit der Überweisung der Differenzen zwischen
+					Erzherzog Karl und Adel auf bevorstehenden Reichstag.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="137">Malaspina an Gallio - Graz, 1582 Jänner 24</head>
+			<div>
+				<pb xml:id="P1_0000371"/>
+				<p>Ne la risolutione, che nel negotio de la religione dopo d’haver inteso il parere
+					di S. Mtà Ces.<note xml:id="FN1_00137_01" type="footnote">Vgl. Nr. 136, S. 368
+						f.</note>mi è convenuto fare, ho havuto principalmente la mira a dui capi
+					principali, cioè provedere di presente quanto humanamente si può dal canto mio,
+					acciò non sia lassato, ma proseguito il negotio et in forma che se ne possa
+					sperare qualche buon essito ; et secondariamente prepararmi per poter pigliare
+					qualche partito in evento che non si ottenga ne la presente dieta ciò che si
+					pretende, accioché essendo quello che si tratta di tanto servitio di Dio, non
+					resti totalmente desolato et distaccata la prattica. Circa il primo, se bene io
+					per quelli rispetti che più a basso riferirò, non ho voluto dopo la
+					consultatione di S. Mtà stringere S. A. a mettere il presidio né fare la
+					separatione, <note xml:id="FN1_00137_02" type="footnote">Vgl. Nr. 135, S.
+						365.</note>nondimeno accorgendomi che alcuni ministri<note
+						xml:id="FN1_00137_03" type="footnote"> Malaspina meinte unter diesen
+						Ministern wahrscheinlich nicht nur Laien, sondern auch Prälaten (Nr.
+						139).</note>et li più accetti et quelli che sempre hanno riprovato quelli
+					mezi trionfavano che l’imperatore fosse stato del loro parere et dubitando che
+					gli heretici non fossero per penetrare quale sia la mente di S. Mtà, nel qual
+					caso actum esset d’ogni speranza di ottenere da loro cosa alcuna, ho fatto un
+					officio efficace et fondato con ragioni assai essentiali, accioché S. A., se
+					bene realmente non vuole attentare di mettere presidio né fare la separatione,
+					mostri però d’esser risoluta di farlo in caso che non sia obedita la volontà et
+					dichiaratione di lei, la quale hora siamo in procinto di publicare. Et questa
+					sua volontà l’esponghi con parole efficaci et chiare in pleno consilio, et in
+					vero questo mi pare <pb xml:id="P1_0000372"/>il meglio et più espediente modo
+					per ogni rispetto che si possa usare al presente. S. A. mi ha compiacciuto et
+					santamente promesso di volerlo fare et si è allargato meco assai con tante
+					dimostrationi di vera pietà et filiale divotione verso S. Stà, accompagnando il
+					suo ragionamento con abondanza di lachrime et confidenza verso la persona mia,
+					che ne sono restato molto consolato. Col sopradetto preparatorio, col quale mi
+					vengo ad assicurare che qualche mal spirito non sia per animare gli heretici con
+					l’occasione de la risposta di S. Mtà a star duri et ostinati, ho giudicato esser
+					necessario di accommodarsi, se bene più tosto in apparentia che in essistentia a
+					la dispositione che, conforme al tempo, ritrovo in S. A., la quale vorrebbe
+					quanto più può inherire al consiglio di S. Mtà ne la dichiaratone che deve
+					publicare a le provincie. Et così, havendo io prima implorato l’aiuto divino et
+					maturamente ponderato dove consiste realmente l’essentiale modo di fare minare
+					la machina, che’l maladetto seme di Luthero con la deprovata et condannata sua
+					dottrina ha edificato in queste provincie, mi sono ristretto che solamente per
+					hora s’attentino dui capi. Il primo è la riservatone di tutte le città a la
+					dispositione di S. A. quanto a la religione et lassare li nobili intatti nel
+					pristino stato,<note xml:id="FN1_00137_04" type="footnote"> Am 9. März 1582
+						zeigte Erzherzog Karl dem steirischen Landtag an, daß er in
+						Religionsangelegenheiten die Herren und Ritter bei den früher gewährten
+						Konzessionen belassen werde, die Bürger jedoch ausschließlich zur
+						katholischen Religion verhalten seien (Loserth, FRA II/50, S.
+						274—279).</note>et questo è di tanta consequenza, che prohibendosi a li
+					popoli, che non possano né intrare ne la chiesa degli heretici, né battezzare li
+					figliuoli secondo il rito loro, né mandarli a le scole d’essi, né sentire le
+					prediche de’ loro settarii, certo in breve si vederà una mutatione molto
+					fruttuosa et li predicatori, non havendo li cittadini né il popolo, non
+					predicaranno con tanto fausto, essendo che la nobilità di questi paesi vive di
+					continuo ne li castelli, non in città. Ma questa sola attione, quando ancora si
+					ottenesse et si mettesse in essecutione, non pare a me sofficiente per poter
+					promettere a S. Bne sicuramente un sollevamento essentiale in favore de la
+					religione catholica, se secondariamente non si provede che li nobili non si
+					usurpino le parochie sotto il pretesto del jus advocatiae. Perché se bene loro
+					in rare parochie hanno il juspatronatus, <note xml:id="FN1_00137_05"
+						type="footnote">Das Patronatsrecht eines Gutteils der Pfarren besaßen
+						Landesfürst und Prälaten, während die Vogtei oft benachbarte weltliche
+						Herrschaften, die damals meist evangelischen Adeligen gehörten, innehatten
+						(z. B. Haus, Gröbming, Irdning, Lind, Kapfenberg, Semriach und Leutschach:
+						Erläuterungen zum histor. Atlas III/l, S. 41, 42, 43, 62, 77, 84 und
+						111).</note>nondimeno, essendo in queste provincie da Massimiliano I in qua
+						stato<pb xml:id="P1_0000373"/> introdotto che l’advocato dia la possessione
+					temporale, costoro, che sono di diversa religione, non vogliono darla a li
+					nominati et confirmati da li catholici, allegando che la conscienza non glielo
+					detta, anzi che pensarebbono di peccare gravemente. Et se bene questo punto si
+					potrebbe per la via ordinaria de la giustitia accomodare, però havendo questi
+					nobili non so che concessioni dal principe, non si può sperare per la via
+					canonica di ottenere cosa in avor nostro, et senza questo per molto che qua si
+					ottenesse, li prelati, a’ quali sono di grandissimo pregiuditio le concessioni
+					del principe, in questa parte non restarebbono né edificati né sodisfatti di me.
+					Al che io devo haver molta consideratione, essendomi loro stati sin’hora fedeli
+					et havendo ricevuto la riforma assai austera con obedienza, ancorché instigati a
+					voler recalcitrare et concorrendo con questo rispetto il servitio di Dio et la
+					salute de le anime, essendo impossibile, se non si ha le parochie ridurre a la
+					vera cognitione quelli che sono sedotti, poiché come possono intendere se non li
+					è predicato il verbo di Dio, et in che modo si potrà loro predicare, se non si
+					possono mandare li pastori a tal effetto, escludendo per ogni via li heretici
+					che non si possa fare. S. A. per le sudette cause ha già in ordine la
+					dichiaratione che vuole publicare a li nobili, la quale contiene quello che di
+					sopra ho riferto. Et questo è quanto di presente si è potuto operare et quello
+					che mi occoreva, circa il primo punto proposto da me nel principio. <note
+						xml:id="FN1_00137_06" type="footnote">Wahrscheinlich wie Anm. 4.</note>
+				</p>
+				<p>Hora, venendo al secondo, se bene pareva che fosse per bastare ragionevolmente il
+					dar parte a V. S. Illma insino a quel termine, che di sopra ho fatto, et andar
+					poi avvisando, secondo che portasse il servitio del negotio ne la trattatione
+					d’esso, nondimeno non mi è parso di osservare hora tal regola, perché o in
+					questa dieta si ottenirà quello che si pretende o no. Se si ottiene, non posso
+					negare che quello che son per dire non sia per essere superfluo, ma non si
+					havendo l’intento, che si pretende, forse sarà stato necessario l’haver
+					prevenuto di far sapere quello che’l occassione sola di esser qua presente mi fa
+					credere esser espediente di avvisare a li absenti.</p>
+				<p>Nel negotio de la religione mi pare che hormai si possa tener per legitime et ben
+					fondate massime le seguenti : o qua si ha animo intentione et desiderio di
+					perfettionarlo o no, et consequentemente o la consultatione, che così al ultimo
+					si è voluto fare con S. Mtà Ces.,<note xml:id="FN1_00137_07" type="footnote"
+						>Vgl. Nr. 135, S. 366.</note>è stato con misterio indrizzata a voler con
+					tale mezo rappresentare il navilio ripieno di tante fessure, che sia impossibile
+					a quale si voglia <pb xml:id="P1_0000374"/>perito mastro di acconciarlo in forma
+					che possa resistere a borasca alcuna, et che perciò, fermandosi in qualsivoglia
+					loco, siano escusati coloro che hanno cura di guidarlo. In qual caso, per gran
+					riparo che si faccia, sarà tenuto da loro per poco sofficiente overo si è fatta
+					la consultatione, perché così si ha realmente giuditio convenirsi. E poiché il
+					fare certo giuditio di cose che sono et da li capi et da li membri tenuti in
+					gran secreto è cosa incerta et pericolosa et solo Dio S. N., cui omnis lingua
+					loquitur et cor patet, può sapere la verità, in ogni evento a mio giuditio si
+					può sia il fine che loro pretendono et procurano quale esso si voglia per la
+					buona et essentiale promotione del negotio governarsi con alcune considerationi,
+					tra le quali tengo per essentiali et vere le seguenti : che S. Stà non solo non
+					è tenuta, ma per urgentissime cause non deve in modo alcuno talmente pigliarsi
+					cura di una tale impresa, quando ancora fosse dal principe invitata et stimolata
+					et si vedesse che realmente fosse pronto ad essibire la vita la roba et il resto
+					per servitio de la religione senza l’aiuto et consiglio de l’imperatore de’
+					parenti et de’ vicini, <note xml:id="FN1_00137_08" type="footnote">Vgl. Nr. 87,
+						S. 237.</note>non ostante che realmente si toccasse con mano che li mezi
+					proposti da S. Mtà non fossero per essere sofficienti per conseguire il fine che
+					si pretende. Et le cause che movono a fare tale risolutione militarebbono forse
+					con qualsivoglia ben animato principe, ma principalmente con questo per la
+					natura sua et qualità del suo consiglio et si deve havere inanzi a gli occhi che
+					li principi, con quali S. A. ha consultato li aiuti ottenuti da S. Bne, se bene
+					alcuni hanno approvato et confortato il principe a seguire il consiglio di S.
+					Stà nondimeno niun di loro ha fatte offerte se non generali. <note
+						xml:id="FN1_00137_09" type="footnote">Vgl. Nr. 10S, S. 305, und Nr. 119, S.
+						328.</note>Et presupponendo S. Mtà, la quale non si offerisce né in specie
+					né in genere, che’l mettere il presidio et il fare la separatione di stati sia
+					occasione di tumulto, se a requisitione di Stà S. si tentassero tali mezi et non
+					riuscissero felicemente et se per caso in apparentia opure in essistentia
+					venisse a tumultuare il popolo o la nobiltà, come forse qua a bel studio si
+					procurarebbe da alcuni, S. Bne insieme con la Sede Apostolica si tirarebbe una
+					spesa adosso intollerabile et l’imperatore con gli altri principi si
+					escusarebbono et qua esclamarebbono sino al cielo, essaggerando che contra ’l
+					senso de l’imperatore hanno seguito il consiglio di Stà S., instigati et quasi
+					violentati da lei et non so qual somma di aiuto in tal caso fosse loro per
+					bastare.</p>
+				<p>Per le quali consideratione mi sorge una sospitione forse non legiermente
+					fondata, che qua si va a camino col modo di procedere <pb xml:id="P1_0000375"
+					/>che si tiene di volere o col mezo de l’imperatore o per quello di S. A. sola
+					far o instantia o cader il negotio, in modo che S. Stà si dichiari circa
+					l’oblatione che ha in genere fatto di aiutare S. A. in caso che gli heretici non
+					volessero acquetarsi a la volontà di lei et si mostrassero inobedienti, poiché
+					sempre questo li è stato a core. Et in tale caso io, con ogni debita humiltà,
+					ricordo che non si debba in modo alcuno allargare le proferte fatte, ma che ne
+					le risposte si procuri più tosto che venghino in cognitione di riconoscere il
+					benefitio et aiuto già essibitoli, che il concederli alcuno di novo et si ha un
+					pretesto grande et osservato ne la chiesa di Dio da sommi pontefici a li
+					vestigii de’ quali, devendo inherire S. Stà, non pare che debbia essere né
+					auttore né consigliere, acciò si pigli partito di smorzare l’heresie per mezo di
+					quelli rimedii che da l’imperatore et altri sono tenuti pericolosi per causare
+					origine di guerra; il qual rispetto non havrebbe havuto loco per la parte di S.
+					Bne quando l’imperatore et questo principe da sé havessero preso più un partito
+					che un altro col mezo di alcuni rimeddii essentiali, per bene austeri che
+					fossero. Ché in tal caso S. Stà non havrebbe lassato, sì come ha fatto,
+					oblatione di aiutarli, ma che dopo d’haver per ogni via cercato di persuadere
+					che quello che s’è proposto et concluso ne la dieta di Baviera, <note
+						xml:id="FN1_00137_10" type="footnote">Wahrscheinlich ist die Münchner
+						Konferenz von 1579 gemeint.</note>non è indrizzato a dar occasione di
+					ribellione et che non ostante questo vogliono havere altro senso. Pare che molto
+					giustificatamente si possa hormai lasciare di stringere S. A. et li consiglieri
+					a voler mettere il presidio et fare la separatione, massime havendo io in voce
+					et in scritto sodisfatto al debito mio sofficientemente. <note
+						xml:id="FN1_00137_11" type="footnote">Siehe Nr. 123, S. 338, und Nr. 124, S.
+						343.</note>
+				</p>
+				<p>Ma hora si appresenta un altro dubio : se in questa dieta non si ottiene cosa
+					alcuna, si deve forse o abbandonare il negotio overo seguitare con indignità il
+					tentare di dieta in dieta et non perfettionare mai niente. A me pare che né
+					l’uno né l’altro si debba fare, perché l’abbandonare questo negotio per dui
+					potissime cause si deve fugire. La prima è che se li heretici vederanno che S.
+					A., dopo tante consulte, non può far niente, loro diventeranno tanto insolenti
+					che oltre al vilipendio che faranno di questo principe, estingueranno le
+					reliquie de’ catholici totalmente. La seconda è che S. A. è andata a la giornata
+					a contemplatione di S. Stà facendo in particolare alcune cose molto essentiali
+					in sollevatione de la religione, et non è dubio che seguirà, il che è di
+					grandissima consideratione vedendosi in ogni loco, ma princpsalmente qua che la
+					religione catholica si va pur d’anno in anno <pb xml:id="P1_0000376"
+					/>augumentando, <note xml:id="FN1_00137_12" type="footnote"/>et se hora si
+					lassasse la prattica ogni cosa andarebbe in ruina et però in ogni evento bisogna
+					attendere con gran studio di conservar quello che si ha et più tosto cercare di
+					augumentarlo che permettere che si sminuisca. Et questo si ottenirà et con
+					l’animare il principe a perseverare ne la dispositione, che gli è buona ne le
+					cose particolari et con la riforma.</p>
+				<p>Et acciò gli heretici credano che’l negotio principale si vuole proseguire, se
+					bene loro si mostrassero inobedienti et qua non si giudicasse bene il tentare
+					mezo alcuno sofficiente o reale, in tale caso non si potendo per nessuna via
+					fare cosa alcuna buona, io andavo considerando che sarebbe forse espediente con
+					l’occasione de la dieta imperiale, che sarà tra pochi mesi,<note
+						xml:id="FN1_00137_13" type="footnote"/>proponer che si rimettano le
+					difficoltà et differenze tra S. A. et la nobiltà a la dispositione de la dieta,
+					parendomi che per la determinatione fatta da l’imperio che l’essercitio de l’una
+					et l’altra religione sit penes principes et per altri rispetti si possa sperare
+					la sentenza in favor nostro. Et quando si ottenesse, non sarebbe difficoltà
+					niuna ne la essecutione, et perché se questa dieta si fornisse et questo non
+					fosse stato concluso, bisognarebbe, per trattarlo, aspettare un’altra dieta et
+					ne l’interim la dieta imperiale sarà già conclusa. Io desidero che V. S. Illma,
+					se così le parerà espediente, mi avvisi con quella maggiore brevità che si potrà
+					come mi devrò governare.<note xml:id="FN1_00137_14" type="footnote"> Siehe Nr.
+						142, S. 383.</note>Et perché il fine de la dieta è incerto et può esser in
+					brevissimo tempo et può ancora esser altrimenti, in caso di necessità non mi
+					sovvenendo altro mezo migliore, mi appigliarò a questo, guardandomi però di
+					proponerlo io, ma terrò mezi che’l principe istesso lo faccia, se però le
+					piaccerà questo mio pensiero et mi governarò in questo fatto, a me molto
+					difficile et pericoloso, quando la necessità mi sforzarà a pigliare partito che
+					non sarò tenuto io qua né auttore né instigatore d’esso...</p>
+			</div>
+		</body>
+	</text>
+</TEI>

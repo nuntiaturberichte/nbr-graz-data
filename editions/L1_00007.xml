@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1580-09-29" n="1">1580-09-29</title>
+                <title level="a">7. Malaspina an Gallio - Graz, 1580 September 29</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 35r—36r, Orig.<lb/>Ebenda, f. 34rv,
+                            Duplikat.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00007">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1580-09-29" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00006.xml">6.
+                        Malaspina an Gallio - Graz, 1580 September 28</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00008.xml">8.
+                        Malaspina an Orazio Malaspina - Graz, 1580 September 30/Oktober 1</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00006.xml">6. Malaspina an Gallio -
+                        Graz, 1580 September 28</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00009.xml">9. Malaspina an Gallio -
+                        Graz, 1580 Oktober 1</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Antrittsaudienz bei Erzherzog Karl und Erzherzogin Maria. Verschiebung der
+                    Visitation in Diözese Aquileia wegen drohender Gefahr bei Wahi des Bischofs von
+                    Bamberg.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="7">Malaspina an Gallio - Graz, 1580 September 29</head>
+            <div>
+                <p>S. A. oggi me ha dato audientia tanto benignamente, che non lo potrei esplicare,
+                    et son stato accompagnato molto decentamente, come si conviene a ministro di S.
+                    Stà. In questo primo ingresso non ho voluto mettere mano a negotio alcuno, ma
+                    solamente ho fatto li debiti complimenti et presentato il breve<note
+                        xml:id="FN1_00007_01" type="footnote">Nr. 2.</note>et, inherendo alla
+                    instruttione di V. S. Illma, ho rapresentato a S. A. la paterna charità di S.
+                    Stà verso la persona sua et la stima che S. Bne fa della singolar pietà, bontà
+                    et valore del A. S., et insieme il desiderio che tiene di giovare a lei et a soi
+                    populi in tutto quello che possa, et cose simile, et che per questi rispetti S.
+                    Bne si era risoluta di mandare nontio appresso la persona di S. A. L’assicurai
+                    ancora che, in quello che tocha alla persona mia, mai son per haver altro fine
+                    in questo ministerio che l’honore et gloria de Dio Signor Nostro, et che
+                    procurarò sempre di augumentare et conservare, per quanto si estenderanno le mie
+                        <pb xml:id="P1_0000023"/>forze, questo reciproco amore che è tra S. Stà et
+                    S. A., che di questa manera so che et farò cosa grata a S. Bne et insieme darò
+                    maggior occasione a S. A. di dover aiutare, protegere et abbrazzare con ogni
+                    conato tutto quello che io trattarò per conservatione et aumento della religione
+                    catholica in questi stati.</p>
+                <p>S. A. doppo d’havermi significato con molto affetto la singular devotione et
+                    figliale amore, ch’egli come humillissimo figlio et servo portava a S. Stà, mi
+                    disse di quanta sodisfattione et consolatione li era stata la resolutione che S.
+                    Bne haveva fatta di favorirlo con tenere un nontio in queste parti, che havesse
+                    poi quelli fini che io havevo detto etc. ; mi soggionse poi che egli stava nel
+                    purgatorio, vivendo tra queste genti, et che io l’avrei veduto et che era degno
+                    di compassione, et che mi havrebbe poi parlato a longo, et due volte mi replicò:
+                    La vederà le cose come passano. Io cercai sucintamente con efficaci et
+                    sustantiali parole di animarlo, et mi licentiai.</p>
+                <p>Feci similmente li debiti complimenti con la Serma arciducessa, et perché questi
+                    padri me havevano detto che aiutava grandemente la religione catholica, in nome
+                    di S. Stà commentai il servitio suo proposito et zelo et esortai a seguitare di
+                    bon animo, et le dissi che se Judit per haver liberato il suo populo dalla
+                    tirania d’un tirrano, che al fine non poteva far altro che mettere in servitù li
+                    corpi e ammazzarli, meritò tanta laude, quanto maggiore sarebbe stata quella di
+                    S. A., se per mezzo suo queste provincie si sarebbono liberate dalla perpetua
+                    tirrania del demonio et restituite a Christo S. N. etc.<note
+                        xml:id="FN1_00007_02" type="footnote">Allgemein über Erzherzogin Maria,
+                        Tochter Herzog Albrechts von Bayern, seit 1571 mit Erzherzog Karl vermählt:
+                        Hurter, Bild einer christlichen Fürstin. Maria, Erzherzogin zu Österreich;
+                        Wehner, Maria von Bayern, Erzherzogin in Österreich.</note>
+                </p>
+                <p>Per hora non ho altro che dire a V. S. lllma, se non che vo ascoltando ognuno et,
+                    sicome non ho voluto defraudare quelli boni catholici, che per la strada ho
+                    ritrovato, di non far sapere li loro pii et zelosi pensieri a V. S. Illma et
+                    ancora darle parte di quello che mi pareva che immineret periculum circa la
+                    elettione del vescovo di Bamberga, et che per questo ancora mi pareva che
+                    soprasedesse di visitare il suffraganeo di mons. patriarcha,<note
+                        xml:id="FN1_00007_03" type="footnote">Siehe oben Nr. 6, S. 20.</note>così
+                    hora che non concorrono questi rispetti inanzi che io scrivi, andarò un poco
+                    scoprendo paese, et con l’aiuto del Signore farò qualche fermo giuditio, che in
+                    vero è necessario, come V. S. Illma intenderà...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00134">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1583-12-01" n="1">1583-12-01</title>
+                <title level="a">134. Gallio an Malaspina - Rom, 1583 Dezember 1</title>
+                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 14, f. 127r—129r, Minute.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00134">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <date when="1583-12-01" n="1"/>
+                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00133.xml"
+                        >133. Malaspina an Gallio - Graz, 1583 November 30</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00135.xml">135.
+                        Malaspina an Gallio - Graz, 1583 Dezember 7</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00133.xml">133. Malaspina an Gallio -
+                        Graz, 1583 November 30</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L2_00135.xml">135. Malaspina an Gallio -
+                        Graz, 1583 Dezember 7</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Papst mit religiöser Haltung Erzherzog Karls zufrieden, hofft auf energisches
+                    Vorgehen gegen Bürger und Adelige A. B. sowie auf landesfürstlichen Schutz der
+                    Kirchen und Geistlichkeit vor häretischen Adeligen. Verbleiben während des
+                    Landtages in Graz, Kommunion sub utraque in Diözese Gurk.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="134">Gallio an Malaspina - Rom, 1583 Dezember 1</head>
+            <div>
+                <p>La S.tà di N. S. ha inteso per la lettera di V. S. de li 11 del passato<note
+                        xml:id="FN2_00134_01" type="footnote">Nr. 127.</note>quel che il ser.mo
+                    arciduca haveva conferito con lei circa le cose de la dieta, et poi l’ill.mo
+                    sig. cardinale Madruzzo ha fatto quasi la medesima relatione per lettere havute
+                    da S. A.<note xml:id="FN2_00134_02" type="footnote"> Relation Madruzzos und
+                        Brief Erzherzog Karls nicht bekannt.</note>Per il che la S.tà S.<pb
+                        xml:id="P2_0000200"/> è restata satisfatta del buon zelo et intentione che
+                    mostra S. A. verso la religion catholica et di ciò che sin qui ha fatto per
+                    rimediare a li inconvenienti de le concessioni passate, et come che S. B.ne
+                    desideri per maggior salute de le anime et per più piena osservanza de la s.
+                    religione provisioni perfette, esclusive d’ogni difetto, non però vuole
+                    astringere l’A. S. a quel che vien giudicato impossibile et che possa metterlo
+                    in manifesto pericolo de le cose sue, ma non per questo S. S.tà può approvare
+                    concessioni o toleranze dannose et contrarie a l’integrità de la religione, né
+                    S. A. in questa materia può ricercar né desiderar altro da S. B.ne, la quale
+                    compatisce infinitamente a i travagli di S. A., et non cessa di pregar Dio che
+                    le dia gratia di trovar la buona strada di rimetter al luogo debito et la s.
+                    religione et l’autorità propria.</p>
+                <p>S. A. può ricordarsi di quel, che fu già pensato et trattato a fin che col
+                    concorso de la M.tà del imperatore et d’altri principi interessati et amorevoli
+                    si vedesse di ridur li provinciali a la debita et compita obedienza, et come
+                    essendo ciò stato giudicato da li medesimi principi difficile da riuscire et di
+                    molta perturbatione et pericolo a quel stati, S. S.tà non fece altra instanza si
+                    come anco vuol fare adesso non intendendo mai d’astringer S. A. a cose di tanto
+                    moto et pericolo né a più di quello che si può. Spera però la S.tà S. che
+                    governandosi S. A. con zelo, prudenza et fortezza d’animo conveniente al luogo
+                    et grado che tiene farà in modo che in questa attione che s’ha da fare la
+                    religion catholica riceverà più presto accrescimento che diminutione et si
+                    reputa che S. A. facci molto bene a tener separati da li provinciali i cittadini
+                    et la plebe, si per conservatione de l’autorità come per esser questi circa il
+                    fatto de la religione più tosto sotto la dispositione di S. A., come loro
+                    principe, che de li provinciali, et essendo lei più obligata di render conto a
+                    Dio de la perdita di quelle anime che non sono li provinciali, i quali non hanno
+                    sopra di essi niuna superiorità almeno suprema.</p>
+                <p>Ma oltre a ciò bisogna che S. A. pensi esser punto molto essentiali per governar
+                    bene il negotio di mantenere le chiese, i prelati et il clero in quel grado,
+                    dignità et libertà che il dover vuole, imperoché se S. A. farà che la
+                    giurisdittione ecclesiastica, l’immunità, l’entrate et il resto che appartiene
+                    al clero et a le chiese siano liberate da le oppressioni et novità et
+                    occupationi de i provinciali sarà loro levata in gran parte l’occasione et il
+                    modo di perturbar la religione, et tanto più deve in ciò premer S. A. quanto che
+                    vede la prontezza de gli ecclesiastici ne le contributioni et che non può esser
+                    la perturbatione <pb xml:id="P2_0000201"/>et oppressione del clero et
+                    l’occupationi de beni di chiesa senza diminutione del culto divino et de la
+                    religione, né senza offesa de la preeminenza del principe, sotto la cui
+                    particolar protettioni sono et le chiese et le persone ecclesiastice et i loro
+                    beni.</p>
+                <p>Mi resta di ricordar quel che ho scritto altre volte, che in ogni caso che per
+                    necessità et per manco male s’habbi da usar qualche toleranza si ha da fuggir
+                    quanto sia possibile che apparisca cosa alcuna in scritto, la quale dia
+                    avantaggio o fomento al male et possa pregiudicar nel avvenire quando Dio
+                    mandasse qualche meglior commodità. Et circa l’assistere di V. S. a la dieta o
+                    no havendone io scritto a dì passati a longo non replicarò altro se non che non
+                    abbandoni la causa publica et di tanto servitio di Dio né si parta dal luogo suo
+                    se non per estrema necessità, et si ricordi che l’ultima cosa deve esser il
+                    lasciar libero il campo a l’adversario, che ben può V. S. fermarsi a la dieta et
+                    non per questo intervenir o assentire a cosa alcuna mala.<note
+                        xml:id="FN2_00134_03" type="footnote">Vgl. oben Nr. 125.</note>
+                </p>
+                <p>Quanto a mons. di Gurgo in materia de la communione sub utraque non si può dar
+                    altra risposta se non quella che s’è data tante volte.<note
+                        xml:id="FN2_00134_04" type="footnote">Vgl. oben Nr. 73 und Nr. 127, Anm.
+                        9.</note>V. S. sa il tenore de i brevi et de la facoltà che fu concessa et
+                    che dove è cessata non n’è rimedio, né mezo alcuno non volendo N. S. metterci
+                    mano. Mi allegro poi con V. S. de la sanità recuperata et prego Dio che gliela
+                    mantenghi et accresca . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

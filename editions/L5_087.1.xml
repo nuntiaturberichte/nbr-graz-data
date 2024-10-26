@@ -1,197 +1,202 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_087.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-11-10" n="1">1599-11-10</title>
-                    <title level="a">87.1. Portia an San Giorgio - Rottenmann, 1599 November
-                        10</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 175r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_087.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-11-10" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2767034">Rottenmann</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_086.2.xml">86.2. Aldobrandini an Portia - Rom, 1599 November 6</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_088.1.xml">88.1. San Giorgio an Portia - Rom, 1599 November 13</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_086.1.xml">86.1. San Giorgio an
-                            Portia - Rom, 1599 November 5</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_088.1.xml">88.1. San Giorgio an
-                            Portia - Rom, 1599 November 13</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Erfolge Erzherzog Ferdinands im Rahmen der Rekatholisierung in den Gebieten
-						von Rottenmann und Graz. Portia regt ein päpstliches Breve als Lob für
-						Erzherzog Ferdinand an.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="87.1">Portia an San Giorgio - Rottenmann, 1599 November 10</head>
-				<div>
-					<p>Con l’ultime di Monaco<note xml:id="FN5_087.1_01" type="footnote">Nicht
-							auffindbar. Es durfte sich nicht um Portias Bericht vom 31. Oktober 1599
-							handeln, in dem Passau betreffende Gespräche mit Herzog Maximilian von
-							Bayern angekündigt wurden: vgl. Nr. 85.1. Ausführlich berichtete Portia
-							dann am 20. November 1599 aus Graz: vgl. Nr. 89.1.</note> diedi conto a
-						V. S. Ill.ma di quello ch’era stato trattato da me col Sig. Duca di Baviera
-						in materia delle differenze che sono col Capitolo di Possa, essendomi
-						riserbato del restante che tocca a quella Chiesa medesima di inviarnele
-						relatione distinta subito ch’io sia gionto a Graz, verso dove ritrovandomi
-						di passaggio questa sera in Rotmon non mi restarebbe che di più scrivere, se
-						non fosse l’occasione di significar a V. S. Ill.ma gli felici progressi et
-						avvanzamenti che si vanno facendo in queste<pb xml:id="P5_0000224"/> Valli
-						et contorni dell’Arciduca Ferdinando nella Religione Catolica, nel qual
-						negotio si mostra così ardente et rissoluto che non solo ha espurgato alcune
-						Terre ch’attendono al lavoriere di Minere di Predicanti della falsa setta,
-						ma a molti ancora si sono levate l’armi<note xml:id="FN5_087.1_02" type="footnote">Von Oktober bis Dezember 1599 war die erste militärisch
-							geschützte Reformationskommission im Auftrag Eh. Ferdinands von Leoben
-							ausgehend nach Eisenerz, Aussee, Gröbming, Schladming, Rottenmann, Wald
-							und Kalwang unterwegs. Diese führte strenge Maßnahmen durch und ließ
-							Besatzungen auf Kosten der Ortschaften zurück: vgl. HÖFER, Brenner, S.
-							25–27.</note>, tenendosi a quest’effetto ammassato buon numero di
-						soldati et gente collettitia, affine siano pronte ad ogni minimo cenno di S.
-						A., la quale medesimamente, per privare in tutto di speranza gl’Heretici di
-						Graz di poter giamai haver più angolo in quella Città di biastemare il nome
-						di Dio et della sua santa Religione, gl’ha levata dalle mani la Chiesa
-						dov’essi solevano ridursi<note xml:id="FN5_087.1_03" type="footnote">Mit
-							Dekret vom 13. September 1598 wurde die Ausweisung der Prädikanten und
-							Professoren an der landschaftlichen Schule und Stiftkirche binnen 14
-							Tage angeordnet. Am 10. Oktober 1599 ordnete Eh. Ferdinand die Übergabe
-							der Schlüssel der Stiftkirche an, da dem aber nicht nachgekommen wurde,
-							wurde die Kirche letztendlich am 14. Dezember 1599 gewaltsam geöffnet:
-							vgl. HÖFER, Christentum, S. 116–118.</note>; delli quali successi ho
-						voluto che V. S. Ill.ma resti ragguagliata con tutto ch’io sia in camino,
-						essendo sicuro che simil generose attioni saranno per apportare consolatione
-						a N. S. alla cui S.tà humilmente rimetto et alla molta prudenza di V. S.
-							Ill.ma<note xml:id="SN087.1_a" type="siglum">Im Original
-							unterstrichen.</note> se le paresse<ref target="#SN087.1_a">*a)</ref> di
-						proporre che fosse scritto Breve in questo proposito al medesimo
-							Arciduca<note xml:id="FN5_087.1_04" type="footnote">Der Anregung Portias
-							kam die Kurie mit einem Breve vom 27. November 1599 nach: NANNIIMRKONJIé
-							3, Nr. 13336.</note>,<note xml:id="SN087.1_b" type="siglum">Marginalie
-							des Staatssekretariates links: N. S. se ne contenta.</note> lodandolo
-						del già operato et inanimandolo a proseguire, perché mi pare che tali
-						termini venghino per li più attesi da Prencipi et da questo in particolare
-						et che siano anco di non puoco giovamento a negoti che si trattano seco et
-						che servirà per fine .<note xml:id="SN087.1_c" type="siglum">Dorsalverkmerk
-							des Staatssekretariates, fol. 180v: diversi da rivedersi.</note>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_087.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-11-10" n="1">1599-11-10</title>
+                <title level="a">87.1. Portia an San Giorgio - Rottenmann, 1599 November 10</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 175r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_087.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-11-10" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2767034">Rottenmann</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_086.2.xml"
+                        >86.2. Aldobrandini an Portia - Rom, 1599 November 6</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_088.1.xml">88.1.
+                        San Giorgio an Portia - Rom, 1599 November 13</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_086.1.xml">86.1. San Giorgio an
+                        Portia - Rom, 1599 November 5</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_088.1.xml">88.1. San Giorgio an
+                        Portia - Rom, 1599 November 13</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Erfolge Erzherzog Ferdinands im Rahmen der Rekatholisierung in den Gebieten von
+                    Rottenmann und Graz. Portia regt ein päpstliches Breve als Lob für Erzherzog
+                    Ferdinand an.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="87.1">Portia an San Giorgio - Rottenmann, 1599 November 10</head>
+            <div>
+                <p>Con l’ultime di Monaco<note xml:id="FN5_087.1_01" type="footnote">Nicht
+                        auffindbar. Es durfte sich nicht um Portias Bericht vom 31. Oktober 1599
+                        handeln, in dem Passau betreffende Gespräche mit Herzog Maximilian von
+                        Bayern angekündigt wurden: vgl. Nr. 85.1. Ausführlich berichtete Portia dann
+                        am 20. November 1599 aus Graz: vgl. Nr. 89.1.</note>diedi conto a V. S.
+                    Ill.ma di quello ch’era stato trattato da me col Sig. Duca di Baviera in materia
+                    delle differenze che sono col Capitolo di Possa, essendomi riserbato del
+                    restante che tocca a quella Chiesa medesima di inviarnele relatione distinta
+                    subito ch’io sia gionto a Graz, verso dove ritrovandomi di passaggio questa sera
+                    in Rotmon non mi restarebbe che di più scrivere, se non fosse l’occasione di
+                    significar a V. S. Ill.ma gli felici progressi et avvanzamenti che si vanno
+                    facendo in queste<pb xml:id="P5_0000224"/> Valli et contorni dell’Arciduca
+                    Ferdinando nella Religione Catolica, nel qual negotio si mostra così ardente et
+                    rissoluto che non solo ha espurgato alcune Terre ch’attendono al lavoriere di
+                    Minere di Predicanti della falsa setta, ma a molti ancora si sono levate l’armi
+                        <note xml:id="FN5_087.1_02" type="footnote">Von Oktober bis Dezember 1599
+                        war die erste militärisch geschützte Reformationskommission im Auftrag Eh.
+                        Ferdinands von Leoben ausgehend nach Eisenerz, Aussee, Gröbming, Schladming,
+                        Rottenmann, Wald und Kalwang unterwegs. Diese führte strenge Maßnahmen durch
+                        und ließ Besatzungen auf Kosten der Ortschaften zurück: vgl. HÖFER, Brenner,
+                        S. 25–27.</note>, tenendosi a quest’effetto ammassato buon numero di soldati
+                    et gente collettitia, affine siano pronte ad ogni minimo cenno di S. A., la
+                    quale medesimamente, per privare in tutto di speranza gl’Heretici di Graz di
+                    poter giamai haver più angolo in quella Città di biastemare il nome di Dio et
+                    della sua santa Religione, gl’ha levata dalle mani la Chiesa dov’essi solevano
+                        ridursi<note xml:id="FN5_087.1_03" type="footnote"> Mit Dekret vom 13.
+                        September 1598 wurde die Ausweisung der Prädikanten und Professoren an der
+                        landschaftlichen Schule und Stiftkirche binnen 14 Tage angeordnet. Am 10.
+                        Oktober 1599 ordnete Eh. Ferdinand die Übergabe der Schlüssel der
+                        Stiftkirche an, da dem aber nicht nachgekommen wurde, wurde die Kirche
+                        letztendlich am 14. Dezember 1599 gewaltsam geöffnet: vgl. HÖFER,
+                        Christentum, S. 116–118.</note>; delli quali successi ho voluto che V. S.
+                    Ill.ma resti ragguagliata con tutto ch’io sia in camino, essendo sicuro che
+                    simil generose attioni saranno per apportare consolatione a N. S. alla cui S.tà
+                    humilmente rimetto et alla molta prudenza di V. S. Ill.ma<note
+                        xml:id="SN5_087.1_a" type="siglum"> Im Original unterstrichen.</note>se le
+                        paresse<ref target="#SN5_087.1_a"/> di proporre che fosse scritto Breve in
+                    questo proposito al medesimo Arciduca <note xml:id="FN5_087.1_04"
+                        type="footnote">Der Anregung Portias kam die Kurie mit einem Breve vom 27.
+                        November 1599 nach: NANNIIMRKONJIé 3, Nr. 13336.</note>,<note
+                        xml:id="SN5_087.1_b" type="siglum"> Marginalie des Staatssekretariates
+                        links: N. S. se ne contenta.</note>lodandolo del già operato et inanimandolo
+                    a proseguire, perché mi pare che tali termini venghino per li più attesi da
+                    Prencipi et da questo in particolare et che siano anco di non puoco giovamento a
+                    negoti che si trattano seco et che servirà per fine .<note xml:id="SN5_087.1_c"
+                        type="siglum"> Dorsalverkmerk des Staatssekretariates, fol. 180v: diversi da
+                        rivedersi.</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,240 +1,246 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_051.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-06-28" n="1">1599-06-28</title>
-                    <title level="a">51.1. Portia an San Giorgio - Graz, 1599 Juni 28</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 86r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc><listBibl corresp="letter"><bibl type="druck">
-						<lb/>Teildruck: VERESS, Epistolae, S. 596; HORVAT 1, S. 238 (basiert auf der
-						Kopie in Fondo<lb/>Borghese, serie III 92 A, Nr. 51.3).</bibl>
-					<bibl type="beilage">
-						<lb/>Beilage: fol. 87r, Avviso, Graz, 1599 Juni 28.</bibl>
-				</listBibl></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_051.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-06-28" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_050.2.xml">50.2. Aldobrandini an Portia - Rom, 1599 Juni 26</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_051.2.xml">51.2. Portia an Aldobrandini - Graz, 1599 Juni 28</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_050.1.xml">50.1. San Giorgio an
-                            Portia - Rom, 1599 Juni 26</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_052.1.xml">52.1. San Giorgio an
-                            Portia - Rom, 1599 Juli 3</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Landtage in Kärnten und Krain sind nicht zu Ende. Sicherung der
-						innerösterreichischen Grenzen ungewiss. P. Carrillo wurde über die missliche
-						finanzielle Lage Erzherzog Ferdinands informiert und mit Verhandlungen um
-						die Erteilung der Koadjutorie von Straßburg an Erzherzog Leopold beauftragt.
-						Laut Portia wäre es besser, wenn ein Mitglied des Straßburger Kapitels nach
-						Rom reisen würde, um über den Zustand des Bistums zu berichten. Übereinkunft
-						in der Uskokenfrage mit dem Kaiser: Uskoken werden nach Ottocan/Otocac
-						ubersiedelt, nach Zengg/Senj kommt eine deutsche Garnison. Für die
-						österreichischen Untertanen wird das Recht auf freie Schifffahrt in der
-						Adria gewünscht. Aus Petrinia/Petrinja kommen Berichte über die Aufrüstung
-						der Türken.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="51.1">Portia an San Giorgio - Graz, 1599 Juni 28</head>
-				<div>
-					<p>Havend’io significato a V. S. Ill.ma con le lettere mie della settimana
-							passata<note xml:id="FN5_051.1_01" type="footnote">Nr. 49.1,
-							49.2.</note> quanto è avvenuto doppo ’l ritorno mio di Bamberga per
-						gl’affari di queste Provincie, non mi resta quasi che aggiongere se non che
-						le Diete di Carinthia et del Cragno sono anco imperfette et per quanto
-						m’avvisano alcuni di que Prelati ci è puoca speranza di buona speditione, da
-						che concludono tutti i più prudenti et migliori che mentr’il Prencipe
-						dipenderà dalle rissolutioni di queste Diete et permetterà l’auttorità et
-						amministrattione di questi Confini nelle mani di questi Provinciali, che la
-						Religione non farà mai il progresso che si deve et che sempre si correrà il
-						pericolo della recidiva et hoggidì di questo si vive sempre con timore,
-							pensando<note xml:id="SN051.1_a" type="siglum">Eigenhändige Einfügung
-							Portias.</note> anco<ref target="#SN051.1_a">*a)</ref> sempre a<pb xml:id="P5_0000115"/> truovar modo di qualch’aiuto et sovventione di
-						tanto danaro che supplisca a quella parte che la Nobiltà suol contribuire,
-						potendo il Prencipe promettersi della contributione de Prelati et delle
-						Città, et a questo si riducono tutt’i pensieri dell’Arciduca, sicome in
-						somma lo stabilimento della Religione Catholica in queste Provincie consiste
-						in quel sol partito, di che m’è stato detto che ’l P. Alfonso Carillio sia
-						venuto costà informato et con qualche commissione in questo particolare.</p>
-					<p>
-						<note xml:id="SN051.1_b" type="siglum">Teildruck: VERESS, Epistolae, S.
-							596.</note> Mi disse anco ultimamente l’Arciduca ch’era stato imposto al
-						medesimo P. Carillio il trattar sopra l’espeditione della Coadiutoria
-						d’Argentina per il Prencipe Leopoldo, havendo esso Padre portato seco le
-						lettere del Sig. Cardinal di Lorena et di quel Capitolo, soggiongendo che mi
-						raccomandava il negotio con desiderio et speranza di presta speditione<note xml:id="FN5_051.1_02" type="footnote">Zu den verschiedenen Anliegen, die
-							Carrillo im Auftrag der Erzherzöge von Innerösterreich in Rom vorbringen
-							sollte: vgl. Nr. 54.1.</note>. A che non m’occorse di dar altra
-						risposta, se non ch’io havrei solo desiderato che conform’ad un
-						cert’ordinario fosse comparso in Roma alcuno che fosse per parte di quel
-						Capitolo o che fosse informato dello stato et bisogno di quella Chiesa,
-						perc’havrebbe apportato maggior consolatione alla S.tà di N. S. et fors’anco
-						maggior celerità all’espeditione, conform’a bisogni presenti et all’età del
-						Prencipe, c’ha bisogno d’esser sollevata et sgravata da troppo gravi pesi et
-						pericoli così spirituali come temporali.<ref target="#SN051.1_b">*b)</ref>
-					</p>
-					<p>
-						<note xml:id="SN051.1_c" type="siglum">Teildruck: HORVAT 1, S. 238.</note>
-						Nel particolare de Segnani si resta nella rissolutione et dichiaratione
-						fatta dalla M.tà dell’Imperatore ad instanza del Sig. Flaminio Delfini, cioè
-						di levar di Segna gli Scocchi et porli in Ottosaz et in lor cambio metter un
-						presidio d’Allemani, partito proposto et considerato molt’anni sono; in
-						tanto questi Austriaci desiderarebbono che nel medesimo tempo, cioè che con
-						questo rimedio si restituisse la navigatione liberamente ai Vassalli della
-						Casa d’Austria et in particolare a quelli della Città di Trieste et Fiume,
-						di che saran per fare (se però non havran fatto sin’hora) instanza alla S.tà
-						di N. S. col mezo del Ambasciatore Cesareo<note xml:id="FN5_051.1_03" type="footnote">Raimund von Thurn (1556–1623), Sohn von Francesco von
-							Thurn und Laura d’Arco, Mundschenk von Eh. Karl II. von Innerösterreich,
-							Hauptmann von Duino in Görz (1587), Hauptmann von Gradisca (1590),
-							kaiserlicher Botschafter in Venedig (1593/94–1596), kaiserlicher
-							Botschafter in Rom (1596–1603): vgl. MORELLI 3, S. 363–365; MORELLI 5,
-							S. 241; DBI 37, S. 660–666; CONZATO, S. 163–180. Zehn Originalberichte
-							Raimunds an Eh. Ferdinand vom Juni 1599 bis Dezember 1600 sind vorhanden
-							in: HHStA, Familienkorr. A 9, fol. 179r–199v. Die Berichte Raimunds der
-							Jahre 1599-1602 an den Kaiser befinden sich in: HHStA, Hs W 290, Bd. 9,
-							10.</note>.<pb xml:id="P5_0000116"/>
-					</p>
-					<p>Con gl’ultimi avvisi di Croatia sono lettere di nuovo del Capitano et
-						Governatore di Petrina<note xml:id="FN5_051.1_04" type="footnote">Hans
-							Joachim Amstatt/Amstadt, als Hauptmann von Petrinia/Petrinja 1596, 1599
-							und 1603 bei Antonitsch angeführt: vgl. ANTONITSCH, S. 164, 241, 346.
-							Vgl. darüber hinaus VALVASOR 4, S. 47; WICHNER/INAMA-STERNEGG, S. 7. Im
-							Registraturbuch der Hofkammer aus dem Jahr 1599 (8. Februar 1599) wird
-							Hans Joachim Amstatt als Oberhauptmann zu Petrina bezeichnet, dem
-							anlässlich seiner Hochzeit ein Geldgeschenk zugewiesen werden soll: vgl.
-							StLA, HK-Reg. 1598/99, fol. 33r–v. Petrinja, das von den Türken
-							befestigte Blockhaus, war im September 1595 unter der Leitung von
-							Ruprecht von Eggenberg zurückerobert worden. Für den Erhalt waren Eh.
-							Ferdinand und dessen Länder verantwortlich: vgl. ANTONITSCH, S. 129–133,
-							142f.</note> che gli Turchi si preparino per assalir quel luogo et ch’il
-						Bassa della Bosna<note xml:id="FN5_051.1_05" type="footnote">Derwisch Pascha
-							(gest. 1603), Pascha von Bosnien 1599–1602. Er starb bei einer Schlacht
-							nahe Ofen/Pest am 14. Juli 1603: vgl. EI 2, S. 208.</note> n’havrà il
-						pensiero et il carico, onde si sta con pensiero, solecitudine et timore
-						straordinario et per le discordie presenti, et perché non sono preparamenti
-						sufficienti a difender quel luogo, piacc’a Dio N. S. di difenderlo con la
-						sua omnipotente mano, com’ha fatto altre volte in difetto degl’aiuti
-							humani<note xml:id="zvp_bbd_wcc" type="siglum">Teildruck: HORVAT 1, S.
-							238.</note> …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_051.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-06-28" n="1">1599-06-28</title>
+                <title level="a">51.1. Portia an San Giorgio - Graz, 1599 Juni 28</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 86r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+                <listBibl corresp="letter">
+                    <bibl type="druck">
+                        <lb/>Teildruck: VERESS, Epistolae, S. 596; HORVAT 1, S. 238 (basiert auf der
+                        Kopie in Fondo<lb/>Borghese, serie III 92 A, Nr. 51.3).</bibl>
+                    <bibl type="beilage">
+                        <lb/>Beilage: fol. 87r, Avviso, Graz, 1599 Juni 28.</bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_051.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-06-28" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_050.2.xml"
+                        >50.2. Aldobrandini an Portia - Rom, 1599 Juni 26</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_051.2.xml">51.2.
+                        Portia an Aldobrandini - Graz, 1599 Juni 28</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_050.1.xml">50.1. San Giorgio an
+                        Portia - Rom, 1599 Juni 26</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_052.1.xml">52.1. San Giorgio an
+                        Portia - Rom, 1599 Juli 3</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Landtage in Kärnten und Krain sind nicht zu Ende. Sicherung der
+                    innerösterreichischen Grenzen ungewiss. P. Carrillo wurde über die missliche
+                    finanzielle Lage Erzherzog Ferdinands informiert und mit Verhandlungen um die
+                    Erteilung der Koadjutorie von Straßburg an Erzherzog Leopold beauftragt. Laut
+                    Portia wäre es besser, wenn ein Mitglied des Straßburger Kapitels nach Rom
+                    reisen würde, um über den Zustand des Bistums zu berichten. Übereinkunft in der
+                    Uskokenfrage mit dem Kaiser: Uskoken werden nach Ottocan/Otocac ubersiedelt,
+                    nach Zengg/Senj kommt eine deutsche Garnison. Für die österreichischen
+                    Untertanen wird das Recht auf freie Schifffahrt in der Adria gewünscht. Aus
+                    Petrinia/Petrinja kommen Berichte über die Aufrüstung der Türken.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="51.1">Portia an San Giorgio - Graz, 1599 Juni 28</head>
+            <div>
+                <p>Havend’io significato a V. S. Ill.ma con le lettere mie della settimana
+                        passata<note xml:id="FN5_051.1_01" type="footnote">Nr. 49.1,
+                    49.2.</note>quanto è avvenuto doppo ’l ritorno mio di Bamberga per gl’affari di
+                    queste Provincie, non mi resta quasi che aggiongere se non che le Diete di
+                    Carinthia et del Cragno sono anco imperfette et per quanto m’avvisano alcuni di
+                    que Prelati ci è puoca speranza di buona speditione, da che concludono tutti i
+                    più prudenti et migliori che mentr’il Prencipe dipenderà dalle rissolutioni di
+                    queste Diete et permetterà l’auttorità et amministrattione di questi Confini
+                    nelle mani di questi Provinciali, che la Religione non farà mai il progresso che
+                    si deve et che sempre si correrà il pericolo della recidiva et hoggidì di questo
+                    si vive sempre con timore, pensando<note xml:id="SN5_051.1_a" type="siglum">
+                        Eigenhändige Einfügung Portias.</note>anco<ref target="#SN5_051.1_a"/>
+                    sempre a <pb xml:id="P5_0000115"/>truovar modo di qualch’aiuto et sovventione di
+                    tanto danaro che supplisca a quella parte che la Nobiltà suol contribuire,
+                    potendo il Prencipe promettersi della contributione de Prelati et delle Città,
+                    et a questo si riducono tutt’i pensieri dell’Arciduca, sicome in somma lo
+                    stabilimento della Religione Catholica in queste Provincie consiste in quel sol
+                    partito, di che m’è stato detto che ’l P. Alfonso Carillio sia venuto costà
+                    informato et con qualche commissione in questo particolare.</p>
+                <p>
+                    <note xml:id="SN5_051.1_b" type="siglum">Teildruck: VERESS, Epistolae, S.
+                        596.</note>Mi disse anco ultimamente l’Arciduca ch’era stato imposto al
+                    medesimo P. Carillio il trattar sopra l’espeditione della Coadiutoria
+                    d’Argentina per il Prencipe Leopoldo, havendo esso Padre portato seco le lettere
+                    del Sig. Cardinal di Lorena et di quel Capitolo, soggiongendo che mi
+                    raccomandava il negotio con desiderio et speranza di presta speditione <note
+                        xml:id="FN5_051.1_02" type="footnote">Zu den verschiedenen Anliegen, die
+                        Carrillo im Auftrag der Erzherzöge von Innerösterreich in Rom vorbringen
+                        sollte: vgl. Nr. 54.1.</note>. A che non m’occorse di dar altra risposta, se
+                    non ch’io havrei solo desiderato che conform’ad un cert’ordinario fosse comparso
+                    in Roma alcuno che fosse per parte di quel Capitolo o che fosse informato dello
+                    stato et bisogno di quella Chiesa, perc’havrebbe apportato maggior consolatione
+                    alla S.tà di N. S. et fors’anco maggior celerità all’espeditione, conform’a
+                    bisogni presenti et all’età del Prencipe, c’ha bisogno d’esser sollevata et
+                    sgravata da troppo gravi pesi et pericoli così spirituali come temporali.<ref
+                        target="#SN5_051.1_b"/>
+                </p>
+                <p>
+                    <note xml:id="SN5_051.1_c" type="siglum">Teildruck: HORVAT 1, S. 238.</note>Nel
+                    particolare de Segnani si resta nella rissolutione et dichiaratione fatta dalla
+                    M.tà dell’Imperatore ad instanza del Sig. Flaminio Delfini, cioè di levar di
+                    Segna gli Scocchi et porli in Ottosaz et in lor cambio metter un presidio
+                    d’Allemani, partito proposto et considerato molt’anni sono; in tanto questi
+                    Austriaci desiderarebbono che nel medesimo tempo, cioè che con questo rimedio si
+                    restituisse la navigatione liberamente ai Vassalli della Casa d’Austria et in
+                    particolare a quelli della Città di Trieste et Fiume, di che saran per fare (se
+                    però non havran fatto sin’hora) instanza alla S.tà di N. S. col mezo del
+                    Ambasciatore Cesareo <note xml:id="FN5_051.1_03" type="footnote">Raimund von
+                        Thurn (1556–1623), Sohn von Francesco von Thurn und Laura d’Arco, Mundschenk
+                        von Eh. Karl II. von Innerösterreich, Hauptmann von Duino in Görz (1587),
+                        Hauptmann von Gradisca (1590), kaiserlicher Botschafter in Venedig
+                        (1593/94–1596), kaiserlicher Botschafter in Rom (1596–1603): vgl. MORELLI 3,
+                        S. 363–365; MORELLI 5, S. 241; DBI 37, S. 660–666; CONZATO, S. 163–180. Zehn
+                        Originalberichte Raimunds an Eh. Ferdinand vom Juni 1599 bis Dezember 1600
+                        sind vorhanden in: HHStA, Familienkorr. A 9, fol. 179r–199v. Die Berichte
+                        Raimunds der Jahre 1599-1602 an den Kaiser befinden sich in: HHStA, Hs W
+                        290, Bd. 9, 10.</note>.</p>
+                <pb xml:id="P5_0000116"/>
+                <p>Con gl’ultimi avvisi di Croatia sono lettere di nuovo del Capitano et Governatore
+                    di Petrina<note xml:id="FN5_051.1_04" type="footnote">Hans Joachim
+                        Amstatt/Amstadt, als Hauptmann von Petrinia/Petrinja 1596, 1599 und 1603 bei
+                        Antonitsch angeführt: vgl. ANTONITSCH, S. 164, 241, 346. Vgl. darüber hinaus
+                        VALVASOR 4, S. 47; WICHNER/INAMA-STERNEGG, S. 7. Im Registraturbuch der
+                        Hofkammer aus dem Jahr 1599 (8. Februar 1599) wird Hans Joachim Amstatt als
+                        Oberhauptmann zu Petrina bezeichnet, dem anlässlich seiner Hochzeit ein
+                        Geldgeschenk zugewiesen werden soll: vgl. StLA, HK-Reg. 1598/99, fol. 33r–v.
+                        Petrinja, das von den Türken befestigte Blockhaus, war im September 1595
+                        unter der Leitung von Ruprecht von Eggenberg zurückerobert worden. Für den
+                        Erhalt waren Eh. Ferdinand und dessen Länder verantwortlich: vgl.
+                        ANTONITSCH, S. 129–133, 142f.</note>che gli Turchi si preparino per assalir
+                    quel luogo et ch’il Bassa della Bosna<note xml:id="FN5_051.1_05" type="footnote"
+                        > Derwisch Pascha (gest. 1603), Pascha von Bosnien 1599–1602. Er starb bei
+                        einer Schlacht nahe Ofen/Pest am 14. Juli 1603: vgl. EI 2, S.
+                    208.</note>n’havrà il pensiero et il carico, onde si sta con pensiero,
+                    solecitudine et timore straordinario et per le discordie presenti, et perché non
+                    sono preparamenti sufficienti a difender quel luogo, piacc’a Dio N. S. di
+                    difenderlo con la sua omnipotente mano, com’ha fatto altre volte in difetto
+                    degl’aiuti humani<ref target="#SN5_051.1_c"/> …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

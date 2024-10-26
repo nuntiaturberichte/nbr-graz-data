@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00122">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+				<title type="iso-date" when-iso="1583-09-28" n="2">1583-09-28</title>
+				<title level="a">122. Malaspina an Gallio - Graz, 1583 September 28</title>
+				<author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+				<respStmt>
+					<persName>Kroissenbrunner Martin</persName>
+					<resp>Transkription und TEI-Kodierung</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kofler Sabine</persName>
+					<resp>Lektorat</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Schopper Daniel</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+					<resp>Beratung</resp>
+				</respStmt>
+				<funder>
+					<persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+					<address>
+						<orgName>Historisches Institut beim Österreichischen Kulturforum in
+							Rom</orgName>
+						<street>Viale Bruno Buozzi 111-113</street>
+						<settlement>Rom</settlement>
+						<postCode>00197</postCode>
+						<country>Italien</country>
+					</address>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+				<pubPlace>Vienna</pubPlace>
+				<date when="2024">2024</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+						<p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+							vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+							verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+							kommerziell.</p>
+						<p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+							an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+						<p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+							einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+							wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+							werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+							unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+							Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+							Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+							die Lizenz erlaubt.</p>
+						<p>Hinweise:</p>
+						<p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+							des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+							durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+							keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+							verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+							jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+							Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+							Nutzung des Materials entsprechend beschränken.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+					(1580-[1602])</p>
+			</seriesStmt>
+			<sourceDesc>
+				<biblStruct corresp="book">
+					<monogr>
+						<editor>
+							<persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+						</editor>
+						<respStmt>
+							<resp>Mitarbeit</resp>
+							<persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+						</respStmt>
+						<title type="main">Grazer Nuntiatur</title>
+						<title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+							Caligari; 1582-1587</title>
+						<idno type="ISBN">3-7001-0424-3</idno>
+						<imprint>
+							<pubPlace>Wien</pubPlace>
+							<date>1981</date>
+							<publisher>
+								<orgName>Österreichische Akademie der Wissenschaften</orgName>
+								<orgName>Österreichisches Kulturinstitut in Rom</orgName>
+							</publisher>
+							<respStmt>
+								<resp>Unterstützung bei Herausgabe</resp>
+								<orgName>Historische Landeskommission für Steiermark</orgName>
+							</respStmt>
+						</imprint>
+						<biblScope unit="volume" n="2">2. Band</biblScope>
+						<extent>
+							<measure unit="pages" quantity="526">526 Seiten</measure>
+						</extent>
+					</monogr>
+					<series>
+						<title type="main">Publikationen des Österreichischen Kulturinstituts in
+							Rom</title>
+						<title type="sub">Nuntiaturberichte</title>
+					</series>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<collection>
+							<lb/>Arch. Vat. Nunz. Germ. 101, f. 115r—116v, Orig.; Beilage ebenda f.
+							150r,<lb/>151v.</collection>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc n="L2_00122">
+				<correspAction type="sent">
+					<persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+					<date when="1583-09-28" n="2"/>
+					<placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+						- Malaspina, Germanico</ref>
+					<ref subtype="previous_letter" type="withinCollection" target="L2_00121.xml"
+						>121. Malaspina an Gallio - Graz, 1583 September 28</ref>
+					<ref subtype="next_letter" type="withinCollection" target="L2_00123.xml">123.
+						Malaspina an Gallio - Graz, 1583 Oktober 5</ref>
+					<ref subtype="previous_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00121.xml">121. Malaspina an Gallio -
+						Graz, 1583 September 28</ref>
+					<ref subtype="next_letter" type="withinCorrespondence"
+						source="correspondence_001" target="L2_00123.xml">123. Malaspina an Gallio -
+						Graz, 1583 Oktober 5</ref>
+				</correspContext>
+			</correspDesc>
+			<abstract>
+				<p>Scharfe Verwahrung des Kaisers an den innerösterreichischen Herren- und
+					Ritterstand wegen dessen Weigerung, sich an den Zahlungen für die Türkengrenze
+					zu beteiligen. Innerösterreichischer Universallandtag. Schreiben Erzherzog Karls
+					an den Kaiser wegen des neuen Kalenders. Angelegenheiten des Bischofs von
+					Pedena. Berufung des Fra Vincenzo Rizzo aus Monopoli ins Grazer
+					Dominikanerkloster. Widerstand des Patriarchen von Aquileia gegen die geplante
+					Errichtung eines Bistums Görz.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head n="122">Malaspina an Gallio - Graz, 1583 September 28</head>
+			<div>
+				<p>Doppo che questo Ser.mo veduta l’ostinata risolutione delli doi stati delli
+					baroni et nobili di non volere contribuire alli confini, si risolse di
+					renuntiare il carico d’essi alla M.tà del imperatore.<note xml:id="FN2_00122_01"
+						type="footnote">Schon auf dem Landtag Februar/März 1583 drohte Erzherzog
+						Karl, als sich die Stände A. B. weigerten, auf die Landtagsproposition
+						einzugehen, bevor ihre Religionsbeschwerden behandelt würden, die Sorge um
+						die Türkengrenze an den Kaiser zurückzugeben (Graz LA, Landtagsakten 427;
+						Loserth, FRA II/50. S. 471f.).</note>S. M.tà ha scritto assai resentitamente
+					a loro reprendendoli acremente de così fatta inobedienza dalla quale, quando
+					perseverasse, sarebbe per nascere danno universalmente a tutta la Germania, et
+					se bene hanno<pb xml:id="P2_0000179"/> arditamente replicato a S. M.tà et S.
+					M.tà di novo a loro, et che insin hora non habbino voluto cedere, s’intende però
+					che sotto mano cominciano a dar principio di sumministrare il bisogno per causa
+					delli confini, quali sono per gratia del Signore tanto quieti che non si
+					potrebbe desiderare più. <note xml:id="FN2_00122_02" type="footnote">Auf
+						österreichischer Seite war man bemüht, die Ruhe an der Grenze nicht zu
+						stören. Am 20. August 1583 verbot Veit von Hallegg, oberster Generalkapitän
+						der slawonischen Grenze, allen Hauptleuten, Vizehauptleuten und Woiwoden der
+						Haramanen, irgendwelche Einfälle in türkisches Gebiet zu machen (Graz LA,
+						Militaria 1583/1).</note>
+				</p>
+				<p>Hora mentre costoro stanno superbamente altercando con l’imperatore et
+					lamentandosi che la portione che li perviene della distributione del imperio non
+					li è pagata,<note xml:id="FN2_00122_03" type="footnote">Die Verordneten von
+						Steiermark schrieben am 27. März 1583 denen von Kärnten und Krain, der
+						Kaiser handle dieser (Türken-)grenze wie ein Stiefvater, welcher den Kindern
+						das erbettelte Brot aus den Händen reißt (Loserth, FRA II/50, S.
+						473).</note>non si scordano però d’importunare quest Altezza acciò si
+					celebri una universale dieta de tutti questi paesi. <note xml:id="FN2_00122_04"
+						type="footnote">Vgl. oben Nr. 74.</note>Et perché non si può negare, che
+					quanto al politico non sia espediente che si faccia, li è stata concessa da S.
+					A. con una sola limitatione, cioè che in essa non si tratti cosa spettante alla
+					religione. Ma loro, che tengono per certo con la multitudine d’opprimere questo
+					Ser.mo et farlo retrocedere dalle resolutioni prese, non possono patire che li
+					sia negato quel ingresso che per la porta della dieta universale si persuadevano
+					di potere agevolemente havere per ottinere li loro iniqui intenti. Per il che
+					non volendosi acquietare ne S. A. rimoversi dalla sua deliberatione sta ancora
+					questa attione della dieta suspesa, <note xml:id="FN2_00122_05" type="footnote"
+						>Vgl. oben Nr. 78.</note>et se ben S. A. et li consiglieri suoi dicono di
+					provedere et subodorare che li nobili prometteranno di non proporre cosa
+					toccante alli cittadini<note xml:id="FN2_00122_06" type="footnote"> Vgl. oben
+						Nr. 71.</note>né intromettersi con loro ma solamente attendere al proprio in
+					quella forma da me già insinuata a V. S. Ill.ma. Nondimeno noi qua siamo di
+					opinione che S. A. non li compiaccia, et per non sapersi per ancora qualsia per
+					essere la mente di N. S. non havendo io risposta del foglio<note
+						xml:id="FN2_00122_07" type="footnote"> Nicht vorhanden.</note>che mandai a
+					V. S. Ill.ma, et stando espressa la mente contraria a tal attione ne le lettere
+					di mons. di Gurgo, sì anco perché havendo S. A. in tanti scritti espressamente
+					dechiarata <pb xml:id="P2_0000180"/>sì negativamente, non pare perciò che sia di
+					degnità il mutarsi, ma più tosto essendo cominciata la dieta scorgendosi che la
+					negativa del principe né sia per far incorrere in maggiore inconveniente al’hora
+					che si saprà la mente di S. B.ne si potremo conformare nel pigliar partito a
+					quella et si sarà conforme al desiderio di S. A. non si havrà difficultà né
+					scrupolo, se sarà altrimenti bisognerà dar principio a nova consulta. Questo è
+					quello che si è suo hora tra noi concluso in questo poco tempo che il principe è
+					stato qua, et perché non ci è né posta né pedone ordinario per Italia, come
+					prima era, io non ho havuto commodità di tenere avisato V. S. Ill.ma conforme al
+					debbito mio.</p>
+				<p>Hieri a mia contemplatione fu espedito un correro espresso con lettere di questo
+					Ser.mo a S. M.tà facendoli instantia a volersi dechiarare circa la publicatione
+					del calendario, nella quale spero che non si havrà difficultà havendomi il
+					Ser.mo arciduca Ernesto<note xml:id="FN2_00122_08" type="footnote">Vgl. oben Nr.
+						109.</note>in Monaco assicurato che si sarebbe publicato questo ottobre.
+						<note xml:id="FN2_00122_09" type="footnote">Vgl. oben Nr. 51, Anm. 2 und
+						3.</note>Ma perché a noi importa di sapere la mente di S. M.tà per potere
+					fare imprimere li calendarii publicarli instando hormai il tempo si è perciò di
+					novo scritto. Et essendo capitati qua alcuni Goritiani, tra quali è quello che
+					ocularmente è stato in fatto, quali et a S. A. et a tutti hanno narrato, ciò che
+					V. S. Ill.ma vederà nel foglio che sarà con questa mia mi è parso ordinarli che
+					lo mettino in scritto et mandarlo a V. S. Ill.ma. <note xml:id="FN2_00122_10"
+						type="footnote">Siehe unten Beilage.</note>
+				</p>
+				<p>Ho fatto l’offitio che V. S. Ill.ma mi ha commesso per il vescovo di Pedina et ho
+					ritrovato che S. A. da per se havendo inteso il caso di quel heretico che fu
+						sepulto<note xml:id="FN2_00122_11" type="footnote">Vgl. oben Nr. 114 und
+						118.</note>di già haveva scritto per informatione juridica, la quale hieri
+					gionse, ma essendo S. A. alle caccie non si è potuto vedere. Io scriverò al
+					vescovo et si vederà di pigliare qualche buono espediente, se ben essendo gia
+					seguito il fatto non si potrà fare quello che io desiderarei.<note
+						xml:id="FN2_00122_12" type="footnote"> Malaspina war sehr darauf bedacht,
+						daß kein Häretiker in geweihter Erde bestattet wurde, und scheute auch nicht
+						davor zurück, ein schon im Gang befindliches Begräbnis zu unterbinden
+						(Loserth, FRA II/50, S. 488f.).</note>Circa della decima non ritrovo insin
+					hora consigliero che sia informato di quello che il vescovo scrive.<note
+						xml:id="FN2_00122_13" type="footnote"> Wie Anm. 11.</note>
+				</p>
+				<p>Quanto al monasterio delli padri Dominicani S. A. si è romossa dal pensiero che
+					haveva inteso che ha la mente di N. S. et ha giovato <pb xml:id="P2_0000181"
+					/>ancora assai l’essere stata informata della pietà et zelo del generale della
+					speranza, che si deve havere, che per l’esperienza grande, che ha, debba esser
+					sollicito nel restaurare la disciplina regulare in queste provintie, et poiché
+					io mi son constituito per fideiussore di S. P.tà R.ma sarà opera degna della sua
+					bontà di non mi far restare con vergogna et in opinione di poco veridico, nel
+					qual caso in vero prevedo la total ruina di questi monasterii. <note
+						xml:id="FN2_00122_14" type="footnote">Vgl. oben Nr. 46.</note>S. A. insieme
+					con tutti gli cattolici che intendono italiano desiderano grandemente, che sia
+					constituito in questa città per ordinario predicatore il Fra Vincenzo Rizzo da
+					Monopoli priore di novo monasterio, et che non sia in potestà d’ogni provintiale
+					di rimoverlo senza causa, che qua non mutano volentieri confessori, et per la
+					gratia, che ha questo padre nel predicare, S. A. l’ha voluto sentire nella
+					chiesa de padri Gesuiti et in evento che il padre non fosse inclinato a star qua
+					potrebbe il generale per sodisfare a S. A. commandarcilo in virtù di santa
+						obedienza.<note xml:id="FN2_00122_15" type="footnote"> Nichts näher
+						bekannt.</note>
+				</p>
+				<p>Pochi giorni fa scrissi a V. S. Ill.ma il pensiero che S. A. haveva, che io mi
+					trasferissi a Goritia per la erettione d’un vescovato in quel luogho<note
+						xml:id="FN2_00122_16" type="footnote">Vgl. oben Nr. 115, Anm. 4.</note>et mi
+					parve nel istesso tempo ancora conveniente di darne parte al suffraganio di
+					mons. rev.mo patriarca, dal quale ho havuto per risposta che tal attione sarebbe
+					in grandissimo pregiuditio della jurisdittione patriarcale, onde se bene intendo
+					che di giorno in giorno piglia piedi l’heresia in quel contado, massime al
+					presente che in mia absentia ha il patriarca eletto un archidiacono giovane che
+					non sa appena leggere, <note xml:id="FN2_00122_17" type="footnote">Nicht
+						bekannt.</note>con tutto ciò ho sopraseduto io et intepidito il proposito di
+					S. A., la quale insieme con tutti li buoni non ritrovano mezzo più potente per
+					perservare quel contado che il porre un pastore di authorità che sappia et possa
+					applicare remedii convenienti alla peste che comincia a pullulare, né mi pare in
+					vero di potere penetrar che vedino a camino di conculcare et opprimere la
+					jurisdittione ecclesiastica come affermativamente asserisce mons. suffraganio.
+					Et in quanto fosse di così cattiva consequentia quella erettione si potrebbe
+					andare pensando d’introdurci li padri Gesuiti, quali a mio parere sarebbono di
+					grandissimo giovamento a quel contado et alle altre parti per parlarsi
+					communamente in Goritia tre lingue schiavona, latina et italiana . . .</p>
+				<pb xml:id="P2_0000182"/>
+				<p>Beilage: Bericht über wunderbares Austreiben eines Nußbaumes bei Görz in
+					Übereinstimmung mit neuem Kalender.</p>
+				<p>Arch. Vat. Nunz. Germ. 101, f. 150r, 151v, Orig.</p>
+				<p>Fatto occorso in Goritia circa il calendario riformato.</p>
+				<p>Ritrovandosi m. Mattia Serrar gastaldo di Goritia a ragionamento con alquanti
+					mercanti heretici di Feltchirchin de la authorità de la chiesa et de S. S.tà
+					circa l’accrescere over di disminuire il calendario et che era una confusione de
+					le feste dove che si ritrovava il giorno de la vigilia di S. Giovanni di Giugno
+					et per esser stato mutato secondo la nova viense avanti giorni dieci, m. Mattia
+					disse. Qui appresso una villa nominata Campolongo su la strada di Goritia che va
+					a Codroipo si ritrovava una nocera che la notte avanti S. Giovanni fa le folie
+					et noce et sin a quel tempo sta sempre secco senza folie né altro, dove li
+					mercanti pregorno il gastaldo che volesse andare la vigilia di S. Giovanni per
+					tempo acciò potesse vedere se ritrovava il nocera come li haveva detto et la
+					mattina che seria stato il giorno di S. Giovanni se havesse trovato che le folie
+					et noce fosse stato come diceva che si ritrovava gl’altri anni precedenti dove
+					andò et fe fede che la sera lo ritrovò secco senza folie né cosa alcuna verde
+					sopra et la mattina nel alba lo trovò tutto verde et portò il segno cioè rami
+					quali tra folie et noci sopra et questo tutto Goritia ne ha visto et in spetie
+					li portò al clar.mo sig. luogotenente quale sedeva con li suoi sig. assistenti
+					al tribunale et questo drieto il novo calendario.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

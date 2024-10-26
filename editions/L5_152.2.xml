@@ -1,206 +1,208 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_152.2"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1600-07-24" n="2">1600-07-24</title>
-                    <title level="a">152.2. Portia an Aldobrandini - Graz, 1600 Juli 24</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 92 BC, fol. 48r–49r, Orig.
-								[Eigenh.]</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_152.2">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1600-07-24" n="2"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_152.1.xml">152.1. Portia an Aldobrandini - Graz, 1600 Juli 24</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_153.1.xml">153.1. San Giorgio an Portia - Rom, 1600 Juli 29</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_152.1.xml">152.1. Portia an
-                            Aldobrandini - Graz, 1600 Juli 24</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_153.4.xml">153.4. Aldobrandini an
-                            Portia - Rom, 1600 Juli 29</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Die Erzherzöge bemühen sich um das Vertrauen des spanischen Königs [Philipp
-						III.]. Die spanische Königin [Margarete] setzt sich unter anderem für die
-						Wahl Erzherzog Ferdinands zum König von Böhmen ein, wodurch der Weg zur
-						römischen Königswahl geebnet werden könnte. Es werden Überlegungen
-						angestellt, Erzherzog Leopold nach Spanien zu schicken, um ihm dadurch eine
-						entsprechende kirchliche Karriere in diesem Land zu ermoglichen. Ein
-						angeblicher Plan, das Bistum Breslau/Wroclaw mit Erzherzog Leopold zu
-						besetzen, kommt nicht zum Tragen. Von Erzherzog Ferdinand hat Portia
-						erfahren, dass man in Kroatien hoffe, bis nach Banja Luka vorzudringen,
-						während die Türken sich in Richtung Ungarn bewegen. Versichert Aldobrandini
-						seine Ergebenheit und ordnet sich den Entscheidungen bezüglich seiner Person
-						unter.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="152.2">Portia an Aldobrandini - Graz, 1600 Juli 24</head>
-				<div>
-					<p>Questo Arciduca attende tuttavia l’occasione di stringersi sempre più col Re
-						suo Cognato et l’Arciduchessa madre sta anch’essa continuamente osservando
-						l’opportunità di potersi valere del mezzo et auttorità della Regina, della
-						quale si aspetta con infinito desiderio di udire che ci sia la certezza
-						della gravidanza, essendo certo che all’hora si procurerà di accertarsi
-							et<pb xml:id="P5_0000370"/> assicurarsi di molte cose. Intanto ho inteso
-						da parte ottima et secreta che la Reina di Spagna tratti et facci prattica
-						acciò che con l’auttorità et mezzo del Re si disponghi la M.tà
-						dell’Imperatore a far elleger Re di Bohemia l’Arciduca Ferdinando, il che se
-						riuscisse al certo si farebbe poi Re di Romani et poi anco Imperatore, che è
-						ben punto assai difficile per l’esclusione dell’Arciduca Mattias fratello
-						dell’Imperatore, ma l’haverlo io da luoco assai fidato et securo mi ha fatto
-						darle orecchie et credenza et anco significarlo a V. S. Ill.ma.</p>
-					<p>Si segue nel pensiero di trovar occasione di mandar un di questi Arciduchi
-						più giovani in Spagna et ho sentito ultimamente discorrere uno de più
-						confidenti che si potrebbe anco sperare alcuna cosa buona et di consequenza,
-						se si mandasse l’Arciduca Leopoldo con l’occasione et pretesto di porlo in
-						studio in Salamanca et quivi allevato poi ne studii et Idioma di quelle
-						Provincie, pensare ad una di quelle Chiese più principali et farlo anco
-						Cardinale, con le quai dignità potrebbe poi esser portato a qualche governo
-						d’importanza come Portogallo, Milano o Napoli, che servirebbe molto più
-						all’augumento dell’Arciduca Ferdinando. Ma insomma convien’aspettar la buona
-						congiuntura, essendo il Re di natura et dispositione tale che non conviene
-						ingombrarlo con molte instanze et negoti ad un tratto, ma il tutto trattasi
-						con tempo et buon’occasione<note xml:id="FN5_152.2_01" type="footnote">Im
-							eigenhändigen Bericht Portias vom 26. Juni 1600 war in diesem
-							Zusammenhang noch von den Eh. Maximilian Ernst oder Leopold die Rede:
-							vgl. Nr. 145.1.</note>.</p>
-					<p>Son’ stati alcuni che hanno questi giorni proposto il Vescovato di
-						Vratislavia per l’Arciduca Leopoldo<note xml:id="FN5_152.2_02" type="footnote">Der Bischof von Breslau/Wroclaw Paul Albert war am 5.
-							Juni 1600 verstorben, nachdem er knapp ein Jahr zuvor zum Bischof
-							gewählt, aber noch nicht als solcher geweiht worden war: vgl. GATZ,
-							1448–1648, S. 11.</note>, ma mi han detto che l’hanno ricusato, di che
-						io son rimasto consolato, stante l’età del Prencipe et lo stato di quella
-						Chiesa.</p>
-					<p>Di Croatia si haveva buona speranza di far un buon incontro et progresso
-						nella Bosna et di occupar fors’anche Bagnalucca, luoco principale di quel
-						Regno, et questo con l’occasione che si credeva che tutti que’ Turchi
-						dovesser passar in Hungheria et lasciar’ quella parte poco provista et
-						tuttavia si sta con questa speranza: questo ho havuto dal Prencipe stesso in
-						confidenza secreta.</p>
-					<p>Havendo di già inteso la mente et benignità di V. S. Ill.ma circa la mia
-						persona et quello che può appartenere a questa carica et Nuntiatura, mi
-						resta solo di rimettermi humilmente al commando di V. S. Ill.ma et di
-						renderle insieme humilissime gratie della gratiosissima protettione ch’ella
-						si degna di tener della servitù mia, et riconoscendomi sempre più per
-						servidore molto obligato et devoto, resta che V. S. Ill.ma si contenti di
-						favorirmi et consolarmi spesso con i suoi commandamenti da me sommamente
-						desiderati …</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_152.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1600-07-24" n="2">1600-07-24</title>
+                <title level="a">152.2. Portia an Aldobrandini - Graz, 1600 Juli 24</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 92 BC, fol. 48r–49r, Orig.
+                            [Eigenh.]</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_152.2">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1600-07-24" n="2"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_152.1.xml"
+                        >152.1. Portia an Aldobrandini - Graz, 1600 Juli 24</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_153.1.xml">153.1.
+                        San Giorgio an Portia - Rom, 1600 Juli 29</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_152.1.xml">152.1. Portia an
+                        Aldobrandini - Graz, 1600 Juli 24</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_153.4.xml">153.4. Aldobrandini an
+                        Portia - Rom, 1600 Juli 29</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Die Erzherzöge bemühen sich um das Vertrauen des spanischen Königs [Philipp
+                    III.]. Die spanische Königin [Margarete] setzt sich unter anderem für die Wahl
+                    Erzherzog Ferdinands zum König von Böhmen ein, wodurch der Weg zur römischen
+                    Königswahl geebnet werden könnte. Es werden Überlegungen angestellt, Erzherzog
+                    Leopold nach Spanien zu schicken, um ihm dadurch eine entsprechende kirchliche
+                    Karriere in diesem Land zu ermoglichen. Ein angeblicher Plan, das Bistum
+                    Breslau/Wroclaw mit Erzherzog Leopold zu besetzen, kommt nicht zum Tragen. Von
+                    Erzherzog Ferdinand hat Portia erfahren, dass man in Kroatien hoffe, bis nach
+                    Banja Luka vorzudringen, während die Türken sich in Richtung Ungarn bewegen.
+                    Versichert Aldobrandini seine Ergebenheit und ordnet sich den Entscheidungen
+                    bezüglich seiner Person unter.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="152.2">Portia an Aldobrandini - Graz, 1600 Juli 24</head>
+            <div>
+                <p>Questo Arciduca attende tuttavia l’occasione di stringersi sempre più col Re suo
+                    Cognato et l’Arciduchessa madre sta anch’essa continuamente osservando
+                    l’opportunità di potersi valere del mezzo et auttorità della Regina, della quale
+                    si aspetta con infinito desiderio di udire che ci sia la certezza della
+                    gravidanza, essendo certo che all’hora si procurerà di accertarsi et <pb
+                        xml:id="P5_0000370"/>assicurarsi di molte cose. Intanto ho inteso da parte
+                    ottima et secreta che la Reina di Spagna tratti et facci prattica acciò che con
+                    l’auttorità et mezzo del Re si disponghi la M.tà dell’Imperatore a far elleger
+                    Re di Bohemia l’Arciduca Ferdinando, il che se riuscisse al certo si farebbe poi
+                    Re di Romani et poi anco Imperatore, che è ben punto assai difficile per
+                    l’esclusione dell’Arciduca Mattias fratello dell’Imperatore, ma l’haverlo io da
+                    luoco assai fidato et securo mi ha fatto darle orecchie et credenza et anco
+                    significarlo a V. S. Ill.ma.</p>
+                <p>Si segue nel pensiero di trovar occasione di mandar un di questi Arciduchi più
+                    giovani in Spagna et ho sentito ultimamente discorrere uno de più confidenti che
+                    si potrebbe anco sperare alcuna cosa buona et di consequenza, se si mandasse
+                    l’Arciduca Leopoldo con l’occasione et pretesto di porlo in studio in Salamanca
+                    et quivi allevato poi ne studii et Idioma di quelle Provincie, pensare ad una di
+                    quelle Chiese più principali et farlo anco Cardinale, con le quai dignità
+                    potrebbe poi esser portato a qualche governo d’importanza come Portogallo,
+                    Milano o Napoli, che servirebbe molto più all’augumento dell’Arciduca
+                    Ferdinando. Ma insomma convien’aspettar la buona congiuntura, essendo il Re di
+                    natura et dispositione tale che non conviene ingombrarlo con molte instanze et
+                    negoti ad un tratto, ma il tutto trattasi con tempo et buon’occasione<note
+                        xml:id="FN5_152.2_01" type="footnote">Im eigenhändigen Bericht Portias vom
+                        26. Juni 1600 war in diesem Zusammenhang noch von den Eh. Maximilian Ernst
+                        oder Leopold die Rede: vgl. Nr. 145.1.</note>.</p>
+                <p>Son’ stati alcuni che hanno questi giorni proposto il Vescovato di Vratislavia
+                    per l’Arciduca Leopoldo<note xml:id="FN5_152.2_02" type="footnote">Der Bischof
+                        von Breslau/Wroclaw Paul Albert war am 5. Juni 1600 verstorben, nachdem er
+                        knapp ein Jahr zuvor zum Bischof gewählt, aber noch nicht als solcher
+                        geweiht worden war: vgl. GATZ, 1448–1648, S. 11.</note>, ma mi han detto che
+                    l’hanno ricusato, di che io son rimasto consolato, stante l’età del Prencipe et
+                    lo stato di quella Chiesa.</p>
+                <p>Di Croatia si haveva buona speranza di far un buon incontro et progresso nella
+                    Bosna et di occupar fors’anche Bagnalucca, luoco principale di quel Regno, et
+                    questo con l’occasione che si credeva che tutti que’ Turchi dovesser passar in
+                    Hungheria et lasciar’ quella parte poco provista et tuttavia si sta con questa
+                    speranza: questo ho havuto dal Prencipe stesso in confidenza secreta.</p>
+                <p>Havendo di già inteso la mente et benignità di V. S. Ill.ma circa la mia persona
+                    et quello che può appartenere a questa carica et Nuntiatura, mi resta solo di
+                    rimettermi humilmente al commando di V. S. Ill.ma et di renderle insieme
+                    humilissime gratie della gratiosissima protettione ch’ella si degna di tener
+                    della servitù mia, et riconoscendomi sempre più per servidore molto obligato et
+                    devoto, resta che V. S. Ill.ma si contenti di favorirmi et consolarmi spesso con
+                    i suoi commandamenti da me sommamente desiderati …</p>
+            </div>
+        </body>
+    </text>
+</TEI>

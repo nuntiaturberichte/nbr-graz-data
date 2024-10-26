@@ -1,181 +1,186 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_249.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1601-08-27" n="1">1601-08-27</title>
-                    <title level="a">249.1. Portia an Aldobrandini - Graz, 1601 August 27</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 111 C, fol. 97r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_249.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1601-08-27" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini,
-                            Pietro</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini, Pietro - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_248.2.xml">248.2. Aldobrandini an Portia - Rom, 1601 August 25</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_250.1.xml">250.1. San Giorgio an Portia - Rom, 1601 September 1</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_077" target="L5_248.2.xml">248.2. Aldobrandini an
-                            Portia - Rom, 1601 August 25</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_077" target="L5_250.3.xml">250.3. Aldobrandini an
-                            Portia - Rom, 1601 September 1</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Erzherzog Ferdinand hat sich ins Feld begeben, da die verspäteten spanischen
-						Truppen endlich eingetroffen sind; weder die Soldaten des Großherzogs der
-						Toskana [Ferdinando I.] noch die zugesagten 1.000 Pferde des Kaisers sind
-						bis jetzt vor Ort. Gian Francesco Aldobrandini ist vermutlich bereits in
-						Warasdin/Varazdin. Portia bittet um den Erlass des péipstlichen Zehents für
-						das Bistum Adria.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="249.1">Portia an Aldobrandini - Graz, 1601 August 27</head>
-				<div>
-					<pb xml:id="P5_0000552"/>
-					<p>Dal dupplicato<note xml:id="FN5_249.1_01" type="footnote">Nicht
-							auffindbar.</note> tra gl’altri particolari intenderà V. S. Ill.ma
-						l’uscita in Campagna del ser.mo Arciduca, la quale sarebbe seguita prima se
-						le genti di Spagna con maggior fretta et pensiero havessero accelerato di
-						giungere in queste parti ove neanco sono pervenute quelle del Gran Duca, se
-						ben si attendono di corto, come anco li mille Cavalli dell’Imperatore, i
-						quali non pare che siano per fermarsi con l’Arciduca per tutto l’assedio et
-						li Capi di questo Essercito fondano tutte le loro speranze nella fanteria,
-						volendo che per il sito palludoso del contorno di Canisa sia più ispediente
-						valersi di gente a piede che a Cavallo, pure la cavalleria del Turco è per
-						il più stata quella ch’ha dato sempre da fare a Cesarei. A quest’hora penso
-						che l’Ecc.mo Sig. Giovan Francesco sarà giunto a Varasdino, se peraventura
-						non haverà voluto che la soldatesca riposi almeno un giorno per camino,
-						poiché disegnava di fare la via di Zagabria al sodetto luoco in cinque dì.
-						Li Agenti miei, ch’hanno cura delle entrate del mio Vescovato, tengono ch’io
-						non habbia a pagare le decime imposte quest’anno da N. S. non solo perché
-						altri che sono in servitio della Sede Apostolica restano essenti da simil
-						peso, ma perché io oltre il servitio mi truovo medesimamente nel luoco
-						stesso ove s’impiegano, et con qualche fatica di più dell’ordinario, onde
-						vengo ciò a rappresentare humilmente a V. S. Ill.ma affine così parendo alla
-						benignità sua si degni d’impetrarmi gratia dell’essentione da S. B.ne, ch’io
-						sarò per conoscerla dalla solita humanità di V. S. Ill.ma …</p>
-					<p>
-						<note xml:id="SN249.1_a" type="siglum">Eigenhändige Ergänzung
-							Portias.</note> V. S. Ill.ma et Rev.ma alla quale rimetto humilmente et
-						raccomando con ogni riverente affetto ogni cosa mia et me stesso, non
-						havendo in questo mondo cosa che più mi prema che sodisfare et servire a V.
-						S. Ill.ma.<ref target="#SN249.1_a">*a)</ref>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_249.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1601-08-27" n="1">1601-08-27</title>
+                <title level="a">249.1. Portia an Aldobrandini - Graz, 1601 August 27</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 111 C, fol. 97r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_249.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1601-08-27" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
+                        Pietro - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_248.2.xml"
+                        >248.2. Aldobrandini an Portia - Rom, 1601 August 25</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_250.1.xml">250.1.
+                        San Giorgio an Portia - Rom, 1601 September 1</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_248.2.xml">248.2. Aldobrandini an
+                        Portia - Rom, 1601 August 25</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_077" target="L5_250.3.xml">250.3. Aldobrandini an
+                        Portia - Rom, 1601 September 1</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Erzherzog Ferdinand hat sich ins Feld begeben, da die verspäteten spanischen
+                    Truppen endlich eingetroffen sind; weder die Soldaten des Großherzogs der
+                    Toskana [Ferdinando I.] noch die zugesagten 1.000 Pferde des Kaisers sind bis
+                    jetzt vor Ort. Gian Francesco Aldobrandini ist vermutlich bereits in
+                    Warasdin/Varazdin. Portia bittet um den Erlass des péipstlichen Zehents für das
+                    Bistum Adria.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="249.1">Portia an Aldobrandini - Graz, 1601 August 27</head>
+            <div>
+                <pb xml:id="P5_0000552"/>
+                <p>Dal dupplicato<note xml:id="FN5_249.1_01" type="footnote">Nicht
+                        auffindbar.</note>tra gl’altri particolari intenderà V. S. Ill.ma l’uscita
+                    in Campagna del ser.mo Arciduca, la quale sarebbe seguita prima se le genti di
+                    Spagna con maggior fretta et pensiero havessero accelerato di giungere in queste
+                    parti ove neanco sono pervenute quelle del Gran Duca, se ben si attendono di
+                    corto, come anco li mille Cavalli dell’Imperatore, i quali non pare che siano
+                    per fermarsi con l’Arciduca per tutto l’assedio et li Capi di questo Essercito
+                    fondano tutte le loro speranze nella fanteria, volendo che per il sito palludoso
+                    del contorno di Canisa sia più ispediente valersi di gente a piede che a
+                    Cavallo, pure la cavalleria del Turco è per il più stata quella ch’ha dato
+                    sempre da fare a Cesarei. A quest’hora penso che l’Ecc.mo Sig. Giovan Francesco
+                    sarà giunto a Varasdino, se peraventura non haverà voluto che la soldatesca
+                    riposi almeno un giorno per camino, poiché disegnava di fare la via di Zagabria
+                    al sodetto luoco in cinque dì. Li Agenti miei, ch’hanno cura delle entrate del
+                    mio Vescovato, tengono ch’io non habbia a pagare le decime imposte quest’anno da
+                    N. S. non solo perché altri che sono in servitio della Sede Apostolica restano
+                    essenti da simil peso, ma perché io oltre il servitio mi truovo medesimamente
+                    nel luoco stesso ove s’impiegano, et con qualche fatica di più dell’ordinario,
+                    onde vengo ciò a rappresentare humilmente a V. S. Ill.ma affine così parendo
+                    alla benignità sua si degni d’impetrarmi gratia dell’essentione da S. B.ne,
+                    ch’io sarò per conoscerla dalla solita humanità di V. S. Ill.ma …</p>
+                <p>
+                    <note xml:id="SN5_249.1_a" type="siglum">Eigenhändige Ergänzung
+                    Portias.</note>V. S. Ill.ma et Rev.ma alla quale rimetto humilmente et
+                    raccomando con ogni riverente affetto ogni cosa mia et me stesso, non havendo in
+                    questo mondo cosa che più mi prema che sodisfare et servire a V. S. Ill.ma.<ref
+                        target="#SN5_249.1_a"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

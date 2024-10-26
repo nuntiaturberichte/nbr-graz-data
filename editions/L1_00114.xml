@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1_00114">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1581-08-31" n="1">1581-08-31</title>
+                <title level="a">114. Malaspina an Gallio - Seckau, 1581 August 31</title>
+                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina; Sendung des Antonio
+                            Possevino; 1580-1582</title>
+                        <idno type="ISBN">3-7001-0023-X</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1973</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                                <persName>Santifaller Leo</persName>
+                                <persName>Schmidinger Heinrich</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Bearbeitung und Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="1">1. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="492">492 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 100, f. 344r—345r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L1_00114">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <date when="1581-08-31" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2765335">Seckau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
+                        - Malaspina, Germanico</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L1_00113.xml"
+                        >113. Gallio an Malaspina - Rom, 1581 August 19</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L1_00115.xml">115.
+                        (Seckau, 1581 vor September 3)</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00113.xml">113. Gallio an Malaspina -
+                        Rom, 1581 August 19</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_001" target="L1_00116.xml">116. Gallio an Malaspina -
+                        Rom, 1581 September 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Günstiger Verlauf der Visitation in Admont, Rottenmann, Judenburg und Seckau.
+                    Einsetzung eines neuen Abtes in Admont. Absetzung und Einkerkerung des Propstes
+                    von Rottenmann. Ausgezeichneter Katholik zum General der Türkengrenze ernannt.
+                    Bevorstehendes Zusammentreffen mit der Kaiserin.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="114">Malaspina an Gallio - Seckau, 1581 August 31</head>
+            <div>
+                <p>Insin’hora la visita per gratia del Signore passa molto felicemente et è tale la
+                    dispositione al bene, che si vede ne le persone basse <pb xml:id="P1_0000316"
+                    />che se ci fosse pastore qua che vigilasse un poco sopra di loro, si
+                    vederebbono mirabili frutti. Io finii la visita del’ abbatia di Admonte, dove
+                    feci abbate quel p. Hoffomam, chiamato da me da S. Lamperto,<note
+                        xml:id="FN1_00114_01" type="footnote"> Siehe Nr. 111, Anm. 3.</note>noto al
+                    p. Toledo per non haver voluto mons. Polidoro accettare l’abbatia con le
+                    conditioni propostele da me, se ben nel resto non si è ritrovato cosa contra la
+                    persona sua degna di castigo. <note xml:id="FN1_00114_02" type="footnote">Vgl.
+                        Nr. 36.</note>S. A. istessa volse personalmente venir a vedere il modo che
+                    si teniva nela visita, et restò sodisfattissima.<note xml:id="FN1_00114_03"
+                        type="footnote"> Vgl. Nr. 108, Anm. 8.</note>L’arcivescovo di Salisburgo mi
+                    mandò quattro frati di Baviera di buona vita, per quanto scrive, di modo che ho
+                    lasciato nel monasterio 12 frati et ce ne ritrovai tre. Tutti hanno fatto li
+                    essercitii dela Compagnia et si sono confessati generalmente. Mi trasferii poi
+                    ne la città di Rothmam per riformare quella prepositura di canonici regolari,
+                        <note xml:id="FN1_00114_04" type="footnote">Augustiner-Chorherrenstift
+                        Rottenmann.</note>et fui sforzato di condur meco prigione il preposito <note
+                        xml:id="FN1_00114_05" type="footnote">Johann III. Muchitsch, seit 5. Mai
+                        1578 Propst von Rottenmann, hatte 1586—1607 die Propstei wieder inne
+                        (Lindner, Monasticon, S. 32). An seine Stelle war inzwischen von Malaspina
+                        der Weltpriester Christoph Staindl gesetzt worden. Der Salzburger
+                        Visitationskommissar Dr. Fickler protestierte gegen diese Privation und
+                        Bestellung (Salzburger Konsistorialarchiv, Seckau 4/20, f.
+                    14r).</note>insieme con la concubina sua. Et hora è ancora qua in carcere et
+                    l’ho privato et data la prepositura ad un alumno di buoni costumi et buon
+                    predicatore. La città di Rothmam è quella dove Hofmam, fuori dela porta, ha
+                    fabricato un tempio in forma de la rotonda, <note xml:id="FN1_00114_06"
+                        type="footnote">Diese außerhalb der Stadt gelegene Hoffmannsche Kirche wurde
+                        1599 im Auftrag der landesfürstlichen (Gegen)reformalionskommission
+                        vollständig zerstört (Schuster, Martin Brenner, S. 427).</note>dove concorre
+                    la maggior parte de’ paesi convicini et concorrendo con questo la scandalosa
+                    vita del prevosto et de’ suoi, ognuno si può immaginare quanto di giorno in
+                    giorno si andassero perdendo le afflitte reliquie de catholici. Hora speriamo in
+                    Dio che quella prepositura, nela quale non intrava altro che una vecchia a la
+                    messa, si ridurrà a poco a poco a qualche buon stato. Dopo ho visitato il
+                    monasterio di monache in Judenburgo, del’ ordine di S. Benedetto et si è a mio
+                    giuditio fatto frutto grande. <note xml:id="FN1_00114_07" type="footnote"
+                        >Wahrscheinlich ist das Klarissenkloster in Judenburg
+                    gemeint.</note>Ultimamente mi son transferito in questa chiesa cathedrale di
+                    Secovia, dove ho ritrovato tam in capite quam in membris gran bisogno di
+                    riforma, ma spero che senza strepito si guadangerà et il vescovo et il
+                        preposito<pb xml:id="P1_0000317"/> per esser loro amici miei <note
+                        xml:id="FN1_00114_08" type="footnote">Vgl. Nr.43, S.132 f, Nr. 52, S.154,
+                        Nr. 57, S.165, und Nr. 115. Georg Agricola hatte die Bistümer Seckau und
+                        Lavant inne, zeichnete sich durch kluges politisches Verhalten aus und
+                        pflegte teilweise freundschaftliche Beziehungen zu evangelischen
+                        Landständen. Lorenz Spielberger, 1566—1587 Propst von Seckau, war trotz
+                        seines konkubinarischen Lebens ein verdienstvoller Prälat (Amon, Die
+                        Bischöfe von Graz-Seckau 1218—1968, S. 250; Roth, Seckau, S.
+                        484—486).</note>et per darmi molta fede et già le cose sono in buon termine.
+                    Fra tre giorni partirò di qua et visitarò il monasterio di monache in Loiben,
+                    dove stanno molte Italiane nobili et mi sforzarò di introdurci una buona
+                    clausura, acciò non naschino per l’avvenire li scandali che per il passato sono
+                    successi. <note xml:id="FN1_00114_09" type="footnote">Siehe Nr. 117, S.
+                        323.</note>Finito ch’io havrò di visitare lasciarò un padre Gesuita venuto
+                    da Vienna per questo effetto, acciò egli dia li essercitii dela Compagnia et
+                    facci fare la confessione generale et in verità si fa con questo mezzo frutto
+                    grandissimo. Ho mandato ancora uno a S. Lamberto per vedere se si è posto in
+                    essecutione la riforma che ordinai.<note xml:id="FN1_00114_10" type="footnote">
+                        Vgl. Nr. 99, S. 285, und Nr. 117, S. 322.</note>
+                </p>
+                <p>È morto il generale deli confini, il quale era heretico. S. A. ha a
+                    contemplatione di S. Stà dato questo carico al sig. marescialle, ottimo
+                    catholico et mio amicissimo,<note xml:id="FN1_00114_11" type="footnote">Hans
+                        Ambros von Thum, 1580—1587 Hofmarschall (Thiel, Zentralverwaltung, S. 204;
+                        Loserth, Reformation und Gegenreformation, S. 498).</note>di modo che
+                    havremo, piacendo al Signore, presto il capitanio del paese <note
+                        xml:id="FN1_00114_12" type="footnote">Siehe Nr. 72, Anm. 6.</note>et il
+                    generale deli confini catholici, il che importa assaissimo che quando non si
+                    fosse mai fatto altro, questo non sarebbe poco; spero che S. Bne ne sentirà
+                    consolatione.</p>
+                <p>Circa li altri negotii, io penso di esser a Graz fra 10 giorni, nel quale tempo
+                    ci sarà ancora l’A. S., et non mancarò di usare ogni diligentia, acciò si
+                    perfettioni quello che si è consultato.</p>
+                <p>S. A. mi scrive hor bora che la Mtà del’imperatrice sarà tra quattro giorni in
+                    Pruch, et mi invita a farle compagnia.<note xml:id="FN1_00114_13"
+                        type="footnote">Vgl. Nr. 119, S. 327. Malaspina begab sich daraufhin nach
+                        Bruck a. d. Mur, wo er im Admonter Haus bewirtet wurde (Wichner, Geschichte
+                        des Benediktinerstiftes Admont IV, S. 216).</note>Però io, non potendo
+                    mancare al desiderio di S. A., mi metterò in viaggio per quella volta...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

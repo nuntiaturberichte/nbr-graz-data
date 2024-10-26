@@ -1,222 +1,227 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_076.1"><teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
-                    <title type="iso-date" when-iso="1599-09-20" n="1">1599-09-20</title>
-                    <title level="a">76.1. Portia an San Giorgio - Graz, 1599 September 20</title>
-                    <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
-                    <respStmt>
-                        <persName>Kroissenbrunner Martin</persName>
-                        <resp>Transkription und TEI-Kodierung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Schopper Daniel</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
-                        <resp>Beratung</resp>
-                    </respStmt>
-                    <funder>
-                        <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann
-                            Andreas</persName>
-                        <address>
-                            <orgName>Historisches Institut beim Österreichischen Kulturforum in
-                                Rom</orgName>
-                            <street>Viale Bruno Buozzi 111-113</street>
-                            <settlement>Rom</settlement>
-                            <postCode>00197</postCode>
-                            <country>Italien</country>
-                        </address>
-                    </funder>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Austrian Centre for Digital Humanities and Cultural
-                        Heritage</publisher>
-                    <pubPlace>Vienna</pubPlace>
-                    <date when="2024">2024</date>
-                    <availability>
-                        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                            <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
-                                vervielfältigen und weiterverbreiten Bearbeiten – das Material
-                                remixen, verändern und darauf aufbauen und zwar für beliebige
-                                Zwecke, sogar kommerziell.</p>
-                            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie
-                                sich an die Lizenzbedingungen halten. Unter folgenden
-                                Bedingungen:</p>
-                            <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben
-                                machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
-                                vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art
-                                und Weise gemacht werden, allerdings nicht so, dass der Eindruck
-                                entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
-                                besonders. Keine weiteren Einschränkungen – Sie dürfen keine
-                                zusätzlichen Klauseln oder technische Verfahren einsetzen, die
-                                anderen rechtlich irgendetwas untersagen, was die Lizenz
-                                erlaubt.</p>
-                            <p>Hinweise:</p>
-                            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher
-                                Teile des Materials, die gemeinfrei sind, oder soweit Ihre
-                                Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts
-                                gedeckt sind. Es werden keine Garantien gegeben und auch keine
-                                Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht
-                                alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es
-                                können beispielsweise andere Rechte wie Persönlichkeits- und
-                                Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials
-                                entsprechend beschränken.</p>
-                        </licence>
-                    </availability>
-                </publicationStmt>
-                <seriesStmt>
-                    <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
-                        (1580-[1602])</p>
-                </seriesStmt>
-                <sourceDesc>
-                    <biblStruct corresp="book">
-                        <monogr>
-                            <editor>
-                                <persName ref="http://viaf.org/viaf/294639832">Zingerle
-                                    Elisabeth</persName>
-                            </editor>
-                            <title type="main">Grazer Nuntiatur</title>
-                            <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
-                            <idno type="ISBN">978-3-7001-7146-1</idno>
-                            <imprint>
-                                <pubPlace>Wien</pubPlace>
-                                <date>2012</date>
-                                <publisher>
-                                    <orgName>Österreichische Akademie der Wissenschaften</orgName>
-                                    <orgName>Historisches Institut beim Österreichischen Kulturforum
-                                        in Rom</orgName>
-                                    <persName>Bösel Richard</persName>
-                                    <persName>Fillitz Hermann</persName>
-                                </publisher>
-                                <respStmt>
-                                    <resp>Unterstützung bei Herausgabe</resp>
-                                    <orgName>Historische Landeskommission für Steiermark</orgName>
-                                </respStmt>
-                            </imprint>
-                            <biblScope unit="volume" n="5">5. Band</biblScope>
-                            <extent>
-                                <measure unit="pages" quantity="974">974 Seiten</measure>
-                            </extent>
-                        </monogr>
-                        <series>
-                            <title type="main">Publikationen des Historischen Instituts beim
-                                Österreichischen Kulturforum in Rom</title>
-                            <title type="sub">Nuntiaturberichte</title>
-                        </series>
-                    </biblStruct>
-                <msDesc><msIdentifier><collection>
-								<lb/>ASV, Fondo Borghese, serie III 113 B, fol. 150r–v,
-								Orig.</collection>
-						</msIdentifier></msDesc></sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <correspDesc n="L5_076.1">
-                    <correspAction type="sent">
-                        <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
-                        <date when="1599-09-20" n="1"/>
-                        <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini,
-                            Cinzio</persName>
-                    </correspAction>
-                    <correspContext>
-                        <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini, Cinzio - Portia, Girolamo</ref>
-                        <ref subtype="previous_letter" type="withinCollection" target="L5_075.5.xml">75.5. Aldobrandini an Portia - Rom, 1599 September 18</ref>
-                        <ref subtype="next_letter" type="withinCollection" target="L5_077.1.xml">77.1. San Giorgio an Portia - Rom, 1599 September 25</ref>
-                        <ref subtype="previous_letter" type="withinCorrespondence" source="correspondence_040" target="L5_075.4.xml">75.4. San Giorgio an
-                            Portia - Rom, 1599 September 18</ref>
-                        <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_040" target="L5_077.1.xml">77.1. San Giorgio an
-                            Portia - Rom, 1599 September 25</ref>
-                    </correspContext>
-                </correspDesc>
-            <abstract><p>Eine Lösung des Uskokenproblems ist nur möglich, wenn die Finanzierung für
-						die Besatzung von Zengg/Senj feststeht. Weder der Kaiser noch der Erzherzog
-						werden sich in Venedig um einen Kredit bemühen, sondern eher wieder beim
-						Heiligen Stuhl anklopfen. Portia hat sich bisher diesbezüglich taub
-						gestellt. Eine deutsche Besatzung wäre einer italienischen vorzuziehen.
-						Erzherzog Ferdinand, dem das päpstliche Breve übermittelt wurde, hofft auf
-						das baldige Zustandekommen der Verhandlungen in Rom durch den kaiserlichen
-						Botschafter [R. von Thurn]. Die Erzherzöge freuen sich über die Dispens für
-						Erzherzog Karl und bitten um deren Erweiterung. Portia wartet auf
-						Anweisungen für Passau, wo sich der bayerische Herzog [Maximilian I.] und
-						das Domkapitel auf die habsburgischen Wünsche einstellen müssen. Erzherzogin
-						Maria Christierna ist wieder gesund.</p>
-				</abstract></profileDesc>
-        </teiHeader>
-        <text>
-			<body>
-				<head n="76.1">Portia an San Giorgio - Graz, 1599 September 20</head>
-				<div>
-					<p>Nel particolare degl’Uscocchi significai a V. S. Ill.ma la settimana
-							passata<note xml:id="FN5_076.1_01" type="footnote">Nr. 74.2.</note> con
-						quant’efficacia io havevo proposto a questo Ser.mo Arciduca che si dovesse
-						venire a qualche rimedio, et le soggionsi anco gl’argomenti ch’adducono
-						questi Signori dell’impossibilità loro et quello che viene ad<pb xml:id="P5_0000206"/> dotto da Cesarei, et con tutto che ’l Sig.
-						Flaminio Delfini presuponga facile l’imprestito de Signori Venetiani, io
-						nondimeno vi scuopro delle difficoltà che non facilmente sogliono questi
-						Signori, né quelli di Praga communicar a ciascuno; né per me credo che
-						quest’Arciduca si muoverà mai a farn’instanza presso la Republica se
-						l’Imperatore non si fa egli capo della dimanda, anzi dubito che quando si
-						verrà al restringimento del provedervi, che ricorreranno a pregar più tosto
-						per aiuto da N. S., da che mi son sempre ito allontanando quanto più m’è
-						stato possibile, benché più volte m’habbino voluto persuadere che la spesa
-						di mantenere nuovo presidio non eccederebbe diciottomila o ventimila scudi
-						l’anno et che questa somma si potrebbe cavare da qualche Decima o da qualche
-						contributione di Mercanti, ma in ogni caso che N. S. dovess’entrare in
-						questo negotio, sarebbe molto da considerare, se il spogliare affatto quel
-						Confine degl’Uscocchi potess’apportare incommodo notabile, se bene il levar
-						loro l’occasione et il commodo delle Barche è in tutto necessario et se ’l
-						porvi gente Alemanna fosse più profitevole che gl’Italiani, huomini più atti
-						et più espediti all’acciuffarsi con Turchi nell’occasione<note xml:id="SN076.1_a" type="siglum">Eigenhändig von Portia ersetzt für
-							essi.</note> che Turchi<ref target="#SN076.1_a">*a)</ref> et li
-						Murlacchi sogliono correr sin sotto la muraglia di Segna, le quai cose
-						giudicherei considerabili nel caso della riforma et mutatione del presidio
-						che si tratta per la difesa di quel Confine et per il publico beneficio
-						della Christianità et d’Italia in particolare.</p>
-					<p>Doppo questo ho poi anco fatto l’officio che V. S. Ill.ma m’ha imposto
-						accompagnare il Breve diretto all’Arciduca<note xml:id="FN5_076.1_02" type="footnote">Clemens VIII. an Ferdinand, Rom, 1599 September 4:
-							NANNIIMRKONJIé 3, Nr. 13277.</note> et replicato tutti quegl’argomenti
-						et ragioni c’ho potuto imaginarmi convenirsi alla dispositione et promotione
-						del negotio, et non ho potuto ritrar altro che quello che scrissi a V. S.
-						Ill.ma la settimana passata, che è che l’Arciduca tiene desiderio
-						particolare di veder accommodato questo negotio, né da esso mancherà mai
-						volontà né diligenz’alcuna per componerlo, sì come S. A. medesima
-						significherà al creder mio a S. B.ne et a V. S. Ill.ma, et credo che per
-						quest’effetto si sia spedito subito corriero espresso a S. M.tà per
-						sollecitar ad unirsi et a consultar di qualche partito per rimedio,
-						sollecitandosi qui in tanto di preparar le scritture et le persone c’hanno a
-						venir costà per la commissione della quale scrissi già alcuni giorni sono a
-						V. S. Ill.ma<note xml:id="FN5_076.1_03" type="footnote">Nr. 53.3, 55.2,
-							59.2.</note>, intendendo anco che cotesto Ambasciatore Cesareo<note xml:id="FN5_076.1_04" type="footnote">Raimund von Thurn: vgl. Nr.
-							51.1.</note> habbi havuto commissione di significar il tutto a S. B.ne
-						et richiederla anco del tempo che potrebb’esser più commodo per questa
-							negociatione.<pb xml:id="P5_0000207"/>
-					</p>
-					<p>Ho esposto a questi Serenissimi la concessione et gratia che S. S.tà si è
-						degnata di fare all’Arciduca Carlo per habilitarlo alli Canonicati et
-						dignità Ecclesiastiche nel modo che V. S. Ill.ma m’ha imposto<note xml:id="FN5_076.1_05" type="footnote">Vgl. Nr. 63.2.</note> et lor A. A.
-						ne rendon gratie a N. S. infinite et la supplicano per la estensione a que
-						Vescovadi che sono stati occupati dagl’Heretici et a commettere che quanto
-						prima ne sia spedito ’l Breve, che lo riceveranno per augumento di gratia et
-						di favor singolare.</p>
-					<p>Penso di poter partire la settimana seguente per Possa et perché mi persuado
-						di potermi spedir anco assai presto, aspettarò solo d’intendere se occorrerà
-						et parerà a V. S. Ill.ma di commandarmi cos’alcuna nel proposito del quale
-						le scrissi la settimana passata circa ’l disporre il Sig. Duca di Baviera a
-						quel che desiderarebbono questi Austriaci et sopra tutti que’
-							Capitolari<note xml:id="FN5_076.1_06" type="footnote">Nr. 74.1.</note>
-						…</p>
-					<p>
-						<note xml:id="SN076.1_b" type="siglum">Eigenhändige Ergänzung
-							Portias.</note> L’Arciduchessa Maria Christierna è in stato di
-						convalescenza et è come risanata et heri cominciò a uscir un poco anco dalla
-						sua stanza per ricreatione.<ref target="#SN076.1_b">*b)</ref>
-					</p>
-				</div>
-			</body>
-		</text>
-	</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L5_076.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1599-09-20" n="1">1599-09-20</title>
+                <title level="a">76.1. Portia an San Giorgio - Graz, 1599 September 20</title>
+                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="http://viaf.org/viaf/294639832">Zingerle
+                                Elisabeth</persName>
+                        </editor>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Girolamo Portia; 1599-1602</title>
+                        <idno type="ISBN">978-3-7001-7146-1</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>2012</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                                    Rom</orgName>
+                                <persName>Bösel Richard</persName>
+                                <persName>Fillitz Hermann</persName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="5">5. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="974">974 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Historischen Instituts beim
+                            Österreichischen Kulturforum in Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>ASV, Fondo Borghese, serie III 113 B, fol. 150r–v,
+                            Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L5_076.1">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <date when="1599-09-20" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
+                        Cinzio - Portia, Girolamo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L5_075.5.xml"
+                        >75.5. Aldobrandini an Portia - Rom, 1599 September 18</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L5_077.1.xml">77.1.
+                        San Giorgio an Portia - Rom, 1599 September 25</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_075.4.xml">75.4. San Giorgio an
+                        Portia - Rom, 1599 September 18</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_040" target="L5_077.1.xml">77.1. San Giorgio an
+                        Portia - Rom, 1599 September 25</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Eine Lösung des Uskokenproblems ist nur möglich, wenn die Finanzierung für die
+                    Besatzung von Zengg/Senj feststeht. Weder der Kaiser noch der Erzherzog werden
+                    sich in Venedig um einen Kredit bemühen, sondern eher wieder beim Heiligen Stuhl
+                    anklopfen. Portia hat sich bisher diesbezüglich taub gestellt. Eine deutsche
+                    Besatzung wäre einer italienischen vorzuziehen. Erzherzog Ferdinand, dem das
+                    päpstliche Breve übermittelt wurde, hofft auf das baldige Zustandekommen der
+                    Verhandlungen in Rom durch den kaiserlichen Botschafter [R. von Thurn]. Die
+                    Erzherzöge freuen sich über die Dispens für Erzherzog Karl und bitten um deren
+                    Erweiterung. Portia wartet auf Anweisungen für Passau, wo sich der bayerische
+                    Herzog [Maximilian I.] und das Domkapitel auf die habsburgischen Wünsche
+                    einstellen müssen. Erzherzogin Maria Christierna ist wieder gesund.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="76.1">Portia an San Giorgio - Graz, 1599 September 20</head>
+            <div>
+                <p>Nel particolare degl’Uscocchi significai a V. S. Ill.ma la settimana passata<note
+                        xml:id="FN5_076.1_01" type="footnote">Nr. 74.2.</note>con quant’efficacia io
+                    havevo proposto a questo Ser.mo Arciduca che si dovesse venire a qualche
+                    rimedio, et le soggionsi anco gl’argomenti ch’adducono questi Signori
+                    dell’impossibilità loro et quello che viene ad<pb xml:id="P5_0000206"/>dotto da
+                    Cesarei, et con tutto che ’l Sig. Flaminio Delfini presuponga facile
+                    l’imprestito de Signori Venetiani, io nondimeno vi scuopro delle difficoltà che
+                    non facilmente sogliono questi Signori, né quelli di Praga communicar a
+                    ciascuno; né per me credo che quest’Arciduca si muoverà mai a farn’instanza
+                    presso la Republica se l’Imperatore non si fa egli capo della dimanda, anzi
+                    dubito che quando si verrà al restringimento del provedervi, che ricorreranno a
+                    pregar più tosto per aiuto da N. S., da che mi son sempre ito allontanando
+                    quanto più m’è stato possibile, benché più volte m’habbino voluto persuadere che
+                    la spesa di mantenere nuovo presidio non eccederebbe diciottomila o ventimila
+                    scudi l’anno et che questa somma si potrebbe cavare da qualche Decima o da
+                    qualche contributione di Mercanti, ma in ogni caso che N. S. dovess’entrare in
+                    questo negotio, sarebbe molto da considerare, se il spogliare affatto quel
+                    Confine degl’Uscocchi potess’apportare incommodo notabile, se bene il levar loro
+                    l’occasione et il commodo delle Barche è in tutto necessario et se ’l porvi
+                    gente Alemanna fosse più profitevole che gl’Italiani, huomini più atti et più
+                    espediti all’acciuffarsi con Turchi nell’occasione <note xml:id="SN5_076.1_a"
+                        type="siglum">Eigenhändig von Portia ersetzt für essi.</note>che Turchi<ref
+                        target="#SN5_076.1_a"/> et li Murlacchi sogliono correr sin sotto la
+                    muraglia di Segna, le quai cose giudicherei considerabili nel caso della riforma
+                    et mutatione del presidio che si tratta per la difesa di quel Confine et per il
+                    publico beneficio della Christianità et d’Italia in particolare.</p>
+                <p>Doppo questo ho poi anco fatto l’officio che V. S. Ill.ma m’ha imposto
+                    accompagnare il Breve diretto all’Arciduca<note xml:id="FN5_076.1_02"
+                        type="footnote">Clemens VIII. an Ferdinand, Rom, 1599 September 4:
+                        NANNIIMRKONJIé 3, Nr. 13277.</note>et replicato tutti quegl’argomenti et
+                    ragioni c’ho potuto imaginarmi convenirsi alla dispositione et promotione del
+                    negotio, et non ho potuto ritrar altro che quello che scrissi a V. S. Ill.ma la
+                    settimana passata, che è che l’Arciduca tiene desiderio particolare di veder
+                    accommodato questo negotio, né da esso mancherà mai volontà né diligenz’alcuna
+                    per componerlo, sì come S. A. medesima significherà al creder mio a S. B.ne et a
+                    V. S. Ill.ma, et credo che per quest’effetto si sia spedito subito corriero
+                    espresso a S. M.tà per sollecitar ad unirsi et a consultar di qualche partito
+                    per rimedio, sollecitandosi qui in tanto di preparar le scritture et le persone
+                    c’hanno a venir costà per la commissione della quale scrissi già alcuni giorni
+                    sono a V. S. Ill.ma<note xml:id="FN5_076.1_03" type="footnote"> Nr. 53.3, 55.2,
+                        59.2.</note>, intendendo anco che cotesto Ambasciatore Cesareo <note
+                        xml:id="FN5_076.1_04" type="footnote">Raimund von Thurn: vgl. Nr.
+                        51.1.</note>habbi havuto commissione di significar il tutto a S. B.ne et
+                    richiederla anco del tempo che potrebb’esser più commodo per questa
+                    negociatione.</p>
+                <pb xml:id="P5_0000207"/>
+                <p>Ho esposto a questi Serenissimi la concessione et gratia che S. S.tà si è degnata
+                    di fare all’Arciduca Carlo per habilitarlo alli Canonicati et dignità
+                    Ecclesiastiche nel modo che V. S. Ill.ma m’ha imposto<note xml:id="FN5_076.1_05"
+                        type="footnote">Vgl. Nr. 63.2.</note>et lor A. A. ne rendon gratie a N. S.
+                    infinite et la supplicano per la estensione a que Vescovadi che sono stati
+                    occupati dagl’Heretici et a commettere che quanto prima ne sia spedito ’l Breve,
+                    che lo riceveranno per augumento di gratia et di favor singolare.</p>
+                <p>Penso di poter partire la settimana seguente per Possa et perché mi persuado di
+                    potermi spedir anco assai presto, aspettarò solo d’intendere se occorrerà et
+                    parerà a V. S. Ill.ma di commandarmi cos’alcuna nel proposito del quale le
+                    scrissi la settimana passata circa ’l disporre il Sig. Duca di Baviera a quel
+                    che desiderarebbono questi Austriaci et sopra tutti que’ Capitolari<note
+                        xml:id="FN5_076.1_06" type="footnote">Nr. 74.1.</note>…</p>
+                <p>
+                    <note xml:id="SN5_076.1_b" type="siglum">Eigenhändige Ergänzung
+                    Portias.</note>L’Arciduchessa Maria Christierna è in stato di convalescenza et è
+                    come risanata et heri cominciò a uscir un poco anco dalla sua stanza per
+                        ricreatione.<ref target="#SN5_076.1_b"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

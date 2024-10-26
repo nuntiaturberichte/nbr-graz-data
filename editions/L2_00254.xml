@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L2_00254">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title type="iso-date" when-iso="1585-02-04" n="1">1585-02-04</title>
+                <title level="a">254. Caligari an Gallio - Graz, 1585 Februar 4</title>
+                <author ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
+                <respStmt>
+                    <persName>Kroissenbrunner Martin</persName>
+                    <resp>Transkription und TEI-Kodierung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kofler Sabine</persName>
+                    <resp>Lektorat</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Schopper Daniel</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/13281899X">Kurz Stephan</persName>
+                    <resp>Beratung</resp>
+                </respStmt>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">Gottsmann Andreas</persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Correspondence of the Nuncio in Graz
+                    (1580-[1602])</p>
+            </seriesStmt>
+            <sourceDesc>
+                <biblStruct corresp="book">
+                    <monogr>
+                        <editor>
+                            <persName ref="https://d-nb.info/gnd/118968440">Rainer Johann</persName>
+                        </editor>
+                        <respStmt>
+                            <resp>Mitarbeit</resp>
+                            <persName ref="https://d-nb.info/gnd/14367465X">Weiss Sabine</persName>
+                        </respStmt>
+                        <title type="main">Grazer Nuntiatur</title>
+                        <title type="sub">Nuntiatur des Germanico Malaspina und des Giovanni Andrea
+                            Caligari; 1582-1587</title>
+                        <idno type="ISBN">3-7001-0424-3</idno>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <date>1981</date>
+                            <publisher>
+                                <orgName>Österreichische Akademie der Wissenschaften</orgName>
+                                <orgName>Österreichisches Kulturinstitut in Rom</orgName>
+                            </publisher>
+                            <respStmt>
+                                <resp>Unterstützung bei Herausgabe</resp>
+                                <orgName>Historische Landeskommission für Steiermark</orgName>
+                            </respStmt>
+                        </imprint>
+                        <biblScope unit="volume" n="2">2. Band</biblScope>
+                        <extent>
+                            <measure unit="pages" quantity="526">526 Seiten</measure>
+                        </extent>
+                    </monogr>
+                    <series>
+                        <title type="main">Publikationen des Österreichischen Kulturinstituts in
+                            Rom</title>
+                        <title type="sub">Nuntiaturberichte</title>
+                    </series>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            <lb/>Arch. Vat. Nunz. Germ. 68, f. 88r—89r, Orig.</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc n="L2_00254">
+                <correspAction type="sent">
+                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                        Andrea</persName>
+                    <date when="1585-02-04" n="1"/>
+                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_021">Caligari,
+                        Giovanni Andrea - Gallio, Tolemeo</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="L2_00253.xml"
+                        >253. Gallio an Caligari - Rom, 1585 Februar 2</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="L2_00255.xml">255.
+                        Gallio an Caligari - Rom, 1585 Februar 9</ref>
+                    <ref subtype="previous_letter" type="withinCorrespondence"
+                        source="correspondence_021" target="L2_00253.xml">253. Gallio an Caligari -
+                        Rom, 1585 Februar 2</ref>
+                    <ref subtype="next_letter" type="withinCorrespondence"
+                        source="correspondence_021" target="L2_00255.xml">255. Gallio an Caligari -
+                        Rom, 1585 Februar 9</ref>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Gespräche Erzherzog Karls mit häretischen Bürgern. Dispens wegen
+                    Klausurverletzung. Grenzverhandlungen mit Venedig. Wunsch der Erzherzogin Maria
+                    nach zwei Halskreuzchen mit Ablässen. Präzedenzproblem zwischen Erzherzog Karl
+                    und Herzog Wilhelm. Ehedispens für Adeligen aus Görz. Kärntner Landtag ohne
+                    Gespräche über Religion beendet. Erhaltene Fakultäten nicht ausreichend.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head n="254">Caligari an Gallio - Graz, 1585 Februar 4</head>
+            <div>
+                <p>Era offitio mio nel principio di questa nunciatura rappresentare brevemente a V.
+                    S. Ill.ma lo stato presente de la religione in queste provintie et insieme
+                    esporle la speranza che si poteva havere di estirpare l’heresie et propagare la
+                    fede catholica per l’avenire et di poi essequire quel tanto che fosse stato il
+                    suo commandamento. Hora poiché io ho satisfatto a questo debito et ella per la
+                    sua di 19 del passato<note xml:id="FN2_00254_01" type="footnote">Nr.
+                    246.</note>mi ordina quello che le piace si faccia non mancarò di obedirla
+                        con<pb xml:id="P2_0000364"/> ogni studio et se si havrà a riportare frutto
+                    per tener grand’animo io certo non crederò la mia parte a niuno, prego bene V.
+                    S. Ill.ma che mi habbia per escusato se non vedrà le mie lettere et attioni di
+                    quel peso che ella vorebbe.</p>
+                <p>Il trattato che scrissi con le mie prossime passate<note xml:id="FN2_00254_02"
+                        type="footnote">Vgl. oben Nr. 252.</note>essersi messo in campo tra S. A. et
+                    questi cittadini heretici ha dato tutto a la banda senza partorire niuno di quei
+                    buoni effetti che io medesimo non havea ardire di sperare si tiene però mano di
+                    guadagnare più presto che di perdere.</p>
+                <p>Ho scritto al vescovo di Trieste de la gratia fatta da N. S. a suora Eufrosina
+                    Quer et al sig. Matthias suo fratello con tutti gli altri che hebbero colpa nel
+                    violare la clausura di quel monasterio.<note xml:id="FN2_00254_03"
+                        type="footnote">Vgl. oben Nr. 241, Anm. 10.</note>
+                </p>
+                <p>L’ambasciatore Cesareo che resiede in Venetia<note xml:id="FN2_00254_04"
+                        type="footnote">Veit von Dornberg.</note>avvisa S. A. per causa de’ confini
+                    et advertisse che non è se bene a stare a l’erta a le frontiere.</p>
+                <p>Ho risaputo per via secreta che la ser.ma arciduchessa desideraria certe
+                    indulgenze per due crocette da portare al collo, una per se l’altra per
+                    l’arciduca suo consorte,<note xml:id="FN2_00254_05" type="footnote">Vgl. unten
+                        Nr. 305.</note>et pensa di servirsi del mezzo mio in dimandare questa gratia
+                    a S. S.tà. Io credo che sia bene non solo consolarla de l’indulgenza ma ancora
+                    donare le croci a quella guisa, che soleva fare S. Gregorio, quando scrivendo a
+                    li principi diceva che li mandava una croce, dentro la quale era limato del
+                    ferro de le cathene di S. Pietro che voleva a molte infirmità etc.</p>
+                <p>La diligenza che qui si è fatta in scrivere de la precedenza tra S. A. et il duca
+                    di Baviera per quanto intendo ha questo fine che dovendosi trovare ambidui fatto
+                    Pasca in Praga<note xml:id="FN2_00254_06" type="footnote">Herzog Wilhelm kam
+                        nicht nach Prag, möglicherweise um Präzedenzproblemen auszuweichen, und
+                        erhielt das Goldene Vlies in München von Erzherzog Ferdinand (Nr.
+                        277).</note>a pigliare l’ordine del Tosone di mano de l’imperatore si cerca
+                    di andare provisto per tutto quello che possa occorrere o per havere diffinito
+                    il caso prima che si venga sul fatto a la contesa.<note xml:id="FN2_00254_07"
+                        type="footnote"> Vgl. oben Nr. 270, Anm. 9.</note>
+                </p>
+                <p>Sono già tre anni che un nobile di Goritia,<note xml:id="FN2_00254_08"
+                        type="footnote">Wahrscheinlich handelt es sich um Fortunato Catta (Nr.
+                        257).</note>specificato ne l’incluso memoriale <note xml:id="FN2_00254_09"
+                        type="footnote">Nicht vorhanden.</note>accetato da l’amore pigliò per moglie
+                    una cugina<pb xml:id="P2_0000365"/> de la sua prima moglie già morta et ne ha
+                    hauto parecchi figliuoli et perché se la lasciasse hora sarebbe pericolo di
+                    grande scandalo et questione però si supplica la S.tà di N. S. che attesa la
+                    qualità del paese voglia concedere la dispensa, la quale serà sollicitata costì
+                    dal sig. Mannini camerario di S. B.ne; un fratello di questo nobile fa grande
+                    instanza qui perché S. A. parimente ne scriva a S. S.tà.</p>
+                <p>La dieta di Carintia è fornita et felicemente senza parlare di religione, così si
+                    spera di quella di Carniola.<note xml:id="FN2_00254_10" type="footnote"/>
+                </p>
+                <p>Con quest ultimo spaccio ho ricevuto la bolla de le mie facultà, la quale mi
+                    concede solamente di potere absolvere gli heretici da la scommunica et mi
+                    prohibisca dispensare seco sopra l’irregularità, de la quale cosa se ne trarrà
+                    poco frutto.<note xml:id="FN2_00254_11" type="footnote"/>Se paresse a la S.tà di
+                    N. S. di darmi quelle facultà che io haveva in Polonia in questa materia forse
+                    si guadagnarebbono più anime. <note xml:id="FN2_00254_12" type="footnote"
+                        >Fakultäten für Caligari als Nuntius in Polen (Boratynski, Caligari, S.
+                        3—5).</note>Già un gentiluomo di Goritia s’era disposto a mia persuasione di
+                    abituare in man mia, ma io per non fare errore l’ho rimesso a li padri Giesuiti
+                    che hanno facultà più ample di me, et se bene mons. Francesco Orselli ha notitia
+                    et coppia di tutti li brevi che io hebbi in Polonia per conto di heretici,
+                    tuttavia così a la mente ne ho fatto un poco di somario che contiene anco alcuni
+                    dubbi che ho ne le mie facultà, accioché V. S. Ill.ma lo possa leggere a N. S.
+                    et pigliare quel ordine che serà più in piacere di S. S.tà . . .</p>
+            </div>
+        </body>
+    </text>
+</TEI>
