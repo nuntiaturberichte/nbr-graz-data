@@ -122,23 +122,32 @@
                 <p>Ziel dieser Website ist es, sowohl die Briefe als auch die editorische Arbeit
                     einem breiten Publikum zugänglich zu machen und die Recherche durch verschiedene
                     Zugangsmöglichkeiten zu erleichtern. Dazu stehen mehrere Möglichkeiten zur
-                    Verfügung: Erstens das Register, das über alle Bände hinweg auf die wichtigsten
-                    Entitäten verweist. Zweitens das Briefverzeichnis, das alle in den Bänden
-                    enthaltenen Briefe auflistet und nach Verfasser, Empfänger, Absendedatum und
-                    -ort sortiert und durchsucht werden kann. Drittens die Suche, die es erlaubt,
-                    bestimmte Inhalte durch Volltext- und Facettensuche zu finden. Viertens kann man
-                    in der Kalenderansicht aus einer zeitlichen Perspektive heraus auf die Briefe
-                    zugreifen.</p>
+                    Verfügung: <list type="ordered">
+                        <item>Das Briefverzeichnis (unter Menüpunkt »Briefe«), das alle
+                            digitalisierten Briefe auflistet und nach diversen Kategorien sortiert
+                            und durchsucht werden kann.</item>
+                        <item>Die Kalenderansicht (unter Menüpunkt »Kalender«) ermöglicht den
+                            Zugriff auf die Briefe aus einer zeitlichen Perspektive.</item>
+                        <item>Das Register (unter Menüpunkt »Register«), das über alle Bände hinweg
+                            auf die wichtigsten Entitäten verweist. </item>
+                        <item>Die Volltextsuche (unter Menüpunkt »Suche«), ergänzt durch die
+                            Möglichkeit, die Suchergebnisse nach verschiedenen Facetten zu
+                            filtern.</item>
+                    </list></p>
+                <p>Die Briefe sind größtenteils in italienischer und teilweise in lateinischer
+                    Sprache verfasst. Für Personen, die dieser Sprachen nicht mächtig sind, wird
+                    empfohlen, die Übersetzungsfunktion des jeweiligen Browsers zu verwenden, wobei
+                    Google Chrome die besten Ergebnisse liefert.</p>
                 <p>Die Daten sind mit einer freien Lizenz versehen (CC BY&#160;4.0). Sie ermöglicht
                     es, ohne Nachfrage, aber mit Nennung der Datenherkunft, die Daten
                     weiterzuverwenden und zu bearbeiten. Die Daten selbst folgen weitgehend den
-                    Empfehlungen der <ref target="https://tei-c.org/guidelines/p5/">TEI
-                        P5</ref>. Die Kodierung wird im Menüpunkt »<ref target="..."
-                        >Kodierungsrichtlinien</ref>« separat beschrieben.</p>
-                <p>Unter "Bandeinleitungen" findet man zu jedem Band historische Kontextualisierung,
-                    Quellenangaben, Literatur- sowie Abkürzungsverzeichnisse und
-                    Auflistungen benutzter Archive</p>
-                <p>Wie handwerklich vorgegangen wurde lässt sich unter »<ref type="URL" target="..."
+                    Empfehlungen der <ref target="https://tei-c.org/guidelines/p5/">TEI P5</ref>.
+                    Die Kodierung wird im Menüpunkt »<ref target="kodierungsrichtlinien.html">Kodierungsrichtlinien</ref>«
+                    separat beschrieben.</p>
+                <p>Unter »Bandeinleitungen« findet man zu jedem Band historische Kontextualisierung,
+                    Quellenangaben, Literatur- sowie Abkürzungsverzeichnisse und Auflistungen
+                    benutzter Archive</p>
+                <p>Wie handwerklich vorgegangen wurde lässt sich unter »<ref type="URL" target="arbeitsablauf.html"
                         >Arbeitsablauf</ref>« nachlesen. Die XML-Dokumente können über ein <ref
                         target="https://github.com/nuntiaturberichte/nbr-graz-data"
                         >GitHub-Repositorium</ref> heruntergeladen werden.</p>
@@ -158,9 +167,10 @@
                 <p>Auftraggeber: Univ.-Doz. Dr. Andreas Gottsmann</p>
                 <p>Umsetzung: Martin Kroißenbrunner B.Ed., M.A. (2022-2024)</p>
                 <p>Projektmitarbeit:</p>
-                <list>
+                <list type="unordered">
                     <item>Mag. Daniel Schopper (2022-2024)</item>
                     <item>Dr. Stephan Kurz (2022-2024)</item>
+                    <item>Mag. Dr. Peter Andorfer (2024)</item>
                     <item>Sabine Kofler B.A., M.A. (2023)</item>
                 </list>
             </div>
