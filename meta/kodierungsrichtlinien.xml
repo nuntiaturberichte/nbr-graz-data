@@ -88,8 +88,8 @@
                         in den Dateien vorkommen. Für jedes Element wird in Listenpunkten der
                         entsprechende XPath angegeben, ebenso wie die Information, ob das jeweilige
                         Element für einen Brief zwingend erforderlich ist.</p>
-                    <div type="4">
-                        <head type="4">TEI[@xml:id]</head>
+                    <div type="3">
+                        <head type="3">TEI[@xml:id]</head>
                         <list>
                             <item>XPath: /TEI</item>
                             <item>erforderlich: ja</item>
@@ -97,8 +97,9 @@
                         <p>Das <code>TEI</code>-Element ist das Wurzelelement eines Briefes. Das
                             Attribut <code>@xml:id</code> enthält als Wert die Band- und Briefnummer
                             und matcht den RegEx <code>"L(\d)_([\d\.]{5})"</code> (beispielsweise
-                                <code>"L1_00001"</code>). In diesem Format entspricht <code>$1</code>
-                            der Bandnummer und <code>$2</code> der Briefnummer.</p>
+                                <code>"L1_00001"</code>). In diesem Format entspricht
+                                <code>$1</code> der Bandnummer und <code>$2</code> der
+                            Briefnummer.</p>
                     </div>
 
                     <div type="3">
@@ -205,9 +206,10 @@
                                     /TEI/text/body/div//pb</item>
                                 <item>erforderlich: nein</item>
                             </list>
-                            <p>Dieses Element markiert den Beginn einer Seite und dient als Ziel für Verlinkungen aus dem Register. Das Attribut
-                                    <code>@xml:id</code> enthält die Band- und Seitennummer, die im
-                                Format <code>"P(\d)_(\d{7})"</code> angegeben wird. Beispiel:
+                            <p>Dieses Element markiert den Beginn einer Seite und dient als Ziel für
+                                Verlinkungen aus dem Register. Das Attribut <code>@xml:id</code>
+                                enthält die Band- und Seitennummer, die im Format
+                                    <code>"P(\d)_(\d{7})"</code> angegeben wird. Beispiel:
                                     <code>"P1_0000001"</code>. Hierbei steht <code>$1</code> für die
                                 Bandnummer und <code>$2</code> für die Seitennummer.</p>
 
@@ -231,23 +233,44 @@
                         </div>
 
                         <div type="4">
-                            <head type="4">anchor, hi und note</head>
+                            <head type="4">note[@type='siglum']</head>
                             <list>
-                                <item>XPath: /TEI/text/body/head/(anchor | hi | note) |<lb/>
-                                    /TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/collection/p/(anchor
-                                    | hi | note) |<lb/>
-                                    /TEI/teiHeader/fileDesc/sourceDesc/bibl[@type="beilage"]/(anchor
-                                    | hi | note) |<lb/> /TEI/text/body/div/p/(anchor | hi |
-                                    note)</item>
+                                <item>XPath: /TEI/text/body/head/note
+                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/collection/p/note
+                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/bibl[@type="beilage"]/note
+                                    |<lb/>/TEI/text/body/div/p/note</item>
                                 <item>erforderlich: nein</item>
                             </list>
-                            <p><code>anchor</code>, <code>hi</code> und <code>note</code> treten
-                                stets in Verbindung auf. Das <code>anchor</code>-Element
-                                kennzeichnet den Beginn eines Zitats, <code>hi</code> enthält das
-                                Hochstellungszeichen, und <code>note</code> den Fußnotentext. Die
-                                Unterscheidung zwischen Fußnoten-Text und Siglen-Text erfolgt durch
-                                die Attribute <code>@type="footnote"</code> und
-                                    <code>@type="siglum"</code>.</p>
+                            <p>Dieses Element unterscheidet sich von einer regulären Fußnote
+                                    (<code>note[@type='footnote']</code>). Nach dem Verständnis der
+                                Editoren beziehen sich reguläre Fußnoten auf den Inhalt des Briefes,
+                                während Sigla philologische Aspekte des Textes wie Streichungen,
+                                Ergänzungen, schwer lesbare Wörter oder Textlücken kennzeichnen.
+                                Neben <code>@type</code> enthält dieses Element das Attribut
+                                    <code>@xml:id</code>, dessen Wert folgenden RegEx matcht:
+                                    <code>SN(\d)_([\d\.]{5}|[\d]{4}A)_([a-z])</code>.
+                                    <code>$1</code> bezieht sich auf die Band-, <code>$2</code> auf
+                                die Briefnummer und <code>$3</code> auf das Siglazeichen.</p>
+                            <p>Sigla können Spannen bilden. In solchen Fällen verweist ein
+                                    <code>ref@target</code> auf das entsprechende
+                                    <code>note@xml:id</code></p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">note[@type='footnote']</head>
+                            <list>
+                                <item>XPath: /TEI/teiHeader/profileDesc/abstract/p/note
+                                    |<lb/>/TEI/text/body/head/note |<lb/>/TEI/text/body/div/p/note
+                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/collection/note
+                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/bibl[@type="beilage"]/note</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p>Wie bereits erwähnt beziet sich dieses Element auf die inhaltliche
+                                Ebene eines Briefes. Neben <code>@type</code> enthält dieses Element
+                                das Attribut <code>@xml:id</code>, dessen Wert folgenden RegEx
+                                matcht: <code>FN\d_([\d\.]{5}|[\d]{4}A)_\d{2}</code>.
+                                    <code>$1</code> bezieht sich auf die Band-, <code>$2</code> auf
+                                die Briefnummer und <code>$3</code> auf die Fußnotenziffer.</p>
                         </div>
                     </div>
                 </div>
