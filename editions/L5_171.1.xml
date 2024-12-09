@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1600-11-13" n="1">1600-11-13</title>
                 <title level="a">171.1. Portia an San Giorgio - Graz, 1600 November 13</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -118,12 +118,12 @@
         <profileDesc>
             <correspDesc n="L5_171.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1600-11-13" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <persName ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
@@ -179,9 +179,8 @@
                     presente Abbate, per essere ricco et per havere sotto di se alcuni altri
                     Monstaterii della religione, onde tanto più devo raccommandare la cosa a V. S.
                     Ill.ma, presso la quale doverà essere solicitata dal Procuratore Generale
-                    residente costì del medesimo ordine<note xml:id="FN5_171.1_04" type="footnote">
-                        Vincent Longuespée: vgl. Nr. 153.3.</note>…<ref target="#SN5_171.1_b"/>
-                </p>
+                    residente costì del medesimo ordine <note xml:id="FN5_171.1_04" type="footnote"
+                        >Vincent Longuespée: vgl. Nr. 153.3.</note>… <ref target="#SN171.1_b"/></p>
             </div>
         </body>
     </text>

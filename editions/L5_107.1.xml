@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1600-01-31" n="1">1600-01-31</title>
                 <title level="a">107.1. Portia an Aldobrandini - Graz, 1600 Januar 31</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -114,12 +114,12 @@
         <profileDesc>
             <correspDesc n="L5_107.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1600-01-31" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <persName ref="http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
@@ -163,13 +163,13 @@
                     gratia mandata ad effetto et espedita nei modi che saranno necessarii, sì come
                     havendo con questo stesso ordinario ricevute alcune scritture dal Sig. Paolucci
                     in materia di certo aggravio che pretende essergli stato fatto dal Capitano di
-                        Tolmino<note xml:id="FN5_107.1_02" type="footnote"> Die Schreiben Pauluccis
-                        an Portia sind nicht auffindbar. Den Akten der innerosterreichischen
-                        Hofkammer kann man entnehmen, dass Kaspar Formentin in den Jahren 1600–1602
-                        Hauptmann von Tolmein/Tolmin war: vgl. StLA, HK-Reg. 1600– 1603, fol.
-                        136v–137r; StLA, HK-Ex. 1602, fol. 529v.</note>, non tralasciarò di
-                    rappresentare ogni cosa al Ser.mo Arciduca et procurare che vi si provegga
-                    conforme al desiderio del medesimo Sig. Paolucci. …</p>
+                    Tolmino <note xml:id="FN5_107.1_02" type="footnote">Die Schreiben Pauluccis an
+                        Portia sind nicht auffindbar. Den Akten der innerosterreichischen Hofkammer
+                        kann man entnehmen, dass Kaspar Formentin in den Jahren 1600–1602 Hauptmann
+                        von Tolmein/Tolmin war: vgl. StLA, HK-Reg. 1600– 1603, fol. 136v–137r; StLA,
+                        HK-Ex. 1602, fol. 529v.</note>, non tralasciarò di rappresentare ogni cosa
+                    al Ser.mo Arciduca et procurare che vi si provegga conforme al desiderio del
+                    medesimo Sig. Paolucci. …</p>
                 <pb xml:id="P5_0000273"/>
                 <p>
                     <note xml:id="SN5_107.1_a" type="siglum">Eigenhändige Ergänzung
@@ -179,10 +179,9 @@
                     debito di mia servitù soggiunger per il commando che V. S. Ill.ma mi fa con le
                     sue lettere de 14 <note xml:id="FN5_107.1_03" type="footnote">Eine
                         diesbezügliche Weisung Aldobrandinis stammt vom 15. Januar 1600: Nr.
-                        103.3.</note>.<ref target="#SN5_107.1_a"/>
+                        103.3.</note>. <ref target="#SN107.1_a"/>
                     <note xml:id="SN5_107.1_b" type="siglum">Dorsalvermerk, fol. 205v: Al
-                        Bartolelli.</note>
-                </p>
+                        Bartolelli.</note></p>
             </div>
         </body>
     </text>

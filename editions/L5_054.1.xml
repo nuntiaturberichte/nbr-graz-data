@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1599-07-10" n="1">1599-07-10</title>
                 <title level="a">54.1. San Giorgio an Portia - Rom, 1599 Juli 10</title>
-                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <author ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -119,12 +119,12 @@
         <profileDesc>
             <correspDesc n="L5_054.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <persName ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
                     <date when="1599-07-10" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                    <placeName ref="http://www.geonames.org/3169070">Rome</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
@@ -143,7 +143,7 @@
             </correspDesc>
             <abstract>
                 <p>Posteingang. Die Wünsche der Erzherzöge von Innerösterreich, insbesondere die
-                    Auflosung der Ehe der Furstin von Siebenburgen [Maria Christierna] und die Frage
+                    Auflösung der Ehe der Furstin von Siebenburgen [Maria Christierna] und die Frage
                     der Straßburger Koadjutorie wurden bereits positiv <pb xml:id="P5_0000123"
                     />erledigt. Über diese und andere habsburgische Anliegen wird Carrillo bei
                     seiner bevorstehenden Rückkehr berichten. Freude über die Umsiedlung der
@@ -161,31 +161,25 @@
                         xml:id="FN5_054.1_01" type="footnote">Nr. 51.1.</note>ha servito per
                     testimonio della sua continuata diligenza, la quale è particolarmente cara
                     mentre che ella ci fa sapere i successi delle cose del ser.mo Arciduca, havendo
-                    N. S. il medesimo <note xml:id="SN5_054.1_b" type="siglum"
-                        >Hinzugefügt</note>affetto<ref target="#SN5_054.1_b"/> in esse che nelle sue
-                    proprie et particolari. Si è atteso sin qui con ogni assiduità al negotio della
-                    dissolutione del matrimonio della ser.ma Principessa (nel quale N.S. è già
-                    risoluto), ma con tutto ciò S. B.ne ha voluto pur anco sentire il P. Cariglio
-                    negli altri <note xml:id="SN5_054.1_c" type="siglum"
-                        >Hinzugefügt.</note>interessi<ref target="#SN5_054.1_c"/> di quella ser.ma
-                    Casa <note xml:id="FN5_054.1_02" type="footnote">Der Umfang der von Carrillo im
-                        Auftrag der Erzherzöge von Innerösterreich in Rom vorgebrachten Anliegen
-                        ergibt sich aus seiner an Aldobrandini gerichteten Bitte um die Ausstellung
-                        der folgenden Schriftstücke: Stellungnahme zur päpstlichen Hilfe für die
-                        Türkenabwehr; Breve für die Eheannullierung; Kredenzialschreiben an den
-                        Grazer Nuntius für Carrillo, der weitere Anweisungen der Kurie mitteilen
-                        wird; Dispens für Sigismund Báthory; Breve für die Besetzung der Koadjutorie
-                        von Straj3burg durch Eh. Leopold; Dispens zur Erwerbung von Benefizien fur
-                        Eh. Karl; Abschluss der Angelegenheit des Bistums Görz; Breve für das
-                        Kloster Millstatt; Breven als Antworten auf die Schreiben von Eh. Maria
-                        Christierna, Sigismund Báthory und Eh. Ferdinand: vgl. Carrillo an
-                        Aldobrandini, Rom, 1599 Juli 11, in: VERESS, Epistolae, S. 333f.</note>, nei
-                    quali et in quello di Argentina in particolare è molto inclinata ad <note
-                        xml:id="SN5_054.1_d" type="siglum">Hinzugefügt.</note>ogni <ref
-                        target="#SN5_054.1_d"/>gratia come riferirà a bocca il medesimo Padre, che
-                    disegna di partir per costà fra tre o quattro giorni. <ref target="#SN5_054.1_a"
-                    />
-                </p>
+                    N. S. il medesimo <ref target="#SN054.1_b"/>affetto <note xml:id="SN5_054.1_c"
+                        type="siglum">inzugefügt.</note>interessi <ref target="#SN054.1_c"/>di
+                    quella ser.ma Casa <note xml:id="FN5_054.1_02" type="footnote">Der Umfang der
+                        von Carrillo im Auftrag der Erzherzöge von Innerösterreich in Rom
+                        vorgebrachten Anliegen ergibt sich aus seiner an Aldobrandini gerichteten
+                        Bitte um die Ausstellung der folgenden Schriftstücke: Stellungnahme zur
+                        päpstlichen Hilfe für die Türkenabwehr; Breve für die Eheannullierung;
+                        Kredenzialschreiben an den Grazer Nuntius für Carrillo, der weitere
+                        Anweisungen der Kurie mitteilen wird; Dispens für Sigismund Báthory; Breve
+                        für die Besetzung der Koadjutorie von Straj3burg durch Eh. Leopold; Dispens
+                        zur Erwerbung von Benefizien fur Eh. Karl; Abschluss der Angelegenheit des
+                        Bistums Görz; Breve für das Kloster Millstatt; Breven als Antworten auf die
+                        Schreiben von Eh. Maria Christierna, Sigismund Báthory und Eh. Ferdinand:
+                        vgl. Carrillo an Aldobrandini, Rom, 1599 Juli 11, in: VERESS, Epistolae, S.
+                        333f.</note>, nei quali et in quello di Argentina in particolare è molto
+                    inclinata ad <note xml:id="SN5_054.1_d" type="siglum">Hinzugefügt.</note>ogni
+                        <ref target="#SN054.1_d"/>gratia come riferirà a bocca il medesimo Padre,
+                    che disegna di partir per costà fra tre o quattro giorni. <ref
+                        target="#S054.1_a"/></p>
                 <p>La nuova degli Uscocchi che si trasferiscano in parte ove non possano offendere i
                     vicini ci è stata molto cara come principio di quello accommodamento che N. S.
                     procura con tanto studio, ma più cara ci sarebbe anco stata se V. S. ci havesse

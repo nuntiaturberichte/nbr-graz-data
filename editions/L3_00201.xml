@@ -7,7 +7,7 @@
                 <title type="iso-date" when-iso="1593-12-04" n="2">1593-12-04</title>
                 <title level="a">201. B. v. Gurk an Aldobrandini - Straßburg, 1593 Dezember
                     4</title>
-                <author ref="#http://d-nb.info/gnd/119500809">Spaur, Christoph Andreas von</author>
+                <author ref="http://d-nb.info/gnd/119500809">Spaur, Christoph Andreas von</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -125,13 +125,13 @@
         <profileDesc>
             <correspDesc n="L3_00201">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/119500809">Spaur, Christoph Andreas
+                    <persName ref="http://d-nb.info/gnd/119500809">Spaur, Christoph Andreas
                         von</persName>
                     <date when="1593-12-04" n="2"/>
-                    <placeName ref="#http://www.geonames.org/2973783">Strasbourg</placeName>
+                    <placeName ref="http://www.geonames.org/2973783">Strasbourg</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <persName ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_048">Aldobrandini,
@@ -158,34 +158,40 @@
                 <p>Humilmente aviso V. S. Ill.ma et R.ma come l’ill.mo mons. patriarcha di Aquileia,
                     essendo nella sua visita, è venuto in Carinthia et ivi visitato <pb
                         xml:id="P3_0000258"/>alcuni luochi della sua diocese, <note
-                        xml:id="FN3_00201_01" type="footnote"/>dopo si è transferito nel mio
-                    vescovato per conferir meco come se potesse in bona parte soprimer l’heresia et
-                    aiutar infinite anime, d’ilche sopramodo me son allegrato nel Sig. Idio, che
-                    habbia havuto questa bona comodità di informar S. S. R.ma come l’heresia ha
-                    preso la sua origine in queste provincie et come hora sta in cativissimo statto
-                    et come si potria remediar a tanto male, massime che fra un anno et nove mesi
-                    debba pigliar il posseso di queste provincie il iovane arciduca Ferdinando
-                    herede et figliol del già felice memoria del ser.mo arciduca Carlo,<note
-                        xml:id="FN3_00201_02" type="footnote"/> sarà cosa necessaria et utilissima a
-                    queste provincie di proveder per tempo, sì come spero che il ill.mo et r.mo
-                    mons. patriarca scriverà a V. S. Ill.ma over venirà in persona a Roma da S.
-                    S.tà, et come V. S. Ill.ma et R.ma sarà informata, la prego humilissimante di
-                    favorir questa santa impressa, massime ritrovandosi un tal gran prelato come è
-                    il patriarcha di Aquileia, che vol aiutar questi paesi, che non stima li
-                    pericoli né faticha, ma con ferventissimo zelo da maggio in qua ha visitato
-                    queste provincie concernente al suo patriarchato et paserà forsi docento anni
-                    che nessun patriarcha è statto a visitar in propria persona,<note
-                        xml:id="FN3_00201_03" type="footnote"/> et S. S. R.ma ha in queste provincie
-                    un milion de anime, tanto più V. S. Ill.ma piglierà a petto per esser queste
-                    provincie confinante al Italia, et che poi non provedendo per tempo, il mal
-                    deventasse irremediabile, ma son certo che V. S. Ill.ma per la sua inata bontà
-                    et pietà, piglierà questa mia letera in bona parte che altra mira non ho, se non
-                    come se potesse restituir in pristino statto la religion chatolica et far una
-                    reformation generale in questi paesi, per soprimer in parte li horrendi vitii,
-                    che regnano fra il clero, et è causa de molti scandali pigliando l’heresia il
-                    suo fomento il Sig. Idio sia quello che doni la sua santa gratia et che metà
-                    fine a tanto male et prosperi le action sante nelli suoi servi, et conserva S.
-                    S.tà et V. S. Ill.ma et R.ma in longa vita . . .</p>
+                        xml:id="FN3_00201_01" type="footnote">Siehe Nr. 168. Patriarch Francesco
+                        Barbaro visitierte 1593 und 1594 in Kärnten: Koller-Neumann,
+                        Gegenreformation, 40—51.</note>dopo si è transferito nel mio vescovato per
+                    conferir meco come se potesse in bona parte soprimer l’heresia et aiutar
+                    infinite anime, d’ilche sopramodo me son allegrato nel Sig. Idio, che habbia
+                    havuto questa bona comodità di informar S. S. R.ma come l’heresia ha preso la
+                    sua origine in queste provincie et come hora sta in cativissimo statto et come
+                    si potria remediar a tanto male, massime che fra un anno et nove mesi debba
+                    pigliar il posseso di queste provincie il iovane arciduca Ferdinando herede et
+                    figliol del già felice memoria del ser.mo arciduca Carlo, <note
+                        xml:id="FN3_00201_02" type="footnote">Ehzg Ferdinand war beim Tod seines
+                        Vaters Karl im Jahr 1590 erst 12 Jahre alt und trat 1595 die Regierung
+                        Innerösterreichs an: Loserth FRA II/58, 153 f., 156 f., 159 f.</note>sarà
+                    cosa necessaria et utilissima a queste provincie di proveder per tempo, sì come
+                    spero che il ill.mo et r.mo mons. patriarca scriverà a V. S. Ill.ma over venirà
+                    in persona a Roma da S. S.tà, et come V. S. Ill.ma et R.ma sarà informata, la
+                    prego humilissimante di favorir questa santa impressa, massime ritrovandosi un
+                    tal gran prelato come è il patriarcha di Aquileia, che vol aiutar questi paesi,
+                    che non stima li pericoli né faticha, ma con ferventissimo zelo da maggio in qua
+                    ha visitato queste provincie concernente al suo patriarchato et paserà forsi
+                    docento anni che nessun patriarcha è statto a visitar in propria persona, <note
+                        xml:id="FN3_00201_03" type="footnote">1485—1487 wurde der österreichische
+                        Teil der Diözese Aquileia visitiert: G. Vale, Itinerario di Paolo Santonino,
+                        Studi e Testi 103, Città del Vaticano 1943, S. 121—268.</note>et S. S. R.ma
+                    ha in queste provincie un milion de anime, tanto più V. S. Ill.ma piglierà a
+                    petto per esser queste provincie confinante al Italia, et che poi non provedendo
+                    per tempo, il mal deventasse irremediabile, ma son certo che V. S. Ill.ma per la
+                    sua inata bontà et pietà, piglierà questa mia letera in bona parte che altra
+                    mira non ho, se non come se potesse restituir in pristino statto la religion
+                    chatolica et far una reformation generale in questi paesi, per soprimer in parte
+                    li horrendi vitii, che regnano fra il clero, et è causa de molti scandali
+                    pigliando l’heresia il suo fomento il Sig. Idio sia quello che doni la sua santa
+                    gratia et che metà fine a tanto male et prosperi le action sante nelli suoi
+                    servi, et conserva S. S.tà et V. S. Ill.ma et R.ma in longa vita . . .</p>
             </div>
         </body>
     </text>

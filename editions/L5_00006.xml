@@ -4,12 +4,12 @@
         <fileDesc>
             <titleStmt>
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title level="a" type="appendix">Bericht Portias aus der Feder seines Sekretärs
+                    Giorgio Tomasi</title>
                 <title type="iso-date" when-iso="1602-10-14" cert="low" n="2">vermutlich
                     1602-10-14</title>
                 <title level="a">6. Portia an San Giorgio - Graz, 1602 (Oktober 14)</title>
-                <title level="a" type="appendix">Anhang – Berichte Portias aus der Feder seines
-                    Sekretärs Giorgio Tomasi</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -117,12 +117,12 @@
         <profileDesc>
             <correspDesc n="L5_00006">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1602-10-14" n="2" cert="low"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <persName ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
@@ -150,8 +150,7 @@
         <body>
             <head n="6">Portia an San Giorgio - Graz, 1602 [Oktober 14]<note xml:id="FN5_00006_01"
                     type="footnote">Das Datum ergibt sich aus einem Bericht Portias selben Inhalts
-                    an Aldobrandini vom 14. Oktober 1602: Nr. 361.1.</note>
-            </head>
+                    an Aldobrandini vom 14. Oktober 1602: Nr. 361.1.</note></head>
             <div>
                 <p>Monsig. Rev.mo Serra Commissario della S.tà di N.S. all’Essercito Imperiale
                     d’Ungheria, havendo tenuto camino diverso da quello che si era supposto V. S.
@@ -166,8 +165,8 @@
                     si compiace d’incontrate le occorrenze de’ loro interessi, le rendono per me
                     ringratiamenti affettuosissimi e più che ordinadi sin tanto che lo faranno
                     stesse con la risposta che verrà di qua o mandata per il Corriere o portata da
-                    Monsig. Serra medesimo in ritornando a Roma<note xml:id="FN5_00006_03"
-                        type="footnote"> Nicht auffindbar.</note>. … </p>
+                    Monsig. Serra medesimo in ritornando a Roma <note xml:id="FN5_00006_03"
+                        type="footnote">Nicht auffindbar.</note>. …</p>
             </div>
         </body>
     </text>

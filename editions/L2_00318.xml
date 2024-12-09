@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1586-03-13" n="1">1586-03-13</title>
                 <title level="a">318. Caligari an Azzolino - Görz, 1586 März 13</title>
-                <author ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
+                <author ref="http://d-nb.info/gnd/118518402">Caligari, Giovanni Andrea</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -120,13 +120,13 @@
         <profileDesc>
             <correspDesc n="L2_00318">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                    <persName ref="http://d-nb.info/gnd/118518402">Caligari, Giovanni
                         Andrea</persName>
                     <date when="1586-03-13" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3175986">Gorizia</placeName>
+                    <placeName ref="http://www.geonames.org/3175986">Gorizia</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/1199598259">Azzolini, Decio</persName>
+                    <persName ref="http://d-nb.info/gnd/1199598259">Azzolini, Decio</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_027">Azzolini, Decio
@@ -170,8 +170,11 @@
                         xml:id="FN2_00318_03" type="footnote">Vgl. oben Nr. 305, Anm.
                     13.</note>Questa sola ragione potreb<pb xml:id="P2_0000457"/>be ritenere il
                     cardinale in Polonia tanto più che molti nobili principali etiandio eretici gli
-                    hanno fato instantia che non si parta<note xml:id="FN2_00318_04" type="footnote"
-                    /> et fra gli altri li palatini di Posnania, di Sandomiria et di Rawa.</p>
+                    hanno fato instantia che non si parta <note xml:id="FN2_00318_04"
+                        type="footnote">Kardinal Bathory reiste aber doch nach Rom, wo er am 2. Juni
+                        1586 ankam (Pierling, La Russie et le Saint-Siège II, S. 301ff.; Pastor,
+                        Geschichte der Päpste X, S. 389).</note>et fra gli altri li palatini di
+                    Posnania, di Sandomiria et di Rawa.</p>
             </div>
         </body>
     </text>

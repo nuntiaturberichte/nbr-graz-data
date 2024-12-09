@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1601-04-02" n="1">1601-04-02</title>
                 <title level="a">208.1. Portia an Aldobrandini - Graz, 1601 April 2</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -114,12 +114,12 @@
         <profileDesc>
             <correspDesc n="L5_208.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1601-04-02" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <persName ref="http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
@@ -163,16 +163,15 @@
                 <p>
                     <note xml:id="SN5_208.1_a" type="siglum">Eigenhändige Ergänzung
                     Portias.</note>Hor hora intendo che sia arrivato un Corriere del Sig. Duca di
-                        Mantova<note xml:id="FN5_208.1_02" type="footnote"> Vielleicht Polidoro
-                        Ancelli, der auch im Juni 1601 im Auftrag des Herzogs von Mantua nach Graz
-                        reiste: vgl. Nr. 229.1.</note>con dar conto a questo Arciduca che esso sia
-                    destinato dal Re Cattolico capo degl’aiuti che verran di ordine di quella M.tà
-                    et che volendo uscir l’Arciduca in persona il Duca lo servirà et obedirà; non
-                    uscendo l’Arciduca, il Duca desiderarebbe di esser suo luocotenente Generale et
-                    sin hora questa è cosa secretissima. Et io che conosco un poco questi humori,
-                    credo che questo non sia per esser molto accetto, pur per non disgustar Prencipi
-                    si farà alcuna cosa. <ref target="#SN5_208.1_a"/>
-                </p>
+                    Mantova <note xml:id="FN5_208.1_02" type="footnote">Vielleicht Polidoro Ancelli,
+                        der auch im Juni 1601 im Auftrag des Herzogs von Mantua nach Graz reiste:
+                        vgl. Nr. 229.1.</note>con dar conto a questo Arciduca che esso sia destinato
+                    dal Re Cattolico capo degl’aiuti che verran di ordine di quella M.tà et che
+                    volendo uscir l’Arciduca in persona il Duca lo servirà et obedirà; non uscendo
+                    l’Arciduca, il Duca desiderarebbe di esser suo luocotenente Generale et sin hora
+                    questa è cosa secretissima. Et io che conosco un poco questi humori, credo che
+                    questo non sia per esser molto accetto, pur per non disgustar Prencipi si farà
+                    alcuna cosa. <ref target="#SN208.1_a"/></p>
             </div>
         </body>
     </text>

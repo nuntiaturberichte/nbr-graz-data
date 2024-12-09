@@ -7,7 +7,7 @@
                 <title type="iso-date" when-iso="1582-10-10" cert="low" n="1">vermutlich
                     1582-10-10</title>
                 <title level="a">35. Herzog Wilhelm an Malaspina - (Graz, 1582 Oktober 10)</title>
-                <author ref="#http://d-nb.info/gnd/118771841">Bayern, Herzog, V., Wilhelm</author>
+                <author ref="http://d-nb.info/gnd/118771841">Bayern, Herzog, V., Wilhelm</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -121,13 +121,13 @@
         <profileDesc>
             <correspDesc n="L2_00035">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/118771841">Bayern, Herzog, V.,
+                    <persName ref="http://d-nb.info/gnd/118771841">Bayern, Herzog, V.,
                         Wilhelm</persName>
                     <date when="1582-10-10" n="1" cert="low"/>
-                    <placeName ref="#http://www.geonames.org/2778067" cert="low">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067" cert="low">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <persName ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_007">Bayern, Herzog,
@@ -156,8 +156,7 @@
                     xml:id="FN2_00035_01" type="footnote">Herzog Wilhelm besuchte am 9. Oktober das
                     Grazer Jesuitenkolleg (Krones, Geschichte der Universität Graz, S. 6). Da im
                     ersten Satz dieses Briefes erwähnt wird, daß dies gestern gewesen sei, muß der
-                    Brief vom 10. Oktober 1582 stammen.</note>
-            </head>
+                    Brief vom 10. Oktober 1582 stammen.</note></head>
             <div>
                 <pb xml:id="P2_0000047"/>
                 <p>Heri postquam ex collegio huc veni statim (optima quoque commoditate) praesente

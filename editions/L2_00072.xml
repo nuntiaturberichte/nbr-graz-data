@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1583-03-15" n="1">1583-03-15</title>
                 <title level="a">72. Malaspina an Gallio - Speyer, 1583 März 15</title>
-                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <author ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -121,12 +121,12 @@
         <profileDesc>
             <correspDesc n="L2_00072">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <persName ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
                     <date when="1583-03-15" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2830582">Spires</placeName>
+                    <placeName ref="http://www.geonames.org/2830582">Spires</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <persName ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
@@ -167,14 +167,14 @@
                     partire d’Inspruch S. S. Ill.ma mi haveva fatto dar copia, parve a l’uno et
                     l’altro di loro di dare tal cura a me, per il che io havendo messo quel studio
                     maggiore, che ho potuto, per tal effetto, ho sotratto che S. S. Ill.ma non pensa
-                    che possa cadere in persona sua la chiesa Coloniense per alcuni degni
-                        rispetti.<note xml:id="FN2_00072_03" type="footnote"> Bonomi berichtete,
-                        nachdem er mit Herzog Wilhelm gesprochen hatte, daß Andreas wegen seiner
-                        Mutter nicht Erzbischof von Köln werden könne. Erzherzog Ferdinand hingegen
-                        erzählte Mons. Orano, daß die Unruhen in Köln von Herzog Ernst ausgingen,
-                        der zudem in Freising eine Frau habe und den der Herzog von Württemberg als
-                        einen der Ihrigen bezeichnet habe (Hansen, Nuntiaturberichte III/1, S. 378
-                        und 429).</note>Ma scopro bene che, quando quelli capitulari unitamente et
+                    che possa cadere in persona sua la chiesa Coloniense per alcuni degni rispetti.
+                        <note xml:id="FN2_00072_03" type="footnote">Bonomi berichtete, nachdem er
+                        mit Herzog Wilhelm gesprochen hatte, daß Andreas wegen seiner Mutter nicht
+                        Erzbischof von Köln werden könne. Erzherzog Ferdinand hingegen erzählte
+                        Mons. Orano, daß die Unruhen in Köln von Herzog Ernst ausgingen, der zudem
+                        in Freising eine Frau habe und den der Herzog von Württemberg als einen der
+                        Ihrigen bezeichnet habe (Hansen, Nuntiaturberichte III/1, S. 378 und
+                        429).</note>Ma scopro bene che, quando quelli capitulari unitamente et
                     spontaneamente lo postulassero, che in tal caso le sarebbe gratissimo, cosa però
                     che non si può ragionevolmente sperare né perciò inclina l’animo a Lieggi, <note
                         xml:id="FN2_00072_04" type="footnote">Gallio meinte, man könne Andreas mit
@@ -196,26 +196,33 @@
                 <p>Hora, presupponendo che S. S. Ill.ma per sé non pensi alle cose di Colonia, né,
                     quando anco volesse, possi con speranza di riuscirne con dignità, si può perciò
                     far giuditio che sia per aiutare o almeno per <pb xml:id="P2_0000104"/>non
-                    impedire il vescovo di Lieggi, <note xml:id="FN2_00072_07" type="footnote"/>non
-                    ostante qual si voglia male sodisfattione, et mi induco a credere tanto
-                    facilmente questo, quanto che cominciano a defender Lieggi, attribuendo quella
-                    voce sparsa circa la persona sua al sig. Federico di Sassonia,<note
-                        xml:id="FN2_00072_08" type="footnote"/> qual forsi ha pensato di escludere
-                    quel principe con tal mezo, et migliorar la pretensione, che facilmente deve
-                    havere egli. Quanto poi al componere le differentie tra Lieggi et Argentina,
-                        <note xml:id="FN2_00072_09" type="footnote"/>oltre a l’ordine, che perciò ha
-                    S. S. Ill.ma da N. S., l’arciduca suo padre gli ne ha dato efficace commissione.
-                        <note xml:id="FN2_00072_10" type="footnote">Über die dem Kardinal Andreas
-                        von seinem Vater Erzherzog Ferdinand gegebenen Aufträge ist nichts Näheres
-                        bekannt. Vgl. oben Anm. 1 und 3.</note>Ma sì come di tutto questo si deve
-                    aspettare di farne certo giuditio tra pochi giorni, così al presente si deve
-                    suspendere l’intelletto, et io più tosto per esser stato confortato da mons. di
-                    Verzelli et mons. Orano che per altro, mi son mosso a significare a V. S. Ill.ma
-                    quello che si è potuto per hora comprendere. Spero che l’Ill.mo legato darà
-                    sodisfattione alla S.tà di N. S. et che li ministri di S. B.ne ne restaranno
-                    consolati, massime per la speranza, che hora ho, che non sia esser per
-                    molestarlo più di cose veramente indifferenti, officii che li dispiacevano
-                    grandemente . . .</p>
+                    impedire il vescovo di Lieggi, <note xml:id="FN2_00072_07" type="footnote"
+                        >Herzog Ernst von Bayern.</note>non ostante qual si voglia male
+                    sodisfattione, et mi induco a credere tanto facilmente questo, quanto che
+                    cominciano a defender Lieggi, attribuendo quella voce sparsa circa la persona
+                    sua al sig. Federico di Sassonia, <note xml:id="FN2_00072_08" type="footnote"
+                        >Herzog Friedrich von Sachsen-Lauenburg, Erzbischof von Köln.</note>qual
+                    forsi ha pensato di escludere quel principe con tal mezo, et migliorar la
+                    pretensione, che facilmente deve havere egli. Quanto poi al componere le
+                    differentie tra Lieggi et Argentina, <note xml:id="FN2_00072_09" type="footnote"
+                        >Kardinal Andreas hatte sich gemäß seiner Instruktion zu bemühen, die Brüder
+                        Johann Graf von Manderscheid, Bischof von Straßburg und Kanoniker in Köln,
+                        und Arnold, Domscholaster von Köln, für eine qute Wahl in Köln zu gewinnen.
+                        Es gelang schließlich, ihre Differenzen mit dem Bischof von Lüttich, Herzog
+                        Ernst, zurückzustellen und damit dessen Wahl zum Erzbischof von Köln zu
+                        ermöglichen (Hansen, Nuntiaturberichte III/1, S. 357 und 572).</note>oltre a
+                    l’ordine, che perciò ha S. S. Ill.ma da N. S., l’arciduca suo padre gli ne ha
+                    dato efficace commissione. <note xml:id="FN2_00072_10" type="footnote">Über die
+                        dem Kardinal Andreas von seinem Vater Erzherzog Ferdinand gegebenen Aufträge
+                        ist nichts Näheres bekannt. Vgl. oben Anm. 1 und 3.</note>Ma sì come di
+                    tutto questo si deve aspettare di farne certo giuditio tra pochi giorni, così al
+                    presente si deve suspendere l’intelletto, et io più tosto per esser stato
+                    confortato da mons. di Verzelli et mons. Orano che per altro, mi son mosso a
+                    significare a V. S. Ill.ma quello che si è potuto per hora comprendere. Spero
+                    che l’Ill.mo legato darà sodisfattione alla S.tà di N. S. et che li ministri di
+                    S. B.ne ne restaranno consolati, massime per la speranza, che hora ho, che non
+                    sia esser per molestarlo più di cose veramente indifferenti, officii che li
+                    dispiacevano grandemente . . .</p>
             </div>
         </body>
     </text>

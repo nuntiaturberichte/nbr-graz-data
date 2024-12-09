@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1602-09-02" n="1">1602-09-02</title>
                 <title level="a">350.1. Portia an Aldobrandini - Graz, 1602 September 2</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -114,12 +114,12 @@
         <profileDesc>
             <correspDesc n="L5_350.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1602-09-02" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <persName ref="http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
@@ -158,8 +158,7 @@
                     fogli aggiunti per servitio di V. S. Ill.ma circa i successi di Albaregale, che
                     potrà esser facilmente nel arrivo di qualche corriere di Vienna che si aspetta
                     d’hora in hora, sarà aggiunto in foglio separato <note xml:id="FN5_350.1_03"
-                        type="footnote">Nr. 350.2.</note>… <ref target="#SN5_350.1_a"/>
-                </p>
+                        type="footnote">Nr. 350.2.</note>… <ref target="#SN350.1_a"/></p>
             </div>
         </body>
     </text>

@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1584-11-01" n="1">1584-11-01</title>
                 <title level="a">218. Gregor XIII an Caligari - Rom, 1584 November 1</title>
-                <author ref="#http://d-nb.info/gnd/118697390">Papst, XIII., Gregor</author>
+                <author ref="http://d-nb.info/gnd/118697390">Papst, XIII., Gregor</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -120,12 +120,12 @@
         <profileDesc>
             <correspDesc n="L2_00218">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/118697390">Papst, XIII., Gregor</persName>
+                    <persName ref="http://d-nb.info/gnd/118697390">Papst, XIII., Gregor</persName>
                     <date when="1584-11-01" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                    <placeName ref="http://www.geonames.org/3169070">Rome</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/118518402">Caligari, Giovanni
+                    <persName ref="http://d-nb.info/gnd/118518402">Caligari, Giovanni
                         Andrea</persName>
                 </correspAction>
                 <correspContext>
@@ -142,8 +142,11 @@
             </correspDesc>
             <abstract>
                 <p>Vollmacht zur Absolution von Häretikern.<note xml:id="FN2_00218_01"
-                        type="footnote"/>
-                </p>
+                        type="footnote">Die Fakultäten für Caligari als Nuntius in Graz wurden
+                        bereits am 15. Oktober ausgestellt (Nr. 210). Im Hinblick auf die
+                        zahlreichen Protestanten in Innerösterreich und die erwarteten Konversionen
+                        bekam er diese Erweiterung der üblichen Vollmachten eines
+                    Nuntius.</note></p>
             </abstract>
         </profileDesc>
     </teiHeader>
@@ -170,7 +173,9 @@
                     pristinum statum restituendi auctoritate apostolica tenore presentium facultatem
                     concedimus. Non obstantibus constitutionibus et ordinationibus apostolicis
                     caeterisque contrariis quibuscumque<note xml:id="FN2_00218_02" type="footnote"
-                    />. . . </p>
+                        >Die Zusendung dieser Fakultät muß sich sehr verzögert haben, denn Ende
+                        Jänner 1585 erwähnt Caligari, daß er sie nicht habe (Nr. 251).</note>. .
+                    .</p>
             </div>
         </body>
     </text>

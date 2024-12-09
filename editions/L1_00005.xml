@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1580-09-19" n="1">1580-09-19</title>
                 <title level="a">5. Malaspina an Gallio - Venedig, 1580 September 19</title>
-                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <author ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -114,12 +114,12 @@
         <profileDesc>
             <correspDesc n="L1_00005">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <persName ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
                     <date when="1580-09-19" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3164603">Venice</placeName>
+                    <placeName ref="http://www.geonames.org/3164603">Venice</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <persName ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
@@ -183,53 +183,54 @@
                     instruttione che V. S. Illma me ha data comprendo il bisogno che ha la chiesa et
                     clero d’Aquileja d’esser reformata et restituita la pristina disciplina
                     ecclesiastica, son’ andato destramente et con dolcezza investigando da mons,
-                    patriarcha et da mons. coadiutore<note xml:id="FN1_00005_05" type="footnote">
-                        Franz Zupan, Bischof von Cattaro, Auxiliarbischof von Aquileia: Hierarchia
-                        Catholica III, S. 160.</note>da che procede che, havendo le Signorie loro
-                    Rmc la obedientia in quell che si pertiene al spirituale, quella chiesa et clero
-                    sia in così mal termine et in effetto ogni mal procede dal non esservi al
-                    governo se non operarii mercenarii, et Dio sa quali ad quos nihil pertinet de
-                    ovibus et il trattar che mons. patriarcha né il coadiutore pensino di andar in
-                    quelle parti, se prima non se determina il negotio della iurisdictione
-                    temporale, è cosa che l’uno et l’altro di questi signori l’ha per impossibile,
-                    di modo che per rispetto del temporale che come servo è subordinato al
-                    spirituale, quella chiesa è stata tanti anni senza pastore e per starvi
-                        ancora<pb xml:id="P1_0000015"/> qualche tempo, se Dio benedetto non ci
-                    provede, poiché il trattare che li principi restituischino a questi tempi non
-                    una città situata come quella, ma una ben vile villa è cosa difficile, come V.
-                    S. Illma sa. Et in vero è grandissima compasione che una chiesa così insigne,
-                    che ha iurisdictione così ampia et importante, che da una parte si dilata insino
-                    a Neustal, vicino a Viena diece leghe, <note xml:id="SN1_00005_b" type="siglum"
-                        >Ma.: legge.</note>da un’altra appresso a Brunich, loco del’ arciduca
-                    Ferdinando, et per un’altra insino alli confini del vescovo di Lubiana et poi da
-                    una altra insino a Grazt <note xml:id="FN1_00005_06" type="footnote">Die Angaben
-                        über die Ausdehnung der Diözese Aquileia bis gegen Wiener Neustadt, Graz und
-                        Bruneck sind höchst ungenau.</note>stia sempre senza pastore, ma etiam Dio
-                    senza ministri che le apportino utilità alcuna. Et mi par che ci vadi della
-                    reputatione della natione Italiana che, havendo iurisdictione in paesi così
-                    infetti, ne’ quali però non è impedito il poter procurar frutto, poiché mons.
-                    patriarcha ci tiene al presente sette o otto vicarii foranei <note
-                        xml:id="FN1_00005_07" type="footnote">Die Archidiakonatseinteilung der
-                        Diözese Aquileia bei Paschini, Storia del Friuli I, S. 314 f.</note>quali
-                    poverelli forse manco cultivati et aiutati che nelle altre parti convicine. Io
-                    però andavo tra me stesso discorendo se fosse espediente il far visitare quella
-                    chiesa et clero con tutta la iurisdictione d’havendo da venire presto a Roma
-                    mons. patriarcha, <note xml:id="FN1_00005_08" type="footnote">Siehe Nr. 15, Anm.
-                        6, und Nr. 25, Anm. 6.</note>che così dice di voler fare, operare, che egli
-                    nominasse persona atta a questo ministerio o vero che S. Stà lo facesse senza
-                    altro et in quello che pertiene alla iurisdictione sottoposta nel temporale
-                    al’arciduca, et altri se si rendessero<note xml:id="SN1_00005_c" type="siglum">
-                        Ms.: rendendessero.</note>difficile di acettare visitatore, che non fosse
-                    della natione, si potrebbe servirsi d’alcuno de’ padri Jesuiti, quali sono molto
-                    amati et quanto al bisogno molto oportuni. <note xml:id="FN1_00005_09"
-                        type="footnote">Über die Visitation siehe Nr. 161.</note>Ho voluto
-                    representare a V. S. Illma tutto questo mio pensiero, accioché lei, che intende
-                    queste materie non superficialmente et senza fondamento come faccio io, sapendo
-                    ancor da me il stato presente, possi ordinare quello che giudicarà più
-                    espediente, ché in questo altro non mi ha mosso a scrivere se non il dubitare
-                    che, se bene fra qualche tempo il patriarcha recuperasse la iurisdictione
-                    temporale, non sia talmente smarita la iurisdictione spirituale, che non habbia
-                    poi né l’una né l’altra, come la esperientia ogni giorno mostra.</p>
+                    patriarcha et da mons. coadiutore <note xml:id="FN1_00005_05" type="footnote"
+                        >Paolo Bisanti, Bischof von Cattaro, Suffragan und Koadjutor des Patriarchen
+                        von Aquileia (Udine, Biblioteca Arcivescovile, Cod. 105).</note>da che
+                    procede che, havendo le Signorie loro Rmc la obedientia in quell che si pertiene
+                    al spirituale, quella chiesa et clero sia in così mal termine et in effetto ogni
+                    mal procede dal non esservi al governo se non operarii mercenarii, et Dio sa
+                    quali ad quos nihil pertinet de ovibus et il trattar che mons. patriarcha né il
+                    coadiutore pensino di andar in quelle parti, se prima non se determina il
+                    negotio della iurisdictione temporale, è cosa che l’uno et l’altro di questi
+                    signori l’ha per impossibile, di modo che per rispetto del temporale che come
+                    servo è subordinato al spirituale, quella chiesa è stata tanti anni senza
+                    pastore e per starvi ancora <pb xml:id="P1_0000015"/>qualche tempo, se Dio
+                    benedetto non ci provede, poiché il trattare che li principi restituischino a
+                    questi tempi non una città situata come quella, ma una ben vile villa è cosa
+                    difficile, come V. S. Illma sa. Et in vero è grandissima compasione che una
+                    chiesa così insigne, che ha iurisdictione così ampia et importante, che da una
+                    parte si dilata insino a Neustal, vicino a Viena diece leghe, <note
+                        xml:id="SN1_00005_b" type="siglum">Ma.: legge.</note>da un’altra appresso a
+                    Brunich, loco del’ arciduca Ferdinando, et per un’altra insino alli confini del
+                    vescovo di Lubiana et poi da una altra insino a Grazt <note
+                        xml:id="FN1_00005_06" type="footnote">Die Angaben über die Ausdehnung der
+                        Diözese Aquileia bis gegen Wiener Neustadt, Graz und Bruneck sind höchst
+                        ungenau.</note>stia sempre senza pastore, ma etiam Dio senza ministri che le
+                    apportino utilità alcuna. Et mi par che ci vadi della reputatione della natione
+                    Italiana che, havendo iurisdictione in paesi così infetti, ne’ quali però non è
+                    impedito il poter procurar frutto, poiché mons. patriarcha ci tiene al presente
+                    sette o otto vicarii foranei <note xml:id="FN1_00005_07" type="footnote">Die
+                        Archidiakonatseinteilung der Diözese Aquileia bei Paschini, Storia del
+                        Friuli I, S. 314 f.</note>quali poverelli forse manco cultivati et aiutati
+                    che nelle altre parti convicine. Io però andavo tra me stesso discorendo se
+                    fosse espediente il far visitare quella chiesa et clero con tutta la
+                    iurisdictione d’havendo da venire presto a Roma mons. patriarcha, <note
+                        xml:id="FN1_00005_08" type="footnote">Siehe Nr. 15, Anm. 6, und Nr. 25, Anm.
+                        6.</note>che così dice di voler fare, operare, che egli nominasse persona
+                    atta a questo ministerio o vero che S. Stà lo facesse senza altro et in quello
+                    che pertiene alla iurisdictione sottoposta nel temporale al’arciduca, et altri
+                    se si rendessero <note xml:id="SN1_00005_c" type="siglum">Ms.:
+                        rendendessero.</note>difficile di acettare visitatore, che non fosse della
+                    natione, si potrebbe servirsi d’alcuno de’ padri Jesuiti, quali sono molto amati
+                    et quanto al bisogno molto oportuni. <note xml:id="FN1_00005_09" type="footnote"
+                        >Über die Visitation siehe Nr. 161.</note>Ho voluto representare a V. S.
+                    Illma tutto questo mio pensiero, accioché lei, che intende queste materie non
+                    superficialmente et senza fondamento come faccio io, sapendo ancor da me il
+                    stato presente, possi ordinare quello che giudicarà più espediente, ché in
+                    questo altro non mi ha mosso a scrivere se non il dubitare che, se bene fra
+                    qualche tempo il patriarcha recuperasse la iurisdictione temporale, non sia
+                    talmente smarita la iurisdictione spirituale, che non habbia poi né l’una né
+                    l’altra, come la esperientia ogni giorno mostra.</p>
                 <p>Domattina, piacendo al sig. Dio, mi partine et credo d’esser tra sei o sette
                     giorni a Grazt...</p>
             </div>

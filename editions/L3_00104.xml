@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1593-03-27" n="1">1593-03-27</title>
                 <title level="a">104. Aldobrandini an Portia - Rom, 1593 März 27</title>
-                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <author ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -124,12 +124,12 @@
         <profileDesc>
             <correspDesc n="L3_00104">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <persName ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
                     <date when="1593-03-27" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                    <placeName ref="http://www.geonames.org/3169070">Rome</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
@@ -171,8 +171,11 @@
                 <p>Gli avvisi delle cose di Argentina et di quella impiastrata concordia non si sono
                     havuti d’altra parte, né appena paiono verisimili, ma si vedono in cotesti paesi
                     tante altre stravaganze che ne anco questa è impossibile.<note
-                        xml:id="FN3_00104_03" type="footnote"/>
-                </p>
+                        xml:id="FN3_00104_03" type="footnote">Der Kampf um Straßburg wurde im
+                        Februar 1593 durch einen Vertrag beendet, der die einstweilige Teilung des
+                        Bistums zwischen Kardinal Karl von Lothringen und Johann Georg von
+                        Brandenburg vorsah: Hirn II 208 ff.; Pastor XI 235 f.; unten Nr.
+                    266.</note></p>
                 <p>Con le precedenti scrissi a V. S. Rev.ma l’instanza fatta dal vescovo di Possa
                     perché ella si transferisse in quella città a terminare la differenza del
                     canonico di Artz il che piacque a N. S. di concedere in modo però che ’l

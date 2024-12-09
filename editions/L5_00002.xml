@@ -4,12 +4,12 @@
         <fileDesc>
             <titleStmt>
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
+                <title level="a" type="appendix">Bericht Portias aus der Feder seines Sekretärs
+                    Giorgio Tomasi</title>
                 <title type="iso-date" when-iso="1601-02-04" cert="low" n="2">vermutlich
                     1601-02-04</title>
                 <title level="a">2. Portia an San Giorgio - Brixen, (1601 Februar 4)</title>
-                <title level="a" type="appendix">Anhang – Berichte Portias aus der Feder seines
-                    Sekretärs Giorgio Tomasi</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -117,12 +117,12 @@
         <profileDesc>
             <correspDesc n="L5_00002">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1601-02-04" n="2" cert="low"/>
-                    <placeName ref="#http://www.geonames.org/3181550">Brixen</placeName>
+                    <placeName ref="http://www.geonames.org/3181550">Brixen</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <persName ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
@@ -150,8 +150,7 @@
         <body>
             <head n="2">Portia an San Giorgio - Brixen, [1601 Februar 4]<note xml:id="FN5_00002_01"
                     type="footnote">San Giorgio bestätigt den Erhalt eines Briefes diesen Inhalts
-                    vom 4. Februar 1601 am 17. Februar: vgl. Nr. 195.1.</note>
-            </head>
+                    vom 4. Februar 1601 am 17. Februar: vgl. Nr. 195.1.</note></head>
             <div>
                 <p>È stato ed è tuttavia fra speranza e timore il negotio di questa Chiesa di
                     Bressenone in cui debba ella cadere per elettione del Capitolo. A favore del

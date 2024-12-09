@@ -7,7 +7,7 @@
                 <title type="iso-date" when-iso="1599-10-16" n="1">1599-10-16</title>
                 <title level="a">84.1. Aldobrandini an Portia - Dalla Villa (Frascati), 1599 Oktober
                     16</title>
-                <author ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
+                <author ref="http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -115,13 +115,12 @@
         <profileDesc>
             <correspDesc n="L5_084.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <persName ref="http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
                     <date when="1599-10-16" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3176589" cert="low"
-                        >Frascati</placeName>
+                    <placeName ref="http://www.geonames.org/3176589" cert="low">Frascati</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
@@ -160,8 +159,8 @@
                         beschlossen, aber noch nicht abgesandt worden war: vgl. Nr. 73.2.</note>et
                     dell’ordine lasciato per favore et aiuto del Paulucci mio Agente per gli affari
                     della mia <note xml:id="SN5_084.1_a" type="siglum">Ergänzt nach Kopie in
-                        DAG.</note>Badia di Rosaccio<ref target="#SN5_084.1_a"/> , li quali
-                    raccomando di nuovo più efficacemente posso alla sua protettione. …</p>
+                        DAG.</note>Badia di Rosaccio <ref target="#SN084.1_a"/>, li quali raccomando
+                    di nuovo più efficacemente posso alla sua protettione. …</p>
             </div>
         </body>
     </text>

@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1592-07-05" n="1">1592-07-05</title>
                 <title level="a">13. Portia an F. Borromeo - Salzburg, 1592 Juli 5</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -124,12 +124,12 @@
         <profileDesc>
             <correspDesc n="L3_00013">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1592-07-05" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2766824">Salzburg</placeName>
+                    <placeName ref="http://www.geonames.org/2766824">Salzburg</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119139170">Borromeo, Federico</persName>
+                    <persName ref="http://d-nb.info/gnd/119139170">Borromeo, Federico</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_036">Borromeo,
@@ -155,14 +155,16 @@
             <div>
                 <pb xml:id="P3_0000043"/>
                 <p>Li continui et lunghi viaggi insieme con l’occupationi,<note
-                        xml:id="FN3_00013_01" type="footnote"/>le quali io ho havuto in questo
-                    principio dell’arrivo mio in questi paesi, m’hanno impedito che io non ho potuto
-                    prima visitar V. S. Ill.ma con mie lettere <note xml:id="FN3_00013_02"
-                        type="footnote"/>né ricordarmele servitore di quell’obligo che io sono, e
-                    perché niuna cosa mi può succedere che più mi renda certo della memoria et
-                    gratia sua, quanto l’esser favorito alcuna volta de suoi comandamenti, la
-                    supplico a farmene gratia dovendo all’hora credere d’esser nel numero di quelle
-                    che meritino la protettion’ di V. S. Ill.ma . . .</p>
+                        xml:id="FN3_00013_01" type="footnote">Verhandlungen in Innsbruck wegen
+                        Straßburger Wirren und in Salzburg und Bayern wegen Berchtesgaden.</note>le
+                    quali io ho havuto in questo principio dell’arrivo mio in questi paesi, m’hanno
+                    impedito che io non ho potuto prima visitar V. S. Ill.ma con mie lettere <note
+                        xml:id="FN3_00013_02" type="footnote">Siehe Nr. 7, 12, 16, 34, 35.</note>né
+                    ricordarmele servitore di quell’obligo che io sono, e perché niuna cosa mi può
+                    succedere che più mi renda certo della memoria et gratia sua, quanto l’esser
+                    favorito alcuna volta de suoi comandamenti, la supplico a farmene gratia dovendo
+                    all’hora credere d’esser nel numero di quelle che meritino la protettion’ di V.
+                    S. Ill.ma . . .</p>
             </div>
         </body>
     </text>

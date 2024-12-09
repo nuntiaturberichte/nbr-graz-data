@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1582-12-03" n="1">1582-12-03</title>
                 <title level="a">46. Malaspina an Gallio - Graz, 1582 Dezember 3</title>
-                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <author ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -119,12 +119,12 @@
         <profileDesc>
             <correspDesc n="L2_00046">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <persName ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
                     <date when="1582-12-03" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <persName ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
@@ -182,8 +182,7 @@
                     quelli potentati et si è scritto Cobenzolo che communichi con S. M.tà il
                     contenuto d’esse et preghi S. M.tà che si compiaccia di dar il suo buon parere a
                     S. A. come nel rispondere si dovrà governare. <note xml:id="FN2_00046_04"
-                        type="footnote">Vgl. unten Nr. 48.</note>
-                </p>
+                        type="footnote">Vgl. unten Nr. 48.</note></p>
                 <p>Ho poi ricevuto la lettera di V. S. Ill.ma delli 14 di novembre<note
                         xml:id="FN2_00046_05" type="footnote">Nr. 41. Wahrscheinlich hat sich
                         Malaspina beim Datum um einen Tag geirrt.</note>con il breve <note
@@ -211,37 +210,44 @@
                     l’uso del calendario novo.</p>
                 <p>Ho visitato alcune parocchie delle più principali<note xml:id="FN2_00046_09"
                         type="footnote">Vgl. oben Nr. 42.</note>et ho sequitato la forma che altre
-                    volte ho tenuta<note xml:id="FN2_00046_10" type="footnote"> Visitation
+                    volte ho tenuta <note xml:id="FN2_00046_10" type="footnote">Visitation
                         steirischer Klöster und Pfarren durch Malaspina im Jahr 1581 (Rainer—Weiß,
                         Die Visitation steirischer Klöster und Pfarren im Jahre 1581, S.
                     26).</note>di far bandire le concubine et far che li parrochi in mia presentia
                     et di tutto il popolo predichino che il tener le concubine è peccato, che
                     l’essere uxorato et credere che sia vero matrimonio è heresia, et ho atteso
                     quanto ho potuto al far disingannare li popoli della opinione che hanno, che non
-                    solo non sia<pb xml:id="P2_0000071"/> peccato, ma di precetto, che li preti
+                    solo non sia <pb xml:id="P2_0000071"/>peccato, ma di precetto, che li preti
                     habbino le loro donne. Sia lodato il Signore che il tutto è passato felicimente
                     et sopratutto con molta sodisfattione di S. A. et precipue della principessa, la
                     quale non può sentire nominare concubine di preti, et mi fa instantia che io ne
-                    facci mettere una alla berlina<note xml:id="FN2_00046_11" type="footnote"/> per
-                    renderle infame et abominevole a tutti.</p>
+                    facci mettere una alla berlina <note xml:id="FN2_00046_11" type="footnote"
+                        >Malaspina erwähnt in seinen späteren Berichten nie, daß er diesem Vorschlag
+                        der Erzherzogin Maria, eine Priesterkonkubine an den Pranger zu stellen,
+                        jemals entsprochen habe.</note>per renderle infame et abominevole a
+                    tutti.</p>
                 <p>Ho similmente dato quel meglior ordine, che ho potuto al governo, tanto
                     spirituale come politico, delli frati Dominicani et Conventuali Franciscani,
                     come V. S. Ill.ma potrà vedere dalle constitutioni che le mando<note
-                        xml:id="FN2_00046_12" type="footnote"/>, le quali desiderarei che fossero
-                    communicate alli loro superiori con incargarli <note xml:id="FN2_00046_13"
-                        type="footnote"/>seriosamente che dal canto loro ancora procurassero che
+                        xml:id="FN2_00046_12" type="footnote">Konnten nicht mehr gefunden
+                        werden.</note>, le quali desiderarei che fossero communicate alli loro
+                    superiori con incargarli <note xml:id="FN2_00046_13" type="footnote">Statt
+                        incaricarli.</note>seriosamente che dal canto loro ancora procurassero che
                     fossero essequite perfettamente, altrimenti io prevedo la total ruvina di questi
                     conventi, poiché li peccati et scandalo che hanno insin’hora commessi sono
-                    troppo enormi, <note xml:id="FN2_00046_14" type="footnote"/>et non sono molti
-                    mesi che un di loro ha tolta la custodia del Santissimo Sacramento insieme con
-                    il sacramento et lo ha impegnato qua in Gratz per doi forini a una meretrice.
-                        <note xml:id="FN2_00046_15" type="footnote"/>Et, quello che mi preme, S. A.
-                    l’ha saputo. Però bisogna che li generali, mentre possono, cerchino di rimediare
-                    alli dissordini et introdurre la disciplina regulare . . .</p>
+                    troppo enormi, <note xml:id="FN2_00046_14" type="footnote">Die Klagen über die
+                        Zustände in einzelnen Mendikantenklöstern waren schon seit Jahren zu hören
+                        (Rainer, Nuntiaturberichte II/8, S. 54f., 98; Schellhass, Nuntiaturberichte
+                        III/3, S. 26f.; Rainer, Grazer Nuntiatur I, S. XI, 20, 285 und
+                        396f.).</note>et non sono molti mesi che un di loro ha tolta la custodia del
+                    Santissimo Sacramento insieme con il sacramento et lo ha impegnato qua in Gratz
+                    per doi forini a una meretrice. <note xml:id="FN2_00046_15" type="footnote"
+                        >Nichts weiter bekannt.</note>Et, quello che mi preme, S. A. l’ha saputo.
+                    Però bisogna che li generali, mentre possono, cerchino di rimediare alli
+                    dissordini et introdurre la disciplina regulare . . .</p>
                 <p>(P. S.): Ho scritto a mons. di Vercelli quello che ho trattato con S. A. intorno
                     al ricevere il calendario novo et come S. A. ha scritto a S. M.tà.<note
-                        xml:id="FN2_00046_16" type="footnote"/>
-                </p>
+                        xml:id="FN2_00046_16" type="footnote">Siehe unten Nr. 51.</note></p>
             </div>
         </body>
     </text>

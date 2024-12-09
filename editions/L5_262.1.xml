@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1601-10-07" n="1">1601-10-07</title>
                 <title level="a">262.1. Portia an Aldobrandini - Warasdin, 1601 Oktober 7</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -115,12 +115,12 @@
         <profileDesc>
             <correspDesc n="L5_262.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1601-10-07" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3188383">Varaždin</placeName>
+                    <placeName ref="http://www.geonames.org/3188383">Varaždin</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <persName ref="http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
@@ -139,9 +139,9 @@
             </correspDesc>
             <abstract>
                 <p>Portia hielt sich zehn Tage am Kriegsschauplatz auf, um sich um die päpstlichen
-                    Truppen zu kümmern; nach Warasdin/Varazdin zuriickgekehrt, bemüht er sich um die
+                    Truppen zu kümmern; nach Warasdin/Varazdin zurückgekehrt, bemüht er sich um die
                     famiglia des Gian Francesco Aldobrandini. Erzherzog Ferdinand, dem das
-                    péipstliche Breve mit der Ernennung Del.finis zum Befehlshaber der päpstlichen
+                    péipstliche Breve mit der Ernennung Delfinis zum Befehlshaber der päpstlichen
                     Truppen übergeben wurde, hat jegliche Unterstützung zugesichert. Die
                     Schwierigkeiten bei der Rückeroberung Kanizsas werden durch den Tod einzelner
                     Befehlshaber, wie z. B. Oberst Orfeo, verstärkt. Anstatt Colloredo wird Johann
@@ -210,16 +210,9 @@
                         xml:id="P5_0000588"/>vitio et commodo, et gl’ho anco procurato et ottenuto
                     dall’Arciduca Commessarii per tutto lo Stato, gli quali gl’accompagnaranno et
                     provederanno di tutte le cose necessarie con procurarli tutti quegl’indrizzi che
-                    mi son parsi convenire per questa <note xml:id="SN5_262.1_b" type="siglum"
-                        >Ergänzt nach Kopie in DAG</note>conclu<ref target="#SN5_262.1_b"/>sione et
-                    effetto. Si pensa che dovran far la strada di Carinthia per Vilacco et la
-                    Trevisa per esser più commoda per la carrozza et uno o due carri che dovran
-                    condursi. Insomma io non mancherò di servire a queste genti et prestarle
-                    ogn’aiuto conforme all’obligatione et devotione ch’io tengo alla memoria di quel
-                    Signor tanto riverito et amato da me, et per esseguir anco gli commandi di V. S.
-                    Ill.ma ...<ref target="#SN5_262.1_a"/><note xml:id="SN5_262.1_c" type="siglum"
-                        >Dorsalvermerk des Staatssekretariates, fol. 128v: Erminio risponda.</note>
-                </p>
+                    mi son parsi convenire per questa <ref target="#SN262.1_b"/>conclu <note
+                        xml:id="SN5_262.1_c" type="siglum">orsalvermerk des Staatssekretariates,
+                        fol. 128v: Erminio risponda.</note></p>
             </div>
         </body>
     </text>

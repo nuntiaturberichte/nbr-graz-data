@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1599-09-20" n="1">1599-09-20</title>
                 <title level="a">76.1. Portia an San Giorgio - Graz, 1599 September 20</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -115,12 +115,12 @@
         <profileDesc>
             <correspDesc n="L5_076.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1599-09-20" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <persName ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
@@ -177,10 +177,10 @@
                     l’occasione et il commodo delle Barche è in tutto necessario et se ’l porvi
                     gente Alemanna fosse più profitevole che gl’Italiani, huomini più atti et più
                     espediti all’acciuffarsi con Turchi nell’occasione <note xml:id="SN5_076.1_a"
-                        type="siglum">Eigenhändig von Portia ersetzt für essi.</note>che Turchi<ref
-                        target="#SN5_076.1_a"/> et li Murlacchi sogliono correr sin sotto la
-                    muraglia di Segna, le quai cose giudicherei considerabili nel caso della riforma
-                    et mutatione del presidio che si tratta per la difesa di quel Confine et per il
+                        type="siglum">Eigenhändig von Portia ersetzt für essi.</note>che Turchi <ref
+                        target="#SN076.1_a"/>et li Murlacchi sogliono correr sin sotto la muraglia
+                    di Segna, le quai cose giudicherei considerabili nel caso della riforma et
+                    mutatione del presidio che si tratta per la difesa di quel Confine et per il
                     publico beneficio della Christianità et d’Italia in particolare.</p>
                 <p>Doppo questo ho poi anco fatto l’officio che V. S. Ill.ma m’ha imposto
                     accompagnare il Breve diretto all’Arciduca<note xml:id="FN5_076.1_02"
@@ -195,7 +195,7 @@
                     espresso a S. M.tà per sollecitar ad unirsi et a consultar di qualche partito
                     per rimedio, sollecitandosi qui in tanto di preparar le scritture et le persone
                     c’hanno a venir costà per la commissione della quale scrissi già alcuni giorni
-                    sono a V. S. Ill.ma<note xml:id="FN5_076.1_03" type="footnote"> Nr. 53.3, 55.2,
+                    sono a V. S. Ill.ma <note xml:id="FN5_076.1_03" type="footnote">Nr. 53.3, 55.2,
                         59.2.</note>, intendendo anco che cotesto Ambasciatore Cesareo <note
                         xml:id="FN5_076.1_04" type="footnote">Raimund von Thurn: vgl. Nr.
                         51.1.</note>habbi havuto commissione di significar il tutto a S. B.ne et
@@ -219,8 +219,7 @@
                     <note xml:id="SN5_076.1_b" type="siglum">Eigenhändige Ergänzung
                     Portias.</note>L’Arciduchessa Maria Christierna è in stato di convalescenza et è
                     come risanata et heri cominciò a uscir un poco anco dalla sua stanza per
-                        ricreatione.<ref target="#SN5_076.1_b"/>
-                </p>
+                    ricreatione. <ref target="#SN076.1_b"/></p>
             </div>
         </body>
     </text>

@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1602-08-05" n="1">1602-08-05</title>
                 <title level="a">342.1. Portia an Aldobrandini - Graz, 1602 August 5</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -118,12 +118,12 @@
         <profileDesc>
             <correspDesc n="L5_342.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1602-08-05" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <persName ref="http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
@@ -173,10 +173,9 @@
                         xml:id="FN5_342.1_02" type="footnote">Beigelegte Zeichnung dieser
                     Nr.</note>, perché s’intenda a che rischio si trovi quel luoco che ogn’un dice
                     non potersi tenere più di tre o quattro settimane se l’inimico verrà con forze
-                    simili al suo ordinario.<ref target="#SN5_342.1_a"/>
+                    simili al suo ordinario. <ref target="#SN342.1_a"/>
                     <note xml:id="SN5_342.1_b" type="siglum">Dorsalvermerk des Staatssekretariates,
-                        fol. 279v: „E[rminio]“.</note>
-                </p>
+                        fol. 279v: „E[rminio]“.</note></p>
             </div>
         </body>
     </text>

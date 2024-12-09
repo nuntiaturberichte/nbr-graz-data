@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1600-05-15" n="2">1600-05-15</title>
                 <title level="a">132.2. Portia an Aldobradini - Graz, 1600 Mai 15</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -114,12 +114,12 @@
         <profileDesc>
             <correspDesc n="L5_132.2">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1600-05-15" n="2"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <persName ref="http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
@@ -162,7 +162,7 @@
                 <p>
                     <note xml:id="SN5_132.2_a" type="siglum">Eigenhändige Ergänzung
                     Portias.</note>Con quest’ordinario non si manda a V. S. Ill.ma per error del
-                        Secretario<note xml:id="FN5_132.2_02" type="footnote"> Vielleicht handelt es
+                    Secretario <note xml:id="FN5_132.2_02" type="footnote">Vielleicht handelt es
                         sich um den Sekretär Giorgio Tomasi: vgl. Nr. 237.1</note>il dupplicato di
                     due lettere publiche <note xml:id="FN5_132.2_03" type="footnote">Für das gesamte
                         Jahr 1600 ist nur ein Bericht Portias an San Giorgio im Original (Nr. 171.1)
@@ -174,9 +174,8 @@
                         xml:id="FN5_132.2_04" type="footnote">Dabei handelte es sich um die Bischöfe
                         von Triest und Seckau, Ursino de Bertis und Martin Brenner: vgl. Nr.
                         138.3.</note>, però io la supplico a condonar questo errore et a degnarsi di
-                    conservarmi nella sua benigna gratia et protettione. <ref target="#SN5_132.2_a"
-                    />
-                </p>
+                    conservarmi nella sua benigna gratia et protettione. <ref target="#SN132.2_a"
+                    /></p>
             </div>
         </body>
     </text>

@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1599-08-09" n="3">1599-08-09</title>
                 <title level="a">64.3. Portia an San Giorgio - Graz, 1599 August 9</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -120,12 +120,12 @@
         <profileDesc>
             <correspDesc n="L5_064.3">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1599-08-09" n="3"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <persName ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,
@@ -191,10 +191,10 @@
                         Patria del Friuli fatta nel secolo XVI: vgl. PROBSZT/OHSTORFF, S.
                         110f.</note>che debba rinonciare impetratis per sé et per nome mio et che si
                     debba, volendo proseguire, comparire inanti al medesimo tribunale
-                    dell’Avvogaria, non havendo essi<note xml:id="SN5_064.3_a" type="siglum">
-                        Eigenhändige Einfügung Portias.</note>frati<ref target="#SN5_064.3_a"/>
-                    havuta consideratione di quant’importanza sia un simil attentato et per sé come
-                    Religiosi et per me come Vescovo in quello Stato. Per questo così grave
+                    dell’Avvogaria, non havendo essi <note xml:id="SN5_064.3_a" type="siglum"
+                        >Eigenhändige Einfügung Portias.</note>frati <ref target="#SN064.3_a"
+                    />havuta consideratione di quant’importanza sia un simil attentato et per sé
+                    come Religiosi et per me come Vescovo in quello Stato. Per questo così grave
                     accidente son necessitato di ricorrer alla gratia et favore di V. S. Ill.ma et
                     di supplicarla d’impetrarmi la protettione della S.tà di N. S. acciò che et la
                     causa sudetta sia conosciuta et la mia Chiesa sia reintegrata, facend’officio
@@ -226,16 +226,15 @@
                     <note xml:id="SN5_064.3_b" type="siglum">Eigenhändige Ergänzung
                     Portias.</note>Propongo alla prudenza et benignità di V. S. Ill.ma il pensare
                     che potrebbe giovar molto a favorir la causa mia se la S.tà di N. S. si degnasse
-                    di far dechiarar la volontà sua in questo negotio al Sig. Ambasciator
-                        Veneto<note xml:id="FN5_064.3_06" type="footnote"> Giovanni Mocenigo: vgl.
-                        Nr. 18.1.</note>et<pb xml:id="P5_0000170"/> col mezzo del Sig. Cardinal
-                        Pinelli<note xml:id="FN5_064.3_07" type="footnote"> Domenico Pinelli
-                        (1540–1611), Bischof von Fermo (1577–1584), Kardinal (1585): vgl. JAITNER,
+                    di far dechiarar la volontà sua in questo negotio al Sig. Ambasciator Veneto
+                        <note xml:id="FN5_064.3_06" type="footnote">Giovanni Mocenigo: vgl. Nr.
+                        18.1.</note>et <pb xml:id="P5_0000170"/>col mezzo del Sig. Cardinal Pinelli
+                        <note xml:id="FN5_064.3_07" type="footnote">Domenico Pinelli (1540–1611),
+                        Bischof von Fermo (1577–1584), Kardinal (1585): vgl. JAITNER,
                         Prosopographie, S. 203 (Anm. 33).</note>Protettore de Carmelitani far
                     corregger l’imprudente attentato di que’ frati di Venetia.</p>
                 <p>Et in fine la supplico a degnarsi d’havermi nella sua protettione.<ref
-                        target="#SN5_064.3_b"/>
-                </p>
+                        target="#SN064.3_b"/></p>
             </div>
         </body>
     </text>

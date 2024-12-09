@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1582-04-28" n="1">1582-04-28</title>
                 <title level="a">158. Gallio an Malaspina - Rom, 1582 April 28</title>
-                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <author ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -113,12 +113,12 @@
         <profileDesc>
             <correspDesc n="L1_00158">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <persName ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
                     <date when="1582-04-28" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                    <placeName ref="http://www.geonames.org/3169070">Rome</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <persName ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
@@ -147,24 +147,31 @@
             <div>
                 <pb xml:id="P1_0000413"/>
                 <p>Il capitolo d’Aquileia ha mandato ultimamente<note xml:id="FN1_00158_01"
-                        type="footnote"/>a Roma per il negotio de l’impositioni il sig. Francesco
-                    Manini lor concanonico, il quale, dopo haver esposto a bocca a N. S. le ragioni
-                    et pretensioni loro, de le quali so che V. S. è informatissima, ha supplicato S.
-                    Sta, come V. S. intenderà per l’aggiunto memoriale,<note xml:id="FN1_00158_02"
-                        type="footnote"/> che sia servita di operar con l’auttorità sua appresso il
-                    sermo arciduca Carlo ché sin tanto che non sia accommodato il detto negotio, li
-                    suoi ministri sospendano il metter mano de facto sopra l’entrate di detto
-                    capitolo, come hanno messo li anni passati, con gran preiuditio et danno di
-                    tutto quel clero. La qual petitione, essendo parsa a S. Stà molto ragionevole,
-                    massime perché è da sperar fermamente che il negotio sia per accommodarsi in
-                    breve, per mezo de l’illmo Madruzzo, il qual ha havuto ordine particolare da S.
-                    Stà di far ogni opera perché sia terminato.<note xml:id="FN1_00158_03"
-                        type="footnote"/> S. Stà mi ha commesso di scriver a V. S. la presente a
-                    finché lei s’adoperi caldamente per la detta sospensione col sig. arciduca et,
-                    in absentia sua, con li suoi ministri.<note xml:id="FN1_00158_04"
-                        type="footnote"/> Et è da sperare per la ragione sudetta che V. S. non
-                    doverà trovar molta difficoltà in ottenerla, ma in ogni caso vuol S. Stà che V.
-                    S. non manchi di usar ogni diligenza per il buon effetto che si desidera...</p>
+                        type="footnote">Vgl. Nr. 131.</note>a Roma per il negotio de l’impositioni
+                    il sig. Francesco Manini lor concanonico, il quale, dopo haver esposto a bocca a
+                    N. S. le ragioni et pretensioni loro, de le quali so che V. S. è informatissima,
+                    ha supplicato S. Sta, come V. S. intenderà per l’aggiunto memoriale, <note
+                        xml:id="FN1_00158_02" type="footnote">Memoriale nicht vorhanden. Manini
+                        begab sich dann nach Augsburg, um dieses Anliegen zu betreiben (Hansen,
+                        Nuntiaturberichte III/2, S. 472).</note>che sia servita di operar con
+                    l’auttorità sua appresso il sermo arciduca Carlo ché sin tanto che non sia
+                    accommodato il detto negotio, li suoi ministri sospendano il metter mano de
+                    facto sopra l’entrate di detto capitolo, come hanno messo li anni passati, con
+                    gran preiuditio et danno di tutto quel clero. La qual petitione, essendo parsa a
+                    S. Stà molto ragionevole, massime perché è da sperar fermamente che il negotio
+                    sia per accommodarsi in breve, per mezo de l’illmo Madruzzo, il qual ha havuto
+                    ordine particolare da S. Stà di far ogni opera perché sia terminato. <note
+                        xml:id="FN1_00158_03" type="footnote">Am selben Tag schrieb Gallio an
+                        Madruzzo wegen des Kapitels von Aquileia (Arch. Vat. Nunz. Germ. 9, f.
+                        24r).</note>S. Stà mi ha commesso di scriver a V. S. la presente a finché
+                    lei s’adoperi caldamente per la detta sospensione col sig. arciduca et, in
+                    absentia sua, con li suoi ministri. <note xml:id="FN1_00158_04" type="footnote"
+                        >Madruzzo berichtete am 22. und 28. Juli 1582 von diesbezüglichen positiven
+                        Verhandlungen Malaspinas mit Erzherzog Karl (Hansen, Nuntiaturberichte
+                        III/2, S. 472 und 482).</note>Et è da sperare per la ragione sudetta che V.
+                    S. non doverà trovar molta difficoltà in ottenerla, ma in ogni caso vuol S. Stà
+                    che V. S. non manchi di usar ogni diligenza per il buon effetto che si
+                    desidera...</p>
             </div>
         </body>
     </text>

@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1600-08-27" n="1">1600-08-27</title>
                 <title level="a">157.3. San Giorgio an Portia - Rom, 1600 August 27</title>
-                <author ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
+                <author ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -107,10 +107,9 @@
                     <msIdentifier>
                         <collection>
                             <lb/>BNCF, Fondo nazionale II.II.511, fol. 184r, Orig.; ASV, Fondo
-                            Borghese, serie III 48,<lb/>48 Bis, 49, 51 E, 52 A, fol. 51v–52r,
-                                Reg.<note xml:id="SN5_157.3_a" type="siglum"> Im Registereintrag ist
-                                die Weisung mit 26. August 1600 datiert.</note>
-                        </collection>
+                            Borghese, serie III 48,<lb/>48 Bis, 49, 51 E, 52 A, fol. 51v–52r, Reg.
+                                <note xml:id="SN5_157.3_a" type="siglum">Im Registereintrag ist die
+                                Weisung mit 26. August 1600 datiert.</note></collection>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>
@@ -118,12 +117,12 @@
         <profileDesc>
             <correspDesc n="L5_157.3">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
+                    <persName ref="http://d-nb.info/gnd/119284863">Aldobrandini, Cinzio</persName>
                     <date when="1600-08-27" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                    <placeName ref="http://www.geonames.org/3169070">Rome</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_040">Aldobrandini,

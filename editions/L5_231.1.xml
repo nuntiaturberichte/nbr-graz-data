@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1601-06-19" n="1">1601-06-19</title>
                 <title level="a">231.1. Portia an Aldobrandini - Graz, 1601 Juni 19</title>
-                <author ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
+                <author ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -114,12 +114,12 @@
         <profileDesc>
             <correspDesc n="L5_231.1">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
+                    <persName ref="http://d-nb.info/gnd/124343775">Portia, Girolamo</persName>
                     <date when="1601-06-19" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2778067">Graz</placeName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
+                    <persName ref="http://d-nb.info/gnd/124294707">Aldobrandini, Pietro</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_077">Aldobrandini,
@@ -167,15 +167,14 @@
                 <p>
                     <note xml:id="SN5_231.1_a" type="siglum">Eigenhändige Ergänzung
                     Portias.</note>Della venuta del Sig. Duca di Mantova io credo molto poco perché
-                    qui si è corrisposto molto poco alle sue dimande et si è havuto riguardo a
-                        quel<pb xml:id="P5_0000519"/> che si conveniva. La Trattatione della pace è
-                    ancor dubia et gli Commissarii Cesarei hanno ritardato la sua partita di Vienna
-                    verso Strigonia sin agl’11 del presente per aspettare che si unissero cinquemila
+                    qui si è corrisposto molto poco alle sue dimande et si è havuto riguardo a quel
+                        <pb xml:id="P5_0000519"/>che si conveniva. La Trattatione della pace è ancor
+                    dubia et gli Commissarii Cesarei hanno ritardato la sua partita di Vienna verso
+                    Strigonia sin agl’11 del presente per aspettare che si unissero cinquemila
                     soldati che gl’hanno da accompagnare al luoco dell’abbocamento et trattatione.
                     Quelli che credano la conclusione della pace tengano che il Turco habbi da
-                    restituire Canisa et Agria et questo punto ad altri è reputato per
-                        impossibile.<ref target="#SN5_231.1_a"/>
-                </p>
+                    restituire Canisa et Agria et questo punto ad altri è reputato per impossibile.
+                        <ref target="#SN231.1_a"/></p>
             </div>
         </body>
     </text>

@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1581-01-28" n="2">1581-01-28</title>
                 <title level="a">64. Gallio an Malaspina - Rom, 1581 Jänner 28</title>
-                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <author ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -114,12 +114,12 @@
         <profileDesc>
             <correspDesc n="L1_00064">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <persName ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
                     <date when="1581-01-28" n="2"/>
-                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                    <placeName ref="http://www.geonames.org/3169070">Rome</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <persName ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
@@ -166,8 +166,7 @@
                     d’haver dato per elemosina, et dice che, quando verranno simili occasioni, ne le
                     quali convenga per buon essempio et edification publica far di queste opere, li
                     faccia, ché si li faranno restituire qui i danari volentieri.<note
-                        xml:id="FN1_00064_03" type="footnote">Siehe Nr. 33, S. 113.</note>
-                </p>
+                        xml:id="FN1_00064_03" type="footnote">Siehe Nr. 33, S. 113.</note></p>
                 <p>Beilage A, ebenda f. 22r—23r: Vedendosi parte de’ provintiali del sermo arciduca
                     Carlo con non poca ostinatione opporsi al decreto di S. A. circa l’esercitio
                     della religione,<note xml:id="FN1_00064_04" type="footnote">Vgl. Nr. 52 und
@@ -178,7 +177,7 @@
                         Bestimmungen des Augsburger Religionsfriedens.</note>si de’ procurar in ogni
                     modo, non solo che non si ralenti, ma che S. A. promovi l’effetto di questa
                     determinatione, dal che dipende la conservatione della fede santa catholica et
-                    la reputation e authorità sua. Et se bene<pb xml:id="P1_0000183"/> vi pono
+                    la reputation e authorità sua. Et se bene <pb xml:id="P1_0000183"/>vi pono
                     essere delle difficoltà, nondimeno essendo ciò tutto indriciato all’honor
                     d’iddio non può mancare l’aiuto che viene dalla sua santa mano. Né S. Stà è, per
                     quanto pò, per mancarci et inoltre li sermi principi, tutti di casa d’Austria,
@@ -206,7 +205,7 @@
                         sondern Wittenberg gemeint.</note>Che se loro, sotto pretesto di questo novo
                     parto della concordia publicata, presumono poter scacciare quei predicanti che
                     non l’accettano anco ne i stati di S. A., come s’intende esser stato fatto in
-                        Vilaco,<note xml:id="FN1_00064_08" type="footnote"> Über die hier erwähnten
+                    Vilaco, <note xml:id="FN1_00064_08" type="footnote">Über die hier erwähnten
                         Vorkommnisse in Villach ist nichts Näheres bekannt.</note>possono bene
                     persuadersi che questi principi vorrano potere da loro stati scacciar quelli che
                     si partono dalla religione catholica, da laudabili predecessori tenuta con vera
@@ -254,19 +253,25 @@
                     causa a così ingiuste et mal regolate voglie.</p>
                 <pb xml:id="P1_0000185"/>
                 <p>Beilage B, ebenda f. 24r: Il coadiutor di Salzpurg è nativo di Carintia et,
-                    essendo di familia nobile,<note xml:id="FN1_00064_10" type="footnote"/>deve
-                    haver tra quella nobiltà parenti et amici. L’arcivescovato ha tre grosse et
-                    molte roce in quella provincia. <note xml:id="FN1_00064_11" type="footnote"
-                    />Onde se si havesse di qualche moto, potria egli, in specie di visita
-                    spirituale et temporale, transferirsi in Frisac, <note xml:id="FN1_00064_12"
-                        type="footnote">Malaspina hielt sich im Juni 1581 vor allem in dem von
-                        Friesach nicht weit entfernten Benediktinerstift St. Lambrecht auf (Nr. 99,
-                        101 und 102).</note>loco comodo a molte parti et con diversi tratamenti
-                    potria, se non altro, almeno procurare qualche divisione et separationi di
-                    parte, al che et per l’autorità sua et destrezza in simil novità potria esser
-                    abbraciato da non pochi et ogni poca separatione o ralentamento d’animo potria
-                    giovar assai a contener molti in officio et far andar altri più avanti et a
-                    l’incontro a quei, che sono boni, dar animo et ardire.</p>
+                    essendo di familia nobile,<note xml:id="FN1_00064_10" type="footnote">Dompropst
+                        Georg von Kuenburg, ein Neffe des Salzburger Erzbischofs Michael von
+                        Kuenburg, wurde am 18. Juli 1580 zum Koadjutor des durch einen Schlaganfall
+                        schwerst behinderten Erzbischofs Johann Jakob gewählt und am folgenden 7.
+                        November vom Papst bestätigt (Salzburg Konsistorialarchiv, Urkunden B 303;
+                        Widmann, Geschichte Salzburgs III, S. 107 f.).</note>deve haver tra quella
+                    nobiltà parenti et amici. L’arcivescovato ha tre grosse et molte roce in quella
+                    provincia. <note xml:id="FN1_00064_11" type="footnote">Die drei wichtigsten
+                        Salzburger Orte in Kärnten waren Friesach, St. Leonhard und
+                    Gmünd.</note>Onde se si havesse di qualche moto, potria egli, in specie di
+                    visita spirituale et temporale, transferirsi in Frisac, <note
+                        xml:id="FN1_00064_12" type="footnote">Malaspina hielt sich im Juni 1581 vor
+                        allem in dem von Friesach nicht weit entfernten Benediktinerstift St.
+                        Lambrecht auf (Nr. 99, 101 und 102).</note>loco comodo a molte parti et con
+                    diversi tratamenti potria, se non altro, almeno procurare qualche divisione et
+                    separationi di parte, al che et per l’autorità sua et destrezza in simil novità
+                    potria esser abbraciato da non pochi et ogni poca separatione o ralentamento
+                    d’animo potria giovar assai a contener molti in officio et far andar altri più
+                    avanti et a l’incontro a quei, che sono boni, dar animo et ardire.</p>
             </div>
         </body>
     </text>

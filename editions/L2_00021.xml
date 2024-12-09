@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1582-08-29" n="1">1582-08-29</title>
                 <title level="a">21. Malaspina an Gallio - Augsburg, 1582 August 29</title>
-                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <author ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -119,12 +119,12 @@
         <profileDesc>
             <correspDesc n="L2_00021">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <persName ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
                     <date when="1582-08-29" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2954172">Augsburg</placeName>
+                    <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <persName ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
@@ -183,7 +183,7 @@
                         xml:id="FN2_00021_03" type="footnote">Herzog Wilhelm kam am 27. September
                         1582 in Graz an (Krones, Beiträge zur Geschichte des Jesuitenordens in der
                         Steiermark, S. 26).</note>S. M.tà si compiacesse di darle lettere
-                    credentiali in persona<pb xml:id="P2_0000030"/> sua dirette et a l’arciduca,
+                    credentiali in persona <pb xml:id="P2_0000030"/>sua dirette et a l’arciduca,
                     confortandolo a persistere animosamente ne la cominciata impresa et essecutione
                     del decreto et a li provintiali, <note xml:id="FN2_00021_04" type="footnote"
                         >Schreiben nicht bekannt.</note>monendoli seriosamente a voler desistere da
@@ -212,7 +212,7 @@
                     tal assunto, et mi parve di comprender che ciò la M.tà S. sentisse con
                     sodisfattione. Hora si starà aspettando la risolutione. In questo mezo si sono
                     serrati molti passi a gli oratori de le provintie et per ancora non hanno
-                    tentato niente in publico,<note xml:id="FN2_00021_06" type="footnote"> Siehe
+                    tentato niente in publico, <note xml:id="FN2_00021_06" type="footnote">Siehe
                         oben Nr. 19, Anm. 1.</note>se bene si potiamo persuadere che non debbano
                     lasciar di fare mille conventicule et prattiche secrete.</p>
                 <p>Spero che a N. S. sia per esser grato questo mezo che ho preso con approvatione
@@ -220,28 +220,33 @@
                     negotio che pativa molte difficoltà et eccetioni, massime per la penuria degli
                     huomini atti a tal impresa. Quello di più che in questo è passato et le
                     difficoltà allegate in scritto dal sig. duca di Baviera, per non accettare tal
-                    carico ne la forma che<pb xml:id="P2_0000031"/> da principio se le propose,
+                    carico ne la forma che <pb xml:id="P2_0000031"/>da principio se le propose,
                     havendo io dato li scritti a l’ill.mo legato, <note xml:id="FN2_00021_07"
-                        type="footnote"/>mi rimetto a quello che S. S. Ill.ma scriverà. Et perché S.
-                    S. Ill.ma fu di parere che io parlassi ancora de l’Hoffman, io oltre al riferire
-                    a S. M.tà tutti quelli punti che mandai a V. S. Ill.ma,<note
-                        xml:id="FN2_00021_08" type="footnote"/> le significai ancora che havevo di
-                    buon loco inteso che l’Hoffman, essendosi unito con gli oratori de le città,
-                    andava facendo offitii di qualche momento et tutti involti a perturbare, per
-                    quanto stava in lui, il benpublico et gli fini de la M.tà S. Mostrò l’imperatore
-                    di creder facilmente tutto questo et di conoscere la natura de l’Hoffman et
-                    disse che dal canto suo havrebbe procurato che fosse humiliato et rimosso dal
-                    governo, che ha dal vescovo di Bamberga. Però per li efficaci offitii che con
-                    gli Elettori et altri principi ha fatto l’ill.mo legato, forsi domani si
-                    stabilirà di scrivere da tutti loro una lettera in buona forma al vescovo et S.
-                    M.tà senza dubio farà il medesimo, dimodo ché concorrendo con la instantia di S.
-                    B.ne anco quella de l’imperatore et Elettori et principi catholici, sarà forse
-                    il vescovo et il capitolo necessitato di fare qualche buona risolutione et,
-                    quando pur non la faccia, se S. S.tà procederà contra la contumatia loro,
-                    saranno et abbandonati et inescusabili appresso tutti. <note
-                        xml:id="FN2_00021_09" type="footnote"/>Questo è quello che ho giudicato di
-                    far sapere a V. S. Ill.ma et non mi ocorrendo che rispondere a lettera de li 11
-                    d’agosto <note xml:id="FN2_00021_10" type="footnote">Nr. 15</note>. . .</p>
+                        type="footnote">Schreiben nicht gefunden.</note>mi rimetto a quello che S.
+                    S. Ill.ma scriverà. Et perché S. S. Ill.ma fu di parere che io parlassi ancora
+                    de l’Hoffman, io oltre al riferire a S. M.tà tutti quelli punti che mandai a V.
+                    S. Ill.ma, <note xml:id="FN2_00021_08" type="footnote">Nr. 16.</note>le
+                    significai ancora che havevo di buon loco inteso che l’Hoffman, essendosi unito
+                    con gli oratori de le città, andava facendo offitii di qualche momento et tutti
+                    involti a perturbare, per quanto stava in lui, il benpublico et gli fini de la
+                    M.tà S. Mostrò l’imperatore di creder facilmente tutto questo et di conoscere la
+                    natura de l’Hoffman et disse che dal canto suo havrebbe procurato che fosse
+                    humiliato et rimosso dal governo, che ha dal vescovo di Bamberga. Però per li
+                    efficaci offitii che con gli Elettori et altri principi ha fatto l’ill.mo
+                    legato, forsi domani si stabilirà di scrivere da tutti loro una lettera in buona
+                    forma al vescovo et S. M.tà senza dubio farà il medesimo, dimodo ché concorrendo
+                    con la instantia di S. B.ne anco quella de l’imperatore et Elettori et principi
+                    catholici, sarà forse il vescovo et il capitolo necessitato di fare qualche
+                    buona risolutione et, quando pur non la faccia, se S. S.tà procederà contra la
+                    contumatia loro, saranno et abbandonati et inescusabili appresso tutti. <note
+                        xml:id="FN2_00021_09" type="footnote">Alle Bemühungen, Hoffmann als
+                        Bamberger Vizedom in Kärnten zu entfernen, blieben erfolglos. Der Bamberger
+                        Bischof war über die Schreiben des Papstes, des Legaten Madruzzo u. a. in
+                        dieser Angelegenheit empört und bestätigte Hoffmann auf Lebenszeit als
+                        Vizedom (Hansen, Nuntiaturberichte III/2, S. 541f.).</note>Questo è quello
+                    che ho giudicato di far sapere a V. S. Ill.ma et non mi ocorrendo che rispondere
+                    a lettera de li 11 d’agosto <note xml:id="FN2_00021_10" type="footnote">Nr.
+                        15</note>. . .</p>
             </div>
         </body>
     </text>

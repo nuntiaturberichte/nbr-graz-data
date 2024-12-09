@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1583-08-06" n="1">1583-08-06</title>
                 <title level="a">112. Gallio an Malaspina - Rom, 1583 August 6</title>
-                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <author ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -119,12 +119,12 @@
         <profileDesc>
             <correspDesc n="L2_00112">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <persName ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
                     <date when="1583-08-06" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                    <placeName ref="http://www.geonames.org/3169070">Rome</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <persName ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
@@ -157,9 +157,11 @@
                         xml:id="P2_0000168"/>il desiderio loro s’è contentata che con le prime
                     lettere si ne scriva caldamente al nuntio in Spagna, ma però senza descendere a
                     particolare alcuno perché S. S.tà non è solita a farlo. <note
-                        xml:id="FN2_00112_02" type="footnote">Arch. Vat. Nunz. Germ. 101, f.
-                        99r.</note>Il che io essequirò con quella volontà ch’è in me di procurar
-                    ogni honore et commodo a lei et a tutti de la sua casa . . .</p>
+                        xml:id="FN2_00112_02" type="footnote">Am 15. August 1583 erhielt der Nuntius
+                        in Spanien die Weisung, beim König zugunsten des Alessandro Malaspina zu
+                        intervenieren (Arch. Vat., Nunz. Spagna. 30, f. 295r).</note>Il che io
+                    essequirò con quella volontà ch’è in me di procurar ogni honore et commodo a lei
+                    et a tutti de la sua casa . . .</p>
             </div>
         </body>
     </text>

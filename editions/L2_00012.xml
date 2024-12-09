@@ -7,7 +7,7 @@
                 <title type="iso-date" when-iso="1582-08-03" n="1">1582-08-03</title>
                 <title level="a">12. (Malaspina an Erzherzog Karl) - (Augsburg), 1582 August
                     3</title>
-                <author ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
+                <author ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -121,15 +121,14 @@
         <profileDesc>
             <correspDesc n="L2_00012">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/118576658" cert="low">Malaspina,
+                    <persName ref="http://d-nb.info/gnd/118576658" cert="low">Malaspina,
                         Germanico</persName>
                     <date when="1582-08-03" n="1"/>
-                    <placeName ref="#http://www.geonames.org/2954172" cert="low"
-                        >Augsburg</placeName>
+                    <placeName ref="http://www.geonames.org/2954172" cert="low">Augsburg</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/118560069" cert="low">Österreich,
-                        Erzherzog, Karl</persName>
+                    <persName ref="http://d-nb.info/gnd/118560069" cert="low">Österreich, Erzherzog,
+                        Karl</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_012">Malaspina,
@@ -163,7 +162,7 @@
                     l’honore et gloria di S. D. M.tà et l’augumento et conservatione de li stati et
                     dominii di V. A. Et questo solamente è che mi consola in tanti impedimenti, che
                     ogni giorno si scoprono ne la cura, che di presente si ha per le mani di voler
-                    risanare la piaga che in queste provincie ha<pb xml:id="P2_0000019"/> fatto
+                    risanare la piaga che in queste provincie ha <pb xml:id="P2_0000019"/>fatto
                     l’heresia, la quale pare che stia per infistolire, se presto non se li applica
                     rimedio sofficiente.</p>
                 <p>Per il che havendo inteso con quanto detrimento de la dignità di V. A. sia stato
@@ -178,8 +177,8 @@
                     falsissime ogni giorno prova, cioè che V. A. in secreto s’intende con lui et
                     hora ha in Praga publicata una lettera, <note xml:id="FN2_00012_02"
                         type="footnote">Nicht gefunden.</note>come da huomini degni di fede son
-                    avvisato, come scritta da V. A. al vescovo di Bamberga,<note
-                        xml:id="FN2_00012_03" type="footnote"> Johann Georg Zobel von Giebelstadt,
+                    avvisato, come scritta da V. A. al vescovo di Bamberga, <note
+                        xml:id="FN2_00012_03" type="footnote">Johann Georg Zobel von Giebelstadt,
                         1577—1580 Bischof von Bamberg.</note>ne la quale V. A. commenda il vescovo
                     che habbia dato il governo di Villacco a la persona sua, come huomo di molte
                     virtù et amato da lei. <note xml:id="FN2_00012_04" type="footnote">Der Nuntius
@@ -203,12 +202,15 @@
                     desidero che V. A. non proceda con ogni prudentia et circonspettatione, se ben
                     vorrei che ’l zelo fosse accompagnato da la prudentia, ma che la prudentia non
                     fosse senza il zelo; et creda pur V. A. che se questa attione li sortisse bene,
-                    egli perderà totalmente il rispetto et come sicuro nel mal operare<pb
-                        xml:id="P2_0000020"/> et di poter offender V. A. senza timore di pena, sarà
+                    egli perderà totalmente il rispetto et come sicuro nel mal operare <pb
+                        xml:id="P2_0000020"/>et di poter offender V. A. senza timore di pena, sarà
                     per avvenire tanto insolente et havrà tal seguito che piaccia a S. D. M.tà che
                     V. A. et le afflitte reliquie de’ catholici di queste parti non lo provino, et
-                    precipue ne la dieta che verrà<note xml:id="FN2_00012_07" type="footnote"/> con
-                    molto danno et senza speranza di rimedio alcuno . . .</p>
+                    precipue ne la dieta che verrà <note xml:id="FN2_00012_07" type="footnote">Der
+                        nächste steirische Landtag fand im Februar/März 1583 statt. Hauptsprecher
+                        der Stände A. B. war Hans Friedrich Hoffmann (Graz, LA, Landschaftliches
+                        Archiv, Landtagshandlungen 35, f. 145r—212v; ebenda Landtagsakten, Schuber
+                        426).</note>con molto danno et senza speranza di rimedio alcuno . . .</p>
             </div>
         </body>
     </text>

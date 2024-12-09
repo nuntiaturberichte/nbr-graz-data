@@ -6,7 +6,7 @@
                 <title level="s">Digitale Edition Grazer Nuntiaturberichte (1580-[1602])</title>
                 <title type="iso-date" when-iso="1582-06-09" n="1">1582-06-09</title>
                 <title level="a">2. Gallio an Malaspina - Rom, 1582 Juni 9</title>
-                <author ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
+                <author ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</author>
                 <respStmt>
                     <persName>Kroissenbrunner Martin</persName>
                     <resp>Transkription und TEI-Kodierung</resp>
@@ -119,12 +119,12 @@
         <profileDesc>
             <correspDesc n="L2_00002">
                 <correspAction type="sent">
-                    <persName ref="#http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
+                    <persName ref="http://d-nb.info/gnd/119511266">Gallio, Tolemeo</persName>
                     <date when="1582-06-09" n="1"/>
-                    <placeName ref="#http://www.geonames.org/3169070">Rome</placeName>
+                    <placeName ref="http://www.geonames.org/3169070">Rome</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
+                    <persName ref="http://d-nb.info/gnd/118576658">Malaspina, Germanico</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="correspondence_001">Gallio, Tolemeo
@@ -153,15 +153,25 @@
                 <pb xml:id="P2_0000007"/>
                 <p>La S.tà di N. S. è restata satisfatta de la risposta data da V. S. con la sua
                     lettera de li 21 del passato circa il non haver havuta intentione di far visitar
-                        Aquileia,<note xml:id="FN2_00002_01" type="footnote"/>et ha anco sentito con
-                    piacere quel che si è essequito contra l’Hoffman per conto de la parochiale che
-                        occupava.<note xml:id="FN2_00002_02" type="footnote"/> Nel particolare poi
-                    di V. S.,<note xml:id="FN2_00002_03" type="footnote"/> ho comunicato a N. S.
-                    quanto lei mi scrive et soggionto quel che mi è parso a proposito per facilitar
-                    et anco ampliar la gratia; onde S. S.tà s’è benignamente contentata che V. S. se
-                    pigli de li denari che li restano in mano de la camera apostolica 400 scudi
-                    d’oro in oro per donativo et aiuto di costà, che servirà per il buon fine di
-                    questa . . .</p>
+                        Aquileia,<note xml:id="FN2_00002_01" type="footnote">Malaspina hatte den
+                        Bischof von Laibach beauftragt, die Grafschaft Görz und einige benachbarte
+                        Orte zu visitieren. Gallio, von Seite Aquileias aufmerksam gemacht, verbot
+                        aber, dabei die Stadt Aquileia samt dem dazugehörigen Gebiet zu visitieren,
+                        damit nicht der Anschein erweckt werde, es gehöre außer Zweifel zu
+                        Innerösterreich, wodurch ein Präjudiz gegen die Rückstellung Aquileias an
+                        den Patriarchen geschaffen würde (Rainer, Grazer Nuntiatur I, S. 407 und
+                        424).</note>et ha anco sentito con piacere quel che si è essequito contra
+                    l’Hoffman per conto de la parochiale che occupava. <note xml:id="FN2_00002_02"
+                        type="footnote">Pfarre Pöls (Loserth, FRA II/50, S. 272, 315 und
+                        317).</note>Nel particolare poi di V. S., <note xml:id="FN2_00002_03"
+                        type="footnote">Der Nuntius am Kaiserhof, Giovanni Francesco Bonomi,
+                        ersuchte Malaspina dringend um 500 Goldscudi. Malaspina legte daraufhin
+                        Gallio seine prekäre finanzielle Lage dar (Rainer, Grazer Nuntiatur I, S.
+                        424f.).</note>ho comunicato a N. S. quanto lei mi scrive et soggionto quel
+                    che mi è parso a proposito per facilitar et anco ampliar la gratia; onde S. S.tà
+                    s’è benignamente contentata che V. S. se pigli de li denari che li restano in
+                    mano de la camera apostolica 400 scudi d’oro in oro per donativo et aiuto di
+                    costà, che servirà per il buon fine di questa . . .</p>
             </div>
         </body>
     </text>
