@@ -52,7 +52,7 @@
                     wurden. Im Zuge der Digitalisierung wurde keine zusätzliche editorische
                     Bearbeitung vorgenommen. Im Folgenden finden Sie grundlegende Informationen zu
                     den Bänden.</p>
-                <table>
+                <table type="vol_rev">
                     <row>
                         <cell/>
                         <cell>1. Band</cell>
@@ -119,6 +119,8 @@
                                 >Link</ref></cell>
                     </row>
                 </table>
+            </div>
+            <div>
                 <p>Ziel dieser Website ist es, sowohl die Briefe als auch die editorische Arbeit
                     einem breiten Publikum zugänglich zu machen und die Recherche durch verschiedene
                     Zugangsmöglichkeiten zu erleichtern. Dazu stehen mehrere Möglichkeiten zur
@@ -134,45 +136,69 @@
                             Möglichkeit, die Suchergebnisse nach verschiedenen Facetten zu
                             filtern.</item>
                     </list></p>
-                <p>Die Briefe sind größtenteils in italienischer und teilweise in lateinischer
-                    Sprache verfasst. Für Personen, die dieser Sprachen nicht mächtig sind, wird
-                    empfohlen, die Übersetzungsfunktion des jeweiligen Browsers zu verwenden, wobei
-                    Google Chrome die besten Ergebnisse liefert.</p>
-                <p>Die Daten sind mit einer freien Lizenz versehen (CC BY&#160;4.0). Sie ermöglicht
-                    es, ohne Nachfrage, aber mit Nennung der Datenherkunft, die Daten
-                    weiterzuverwenden und zu bearbeiten. Die Daten selbst folgen weitgehend den
-                    Empfehlungen der <ref target="https://tei-c.org/guidelines/p5/">TEI P5</ref>.
-                    Die Kodierung wird im Menüpunkt »<ref target="kodierungsrichtlinien.html">Kodierungsrichtlinien</ref>«
-                    separat beschrieben.</p>
-                <p>Unter »Bandeinleitungen« findet man zu jedem Band historische Kontextualisierung,
-                    Quellenangaben, Literatur- sowie Abkürzungsverzeichnisse und Auflistungen
-                    benutzter Archive</p>
-                <p>Wie handwerklich vorgegangen wurde lässt sich unter »<ref type="URL" target="arbeitsablauf.html"
-                        >Arbeitsablauf</ref>« nachlesen. Die XML-Dokumente können über ein <ref
-                        target="https://github.com/nuntiaturberichte/nbr-graz-data"
-                        >GitHub-Repositorium</ref> heruntergeladen werden.</p>
-                <p>Die Webseite, die zur Ansicht der Daten zur Verfügung gestellt wird, ist keine
-                    Eigenentwicklung, sondern basiert auf dem <ref
-                        target="https://github.com/acdh-oeaw/dse-static-cookiecutter"
-                        >DSE-Static-Cookiecutter</ref> von Peter Andorfer. Die dazugehörigen Daten
-                    können ebenso über ein <ref
-                        target="https://github.com/nuntiaturberichte/nbr-graz-static"
-                        >GitHub-Repositorium</ref> geladen werden. Dass von der »Ansicht der Daten«
-                    sprechen, soll auch deutlich machen, dass die Website als eine mögliche Art
-                    verstanden wird, die Daten zu betrachten. Sie ist aber nicht die einzige.
-                    Komplexere Filterungen lassen sich beispielsweise nicht tätigen.</p>
             </div>
-            <div>
-                <head type="sub">Beteiligte Personen</head>
-                <p>Auftraggeber: Univ.-Doz. Dr. Andreas Gottsmann</p>
-                <p>Umsetzung: Martin Kroißenbrunner B.Ed., M.A. (2022-2024)</p>
-                <p>Projektmitarbeit:</p>
-                <list type="unordered">
-                    <item>Mag. Daniel Schopper (2022-2024)</item>
-                    <item>Dr. Stephan Kurz (2022-2024)</item>
-                    <item>Mag. Dr. Peter Andorfer (2024)</item>
-                    <item>Sabine Kofler B.A., M.A. (2023)</item>
-                </list>
+            <div type="text_and_img">
+                <div xml:id="text">
+                    <p>Die Briefe sind größtenteils in italienischer und teilweise in lateinischer
+                        Sprache verfasst. Für Personen, die dieser Sprachen nicht mächtig sind, wird
+                        empfohlen, die Übersetzungsfunktion des jeweiligen Browsers zu verwenden,
+                        wobei Google Chrome die besten Ergebnisse liefert.</p>
+                    <p>Die Daten sind mit einer freien Lizenz versehen (CC BY&#160;4.0). Sie
+                        ermöglicht es, ohne Nachfrage, aber mit Nennung der Datenherkunft, die Daten
+                        weiterzuverwenden und zu bearbeiten. Die Daten selbst folgen weitgehend den
+                        Empfehlungen der <ref target="https://tei-c.org/guidelines/p5/">TEI
+                        P5</ref>. Die Kodierung wird im Menüpunkt »<ref
+                            target="kodierungsrichtlinien.html">Kodierungsrichtlinien</ref>« separat
+                        beschrieben.</p>
+                    <p>Unter »Bandeinleitungen« findet man zu jedem Band historische
+                        Kontextualisierung, Quellenangaben, Literatur- sowie Abkürzungsverzeichnisse
+                        und Auflistungen benutzter Archive</p>
+                    <p>Wie handwerklich vorgegangen wurde lässt sich unter »<ref type="URL"
+                            target="arbeitsablauf.html">Arbeitsablauf</ref>« nachlesen. Die
+                        XML-Dokumente können über ein <ref
+                            target="https://github.com/nuntiaturberichte/nbr-graz-data"
+                            >GitHub-Repositorium</ref> heruntergeladen werden.</p>
+                    <p>Die Webseite, die zur Ansicht der Daten zur Verfügung gestellt wird, ist
+                        keine Eigenentwicklung, sondern basiert auf dem <ref
+                            target="https://github.com/acdh-oeaw/dse-static-cookiecutter"
+                            >DSE-Static-Cookiecutter</ref> von Peter Andorfer. Die dazugehörigen
+                        Daten können ebenso über ein <ref
+                            target="https://github.com/nuntiaturberichte/nbr-graz-static"
+                            >GitHub-Repositorium</ref> geladen werden. Dass von der »Ansicht der
+                        Daten« sprechen, soll auch deutlich machen, dass die Website als eine
+                        mögliche Art verstanden wird, die Daten zu betrachten. Sie ist aber nicht
+                        die einzige. Komplexere Filterungen lassen sich beispielsweise nicht
+                        tätigen.</p>
+                </div>
+                <div xml:id="img">
+                    <figure source="./images/portrait.png">
+                        <desc>Portrtait von Girolamo Portia</desc>
+                        <p>Portrait des Girolamo conte de Portia (1559-1612) im Alter von 48 Jahren,
+                            1607</p>
+                    </figure>
+                    <figure source="./images/fac-1.png">
+                        <desc>Faksimile eines Briefes von Portia vom 1. September 1597</desc>
+                        <p>Schreiben Portias vom 1. September 1597</p>
+                    </figure>
+                    <figure source="./images/fac-2.png">
+                        <desc>Faksimile eines Briefes von Kardinal Aldobrandini vom 6. Mai 1600</desc>
+                        <p>Originale Weisung Kardinal Aldobrandinis an Portia, 6. Mai 1600</p>
+                    </figure>
+                    <figure source="./images/fac-3.png">
+                        <desc>Faksimile eines Briefes von Kardinal San Giorgios vom 11. März 1600</desc>
+                        <p>Originale Weisung Kardinal San Giorgios an Portia, 11. März 1600</p>
+                    </figure>
+                    <figure source="./images/siegel-orig.png">
+                        <desc>Siegel von Portia</desc>
+                        <p>Siegel von Portia am Notariatsinstrument für die Trennung der Ehe des
+                            Fürstenpaares von Siebenbürgen, 16. August 1599</p>
+                    </figure>
+                    <figure source="./images/siegel-abdr.png">
+                        <desc>Zeichnung des Siegelabdrucks</desc>
+                        <p>Zeichnung angefertigt und zur Verfügung gestellt von Dr. Ludwig
+                            Freidinger</p>
+                    </figure>
+                </div>
             </div>
             <div>
                 <head type="sub">Rechte</head>
@@ -188,6 +214,47 @@
                     dürfen, werden sie nicht von der CC BY-Lizenz umfasst. Die weitere Verwendung,
                     Vervielfältigung oder der Nachdruck von Faksimiles ist mit den jeweiligen
                     Eigentümern und Eingentümerinnen zu klären.</p>
+            </div>
+            <div>
+                <head type="sub">Beteiligte Personen</head>
+                <table type="pers">
+                    <row n="0">
+                        <cell>Name</cell>
+                        <cell>Aufgabenbereich</cell>
+                        <cell>Zeitraum der Tätigkeit</cell>
+                    </row>
+                    <row n="1">
+                        <cell>Univ.-Doz. Dr. Andreas Gottsmann</cell>
+                        <cell>Auftraggeber</cell>
+                        <cell>2022-2024</cell>
+                    </row>
+                    <row n="2">
+                        <cell>Martin Kroißenbrunner B.Ed., M.A.</cell>
+                        <cell>Transkription, Erstellung der TEI-Dokumente, Erstellung der
+                            Webapplikation</cell>
+                        <cell>2022-2024</cell>
+                    </row>
+                    <row n="3">
+                        <cell>Mag. Dr. Peter Andorfer</cell>
+                        <cell>Volltextsuche, Deployment der Webapplikation</cell>
+                        <cell>2024</cell>
+                    </row>
+                    <row n="4">
+                        <cell>Sabine Kofler B.A., M.A.</cell>
+                        <cell>Lektorat Band 2 und 3</cell>
+                        <cell>2023</cell>
+                    </row>
+                    <row n="5">
+                        <cell>Mag. Daniel Schopper</cell>
+                        <cell>Beratung</cell>
+                        <cell>2022-2024</cell>
+                    </row>
+                    <row n="6">
+                        <cell>Dr. Stephan Kurz</cell>
+                        <cell>Beratung</cell>
+                        <cell>2022-2024</cell>
+                    </row>
+                </table>
             </div>
         </body>
     </text>
