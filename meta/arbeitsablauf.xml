@@ -49,7 +49,7 @@
                     drei ÖAW-Mitarbeitern Daniel Schopper, Stephan Kurz und Peter Andorfer, Lektorin
                     Sabine Kofler sowie Martin Kroißenbrunner, der die digitale Edition federführend
                     entwickelte. Die Kommunikation erfolgte neben E-Mail und Instant Messenger durch
-                    mehrere Treffen an der ÖAW Wien.</p>
+                    mehrere Treffen an der ÖAW in Wien.</p>
                 <p>Da die Erstellung digitaler Editionen einem ständigen Wandel unterliegt, der mit
                     häufigen Anpassungen der Arbeitsmittel einhergeht, werden immer wieder kleine
                     Änderungen vorgenommen, ohne dass diese anders als durch die Benutzung selbst
@@ -67,17 +67,17 @@
                     für den Export auf Transkribus bereit.</p>
                 <div type="3">
                     <head type="3">Bände 2 und 3</head>
-                    <p>Für die Transkription der Bände 2 und 3 wurde Transkribus eingesetzt.
+                    <p>Für die Transkription der Bände 2 und 3 wurde <ref target="https://transkribus.eu">Transkribus</ref> eingesetzt.
                         Transkribus ist eine in Innsbruck entwickelte Plattform zur automatischen
                         Texterkennung nicht nur von gedruckten Texten, wie in diesem Fall, sondern
                         auch von Handschriften. Nach dem Hochladen der Faksimiles wurde wie folgt
                         vorgegangen:</p>
                     <list type="ordered">
                         <item>Layout der Seiten erfassen: Ziel dieses Schrittes war es, einerseits
-                            die Grundlinien bzw. "baselines" der Zeilen und andererseits die
-                            Seitenelemente (Seitenzahlen, Überschriften, Absätze, ...) mittels "text
-                            regions" zu erfassen. Ersteres dient als Ausgangsbasis für die
-                            automatische Texterkennung, letzteres zur Strukturierung der
+                            die Grundlinien bzw. »baselines« der Zeilen und andererseits die
+                            Seitenelemente (Seitenzahlen, Überschriften, Absätze, …) mittels »text
+                            regions« zu erfassen. Ersteres dient als Ausgangsbasis für die
+                            automatische Texterkennung, Letzteres zur Strukturierung der
                             Transkription. Mehrere von Transkribus zur Verfügung gestellte
                             Layout-Analyse-Engines wurden getestet und die geeignetste eingesetzt.
                             Das Ergebnis wurde anschließend überprüft und gegebenenfalls
@@ -98,9 +98,8 @@
                             von Frau <ref target="https://sabine-kofler.com/">Sabine Kofler</ref>
                             korrigiert.</item>
                     </list>
-                    <p>Die Bände 1-3 wurden als PAGE XML Dateien exportiert. Dabei wurden pro
-                        Bandeinleitungen und dem Abschnitt der die Briefe beinhaltet, eigene Dateien
-                        generiert.</p>
+                    <p>Die Bände 1-3 wurden als PAGE XML-Dateien exportiert. Dabei wurden pro
+                        Band Dateien generiert für die Einleitung und jenen Abschnitt, der die Briefe beinhaltet.</p>
                 </div>
                 <div type="3">
                     <head type="3">Bände 4 und 5</head>
@@ -114,8 +113,8 @@
                     <list type="ordered">
                         <item>Layout der Seiten erfassen: siehe oben</item>
                         <item>Textbereiche annotieren: siehe oben</item>
-                        <item>Text einfügen: Im Desktop-Client besteht die Möglichkeit, Faksimiles
-                            auf Basis von Grundlinien mit bereits vorhandenen Transkriptionen zu
+                        <item>Text einfügen: Im Transkribus-Desktop-Client besteht die Möglichkeit, Faksimiles
+                            auf Basis von Grundlinien mit vorhandenen Transkriptionen zu
                             synchronisieren. Dazu muss für jedes Faksimile eine TXT-Datei zur
                             Verfügung stehen. Zu diesem Zweck wurde der Text aus den PDF-Dateien
                             extrahiert und mittels eines Python-Skripts pro Seite eine TXT-Datei
@@ -127,16 +126,16 @@
             </div>
             <div type="2">
                 <head type="2">Erstellung der TEI-Dokumente</head>
-                <p>Hauptbestandteile eines TEI-Dokuments sind das teiHeader- und das text-Element.
-                    Im folgenden wird darauf eingegangen wie beide Teile zustande kamen und wie sie
+                <p>Hauptbestandteile eines TEI-Dokuments sind das <gi>teiHeader</gi>- und das <gi>text</gi>-Element.
+                    Im Folgenden wird darauf eingegangen, wie beide Teile zustande kamen und wie sie
                     zusammengesetzt wurden.</p>
                 <div type="3">
-                    <head type="3">teiHeader</head>
-                    <p>Um den teiHeader zu erstellen bediente man sich Goobi und Python.</p>
+                    <head type="3"><gi>teiHeader</gi></head>
+                    <p>Um den <gi>teiHeader</gi> zu erstellen bediente man sich Goobi und Python.</p>
                     <div type="4">
                         <head type="4">Goobi</head>
                         <p><ref target="https://goobi.io/">Goobi</ref> ist eine Open Source
-                            Software-Suite, die speziell für die Digitalisierung und Verwaltung von
+                            Software-Suite, die für die Digitalisierung und Verwaltung von
                             Kulturgut entwickelt wurde. Nach dem Einlesen der Faksimiles wurde jeder
                             Brief als eigenes Strukturelement in der Webanwendung erfasst und mit
                             Normdaten zu den an der Korrespondenz beteiligten Personen und Orten
@@ -161,19 +160,19 @@
                             XML/TEI-Dokument pro Band, mit einem Root-Element, das für jeden Brief
                             ein <code>TEI</code>-Element enthielt. Jedes <code>TEI</code>-Element
                             beinhaltete einen nahezu vollständigen <code>teiHeader</code> (abgesehen
-                            vom Regest und der Archivsignatur die im Nachhinein hinzugefügt wurden)
+                            vom Regest und der Archivsignatur, die im Nachhinein hinzugefügt wurden)
                             sowie ein leeres <code>text</code>-Element.</p>
                     </div>
                 </div>
                 <div type="3">
-                    <head type="3">text</head>
+                    <head type="3"><gi>text</gi></head>
                     <p>Für die Erstellung des <code>text</code>-Elements wurde das XSLT-Stylesheet
                         "page2tei-0.xsl" und wiederum Python verwendet.</p>
                     <div type="4">
                         <head type="4">page2tei-0.xsl</head>
                         <p>Mithilfe des auf GitHub gehosteten XSLT-Stylesheets <ref
                                 target="https://github.com/dariok/page2tei/tree/parametrize">
-                                page2tei-0.xsl</ref> wurden die zehn PAGE XML-Dateien, die als
+                                page2tei-0.xsl</ref> von Dario Kampkaspar wurden die zehn PAGE XML-Dateien, die als
                             Export aus Transkribus vorlagen (pro Band je eine für die Einleitung und
                             eine für den Briefteil), in TEI/XML-Dateien transformiert. Dabei wurden
                             auf Grundlage der in Transkribus definierten Strukturtypbezeichnungen
@@ -181,16 +180,16 @@
                     </div>
                     <div type="4">
                         <head type="4">Python</head>
-                        <p>Die mit diesem Stylesheet konvertierten Dateien stellten jedoch noch
+                        <p>Die mit dem genannten Stylesheet konvertierten Dateien stellten jedoch noch
                             keine vollständig TEI-konformen Dokumente dar. Obwohl jeder Brief nun
                             als eigenständiges TEI-Dokument mit Elementen wie <code>head</code>,
                                 <code>p</code> und <code>note</code> vorliegt, sind weitere
                             Anpassungen erforderlich, um korrekte TEI-Dokumente zu erhalten. So muss
                             beispielsweise der Fußnotenapparat in ein In-Text-Zitationssystem
                             umgewandelt werden. Außerdem müssen durch Seitenumbrüche unterbrochene
-                            Paragraphen (dargestellt als <code>//p</code> für den ursprünglichen
-                            Paragraphen, <code>//pb</code> für den Seitenumbruch und
-                                <code>//ab[@type="paragraph-continued"]</code> für die Fortsetzung)
+                            Paragraphen (dargestellt als <code>p</code> für den ursprünglichen
+                            Paragraphen, <code>pb</code> für den Seitenumbruch und
+                                <code>ab[@type="paragraph-continued"]</code> für die Fortsetzung)
                             wieder zusammengesetzt und die bereits erstellten <code>teiHeader</code>
                             hinzugefügt werden.</p>
                         <p>Hierfür wurde Python verwendet. Nach dessen Ausführung erhielt man für
@@ -296,7 +295,7 @@
                                     vorhanden</cell>
                             </row>
                             <row>
-                                <cell>Verweis auf externen Regest</cell>
+                                <cell>Verweis auf externes Regest</cell>
                                 <cell>regest</cell>
                                 <cell>//ab[@type="regest"]</cell>
                                 <cell>//sourceDesc/bibl[@type="regest"]</cell>
@@ -308,23 +307,23 @@
                                 <cell>//note[@xml:id and @type="siglum"]</cell>
                             </row>
                         </table>
-                        <p>Nachdem teiHeader und text für jeden Brief vorhanden gewesen sind, wurden
+                        <p>Nachdem <gi>teiHeader</gi> und <gi>text</gi> für jeden Brief vorhanden gewesen sind, wurden
                             die beiden Teile mit einem weiteren Python-Skript zusammengefügt, womit
                             die Erstellung der TEI-Dokumente abgeschlossen war.</p>
                     </div>
                 </div>
             </div>
             <div type="2">
-                <head type="2">Static Site generieren mit Cookiecutter</head>
+                <head type="2">Static Site generieren mit DSE-Static-Cookiecutter</head>
                 <p>Nach der Erstellung der <ref
                         target="https://github.com/nuntiaturberichte/nbr-graz-data"
-                        >XML/TEI-Dateien</ref>, die den Inhalt dieser Website darstellen, wurden
+                        >XML/TEI-Dateien</ref>, die auf dieser Website darstellt werden, wurden
                         <ref
                         target="https://github.com/nuntiaturberichte/nbr-graz-static/tree/main/xslt"
-                        >XSLT-Dateien</ref> erzeugt, um mittels einer build.xml-Datei HTML-Seiten zu
+                        >XSLT-Dateien</ref> erzeugt, um mittels einer <code>ant</code> build.xml-Datei HTML-Seiten zu
                     generieren. Dieser Schritt basiert auf dem Static Site Generator <ref
                         target="https://github.com/acdh-oeaw/dse-static-cookiecutter"
-                        >Cookiecutter</ref>.</p>
+                        >DSE-Static-Cookiecutter</ref>.</p>
             </div>
 
         </body>
