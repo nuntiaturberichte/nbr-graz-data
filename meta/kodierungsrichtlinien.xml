@@ -47,8 +47,8 @@
             <div type="1">
                 <p>In den folgenden Abschnitten werden die wesentlichen Elemente und Attribute, die
                     in den TEI-Dateien verwendet werden, detailliert aufgeführt. Diese Aufstellung
-                    beinhaltet wichtige Informationen über etwaige Normalisierungen und spezielle,
-                    projektbezogene Anpassungen, die im Rahmen dieser Arbeit vorgenommen wurden.
+                    beinhaltet wichtige Informationen über etwaige Normalisierungen und
+                    projektbezogene Anpassungen.
                     Dabei wurde das Vorgehen und die Strukturierung der Elemente stark an der <ref
                         target="https://schnitzler-briefe.acdh.oeaw.ac.at/elemente.html"
                         >Schnitzler-Briefedition</ref> orientiert. Diese Dokumentation richtet sich
@@ -60,13 +60,13 @@
                     <head type="2">Allgemein</head>
                     <p>Die XML-Dateien, die <ref
                             target="https://github.com/nuntiaturberichte/nbr-graz-data">hier</ref>
-                        zu finden sind, folgen im Wesentlichen den offiziellen Richtlinien der <ref
+                        zu finden sind, folgen im Wesentlichen den Richtlinien der <ref
                             target="https://tei-c.org/guidelines/P5/">TEI P5</ref>. In den folgenden
                         Abschnitten werden lediglich jene Elemente hervorgehoben und erklärt, die
                         zusätzliche Erläuterungen erfordern.</p>
 
                     <p>Da es sich bei diesem Projekt um eine Retrodigitalisierung handelt, in der
-                        bereits editierte Briefwechsel aus gedruckten Publikationen ins Internet
+                        bereits edierte Briefwechsel aus gedruckten Publikationen ins Internet
                         überführt werden, wurde aus Gründen der Konsistenz beschlossen, die Quelle
                         als Buch und nicht als Sammlung einzelner Briefe zu behandeln. Dies erklärt,
                         warum typische Elemente für Briefe in den Dokumenten nicht verwendet
@@ -119,7 +119,7 @@
                                 Zeilenumbrüche verwendet wurden, um mehrere Signaturen voneinander
                                 zu trennen, kann das Element <code>lb</code> darin enthalten sein.
                                 Eine vollständige Liste aller verwendeten Archive ist in der
-                                Bandeinleitung des jeweiligen Briefes zu finden.</p>
+                                jeweiligen Bandeinleitung zum Brief zu finden.</p>
                         </div>
 
                         <div type="4">
@@ -159,9 +159,9 @@
                                 <item>erforderlich: nein</item>
                             </list>
                             <p><code>correspDesc</code> enthält eine standardisierte Beschreibung
-                                des Übermittlungsvorgangs eines Korrespondenzstücks, also wer der
-                                Absender und wer der Empfänger ist. Diese Struktur wird von der
-                                Online-Plattform <ref target="https://correspsearch.net"
+                                des Übermittlungsvorgangs eines Korrespondenzstücks (Absender, Empfänger,
+                                Orte, Daten). Diese von der TEI-SIG Correspondence entwickelte 
+                                Struktur wird u.a. von der Online-Plattform <ref target="https://correspsearch.net"
                                     >correspSearch.net</ref> genutzt, um Informationen zu
                                 Briefwechseln zu speichern und zugänglich zu machen.</p>
                         </div>
@@ -208,7 +208,7 @@
                                     /TEI/text/body/div//pb</item>
                                 <item>erforderlich: nein</item>
                             </list>
-                            <p>Dieses Element markiert den Beginn einer Seite und dient als Ziel für
+                            <p>Dieses Element markiert den Beginn einer Seite und dient als Sprungziel für
                                 Verlinkungen aus dem Register. Das Attribut <code>@xml:id</code>
                                 enthält die Band- und Seitennummer, die im Format
                                     <code>"P(\d)_(\d{7})"</code> angegeben wird. Beispiel:
@@ -252,7 +252,7 @@
                                     <code>@xml:id</code>, dessen Wert folgenden RegEx matcht:
                                     <code>SN(\d)_([\d\.]{5}|[\d]{4}A)_([a-z])</code>.
                                     <code>$1</code> bezieht sich auf die Band-, <code>$2</code> auf
-                                die Briefnummer und <code>$3</code> auf das Siglazeichen.</p>
+                                die Briefnummer und <code>$3</code> auf das Siglum.</p>
                             <p>Sigla können Spannen bilden. In solchen Fällen verweist ein
                                     <code>ref@target</code> auf das entsprechende
                                     <code>note@xml:id</code></p>
@@ -267,7 +267,7 @@
                                     |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/bibl[@type="beilage"]/note</item>
                                 <item>erforderlich: nein</item>
                             </list>
-                            <p>Wie bereits erwähnt beziet sich dieses Element auf die inhaltliche
+                            <p>Dieses Element bezieht sich auf die inhaltliche
                                 Ebene eines Briefes. Neben <code>@type</code> enthält dieses Element
                                 das Attribut <code>@xml:id</code>, dessen Wert folgenden RegEx
                                 matcht: <code>FN\d_([\d\.]{5}|[\d]{4}A)_\d{2}</code>.
